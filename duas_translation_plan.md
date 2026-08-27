@@ -92,10 +92,10 @@ For metadata, use this meaning:
 | `duas_004.json` | 103-136 | 34 | complete | translated; references kept English |
 | `duas_005.json` | 137-170 | 34 | complete | translated; references kept English; transliteration copied from EN |
 | `duas_006.json` | 171-204 | 34 | complete | translated; references kept English; transliteration copied from EN |
-| `duas_007.json` | 205-238 | 34 | pending |  |
-| `duas_008.json` | 239-272 | 34 | pending |  |
-| `duas_009.json` | 273-306 | 34 | pending |  |
-| `duas_010.json` | 307-340 | 34 | pending |  |
+| `duas_007.json` | 205-238 | 34 | complete | translated; references kept English |
+| `duas_008.json` | 239-272 | 34 | complete | translated; references kept English |
+| `duas_009.json` | 273-306 | 34 | complete | translated; references kept English; transliteration copied from EN |
+| `duas_010.json` | 307-340 | 34 | complete | translated; references kept English; transliteration copied from EN |
 | `duas_011.json` | 341-374 | 34 | pending |  |
 | `duas_012.json` | 375-408 | 34 | pending |  |
 | `duas_013.json` | 409-442 | 34 | pending |  |
@@ -166,6 +166,26 @@ For metadata, use this meaning:
 - Transliteration: copied from `dua_main_en.sqlite`
 - Verification: JSON valid, no Bengali in translated top-level fields, frozen fields unchanged, rebuild passed, SQLite integrity `ok`
 
+### Completed: `duas_009.json`
+
+- ID range: `273-306`
+- Rows: `34`
+- Completed on: `2026-08-27`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`; ID `304` normalized to ASCII English
+- Transliteration: copied from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, frozen fields unchanged, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_010.json`
+
+- ID range: `307-340`
+- Rows: `34`
+- Completed on: `2026-08-27`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`; ID `340` normalized to ASCII English
+- Transliteration: copied from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, frozen fields unchanged, rebuild passed, SQLite integrity `ok`
+
 ## Rebuild Command
 
 Run this after each completed chunk:
@@ -189,6 +209,24 @@ python3 rebuild_japanese_from_json.py
 ### Completed: `duas_004.json`
 
 - ID range: `103-136`
+- Rows: `34`
+- Completed on: `2026-08-27`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_007.json`
+
+- ID range: `205-238`
+- Rows: `34`
+- Completed on: `2026-08-27`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_008.json`
+
+- ID range: `239-272`
 - Rows: `34`
 - Completed on: `2026-08-27`
 - Translated fields: `name`, `content`, `translation`, `note`

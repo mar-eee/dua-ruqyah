@@ -593,6 +593,110 @@
       "id_range": "171-204",
       "updated_at": "2026-08-27",
       "note": "Translated top-level human-readable fields following README.md. Arabic and groups fields were kept unchanged. References are English."
+    },
+    "tables/duas/duas_009.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References kept English from dua_main_en.sqlite; ID 304 normalized to ASCII English.",
+      "transliteration_rule": "Top-level transliteration values were copied from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "273-306",
+      "updated_at": "2026-08-27",
+      "note": "Translated top-level human-readable fields following README.md. Arabic and groups fields were kept unchanged. References are English."
+    },
+    "tables/duas/duas_010.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References kept English from dua_main_en.sqlite; ID 340 normalized to ASCII English.",
+      "transliteration_rule": "Top-level transliteration values were copied from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "307-340",
+      "updated_at": "2026-08-27",
+      "note": "Translated top-level human-readable fields following README.md. Arabic and groups fields were kept unchanged. References are English."
+    },
+    "tables/duas/duas_007.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "205-238",
+      "updated_at": "2026-08-27",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB."
+    },
+    "tables/duas/duas_008.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "239-272",
+      "updated_at": "2026-08-27",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB. Exception: id 268 content and note exist only in the Bengali source and were translated from Bengali."
     }
   }
 }
