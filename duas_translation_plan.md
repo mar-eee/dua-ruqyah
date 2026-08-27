@@ -1,0 +1,122 @@
+# Japanese Dua Translation Work Plan
+
+## Overview
+
+- Main workspace: `dua_main_ja_planned_json`
+- Main dua folder: `dua_main_ja_planned_json/tables/duas`
+- Total dua rows: `1001`
+- Total dua chunks: `30`
+- Final rebuilt DB: `dua_main_ja_rebuilt.sqlite`
+
+## Current Translation Rule
+
+Follow `README.md`.
+
+The Japanese should be natural, clear, respectful, and easy to understand. It should feel human and polished, not machine-translated.
+
+Translate these top-level fields:
+
+- `name`
+- `content`
+- `translation`
+- `note`
+
+Keep these fields unchanged:
+
+- `id`
+- `groups`
+- `uthmani`
+- `indopak`
+- `clean`
+- `transliteration`
+- `audio`
+- `cat_id`
+- `subcat_id`
+
+Reference rule:
+
+- `reference` must stay English.
+- Do not translate `reference` into Japanese.
+- If a source reference is Bengali or another language, use the matching English DB reference when available.
+
+## Completed Non-Dua Tables
+
+| File | Rows | Status |
+|------|------|--------|
+| `tables/categories/categories_001.json` | 44 | complete |
+| `tables/subcategories/subcategories_001.json` | 118 | complete |
+
+## Dua Chunk Status
+
+| Chunk | ID Range | Rows | Status | Notes |
+|------|----------|------|--------|-------|
+| `duas_001.json` | 1-34 | 34 | pending | not checked in current plan |
+| `duas_002.json` | 35-68 | 34 | complete | translated; references kept English |
+| `duas_003.json` | 69-102 | 34 | complete | translated; references kept English |
+| `duas_004.json` | 103-136 | 34 | pending |  |
+| `duas_005.json` | 137-170 | 34 | pending |  |
+| `duas_006.json` | 171-204 | 34 | pending |  |
+| `duas_007.json` | 205-238 | 34 | pending |  |
+| `duas_008.json` | 239-272 | 34 | pending |  |
+| `duas_009.json` | 273-306 | 34 | pending |  |
+| `duas_010.json` | 307-340 | 34 | pending |  |
+| `duas_011.json` | 341-374 | 34 | pending |  |
+| `duas_012.json` | 375-408 | 34 | pending |  |
+| `duas_013.json` | 409-442 | 34 | pending |  |
+| `duas_014.json` | 443-476 | 34 | pending |  |
+| `duas_015.json` | 477-510 | 34 | pending |  |
+| `duas_016.json` | 511-544 | 34 | pending |  |
+| `duas_017.json` | 545-578 | 34 | pending |  |
+| `duas_018.json` | 579-612 | 34 | pending |  |
+| `duas_019.json` | 613-646 | 34 | pending |  |
+| `duas_020.json` | 647-680 | 34 | pending |  |
+| `duas_021.json` | 681-714 | 34 | pending |  |
+| `duas_022.json` | 715-748 | 34 | pending |  |
+| `duas_023.json` | 749-782 | 34 | pending |  |
+| `duas_024.json` | 783-816 | 34 | pending |  |
+| `duas_025.json` | 817-850 | 34 | pending |  |
+| `duas_026.json` | 851-884 | 34 | pending |  |
+| `duas_027.json` | 885-918 | 34 | pending |  |
+| `duas_028.json` | 919-952 | 34 | pending |  |
+| `duas_029.json` | 953-986 | 34 | pending |  |
+| `duas_030.json` | 987-1001 | 15 | pending |  |
+
+## Work Status Details
+
+### Completed: `duas_002.json`
+
+- ID range: `35-68`
+- Rows: `34`
+- Completed on: `2026-08-27`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_003.json`
+
+- ID range: `69-102`
+- Rows: `34`
+- Completed on: `2026-08-27`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English; ID `83` manually normalized to `Abu Dawud 4/322, no. 5084`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+## Rebuild Command
+
+Run this after each completed chunk:
+
+```bash
+cd /Users/mdabdurrahman/Desktop/Database/Dua/dua_main_ja_planned_json
+python3 rebuild_japanese_from_json.py
+```
+
+## Final Verification Checklist
+
+- JSON file is valid.
+- No Bengali remains in translated top-level fields.
+- `reference` is English.
+- Arabic fields are unchanged.
+- `groups` is unchanged.
+- IDs and category links are unchanged.
+- Rebuild script runs without error.
+- SQLite integrity check returns `ok`.
