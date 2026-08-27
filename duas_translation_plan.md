@@ -96,8 +96,8 @@ For metadata, use this meaning:
 | `duas_008.json` | 239-272 | 34 | complete | translated; references kept English |
 | `duas_009.json` | 273-306 | 34 | complete | translated; references kept English; transliteration copied from EN |
 | `duas_010.json` | 307-340 | 34 | complete | translated; references kept English; transliteration copied from EN |
-| `duas_011.json` | 341-374 | 34 | pending |  |
-| `duas_012.json` | 375-408 | 34 | pending |  |
+| `duas_011.json` | 341-374 | 34 | complete | translated; references kept English; transliteration copied from EN |
+| `duas_012.json` | 375-408 | 34 | complete | translated; references kept English; transliteration copied from EN |
 | `duas_013.json` | 409-442 | 34 | pending |  |
 | `duas_014.json` | 443-476 | 34 | pending |  |
 | `duas_015.json` | 477-510 | 34 | pending |  |
@@ -185,6 +185,26 @@ For metadata, use this meaning:
 - References: kept in English from `dua_main_en.sqlite`; ID `340` normalized to ASCII English
 - Transliteration: copied from `dua_main_en.sqlite`
 - Verification: JSON valid, no Bengali in translated top-level fields, frozen fields unchanged, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_011.json`
+
+- ID range: `341-374`
+- Rows: `34`
+- Completed on: `2026-08-27`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: copied exactly from `dua_main_en.sqlite` and kept in English
+- Transliteration: copied from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, references/transliteration matched English DB, frozen fields unchanged
+
+### Completed: `duas_012.json`
+
+- ID range: `375-408`
+- Rows: `34`
+- Completed on: `2026-08-27`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: copied exactly from `dua_main_en.sqlite` and kept in English
+- Transliteration: copied from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, references/transliteration matched English DB, frozen fields unchanged
 
 ## Rebuild Command
 
