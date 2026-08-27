@@ -1,308 +1,308 @@
 [
   {
     "id": 1,
-    "name": "দোয়ার গুরুত্ব",
+    "name": "ドゥアーの大切さ",
     "icon": "duar_gurutto",
     "dua_count": 21,
     "subcat_count": 7
   },
   {
     "id": 2,
-    "name": "যিকিরের ফযীলত",
+    "name": "ズィクルの徳",
     "icon": "zikirer_fozilot",
     "dua_count": 13,
     "subcat_count": 1
   },
   {
     "id": 3,
-    "name": "দোয়া কবুলের সময়",
+    "name": "ドゥアーが受け入れられやすい時",
     "icon": "dua_kobuler_somoy",
     "dua_count": 29,
     "subcat_count": 1
   },
   {
     "id": 4,
-    "name": "দোয়া কবুল হওয়া",
+    "name": "ドゥアーが受け入れられる人",
     "icon": "jader_dua_kobul_hoy",
     "dua_count": 14,
     "subcat_count": 1
   },
   {
     "id": 5,
-    "name": "সকাল-সন্ধ্যার যিক্‌র",
+    "name": "朝夕のズィクル",
     "icon": "sokal_sondha",
     "dua_count": 45,
     "subcat_count": 3
   },
   {
     "id": 6,
-    "name": "ঘুম",
+    "name": "眠り",
     "icon": "ghum",
     "dua_count": 31,
     "subcat_count": 2
   },
   {
     "id": 7,
-    "name": "কাপড় পরিধান",
+    "name": "衣服を着るとき",
     "icon": "poshak",
     "dua_count": 8,
     "subcat_count": 1
   },
   {
     "id": 8,
-    "name": "ঘর-বাড়ি",
+    "name": "家と暮らし",
     "icon": "bari",
     "dua_count": 6,
     "subcat_count": 2
   },
   {
     "id": 9,
-    "name": "টয়লেট",
+    "name": "トイレ",
     "icon": "toilet",
     "dua_count": 2,
     "subcat_count": 1
   },
   {
     "id": 10,
-    "name": "আযান ও ইকামত",
+    "name": "アザーンとイカーマ",
     "icon": "azan_ikamot",
     "dua_count": 7,
     "subcat_count": 4
   },
   {
     "id": 11,
-    "name": "ওযূ ও গোসল",
+    "name": "ウドゥーとグスル",
     "icon": "oju",
     "dua_count": 4,
     "subcat_count": 2
   },
   {
     "id": 12,
-    "name": "মসজিদ",
+    "name": "モスク",
     "icon": "masjid",
     "dua_count": 13,
     "subcat_count": 5
   },
   {
     "id": 13,
-    "name": "সালাত",
+    "name": "礼拝",
     "icon": "salat",
     "dua_count": 96,
     "subcat_count": 17
   },
   {
     "id": 14,
-    "name": "বিতর ও অন্যান্য সালাত",
+    "name": "ウィトルとその他の礼拝",
     "icon": "bitorer_namaz",
     "dua_count": 14,
     "subcat_count": 6
   },
   {
     "id": 15,
-    "name": "মৃত / কবর / জানাযা",
+    "name": "死者・墓・葬儀礼拝",
     "icon": "mrito_janaja",
     "dua_count": 25,
     "subcat_count": 5
   },
   {
     "id": 16,
-    "name": "সিয়াম ও ইফতার",
+    "name": "断食とイフタール",
     "icon": "siam_iftar",
     "dua_count": 8,
     "subcat_count": 1
   },
   {
     "id": 17,
-    "name": "সফর",
+    "name": "旅",
     "icon": "sofor",
     "dua_count": 19,
     "subcat_count": 1
   },
   {
     "id": 18,
-    "name": "হজ্জ ও উমরা",
+    "name": "ハッジとウムラ",
     "icon": "hajj_omra",
     "dua_count": 22,
     "subcat_count": 1
   },
   {
     "id": 19,
-    "name": "কুরবানী",
+    "name": "犠牲祭の供犠",
     "icon": "korbani",
     "dua_count": 5,
     "subcat_count": 1
   },
   {
     "id": 20,
-    "name": "শয়তান থেকে আশ্রয়",
+    "name": "シャイターンからの守り",
     "icon": "shoytaner_onisto",
     "dua_count": 26,
     "subcat_count": 6
   },
   {
     "id": 21,
-    "name": "তাওবা-ইসতিগফার",
+    "name": "悔い改めと赦しの願い",
     "icon": "towba_istegfar",
     "dua_count": 46,
     "subcat_count": 4
   },
   {
     "id": 22,
-    "name": "বিবাহ",
+    "name": "結婚",
     "icon": "bibaho",
     "dua_count": 8,
     "subcat_count": 3
   },
   {
     "id": 23,
-    "name": "পারিবারিক দোয়া",
+    "name": "家族のためのドゥアー",
     "icon": "paribarik_dua",
     "dua_count": 15,
     "subcat_count": 1
   },
   {
     "id": 24,
-    "name": "ঋণ",
+    "name": "借金",
     "icon": "rin",
     "dua_count": 11,
     "subcat_count": 1
   },
   {
     "id": 25,
-    "name": "দুশ্চিন্তা ও পেরেশানি",
+    "name": "不安と悩み",
     "icon": "duschinta",
     "dua_count": 11,
     "subcat_count": 1
   },
   {
     "id": 26,
-    "name": "শক্রতা / বিপদাপদ / জুলুম",
+    "name": "敵意・災難・不正",
     "icon": "shotruta_julum",
     "dua_count": 27,
     "subcat_count": 4
   },
   {
     "id": 27,
-    "name": "নিন্দা / কল্যাণ কামনা",
+    "name": "非難と善意の祈り",
     "icon": "ninda_kollan_kamonay",
     "dua_count": 11,
     "subcat_count": 2
   },
   {
     "id": 28,
-    "name": "আদব-শিষ্টাচার",
+    "name": "礼儀と作法",
     "icon": "adob_akhlak",
     "dua_count": 32,
     "subcat_count": 7
   },
   {
     "id": 29,
-    "name": "বৈঠকে বসলে",
+    "name": "集まりの場で",
     "icon": "boithoke_bosle",
     "dua_count": 5,
     "subcat_count": 1
   },
   {
     "id": 30,
-    "name": "খাদ্য / মেহমানদারি",
+    "name": "食事ともてなし",
     "icon": "khaddo_panio",
     "dua_count": 15,
     "subcat_count": 6
   },
   {
     "id": 31,
-    "name": "পশু-পাখি",
+    "name": "動物と鳥",
     "icon": "poshu_pakhi",
     "dua_count": 6,
     "subcat_count": 1
   },
   {
     "id": 32,
-    "name": "ঝড় / বৃষ্টি / প্রকৃতি",
+    "name": "嵐・雨・自然",
     "icon": "jhor_bristi",
     "dua_count": 21,
     "subcat_count": 1
   },
   {
     "id": 33,
-    "name": "অসুস্থতা ও চিকিৎসা",
+    "name": "病気と治療",
     "icon": "osusthota",
     "dua_count": 35,
     "subcat_count": 3
   },
   {
     "id": 34,
-    "name": "জ্বিন / জাদু ও রোগ",
+    "name": "ジン・魔術・病",
     "icon": "jin_jadu",
     "dua_count": 35,
     "subcat_count": 2
   },
   {
     "id": 35,
-    "name": "কুরআনের দোয়া সমূহ",
+    "name": "クルアーンのドゥアー",
     "icon": "quraner_dua",
     "dua_count": 84,
     "subcat_count": 4
   },
   {
     "id": 36,
-    "name": "আল্লাহ্‌র ইসমে আযম",
+    "name": "アッラーの偉大な御名",
     "icon": "isme_ajom",
     "dua_count": 7,
     "subcat_count": 1
   },
   {
     "id": 37,
-    "name": "নবী-রাসূলগণের দোয়া",
+    "name": "預言者たちのドゥアー",
     "icon": "nobi_rasuler_dua",
     "dua_count": 11,
     "subcat_count": 1
   },
   {
     "id": 38,
-    "name": "হাদীসের দোয়া",
+    "name": "ハディースのドゥアー",
     "icon": "hadiser_dua",
     "dua_count": 90,
     "subcat_count": 1
   },
   {
     "id": 39,
-    "name": "রাসূল (ﷺ) ও সাহাবীগণ",
+    "name": "使徒（ﷺ）と教友たち",
     "icon": "sahabider_dua",
     "dua_count": 18,
     "subcat_count": 1
   },
   {
     "id": 40,
-    "name": "বরকতময় মাসনূন দোয়া",
+    "name": "祝福あるスンナのドゥアー",
     "icon": "borkotmoy_masnun_dua",
     "dua_count": 15,
     "subcat_count": 1
   },
   {
     "id": 41,
-    "name": "বিবিধ দোয়া",
+    "name": "さまざまなドゥアー",
     "icon": "bibidho",
     "dua_count": 24,
     "subcat_count": 1
   },
   {
     "id": 42,
-    "name": "কখন কি বলা সুন্নাহ",
+    "name": "その時々に言うスンナの言葉",
     "icon": "kokhon_ki_bolte_hoy",
     "dua_count": 22,
     "subcat_count": 1
   },
   {
     "id": 43,
-    "name": "ঈদ",
+    "name": "イード",
     "icon": "dua_kobuler_somoy",
     "dua_count": 4,
     "subcat_count": 1
   },
   {
     "id": 44,
-    "name": "৪০ রাব্বানা দোয়া",
+    "name": "40の「ラッバナー」ドゥアー",
     "icon": "rabbana",
     "dua_count": 40,
     "subcat_count": 1

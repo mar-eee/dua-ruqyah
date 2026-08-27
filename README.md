@@ -44,7 +44,27 @@ Usually you should translate fields like:
 - `description`
 - `topic_name`
 - `text`
-- `reference` only when it is normal readable text. Do not change book names, hadith numbers, URLs, or source codes.
+
+Do not translate the `reference` field.
+
+## Reference Rule
+
+All `reference` values must stay in English for every language.
+
+Do not translate references into Japanese, Indonesian, or any other language.
+
+If a reference already exists in English, keep it exactly as it is. If the source reference is not English, use the matching English reference from the English database.
+
+Keep these unchanged:
+
+- book names
+- hadith collection names
+- surah names
+- hadith numbers
+- ayah numbers
+- volume/page numbers
+- URLs
+- source codes
 
 ## Keep HTML and Code Safe
 

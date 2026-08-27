@@ -436,5 +436,33 @@
     "ruqyah_videos",
     "drawer_items",
     "drawer_item_actions"
-  ]
+  ],
+  "work_status": {
+    "tables/duas/duas_002.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "35-68",
+      "updated_at": "2026-08-27",
+      "note": "Translated top-level human-readable fields following README.md. Arabic and transliteration fields were kept unchanged. References are English."
+    }
+  }
 }
