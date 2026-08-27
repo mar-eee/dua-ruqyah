@@ -39,6 +39,42 @@ Reference rule:
 - Do not translate `reference` into Japanese.
 - If a source reference is Bengali or another language, use the matching English DB reference when available.
 
+## Status Fill-Up Instruction
+
+Every time a file is translated, update this plan before finishing the task.
+
+Do these four things every time:
+
+1. Change that file's row in **Dua Chunk Status** from `pending` to `complete`.
+2. Add a short note in the row, for example: `translated; references kept English`.
+3. Add a detail block under **Work Status Details**.
+4. Also update `dua_main_ja_planned_json/_database_metadata.json` under `work_status`.
+
+Use this detail format every time:
+
+```md
+### Completed: `duas_XXX.json`
+
+- ID range: `START-END`
+- Rows: `COUNT`
+- Completed on: `YYYY-MM-DD`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+```
+
+For metadata, use this meaning:
+
+- `language`: `Japanese`
+- `status`: `translated`
+- `translated_fields`: `name`, `content`, `translation`, `note`
+- `reference_rule`: references are English and not translated
+- `unchanged_fields_by_instruction`: IDs, Arabic fields, `groups`, `transliteration`, audio, and category links
+- `rows`: number of rows in the JSON file
+- `id_range`: first ID to last ID
+- `updated_at`: completion date
+- `note`: short human note about what was done
+
 ## Completed Non-Dua Tables
 
 | File | Rows | Status |

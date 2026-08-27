@@ -1,279 +1,174 @@
 # Dua Ruqyah Translation Guide
 
-This repository keeps the dua and ruqyah databases in small JSON files so they can be translated safely. After translation, the included Python rebuild script can create a complete SQLite database again.
+Databases are split into small JSON files so they can be translated safely, then rebuilt into SQLite.
 
-The goal is not only to translate words. The goal is to make the text feel natural, respectful, clear, and easy to read for real people.
+Translate meaning, not words. The result must read as if a careful person prepared it for worship and daily use.
+
+## Source of Truth
+
+**Translate from the English database, not from the Bengali text in the JSON files.**
+
+`dua_main_en.sqlite` holds the same rows, matched by `id`. English → target is far more reliable than Bengali → target. Use the Bengali only to resolve ambiguity.
+
+Two fields are **copied verbatim** from the English DB, never written by hand:
+
+- `transliteration`
+- `reference`
+
+```python
+import sqlite3
+en = dict(sqlite3.connect("dua_main_en.sqlite").execute(
+    "SELECT id, transliteration FROM duas"))
+```
+
+If the English DB has no row for an `id`, translate from the Bengali and say so in the plan file.
 
 ## Folders
 
-- `dua_main_ja_planned_json` is for Japanese translation.
-- `dua_main_id_planned_json` is for Indonesian translation.
-- Each table is split into small JSON files inside `tables/`.
-- Do not delete `_database_metadata.json`.
-- Do not delete or rename the rebuild Python file.
+| Path | Purpose |
+|---|---|
+| `dua_main_ja_planned_json/` | Japanese workspace |
+| `dua_main_id_planned_json/` | Indonesian workspace |
+| `<workspace>/tables/<table>/*.json` | the chunk files you edit |
+| `<workspace>/_database_metadata.json` | schema — never delete or edit |
+| `<workspace>/rebuild_*_from_json.py` | rebuild script — never delete or rename |
+| `duas_translation_plan.md` | progress log — update after every batch |
 
-## Main Rule
+## Fields
 
-Translate only human-readable text. Keep database structure exactly the same.
+| Never change | Translate | Copy from English DB |
+|---|---|---|
+| `id`, `cat_id`, `subcat_id`, `topic_id`, `book_id`, `section_id` | `name`, `title`, `content` | `transliteration` |
+| `audio`, `link`, `link_id`, `groups` | `translation`, `note`, `description` | `reference` |
+| `uthmani`, `indopak`, `clean` (Arabic) | `topic_name`, `text`, `hero_title1`, `hero_title2` | |
+| JSON keys, file names, folder names | | |
 
-Do not change:
+Rules that apply everywhere:
 
-- `id`
-- `cat_id`
-- `subcat_id`
-- `topic_id`
-- `book_id`
-- `section_id`
-- `audio`
-- `link`
-- `link_id`
-- `groups`
-- JSON keys
-- file names
-- folder names
+- `null` stays `null`. Never turn it into `""` or a translated string.
+- Never add or remove a row. Row count must not change.
+- Never add religious explanation that is not in the source.
+- Keep HTML structure. Translate only the words between tags: `<p>Text</p>` → `<p>訳文</p>`.
+- Leave URLs, audio numbers, and hadith numbers untouched.
 
-Usually you should translate fields like:
+## Reference Format
 
-- `name`
-- `title`
-- `hero_title1`
-- `hero_title2`
-- `content`
-- `translation`
-- `note`
-- `description`
-- `topic_name`
-- `text`
-
-Do not translate the `reference` field.
-
-## Reference Rule
-
-All `reference` values must stay in English for every language.
-
-Do not translate references into Japanese, Indonesian, or any other language.
-
-If a reference already exists in English, keep it exactly as it is. If the source reference is not English, use the matching English reference from the English database.
-
-Keep these unchanged:
-
-- book names
-- hadith collection names
-- surah names
-- hadith numbers
-- ayah numbers
-- volume/page numbers
-- URLs
-- source codes
-
-## Keep HTML and Code Safe
-
-Some text may contain HTML, special tags, line breaks, or code-like marks.
-
-Keep the same structure.
-
-Example:
-
-```html
-<p>Original text</p>
-<br>
-<strong>Important</strong>
-```
-
-Translate only the readable words:
-
-```html
-<p>Translated text</p>
-<br>
-<strong>Important translated text</strong>
-```
-
-Do not remove or change:
-
-- HTML tags such as `<p>`, `<br>`, `<b>`, `<strong>`, `<i>`
-- Arabic text
-- Quran or hadith reference numbers
-- URLs
-- audio numbers
-- punctuation used by the app
-- JSON commas, quotes, brackets, or braces
-
-If a value is `null`, keep it as `null`.
-
-## Japanese Translation Standard
-
-Use natural Japanese that feels calm, polished, and human.
-
-The Japanese should be:
-
-- easy to understand
-- respectful
-- warm but not casual
-- literary when suitable, but not difficult
-- simple enough for ordinary readers
-- smooth when read aloud
-
-Avoid:
-
-- stiff machine translation
-- too many Chinese-style compound words
-- overly formal legal-style Japanese
-- childish wording
-- rough slang
-- adding extra religious explanation that is not in the source
-
-Preferred feeling:
+Copy the English DB value, then fix only spacing and language — never the numbers.
 
 ```text
-アッラーに助けを求め、心を落ち着けて祈ります。
+Surah Al-Fatir 35:15          Quran: Surah Name chapter:verse
+Bukhari: 844                  Hadith: Collection: Number
+Sahih (Albani). Abu Dawud: 1522    grading first, then a period
+Bukhari: 6403; Muslim: 2693        multiple sources, semicolon
+[1] Muslim: 2137                   footnotes, ASCII brackets, own line
 ```
 
-Avoid machine-like wording:
+- One space after the colon, none before. Drop `No`: write `Bukhari: 6403`.
+- ASCII digits only — no Bengali, Arabic-Indic, or full-width numerals.
+- Inline citations inside translated prose use the same English form.
+
+## Japanese Standard
+
+Calm, respectful, warm but not casual. Literary where it fits, never difficult. Smooth when read aloud.
 
 ```text
-アッラーへ援助を要求し、精神を安定化して祈願します。
+✅ アッラーに助けを求め、心を落ち着けて祈ります。
+❌ アッラーへ援助を要求し、精神を安定化して祈願します。
 ```
 
-For dua translation, keep the meaning humble and devotional. Use words like:
+Avoid stiff machine translation, heavy kanji compounds, legal-style phrasing, childish wording, and slang.
 
-- お祈り
-- 願い
-- 慈しみ
-- お守りください
-- お許しください
-- 導いてください
+Devotional register: お祈り・願い・慈しみ・お守りください・お許しください・導いてください
+Proper nouns in katakana: アッラー・ムハンマド・クルアーン
+For ruqyah, stay clear and reassuring — never dramatic or frightening.
 
-For ruqyah content, keep the tone clear and reassuring. Do not make it dramatic or frightening.
+## Indonesian Standard
 
-## Indonesian Translation Standard
-
-Use natural Indonesian that feels sincere, clear, and pleasant to read.
-
-The Indonesian should be:
-
-- easy for general readers
-- respectful and Islamic in tone
-- warm but not overly casual
-- informative without sounding heavy
-- smooth, like a human editor wrote it
-
-Avoid:
-
-- stiff machine translation
-- unnecessary Arabic loanwords when common Indonesian is clearer
-- slang
-- overly long sentences
-- adding explanation that is not in the source
-
-Preferred feeling:
+Sincere, clear, pleasant. Respectful and Islamic in tone, warm but not casual.
 
 ```text
-Mintalah pertolongan kepada Allah dengan hati yang tenang dan penuh harap.
+✅ Mintalah pertolongan kepada Allah dengan hati yang tenang dan penuh harap.
+❌ Lakukan permintaan bantuan kepada Allah dengan kondisi hati yang distabilkan.
 ```
 
-Avoid machine-like wording:
+Avoid stiff machine translation, slang, very long sentences, and Arabic loanwords where plain Indonesian is clearer.
 
-```text
-Lakukan permintaan bantuan kepada Allah dengan kondisi hati yang distabilkan.
-```
-
-For dua translation, keep the language humble and devotional. Use words like:
-
-- doa
-- rahmat
-- ampunan
-- lindungilah
-- bimbinglah
-- karuniakanlah
-
-For ruqyah content, keep the tone calm, clear, and helpful.
-
-## Arabic Text
-
-Do not translate Arabic Quran, hadith, or dua text unless the field is clearly a translation field.
-
-Keep Arabic text exactly as it is in fields like:
-
-- `content`
-- `uthmani`
-- `indopak`
-- `clean`
-
-Only translate the explanation or translation fields.
-
-## Transliteration
-
-Do not rewrite transliteration unless there is a clear mistake.
-
-If transliteration exists, keep the same style. Do not mix different systems inside the same file.
+Devotional register: doa, rahmat, ampunan, lindungilah, bimbinglah, karuniakanlah
+For ruqyah, stay calm, clear, and helpful.
 
 ## Consistency
 
-Use the same translation for repeated terms.
+One term, one translation — across the whole language, not just one file. Allah, dua, ruqyah, and category names must match their related subcategory names. Before finishing a file, check that no term drifted.
 
-Examples:
+## Workflow
 
-- Allah should stay consistent.
-- Dua should be translated consistently in each language.
-- Ruqyah should stay consistent.
-- Category names should match related subcategory names.
+Work one chunk file at a time.
 
-Before finishing a file, quickly check that the same term is not translated in many different ways without reason.
+1. Back up the file.
+2. Load the matching English rows by `id`.
+3. Translate the text fields; copy `transliteration` and `reference` verbatim.
+4. Write the file back: UTF-8, 2-space indent, same key order, trailing newline.
+5. Run the checks below.
+6. Mark the batch done in `duas_translation_plan.md`.
 
-## JSON Editing Rules
+## Progress Update Rule
 
-Every JSON file must remain valid JSON.
+Every completed translation must update the work status before the task is considered finished.
 
-Important:
+For dua chunks, update both places:
 
-- keep double quotes around text
-- use `\\n` for line breaks inside one JSON string if needed
-- do not leave trailing commas
-- do not remove commas between fields
-- do not change the order of keys unless necessary
-- keep the file encoded as UTF-8
+- `duas_translation_plan.md`
+- `dua_main_ja_planned_json/_database_metadata.json`
 
-After editing, validate by rebuilding the database.
+The plan file must show:
 
-## Rebuild Japanese SQLite
+- the chunk changed from `pending` to `complete`
+- ID range
+- row count
+- completed date
+- translated fields
+- reference status: English, not translated
+- verification result
 
-From the project folder:
+The metadata file must add or update `work_status` for that exact JSON path.
 
-```bash
-cd dua_main_ja_planned_json
-python3 rebuild_japanese_from_json.py
-```
+## Verify
 
-This creates:
-
-```text
-dua_main_ja_rebuilt.sqlite
-```
-
-## Rebuild Indonesian SQLite
-
-From the project folder:
+Structure check — run against your backup before rebuilding:
 
 ```bash
-cd dua_main_id_planned_json
-python3 rebuild_indonesian_from_json.py
+python3 - <<'PY'
+import json, sys
+old = json.load(open("BACKUP.json")); new = json.load(open("EDITED.json"))
+FROZEN = ["id","groups","uthmani","indopak","clean","audio","cat_id","subcat_id"]
+assert len(old) == len(new), "row count changed"
+for a, b in zip(old, new):
+    assert list(a) == list(b), f"keys changed at id {a['id']}"
+    for f in FROZEN:
+        assert a[f] == b[f], f"{f} changed at id {a['id']}"
+    for f in a:
+        assert (a[f] is None) == (b[f] is None), f"{f} nullness changed at id {a['id']}"
+bad = [r["id"] for r in new if r["reference"] and not r["reference"].isascii()]
+assert not bad, f"non-English reference at {bad}"
+print("structure ok")
+PY
 ```
 
-This creates:
+Then rebuild:
 
-```text
-dua_main_id_rebuilt.sqlite
+```bash
+cd dua_main_ja_planned_json && python3 rebuild_japanese_from_json.py
 ```
 
-## Final Check
+```bash
+cd dua_main_id_planned_json && python3 rebuild_indonesian_from_json.py
+```
 
-A translation is ready only when:
+The rebuild runs `PRAGMA integrity_check` and fails loudly if the JSON is broken. It writes `dua_main_ja_rebuilt.sqlite` / `dua_main_id_rebuilt.sqlite`.
 
-- the JSON files still open correctly
-- the rebuild script runs without error
-- the SQLite integrity check passes
-- Arabic text is not damaged
-- IDs and table links are unchanged
-- the final language sounds human, natural, and respectful
+## Done When
 
-Good translation should feel like a careful person prepared it for worship, reading, and daily use.
+- structure check passes, rebuild succeeds, integrity check says `ok`
+- Arabic intact, IDs and links unchanged, row count unchanged
+- every `reference` is ASCII English in the format above
+- the text sounds human, natural, and respectful when read aloud
