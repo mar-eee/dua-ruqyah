@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "book_id": 1,
+    "name": "Introduction"
+  },
+  {
+    "id": 2,
+    "book_id": 1,
+    "name": "Supplication"
+  },
+  {
+    "id": 3,
+    "book_id": 1,
+    "name": "The Meanings Of The Word Du'a"
+  },
+  {
+    "id": 4,
+    "book_id": 1,
+    "name": "Supplication And Fate"
+  },
+  {
+    "id": 5,
+    "book_id": 1,
+    "name": "How To Supplicate"
+  },
+  {
+    "id": 6,
+    "book_id": 1,
+    "name": "Conditions Of Supplication"
+  },
+  {
+    "id": 7,
+    "book_id": 1,
+    "name": "Manners Of Du'a"
+  },
+  {
+    "id": 8,
+    "book_id": 1,
+    "name": "Optimum Times For Du'a"
+  },
+  {
+    "id": 9,
+    "book_id": 1,
+    "name": "Recommended Supplications In Various Situations"
+  },
+  {
+    "id": 1,
+    "book_id": 2,
+    "name": "Introduction"
+  },
+  {
+    "id": 2,
+    "book_id": 2,
+    "name": "By Blowing into your Cupped Hands and Reciting"
+  },
+  {
+    "id": 3,
+    "book_id": 2,
+    "name": "Spitting or Blowing on the Place where you Feel the pain"
+  },
+  {
+    "id": 4,
+    "book_id": 2,
+    "name": "Recite Qur'an over some Water and Blow into it, then Drink it and Bathe from it"
+  },
+  {
+    "id": 5,
+    "book_id": 2,
+    "name": "Recite over some Olive Oil, Blow on it—then Rub or Massage it onto your Skin"
+  },
+  {
+    "id": 6,
+    "book_id": 2,
+    "name": "Place a Hand on the Place of Pain and make Du'a"
+  },
+  {
+    "id": 7,
+    "book_id": 2,
+    "name": "Supplicating whilst Performing Ruqyah on Yourself"
+  },
+  {
+    "id": 8,
+    "book_id": 2,
+    "name": "Mixing some Earth with Saliva and Wipe the Afflicted"
+  },
+  {
+    "id": 9,
+    "book_id": 2,
+    "name": "It is Permissible to Blow when making Ruqyah Before Reciting, whilst Reciting or after Reciting"
+  },
+  {
+    "id": 10,
+    "book_id": 2,
+    "name": "Ruqyah can be done Without Spitting or Blowing"
+  },
+  {
+    "id": 11,
+    "book_id": 2,
+    "name": "Giving in Sadaqah, and Helping the Needy and Poor Muslims"
+  },
+  {
+    "id": 12,
+    "book_id": 2,
+    "name": "Prophetic and Natural Remedies"
+  }
+]

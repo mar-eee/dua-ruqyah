@@ -1,0 +1,440 @@
+{
+  "base_schema": "dua_main_bn.sqlite",
+  "source_databases": {
+    "BN": "dua_main_bn.sqlite",
+    "EN": "dua_main_en.sqlite"
+  },
+  "schema_objects": [
+    {
+      "type": "table",
+      "name": "book_details",
+      "tbl_name": "book_details",
+      "sql": "CREATE TABLE book_details (\n            id INTEGER NOT NULL,\n            book_id INTEGER NOT NULL,\n            section_id INTEGER NOT NULL,\n            topic_id INTEGER,\n            topic_name VARCHAR(255),\n            description TEXT,\n            PRIMARY KEY (id, book_id, section_id)\n        )"
+    },
+    {
+      "type": "table",
+      "name": "books",
+      "tbl_name": "books",
+      "sql": "CREATE TABLE books (\n            id INTEGER PRIMARY KEY,\n            name VARCHAR(255) NOT NULL,\n            writer VARCHAR(255),\n            translator VARCHAR(255),\n            editor VARCHAR(255)\n        )"
+    },
+    {
+      "type": "table",
+      "name": "categories",
+      "tbl_name": "categories",
+      "sql": "CREATE TABLE \"categories\" (\n    id INTEGER PRIMARY KEY,\n    name VARCHAR(255) NOT NULL,\n    icon VARCHAR(255)\n, dua_count INTEGER DEFAULT 0, subcat_count INTEGER DEFAULT 0)"
+    },
+    {
+      "type": "table",
+      "name": "drawer_item_actions",
+      "tbl_name": "drawer_item_actions",
+      "sql": "CREATE TABLE drawer_item_actions (\n    id INTEGER PRIMARY KEY AUTOINCREMENT,\n    drawer_item_id INTEGER NOT NULL,\n    action_type TEXT NOT NULL,\n    label TEXT NOT NULL,\n    icon TEXT,\n    url TEXT,\n    action_data TEXT,\n    display_order INTEGER DEFAULT 0,\n    FOREIGN KEY (drawer_item_id) REFERENCES drawer_items(id) ON DELETE CASCADE\n)"
+    },
+    {
+      "type": "table",
+      "name": "drawer_items",
+      "tbl_name": "drawer_items",
+      "sql": "CREATE TABLE drawer_items (\n    id INTEGER PRIMARY KEY AUTOINCREMENT,\n    item_type TEXT NOT NULL,\n    title TEXT NOT NULL,\n    hero_title1 TEXT,\n    hero_title2 TEXT,\n    content TEXT NOT NULL,\n    display_order INTEGER DEFAULT 0,\n    created_at INTEGER DEFAULT 0,\n    updated_at INTEGER DEFAULT 0\n)"
+    },
+    {
+      "type": "table",
+      "name": "dua_infos",
+      "tbl_name": "dua_infos",
+      "sql": "CREATE TABLE dua_infos (\n            id INTEGER PRIMARY KEY,\n            name VARCHAR(255),\n            description TEXT\n        )"
+    },
+    {
+      "type": "table",
+      "name": "duas",
+      "tbl_name": "duas",
+      "sql": "CREATE TABLE duas (\n            id INTEGER PRIMARY KEY,\n            groups JSON,\n            name TEXT,\n            content TEXT,\n            uthmani TEXT,\n            indopak TEXT,\n            clean TEXT,\n            transliteration TEXT,\n            translation TEXT,\n            note TEXT,\n            reference TEXT,\n            audio INTEGER,\n            cat_id INTEGER,\n            subcat_id INTEGER\n        )"
+    },
+    {
+      "type": "table",
+      "name": "ids",
+      "tbl_name": "ids",
+      "sql": "CREATE TABLE ids (\n            current_id INTEGER PRIMARY KEY,\n            previous_id INTEGER NOT NULL\n        )"
+    },
+    {
+      "type": "table",
+      "name": "ruqyah_categories",
+      "tbl_name": "ruqyah_categories",
+      "sql": "CREATE TABLE \"ruqyah_categories\" (\n    id INTEGER PRIMARY KEY,\n    type TEXT NOT NULL,\n    name VARCHAR(255) NOT NULL,\n    icon VARCHAR(255)\n)"
+    },
+    {
+      "type": "table",
+      "name": "ruqyah_details",
+      "tbl_name": "ruqyah_details",
+      "sql": "CREATE TABLE ruqyah_details (\n            id INTEGER PRIMARY KEY,\n            topic_id INTEGER,\n            topic_name VARCHAR(255),\n            text TEXT,\n            cat_id INTEGER,\n            subcat_id INTEGER\n        )"
+    },
+    {
+      "type": "table",
+      "name": "ruqyah_instants",
+      "tbl_name": "ruqyah_instants",
+      "sql": "CREATE TABLE ruqyah_instants (\n            id INTEGER PRIMARY KEY,\n            topic_id INTEGER,\n            topic_name VARCHAR(255),\n            name TEXT,\n            content TEXT,\n            uthmani TEXT,\n            transliteration TEXT,\n            translation TEXT,\n            reference TEXT,\n            cat_id INTEGER,\n            subcat_id INTEGER\n        , audio TEXT)"
+    },
+    {
+      "type": "table",
+      "name": "ruqyah_subcategories",
+      "tbl_name": "ruqyah_subcategories",
+      "sql": "CREATE TABLE ruqyah_subcategories (\n            id INTEGER PRIMARY KEY,\n            type TEXT NOT NULL,\n            name VARCHAR(255) NOT NULL,\n            cat_id INTEGER\n        )"
+    },
+    {
+      "type": "table",
+      "name": "ruqyah_videos",
+      "tbl_name": "ruqyah_videos",
+      "sql": "CREATE TABLE ruqyah_videos (\n            id INTEGER PRIMARY KEY,\n            name VARCHAR(255) NOT NULL,\n            author VARCHAR(255),\n            link_id INTEGER,\n            link VARCHAR(255),\n            cat_id INTEGER,\n            subcat_id INTEGER\n        )"
+    },
+    {
+      "type": "table",
+      "name": "sections",
+      "tbl_name": "sections",
+      "sql": "CREATE TABLE sections (\n            id INTEGER NOT NULL,\n            book_id INTEGER NOT NULL,\n            name VARCHAR(255) NOT NULL,\n            PRIMARY KEY (id, book_id)\n        )"
+    },
+    {
+      "type": "table",
+      "name": "subcategories",
+      "tbl_name": "subcategories",
+      "sql": "CREATE TABLE subcategories (\n            id INTEGER PRIMARY KEY,\n            name VARCHAR(255) NOT NULL,\n            cat_id INTEGER\n        )"
+    },
+    {
+      "type": "index",
+      "name": "idx_drawer_item_actions_item_id",
+      "tbl_name": "drawer_item_actions",
+      "sql": "CREATE INDEX idx_drawer_item_actions_item_id ON drawer_item_actions(drawer_item_id)"
+    },
+    {
+      "type": "index",
+      "name": "idx_drawer_item_actions_type",
+      "tbl_name": "drawer_item_actions",
+      "sql": "CREATE INDEX idx_drawer_item_actions_type ON drawer_item_actions(action_type)"
+    },
+    {
+      "type": "index",
+      "name": "idx_drawer_items_order",
+      "tbl_name": "drawer_items",
+      "sql": "CREATE INDEX idx_drawer_items_order ON drawer_items(display_order)"
+    },
+    {
+      "type": "index",
+      "name": "idx_drawer_items_type",
+      "tbl_name": "drawer_items",
+      "sql": "CREATE INDEX idx_drawer_items_type ON drawer_items(item_type)"
+    }
+  ],
+  "sqlite_sequence": [
+    {
+      "name": "drawer_item_actions",
+      "seq": 7
+    },
+    {
+      "name": "drawer_items",
+      "seq": 24
+    }
+  ],
+  "pragmas": {
+    "application_id": 0,
+    "user_version": 0
+  },
+  "table_plan": {
+    "categories": {
+      "source": "BN",
+      "columns": [
+        "id",
+        "name",
+        "icon",
+        "dua_count",
+        "subcat_count"
+      ],
+      "row_count": 44,
+      "chunk_count": 1,
+      "chunk_files": [
+        "tables/categories/categories_001.json"
+      ]
+    },
+    "subcategories": {
+      "source": "BN",
+      "columns": [
+        "id",
+        "name",
+        "cat_id"
+      ],
+      "row_count": 118,
+      "chunk_count": 1,
+      "chunk_files": [
+        "tables/subcategories/subcategories_001.json"
+      ]
+    },
+    "dua_infos": {
+      "source": "BN",
+      "columns": [
+        "id",
+        "name",
+        "description"
+      ],
+      "row_count": 42,
+      "chunk_count": 2,
+      "chunk_files": [
+        "tables/dua_infos/dua_infos_001.json",
+        "tables/dua_infos/dua_infos_002.json"
+      ]
+    },
+    "duas": {
+      "source": "BN",
+      "columns": [
+        "id",
+        "groups",
+        "name",
+        "content",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "translation",
+        "note",
+        "reference",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "row_count": 1001,
+      "chunk_count": 30,
+      "chunk_files": [
+        "tables/duas/duas_001.json",
+        "tables/duas/duas_002.json",
+        "tables/duas/duas_003.json",
+        "tables/duas/duas_004.json",
+        "tables/duas/duas_005.json",
+        "tables/duas/duas_006.json",
+        "tables/duas/duas_007.json",
+        "tables/duas/duas_008.json",
+        "tables/duas/duas_009.json",
+        "tables/duas/duas_010.json",
+        "tables/duas/duas_011.json",
+        "tables/duas/duas_012.json",
+        "tables/duas/duas_013.json",
+        "tables/duas/duas_014.json",
+        "tables/duas/duas_015.json",
+        "tables/duas/duas_016.json",
+        "tables/duas/duas_017.json",
+        "tables/duas/duas_018.json",
+        "tables/duas/duas_019.json",
+        "tables/duas/duas_020.json",
+        "tables/duas/duas_021.json",
+        "tables/duas/duas_022.json",
+        "tables/duas/duas_023.json",
+        "tables/duas/duas_024.json",
+        "tables/duas/duas_025.json",
+        "tables/duas/duas_026.json",
+        "tables/duas/duas_027.json",
+        "tables/duas/duas_028.json",
+        "tables/duas/duas_029.json",
+        "tables/duas/duas_030.json"
+      ]
+    },
+    "ruqyah_categories": {
+      "source": "EN",
+      "columns": [
+        "id",
+        "type",
+        "name",
+        "icon"
+      ],
+      "row_count": 15,
+      "chunk_count": 1,
+      "chunk_files": [
+        "tables/ruqyah_categories/ruqyah_categories_001.json"
+      ]
+    },
+    "ruqyah_details": {
+      "source": "EN",
+      "columns": [
+        "id",
+        "topic_id",
+        "topic_name",
+        "text",
+        "cat_id",
+        "subcat_id"
+      ],
+      "row_count": 200,
+      "chunk_count": 5,
+      "chunk_files": [
+        "tables/ruqyah_details/ruqyah_details_001.json",
+        "tables/ruqyah_details/ruqyah_details_002.json",
+        "tables/ruqyah_details/ruqyah_details_003.json",
+        "tables/ruqyah_details/ruqyah_details_004.json",
+        "tables/ruqyah_details/ruqyah_details_005.json"
+      ]
+    },
+    "ruqyah_instants": {
+      "source": "EN",
+      "columns": [
+        "id",
+        "topic_id",
+        "topic_name",
+        "name",
+        "content",
+        "uthmani",
+        "transliteration",
+        "translation",
+        "reference",
+        "cat_id",
+        "subcat_id",
+        "audio"
+      ],
+      "row_count": 308,
+      "chunk_count": 10,
+      "chunk_files": [
+        "tables/ruqyah_instants/ruqyah_instants_001.json",
+        "tables/ruqyah_instants/ruqyah_instants_002.json",
+        "tables/ruqyah_instants/ruqyah_instants_003.json",
+        "tables/ruqyah_instants/ruqyah_instants_004.json",
+        "tables/ruqyah_instants/ruqyah_instants_005.json",
+        "tables/ruqyah_instants/ruqyah_instants_006.json",
+        "tables/ruqyah_instants/ruqyah_instants_007.json",
+        "tables/ruqyah_instants/ruqyah_instants_008.json",
+        "tables/ruqyah_instants/ruqyah_instants_009.json",
+        "tables/ruqyah_instants/ruqyah_instants_010.json"
+      ]
+    },
+    "sections": {
+      "source": "EN",
+      "columns": [
+        "id",
+        "book_id",
+        "name"
+      ],
+      "row_count": 21,
+      "chunk_count": 1,
+      "chunk_files": [
+        "tables/sections/sections_001.json"
+      ]
+    },
+    "ruqyah_subcategories": {
+      "source": "EN",
+      "columns": [
+        "id",
+        "type",
+        "name",
+        "cat_id"
+      ],
+      "row_count": 163,
+      "chunk_count": 1,
+      "chunk_files": [
+        "tables/ruqyah_subcategories/ruqyah_subcategories_001.json"
+      ]
+    },
+    "books": {
+      "source": "BN",
+      "columns": [
+        "id",
+        "name",
+        "writer",
+        "translator",
+        "editor"
+      ],
+      "row_count": 3,
+      "chunk_count": 1,
+      "chunk_files": [
+        "tables/books/books_001.json"
+      ]
+    },
+    "book_details": {
+      "source": "BN",
+      "columns": [
+        "id",
+        "book_id",
+        "section_id",
+        "topic_id",
+        "topic_name",
+        "description"
+      ],
+      "row_count": 86,
+      "chunk_count": 1,
+      "chunk_files": [
+        "tables/book_details/book_details_001.json"
+      ]
+    },
+    "ids": {
+      "source": "BN",
+      "columns": [
+        "current_id",
+        "previous_id"
+      ],
+      "row_count": 1001,
+      "chunk_count": 1,
+      "chunk_files": [
+        "tables/ids/ids_001.json"
+      ]
+    },
+    "ruqyah_videos": {
+      "source": "BN",
+      "columns": [
+        "id",
+        "name",
+        "author",
+        "link_id",
+        "link",
+        "cat_id",
+        "subcat_id"
+      ],
+      "row_count": 74,
+      "chunk_count": 1,
+      "chunk_files": [
+        "tables/ruqyah_videos/ruqyah_videos_001.json"
+      ]
+    },
+    "drawer_items": {
+      "source": "BN",
+      "columns": [
+        "id",
+        "item_type",
+        "title",
+        "hero_title1",
+        "hero_title2",
+        "content",
+        "display_order",
+        "created_at",
+        "updated_at"
+      ],
+      "row_count": 6,
+      "chunk_count": 1,
+      "chunk_files": [
+        "tables/drawer_items/drawer_items_001.json"
+      ]
+    },
+    "drawer_item_actions": {
+      "source": "BN",
+      "columns": [
+        "id",
+        "drawer_item_id",
+        "action_type",
+        "label",
+        "icon",
+        "url",
+        "action_data",
+        "display_order"
+      ],
+      "row_count": 0,
+      "chunk_count": 1,
+      "chunk_files": [
+        "tables/drawer_item_actions/drawer_item_actions_001.json"
+      ]
+    }
+  },
+  "table_order": [
+    "categories",
+    "subcategories",
+    "dua_infos",
+    "duas",
+    "ruqyah_categories",
+    "ruqyah_details",
+    "ruqyah_instants",
+    "sections",
+    "ruqyah_subcategories",
+    "books",
+    "book_details",
+    "ids",
+    "ruqyah_videos",
+    "drawer_items",
+    "drawer_item_actions"
+  ]
+}
