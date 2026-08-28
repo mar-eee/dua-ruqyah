@@ -1,592 +1,592 @@
 [
   {
     "id": 1,
-    "name": "বান্দা তার রবের মুখাপেক্ষী",
+    "name": "Seorang Hamba Bergantung kepada Tuhannya",
     "cat_id": 1
   },
   {
     "id": 2,
-    "name": "আল্লাহ্‌র কাছে যে জিনিসটি চাওয়া সবচাইতে বেশি গুরুত্বপূর্ণ",
+    "name": "Hal Terpenting yang Perlu Dimohon kepada Allah",
     "cat_id": 1
   },
   {
     "id": 3,
-    "name": "জান্নাত লাভ ও জাহান্নাম থেকে রেহাই",
+    "name": "Memohon Surga dan Perlindungan dari Neraka",
     "cat_id": 1
   },
   {
     "id": 4,
-    "name": "দ্বীনের উপর অটল থাকার দোয়া",
+    "name": "Doa agar Tetap Teguh dalam Agama",
     "cat_id": 1
   },
   {
     "id": 5,
-    "name": "সকল কাজে উত্তম পরিণতির দোয়া",
+    "name": "Doa Memohon Akhir yang Baik dalam Setiap Amal",
     "cat_id": 1
   },
   {
     "id": 6,
-    "name": "নিয়ামাত বা অনুগ্রহের প্রার্থনা",
+    "name": "Memohon Segala Kebaikan yang Dapat Allah Karuniakan",
     "cat_id": 1
   },
   {
     "id": 7,
-    "name": "বিভীষিকা, দুর্দশা, মন্দ পরিণতি ও শত্রুর উল্লাস থেকে আশ্রয়",
+    "name": "Berlindung dari Ketakutan, Kesengsaraan, Akibat Buruk, dan Kegembiraan Musuh atas Musibah yang Menimpa",
     "cat_id": 1
   },
   {
     "id": 8,
-    "name": "তাসবীহ, তাহমীদ, তাহলীল ও তাকবীর-এর ফযীলত",
+    "name": "Keutamaan Membaca Tasbih, Tahmid, Tahlil, dan Takbir",
     "cat_id": 2
   },
   {
     "id": 9,
-    "name": "দোয়া কবুলের সময় ও স্থান সমূহ",
+    "name": "Waktu dan Tempat Terkabulnya Doa",
     "cat_id": 3
   },
   {
     "id": 10,
-    "name": "যাদের দোয়া কবুল হয়",
+    "name": "Orang-Orang yang Doanya Dikabulkan",
     "cat_id": 4
   },
   {
     "id": 11,
-    "name": "সকাল-সন্ধ্যার যিক্‌রের ফযীলত",
+    "name": "Keutamaan Doa Pagi dan Petang",
     "cat_id": 5
   },
   {
     "id": 12,
-    "name": "সকাল-সন্ধ্যার যিক্‌র",
+    "name": "Zikir Pagi dan Petang",
     "cat_id": 5
   },
   {
     "id": 13,
-    "name": "কর্মব্যস্ত অবস্থার যিক্‌র",
+    "name": "Zikir di Tengah Kesibukan",
     "cat_id": 5
   },
   {
     "id": 14,
-    "name": "ঘুমানোর আগে",
+    "name": "Sebelum Tidur",
     "cat_id": 6
   },
   {
     "id": 15,
-    "name": "ঘুম ভাঙার পরে",
+    "name": "Setelah Bangun Tidur",
     "cat_id": 6
   },
   {
     "id": 16,
-    "name": "কাপড় পরিধান সম্পর্কিত দোয়া সমূহ",
+    "name": "Doa saat Mengenakan Pakaian",
     "cat_id": 7
   },
   {
     "id": 17,
-    "name": "বাড়ি থেকে বের হওয়া",
+    "name": "Ketika Keluar Rumah",
     "cat_id": 8
   },
   {
     "id": 18,
-    "name": "বাড়িতে প্রবেশ",
+    "name": "Ketika Masuk Rumah",
     "cat_id": 8
   },
   {
     "id": 19,
-    "name": "টয়লেট সম্পর্কিত দোয়া সমূহ",
+    "name": "Doa Masuk dan Keluar Toilet",
     "cat_id": 9
   },
   {
     "id": 20,
-    "name": "আযানের সময় যা বলতে হবে",
+    "name": "Doa ketika Mendengar Azan",
     "cat_id": 10
   },
   {
     "id": 21,
-    "name": "আযানের পরে যা বলতে হবে",
+    "name": "Doa setelah Azan",
     "cat_id": 10
   },
   {
     "id": 22,
-    "name": "আযান ও ইক্বামতের মধ্যবর্তী সময় দোয়া",
+    "name": "Doa antara Azan dan Ikamah",
     "cat_id": 10
   },
   {
     "id": 23,
-    "name": "ইমাম ও মুআযযিনের জন্য দোয়া",
+    "name": "Doa untuk Imam dan Muazin",
     "cat_id": 10
   },
   {
     "id": 24,
-    "name": "ওযূর শুরুতে",
+    "name": "Ketika Memulai Wudu",
     "cat_id": 11
   },
   {
     "id": 25,
-    "name": "ওযূ শেষে",
+    "name": "Setelah Selesai Wudu",
     "cat_id": 11
   },
   {
     "id": 26,
-    "name": "মসজিদে যাওয়ার সময়",
+    "name": "Ketika Pergi ke Masjid",
     "cat_id": 12
   },
   {
     "id": 27,
-    "name": "মসজিদে প্রবেশ",
+    "name": "Ketika Masuk Masjid",
     "cat_id": 12
   },
   {
     "id": 28,
-    "name": "মসজিদ থেকে বের হওয়া",
+    "name": "Ketika Keluar Masjid",
     "cat_id": 12
   },
   {
     "id": 29,
-    "name": "মসজিদে হারানো বিজ্ঞপ্তি দেওয়া",
+    "name": "Mengumumkan Barang Hilang di Masjid",
     "cat_id": 12
   },
   {
     "id": 30,
-    "name": "মসজিদে বেচাকেনা করা",
+    "name": "Jual Beli di Masjid",
     "cat_id": 12
   },
   {
     "id": 31,
-    "name": "তাকবীরে তাহরীমার পর পঠিত দোয়া সমূহ",
+    "name": "Doa setelah Takbir Pembuka Salat",
     "cat_id": 13
   },
   {
     "id": 32,
-    "name": "সালাতের মাঝে শয়তানের কুমন্ত্রণা হতে বাঁচার দোয়া",
+    "name": "Ketika Diganggu Bisikan dalam Salat atau Bacaan",
     "cat_id": 13
   },
   {
     "id": 33,
-    "name": "রুকুর দোয়া সমূহ",
+    "name": "Doa ketika Rukuk",
     "cat_id": 13
   },
   {
     "id": 34,
-    "name": "রুকু থেকে উঠার দোয়া",
+    "name": "Ketika Bangkit dari Rukuk",
     "cat_id": 13
   },
   {
     "id": 35,
-    "name": "রুকুর পরে দণ্ডায়মান অবস্থায় দোয়া সমূহ",
+    "name": "Doa saat Berdiri setelah Rukuk",
     "cat_id": 13
   },
   {
     "id": 36,
-    "name": "সিজদায় পঠিতব্য দোয়া সমূহ",
+    "name": "Doa ketika Sujud",
     "cat_id": 13
   },
   {
     "id": 37,
-    "name": "দুই সিজদার মধ্যবর্তী দোয়া সমূহ",
+    "name": "Doa antara Dua Sujud",
     "cat_id": 13
   },
   {
     "id": 38,
-    "name": "সিজদার আয়াত পড়ে সিজদা দেওয়ার মহত্ত্ব",
+    "name": "Sujud Tilawah",
     "cat_id": 13
   },
   {
     "id": 39,
-    "name": "তাশাহুদ বা বৈঠকের দোয়া",
+    "name": "Tasyahud",
     "cat_id": 13
   },
   {
     "id": 40,
-    "name": "রাসূল (ﷺ)-এর প্রতি দরূদ (শেষ বৈঠক)",
+    "name": "Selawat kepada Nabi (ﷺ) setelah Tasyahud",
     "cat_id": 13
   },
   {
     "id": 41,
-    "name": "তাশাহুদের পর সালাম ফেরানোর আগে দোয়া সমূহ (দোয়া মাসূরা)",
+    "name": "Doa setelah Tasyahud Akhir dan sebelum Salam",
     "cat_id": 13
   },
   {
     "id": 42,
-    "name": "সালাতের মধ্যে দোয়া",
+    "name": "Doa dalam Salat",
     "cat_id": 13
   },
   {
     "id": 43,
-    "name": "ফজর ও মাগরিবের পরের দোয়া সমূহ",
+    "name": "Doa setelah Salat Subuh dan Magrib",
     "cat_id": 13
   },
   {
     "id": 44,
-    "name": "ফরয সালাতের পরে মাসনূন দোয়া-মুনাজাত",
+    "name": "Zikir Sesuai Sunah setelah Salat Wajib",
     "cat_id": 13
   },
   {
     "id": 45,
-    "name": "সালাম ফিরানোর পর পঠিতব্য দোয়া সমূহ",
+    "name": "Doa setelah Salam",
     "cat_id": 13
   },
   {
     "id": 46,
-    "name": "ফজরের সালাতের পর দোয়া",
+    "name": "Doa setelah Salat Subuh",
     "cat_id": 13
   },
   {
     "id": 47,
-    "name": "সালাত সম্পর্কিত অন্যান্য দোয়া সমূহ",
+    "name": "Doa Lain Terkait Salat",
     "cat_id": 13
   },
   {
     "id": 48,
-    "name": "তাহাজ্জুদ সালাত শুরুর দোয়া",
+    "name": "Doa Pembuka Salat Tahajud",
     "cat_id": 14
   },
   {
     "id": 49,
-    "name": "বিতরের যিক্‌র",
+    "name": "Doa Salat Witir",
     "cat_id": 14
   },
   {
     "id": 50,
-    "name": "বিতর সালাতে রাসূল (ﷺ) যেসকল সূরা পড়তেন",
+    "name": "Surah yang Dibaca Nabi (ﷺ) dalam Salat Witir",
     "cat_id": 14
   },
   {
     "id": 51,
-    "name": "মাসনূন কুনুত",
+    "name": "Doa Kunut",
     "cat_id": 14
   },
   {
     "id": 52,
-    "name": "তাহাজ্জুদ সালাত",
+    "name": "Salat Tahajud (Qiyamul Lail)",
     "cat_id": 14
   },
   {
     "id": 53,
-    "name": "বিশেষ কিছু সালাত",
+    "name": "Beberapa Salat Khusus",
     "cat_id": 14
   },
   {
     "id": 54,
-    "name": "মৃৃৃতের জন্য করনীয়",
+    "name": "Hal yang Perlu Dilakukan bagi Orang yang Meninggal",
     "cat_id": 15
   },
   {
     "id": 55,
-    "name": "মৃতকে কবরস্থ করা",
+    "name": "Menguburkan Jenazah",
     "cat_id": 15
   },
   {
     "id": 56,
-    "name": "কবর যিয়ারতের দোয়া সমূহ",
+    "name": "Doa ketika Berziarah Kubur",
     "cat_id": 15
   },
   {
     "id": 57,
-    "name": "জানাযার দোয়া সমূহ",
+    "name": "Doa dalam Salat Jenazah",
     "cat_id": 15
   },
   {
     "id": 58,
-    "name": "শিশুর জানাযায় দোয়া সমূহ",
+    "name": "Doa dalam Salat Jenazah Anak",
     "cat_id": 15
   },
   {
     "id": 59,
-    "name": "রমজানে পঠিত দোয়া সমূহ",
+    "name": "Doa yang Dibaca pada Bulan Ramadan",
     "cat_id": 16
   },
   {
     "id": 60,
-    "name": "মুসাফিরের জন্য পঠিতব্য দোয়া সমূহ",
+    "name": "Doa bagi Orang yang Bepergian",
     "cat_id": 17
   },
   {
     "id": 61,
-    "name": "হাজীদের জন্য পঠিতব্য দোয়া সমূহ",
+    "name": "Doa untuk Jemaah Haji",
     "cat_id": 18
   },
   {
     "id": 62,
-    "name": "কুরবানী দানকারীর জন্য পঠিতব্য দোয়া সমূহ",
+    "name": "Doa bagi Orang yang Berkurban",
     "cat_id": 19
   },
   {
     "id": 63,
-    "name": "শয়তান ও তার কুমন্ত্রণা তাড়ানোর দোয়া সমূহ",
+    "name": "Doa untuk Mengusir Setan dan Bisikannya",
     "cat_id": 20
   },
   {
     "id": 64,
-    "name": "সন্তানের নিরাপত্তা সম্পর্কিত দোয়া সমূহ",
+    "name": "Doa Memohon Perlindungan bagi Anak",
     "cat_id": 20
   },
   {
     "id": 65,
-    "name": "অনিষ্ট সম্পর্কিত অন্যান্য দোয়া সমূহ",
+    "name": "Doa Lain Terkait Keburukan",
     "cat_id": 20
   },
   {
     "id": 66,
-    "name": "অন্তরে কুমন্ত্রণা অনুভব করলে",
+    "name": "Ketika Merasakan Waswas dalam Hati",
     "cat_id": 20
   },
   {
     "id": 67,
-    "name": "দাজ্জালের অনিষ্ট থেকে আশ্রয়",
+    "name": "Berlindung dari Keburukan Dajal",
     "cat_id": 20
   },
   {
     "id": 68,
-    "name": "রাগান্বিত অবস্থায় দোয়া সমূহ",
+    "name": "Ketika Marah",
     "cat_id": 20
   },
   {
     "id": 69,
-    "name": "যেসকল ইস্তেগফার হাদীসে বর্ণিত হয়েছে",
+    "name": "Istigfar yang Disebutkan dalam Hadis",
     "cat_id": 21
   },
   {
     "id": 70,
-    "name": "ক্ষমা প্রার্থনার শ্রেষ্ঠ দোয়া - সাইয়্যেদুল ইস্তিগফার",
+    "name": "Doa Terbaik Memohon Ampunan - Sayidul Istigfar",
     "cat_id": 21
   },
   {
     "id": 71,
-    "name": "তাওবার ব্যপারে কুরআন ও হাদীসের বাণী",
+    "name": "Ayat Al-Qur'an dan Hadis tentang Tobat",
     "cat_id": 21
   },
   {
     "id": 72,
-    "name": "বিয়ের খুতবা",
+    "name": "Khutbah Nikah",
     "cat_id": 22
   },
   {
     "id": 73,
-    "name": "বিবাহ পরবর্তী দোয়া সমূহ",
+    "name": "Doa Keberkahan setelah Menikah",
     "cat_id": 22
   },
   {
     "id": 74,
-    "name": "নবজাতক সম্পর্কিত দোয়া সমূহ",
+    "name": "Doa Terkait Bayi Baru Lahir",
     "cat_id": 22
   },
   {
     "id": 75,
-    "name": "পরিবারের জন্য পঠিতব্য দোয়া সমূহ",
+    "name": "Doa untuk Keluarga",
     "cat_id": 23
   },
   {
     "id": 76,
-    "name": "ঋণমুক্তির দোয়া সমূহ",
+    "name": "Doa agar Terbebas dari Utang",
     "cat_id": 24
   },
   {
     "id": 77,
-    "name": "দুশ্চিন্তাগ্রস্তের জন্য পঠিতব্য দোয়া সমূহ",
+    "name": "Doa bagi Orang yang Dilanda Kecemasan",
     "cat_id": 25
   },
   {
     "id": 78,
-    "name": "ব্যর্থতার সময়ের দোয়া সমূহ",
+    "name": "Doa saat Putus Asa",
     "cat_id": 26
   },
   {
     "id": 79,
-    "name": "ক্ষতির আশঙ্কার সময়ের দোয়া সমূহ",
+    "name": "Doa saat Khawatir akan Tertimpa Bahaya",
     "cat_id": 26
   },
   {
     "id": 80,
-    "name": "বিপদ-কষ্টে নিপতিত হলে পঠিতব্য দোয়া সমূহ",
+    "name": "Doa ketika Berada dalam Bahaya",
     "cat_id": 26
   },
   {
     "id": 81,
-    "name": "নিন্দায় ও প্রশংসায় পঠিতব্য দোয়া সমূহ",
+    "name": "Doa Terkait Celaan dan Pujian",
     "cat_id": 27
   },
   {
     "id": 82,
-    "name": "অপরের কল্যাণ কামনায় পঠিতব্য দোয়া সমূহ",
+    "name": "Doa Memohon Kebaikan bagi Orang Lain",
     "cat_id": 27
   },
   {
     "id": 83,
-    "name": "হাঁচি ও হাই তোলার ক্ষেত্রে শিষ্টাচার",
+    "name": "Adab Bersin dan Menguap",
     "cat_id": 28
   },
   {
     "id": 84,
-    "name": "হাঁচির আদব ও দোয়া সমূহ",
+    "name": "Doa ketika Bersin",
     "cat_id": 28
   },
   {
     "id": 85,
-    "name": "মজলিস / বৈঠক শেষের দোয়া",
+    "name": "Doa Penutup Majelis",
     "cat_id": 28
   },
   {
     "id": 86,
-    "name": "আনন্দদায়ক অথবা ক্ষতিকারক কিছু দেখলে পঠিতব্য দোয়া সমূহ",
+    "name": "Doa ketika Melihat Sesuatu yang Menyenangkan atau Membahayakan",
     "cat_id": 28
   },
   {
     "id": 87,
-    "name": "প্রশংসা বিষয়ে দোয়া সমূহ",
+    "name": "Doa Terkait Pujian",
     "cat_id": 28
   },
   {
     "id": 88,
-    "name": "সালাম বিষয়ক আদব",
+    "name": "Adab Mengucapkan Salam",
     "cat_id": 28
   },
   {
     "id": 89,
-    "name": "বিবিধ আদব ও শিষ্টাচার বিষয়ক দোয়া সমূহ",
+    "name": "Doa Terkait Berbagai Adab",
     "cat_id": 28
   },
   {
     "id": 90,
-    "name": "বৈঠককারীর জন্য পঠিতব্য দোয়া সমূহ",
+    "name": "Doa bagi Orang yang Berada di Majelis",
     "cat_id": 29
   },
   {
     "id": 91,
-    "name": "খাবার ও পানীয় গ্রহণের শিষ্টাচার",
+    "name": "Adab Makan dan Minum",
     "cat_id": 30
   },
   {
     "id": 92,
-    "name": "খাওয়ার শুরুতে দোয়া সমূহ",
+    "name": "Doa sebelum Makan",
     "cat_id": 30
   },
   {
     "id": 93,
-    "name": "শুরুতে আল্লাহ্‌র নাম বলতে ভুলে গেলে",
+    "name": "Ketika Lupa Menyebut Nama Allah di Awal Makan",
     "cat_id": 30
   },
   {
     "id": 94,
-    "name": "খাওয়া ও পান করার মাঝের দোয়া",
+    "name": "Doa ketika Makan dan Minum",
     "cat_id": 30
   },
   {
     "id": 95,
-    "name": "খাওয়া শেষে দোয়া সমূহ",
+    "name": "Doa setelah Makan",
     "cat_id": 30
   },
   {
     "id": 96,
-    "name": "যে পানাহার করালো তার জন্য দোয়া",
+    "name": "Doa Tamu untuk Tuan Rumah",
     "cat_id": 30
   },
   {
     "id": 97,
-    "name": "পশু-পাখি সম্পর্কিত দোয়া সমূহ",
+    "name": "Doa Terkait Hewan",
     "cat_id": 31
   },
   {
     "id": 98,
-    "name": "প্রকৃতি সম্পর্কিত দোয়া সমূহ",
+    "name": "Doa Terkait Alam",
     "cat_id": 32
   },
   {
     "id": 99,
-    "name": "অসুস্থ ব্যক্তির জন্য দোয়া সমূহ",
+    "name": "Doa untuk Orang Sakit",
     "cat_id": 33
   },
   {
     "id": 100,
-    "name": "মৃত ব্যক্তির জন্য দোয়া সমূহ",
+    "name": "Doa untuk Orang yang Meninggal",
     "cat_id": 33
   },
   {
     "id": 101,
-    "name": "বদনজর সম্পর্কিত দোয়া সমূহ",
+    "name": "Doa Terkait Penyakit Ain",
     "cat_id": 33
   },
   {
     "id": 102,
-    "name": "জ্বিন, জাদু ও রোগের চিকিৎসায় যা করণীয়",
+    "name": "Penanganan Gangguan Jin, Sihir Hitam, dan Penyakit",
     "cat_id": 34
   },
   {
     "id": 103,
-    "name": "জ্বিনগ্রস্ত নিশ্চিত হওয়ার পর করণীয়",
+    "name": "Hal yang Perlu Dilakukan setelah Gangguan Jin Dipastikan",
     "cat_id": 34
   },
   {
     "id": 104,
-    "name": "মজলুম সম্পর্কিত দোয়া সমূহ",
+    "name": "Doa untuk Orang yang Terzalimi",
     "cat_id": 35
   },
   {
     "id": 105,
-    "name": "ক্ষমা প্রার্থনা সম্পর্কিত দোয়া সমূহ",
+    "name": "Doa Memohon Ampunan",
     "cat_id": 35
   },
   {
     "id": 106,
-    "name": "সাধারণ দোয়া সমূহ",
+    "name": "Doa Umum",
     "cat_id": 35
   },
   {
     "id": 107,
-    "name": "অন্যান্য দোয়া সমূহ",
+    "name": "Doa Lainnya",
     "cat_id": 35
   },
   {
     "id": 108,
-    "name": "আল্লাহ্‌র নামের ওসীলার দোয়া সমূহ",
+    "name": "Berdoa dengan Menyebut Nama Allah",
     "cat_id": 36
   },
   {
     "id": 109,
-    "name": "নবী-রাসুলগণ যেভাবে দোয়া করেছিলেন",
+    "name": "Cara Para Nabi dan Rasul Berdoa",
     "cat_id": 37
   },
   {
     "id": 110,
-    "name": "রাসূল (ﷺ) এবং সাহাবীগণ যেভাবে দোয়া করেছিলেন",
+    "name": "Cara Nabi (ﷺ) dan Para Sahabat Beliau Berdoa",
     "cat_id": 38
   },
   {
     "id": 111,
-    "name": "মুহাম্মাদ (ﷺ) ও তাঁর সাহাবীগণ (রাঃ) এর সম্পর্কে",
+    "name": "Tentang Nabi Muhammad (ﷺ) dan Para Sahabat Beliau",
     "cat_id": 39
   },
   {
     "id": 112,
-    "name": "হাদিসে বর্ণিত কিছু দোয়া সমূহ",
+    "name": "Beberapa Doa yang Disebutkan dalam Hadis",
     "cat_id": 40
   },
   {
     "id": 113,
-    "name": "বিবিধ বিষয়ের দোয়া সমূহ",
+    "name": "Doa tentang Berbagai Hal",
     "cat_id": 41
   },
   {
     "id": 114,
-    "name": "প্রতিদিনের সুন্নাহ বাক্য সমূহ",
+    "name": "Ucapan Sunah Sehari-hari",
     "cat_id": 42
   },
   {
     "id": 115,
-    "name": "যুদ্ধ সম্পর্কিত দোয়া সমূহ",
+    "name": "Doa Terkait Peperangan",
     "cat_id": 26
   },
   {
     "id": 116,
-    "name": "ঈদের দিনে পঠিতব্য দোয়া",
+    "name": "Doa yang Dibaca pada Hari Raya",
     "cat_id": 43
   },
   {
     "id": 117,
-    "name": "যেসকল ইস্তেগফার কুরআনে বর্ণিত হয়েছে",
+    "name": "Istigfar yang Disebutkan dalam Al-Qur'an",
     "cat_id": 21
   },
   {
     "id": 118,
-    "name": "রাব্বানা দোয়াসমূহ",
+    "name": "Doa-Doa Rabbana",
     "cat_id": 44
   }
 ]

@@ -82,6 +82,25 @@ For metadata, use this meaning:
 | `tables/categories/categories_001.json` | 44 | complete |
 | `tables/subcategories/subcategories_001.json` | 118 | complete |
 
+### Indonesian completed: `tables/subcategories/subcategories_001.json`
+
+- ID range: `1-118`
+- Rows: `118`
+- Completed on: `2026-08-28`
+- Translated fields: `name`
+- Source: English names from `dua_main_en.sqlite`; Bengali consulted only to resolve ambiguous English wording
+- References: not applicable to this table
+- Verification: second line-by-line editorial review completed; JSON valid, frozen fields unchanged, no Bengali remains, rebuild passed, SQLite integrity `ok`
+
+### Indonesian completed: `tables/categories/categories_001.json`
+
+- ID range: `1-44`
+- Rows: `44`
+- Completed on: `2026-08-28`
+- Translated fields: `name`
+- Source: English names from `dua_main_en.sqlite`
+- Verification: editorial review against English categories and related subcategories passed; JSON valid, frozen fields unchanged, 44 Indonesian names present, rebuild passed, SQLite integrity `ok`
+
 ## Dua Chunk Status
 
 | Chunk | ID Range | Rows | Status | Notes |

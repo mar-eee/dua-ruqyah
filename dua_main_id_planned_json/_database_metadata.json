@@ -420,6 +420,26 @@
       ]
     }
   },
+  "work_status": {
+    "tables/categories/categories_001.json": {
+      "language": "Indonesian",
+      "status": "translated",
+      "translated_fields": [
+        "name"
+      ],
+      "source": "English names from dua_main_en.sqlite",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "icon",
+        "dua_count",
+        "subcat_count"
+      ],
+      "rows": 44,
+      "id_range": "1-44",
+      "updated_at": "2026-08-28",
+      "note": "Category names translated and editorially reviewed against the English categories and related subcategories; structure and frozen fields preserved."
+    }
+  },
   "table_order": [
     "categories",
     "subcategories",
