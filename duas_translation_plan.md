@@ -138,6 +138,17 @@ For metadata, use this meaning:
 
 ## Work Status Details
 
+### Indonesian completed: `dua_main_id_planned_json/tables/duas/duas_001.json`
+
+- ID range: `1-34`
+- Rows: `34`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- Transliteration: copied from `dua_main_en.sqlite`
+- References: copied from `dua_main_en.sqlite`, kept in English, and normalized to the README format
+- Verification: JSON valid, no Bengali in translated top-level fields, English transliterations verified, frozen fields unchanged, rebuild passed, SQLite integrity `ok`
+- Editorial recheck: all 34 rows reread against the English source; quotation flow, narrator spelling, and devotional phrasing corrected where needed
+
 ### Completed: `duas_001.json`
 
 - ID range: `1-34`

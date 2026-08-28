@@ -749,6 +749,32 @@
       "updated_at": "2026-08-27",
       "note": "Translated top-level human-readable fields following README.md. Arabic and groups fields were kept unchanged. References are English.",
       "id_range": "375-408"
+    },
+    "dua_main_id_planned_json/tables/duas/duas_001.json": {
+      "language": "Indonesian",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References were copied from dua_main_en.sqlite, kept in English, and normalized to README.md formatting.",
+      "transliteration_rule": "Top-level transliteration values were copied from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "1-34",
+      "updated_at": "2026-08-28",
+      "note": "Translated all top-level human-readable fields into Indonesian following README.md; Arabic and groups were preserved."
     }
   }
 }
