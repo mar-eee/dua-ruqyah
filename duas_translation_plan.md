@@ -171,10 +171,10 @@ For metadata, use this meaning:
 
 - ID range: `69-102`
 - Rows: `34`
-- Completed on: `2026-08-27`
+- Completed on: `2026-09-03`
 - Translated fields: `name`, `content`, `translation`, `note`
-- References: kept in English; ID `83` manually normalized to `Abu Dawud 4/322, no. 5084`
-- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+- References: kept in English from `dua_main_en.sqlite`; ID `83` retained from the original non-null citation and normalized to `Abu Dawud 4/322: 5084` because the matching English reference is `null`
+- Verification: JSON valid, exact English IDs matched, no Bengali in translated top-level fields, protected fields and record order unchanged, Node.js rebuild passed, SQLite integrity `ok`
 
 ### Completed: `duas_005.json`
 
