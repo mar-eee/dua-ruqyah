@@ -260,10 +260,10 @@ python3 rebuild_japanese_from_json.py
 
 - ID range: `103-136`
 - Rows: `34`
-- Completed on: `2026-08-27`
+- Completed on: `2026-09-03`
 - Translated fields: `name`, `content`, `translation`, `note`
-- References: kept in English from `dua_main_en.sqlite`
-- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+- References: copied from `dua_main_en.sqlite`, kept in English, and normalized to README formatting
+- Verification: second-pass review completed; JSON valid, exact English IDs matched, no Bengali in translated top-level fields, protected fields and record order unchanged, Node.js rebuild passed, SQLite integrity `ok`
 
 ### Completed: `duas_007.json`
 
