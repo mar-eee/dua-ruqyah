@@ -438,6 +438,32 @@
     "drawer_item_actions"
   ],
   "work_status": {
+    "dua_main_id_planned_json/tables/duas/duas_006.json": {
+      "language": "Indonesian",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References were copied from dua_main_en.sqlite, kept in English, and normalized to README.md formatting.",
+      "transliteration_rule": "Top-level transliteration values were copied from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "171-204",
+      "updated_at": "2026-09-03",
+      "note": "Completed a second-pass review of all Indonesian top-level human-readable fields against exact matching English rows. Node.js rebuild passed with SQLite integrity ok."
+    },
     "dua_main_id_planned_json/tables/duas/duas_005.json": {
       "language": "Indonesian",
       "status": "translated",
