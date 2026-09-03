@@ -180,11 +180,11 @@ For metadata, use this meaning:
 
 - ID range: `137-170`
 - Rows: `34`
-- Completed on: `2026-08-27`
+- Completed on: `2026-09-03`
 - Translated fields: `name`, `content`, `translation`, `note`
-- References: kept in English from `dua_main_en.sqlite`
+- References: copied from `dua_main_en.sqlite`, kept in English, and normalized to README formatting
 - Transliteration: copied from `dua_main_en.sqlite`
-- Verification: JSON valid, no Bengali in translated top-level fields, frozen fields unchanged, rebuild passed, SQLite integrity `ok`
+- Verification: second-pass review completed; JSON valid, exact English IDs matched, no Bengali in translated top-level fields, protected fields and record order unchanged, Node.js rebuild passed, SQLite integrity `ok`
 
 ### Completed: `duas_006.json`
 
