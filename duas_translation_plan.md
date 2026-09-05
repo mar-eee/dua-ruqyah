@@ -81,6 +81,15 @@ For metadata, use this meaning:
 |------|------|--------|
 | `tables/categories/categories_001.json` | 44 | complete |
 | `tables/subcategories/subcategories_001.json` | 118 | complete |
+| `tables/ruqyah_instants/ruqyah_instants_002.json` | 31 | complete; translated, references kept English |
+| `tables/ruqyah_instants/ruqyah_instants_003.json` | 31 | complete; translated, references kept English |
+| `tables/ruqyah_instants/ruqyah_instants_004.json` | 31 | complete; translated, references kept English |
+| `tables/ruqyah_instants/ruqyah_instants_005.json` | 31 | complete; translated, references kept English |
+| `tables/ruqyah_instants/ruqyah_instants_006.json` | 31 | complete; translated, references kept English |
+| `tables/ruqyah_instants/ruqyah_instants_007.json` | 31 | complete; translated, references kept English |
+| `tables/ruqyah_instants/ruqyah_instants_008.json` | 31 | complete; translated, references kept English |
+| `tables/ruqyah_instants/ruqyah_instants_009.json` | 31 | complete; translated, references kept English |
+| `tables/ruqyah_instants/ruqyah_instants_010.json` | 29 | complete; translated, references kept English |
 
 ### Indonesian completed: `tables/subcategories/subcategories_001.json`
 
@@ -237,6 +246,93 @@ For metadata, use this meaning:
 - Verification: JSON valid, no Bengali in translated top-level fields, references/transliteration matched English DB, frozen fields unchanged
 
 ## Rebuild Command
+
+### Completed: `ruqyah_instants_002.json`
+
+- ID range: `32-62`
+- Rows: `31`
+- Completed on: `2026-09-05`
+- Translated fields: `topic_name`, `name`, `content`, `translation`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated fields, frozen fields and nullness intact, rebuild passed, SQLite integrity `ok`
+
+### Completed: `ruqyah_instants_003.json`
+
+- ID range: `63-93`
+- Rows: `31`
+- Completed on: `2026-09-05`
+- Translated fields: `topic_name`, `name`, `content`, `translation`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated fields, frozen fields and nullness intact, rebuild passed, SQLite integrity `ok`
+
+### Completed: `ruqyah_instants_004.json`
+
+- ID range: `94-124`
+- Rows: `31`
+- Completed on: `2026-09-05`
+- Translated fields: `topic_name`, `name`, `content`, `translation`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated fields, frozen fields and nullness intact, rebuild passed, SQLite integrity `ok`
+
+### Completed: `ruqyah_instants_005.json`
+
+- ID range: `125-155`
+- Rows: `31`
+- Completed on: `2026-09-05`
+- Translated fields: `topic_name`, `name`, `content`, `translation`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated fields, frozen fields and nullness intact, rebuild passed, SQLite integrity `ok`
+
+### Completed: `ruqyah_instants_006.json`
+
+- ID range: `156-186`
+- Rows: `31`
+- Completed on: `2026-09-05`
+- Translated fields: `topic_name`, `name`, `content`, `translation`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated fields, frozen fields and nullness intact, rebuild passed, SQLite integrity `ok`
+
+### Completed: `ruqyah_instants_007.json`
+
+- ID range: `187-217`
+- Rows: `31`
+- Completed on: `2026-09-05`
+- Translated fields: `topic_name`, `name`, `content`, `translation`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated fields, frozen fields and nullness intact, rebuild passed, SQLite integrity `ok`
+
+### Completed: `ruqyah_instants_008.json`
+
+- ID range: `218-248`
+- Rows: `31`
+- Completed on: `2026-09-05`
+- Translated fields: `topic_name`, `name`, `content`, `translation`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated fields, frozen fields and nullness intact, rebuild passed, SQLite integrity `ok`
+
+### Completed: `ruqyah_instants_009.json`
+
+- ID range: `249-279`
+- Rows: `31`
+- Completed on: `2026-09-05`
+- Translated fields: `topic_name`, `name`, `content`, `translation`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated fields, frozen fields and nullness intact, rebuild passed, SQLite integrity `ok`
+
+### Completed: `ruqyah_instants_010.json`
+
+- ID range: `280-308`
+- Rows: `29`
+- Completed on: `2026-09-05`
+- Translated fields: `topic_name`, `name`, `content`, `translation`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated fields, frozen fields and nullness intact, rebuild passed, SQLite integrity `ok`
+
+### Review note: `ruqyah_instants_002-010.json`
+
+- Qur'anic wording was checked against Saeed Sato's modern Japanese rendering and polished to match the database's calm, readable devotional style.
+- Exact Arabic passages already translated in the Japanese workspace reuse the established wording.
+- Source inconsistencies were resolved from the Arabic and verse title: ID `98` is Al-Mulk 67:1-4, and ID `184` is Al-Ahzab 33:70-71.
 
 Run this after each completed chunk:
 

@@ -775,6 +775,249 @@
       "id_range": "1-34",
       "updated_at": "2026-08-28",
       "note": "Translated all top-level human-readable fields into Indonesian following README.md; Arabic and groups were preserved."
+    },
+    "tables/ruqyah_instants/ruqyah_instants_002.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "name",
+        "content",
+        "translation"
+      ],
+      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_instants, ids 32-62); Qur'anic wording cross-checked against Saeed Sato's modern Japanese rendering.",
+      "reference_rule": "References are not translated. English values were kept exactly as in dua_main_en.sqlite.",
+      "transliteration_rule": "Transliteration values were kept exactly as in dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "uthmani",
+        "transliteration",
+        "reference",
+        "cat_id",
+        "subcat_id",
+        "audio"
+      ],
+      "updated_at": "2026-09-05",
+      "rows": 31,
+      "id_range": "32-62",
+      "note": "Translated into natural, calm Japanese; structure, Arabic, references, transliteration, links, and nullness preserved. Rebuild and integrity checks passed."
+    },
+    "tables/ruqyah_instants/ruqyah_instants_003.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "name",
+        "content",
+        "translation"
+      ],
+      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_instants, ids 63-93); Qur'anic wording cross-checked against Saeed Sato's modern Japanese rendering.",
+      "reference_rule": "References are not translated. English values were kept exactly as in dua_main_en.sqlite.",
+      "transliteration_rule": "Transliteration values were kept exactly as in dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "uthmani",
+        "transliteration",
+        "reference",
+        "cat_id",
+        "subcat_id",
+        "audio"
+      ],
+      "updated_at": "2026-09-05",
+      "rows": 31,
+      "id_range": "63-93",
+      "note": "Translated into natural, calm Japanese; structure, Arabic, references, transliteration, links, and nullness preserved. Rebuild and integrity checks passed."
+    },
+    "tables/ruqyah_instants/ruqyah_instants_004.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "name",
+        "content",
+        "translation"
+      ],
+      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_instants, ids 94-124); Qur'anic wording cross-checked against Saeed Sato's modern Japanese rendering.",
+      "reference_rule": "References are not translated. English values were kept exactly as in dua_main_en.sqlite.",
+      "transliteration_rule": "Transliteration values were kept exactly as in dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "uthmani",
+        "transliteration",
+        "reference",
+        "cat_id",
+        "subcat_id",
+        "audio"
+      ],
+      "updated_at": "2026-09-05",
+      "rows": 31,
+      "id_range": "94-124",
+      "note": "Translated into natural, calm Japanese; structure, Arabic, references, transliteration, links, and nullness preserved. Rebuild and integrity checks passed. ID 98 follows its Arabic/title scope, Al-Mulk 67:1-4."
+    },
+    "tables/ruqyah_instants/ruqyah_instants_005.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "name",
+        "content",
+        "translation"
+      ],
+      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_instants, ids 125-155); Qur'anic wording cross-checked against Saeed Sato's modern Japanese rendering.",
+      "reference_rule": "References are not translated. English values were kept exactly as in dua_main_en.sqlite.",
+      "transliteration_rule": "Transliteration values were kept exactly as in dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "uthmani",
+        "transliteration",
+        "reference",
+        "cat_id",
+        "subcat_id",
+        "audio"
+      ],
+      "updated_at": "2026-09-05",
+      "rows": 31,
+      "id_range": "125-155",
+      "note": "Translated into natural, calm Japanese; structure, Arabic, references, transliteration, links, and nullness preserved. Rebuild and integrity checks passed."
+    },
+    "tables/ruqyah_instants/ruqyah_instants_006.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "name",
+        "content",
+        "translation"
+      ],
+      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_instants, ids 156-186); Qur'anic wording cross-checked against Saeed Sato's modern Japanese rendering.",
+      "reference_rule": "References are not translated. English values were kept exactly as in dua_main_en.sqlite.",
+      "transliteration_rule": "Transliteration values were kept exactly as in dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "uthmani",
+        "transliteration",
+        "reference",
+        "cat_id",
+        "subcat_id",
+        "audio"
+      ],
+      "updated_at": "2026-09-05",
+      "rows": 31,
+      "id_range": "156-186",
+      "note": "Translated into natural, calm Japanese; structure, Arabic, references, transliteration, links, and nullness preserved. Rebuild and integrity checks passed. ID 184 follows its Arabic/title scope, Al-Ahzab 33:70-71."
+    },
+    "tables/ruqyah_instants/ruqyah_instants_007.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "name",
+        "content",
+        "translation"
+      ],
+      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_instants, ids 187-217); Qur'anic wording cross-checked against Saeed Sato's modern Japanese rendering.",
+      "reference_rule": "References are not translated. English values were kept exactly as in dua_main_en.sqlite.",
+      "transliteration_rule": "Transliteration values were kept exactly as in dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "uthmani",
+        "transliteration",
+        "reference",
+        "cat_id",
+        "subcat_id",
+        "audio"
+      ],
+      "updated_at": "2026-09-05",
+      "rows": 31,
+      "id_range": "187-217",
+      "note": "Translated into natural, calm Japanese; structure, Arabic, references, transliteration, links, and nullness preserved. Rebuild and integrity checks passed."
+    },
+    "tables/ruqyah_instants/ruqyah_instants_008.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "name",
+        "content",
+        "translation"
+      ],
+      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_instants, ids 218-248); Qur'anic wording cross-checked against Saeed Sato's modern Japanese rendering.",
+      "reference_rule": "References are not translated. English values were kept exactly as in dua_main_en.sqlite.",
+      "transliteration_rule": "Transliteration values were kept exactly as in dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "uthmani",
+        "transliteration",
+        "reference",
+        "cat_id",
+        "subcat_id",
+        "audio"
+      ],
+      "updated_at": "2026-09-05",
+      "rows": 31,
+      "id_range": "218-248",
+      "note": "Translated into natural, calm Japanese; structure, Arabic, references, transliteration, links, and nullness preserved. Rebuild and integrity checks passed."
+    },
+    "tables/ruqyah_instants/ruqyah_instants_009.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "name",
+        "content",
+        "translation"
+      ],
+      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_instants, ids 249-279); Qur'anic wording cross-checked against Saeed Sato's modern Japanese rendering.",
+      "reference_rule": "References are not translated. English values were kept exactly as in dua_main_en.sqlite.",
+      "transliteration_rule": "Transliteration values were kept exactly as in dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "uthmani",
+        "transliteration",
+        "reference",
+        "cat_id",
+        "subcat_id",
+        "audio"
+      ],
+      "updated_at": "2026-09-05",
+      "rows": 31,
+      "id_range": "249-279",
+      "note": "Translated into natural, calm Japanese; structure, Arabic, references, transliteration, links, and nullness preserved. Rebuild and integrity checks passed."
+    },
+    "tables/ruqyah_instants/ruqyah_instants_010.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "name",
+        "content",
+        "translation"
+      ],
+      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_instants, ids 280-308); Qur'anic wording cross-checked against Saeed Sato's modern Japanese rendering.",
+      "reference_rule": "References are not translated. English values were kept exactly as in dua_main_en.sqlite.",
+      "transliteration_rule": "Transliteration values were kept exactly as in dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "uthmani",
+        "transliteration",
+        "reference",
+        "cat_id",
+        "subcat_id",
+        "audio"
+      ],
+      "updated_at": "2026-09-05",
+      "rows": 29,
+      "id_range": "280-308",
+      "note": "Translated into natural, calm Japanese; structure, Arabic, references, transliteration, links, and nullness preserved. Rebuild and integrity checks passed."
     }
   }
 }
