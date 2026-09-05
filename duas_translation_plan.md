@@ -90,6 +90,7 @@ For metadata, use this meaning:
 | `tables/ruqyah_instants/ruqyah_instants_008.json` | 31 | complete; translated, references kept English |
 | `tables/ruqyah_instants/ruqyah_instants_009.json` | 31 | complete; translated, references kept English |
 | `tables/ruqyah_instants/ruqyah_instants_010.json` | 29 | complete; translated, references kept English |
+| `tables/ruqyah_details/ruqyah_details_001.json` | 40 | complete; translated, inline references kept English |
 
 ### Indonesian completed: `tables/subcategories/subcategories_001.json`
 
@@ -333,6 +334,16 @@ For metadata, use this meaning:
 - Qur'anic wording was checked against Saeed Sato's modern Japanese rendering and polished to match the database's calm, readable devotional style.
 - Exact Arabic passages already translated in the Japanese workspace reuse the established wording.
 - Source inconsistencies were resolved from the Arabic and verse title: ID `98` is Al-Mulk 67:1-4, and ID `184` is Al-Ahzab 33:70-71.
+
+### Completed: `ruqyah_details_001.json`
+
+- ID range: `1-40`
+- Rows: `40`
+- Completed on: `2026-09-05`
+- Translated fields: `topic_name`, `text`
+- Source: English rows from `dua_main_en.sqlite`
+- References: inline citations kept in English; numbers unchanged
+- Verification: JSON valid, Arabic and HTML structure unchanged, frozen fields and nullness intact, no Bengali in translated fields, rebuild passed, SQLite integrity `ok`
 
 Run this after each completed chunk:
 

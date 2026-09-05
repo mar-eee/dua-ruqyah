@@ -1018,6 +1018,26 @@
       "rows": 29,
       "id_range": "280-308",
       "note": "Translated into natural, calm Japanese; structure, Arabic, references, transliteration, links, and nullness preserved. Rebuild and integrity checks passed."
+    },
+    "tables/ruqyah_details/ruqyah_details_001.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "text"
+      ],
+      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_details, ids 1-40).",
+      "reference_rule": "Inline citations were kept in English and their numbers were not changed.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "cat_id",
+        "subcat_id"
+      ],
+      "updated_at": "2026-09-05",
+      "rows": 40,
+      "id_range": "1-40",
+      "note": "Translated and editorially polished in a calm, respectful Japanese style. Arabic passages, HTML structure, identifiers, links, and nullness were preserved. Rebuild and integrity checks passed."
     }
   }
 }
