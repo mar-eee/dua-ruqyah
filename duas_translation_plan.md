@@ -91,6 +91,10 @@ For metadata, use this meaning:
 | `tables/ruqyah_instants/ruqyah_instants_009.json` | 31 | complete; translated, references kept English |
 | `tables/ruqyah_instants/ruqyah_instants_010.json` | 29 | complete; translated, references kept English |
 | `tables/ruqyah_details/ruqyah_details_001.json` | 40 | complete; translated, inline references kept English |
+| `tables/ruqyah_details/ruqyah_details_002.json` | 40 | complete; translated, citation details preserved |
+| `tables/ruqyah_details/ruqyah_details_003.json` | 40 | complete; translated, citation details preserved |
+| `tables/ruqyah_details/ruqyah_details_004.json` | 40 | complete; translated, citation details preserved |
+| `tables/ruqyah_details/ruqyah_details_005.json` | 40 | complete; translated, citation details preserved |
 
 ### Indonesian completed: `tables/subcategories/subcategories_001.json`
 
@@ -344,6 +348,17 @@ For metadata, use this meaning:
 - Source: English rows from `dua_main_en.sqlite`
 - References: inline citations kept in English; numbers unchanged
 - Verification: JSON valid, Arabic and HTML structure unchanged, frozen fields and nullness intact, no Bengali in translated fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `ruqyah_details_002-005.json`
+
+- ID range: `41-200`
+- Rows: `160` (`40` per file)
+- Completed on: `2026-09-05`
+- Translated fields: `topic_name`, `text`
+- Source: English rows from `dua_main_en.sqlite`
+- References: inline citation details and numbers preserved; names transliterated where needed for natural Japanese
+- Editorial standard: professionally polished, calm and respectful literary Japanese; Islamic terminology standardized throughout
+- Verification: JSON valid, every HTML tag sequence and Arabic passage exactly preserved, frozen fields and nullness intact, Japanese present in every non-null translated field, no Bengali remains, rebuild passed, SQLite integrity `ok`
 
 Run this after each completed chunk:
 

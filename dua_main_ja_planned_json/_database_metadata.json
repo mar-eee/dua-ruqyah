@@ -1038,6 +1038,86 @@
       "rows": 40,
       "id_range": "1-40",
       "note": "Translated and editorially polished in a calm, respectful Japanese style. Arabic passages, HTML structure, identifiers, links, and nullness were preserved. Rebuild and integrity checks passed."
+    },
+    "tables/ruqyah_details/ruqyah_details_002.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "text"
+      ],
+      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_details, ids 41-80).",
+      "reference_rule": "Inline citation details and numbers were preserved; names were transliterated where needed for natural Japanese.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "cat_id",
+        "subcat_id"
+      ],
+      "updated_at": "2026-09-05",
+      "rows": 40,
+      "id_range": "41-80",
+      "note": "Translated and editorially polished in professional, calm Japanese. Arabic passages, HTML structure, identifiers, links, and nullness were preserved. Rebuild and integrity checks passed."
+    },
+    "tables/ruqyah_details/ruqyah_details_003.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "text"
+      ],
+      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_details, ids 81-120).",
+      "reference_rule": "Inline citation details and numbers were preserved; names were transliterated where needed for natural Japanese.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "cat_id",
+        "subcat_id"
+      ],
+      "updated_at": "2026-09-05",
+      "rows": 40,
+      "id_range": "81-120",
+      "note": "Translated and editorially polished in professional, calm Japanese. Arabic passages, HTML structure, identifiers, links, and nullness were preserved. Rebuild and integrity checks passed."
+    },
+    "tables/ruqyah_details/ruqyah_details_004.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "text"
+      ],
+      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_details, ids 121-160).",
+      "reference_rule": "Inline citation details and numbers were preserved; names were transliterated where needed for natural Japanese.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "cat_id",
+        "subcat_id"
+      ],
+      "updated_at": "2026-09-05",
+      "rows": 40,
+      "id_range": "121-160",
+      "note": "Translated and editorially polished in professional, calm Japanese. Arabic passages, HTML structure, identifiers, links, and nullness were preserved. Rebuild and integrity checks passed."
+    },
+    "tables/ruqyah_details/ruqyah_details_005.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "text"
+      ],
+      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_details, ids 161-200).",
+      "reference_rule": "Inline citation details and numbers were preserved; names were transliterated where needed for natural Japanese.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "cat_id",
+        "subcat_id"
+      ],
+      "updated_at": "2026-09-05",
+      "rows": 40,
+      "id_range": "161-200",
+      "note": "Translated and editorially polished in professional, calm Japanese. Arabic passages, HTML structure, identifiers, links, and nullness were preserved. Rebuild and integrity checks passed."
     }
   }
 }
