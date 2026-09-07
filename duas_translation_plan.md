@@ -323,3 +323,25 @@ python3 rebuild_japanese_from_json.py
 - References: English, not translated; unchanged from pre-review backup; all reference numbers matched the English database; transliterations unchanged and matched verbatim
 - Validation: JSON valid; record/key order, null values, protected fields, Arabic, audio, category/subcategory IDs and HTML unchanged; no Bengali in editable fields; protected `groups` retained verbatim; ID `339` note remains `null`
 - Rebuild: equivalent Node.js SQLite rebuild (Python unavailable); integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON; temporary files removed after verification
+
+### Indonesian completed: `dua_main_id_planned_json/tables/duas/duas_011.json`
+
+- Status: `pending` → `complete` (Indonesian; existing Japanese completion preserved)
+- ID range: `341-374`; rows: `34`; completed on: `2026-09-07`
+- Translated fields: `name`, `content`, `translation`, `note`
+- Source matching: all 34 exact IDs matched `dua_main_en.sqlite`; no missing English rows; Bengali consulted only for the animal-color ambiguity at ID `347`
+- References: English, not translated; copied from English DB with README spacing/punctuation normalization at IDs `348`, `354`, `361`, `362`; all numbers preserved
+- Transliteration: copied verbatim from English DB
+- Review: every translated field checked record by record for meaning, completeness, natural Indonesian and terminology; source inconsistencies retained at IDs `358` (entering-mosque wording) and `368` (repeated narration)
+- Validation: JSON valid, UTF-8, 2-space indentation, trailing newline; row/key order, null values, protected fields, Arabic, audio and category/subcategory IDs unchanged; HTML preserved; no Bengali in editable fields; protected `groups` preserved verbatim
+- Rebuild: equivalent Node.js SQLite rebuild (Python unavailable) using unchanged Indonesian schema metadata; integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON
+
+### Indonesian independent recheck: `dua_main_id_planned_json/tables/duas/duas_011.json`
+
+- Status: `complete` (independent recheck complete)
+- ID range: `341-374`; rows: `34`; reviewed on: `2026-09-07`
+- Reviewed every translated field (`name`, `content`, `translation`, `note`) record by record against the exact corresponding English row
+- Corrected IDs: `348`, `349`, `350`, `354`, `355`, `361`, `364`, `366`, `367`; clarified offering, restored visitor and standing meanings, and improved wording and completeness
+- References: English, not translated; unchanged from review backup and matched to English with existing README formatting normalization; transliteration unchanged and matched verbatim
+- Validation: JSON valid; row/key order, null values, protected fields, Arabic, audio, category/subcategory IDs, references, transliteration, HTML and URLs unchanged; no Bengali in editable fields; protected `groups` preserved verbatim
+- Rebuild: equivalent Node.js SQLite rebuild (Python unavailable); integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON
