@@ -345,3 +345,25 @@ python3 rebuild_japanese_from_json.py
 - References: English, not translated; unchanged from review backup and matched to English with existing README formatting normalization; transliteration unchanged and matched verbatim
 - Validation: JSON valid; row/key order, null values, protected fields, Arabic, audio, category/subcategory IDs, references, transliteration, HTML and URLs unchanged; no Bengali in editable fields; protected `groups` preserved verbatim
 - Rebuild: equivalent Node.js SQLite rebuild (Python unavailable); integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON
+
+### Indonesian completed: `dua_main_id_planned_json/tables/duas/duas_012.json`
+
+- Status: `pending` → `complete` (Indonesian; existing Japanese completion preserved)
+- ID range: `375-408`; rows: `34`; completed on: `2026-09-07`
+- Translated fields: `name`, `content`, `translation`, `note`
+- Source matching: all 34 exact English IDs matched; no missing rows; Bengali/Arabic consulted only for ambiguities, particularly IDs `389` and `394`
+- References: English, not translated; copied from English DB with README spacing/language normalization at IDs `381`, `390`; all numbers preserved
+- Transliteration: copied verbatim from English DB
+- Source anomalies retained: ID `379` variant explanation differs from Arabic/Bengali; ID `381` note repeats “forgiven”; ID `390` English introduction names prayer tashahhud and omits the Arabic kinship clause from the translation; followed mandated English source without inventing replacements
+- Review and validation: every translated field reviewed for meaning, completeness, natural Indonesian and terminology; JSON valid, UTF-8, 2-space indentation, trailing newline; row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML and URLs unchanged; no Bengali in editable fields; protected `groups` preserved verbatim
+- Rebuild: equivalent Node.js SQLite rebuild (Python unavailable), using unchanged Indonesian schema metadata; integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON
+
+### Indonesian independent recheck: `dua_main_id_planned_json/tables/duas/duas_012.json`
+
+- Status: `complete` (independent recheck complete)
+- ID range: `375-408`; rows: `34`; reviewed on: `2026-09-07`
+- Reviewed every translated field (`name`, `content`, `translation`, `note`) record by record against the exact corresponding English row
+- Corrected IDs: `381`, `391`, `393`, `400`, `401`, `402`, `403`; improved glorification wording, family comfort meaning, natural phrasing and the meaning of being raised by parents
+- References: English, not translated; unchanged from review backup and matched English with existing README normalization; transliteration unchanged and matched verbatim
+- Validation: JSON valid; record/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML and URLs unchanged; no Bengali in editable fields; protected `groups` retained verbatim; previously documented source inconsistencies preserved
+- Rebuild: equivalent Node.js SQLite rebuild (Python unavailable); integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON
