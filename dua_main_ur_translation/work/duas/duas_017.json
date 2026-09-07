@@ -4,10 +4,304 @@
   "source_language": "en",
   "target_language": "ur",
   "status": "pending",
-  "rows": 10,
-  "id_range": "229-238",
-  "source_chars": 5840,
+  "rows": 14,
+  "id_range": "221-234",
+  "source_chars": 5780,
   "items": [
+    {
+      "key": [
+        221
+      ],
+      "id": 221,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 221,
+        "groups": null,
+        "uthmani": "سُبْحَانَ ذِي الْجَبَرُوتِ، وَالْمَلَكُوتِ، وَالْكِبْرِيَاءِ، وَالْعَظَمَةِ",
+        "indopak": "سُبْحَانَ ذِى الْجَبَرُوْتِ، وَالْمَلَكُوْتِ، وَالْكِبْرِيَاءِ، وَالْعَظَمَةِ",
+        "clean": "سبحان ذي الجبروت والملكوت والكبرياء والعظمه",
+        "transliteration": "Subhaana dhil-jabarooti, wal-malakooti, wal-kibriyaa'i, wal-'adhamah",
+        "reference": "Hasan (Albani). Abu Dawud: 873",
+        "audio": 221,
+        "cat_id": 13,
+        "subcat_id": 36
+      },
+      "source": {
+        "name": "Dua while prostrating [sujood] #9",
+        "content": null,
+        "translation": "Glory is to You, Master of power, of dominion, of majesty and greatness.",
+        "note": "Narrated by Awf ibn Malik al-Ashja'i (RA): I stood up to pray along with the Messenger of Allah (ﷺ); he got up and recited Surat al-Baqarah (Surah 2). When he came to a verse which spoke of mercy, he stopped and made supplication, and when he came to verse which spoke of punishment, he stopped and sought refuge in Allah, then he bowed and paused as long as he stood (reciting Surah al-Baqarah) Then he prostrated and paused as long as he bowed down. In prostration he said- (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "সিজদার দোয়া সমূহ #৯",
+        "translation": "পবিত্র সেই সত্তা, যিনি সর্বময় ক্ষমতার অধিকারী, সার্বভৌমত্ব, শ্রেষ্ঠত্ব ও মহত্ত্বের অধিকারী।",
+        "note": "আউফ ইবনু মালিক আশজাঈ (রাঃ) থেকে বর্ণিত, তিনি বলেন, আমি (একবার) আল্লাহ্‌র রাসূল (ﷺ)-এর সঙ্গে রাতের সালাতে দাঁড়িয়ে যাই। তিনি (সালাতে) দাড়িয়ে সূরা আল-বাকারাহ্ পাঠ করেন। রহমত বা দয়া সংক্রান্ত কোনও আয়াত অতিক্রম করার পরপরই তিনি থেমে (আল্লাহ্‌র কাছে তা) চান, এবং শাস্তি সংক্রান্ত প্রত্যেকটি আয়াত শেষ করার সঙ্গে সঙ্গে তিনি থেমে (আল্লাহ্‌র কাছে তা থেকে) আশ্রয় চান। এরপর, যেটুকু সময় দাঁড়িয়ে ছিলেন, ততটুকু সময় ধরে রুকূতে থাকেন। এরপর তিনি সিজদায় গিয়ে ততক্ষণ থাকেন, যতক্ষণ তিনি রুকূতে ছিলেন। সিজদায় তিনি বলেন - (দোয়াটি উপরে উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        222
+      ],
+      "id": 222,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 222,
+        "groups": null,
+        "uthmani": "رَبِّ اغْفِرْ لِي، رَبِّ اغْفِرْ لِي",
+        "indopak": "رَبِّ اغْفِرْ لِىْ، رَبِّ اغْفِرْ لِىْ",
+        "clean": "رب اغفر لي رب اغفر لي",
+        "transliteration": "Rabbighfir lee, Rabbighfir lee",
+        "reference": "Sahih (Albani). Abu Dawud: 874",
+        "audio": 222,
+        "cat_id": 13,
+        "subcat_id": 37
+      },
+      "source": {
+        "name": "Dua between two prostrations #1",
+        "content": null,
+        "translation": "O My Lord, forgive me. My Lord, forgive me.",
+        "note": "Huzaifa (RA) said that the Prophet (ﷺ) used to recite the above mentioned dua while sitting in the middle of two prostrations."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "দুই সিজদার মধ্যবর্তী দোয়া #১",
+        "translation": "হে প্রভু আমাকে ক্ষমা করুন, হে প্রভু আমাকে ক্ষমা করুন।",
+        "note": "হুযাইফা (রাঃ) বলেন, নবীজী (ﷺ) দু'সিজদার মাঝে বসে উপরের দোয়াটি বলতেন।"
+      }
+    },
+    {
+      "key": [
+        223
+      ],
+      "id": 223,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 223,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي وَارْحَمْنِي وَعَافِنِي وَاهْدِنِي وَارْزُقْنِي",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِىْ وَارْحَمْنِىْ وَعَافِنِىْ وَاهْدِنِىْ وَارْزُقْنِىْ",
+        "clean": "اللهم اغفر لي وارحمني وعافني واهدني وارزقني",
+        "transliteration": "Allahum-maghfir lee, warhamnee, wa 'aafinee, wahdinee, warzuqnee",
+        "reference": "Sahih (Albani). Tirmidhi: 284, Hasan (Albani). Abu Dawud: 850",
+        "audio": 223,
+        "cat_id": 13,
+        "subcat_id": 37
+      },
+      "source": {
+        "name": "Dua between two prostrations #2",
+        "content": null,
+        "translation": "O Allah! Pardon me, have mercy on me, guide me, and grant me sustenance.",
+        "note": "The Prophet (ﷺ) used to say this dua while sitting between two prostrations."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "দুই সিজদার মধ্যবর্তী দোয়া #২",
+        "translation": "হে আল্লাহ্‌! তুমি আমাকে ক্ষমা করো, আমার প্রতি রহম করো, আমাকে সুস্থতা দান করো, সঠিক পথে পরিচালিত করো এবং রিযিক দান করো।",
+        "note": "রাসূলুল্লাহ্‌ (ﷺ) 'দু সিজদার মাঝে বসে এ দোয়া বলতেন।"
+      }
+    },
+    {
+      "key": [
+        224
+      ],
+      "id": 224,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 224,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Muslim: 81",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 38
+      },
+      "source": {
+        "name": "Prostration due to Quran recitation",
+        "content": "It is narrated on the authority of Abu Huraira (RA) The Messenger of Allah (ﷺ) that when, the son of Adam recites the Ayat of Sajdah (prostration) and then falls down in prostration, the Satan goes into seclusion and weeps and says: Alas, and in the narration of Abu Kuraib the words are: Woe unto me, the son of Adam was commanded to prostrate, and he prostrated and Paradise was entitled to him and I was commanded to prostrate, but I refused and am doomed to Hell.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সিজদার আয়াত পড়ে সিজদা দেওয়া",
+        "content": "আবূ হুরায়রাহ (রাঃ) থেকে বর্ণিতঃ রসূলুল্লাহ (ﷺ) বলেছেনঃ মানুষ যখন সিজদার আয়াত তিলাওয়াত করে সাজদায় যায়, তখন শয়তান কাঁদতে কাঁদতে দূরে সরে পড়ে এবং বলতে থাকে হায়! আমার দুর্ভাগ্য! ইবনু কুরায়বের বর্ণনায় রয়েছে, হায়রে, আমার দুর্ভাগ্য! বনী আদম সিজদার জন্য আদিষ্ট হলো। তারপর সে সাজদাহ করলো এবং এর বিনিময়ে তার জন্য জান্নাত নির্ধারিত হলো। আর আমাকে সিজদার জন্য আদেশ করা হলো, কিন্তু আমি তা অস্বীকার করলাম, ফলে আমার জন্য জাহান্নাম নির্ধারিত হলো।"
+      }
+    },
+    {
+      "key": [
+        225
+      ],
+      "id": 225,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 225,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اكْتُبْ لِي بِهَا عِنْدَكَ أَجْرًا، وَضَعْ عَنِّي بِهَا وِزْرًا، وَاجْعَلْهَا لِي عِنْدَكَ ذُخْرًا، وَتَقَبَّلْهَا مِنِّي كَمَا تَقَبَّلْتَهَا مِنْ عَبْدِكَ دَاوُدَ",
+        "indopak": "اَللّٰهُمَّ اكْتُبْ لِىْ بِهَا عِنْدَكَ اَجْرًا، وَضَعْ عَنِّىْ بِهَا وِزْرًا، وَاجْعَلْهَا لِىْ عِنْدَكَ ذُخْرًا، وَتَقَبَّلْهَا مِنِّىْ كَمَا تَقَبَّلْتَهَا مِنْ عَبْدِكَ دَاوٗدَ",
+        "clean": "اللهم اكتب لي بها عندك اجرا وضع عني بها وزرا واجعلها لي عندك ذخرا وتقبلها مني كما تقبلتها من عبدك داود",
+        "transliteration": "Allahum-maktub lee bihaa ‘indaka ‘ajran, wada', ‘annee bihaa wizran, waj’alhaa lee ‘indaka dhukhran, wa taqabbalhaa minnee kamaa taqabbaltahaa min ’abdika Daawood",
+        "reference": "Hasan (Albani). Tirmidhi: 579",
+        "audio": 225,
+        "cat_id": 13,
+        "subcat_id": 38
+      },
+      "source": {
+        "name": "Dua in the prostration due to Quran recitation",
+        "content": "Prophet (ﷺ) recited the verse of prostration and went to sujood and make this dua:",
+        "translation": "O Allah, write it as a reward for me, and release me from a sin for it, and make it a treasure for me in Paradise. Accept it from me as You accepted it from your servant Dawud.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাধারণ অবস্থায় সিজদার আয়াত পড়ার পর দোয়া",
+        "content": "নবী (ﷺ) একটি সিজদার আয়াত পড়ে সিজদায় গিয়ে এই দোয়া করেন -",
+        "translation": "হে আল্লাহ্‌! এই সাজদাহ্‌র বিনিময়ে তোমার কাছে আমার জন্য সাওয়াব নির্ধারণ করে রাখ, এর বিনিময়ে আমার একটি গুনাহ দূর করো, এটাকে তোমার কাছে আমার জন্য সঞ্চয় হিসেবে জমা রাখ এবং এটা আমার নিকট হতে গ্রহণ করে নাও, যেভাবে তুমি তোমার বান্দা দাঊদ (আঃ)-এর নিকট গ্রহণ করেছিলে।"
+      }
+    },
+    {
+      "key": [
+        226
+      ],
+      "id": 226,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 226,
+        "groups": null,
+        "uthmani": "سَجَدَ وَجْهِيَ لِلَّذِي خَلَقَهُ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ بِحَوْلِهِ وَقُوَّتِهِ",
+        "indopak": "سَجَدَ وَجْهِىَ لِلَّذِىْ خَلَقَهٗ، وَشَقَّ سَمْعَهٗ وَبَصَرَهٗ بِحَوْلِهٖ وَقُوَّتِهٖ",
+        "clean": "سجد وجهي للذي خلقه وشق سمعه وبصره بحوله وقوته",
+        "transliteration": "Sajada wajhiya lilladhee khalaqahu, wa shaqqa sam'a-hu wa basarahu bi hawlihi wa quwwatih",
+        "reference": "Hasan (Albani). Tirmidhi: 580",
+        "audio": 226,
+        "cat_id": 13,
+        "subcat_id": 38
+      },
+      "source": {
+        "name": "Dua after reciting the verses of Prostration #1",
+        "content": "The Messenger of Allah (ﷺ) recited the verses of prostration at night, he would go in prostration and say:",
+        "translation": "I have prostrated my face to the One Who created it, and gave it hearing and sight by His might and His power.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সিজদার আয়াত পড়ে সিজদায় গিয়ে দোয়া #১",
+        "content": "আল্লাহ্‌র রাসূল (ﷺ) রাতে সিজদার আয়াত পড়লে, সিজদায় গিয়ে বলতেন -",
+        "translation": "আমার চেহারা তাঁর উদ্দেশে সিজদায় অবনত, যিনি একে সৃষ্টি করেছেন এবং কান ও চোখ খুলে দিয়েছেন। তাঁর নিজের অপার ক্ষমতাবলে।"
+      }
+    },
+    {
+      "key": [
+        227
+      ],
+      "id": 227,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 227,
+        "groups": null,
+        "uthmani": "سَجَدَ وَجْهِيَ لِلَّذِي خَلَقَهُ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ بِحَوْلِهِ وَقُوَّتِهِ، فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ",
+        "indopak": "سَجَدَ وَجْهِىَ لِلَّذِىْ خَلَقَهٗ، وَشَقَّ سَمْعَهٗ وَبَصَرَهٗ بِحَوْلِهٖ وَقُوَّتِهٖ، فَتَبَارَكَ اللّٰهُ اَحْسَنُ الْخَالِقِيْنَ",
+        "clean": "سجد وجهي للذي خلقه وشق سمعه وبصره بحوله وقوته فتبارك الله احسن الخالقين",
+        "transliteration": "Sajada wajhiya lilladhee khalaqahu, wa shaqqa sam'ahu wa basarahu bi hawlihi wa quwwatihi. FatabaarakAllahu 'ahsanul-khaaliqeen",
+        "reference": "Sahih (Albani). Tirmidhi: 3425, Sura Al Muminun 23:14",
+        "audio": 227,
+        "cat_id": 13,
+        "subcat_id": 38
+      },
+      "source": {
+        "name": "Dua after reciting the verses of Prostration #2",
+        "content": null,
+        "translation": "I have prostrated my face to the One Who created it, and gave it hearing and sight by His might and His power. So blessed is Allah, the best of creators.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সিজদার আয়াত পড়ে সিজদায় গিয়ে দোয়া #২",
+        "translation": "আমার মুখমণ্ডল সিজদা করেছে সে সত্ত্বার জন্য, যিনি একে সৃষ্টি করেছেন, আর নিজ শক্তি ও ক্ষমতাবলে এর কান ও চোখ বিদীর্ণ করেছেন। সুতরাং সর্বোত্তম স্রষ্টা আল্লাহ্‌ অত্যন্ত বরকতময়।"
+      }
+    },
+    {
+      "key": [
+        228
+      ],
+      "id": 228,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 228,
+        "groups": null,
+        "uthmani": "اَلتَّحِيَّاتُ لِلَّهِ، وَالصَّلَوَاتُ، وَالطَّيِّبَاتُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ",
+        "indopak": "اَلتَّحِيَّاتُ لِلّٰهِ، وَالصَّلَوَاتُ، وَالطَّيِّبَاتُ، اَلسَّلَامُ عَلَيْكَ اَيُّهَا النَّبِىُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهٗ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللّٰهِ الصَّالِحِيْنَ، اَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اللّٰهُ وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهٗ وَرَسُوْلُهٗ",
+        "clean": "التحيات لله والصلوات والطيبات السلام عليك ايها النبي ورحمه الله وبركاته السلام علينا وعلي عباد الله الصالحين اشهد ان لا اله الا الله واشهد ان محمدا عبده ورسوله",
+        "transliteration": "Attahiyyaatu lillaahi wassalawaatu, wattayyibaatu, assalaamu 'alayka 'ayyuhan-Nabiyyu wa rahmatullaahi wa barakaatuhu, assalaamu 'alaynaa wa 'alaa 'ibaadillaahis-saaliheen. 'Ash-hadu 'an laa 'ilaaha 'illAllahu wa 'ash-hadu 'anna Muhammadan 'abduhu wa Rasooluhu",
+        "reference": "Bukhari: 7381",
+        "audio": 228,
+        "cat_id": 13,
+        "subcat_id": 39
+      },
+      "source": {
+        "name": "Tashahhud (At-Tahiyyat)",
+        "content": null,
+        "translation": "All greetings of humility are for Allah, and all prayers and goodness. Peace be upon you, O Prophet, and the mercy of Allah and His blessings. Peace be upon us and upon the righteous slaves of Allah. I bear witness that there is none worthy of worship but Allah, and I bear witness that Muhammad is His slave and His Messenger.",
+        "note": "Tashahood was narrated by various companions (with different wordings). Ibn Mas'ud (RA) said, We used to pray behind the Prophet (ﷺ) and used to say: \"As-Salaamu 'Al-Allah. Peace be upon Allah. The Prophet (ﷺ) said, \"Allah himself is As-Salam (Name of Allah), so you should say: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "তাশাহুদ (আত-তাহিয়্যাত)",
+        "translation": "সমস্ত মৌখিক, দৈহিক ও আর্থিক ইবাদত আল্লাহ্‌র জন্য। হে নবী! আপনার প্রতি সালাম এবং আল্লাহ্‌র রহমত ও বরকত বর্ষিত হোক। সালাম আমাদের প্রতি এবং আল্লাহ্‌র নেক বান্দাগণের প্রতি। আমি সাক্ষ্য প্রদান করছি যে, আল্লাহ্‌ ব্যতীত আর কোন মাবূদ নাই এবং আমি আরো সাক্ষ্য দিচ্ছি যে, নিশ্চয়ই মুহাম্মাদ (ﷺ) আল্লাহ্‌র বান্দা ও রাসূল।",
+        "note": "বিভিন্ন সাহাবী থেকে (বিভিন্ন শব্দে) তাশাহুদ বর্ণিত হয়েছে। ইবনু মাসউদ (রাঃ) বলেন, আমরা রাসূলুল্লাহ্‌ (ﷺ) এর পেছনে সালাত আদায়ের সময় বসলে বলতাম: আল্লাহ্‌র উপর সালাম। রাসূলুল্লাহ্‌ (ﷺ) একদিন আমাদেরকে বললেন: আল্লাহ্‌ই হচ্ছেন সালাম (কাজেই, তাঁকে সালাম প্রদান করা ঠিক নয়)। অতএব, তোমরা যখন সালাতের মধ্যে বসবে তখন বলবে: (দোয়াটি উপরে উল্লেখিত হয়েছে)"
+      }
+    },
     {
       "key": [
         229
@@ -38,6 +332,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "তাশাহুদের পর নবী (ﷺ)-এর জন্য দরুদ পাঠ #১",
+        "translation": "হে আল্লাহ্‌! তুমি মুহাম্মাদ (ﷺ) ও তাঁর পরিবারবর্গের উপর রহমত বর্ষণ করো, যেভাবে রহমত বর্ষণ করেছো ইবরাহীম (আঃ) ও তাঁর পরিবারবর্গের প্রতি। নিশ্চয়ই তুমি প্রশংসিত ও সম্মানিত। হে আল্লাহ্‌! বরকত অবতীর্ণ করো মুহাম্মাদ (ﷺ) ও তাঁর পরিবারবর্গের উপর, যেভাবে তুমি বরকত নাযিল করেছো ইবরাহীম (আঃ) ও তাঁর পরিবার-পরিজনের প্রতি। নিশ্চয়ই তুমি প্রশংসিত ও সম্মানিত’।",
+        "note": "কা‘ব্ ইবনু ‘উজ্‌রহ্‌ (রাঃ) বলেন, আমরা রাসূলুল্লাহ্‌ (ﷺ)-কে জিজ্ঞেস করলাম, হে আল্লাহ্‌র রাসূল! আপনাদের উপর অর্থাৎ আহলে বাইতের উপর কিভাবে দরুদ পাঠ করতে হবে? কেননা, আল্লাহ্‌ তো (কেবল) আমাদেরকে জানিয়ে দিয়েছেন, আমরা কিভাবে আপনার উপর সালাম করব। তিনি (ﷺ) বললেন, তোমরা এভাবে বলো - (দোয়াটি উপরে উল্লেখিত হয়েছে)"
       }
     },
     {
@@ -70,6 +369,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "তাশাহুদের পর নবী (ﷺ)-এর জন্য দরুদ পাঠ #২",
+        "translation": "হে আল্লাহ্‌! শান্তি বর্ষণ করো মুহাম্মাদ (ﷺ)-এর উপর, এবং তাঁর স্ত্রী ও বংশধরদের উপর, যেভাবে শান্তি বর্ষণ করেছো ইবরাহীম (আঃ)-এর পরিবারের উপর আর অনুগ্রহ বর্ষণ করো মুহাম্মাদ (ﷺ)-এর উপর, এবং তাঁর স্ত্রী ও বংশধরদের উপর, যেভাবে অনুগ্রহ বর্ষণ করেছো ইবরাহীম (আঃ)-এর পরিবারের উপর তুমি প্রশংসিত, মহিমান্বিত।",
+        "note": "আবূ হামিদ সাইদি (রাঃ) থেকে বর্ণিত, তারা জিজ্ঞাসা করেন, “হে আল্লাহ্‌র রাসূল (ﷺ)! আমরা আপনার জন্য কীভাবে দরুদ পাঠ করব?” তখন নবী (ﷺ) বলেন, তোমরা বলো - (দোয়াটি উপরে উল্লেখিত হয়েছে )"
       }
     },
     {
@@ -102,6 +406,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "দোয়া মাসূরা #১",
+        "translation": "হে আল্লাহ্‌, আপনি আমাদের অন্তরের মধ্যে পরস্পরের প্রতি ভালোবাসা ও সম্প্রীতি সৃষ্টি করে দিন। আপনি আমাদের মধ্যে সুসম্পর্ক ও সৌহার্দ্য প্রদান করুন। আপনি আমাদেরকে শান্তির পথে পরিচালিত করুন, আমাদেরকে অন্ধকার থেকে মুক্ত করে আলোয় নিয়ে আসুন, আমাদেরকে প্রকাশ্য ও অপ্রকাশ্য সকল অশ্লীলতা থেকে রক্ষা করুন। আপনি আমাদের শ্রবণযন্ত্রে, আমাদের দৃষ্টিশক্তিতে, আমাদের অন্তরে, আমাদের দাম্পত্য সঙ্গীগণের মধ্যে এবং আমাদের সন্তানগণের মধ্যে বরকত প্রদান করুন। আপনি আমাদের তাওবা কবুল করুন। নিশ্চয় আপনি তাওবা কবুলকারী পরম করুণাময়। আপনি আমাদেরকে আপনার নিয়ামতের কৃতজ্ঞতা আদায়ের, নিয়ামতের জন্য আপনার প্রশংসা করার এবং নিয়ামতকে সসম্মানে গ্রহণ করার তাওফীক প্রদান করুন এবং আপনি আমাদের জন্য প্রদত্ত্ব আপনার নিয়ামতকে পূর্ণ করুন।",
+        "note": "আব্দুল্লাহ ইবনু মাসউদ (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) আমাদেরকে তাশাহুদের পরে দোয়ার জন্য এ বাক্যগুলো শেখাতেন।"
       }
     },
     {
@@ -134,6 +443,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "দোয়া মাসূরা #২",
+        "translation": "হে আল্লাহ্‌, আমি আপনার নিকট আশ্রয় চাই- জাহান্নামের আযাব থেকে, কবরের আযাব থেকে, জাগতিক জীবনের ও মৃত্যুর ফিতনা (পরীক্ষা বা বিপদ) থেকে এবং দাজ্জালের অমঙ্গল থেকে।",
+        "note": "রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, “তোমরা যখন তাশাহুদ শেষ করবে, তখন চারটি বিষয় থেকে আল্লাহ্‌র নিকট আশ্রয় প্রার্থনা করে বলবে - (দোয়াটি উপরে উল্লেখিত হয়েছে)"
       }
     },
     {
@@ -166,6 +480,12 @@
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "দোয়া মাসূরা #৩",
+        "content": "রাসূলুল্লাহ্‌ (ﷺ) নামাযের শেষে তাশাহুদ ও সালামের মধ্যবর্তী সময়ে এ কথাগুলো বলতেন -",
+        "translation": "হে আল্লাহ্‌, আপনি ক্ষমা করে দেন আমার আগের পাপ, পরের পাপ, গোপন পাপ, প্রকাশ্য পাপ, আমার বাড়াবাড়ি এবং যে সকল পাপের কথা আপনি আমার চেয়ে বেশী জানেন। আপনিই অগ্রবর্তী করেন এবং আপনিই পিছিয়ে দেন। আপনি ছাড়া কোন প্রকৃত উপাস্য নেই।",
+        "note": "তাশাহুদের পর সালাম ফেরানোর আগে, আল্লাহ্‌র রাসূল (ﷺ) সব শেষে যা পড়তেন তার মধ্যে ছিল এটি।"
       }
     },
     {
@@ -198,134 +518,11 @@
         "content": "",
         "translation": "",
         "note": null
-      }
-    },
-    {
-      "key": [
-        235
-      ],
-      "id": 235,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 235,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ بِعِلْمِكَ الْغَيْبَ وَقُدْرَتِكَ عَلَى الْخَلْقِ أَحْيِنِيْ مَا عَلِمْتَ الْحَيَاةَ خَيْرًا لِي وَتَوَفَّنِيْ إِذَا عَلِمْتَ الْوَفَاةَ خَيْرًا لِي اَللَّهُمَّ وَأَسْأَلُكَ خَشْيَتَكَ فِي الْغَيْبِ وَالشَّهَادَةِ وَأَسْأَلُكَ كَلِمَةَ الْحَقِّ فِي الرِّضَا وَالْغَضَبِ وَأَسْأَلُكَ الْقَصْدَ فِي الْفَقْرِ وَالْغِنَى وَأَسْأَلُكَ نَعِيْمًا لَا يَنْفَدُ وَأَسْأَلُكَ قُرَّةَ عَيْنٍ لَا تَنْقَطِعُ وَأَسْأَلُكَ الرِّضَا بَعْدَ الْقَضَاءِ وَأَسْأَلُكَ بَرْدَ الْعَيْشِ بَعْدَ الْمَوْتِ وَأَسْأَلُكَ لَذَّةَ النَّظَرِ إِلَى وَجْهِكَ وَالشَّوْقَ إِلَى لِقَائِكَ فِي غَيْرِ ضَرَّاءَ مُضِرَّةٍ وَلَا فِتْنَةٍ مُضِلَّةٍ اَللَّهُمَّ زَيِّنَا بِزِيْنَةِ الْإِيْمَانِ وَاجْعَلْنَا هُدَاةً مُهْتَدِيْنَ",
-        "indopak": "اَللّٰهُمَّ بِعِلْمِكَ الْغَيْبَ وَقُدْرَتِكَ عَلَى الْخَلْقِ اَحْيِنِىْ مَا عَلِمْتَ الْحَيَاةَ خَيْرًا لِّىْ وَتَوَفَّنِىْ اِذَا عَلِمْتَ الْوَفَاةَ خَيْرًا لِّىْ اَللّٰهُمَّ وَاَسْاَلُكَ خَشْيَتَكَ فِى الْغَيْبِ وَالشَّهَادَةِ وَاَسْاَلُكَ كَلِمَةَ الْحَقِّ فِى الرِّضَا وَالْغَضَبِ وَاَسْاَلُكَ الْقَصْدَ فِى الْفَقْرِ وَالْغِنٰى وَاَسْاَلُكَ نَعِيْمًا لَّا يَنْفَدُ وَاَسْاَلُكَ قُرَّةَ عَيْنٍ لَّا تَنْقَطِعُ وَاَسْاَلُكَ الرِّضَا بَعْدَ الْقَضَاءِ وَاَسْاَلُكَ بَرْدَ الْعَيْشِ بَعْدَ الْمَوْتِ وَاَسْاَلُكَ لَذَّةَ النَّظَرِ اِلٰى وَجْهِكَ وَالشَّوْقَ اِلٰى لِقَائِكَ فِىْ غَيْرِ ضَرَّاءَ مُضِرَّةٍ وَلَا فِتْنَةٍ مُّضِلَّةٍ اَللّٰهُمَّ زَيِّنَا بِزِيْنَةِ الْاِيْمَانِ وَاجْعَلْنَا هُدَاةً مُّهْتَدِيْنَ",
-        "clean": "اللهم بعلمك الغيب وقدرتك علي الخلق احيني ما علمت الحياه خيرا لي وتوفني اذا علمت الوفاه خيرا لي اللهم واسالك خشيتك في الغيب والشهاده واسالك كلمه الحق في الرضا والغضب واسالك القصد في الفقر والغني واسالك نعيما لا ينفد واسالك قره عين لا تنقطع واسالك الرضا بعد القضاء واسالك برد العيش بعد الموت واسالك لذه النظر الي وجهك والشوق الي لقاءك في غير ضراء مضره ولا فتنه مضله اللهم زينا بزينه الايمان واجعلنا هداه مهتدين",
-        "transliteration": "Allaahumma bi'ilmikal-ghayba wa qudratika 'alal-khalq, 'ahyinee maa 'alimtal-hayaata khayran lee wa tawaffanee 'idhaa 'alimtal-wafaata khayran lee, Allaahumma wa 'as'aluka khashyataka fil-ghaybi wash-shahaadati, wa 'as'aluka kalimatal-haqqi fir-ridhaa wal-ghadhabi, wa 'as'alukal-qasda fil-faqri walghinaa, wa 'as'aluka na'eeman laa yanfadu, wa 'as'aluka qurrata 'aynin laa tanqati'u, wa 'as'alukar-ridhaa ba'dal-qadhaa, wa 'as'aluka bardal-'ayshi ba'dal-mawti, wa 'as'aluka ladh-dhatan-nadhari 'ilaa wajhika wash-shawqa 'ilaa liqaa'ika fee ghayri darraa'a mudirratin wa laa fitnatin mudillatin, Allaahumma zayyinnaa bizeenatil-'eemaani waj'alnaa hudaatan muhtadeen",
-        "reference": "Sahih (Albani). Nasai: 1305",
-        "audio": 235,
-        "cat_id": 13,
-        "subcat_id": 41
       },
-      "source": {
-        "name": "Dua Mathurah #5",
-        "content": null,
-        "translation": "O Allah, by Your Knowledge of the unseen and by Your Power over creation, let me live if You know that life is good for me, and let me die if You know that death is good for me. O Allah, I ask You to grant me fear of You in private and in public. I ask you for the word of truth in times of contentment and anger. I ask You for moderation in wealth and in poverty. I ask you for blessings never ceasing and the coolness of my eye (i .e . pleasure) that never ends. I ask You for pleasure after Your Judgment and I ask You for a life of coolness after death. I ask You for the delight of gazing upon Your Face and the joy of meeting You without any harm and misleading trials befalling me. O Allah, dress us with the beauty of Faith, and make us guides who are upon (correct) guidance.",
-        "note": "It was narrated from Ata bn As-Sa'ib (R) that: Ammar bin Yasir (RA) led us in prayer and he made it brief. Some of the people said to him: 'You made the prayer short.He said: 'Nevertheless I still recited supplications that I heard from the Messenger of Allah (ﷺ).' Saying this, he taught them the above dua."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        236
-      ],
-      "id": 236,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 236,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنَ الْخَيْرِ كُلِّهِ عَاجِلِهِ وَآجِلِهِ، مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ، وَأَعُوْذُ بِكَ مِنَ الشَّرِّ كُلِّهِ عَاجِلِهِ وَآجِلِهِ، مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ عَبْدُكَ وَنَبِيُّكَ، وَأَعُوْذُ بِكَ مِنْ شَرِّ مَا عَاذَ بِهِ عَبْدُكَ وَنَبِيُّكَ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَعُوْذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَسْأَلُكَ أَنْ تَجْعَلَ كُلَّ قَضَاءٍ قَضَيْتَهُ لِي خَيْرًا",
-        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ مِنَ الْخَيْرِ كُلِّهٖ عَاجِلِهٖ وَاٰجِلِهٖ، مَا عَلِمْتُ مِنْهُ وَمَا لَمْ اَعْلَمْ، وَاَعُوذُ بِكَ مِنَ الشَّرِّ كُلِّهٖ عَاجِلِهٖ وَاٰجِلِهٖ، مَا عَلِمْتُ مِنْهُ وَمَا لَمْ اَعْلَمْ، اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ مِنْ خَيْرِ مَا سَاَلَكَ عَبْدُكَ وَنَبِيُّكَ، وَاَعُوْذُ بِكَ مِنْ شَرِّ مَا عَاذَ بِهٖ عَبْدُكَ وَنَبِيُّكَ، اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ الْجَنَّةَ وَمَا قَرَّبَ اِلَيْهَا مِنْ قَوْلٍ اَوْ عَمَلٍ، وَاَعُوْذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ اِلَيْهَا مِنْ قَوْلٍ اَوْ عَمَلٍ، وَاَسْاَلُكَ اَنْ تَجْعَلَ كُلَّ قَضَاءٍ قَضَيْتَهُ لِىْ خَيْرًا",
-        "clean": "اللهم اني اسالك من الخير كله عاجله واجله ما علمت منه وما لم اعلم واعوذ بك من الشر كله عاجله واجله ما علمت منه وما لم اعلم اللهم اني اسالك من خير ما سالك عبدك ونبيك واعوذ بك من شر ما عاذ به عبدك ونبيك اللهم اني اسالك الجنه وما قرب اليها من قول او عمل واعوذ بك من النار وما قرب اليها من قول او عمل واسالك ان تجعل كل قضاء قضيته لي خيرا",
-        "transliteration": "Allaahumma inni as'aluka minal-khayri kullihi, 'aajilihi wa aajilihi, maa 'alimtu minhu wa maa lam a'lam. Wa A‛oodhu bika minash-sharri kullihi, 'aajilihi wa aajilihi, maa 'alimtu minhu wa maa lam a'lam. Allaahumma inni as'aluka min khayri maa sa'alaka 'abduka wa nabiyyuka, wa A‛oodhu bika min sharri maa 'aadha bihi 'abduka wa nabiyyuka. Allaahumma inni as'alukal-jannata wa maa qarraba ilayhaa min qawlin aw 'amal, wa A‛oodhu bika minan-naari wa maa qarraba ilayhaa min qawlin aw 'amal, wa as'aluka an taj'al kulla qadaa'in qadaytahu li khayra",
-        "reference": "Sahih (Albani). Ibn Majah: 3846",
-        "audio": 236,
-        "cat_id": 13,
-        "subcat_id": 41
-      },
-      "source": {
-        "name": "Dua Mathurah #6",
-        "content": null,
-        "translation": "O Allah, I ask You for all that is good, in this world and in the Hereafter, what I know and what I do not know. O Allah, I seek refuge with You from all evil, in this world and in the Hereafter, what I know and what I do not know. O Allah, I ask You for the good that Your slave and Prophet (ﷺ) has asked You for, and I seek refuge with You from the evil from which Your slave and Prophet (ﷺ) sought refuge. O Allah, I ask You for Paradise and for that which brings one closer to it, in word and deed, and I seek refuge in You from Hell and from that which brings one closer to it, in word and deed. And I ask You to make every decree that You decree concerning me good.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        237
-      ],
-      "id": 237,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 237,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَحْـيَا وَالْمَمَاتِ. اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ",
-        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَاَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ، وَاَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَحْـيَا وَالْمَمَاتِ، اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ",
-        "clean": "اللهم اني اعوذ بك من عذاب القبر واعوذ بك من فتنه المسيح الدجال واعوذ بك من فتنه المحيا والممات اللهم اني اعوذ بك من الماثم والمغرم",
-        "transliteration": "Allaahumma 'innee 'a'oodhu bika min 'adhaabil-qabr, wa 'a'oodhu bika min fitnatil-maseehid-dajjaal, wa 'a'oodhu bika min fitnatil-mahyaa wal-mamaat. Allaahumma 'innee 'a'oodhu bika minal-ma'thami wal-maghram",
-        "reference": "Bukhari: 832",
-        "audio": 237,
-        "cat_id": 13,
-        "subcat_id": 41
-      },
-      "source": {
-        "name": "Dua Mathurah #7",
-        "content": "Protection from punishment of the grave, trials of life, death & Dajjal, from sin & debt:",
-        "translation": "O Allah, I seek refuge in You from the punishment of the grave, and I seek refuge in You from the trial of the False Messiah, and I seek refuge in You from the trials of life and death. O Allah, I seek refuge in You from sin and from debt.",
-        "note": "Narrated by `Aisha (RA) (the wife of the Prophet) Allah's Messenger (ﷺ) used to say this dua in the prayer. She said to him, \"Why do you so frequently seek refuge with Allah from being in debt?\" The Prophet (ﷺ) replied, \"A person who in debt tells lies whenever he speaks, and breaks promises whenever he makes (them).\""
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        238
-      ],
-      "id": 238,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 238,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ وَأَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ. اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْمَأْثَمِ  وَمِنَ الْمَغْرَمِ",
-        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ وَاَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَاَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ وَاَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنَ الْمَأْثَمِ وَمِنَ الْمَغْرَمِ",
-        "clean": "اللهم اني اعوذ بك من عذاب جهنم واعوذ بك من عذاب القبر واعوذ بك من فتنه المسيح الدجال واعوذ بك من فتنه المحيا والممات اللهم اني اعوذ بك من الماثم ومن المغرم",
-        "transliteration": "Allaahumma inni a`udhu bika min `adhaabi jahannam, wa a`udhu bika min `adhaabil-qabr, wa a`udhu bika min fitnatil-masihid-dajjaal, wa a`udhu bika min fitnatil-mahyaa wal-mamaat, Allaahumma inni a`udhu bika minal-ma'thami wa minal-maghram",
-        "reference": "Muslim: 1/412",
-        "audio": 238,
-        "cat_id": 13,
-        "subcat_id": 41
-      },
-      "source": {
-        "name": "Dua Mathurah #8",
-        "content": null,
-        "translation": "O Allah, I seek refuge with Thee from the torment of Hell, and I seek refuge with Thee from the torment of the grave, and I seek refuge with Thee from the trial of the Masih al-Dajjal (Antichrist) and I seek refuge with Thee from the trial of life and death. O Allah! I seek refuge with Thee from sin and debt.",
-        "note": "Ibn ‘Abbas (RA) said that the Holy Prophet (ﷺ) used to teach them (the Companions) this Dua in the same way he used to teach them Surah of the Quran. He used to say: (The dua is mentioned above)"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
+      "reference_bn": {
+        "name": "দোয়া মাসূরা #৪",
+        "content": "আবু বকর (রাঃ) রাসূলুল্লাহ্‌ (ﷺ)-কে বলেন, আমাকে একটি দোয়া শিখিয়ে দিন যা আমি নামাযের মধ্যে পড়ব, তখন তিনি এ দোয়াটি শিখিয়ে দেন -",
+        "translation": "হে আল্লাহ্‌! আমি নিজের উপর অনেক যুলুম করেছি, আর আপনি ছাড়া গুনাহসমূহ কেউই ক্ষমা করতে পারে না, সুতরাং আপনি নিজ গুণে আমাকে ক্ষমা করে দিন এবং আমাকে রহম করুন, আপনি বড়ই ক্ষমাশীল ও পরম দয়ালু।"
       }
     }
   ]

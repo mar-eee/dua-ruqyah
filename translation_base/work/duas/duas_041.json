@@ -4,33 +4,33 @@
   "source_language": "en",
   "target_language": "TARGET",
   "status": "pending",
-  "rows": 26,
-  "id_range": "583-608",
-  "source_chars": 5957,
+  "rows": 9,
+  "id_range": "561-569",
+  "source_chars": 5681,
   "items": [
     {
       "key": [
-        583
+        561
       ],
-      "id": 583,
+      "id": 561,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 583,
+        "id": 561,
         "groups": null,
-        "uthmani": "قُلِ ادْعُوا اللَّـهَ أَوِ ادْعُوا الرَّحْمَـٰنَ ۖ أَيًّا مَّا تَدْعُوا فَلَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا ﴿١١٠﴾ وَقُلِ الْحَمْدُ لِلَّـهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ ۖ وَكَبِّرْهُ تَكْبِيرًا ﴿١١١﴾",
-        "indopak": "قُلِ ادْعُوا اللّٰهَ اَوِ ادْعُوا الرَّحْمٰنَ ؕ اَیًّامَّا تَدْعُوْا فَلَهُ الْاَسْمَآءُ الْحُسْنٰی ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَابْتَغِ بَیْنَ ذٰلِكَ سَبِیْلًا﴿۱۱۰﴾ وَقُلِ الْحَمْدُ لِلّٰهِ الَّذِیْ لَمْ یَتَّخِذْ وَلَدًا وَّلَمْ یَكُنْ لَّهٗ شَرِیْكٌ فِی الْمُلْكِ وَلَمْ یَكُنْ لَّهٗ وَلِیٌّ مِّنَ الذُّلِّ وَكَبِّرْهُ تَكْبِیْرًا﴿۱۱۱﴾٪",
-        "clean": "قل ادعوا الله او ادعوا الرحمن  ااما تدعوا فله الاسماء الحسن  ولا تجهر بصلاتك ولا تخافت بها وابتغ بن ذلك سبلا وقل الحمد لله الذ لم تخذ ولدا ولم كن له شرك ف الملك ولم كن له ول من الذل وكبره تكبرا",
+        "uthmani": "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَـٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ وَمَا هُم بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّـهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ ﴿١٠٢﴾",
+        "indopak": "وَاتَّبَعُوْا مَا تَتْلُوا الشَّیٰطِیْنُ عَلٰی مُلْكِ سُلَیْمٰنَ ۚ وَمَا كَفَرَ سُلَیْمٰنُ وَلٰكِنَّ الشَّیٰطِیْنَ كَفَرُوْا یُعَلِّمُوْنَ النَّاسَ السِّحْرَ٭ وَمَاۤ اُنْزِلَ عَلَی الْمَلَكَیْنِ بِبَابِلَ هَارُوْتَ وَمَارُوْتَ ؕ وَمَا یُعَلِّمٰنِ مِنْ اَحَدٍ حَتّٰی یَقُوْلَاۤ اِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ؕ فَیَتَعَلَّمُوْنَ مِنْهُمَا مَا یُفَرِّقُوْنَ بِهٖ بَیْنَ الْمَرْءِ وَزَوْجِهٖ ؕ وَمَا هُمْ بِضَآرِّیْنَ بِهٖ مِنْ اَحَدٍ اِلَّا بِاِذْنِ اللّٰهِ ؕ وَیَتَعَلَّمُوْنَ مَا یَضُرُّهُمْ وَلَا یَنْفَعُهُمْ ؕ وَلَقَدْ عَلِمُوْا لَمَنِ اشْتَرٰىهُ مَا لَهٗ فِی الْاٰخِرَةِ مِنْ خَلَاقٍ ۟ؕ وَلَبِئْسَ مَا شَرَوْا بِهٖۤ اَنْفُسَهُمْ ؕ لَوْ كَانُوْا یَعْلَمُوْنَ﴿۱۰۲﴾",
+        "clean": "واتبعوا ما تتلوا الشطن عل ملك سلمن  وما كفر سلمن ولكن الشطن كفروا علمون الناس السحر وما انزل عل الملكن ببابل هاروت وماروت  وما علمن من احد حت قولا انما نحن فتنه فلا تكفر  فتعلمون منهما ما فرقون به بن المرء وزوجه  وما هم بضارن به من احد الا باذن الله  وتعلمون ما ضرهم ولا نفعهم  ولقد علموا لمن اشتريه ما له ف الاخره من خلاق  ولبءس ما شروا به انفسهم  لو كانوا علمون",
         "transliteration": null,
-        "reference": "Surah Isra 17: 110-111",
-        "audio": 583,
+        "reference": "Surah Baqarah 2: 102",
+        "audio": 561,
         "cat_id": 34,
-        "subcat_id": 103
+        "subcat_id": 102
       },
       "source": {
-        "name": "If the jinn does not go away (a stubborn jinn), then what to read #5",
+        "name": "Jinn, magic and treatment of diseases that must be read #3",
         "content": null,
-        "translation": "(110) Say, \"Call upon Allah or call upon the Most Merciful. Whichever [name] you call -  to Him belong the best names.\" And do not recite [too] loudly in your prayer or [too] quietly but seek between that an [intermediate] way. (111) And say, \"Praise to Allah, who has not taken a son and has had no partner in [His] dominion and has no [need of a] protector out of weakness; and glorify Him with [great] glorification.\"",
+        "translation": "(102) And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Harut and Marut. But the two angels do not teach anyone unless they say, \"We are a trial, so do not disbelieve [by practicing magic].\" And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allah . And the people learn what harms them and does not benefit them. But the Children of Israel certainly knew that whoever purchased the magic would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew.",
         "note": null
       },
       "target": {
@@ -38,31 +38,35 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "জ্বিন, জাদু ও রোগের চিকিৎসায় যা পড়তে হবে #৩",
+        "translation": "(১০২) আর তারা অনুসরণ করেছে, যা শয়তানরা সুলাইমানের রাজত্বে পাঠ করত। আর সুলাইমান কুফরী করেনি; বরং শয়তানরা কুফরী করেছে। তারা মানুষকে যাদু শেখাত এবং (তারা অনুসরণ করেছে) যা নাযিল করা হয়েছিল বাবেলের দুই ফেরেশতা হারূত ও মারূতের উপর। আর তারা কাউকে শেখাত না যে পর্যন্ত না বলত যে, ‘আমরা তো পরীক্ষা, সুতরাং তোমরা কুফরী করো না। এরপরও তারা এদের কাছ থেকে শিখত, যার মাধ্যমে তারা পুরুষ ও তার স্ত্রীর মধ্যে বিচ্ছেদ ঘটাত। অথচ তারা তার মাধ্যমে কারো কোন ক্ষতি করতে পারত না আল্লাহ্‌র অনুমতি ছাড়া। আর তারা শিখত যা তাদের ক্ষতি করত, তাদের উপকার করত না এবং তারা অবশ্যই জানত যে, যে ব্যক্তি তা ক্রয় করবে, আখিরাতে তার কোন অংশ থাকবে না। আর তা নিশ্চিতরূপে কতই-না মন্দ, যার বিনিময়ে তারা নিজদেরকে বিক্রয় করেছে। যদি তারা জানত।"
       }
     },
     {
       "key": [
-        584
+        562
       ],
-      "id": 584,
+      "id": 562,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 584,
+        "id": 562,
         "groups": null,
-        "uthmani": "وَأَرَادُوا بِهِ كَيْدًا فَجَعَلْنَاهُمُ الْأَخْسَرِينَ ﴿٧٠﴾",
-        "indopak": "وَاَرَادُوْا بِهٖ كَيْدًا فَجَعَلْنَاهُمُ الْاَخْسَرِيْنَ﴿٧٠﴾",
-        "clean": "وارادوا به كيدا فجعلناهم الاخسرين٧٠",
+        "uthmani": "وَإِلَـٰهُكُمْ إِلَـٰهٌ وَاحِدٌ ۖ لَّا إِلَـٰهَ إِلَّا هُوَ الرَّحْمَـٰنُ الرَّحِيمُ ﴿١٦٣﴾ إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنفَعُ النَّاسَ وَمَا أَنزَلَ اللَّـهُ مِنَ السَّمَاءِ مِن مَّاءٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَابَّةٍ وَتَصْرِيفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ وَالْأَرْضِ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ ﴿١٦٤﴾",
+        "indopak": "وَاِلٰهُكُمْ اِلٰهٌ وَّاحِدٌ ۚ لَاۤ اِلٰهَ اِلَّا هُوَ الرَّحْمٰنُ الرَّحِیْمُ ﴿۱۶۳﴾٪اِنَّ فِیْ خَلْقِ السَّمٰوٰتِ وَالْاَرْضِ وَاخْتِلَافِ الَّیْلِ وَالنَّهَارِ وَالْفُلْكِ الَّتِیْ تَجْرِیْ فِی الْبَحْرِ بِمَا یَنْفَعُ النَّاسَ وَمَاۤ اَنْزَلَ اللّٰهُ مِنَ السَّمَآءِ مِنْ مَّآءٍ فَاَحْیَا بِهِ الْاَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِیْهَا مِنْ كُلِّ دَآبَّةٍ وَّتَصْرِیْفِ الرِّیٰحِ وَالسَّحَابِ الْمُسَخَّرِ بَیْنَ السَّمَآءِ وَالْاَرْضِ لَاٰیٰتٍ لِّقَوْمٍ یَّعْقِلُوْنَ﴿۱۶۴﴾",
+        "clean": "والهكم اله واحد  لا اله الا هو الرحمن الرحم ان ف خلق السموت والارض واختلاف الل والنهار والفلك الت تجر ف البحر بما نفع الناس وما انزل الله من السماء من ماء فاحا به الارض بعد موتها وبث فها من كل دابه وتصرف الرح والسحاب المسخر بن السماء والارض لات لقوم عقلون",
         "transliteration": null,
-        "reference": "Surah Ambiya 21:70",
-        "audio": 584,
+        "reference": "Surah Baqarah 2: 163-164",
+        "audio": 562,
         "cat_id": 34,
-        "subcat_id": 103
+        "subcat_id": 102
       },
       "source": {
-        "name": "If the jinn does not go away (a stubborn jinn), then what to read #6",
+        "name": "Jinn, magic and treatment of diseases that must be read #4",
         "content": null,
-        "translation": "(70) And they intended for him harm, but We made them the greatest losers.",
+        "translation": "(163) And your god is one God. There is no deity [worthy of worship] except Him, the Entirely Merciful, the Especially Merciful. (164) Indeed, in the creation of the heavens and earth, and the alternation of the night and the day, and the [great] ships which sail through the sea with that which benefits people, and what Allah has sent down from the heavens of rain, giving life thereby to the earth after its lifelessness and dispersing therein every [kind of] moving creature, and [His] directing of the winds and the clouds controlled between the heaven and the earth are signs for a people who use reason.",
         "note": null
       },
       "target": {
@@ -70,31 +74,35 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "জ্বিন, জাদু ও রোগের চিকিৎসায় যা পড়তে হবে #৪",
+        "translation": "(১৬৩) আর তোমাদের ইলাহ এক ইলাহ। তিনি ছাড়া কোন (সত্য) ইলাহ নেই। তিনি অতি দয়াময়, পরম দয়ালু। (১৬৪) নিশ্চয় আসমানসমূহ ও যমীনের সৃষ্টিতে, রাত ও দিনের বিবর্তনে, সে নৌকায় যা সমুদ্রে মানুষের জন্য কল্যাণকর বস্ত্ত নিয়ে চলে এবং আসমান থেকে আল্লাহ্‌ যে বৃষ্টি বর্ষণ করেছেন অতঃপর তার মাধ্যমে মরে যাওয়ার পর যমীনকে জীবিত করেছেন এবং তাতে ছড়িয়ে দিয়েছেন সকল প্রকার বিচরণশীল প্রাণী ও বাতাসের পরিবর্তনে এবং আসমান ও যমীনের মধ্যবর্তী স্থানে নিয়োজিত মেঘমালায় রয়েছে নিদর্শনসমূহ এমন কওমের জন্য, যারা বিবেকবান।"
       }
     },
     {
       "key": [
-        585
+        563
       ],
-      "id": 585,
+      "id": 563,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 585,
+        "id": 563,
         "groups": null,
-        "uthmani": "هَـٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ ۖ فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ يُصَبُّ مِن فَوْقِ رُءُوسِهِمُ الْحَمِيمُ ﴿١٩﴾ يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ ﴿٢٠﴾ وَلَهُم مَّقَامِعُ مِنْ حَدِيدٍ ﴿٢١﴾ كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا وَذُوقُوا عَذَابَ الْحَرِيقِ ﴿٢٢﴾",
-        "indopak": "هٰذٰنِ خَصْمٰنِ اخْتَصَمُوْا فِیْ رَبِّهِمْ فَالَّذِیْنَ كَفَرُوْا قُطِّعَتْ لَهُمْ ثِیَابٌ مِّنْ نَّارٍ ؕ یُصَبُّ مِنْ فَوْقِ رُءُوْسِهِمُ الْحَمِیْمُ﴿ۚ۱۹﴾ یُصْهَرُ بِهٖ مَا فِیْ بُطُوْنِهِمْ وَالْجُلُوْدُ﴿ؕ۲۰﴾ وَلَهُمْ مَّقَامِعُ مِنْ حَدِیْدٍ﴿۲۱﴾ كُلَّمَاۤ اَرَادُوْۤا اَنْ یَّخْرُجُوْا مِنْهَا مِنْ غَمٍّ اُعِیْدُوْا فِیْهَا٭ وَ ذُوْقُوْا عَذَابَ الْحَرِیْقِ﴿٪۲۲﴾",
-        "clean": "هذن خصمن اختصموا ف ربهم فالذن كفروا قطعت لهم ثاب من نار  صب من فوق رءوسهم الحمم صهر به ما ف بطونهم والجلود ولهم مقامع من حدد كلما ارادوا ان خرجوا منها من غم اعدوا فها و ذوقوا عذاب الحرق",
+        "uthmani": "اللّٰهُ لَآ إِلٰهَ إِلَّا هُوَ الْحَىُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى السَّمٰوٰتِ وَمَا فِى الْأَرْضِ ۗ مَن ذَا الَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمٰوٰتِ وَالْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ الْعَلِىُّ الْعَظِيمُ",
+        "indopak": "اَللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ ۚ اَلْحَیُّ الْقَیُّوْمُ ۬ۚ لَا تَاْخُذُهٗ سِنَةٌ وَّلَا نَوْمٌ ؕ لَهٗ مَا فِی السَّمٰوٰتِ وَمَا فِی الْاَرْضِ ؕ مَنْ ذَا الَّذِیْ یَشْفَعُ عِنْدَهٗۤ اِلَّا بِاِذْنِهٖ ؕ یَعْلَمُ مَا بَیْنَ اَیْدِیْهِمْ وَمَا خَلْفَهُمْ ۚ وَلَا یُحِیْطُوْنَ بِشَیْءٍ مِّنْ عِلْمِهٖۤ اِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِیُّهُ السَّمٰوٰتِ وَالْاَرْضَ ۚ وَلَا یَئُوْدُهٗ حِفْظُهُمَا ۚ وَهُوَ الْعَلِیُّ الْعَظِیْمُ ﴿۲۵۵﴾",
+        "clean": "الله لا اله الا هو  الح القوم  لا تاخذه سنه ولا نوم  له ما ف السموت وما ف الارض  من ذا الذ شفع عنده الا باذنه  علم ما بن ادهم وما خلفهم  ولا حطون بشء من علمه الا بما شاء  وسع كرسه السموت والارض  ولا ءوده حفظهما  وهو العل العظم ",
         "transliteration": null,
-        "reference": "Surah Hajj 22: 19-22",
-        "audio": 585,
+        "reference": "Surah Baqarah 2: 255",
+        "audio": 563,
         "cat_id": 34,
-        "subcat_id": 103
+        "subcat_id": 102
       },
       "source": {
-        "name": "If the jinn does not go away (a stubborn jinn), then what to read #7",
+        "name": "Jinn, magic and treatment of diseases that must be read #5",
         "content": null,
-        "translation": "(19) These are two adversaries who have disputed over their Lord. But those who disbelieved will have cut out for them garments of fire. Poured upon their heads will be scalding water (20) By which is melted that within their bellies and [their] skins. (21) And for [striking] them are maces of iron. (22) Every time they want to get out of Hellfire from anguish, they will be returned to it, and [it will be said], \"Taste the punishment of the Burning Fire!\"",
+        "translation": "(255) Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
         "note": null
       },
       "target": {
@@ -102,31 +110,35 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "জ্বিন, জাদু ও রোগের চিকিৎসায় যা পড়তে হবে #৫",
+        "translation": "(২৫৫) আল্লাহ্‌! তিনি ব্যতীত কোন উপাস্য নেই। তিনি স্বাধীন ও নিত্য নতুন ধারক, সব কিছুর ধারক। তন্দ্রা ও নিদ্রা তাঁকে স্পর্শ করেনা। নভোমন্ডল ও ভূমন্ডলে যা কিছু রয়েছে সবই তাঁর। কে আছে এমন, যে তাঁর অনুমতি ব্যতীত তাঁর নিকট সুপারিশ করতে পারে? সম্মুখের অথবা পশ্চাতের সবই তিনি অবগত আছেন। একমাত্র তিনি যতটুকু ইচ্ছা করেন তা ব্যতীত, তাঁর জ্ঞানের কিছুই তারা আয়ত্ত করতে পারেনা। তাঁর আসন আসমান ও যমীন ব্যাপী হয়ে আছে এবং এতদুভয়ের সংরক্ষণে তাঁকে বিব্রত হতে হয়না। তিনিই সর্বোচ্চ, মহীয়ান। (আয়াতুল কুরসী)"
       }
     },
     {
       "key": [
-        586
+        564
       ],
-      "id": 586,
+      "id": 564,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 586,
+        "id": 564,
         "groups": null,
-        "uthmani": "وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَاءً حَتَّىٰ إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ اللَّـهَ عِندَهُ فَوَفَّاهُ حِسَابَهُ ۗ وَاللَّـهُ سَرِيعُ الْحِسَابِ ﴿٣٩﴾",
-        "indopak": "وَالَّذِیْنَ كَفَرُوْۤا اَعْمَالُهُمْ كَسَرَابٍۭ بِقِیْعَةٍ یَّحْسَبُهُ الظَّمْاٰنُ مَآءً ؕحَتّٰۤی اِذَا جَآءَهٗ لَمْ یَجِدْهُ شَیْئًا وَّوَجَدَ اللّٰهَ عِنْدَهٗ فَوَفّٰىهُ حِسَابَهٗ ؕ وَاللّٰهُ سَرِیْعُ الْحِسَابِ ﴿ۙ۳۹﴾",
-        "clean": "والذن كفروا اعمالهم كسراب بقعه حسبه الظمان ماء حت اذا جاءه لم جده شءا ووجد الله عنده فوفيه حسابه  والله سرع الحساب ",
+        "uthmani": "لِّلَّـهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَإِن تُبْدُوا مَا فِي أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ اللَّـهُ ۖ فَيَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ ۗ وَاللَّـهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿٢٨٤﴾ آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّـهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ ﴿٢٨٥﴾ لَا يُكَلِّفُ اللَّـهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ ﴿٢٨٦﴾",
+        "indopak": "لِلّٰهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْاَرْضِ ۗ وَاِن تُبْدُوْا مَا فِيْ اَنْفُسِكُمْ اَوْ تُخْفُوْهُ يُحَاسِبْكُمْ بِهِ اللّٰهُ ۖ فَيَغْفِرُ لِمَنْ يَّشَاءُ وَيُعَذِّبُ مَنْ يَّشَاءُ ۗ وَاللّٰهُ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ ﴿٢٨٤﴾ اٰمَنَ الرَّسُوْلُ بِمَا اُنْزِلَ اِلَيْهِ مِن رَّبِّهٖ وَالْمُؤْمِنُوْنَ ۚ كُلٌّ اٰمَنَ بِاللّٰهِ وَمَلَائِكَتِهٖ وَكُتُبِهٖ وَرُسُلِهٖ لَا نُفَرِّقُ بَيْنَ اَحَدٍ مِّن رُّسُلِهٖ ۚ وَقَالُوْا سَمِعْنَا وَاَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَاِلَيْكَ الْمَصِيْرُ ﴿٢٨٥﴾  لَا یُكَلِّفُ اللّٰهُ نَفْسًا اِلَّا وُسْعَهَا ؕ لَهَا مَا كَسَبَتْ وَعَلَیْهَا مَا اكْتَسَبَتْ ؕ رَبَّنَا لَا تُؤَاخِذْنَاۤ اِنْ نَّسِیْنَاۤ اَوْ اَخْطَاْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَیْنَاۤ اِصْرًا كَمَا حَمَلْتَهٗ عَلَی الَّذِیْنَ مِنْ قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهٖ ۚ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا اَنْتَ مَوْلٰىنَا فَانْصُرْنَا عَلَی الْقَوْمِ الْكٰفِرِیْنَ ﴿۲۸۶﴾",
+        "clean": "لله ما في السماوات وما في الارض  وان تبدوا ما في انفسكم او تخفوه يحاسبكم به الله  فيغفر لمن يشاء ويعذب من يشاء  والله علي كل شيء قدير ٢٨٤ امن الرسول بما انزل اليه من ربه والمءمنون  كل امن بالله وملاءكته وكتبه ورسله لا نفرق بين احد من رسله  وقالوا سمعنا واطعنا  غفرانك ربنا واليك المصير ٢٨٥  لا كلف الله نفسا الا وسعها  لها ما كسبت وعلها ما اكتسبت  ربنا لا تءاخذنا ان نسنا او اخطانا  ربنا ولا تحمل علنا اصرا كما حملته عل الذن من قبلنا  ربنا ولا تحملنا ما لا طاقه لنا به  واعف عنا واغفر لنا وارحمنا انت مولينا فانصرنا عل القوم الكفرن ",
         "transliteration": null,
-        "reference": "Sura Noor 24:39",
-        "audio": 586,
+        "reference": "Surah Baqarah 2: 284-286",
+        "audio": null,
         "cat_id": 34,
-        "subcat_id": 103
+        "subcat_id": 102
       },
       "source": {
-        "name": "If the jinn does not go away (a stubborn jinn), then what to read #8",
+        "name": "Jinn, magic and treatment of diseases that must be read #6",
         "content": null,
-        "translation": "(39) But those who disbelieved -  their deeds are like a mirage in a lowland which a thirsty one thinks is water until, when he comes to it, he finds it is nothing but finds Allah before Him, and He will pay him in full his due; and Allah is swift in account.",
+        "translation": "(284) To Allah belongs whatever is in the heavens and whatever is in the earth. Whether you show what is within yourselves or conceal it, Allah will bring you to account for it. Then He will forgive whom He wills and punish whom He wills, and Allah is over all things competent. (285) The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], \"We make no distinction between any of His messengers.\" And they say, \"We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.\" (286) Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\"",
         "note": null
       },
       "target": {
@@ -134,31 +146,35 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "জ্বিন, জাদু ও রোগের চিকিৎসায় যা পড়তে হবে #৬",
+        "translation": "(২৮৪) আল্লাহ্‌র জন্যই যা রয়েছে আসমানসমূহে এবং যা রয়েছে যমীনে। আর তোমরা যদি প্রকাশ করো যা তোমাদের অন্তরে রয়েছে অথবা গোপন করো, আল্লাহ্‌ সে বিষয়ে তোমাদের হিসাব নেবেন। অতঃপর তিনি যাকে চান ক্ষমা করবেন, আর যাকে চান আযাব দেবেন। আর আল্লাহ্‌ সবকিছুর উপর ক্ষমতাবান। (২৮৫) রাসূল তার নিকট তার রবের পক্ষ থেকে নাযিলকৃত বিষয়ের প্রতি ঈমান এনেছে, আর মুমিনগণও। প্রত্যেকে ঈমান এনেছে আল্লাহ্‌র উপর, তাঁর ফেরেশতাকুল, কিতাবসমূহ ও তাঁর রাসূলগণের উপর, আমরা তাঁর রাসূলগণের কারও মধ্যে তারতম্য করি না। আর তারা বলে, আমরা শুনলাম এবং মানলাম। হে আমাদের রব! আমরা আপনারই ক্ষমা প্রার্থনা করি, আর আপনার দিকেই প্রত্যাবর্তনস্থল। (২৮৬) আল্লাহ্‌ কোন ব্যক্তিকে তার সামর্থ্যের বাইরে দায়িত্ব দেন না। সে যা অর্জন করে তা তার জন্যই এবং সে যা কামাই করে তা তার উপরই বর্তাবে। হে আমাদের রব! আমরা যদি ভুলে যাই, অথবা ভুল করি তাহলে আপনি আমাদেরকে পাকড়াও করবেন না। হে আমাদের রব, আমাদের উপর বোঝা চাপিয়ে দেবেন না, যেমন আমাদের পূর্ববর্তীদের উপর চাপিয়ে দিয়েছেন। হে আমাদের রব, আপনি আমাদেরকে এমন কিছু বহন করাবেন না, যার সামর্থ্য আমাদের নেই। আর আপনি আমাদেরকে মার্জনা করুন এবং আমাদেরকে ক্ষমা করুন, আর আমাদের উপর দয়া করুন। আপনি আমাদের অভিভাবক। অতএব আপনি কাফির সম্প্রদায়ের বিরুদ্ধে আমাদেরকে সাহায্য করুন।"
       }
     },
     {
       "key": [
-        587
+        565
       ],
-      "id": 587,
+      "id": 565,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 587,
+        "id": 565,
         "groups": null,
-        "uthmani": "وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَّنثُورًا ﴿٢٣﴾",
-        "indopak": "وَقَدِمْنَا اِلٰى مَا عَمِلُوْا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَّنْثُوْرًا ﴿٢٣﴾",
-        "clean": "وقدمنا الي ما عملوا من عمل فجعلناه هباء منثورا ٢٣",
+        "uthmani": "شَهِدَ اللَّـهُ أَنَّهُ لَا إِلَـٰهَ إِلَّا هُوَ وَالْمَلَائِكَةُ وَأُولُو الْعِلْمِ قَائِمًا بِالْقِسْطِ ۚ لَا إِلَـٰهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ ﴿١٨﴾ إِنَّ الدِّينَ عِندَ اللَّـهِ الْإِسْلَامُ ۗ وَمَا اخْتَلَفَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِآيَاتِ اللَّـهِ فَإِنَّ اللَّـهَ سَرِيعُ الْحِسَابِ ﴿١٩﴾",
+        "indopak": "شَهِدَ اللّٰهُ اَنَّهٗ لَا اِلٰهَ اِلَّا هُوَ ۙ وَالْمَلٰٓئِكَةُ وَاُولُوا الْعِلْمِ قَآئِمًۢا بِالْقِسْطِ ؕ لَا اِلٰهَ اِلَّا هُوَ الْعَزِیْزُ الْحَكِیْمُ﴿ؕ۱۸﴾ اِنَّ الدِّیْنَ عِنْدَ اللّٰهِ الْاِسْلَامُ ۟ وَمَا اخْتَلَفَ الَّذِیْنَ اُوْتُوا الْكِتٰبَ اِلَّا مِنْۢ بَعْدِ مَا جَآءَهُمُ الْعِلْمُ بَغْیًۢا بَیْنَهُمْ ؕ وَمَنْ یَّكْفُرْ بِاٰیٰتِ اللّٰهِ فَاِنَّ اللّٰهَ سَرِیْعُ الْحِسَابِ﴿۱۹﴾",
+        "clean": "شهد الله انه لا اله الا هو  والملءكه واولوا العلم قاءما بالقسط  لا اله الا هو العزز الحكم ان الدن عند الله الاسلام  وما اختلف الذن اوتوا الكتب الا من بعد ما جاءهم العلم بغا بنهم  ومن كفر بات الله فان الله سرع الحساب",
         "transliteration": null,
-        "reference": "Surah Furqan 25:23",
-        "audio": 587,
+        "reference": "Surah Ali-Imran 3: 18-19",
+        "audio": 565,
         "cat_id": 34,
-        "subcat_id": 103
+        "subcat_id": 102
       },
       "source": {
-        "name": "If the jinn does not go away (a stubborn jinn), then what to read #9",
+        "name": "Jinn, magic and treatment of diseases that must be read #7",
         "content": null,
-        "translation": "(23) And We will regard what they have done of deeds and make them as dust dispersed.",
+        "translation": "(18) Allah witnesses that there is no deity except Him, and [so do] the angels and those of knowledge -  [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise. (19) Indeed, the religion in the sight of Allah is Islam. And those who were given the Scripture did not differ except after knowledge had come to them -  out of jealous animosity between themselves. And whoever disbelieves in the verses of Allah, then indeed, Allah is swift in [taking] account.",
         "note": null
       },
       "target": {
@@ -166,31 +182,35 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "জ্বিন, জাদু ও রোগের চিকিৎসায় যা পড়তে হবে #৭",
+        "translation": "(১৮) আল্লাহ্‌ সাক্ষ্য দেন যে, তিনি ছাড়া কোন (সত্য) ইলাহ নেই, আর ফেরেশতা ও জ্ঞানীগণও। তিনি ন্যায় দ্বারা প্রতিষ্ঠিত। তিনি ছাড়া কোন (সত্য) ইলাহ নেই। তিনি পরাক্রমশালী, প্রজ্ঞাময়। (১৯) নিশ্চয় আল্লাহ্‌র নিকট দীন হচ্ছে ইসলাম। আর যাদেরকে কিতাব দেয়া হয়েছে, তাদের নিকট জ্ঞান আসার পরই তারা মতানৈক্য করেছে, পরস্পর বিদ্বেষবশত। আর যে ব্যক্তি আল্লাহ্‌র আয়াতসমূহের সাথে কুফরী করে, নিশ্চয় আল্লাহ্‌ হিসাব গ্রহণে দ্রুত।"
       }
     },
     {
       "key": [
-        588
+        566
       ],
-      "id": 588,
+      "id": 566,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 588,
+        "id": 566,
         "groups": null,
-        "uthmani": "فَأَرَادُوا بِهِ كَيْدًا فَجَعَلْنَاهُمُ الْأَسْفَلِينَ ﴿٩٨﴾",
-        "indopak": "فَاَرَادُوْا بِهٖ كَيْدًا فَجَعَلْنَاهُمُ الْأَسْفَلِيْنَ ﴿٩٨﴾",
-        "clean": "فارادوا به كيدا فجعلناهم الاسفلين ٩٨",
+        "uthmani": "إِنَّ رَبَّكُمُ اللَّـهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِأَمْرِهِ ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ اللَّـهُ رَبُّ الْعَالَمِينَ ﴿٥٤﴾ ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ ﴿٥٥﴾ وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ اللَّـهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ ﴿٥٦﴾",
+        "indopak": "اِنَّ رَبَّكُمُ اللّٰهُ الَّذِیْ خَلَقَ السَّمٰوٰتِ وَالْاَرْضَ فِیْ سِتَّةِ اَیَّامٍ ثُمَّ اسْتَوٰی عَلَی الْعَرْشِ ۟ یُغْشِی الَّیْلَ النَّهَارَ یَطْلُبُهٗ حَثِیْثًا ۙ وَّالشَّمْسَ وَالْقَمَرَ وَالنُّجُوْمَ مُسَخَّرٰتٍۭ بِاَمْرِهٖ ؕ اَلَا لَهُ الْخَلْقُ وَالْاَمْرُ ؕ تَبٰرَكَ اللّٰهُ رَبُّ الْعٰلَمِیْنَ﴿۵۴﴾ اُدْعُوْا رَبَّكُمْ تَضَرُّعًا وَّخُفْیَةً ؕ اِنَّهٗ لَا یُحِبُّ الْمُعْتَدِیْنَ﴿ۚ۵۵﴾ وَلَا تُفْسِدُوْا فِی الْاَرْضِ بَعْدَ اِصْلَاحِهَا وَادْعُوْهُ خَوْفًا وَّطَمَعًا ؕ اِنَّ رَحْمَتَ اللّٰهِ قَرِیْبٌ مِّنَ الْمُحْسِنِیْنَ﴿۵۶﴾",
+        "clean": "ان ربكم الله الذ خلق السموت والارض ف سته اام ثم استو عل العرش  غش الل النهار طلبه حثثا  والشمس والقمر والنجوم مسخرت بامره  الا له الخلق والامر  تبرك الله رب العلمن ادعوا ربكم تضرعا وخفه  انه لا حب المعتدن ولا تفسدوا ف الارض بعد اصلاحها وادعوه خوفا وطمعا  ان رحمت الله قرب من المحسنن",
         "transliteration": null,
-        "reference": "Surah As-Saffat 37:98",
-        "audio": 588,
+        "reference": "Surah A'raf 7: 54-56",
+        "audio": 566,
         "cat_id": 34,
-        "subcat_id": 103
+        "subcat_id": 102
       },
       "source": {
-        "name": "If the jinn does not go away (a stubborn jinn), then what to read #10",
+        "name": "Jinn, magic and treatment of diseases that must be read #8",
         "content": null,
-        "translation": "(98) And they intended for him a plan, but We made them the most debased.",
+        "translation": "(54) Indeed, your Lord is Allah, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, His is the creation and the command; blessed is Allah, Lord of the worlds. (55) Call upon your Lord in humility and privately; indeed, He does not like transgressors. (56) And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allah is near to the doers of good.",
         "note": null
       },
       "target": {
@@ -198,31 +218,35 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "জ্বিন, জাদু ও রোগের চিকিৎসায় যা পড়তে হবে #৮",
+        "translation": "(৫৪) নিশ্চয় তোমাদের রব আসমানসমূহ ও যমীন ছয় দিনে সৃষ্টি করেছেন। অতঃপর আরশে উঠেছেন। তিনি রাতকে দ্বারা দিনকে ঢেকে দেন। প্রত্যেকটি একে অপরকে দ্রুত অনুসরণ করে। আর (সৃষ্টি করেছেন) সূর্য, চাঁদ ও তারকারাজী, যা তাঁর নির্দেশে নিয়োজিত। জেনে রাখ, সৃষ্টি ও নির্দেশ তাঁরই। আল্লাহ্‌ মহান, যিনি সকল সৃষ্টির রব। (৫৫) তোমরা তোমাদের রবকে ডাক অনুনয় বিনয় করে ও চুপিসারে। নিশ্চয় তিনি পছন্দ করেন না সীমালঙ্ঘনকারীদেরকে। (৫৬) আর তোমরা যমীনে ফাসাদ করো না তার সংশোধনের পর এবং তাঁকে ডাক ভয় ও আশা নিয়ে। নিশ্চয় আল্লাহ্‌র রহমত সৎকর্মশীলদের নিকটবর্তী।"
       }
     },
     {
       "key": [
-        589
+        567
       ],
-      "id": 589,
+      "id": 567,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 589,
+        "id": 567,
         "groups": null,
-        "uthmani": "وَلَقَدْ أَرْسَلْنَا رُسُلًا مِّن قَبْلِكَ مِنْهُم مَّن قَصَصْنَا عَلَيْكَ وَمِنْهُم مَّن لَّمْ نَقْصُصْ عَلَيْكَ ۗ وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّـهِ ۚ فَإِذَا جَاءَ أَمْرُ اللَّـهِ قُضِيَ بِالْحَقِّ وَخَسِرَ هُنَالِكَ الْمُبْطِلُونَ ﴿٧٨﴾",
-        "indopak": "وَلَقَدْ اَرْسَلْنَا رُسُلًا مِّنْ قَبْلِكَ مِنْهُمْ مَّنْ قَصَصْنَا عَلَیْكَ وَمِنْهُمْ مَّنْ لَّمْ نَقْصُصْ عَلَیْكَ ؕ وَمَا كَانَ لِرَسُوْلٍ اَنْ یَّاْتِیَ بِاٰیَةٍ اِلَّا بِاِذْنِ اللّٰهِ ۚ فَاِذَا جَآءَ اَمْرُ اللّٰهِ قُضِیَ  بِالْحَقِّ وَخَسِرَ هُنَالِكَ الْمُبْطِلُوْنَ ﴿٪۷۸﴾",
-        "clean": "ولقد ارسلنا رسلا من قبلك منهم من قصصنا علك ومنهم من لم نقصص علك  وما كان لرسول ان ات باه الا باذن الله  فاذا جاء امر الله قض  بالحق وخسر هنالك المبطلون ",
+        "uthmani": "وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنْ أَلْقِ عَصَاكَ ۖ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ ﴿١١٧﴾ فَوَقَعَ الْحَقُّ وَبَطَلَ مَا كَانُوا يَعْمَلُونَ ﴿١١٨﴾ فَغُلِبُوا هُنَالِكَ وَانقَلَبُوا صَاغِرِينَ ﴿١١٩﴾ وَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ ﴿١٢٠﴾ قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ ﴿١٢١﴾ رَبِّ مُوسَىٰ وَهَارُونَ ﴿١٢٢﴾",
+        "indopak": "وَاَوْحَیْنَاۤ اِلٰی مُوْسٰۤی اَنْ اَلْقِ عَصَاكَ ۚ فَاِذَا هِیَ تَلْقَفُ مَا یَاْفِكُوْنَ﴿۱۱۷﴾ۚ فَوَقَعَ الْحَقُّ وَبَطَلَ مَا كَانُوْا یَعْمَلُوْنَ﴿۱۱۸﴾ۚ فَغُلِبُوْا هُنَالِكَ وَانْقَلَبُوْا صٰغِرِیْنَ﴿۱۱۹﴾ۚ وَاُلْقِیَ السَّحَرَةُ سٰجِدِیْنَ﴿۱۲۰﴾ۚۖ قَالُوْۤا اٰمَنَّا بِرَبِّ الْعٰلَمِیْنَ﴿۱۲۱﴾ۙ  رَبِّ مُوْسٰی وَهٰرُوْنَ﴿۱۲۲﴾",
+        "clean": "واوحنا ال موس ان الق عصاك  فاذا ه تلقف ما افكون فوقع الحق وبطل ما كانوا عملون فغلبوا هنالك وانقلبوا صغرن والق السحره سجدن قالوا امنا برب العلمن  رب موس وهرون",
         "transliteration": null,
-        "reference": "Surah Ghafir 40:78",
-        "audio": 589,
+        "reference": "Surah A'raf 7: 117-122",
+        "audio": 567,
         "cat_id": 34,
-        "subcat_id": 103
+        "subcat_id": 102
       },
       "source": {
-        "name": "If the jinn does not go away (a stubborn jinn), then what to read #11",
+        "name": "Jinn, magic and treatment of diseases that must be read #9",
         "content": null,
-        "translation": "(78) And We have already sent messengers before you. Among them are those [whose stories] We have related to you, and among them are those [whose stories] We have not related to you. And it was not for any messenger to bring a sign [or verse] except by permission of Allah . So when the command of Allah comes, it will be concluded in truth, and the falsifiers will thereupon lose [all].",
+        "translation": "(117) And We inspired to Moses, \"Throw your staff,\" and at once it devoured what they were falsifying. (118) So the truth was established, and abolished was what they were doing. (119) And Pharaoh and his people were overcome right there and became debased. (120) And the magicians fell down in prostration [to Allah ]. (121) They said, \"We have believed in the Lord of the worlds, (122) The Lord of Moses and Aaron.\"",
         "note": null
       },
       "target": {
@@ -230,31 +254,35 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "জ্বিন, জাদু ও রোগের চিকিৎসায় যা পড়তে হবে #৯",
+        "translation": "(১১৭) আর আমি মূসার প্রতি ওহী পাঠালাম যে, ‘তুমি তোমার লাঠি ছেড়ে দাও’ তৎক্ষণাৎ সে গিলতে লাগল সেগুলিকে যে অলীক বস্তু তারা বানিয়েছিল। (১১৮) ফলে সত্য প্রকাশ হয়ে গেল এবং তারা যা কিছু করছিল তা বাতিল হয়ে গেল। (১১৯) তাই সেখানে তারা পরাজিত হলো এবং লাঞ্ছিত হয়ে গেল। (১২০) আর যাদুকররা সিজদায় পড়ে গেল। (১২১) তারা বলল, ‘আমরা সকল সৃষ্টির রবের প্রতি ঈমান আনলাম, (১২২) মূসা ও হারূনের রবের প্রতি।’"
       }
     },
     {
       "key": [
-        590
+        568
       ],
-      "id": 590,
+      "id": 568,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 590,
+        "id": 568,
         "groups": null,
-        "uthmani": "وَلَوْ جَعَلْنَاهُ قُرْآنًا أَعْجَمِيًّا لَّقَالُوا لَوْلَا فُصِّلَتْ آيَاتُهُ ۖ أَأَعْجَمِيٌّ وَعَرَبِيٌّ ۗ قُلْ هُوَ لِلَّذِينَ آمَنُوا هُدًى وَشِفَاءٌ ۖ وَالَّذِينَ لَا يُؤْمِنُونَ فِي آذَانِهِمْ وَقْرٌ وَهُوَ عَلَيْهِمْ عَمًى ۚ أُولَـٰئِكَ يُنَادَوْنَ مِن مَّكَانٍ بَعِيدٍ ﴿٤٤﴾",
-        "indopak": "وَلَوْ جَعَلْنٰهُ قُرْاٰنًا اَعْجَمِیًّا لَّقَالُوْا لَوْ لَا فُصِّلَتْ اٰیٰتُهٗ ؕ ءَؔاَعْجَمِیٌّ وَّ عَرَبِیٌّ ؕ قُلْ هُوَ لِلَّذِیْنَ اٰمَنُوْا هُدًی وَّشِفَآءٌ ؕ وَالَّذِیْنَ لَا یُؤْمِنُوْنَ فِیْۤ اٰذَانِهِمْ وَقْرٌ وَّهُوَ عَلَیْهِمْ عَمًی ؕ اُولٰٓئِكَ یُنَادَوْنَ مِنْ مَّكَانٍۭ بَعِیْدٍ ﴿٪۴۴﴾",
-        "clean": "ولو جعلنه قرانا اعجما لقالوا لو لا فصلت اته  ءاعجم و عرب  قل هو للذن امنوا هد وشفاء  والذن لا ءمنون ف اذانهم وقر وهو علهم عم  اولءك نادون من مكان بعد ",
+        "uthmani": "فَلَمَّا أَلْقَوْا قَالَ مُوسَىٰ مَا جِئْتُم بِهِ السِّحْرُ ۖ إِنَّ اللَّـهَ سَيُبْطِلُهُ ۖ إِنَّ اللَّـهَ لَا يُصْلِحُ عَمَلَ الْمُفْسِدِينَ ﴿٨١﴾ وَيُحِقُّ اللَّـهُ الْحَقَّ بِكَلِمَاتِهِ وَلَوْ كَرِهَ الْمُجْرِمُونَ ﴿٨٢﴾",
+        "indopak": "فَلَمَّاۤ اَلْقَوْا قَالَ مُوْسٰی مَا جِئْتُمْ بِهِ ۙ السِّحْرُ ؕ اِنَّ اللّٰهَ سَیُبْطِلُهٗ ؕ اِنَّ اللّٰهَ لَا یُصْلِحُ عَمَلَ الْمُفْسِدِیْنَ﴿۸۱﴾ وَیُحِقُّ اللّٰهُ الْحَقَّ بِكَلِمٰتِهٖ وَلَوْ كَرِهَ الْمُجْرِمُوْنَ﴿٪۸۲﴾",
+        "clean": "فلما القوا قال موس ما جءتم به  السحر  ان الله سبطله  ان الله لا صلح عمل المفسدن وحق الله الحق بكلمته ولو كره المجرمون",
         "transliteration": null,
-        "reference": "Surah Fussilat 41:44",
-        "audio": 590,
+        "reference": "Surah Yunus 10: 81-82",
+        "audio": 568,
         "cat_id": 34,
-        "subcat_id": 103
+        "subcat_id": 102
       },
       "source": {
-        "name": "If the jinn does not go away (a stubborn jinn), then what to read #12",
+        "name": "Jinn, magic and treatment of diseases that must be read #10",
         "content": null,
-        "translation": "(44) And if We had made it a non-Arabic Qur'an, they would have said, \"Why are its verses not explained in detail [in our language]? Is it a foreign [recitation] and an Arab [messenger]?\" Say, \"It is, for those who believe, a guidance and cure.\" And those who do not believe -  in their ears is deafness, and it is upon them blindness. Those are being called from a distant place.",
+        "translation": "(81) And when they had thrown, Moses said, \"What you have brought is [only] magic. Indeed, Allah will expose its worthlessness. Indeed, Allah does not amend the work of corrupters. (82) And Allah will establish the truth by His words, even if the criminals dislike it.\"",
         "note": null
       },
       "target": {
@@ -262,31 +290,35 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "জ্বিন, জাদু ও রোগের চিকিৎসায় যা পড়তে হবে #১০",
+        "translation": "(৮১) অতঃপর যখন তারা (তাদের রশি ও লাঠি) ফেলল, তখন মূসা বলল, ‘তোমরা যা আনলে, তা যাদু। নিশ্চয় আল্লাহ্‌ তা বাতিল করে দেবেন। নিশ্চয় আল্লাহ্‌ ফাসাদকারীদের আমল পরিশুদ্ধ করেন না’। (৮২) আর আল্লাহ্‌ তাঁর বাণীসমূহের মাধ্যমে সত্যকে প্রতিষ্ঠিত করেন, যদিও অপরাধীরা তা অপছন্দ করে।"
       }
     },
     {
       "key": [
-        591
+        569
       ],
-      "id": 591,
+      "id": 569,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 591,
+        "id": 569,
         "groups": null,
-        "uthmani": "إِنَّ شَجَرَتَ الزَّقُّومِ ﴿٤٣﴾ طَعَامُ الْأَثِيمِ ﴿٤٤﴾ كَالْمُهْلِ يَغْلِي فِي الْبُطُونِ ﴿٤٥﴾ كَغَلْيِ الْحَمِيمِ ﴿٤٦﴾ خُذُوهُ فَاعْتِلُوهُ إِلَىٰ سَوَاءِ الْجَحِيمِ ﴿٤٧﴾ ثُمَّ صُبُّوا فَوْقَ رَأْسِهِ مِنْ عَذَابِ الْحَمِيمِ ﴿٤٨﴾ ذُقْ إِنَّكَ أَنتَ الْعَزِيزُ الْكَرِيمُ ﴿٤٩﴾ إِنَّ هَـٰذَا مَا كُنتُم بِهِ تَمْتَرُونَ ﴿٥٠﴾",
-        "indopak": "اِنَّ شَجَرَتَ الزَّقُّوْمِ﴿ۙ۴۳﴾ طَعَامُ الْاَثِیْمِ﴿ۖۛۚ۴۴﴾كَالْمُهْلِ ۚۛ یَغْلِیْ فِیْ الْبُطُوْنِ﴿ۙ۴۵﴾ كَغَلْیِ الْحَمِیْمِ﴿۴۶﴾ خُذُوْهُ فَاعْتِلُوْهُ اِلٰی سَوَآءِ الْجَحِیْمِ﴿٭ۖ۴۷﴾ ثُمَّ صُبُّوْا فَوْقَ رَاْسِهٖ مِنْ عَذَابِ الْحَمِیْمِ﴿ؕ۴۸﴾ ذُقْ ۚۙ اِنَّكَ اَنْتَ الْعَزِیْزُ الْكَرِیْمُ﴿۴۹﴾ اِنَّ هٰذَا مَا كُنْتُمْ بِهٖ تَمْتَرُوْنَ ﴿۵۰﴾",
-        "clean": "ان شجرت الزقوم طعام الاثمكالمهل  غل ف البطون كغل الحمم خذوه فاعتلوه ال سواء الجحم ثم صبوا فوق راسه من عذاب الحمم ذق  انك انت العزز الكرم ان هذا ما كنتم به تمترون ",
+        "uthmani": "وَأَلْقِ مَا فِي يَمِينِكَ تَلْقَفْ مَا صَنَعُوا ۖ إِنَّمَا صَنَعُوا كَيْدُ سَاحِرٍ ۖ وَلَا يُفْلِحُ السَّاحِرُ حَيْثُ أَتَىٰ ﴿٦٩﴾",
+        "indopak": "وَاَلْقِ مَا فِیْ یَمِیْنِكَ تَلْقَفْ مَا صَنَعُوْا ؕ اِنَّمَا صَنَعُوْا كَیْدُ سٰحِرٍ ؕ وَلَا یُفْلِحُ السَّاحِرُ حَیْثُ اَتٰی﴿۶۹﴾",
+        "clean": "والق ما ف منك تلقف ما صنعوا  انما صنعوا كد سحر  ولا فلح الساحر حث ات",
         "transliteration": null,
-        "reference": "Sura Dukhan 44: 43-50",
-        "audio": 591,
+        "reference": "Surah Ta Ha 20:69",
+        "audio": 569,
         "cat_id": 34,
-        "subcat_id": 103
+        "subcat_id": 102
       },
       "source": {
-        "name": "If the jinn does not go away (a stubborn jinn), then what to read #13",
+        "name": "Jinn, magic and treatment of diseases that must be read #11",
         "content": null,
-        "translation": "(43) Indeed, the tree of zaqqum (44) Is food for the sinful. (45) Like murky oil, it boils within bellies (46) Like the boiling of scalding water. (47) [It will be commanded], \"Seize him and drag him into the midst of the Hellfire, (48) Then pour over his head from the torment of scalding water.\" (49) [It will be said], \"Taste!  Indeed, you are the honored, the noble! (50) Indeed, this is what you used to dispute.\"",
+        "translation": "(69) And throw what is in your right hand; it will swallow up what they have crafted. What they have crafted is but the trick of a magician, and the magician will not succeed wherever he is.\"",
         "note": null
       },
       "target": {
@@ -294,550 +326,10 @@
         "content": null,
         "translation": "",
         "note": null
-      }
-    },
-    {
-      "key": [
-        592
-      ],
-      "id": 592,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 592,
-        "groups": null,
-        "uthmani": "وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ ﴿٧﴾ يَسْمَعُ آيَاتِ اللَّـهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ ﴿٨﴾",
-        "indopak": "وَیْلٌ لِّكُلِّ اَفَّاكٍ اَثِیْمٍ ۙ﴿۷﴾ یَّسْمَعُ اٰیٰتِ اللّٰهِ تُتْلٰی عَلَیْهِ ثُمَّ یُصِرُّ مُسْتَكْبِرًا كَاَنْ لَّمْ یَسْمَعْهَا ۚ فَبَشِّرْهُ بِعَذَابٍ اَلِیْمٍ﴿۸﴾",
-        "clean": "ول لكل افاك اثم  سمع ات الله تتل عله ثم صر مستكبرا كان لم سمعها  فبشره بعذاب الم",
-        "transliteration": null,
-        "reference": "Surah Jathiya 45: 7-8",
-        "audio": 592,
-        "cat_id": 34,
-        "subcat_id": 103
       },
-      "source": {
-        "name": "If the jinn does not go away (a stubborn jinn), then what to read #14",
-        "content": null,
-        "translation": "(7) Woe to every sinful liar (8) Who hears the verses of Allah recited to him, then persists arrogantly as if he had not heard them. So give him tidings of a painful punishment.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        593
-      ],
-      "id": 593,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 593,
-        "groups": null,
-        "uthmani": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ مِنْ أَزْوَاجِكُمْ وَأَوْلَادِكُمْ عَدُوًّا لَّكُمْ فَاحْذَرُوهُمْ ۚ وَإِن تَعْفُوا وَتَصْفَحُوا وَتَغْفِرُوا فَإِنَّ اللَّـهَ غَفُورٌ رَّحِيمٌ ﴿١٤﴾ إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ ۚ وَاللَّـهُ عِندَهُ أَجْرٌ عَظِيمٌ ﴿١٥﴾ فَاتَّقُوا اللَّـهَ مَا اسْتَطَعْتُمْ وَاسْمَعُوا وَأَطِيعُوا وَأَنفِقُوا خَيْرًا لِّأَنفُسِكُمْ ۗ وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُولَـٰئِكَ هُمُ الْمُفْلِحُونَ ﴿١٦﴾",
-        "indopak": "یٰۤاَیُّهَا الَّذِیْنَ اٰمَنُوْۤا اِنَّ مِنْ اَزْوَاجِكُمْ وَاَوْلَادِكُمْ عَدُوًّا لَّكُمْ فَاحْذَرُوْهُمْ ۚ وَاِنْ تَعْفُوْا وَتَصْفَحُوْا وَتَغْفِرُوْا فَاِنَّ اللّٰهَ غَفُوْرٌ رَّحِیْمٌ﴿۱۴﴾ اِنَّمَاۤ اَمْوَالُكُمْ وَاَوْلَادُكُمْ فِتْنَةٌ ؕ وَاللّٰهُ عِنْدَهٗۤ اَجْرٌ عَظِیْمٌ﴿۱۵﴾ فَاتَّقُوا اللّٰهَ مَا اسْتَطَعْتُمْ وَاسْمَعُوْا وَاَطِیْعُوْا وَاَنْفِقُوْا خَیْرًا لِّاَنْفُسِكُمْ ؕ وَمَنْ یُّوْقَ شُحَّ نَفْسِهٖ فَاُولٰٓئِكَ هُمُ الْمُفْلِحُوْنَ ﴿۱۶﴾",
-        "clean": "اها الذن امنوا ان من ازواجكم واولادكم عدوا لكم فاحذروهم  وان تعفوا وتصفحوا وتغفروا فان الله غفور رحم انما اموالكم واولادكم فتنه  والله عنده اجر عظم فاتقوا الله ما استطعتم واسمعوا واطعوا وانفقوا خرا لانفسكم  ومن وق شح نفسه فاولءك هم المفلحون ",
-        "transliteration": null,
-        "reference": "Surah Tagabun 64: 14-16",
-        "audio": 593,
-        "cat_id": 34,
-        "subcat_id": 103
-      },
-      "source": {
-        "name": "If the jinn does not go away (a stubborn jinn), then what to read #15",
-        "content": null,
-        "translation": "(14) O you who have believed, indeed, among your wives and your children are enemies to you, so beware of them. But if you pardon and overlook and forgive -  then indeed, Allah is Forgiving and Merciful. (15) Your wealth and your children are but a trial, and Allah has with Him a great reward. (16) So fear Allah as much as you are able and listen and obey and spend [in the way of Allah ]; it is better for your selves. And whoever is protected from the stinginess of his soul -  it is those who will be the successful.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        594
-      ],
-      "id": 594,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 594,
-        "groups": null,
-        "uthmani": "رَبَّنَا أَخْرِجْنَا مِنْ هَـٰذِهِ الْقَرْيَةِ الظَّالِمِ أَهْلُهَا وَاجْعَل لَّنَا مِن لَّدُنكَ وَلِيًّا وَاجْعَل لَّنَا مِن لَّدُنكَ نَصِيرًا",
-        "indopak": "رَبَّنَا اَخْرِجْنَا مِنْ هٰذِهِ الْقَرْيَةِ الظَّالِمِ اَهْلُهَا وَاجْعَل لَّنَا مِن لَّدُنْكَ وَلِيًّا وَّاجْعَلْ لَّنَا مِنْ لَّدُنْكَ نَصِيْرًا",
-        "clean": "ربنا اخرجنا من هذه القريه الظالم اهلها واجعل لنا من لدنك وليا واجعل لنا من لدنك نصيرا",
-        "transliteration": null,
-        "reference": "Surah Nisa 4:75",
-        "audio": 594,
-        "cat_id": 35,
-        "subcat_id": 104
-      },
-      "source": {
-        "name": "Dua of an oppressed person #1",
-        "content": null,
-        "translation": "Our Lord, take us out of this city of oppressive people and appoint for us from Yourself a protector and appoint for us from Yourself a helper?\"",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        595
-      ],
-      "id": 595,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 595,
-        "groups": null,
-        "uthmani": "عَلَى اللَّهِ تَوَكَّلْنَا ۚ رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَأَنتَ خَيْرُ الْفَاتِحِينَ",
-        "indopak": "عَلَى اللّٰهِ تَوَكَّلْنَا ۚ رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَاَنتَ خَيْرُ الْفَاتِحِيْنَ",
-        "clean": "علي الله توكلنا  ربنا افتح بيننا وبين قومنا بالحق وانت خير الفاتحين",
-        "transliteration": null,
-        "reference": "Surah A'raf 7:89",
-        "audio": 595,
-        "cat_id": 35,
-        "subcat_id": 104
-      },
-      "source": {
-        "name": "Dua of an oppressed person #2",
-        "content": null,
-        "translation": "Our Lord, decide between us and our people in truth, and You are the best of those who give decision.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        596
-      ],
-      "id": 596,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 596,
-        "groups": null,
-        "uthmani": "عَلَى اللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ الظَّالِمِينَ ﴿٨٥﴾ وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ ﴿٨٦﴾",
-        "indopak": "عَلَى اللّٰهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ الظَّالِمِيْنَ ﴿٨٥﴾ وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِيْنَ ﴿٨٦﴾",
-        "clean": "علي الله توكلنا ربنا لا تجعلنا فتنه للقوم الظالمين ٨٥ ونجنا برحمتك من القوم الكافرين ٨٦",
-        "transliteration": null,
-        "reference": "Surah Yunus 10: 85-86",
-        "audio": 596,
-        "cat_id": 35,
-        "subcat_id": 104
-      },
-      "source": {
-        "name": "Dua of an oppressed person #3",
-        "content": null,
-        "translation": "(85) Upon Allah do we rely. Our Lord, make us not [objects of] trial for the wrongdoing people (86) And save us by Your mercy from the disbelieving people.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        597
-      ],
-      "id": 597,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 597,
-        "groups": null,
-        "uthmani": "رَبِّ انصُرْنِي عَلَى الْقَوْمِ الْمُفْسِدِينَ",
-        "indopak": "رَبِّ انصُرْنِيْ عَلَى الْقَوْمِ الْمُفْسِدِيْنَ",
-        "clean": "رب انصرني علي القوم المفسدين",
-        "transliteration": null,
-        "reference": "Surah Ankabut 29:30",
-        "audio": 597,
-        "cat_id": 35,
-        "subcat_id": 104
-      },
-      "source": {
-        "name": "Dua of an oppressed person #4",
-        "content": null,
-        "translation": "My Lord, support me against the corrupting people.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        598
-      ],
-      "id": 598,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 598,
-        "groups": null,
-        "uthmani": "رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ",
-        "indopak": "رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِيْنَ",
-        "clean": "ربنا لا تجعلنا مع القوم الظالمين",
-        "transliteration": null,
-        "reference": "Surah A'raf 7:47",
-        "audio": 598,
-        "cat_id": 35,
-        "subcat_id": 104
-      },
-      "source": {
-        "name": "Dua of an oppressed person #5",
-        "content": null,
-        "translation": "Our Lord, do not place us with the wrongdoing people.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        599
-      ],
-      "id": 599,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 599,
-        "groups": null,
-        "uthmani": "رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ",
-        "indopak": "رَبِّ نَجِّنِيْ مِنَ الْقَوْمِ الظَّالِمِيْنَ",
-        "clean": "رب نجني من القوم الظالمين",
-        "transliteration": null,
-        "reference": "Surah Al-Qasas 28:21",
-        "audio": 599,
-        "cat_id": 35,
-        "subcat_id": 104
-      },
-      "source": {
-        "name": "Dua of an oppressed person #6",
-        "content": null,
-        "translation": "My Lord, save me from the wrongdoing people.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        600
-      ],
-      "id": 600,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 600,
-        "groups": null,
-        "uthmani": "رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَٰهِلِينَ",
-        "indopak": "رَبِّ السِّجْنُ اَحَبُّ اِلَىَّ مِمَّا يَدْعُونَنِىْ اِلَيْهِ ۖ وَاِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ اَصْبُ اِلَيْهِنَّ وَاَكُنْ مِّنَ الْجَٰهِلِيْنَ",
-        "clean": "رب السجن احب الي مما يدعونني اليه  والا تصرف عني كيدهن اصب اليهن واكن من الجهلين",
-        "transliteration": null,
-        "reference": "Surah Yusuf 12:33",
-        "audio": 600,
-        "cat_id": 35,
-        "subcat_id": 104
-      },
-      "source": {
-        "name": "Dua of an oppressed person #7",
-        "content": null,
-        "translation": "My Lord, prison is more to my liking than that to which they invite me. And if You do not avert from me their plan, I might incline toward them and [thus] be of the ignorant.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        601
-      ],
-      "id": 601,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 601,
-        "groups": null,
-        "uthmani": "أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ",
-        "indopak": "اَنِّيْ مَسَّنِيَ الضُّرُّ وَاَنْتَ اَرْحَمُ الرَّاحِمِيْنَ",
-        "clean": "اني مسني الضر وانت ارحم الراحمين",
-        "transliteration": null,
-        "reference": "Surah Al-Ambiya 21:83",
-        "audio": 601,
-        "cat_id": 35,
-        "subcat_id": 104
-      },
-      "source": {
-        "name": "Dua of an oppressed person #8",
-        "content": null,
-        "translation": "Indeed, adversity has touched me, and you are the Most Merciful of the merciful.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        602
-      ],
-      "id": 602,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 602,
-        "groups": null,
-        "uthmani": "رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ",
-        "indopak": "رَبِّ نَجِّنِي وَاَهْلِيْ مِمَّا يَعْمَلُوْنَ",
-        "clean": "رب نجني واهلي مما يعملون",
-        "transliteration": null,
-        "reference": "Surah Ash-Shu'ara 26:169",
-        "audio": 602,
-        "cat_id": 35,
-        "subcat_id": 104
-      },
-      "source": {
-        "name": "Dua of an oppressed person #9",
-        "content": null,
-        "translation": "My Lord, save me and my family from [the consequence of] what they do.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        603
-      ],
-      "id": 603,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 603,
-        "groups": null,
-        "uthmani": "أَنِّي مَغْلُوبٌ فَانتَصِرْ",
-        "indopak": "اَنِّيْ مَغْلُوْبٌ فَانتَصِرْ",
-        "clean": "اني مغلوب فانتصر",
-        "transliteration": null,
-        "reference": "Surah Qamar 54:10",
-        "audio": 603,
-        "cat_id": 35,
-        "subcat_id": 104
-      },
-      "source": {
-        "name": "Dua of an oppressed person #10",
-        "content": null,
-        "translation": "Indeed, I am overpowered, so help.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        604
-      ],
-      "id": 604,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 604,
-        "groups": null,
-        "uthmani": "رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي",
-        "indopak": "رَبِّ اِنّيْ ظَلَمْتُ نَفْسِيْ فَاغْفِرْ لِيْ",
-        "clean": "رب اني ظلمت نفسي فاغفر لي",
-        "transliteration": null,
-        "reference": "Surah Qasas 28:16",
-        "audio": 604,
-        "cat_id": 35,
-        "subcat_id": 105
-      },
-      "source": {
-        "name": "Seeking forgiveness #1",
-        "content": null,
-        "translation": "My Lord, indeed I have wronged myself, so forgive me",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        605
-      ],
-      "id": 605,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 605,
-        "groups": null,
-        "uthmani": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِن ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ ﴿٤٠﴾ رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ ﴿٤١﴾",
-        "indopak": "رَبِّ اجْعَلْنِيْ مُقِيْمَ الصَّلَاةِ وَمِن ذُرِّيَّتِيْ ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ ﴿٤٠﴾ رَبَّنَا اغْفِرْ لِيْ وَلِوَالِدَيَّ وَلِلْمُؤْمِنِيْنَ يَوْمَ يَقُومُ الْحِسَابُ ﴿٤١﴾",
-        "clean": "رب اجعلني مقيم الصلاه ومن ذريتي  ربنا وتقبل دعاء ٤٠ ربنا اغفر لي ولوالدي وللمءمنين يوم يقوم الحساب ٤١",
-        "transliteration": null,
-        "reference": "Surah Ibrahim 14:40-41",
-        "audio": 605,
-        "cat_id": 35,
-        "subcat_id": 105
-      },
-      "source": {
-        "name": "Seeking forgiveness #2",
-        "content": null,
-        "translation": "(40) My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication. (41) Our Lord, forgive me and my parents and the believers the Day when the account is established.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        606
-      ],
-      "id": 606,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 606,
-        "groups": null,
-        "uthmani": "رَبِّ ٱغْفِرْ لِى",
-        "indopak": "رَبِّ اغْفِرْ لِيْ",
-        "clean": "رب اغفر لي",
-        "transliteration": null,
-        "reference": "Surah Soad 38:35",
-        "audio": 606,
-        "cat_id": 35,
-        "subcat_id": 105
-      },
-      "source": {
-        "name": "Seeking forgiveness #3",
-        "content": null,
-        "translation": "My Lord, forgive me",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        607
-      ],
-      "id": 607,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 607,
-        "groups": null,
-        "uthmani": "رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَا أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا ۖ إِنَّكَ أَنتَ التَّوَّابُ الرَّحِيمُ",
-        "indopak": "رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَا اُمَّةً مُّسْلِمَةً لَّكَ وَاَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا ۖ اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِيْمُ",
-        "clean": "ربنا واجعلنا مسلمين لك ومن ذريتنا امه مسلمه لك وارنا مناسكنا وتب علينا  انك انت التواب الرحيم",
-        "transliteration": null,
-        "reference": "Surah Al-Baqara 2:128",
-        "audio": 607,
-        "cat_id": 35,
-        "subcat_id": 105
-      },
-      "source": {
-        "name": "Seeking forgiveness #4",
-        "content": null,
-        "translation": "Our Lord! Make of us Muslims, bowing to Thy (Will), and of our progeny a people Muslim, bowing to Thy (will); and show us our place for the celebration of (due) rites; and turn unto us (in Mercy); for Thou art the Oft-Returning, Most Merciful",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        608
-      ],
-      "id": 608,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 608,
-        "groups": null,
-        "uthmani": "رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ الرَّاحِمِينَ",
-        "indopak": "رَبَّنَا اٰمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَاَنْتَ خَيْرُ الرَّاحِمِيْنَ",
-        "clean": "ربنا امنا فاغفر لنا وارحمنا وانت خير الراحمين",
-        "transliteration": null,
-        "reference": "Surah Muminun 23:109",
-        "audio": 608,
-        "cat_id": 35,
-        "subcat_id": 105
-      },
-      "source": {
-        "name": "Seeking forgiveness and mercy #1",
-        "content": null,
-        "translation": "Our Lord, we have believed, so forgive us and have mercy upon us, and You are the best of the merciful.'",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
+      "reference_bn": {
+        "name": "জ্বিন, জাদু ও রোগের চিকিৎসায় যা পড়তে হবে #১১",
+        "translation": "(৬৯) ‘আর তোমার ডান হাতে যা আছে, তা ফেলে দাও। তারা যা করেছে, এটা সেগুলো গ্রাস করে ফেলবে। তারা যা করেছে, তাতো কেবল যাদুকরের কৌশল। আর যাদুকর যেখানেই আসুক না কেন, সে সফল হবে না’।"
       }
     }
   ]

@@ -4,10 +4,377 @@
   "source_language": "en",
   "target_language": "TARGET",
   "status": "pending",
-  "rows": 9,
-  "id_range": "131-139",
-  "source_chars": 4193,
+  "rows": 15,
+  "id_range": "121-135",
+  "source_chars": 5680,
   "items": [
+    {
+      "key": [
+        121
+      ],
+      "id": 121,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 121,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "[1] Sahih (Albani). Tirmidhi: 3404\n[2] Sahih (Albani). Tirmidhi: 2920",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Surah to be recited before going to sleep",
+        "content": "Jabir (RA) said, Rasulullah (ﷺ) would not sleep without reciting Surah Sajdah and Surah Mulk. [1]\n\nAyesha (RA) said, \"The Messenger of Allah (ﷺ), would not sleep without reciting Surah Bani Isra'il and Surah Zumar.\" In another hadith, Ayesha (RA) said that the Prophet (ﷺ) used to recite Surah Sajdah and Surah Zumar every night. [2]",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      },
+      "reference_bn": {
+        "name": "ঘুমানোর আগে পঠিত সূরাসমূহ",
+        "content": "জাবির (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) সূরা সাজদাহ ও সূরা মুলক তিলাওয়াত না করে ঘুমাতেন না। [১]\n\nআয়েশা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) সূরা বানী ইসরাঈল ও সূরা যুমার তিলাওয়াত না করে ঘুমাতেন না। অন্য হাদীসে আয়েশা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) প্রত্যেক রাতে সূরা সাজদাহ ও সূরা যুমার পাঠ করতেন। [২]"
+      }
+    },
+    {
+      "key": [
+        122
+      ],
+      "id": 122,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 122,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ بِاسْمِكَ أَمُوْتُ وَأَحْيَا",
+        "indopak": "اَللّٰهُمَّ بِاسْمِكَ اَمُوْتُ وَاَحْيَا",
+        "clean": "اللهم باسمك اموت واحيا",
+        "transliteration": "Allaahumma bismika amutu wa a'h-yaa",
+        "reference": "Bukhari: 6314",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #1",
+        "content": "Narrated by Hudhaifa (RA): When the Prophet (ﷺ) went to bed at night, he would put his hand under his cheek and then say:",
+        "translation": "O Allah, in Your Name I die and I live.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "ঘুমানোর যিক্‌রসমূহ #১",
+        "content": "হুযায়ফাহ্ (রাঃ) বলেন, নবী করীম (ﷺ) যখন রাতে শয্যা গ্রহণ করতেন তখন তিনি তাঁর হাত গালের নীচে রাখতেন। অতঃপর বলতেন -",
+        "translation": "হে আল্লাহ্‌! আমি তোমার নামে মৃত্যুবরণ করি এবং তোমার নামেই জীবিত হই।"
+      }
+    },
+    {
+      "key": [
+        123
+      ],
+      "id": 123,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 123,
+        "groups": null,
+        "uthmani": "بِاسْمِكَ اَللَّهُمَّ أَمُوْتُ وَأَحْيَا",
+        "indopak": "بِاسْمِكَ اَللّٰهُمَّ اَمُوْتُ وَاَحْيَا",
+        "clean": "باسمك اللهم اموت واحيا",
+        "transliteration": "Bismika Allaahumma 'amootu wa 'ahyaa",
+        "reference": "Al-Bukhari, Fathul Bari 11/113 no. 6324, Muslim 4/2083 no. 2711",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #2",
+        "content": null,
+        "translation": "In Your name O Allah, I live and die.",
+        "note": "Hudhayfah (RA) said, \"If the Messenger of Allah (ﷺ) intended to sleep, he would recite this dhikr.”"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "ঘুমানোর যিক্‌রসমূহ #২",
+        "translation": "আপনারই নামে, হে আল্লাহ্‌, আমি মৃত্যুবরণ করি এবং জীবিত হই।",
+        "note": "হুযাইফা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) ঘুমানোর এরাদা করলে এ যিক্‌রটি বলতেন।"
+      }
+    },
+    {
+      "key": [
+        124
+      ],
+      "id": 124,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 124,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِى كَفَانِى وَآوَانِى وَأَطْعَمَنِى وَسَقَانِى وَالَّذِى مَنَّ عَلَىَّ فَأَفْضَلَ وَالَّذِى أَعْطَانِى فَأَجْزَلَ اَلْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ، اَللَّهُمَّ رَبَّ كُلِّ شَىْءٍ وَمَلِيْكَهُ وَإِلَهَ كُلِّ شَىْءٍ أَعُوْذُ بِكَ مِنَ النَّارِ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِىْ كَفَانِى وَاٰوَانِىْ وَاَطْعَمَنِىْ وَسَقَانِىْ وَالَّذِىْ مَنَّ عَلَىَّ فَاَفْضَلَ وَالَّذِىْ اَعْطَانِىْ فَاَجْزَلَ اَلْحَمْدُ لِلّٰهِ عَلٰى كُلِّ حَالٍ، اَللّٰهُمَّ رَبَّ كُلِّ شَىْءٍ وَّمَلِيْكَهُ وَاِلٰهَ كُلِّ شَىْءٍ اَعُوْذُ بِكَ مِنَ النَّارِ",
+        "clean": "الحمد لله الذي كفاني واواني واطعمني وسقاني والذي من علي فافضل والذي اعطاني فاجزل الحمد لله علي كل حال اللهم رب كل شيء ومليكه واله كل شيء اعوذ بك من النار",
+        "transliteration": "Alhamdu lillaahil-ladhi kafaani wa aa'wani wa at'amani wa saqaani wal-ladhi manna alayya fa-afdala wal-ladhi a'taani fa-ajzala alhamdu-lillaahi alaa kulli hal, Allaahumma rabba kulli shayin wa malikahu wa ilaaha kulli shayin A‛oodhu bika minan naar",
+        "reference": "Sahih (Albani). Abu Dawud: 5058",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #3",
+        "content": "Narrated Abdullah ibn Umar (RA): When the Messenger of Allah (ﷺ) went to his bed, he would say:",
+        "translation": "Praise be to Allah Who has given me sufficiency, has guarded me, given me food and drink, been most gracious to me, and given to me most lavishly. Praise be to Allah in every circumstance. O Allah! Lord and King of everything, God of everything, I seek refuge in Thee from Hell.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "ঘুমানোর যিক্‌রসমূহ #৩",
+        "content": "আব্দুল্লাহ ইবনু ওম্‌র (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) রাত্রে যখন শয্যা গ্রহণ করতেন তখন বলতেন -",
+        "translation": "সকল প্রশংসা ও কৃতজ্ঞতা আল্লাহ্‌র জন্য, যিনি আমার প্রয়োজন পুরা করলেন, আমাকে মুক্তি দিলেন, আমাকে পানাহার করালেন, যিনি আমার প্রতি অসীম দয়াবান এবং আমাকে দান করলেন। সুতরাং সর্বাবস্থায় আল্লাহ্‌র প্রশংসা ও কৃতজ্ঞতা। হে আল্লাহ্‌! প্রত্যেক বস্তুর রব ও অধিকারী এবং প্রত্যেক জিনিসের ইলাহ্‌! আমি আপনার নিকট জাহান্নামের শাস্তি হতে আশ্রয় চাই।"
+      }
+    },
+    {
+      "key": [
+        125
+      ],
+      "id": 125,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 125,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنَّكَ خَلَقْتَ نَفْسِي وَأَنْتَ تَوَفَّاهَا، لَكَ مَمَاتُهَا وَمَحْيَاهَا، إِنْ أَحْيَيْتَهَا فَاحْفَظْهَا، وَإِنْ أَمَتَّهَا فَاغْفِرْ لَهَا، اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ",
+        "indopak": "اَللّٰهُمَّ اِنَّكَ خَلَقْتَ نَفْسِيْ وَاَنْتَ تَوَفَّاهَا، لَكَ مَمَاتُهَا وَمَحْيَاهَا، اِنْ اَحْيَيْتَهَا فَاحْفَظْهَا، وَاِنْ اَمَتَّهَا فَاغْفِرْ لَهَا، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ الْعَافِيَةَ",
+        "clean": "اللهم انك خلقت نفسي وانت توفاها لك مماتها ومحياها ان احييتها فاحفظها وان امتها فاغفر لها اللهم اني اسالك العافيه",
+        "transliteration": "Allaahumma 'innaka khalaqta nafsee wa 'Anta tawaffaahaa, laka mamaatuhaa wa mahyaahaa, 'in 'ahyaytahaa fa’hfadhhaa, wa 'in 'amattahaa faghfir lahaa. Allaahumma 'innee 'as'alukal-'aafiyah",
+        "reference": "Muslim: 2712",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #4",
+        "content": null,
+        "translation": "O Allah, verily You have created my soul and You shall take it's life, to You belong it's life and death. If You keep my soul alive then protect it, and if You take it's life then forgive it. O Allah, I ask You to grant me good health.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "ঘুমানোর যিক্‌রসমূহ #৪",
+        "translation": "হে আল্লাহ্‌! নিশ্চয় আপনি আমার আত্মাকে সৃষ্টি করেছেন এবং আপনি তার মৃত্যু ঘটাবেন। তার মৃত্যু ও তার জীবন আপনার মালিকানায়। যদি তাকে বাঁচিয়ে রাখেন তাহলে আপনি তার হেফাযত করুন, আর যদি তার মৃত্যু ঘটান তবে তাকে মাফ করে দিন। হে আল্লাহ্‌! আমি আপনার কাছে নিরাপত্তা চাই।"
+      }
+    },
+    {
+      "key": [
+        126
+      ],
+      "id": 126,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 126,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَنْتَ الْأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَأَنْتَ الْآخِرُ فَلَيسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ",
+        "indopak": "اَللّٰهُمَّ اَنْتَ الْاَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَاَنْتَ الْاٰخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَاَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَاَنْتَ الْبَاطِنُ فَلَيْسَ دُوْنَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَاَغْنِنَا مِنَ الْفَقْرِ",
+        "clean": "اللهم انت الاول فليس قبلك شيء وانت الاخر فليس بعدك شيء وانت الظاهر فليس فوقك شيء وانت الباطن فليس دونك شيء اقض عنا الدين واغننا من الفقر",
+        "transliteration": "Allaahumma 'Antal-'Awwalu falaysa qablaka shay'un, wa 'Antal-'Aakhiru falaysa ba'daka shay'un, wa 'Antadh-Dhaahiru falaysa fawqaka shay'un, wa 'Antal-Baatinu falaysa doonaka shay'un, iqdhi 'annad-dayna wa 'aghninaa minal-faqr",
+        "reference": "Muslim: 2713",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #5",
+        "content": null,
+        "translation": "O Allah You are the First and nothing has come before you, and You are the Last, and nothing may come after You. You are the Most High, nothing is above You and You are the Most Near and nothing is nearer than You. Remove our debts from us and enrich us against poverty.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "ঘুমানোর যিক্‌রসমূহ #৫",
+        "translation": "হে আল্লাহ্‌! আপনিই প্রথম, আপনার পূর্বে কিছুই ছিল না; আপনি সর্বশেষ, আপনার পরে কোনো কিছু থাকবে না; আপনি সব কিছুর উপরে, আপনার উপরে কিছুই নেই; আপনি সর্বনিকটে, আপনার চেয়ে নিকটবর্তী কিছু নেই, আপনি আমাদের সমস্ত ঋণ পরিশোধ করে দিন এবং আমাদেরকে অভাবগ্রস্ততা থেকে অভাবমুক্ত করুন।"
+      }
+    },
+    {
+      "key": [
+        127
+      ],
+      "id": 127,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 127,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَرَبَّ الْأَرْضِ، وَرَبَّ الْعَرْشِ الْعَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَالْإِنْجِيلِ، وَالْفُرْقَانِ، أَعُوْذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ أَنْتَ آخِذٌ بِنَاصِيَتِهِ، اَللَّهُمَّ أَنْتَ الْأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَأَنْتَ الْآخِرُ فَلَيسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيْءٌ، اقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ",
+        "indopak": "اَللّٰهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَرَبَّ الْاَرْضِ، وَرَبَّ الْعَرْشِ الْعَظِيْمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوٰى، وَمُنْزِلَ التَّوْرَاةِ وَالْاِنْجِيْلِ، وَالْفُرْقَانِ، اَعُوْذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ اَنْتَ اٰخِذٌ بِنَاصِيَتِهٖ، اَللّٰهُمَّ اَنْتَ الْاَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَاَنْتَ الْاٰخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَاَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَاَنْتَ الْبَاطِنُ فَلَيْسَ دُوْنَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَاَغْنِنَا مِنَ الْفَقْرِ",
+        "clean": "اللهم رب السموات السبع ورب الارض ورب العرش العظيم ربنا ورب كل شيء فالق الحب والنوي ومنزل التوراه والانجيل والفرقان اعوذ بك من شر كل شيء انت اخذ بناصيته اللهم انت الاول فليس قبلك شيء وانت الاخر فليس بعدك شيء وانت الظاهر فليس فوقك شيء وانت الباطن فليس دونك شيء اقض عنا الدين واغننا من الفقر",
+        "transliteration": "Allaahumma Rabbas-samaawaatis-sab'i wa Rabbal ard, wa Rabbal-'Arshil-'Adheem, Rabbanaa wa Rabba kulli shay 'in, faaliqal-habbi wannawaa, wa munzilat-Tawraati wal-'Injeeli, wal-Furqaan, 'a'oodhu bika min sharri kulli shay 'in 'Anta 'aakhidhun binaasiyatihi. Allaahumma 'Antal-'Awwalu falaysa qablaka shay'un, wa 'Antal-'Aakhiru falaysa ba'daka shay'un, wa 'Antadh-Dhaahiru falaysa fawqaka shay'un, wa 'Antal-Baatinu falaysa doonaka shay'un, iqdhi 'annad-dayna wa 'aghninaa minal-faqr",
+        "reference": "Muslim: 2713, Sahih (Albani). Tirmidhi: 3481",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #6",
+        "content": null,
+        "translation": "O Allah, Lord of the seven heavens and the Lord of the Earth and Lord of the Magnificent Throne, our Lord and Lord of all things, Splitter of the seed and the date stone, Revealer of the Towraat, the Injeel and the Furqaan, I take refuge in You from the evil of all things You shall seize by the forelock. O Allah, You are The First so there is nothing before You and You are The Last so there is nothing after You. You are ath-Dhaahir so there is nothing above You and You are al-Baatin so there is nothing closer than You. Settle our debt for us and spare us from poverty.",
+        "note": "Abu Huraira (RA) reported that Allah's Messenger (ﷺ) used to command us that as we go to our bed, we should utter the words (as mentioned above). In another narration, he said that when Fatima (RA)  asked him for a khadima, he then taught the dua."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "ঘুমানোর যিক্‌রসমূহ #৬",
+        "translation": "হে আল্লাহ্‌! হে সপ্ত আকাশের রব্ব, যমিনের রব্ব, মহান ‘আরশের রব্ব, আমাদের রব্ব ও প্রত্যেক বস্তুর রব্ব, হে শস্য-বীজ ও আঁটি বিদীর্ণকারী, হে তাওরাত, ইনজীল ও কুরআন নাযিলকারী, আমি প্রত্যেক এমন বস্তুর অনিষ্ট থেকে আপনার নিকট আশ্রয় প্রার্থনা করি, যার (মাথার) অগ্রভাগ আপনি ধরে রেখেছেন (নিয়ন্ত্রণ করছেন)। হে আল্লাহ্‌! আপনিই প্রথম, আপনার পূর্বে কিছুই ছিল না; আপনি সর্বশেষ, আপনার পরে কোনো কিছু থাকবে না; আপনি সব কিছুর উপরে, আপনার উপরে কিছুই নেই; আপনি সর্বনিকটে, আপনার চেয়ে নিকটবর্তী কিছু নেই, আপনি আমাদের সমস্ত ঋণ পরিশোধ করে দিন এবং আমাদেরকে অভাবগ্রস্ততা থেকে অভাবমুক্ত করুন।",
+        "note": "আবু হুরাইরা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) আমাদেরকে বিছানায় শয়ন করার পরে (ডান কাতে শুয়ে) এ মুনাজাতটি পাঠ করতে শিক্ষা দিতেন। অন্য বর্ণনায় তিনি বলেন, ফাতিমা (রাঃ) তাঁর কাছে খাদিমা চাইলে তিনি তাঁকে দোয়াটি শিখিয়ে দেন।"
+      }
+    },
+    {
+      "key": [
+        128
+      ],
+      "id": 128,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 128,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ (التَّامَّاتِ) مِنْ غَضَبِهِ وَعِقَابِهِ وَ(مِنْ) شَرِّ عِبَادِهِ وَمِنْ هَمَزَاتِ الشَّيَاطِيْنِ وَأَنْ يَحْضُرُوْنِ",
+        "indopak": "اَعُوْذُ بِكَلِمَاتِ اللّٰهِ التَّامَّةِ (التَّامَّاتِ) مِنْ غَضَبِهٖ وَعِقَابِهٖ وَ(مِنْ) شَرِّ عِبَادِهٖ وَمِنْ هَمَزَاتِ الشَّيَاطِيْنِ وَاَنْ يَّحْضُرُوْنِ",
+        "clean": "اعوذ بكلمات الله التامه التامات من غضبه وعقابه ومن شر عباده ومن همزات الشياطين وان يحضرون",
+        "transliteration": "A'oodhu bikalimaatil-laahit-taammaati min ghadhabihi wa 'iqaabihi, wa (min) sharri 'ibaadihi, wa min hamazaatish-shayaateeni wa 'an yahduroon",
+        "reference": "Hasan (Albani). Tirmidhi: 3528",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #7",
+        "content": "The Messenger of Allah (ﷺ) said: “When one of you becomes frightened during sleep, then let him say:",
+        "translation": "I seek refuge in the Perfect Words of Allah from His anger and His punishment, from the evil of His slaves and from the taunts of devils and from their presence.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "ঘুমানোর যিক্‌রসমূহ #৭",
+        "content": "রাসূলুল্লাহ্‌ (ﷺ) বলেছেন: তোমাদের কেউ ঘুমের মধ্যে ভয় পেলে সে যেন বলে -",
+        "translation": "আমি আশ্রয় গ্রহণ করছি আল্লাহ্‌র পরিপূর্ণ বাক্যাবলির, তাঁর গযব-ক্রোধ থেকে, তার শাস্তি থেকে, তাঁর সৃষ্টির অকল্যাণ থেকে, শয়তানের তাড়না বা প্ররোচনা থেকে এবং আমার কাছে তাদের উপস্থিতি থেকে।"
+      }
+    },
+    {
+      "key": [
+        129
+      ],
+      "id": 129,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 129,
+        "groups": null,
+        "uthmani": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهُ، فَإِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا، بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ",
+        "indopak": "بِاسْمِكَ رَبِّيْ وَضَعْتُ جَنْۢبِيْ، وَبِكَ اَرْفَعُهٗ، فَاِنْ اَمْسَكْتَ نَفْسِيْ فَارْحَمْهَا، وَاِنْ اَرْسَلْتَهَا فَاحْفَظْهَا، بِمَا تَحْفَظُ بِهٖ عِبَادَكَ الصَّالِحِيْنَ",
+        "clean": "باسمك ربي وضعت جنبي وبك ارفعه فان امسكت نفسي فارحمها وان ارسلتها فاحفظها بما تحفظ به عبادك الصالحين",
+        "transliteration": "Bismika Rabbee wada'tu janbee, wa bika 'arfa'uhu, fa'in 'amsakta nafsee far’hamhaa, wa 'in 'arsaltahaa fa’hfadh haa, bimaa ta’hfadhu bihi 'ibaadakas-saaliheen",
+        "reference": "Al-Bukhari 11/126 no. 6320, Muslim 4/2084 no.2714",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #8",
+        "content": null,
+        "translation": "In Your name my Lord, I lie down and in Your name I rise, so if You should take my soul then have mercy upon it, and if You should return my soul then protect it in the manner You do so with Your righteous servants.",
+        "note": "Narrated by Abu Huraira (RA): The Prophet (ﷺ) said, When anyone of you go to bed, he should shake out his bed with the inside of his waist sheet, for he does not know what has come on to it after him, and then he should say: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "ঘুমানোর যিক্‌রসমূহ #৮",
+        "translation": "আমার রব্ব! আপনার নামে আমি আমার পার্শ্বদেশ রেখেছি (শুয়েছি) এবং আপনারই নাম নিয়ে আমি তা উঠাবো। যদি আপনি (ঘুমন্ত অবস্থায়) আমার প্রাণ আটকে রাখেন, তবে আপনি তাকে দয়া করুন। আর যদি আপনি তা ফেরত পাঠিয়ে দেন, তাহলে আপনি তার হেফাযত করুন যেভাবে আপনি আপনার সৎকর্মশীল বান্দাগণকে হেফাযত করে থাকেন।",
+        "note": "আবু হুরাইরা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, তোমরা যখন বিছানায় শয়ন করতে যাবে তখন নিজের পোশাক দিয়ে হলেও বিছানাটি ঝেড়ে নেবে ... এরপর বলবে: (দোয়াটি উপরে উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        130
+      ],
+      "id": 130,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 130,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
+        "indopak": "اَللّٰهُمَّ قِنِيْ عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
+        "clean": "اللهم قني عذابك يوم تبعث عبادك",
+        "transliteration": "Allaahumma qinee 'adhaabaka yawma tab'athu 'ibaadak",
+        "reference": "Sahih (Albani). At-Tirmizi: 3398",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #9",
+        "content": "The Prophet (ﷺ) would place his right hand under his cheek when about to sleep and supplicate:",
+        "translation": "O Allah, protect me from Your punishment on the day Your servants are resurrected.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "ঘুমানোর যিক্‌রসমূহ #৯",
+        "content": "রাসূলুল্লাহ্‌ (ﷺ) যখন ঘুমানোর ইচ্ছা করতেন তখন তাঁর ডান হাত তাঁর গালের নীচে রাখতেন, তারপর এ দোয়াটি বলতেন -",
+        "translation": "হে আল্লাহ্‌! আমাকে আপনার আযাব থেকে রক্ষা করুন, যেদিন আপনি আপনার বান্দাদেরকে পুনর্জীবিত করবেন।"
+      }
+    },
     {
       "key": [
         131
@@ -38,6 +405,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "ঘুমানোর যিক্‌রসমূহ #১০",
+        "translation": "হে আমার প্রভু, আপনারই নামে শয়ন করলাম। আপনি আমার গোনাহ ক্ষমা করে দিন।",
+        "note": "আব্দুল্লাহ ইবনু আমর (রাঃ) বলেন, নবীজী (ﷺ) যখন বিছানায় ঘুমের জন্য শয়ন করতেন, তখন উপরোল্লেখিত দোয়াটি বলতেন।"
       }
     },
     {
@@ -70,6 +442,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "ঘুমানোর যিক্‌রসমূহ #১১",
+        "translation": "সকল প্রশংসা আল্লাহ্‌র জন্য, যিনি আমাদেরকে খাদ্য দান করেছেন, পানীয় দান করেছেন, সকল অভাব মিটিয়েছেন এবং আশ্রয় দান করেছেন। কত মানুষ আছে, যাদের অভাব মেটানোর বা আশ্রয় প্রদানের কেউ নেই।",
+        "note": "আনাস (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) যখন বিছানায় শয়ন করতেন তখন এ দোয়াটি বলতেন।"
       }
     },
     {
@@ -102,6 +479,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "ঘুমানোর যিক্‌রসমূহ #১২",
+        "translation": "হে আল্লাহ্‌, গোপন (গায়েব) ও প্রকাশ্য সকল জ্ঞানের অধিকারী, আসমান ও জমিনের সৃষ্টিকর্তা, সকল কিছুর প্রভু ও মালিক, আমি সাক্ষ্য প্রদান করছি যে, আপনি ছাড়া কোন প্রকৃত মাবুদ নেই। আমি আপনার আশ্রয় গ্রহণ করছি আমার নিজের অকল্যাণ থেকে এবং শাইতানের অকল্যাণ ও তার শিরক থেকে। আমি আপনার আশ্রয় চাচ্ছি, আমি এমন কোনো কর্ম না করি যাতে আমার নিজের কোনো ক্ষতি বা অমঙ্গল হয়, অথবা কোনো মুসলমানের জীবনে ক্ষতি বা অমঙ্গল বয়ে আনে।",
+        "note": "রাসূলুল্লাহ্‌ (ﷺ) এ দোয়াটি সকালে, সন্ধ্যায় ও শয়নের পরে পাঠের জন্য শিক্ষা দিয়েছিলেন।"
       }
     },
     {
@@ -134,6 +516,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "ঘুমানোর যিক্‌রসমূহ #১৩",
+        "translation": "আমি আশ্রয় গ্রহণ করছি আল্লাহ্‌র পরিপূর্ণ বাক্যাবলির, যেগুলোকে অতিক্রম করতে পারে না কোনো পুণ্যবান বা কোনো পাপী, তিনি যা কিছু সৃষ্টি করেছেন, বানিয়েছেন ও ছড়িয়ে দিয়েছেন তার অনিষ্ট থেকে, যা কিছু আসমান থেকে অবতরণ করে তার অনিষ্ট থেকে, যা কিছু আসমানে উঠে তার অনিষ্ট থেকে, যা কিছু যমিনে ছড়ানো তার অনিষ্ট থেকে যা কিছু যমিন থেকে বের হয় তার অনিষ্ট থেকে, রাত ও দিনের ফিতনার অনিষ্ট থেকে এবং সকল আগন্তুকের অনিষ্ট থেকে, শুধু যে আগম্ভক কল্যাণ-সহ আগমন করে সে ব্যতীত, হে মহা-দয়াময়।",
+        "note": "আব্দুর রাহমান ইবনু খানবাশ (রাঃ) বলেন, “এক রাতে শয়তান জিনগণ আগুন নিয়ে মরুপ্রান্তরে রাসূলুল্লাহ্‌ (ﷺ)-কে আক্রমন করতে এগিয়ে আসে। তখন জিবরাঈল (আঃ) এসে তাঁকে এ দোয়াটি শিখিয়ে দেন। দোয়াটি পাঠের সাথে সাথে শয়তানদের আগুন নিভে যায় এবং তারা পালিয়ে যায়।”"
       }
     },
     {
@@ -166,134 +553,11 @@
         "content": null,
         "translation": "",
         "note": ""
-      }
-    },
-    {
-      "key": [
-        136
-      ],
-      "id": 136,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 136,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِيْ إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ",
-        "indopak": "اَللّٰهُمَّ اَسْلَمْتُ نَفْسِيْ اِلَيْكَ، وَفَوَّضْتُ اَمْرِيْ اِلَيْكَ، وَوَجَّهْتُ وَجْهِيَ اِلَيْكَ، وَالْجَأْتُ ظَهْرِيْ اِلَيْكَ، رَغْبَةً وَّرَهْبَةً اِلَيْكَ، لَا مَلْجَاَ وَلَا مَنْجَا مِنْكَ اِلَّا اِلَيْكَ، اٰمَنْتُ بِكِتَابِكَ الَّذِيْ اَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِيْ اَرْسَلْتَ",
-        "clean": "اللهم اسلمت نفسي اليك وفوضت امري اليك ووجهت وجهي اليك والجات ظهري اليك رغبه ورهبه اليك لا ملجا ولا منجا منك الا اليك امنت بكتابك الذي انزلت وبنبيك الذي ارسلت",
-        "transliteration": "Allaahumma 'aslamtu nafsee 'ilayka, wa fawwadhtu 'amree 'ilayka, wa wajjahtu wajhee 'ilayka, wa 'alja'tu dhahree 'ilayka, raghbatan wa rahbatan 'ilayka, laa maalja' wa laa manjaa minka 'illaa 'ilayka, 'aamantu bikitaabikal-ladhee 'anzalta wa bi-nabiyyikal-ladhee 'arsalta",
-        "reference": "Al-Bukhari, Fathul Bari 11/113 no. 6313, Muslim 4/2081 no. 2710",
-        "audio": null,
-        "cat_id": 6,
-        "subcat_id": 14
       },
-      "source": {
-        "name": "Dua and remembrance before sleeping #15",
-        "content": "The Prophet (ﷺ) said, \"If you want to go to your bed, then perform ablution, lie on your right side and then supplicate:",
-        "translation": "O Allah, I submit my soul unto You, and I entrust my affair unto You, and I turn my face towards You, and I totally rely on You, in hope and fear of You. Verily there is no refuge nor safe haven from You except with You. I believe in Your Book which You have revealed and in Your Prophet whom You have sent.",
-        "note": "The Prophet (ﷺ) said to the person to whom he taught this Dua: If you die that night, you die on Fitrat, the religion of Islam."
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        137
-      ],
-      "id": 137,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 137,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Hasan (Albani). Nasai: 1787",
-        "audio": null,
-        "cat_id": 6,
-        "subcat_id": 14
-      },
-      "source": {
-        "name": "Going around with the intention of pray Qiyam",
-        "content": "One has to get up at night and go to sleep with a strong desire to perform tahajjud; It has been said in various hadiths that the reward of tahajjud will be obtained even if one does not wake up at night. It was narrated from Abu Ad-Darda' (RA) who attributed it to the Prophet (ﷺ): \"Whoever goes to his bed intending to get up and pray qiyam at night, then sleep overwhelms him until morning, will have recorded that which he intended for and his sleep will be a charity given to him by his Lord.\"",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        138
-      ],
-      "id": 138,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 138,
-        "groups": null,
-        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ الْوَاحِدُ الْقَهَّارُ، رَبُّ السَّمَوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الْعَزِيزُ الْغَفَّارُ",
-        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ الْوَاحِدُ الْقَهّارُ، رَبُّ السَّمَاوَاتِ وَالْاَرْضِ وَمَا بَيْنَهُمَا الْعَزِيْزُ الْغَفَّارُ",
-        "clean": "لا اله الا الله الواحد القهار رب السماوات والارض وما بينهما العزيز الغفار",
-        "transliteration": "Laa 'ilaaha 'illAllahul-Waahidul-Qahhaar, Rabbus-samaawaati wal'ardh, wa maa baynahumal-'Azeezul-Ghaffaar",
-        "reference": "Sahih by Hakim. Imam Dhahabi 1/540; Nasai, Amalul Yaomi Wallayla No. 202, Ibnus sunni No. 757. Also see, Sahih Jame 4:213",
-        "audio": null,
-        "cat_id": 6,
-        "subcat_id": 15
-      },
-      "source": {
-        "name": "When turning over during the night",
-        "content": null,
-        "translation": "There is none worthy of worship but Allah, the One, the Victorious, Lord of the heavens and the earth and all that is between them, the All-Mighty, the All-Forgiving.",
-        "note": "Aaishah (RA) narrated that the Messenger of Allah (ﷺ) used to say at night if he turned during sleep: (the dua is mentioned above)"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        139
-      ],
-      "id": 139,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 139,
-        "groups": null,
-        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ، سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيْمِ، رَبِّ اغْفِرْ لِي",
-        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ، سُبْحَانَ اللّٰهِ، وَالْحَمْدُ لِلّٰهِ، وَلَا اِلٰهَ اِلَّا اللّٰهُ، وَاللّٰهُ اَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ الْعَلِيِّ الْعَظِيْمِ، رَبِّ اغْفِرْ لِيْ",
-        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد وهو علي كل شيء قدير سبحان الله والحمد لله ولا اله الا الله والله اكبر ولا حول ولا قوه الا بالله العلي العظيم رب اغفر لي",
-        "transliteration": "Laa 'illaaha 'illAllahu wa’hdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu, wa Huwa 'alaa kulli shay'in Qadeer Subhaanallahi, walhamdu lillaahi, wa laa 'ilaaha 'illAllahu, wAllahu 'akbar, wa laa ‘hawla wa laa Quwwata 'illaa billaahil-'Aliyyil-'Adheem, Rabbighfir lee",
-        "reference": "Sahih (Albani). Abu Dawud: 5060",
-        "audio": null,
-        "cat_id": 6,
-        "subcat_id": 15
-      },
-      "source": {
-        "name": "Dua when waking up at night #1",
-        "content": null,
-        "translation": "None has the right to be worshipped except Allah, alone, without any partner, to Him belong sovereignty and praise and He is over all things wholly capable. How perfect Allah is, and all praise is for Allah, and none has the right to be worshipped except Allah, Allah is the greatest and there is no power nor might except with Allah, The Most High, The Supreme, O my Lord forgive me.",
-        "note": "‘Ubadah bin al-Samit (RA) reported the Messenger of Allah (ﷺ) as saying, “If anyone is alarmed while asleep and he says when awakes and he prays, his prayer will be answered. If he gets up, performs ablution, and prays, his prayer will be accepted.”"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
+      "reference_bn": {
+        "name": "ঘুমানোর যিক্‌রসমূহ #১৪",
+        "translation": "আল্লাহ্‌র নামে আমি আমার দেহ (বিছানায়) রাখলাম। হে আল্লাহ্‌ আপনি ক্ষমা করুন আমার পাপ, লাঞ্ছিত-অক্ষম করুন আমার শয়তানকে, মুক্ত করুন আমাকে আমার বাঁধন থেকে এবং আমাকে সর্বোচ্চ পরিষদের অন্তর্ভুক্ত করে দিন।",
+        "note": "আবুল আযহার আনমারী (রাঃ) বলেন, “রাসূলুল্লাহ্‌ (ﷺ) রাতে যখন বিছানায় শয়ন করতেন তখন এ কথাগুলো বলতেন।”"
       }
     }
   ]

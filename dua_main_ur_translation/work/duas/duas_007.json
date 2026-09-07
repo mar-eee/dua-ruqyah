@@ -4,9 +4,9 @@
   "source_language": "en",
   "target_language": "ur",
   "status": "pending",
-  "rows": 13,
-  "id_range": "91-103",
-  "source_chars": 5978,
+  "rows": 10,
+  "id_range": "91-100",
+  "source_chars": 5649,
   "items": [
     {
       "key": [
@@ -38,6 +38,12 @@
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "সকাল-সন্ধ্যার যিক্‌রসমূহ #৫",
+        "content": "সকাল-সন্ধ্যার দোয়া : ১ বার -",
+        "translation": "হে চিরঞ্জীব, হে মহারক্ষক ও অমুখাপেক্ষী তত্ত্বাবধায়ক, আপনার রহমতের ওসীলা দিয়ে উদ্ধার কামনা করি। আপনি আমার সার্বিক অবস্থা সংশোধন করে দিন। আর আমাকে একটি মুহূর্তের জন্যও, চোখের পলকের জন্যও আমার নিজের দায়িত্বে ছেড়ে দিবেন না।",
+        "note": "আনাস (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) ফাতেমা (রাঃ)-কে বলেন, “আমি ওসীয়ত করছি যে, তুমি সকালে ও সন্ধ্যায় এ কথা বলবে।”"
       }
     },
     {
@@ -70,6 +76,11 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "সকাল-সন্ধ্যার যিক্‌রসমূহ #৬",
+        "content": "৩ বার বলবে -",
+        "translation": "আমি সন্তুষ্ট-পরিতৃপ্ত আল্লাহ্‌কে প্রভু হিসাবে, ইসলামকে দ্বীন হিসেবে ও মুহাম্মাদ (ﷺ)-কে নবী হিসেবে গ্রহণ করে।"
       }
     },
     {
@@ -102,6 +113,12 @@
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "সকাল-সন্ধ্যার যিক্‌রসমূহ #৭",
+        "content": "সকালে ১ বার বলবে -",
+        "translation": "হে আল্লাহ্‌, আমি আমার মর্যাদা-সম্মান আপনার বান্দাগণের জন্য দান করে দিলাম।",
+        "note": "তাবেয়ী আব্দুর রাহমান ইবনু আজলান অথবা সাহাবী আনাস (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেছেন: “তোমরা কি আবু দামদামের মতো হতে পার?” সাহাবীগণ প্রশ্ন করেন: “আবু দামদাম কে?” তিনি বলেন: “তোমাদের পূর্বের যুগের একজন মানুষ। তিনি প্রতিদিন সকালে এ বাক্যটি বলতেন।” অন্য বর্ণনায়: “তিনি বলতেন, আমাকে যে গালি দেয় আমি আমার সম্মান তাকে দান করলাম।”"
       }
     },
     {
@@ -134,7 +151,26 @@
         "content": "",
         "translation": "",
         "note": null
-      }
+      },
+      "reference_bn": {
+        "name": "তাসবীহ",
+        "content": "১০০ বার সুবহানাল্লাহ, ১০০ বার আল-হামদুলিল্লাহ, ১০০ বার আল্লাহ্‌ আকবার' ও ১০০ বার লা- ইলা-হা ইল্লাল্লা-হু, ওয়া‘হদাহু লা- শারীকা লাহু, লাহুল মুলকু ওয়া লাহুল ‘হামদু, ওয়া হুআ ‘আলা- কুল্লি শাইয়্যিন ক্বাদীর (অথবা ১০০ বার লা- ইলা-হা ইল্লাল্লা-হ)। ফজরের পরে ও আসরের পরে।",
+        "translation": "আল্লাহ্‌র পবিত্রতা ঘোষণা করছি।"
+      },
+      "group_items": [
+        {
+          "group": 0,
+          "key": "translation",
+          "source": "All Praise be to Allah",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "translation",
+          "source": "Allah is great",
+          "target": ""
+        }
+      ]
     },
     {
       "key": [
@@ -166,6 +202,12 @@
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "সাইয়্যেদুল ইস্তিগফার (ক্ষমা প্রার্থনার শ্রেষ্ঠ দোয়া)",
+        "content": "সাইয়্যেদুল ইস্তিগফার (১ বার)-",
+        "translation": "হে আল্লাহ্‌, আপনি আমার প্রভু, আপনি ছাড়া কোনো প্রকৃত মাবুদ নেই। আপনি আমাকে সৃষ্টি করেছেন এবং আমি আপনার বান্দা। আমি আপনার অঙ্গিকার ও প্রতিজ্ঞার উপরে রয়েছি যতটুকু পেরেছি। আমি আপনার আশ্রয় প্রার্থনা করি আমি যে কাজ করেছি তার অকল্যাণ থেকে। আমি আপনার কাছে প্রত্যাবর্তন করছি আপনি আমাকে যত নিয়ামত দান করেছেন তা-সহ এবং আমি আপনার কাছে প্রত্যাবর্তন করছি আমার পাপ-সহ। অতএব, আপনি আমাকে ক্ষমা করে দিন, কারণ আপনি ছাড়া কেউ পাপ ক্ষমা করতে পারে না।",
+        "note": "শাদ্দাদ ইবনু আউস (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেছেন:\n\n“এটি সাইয়্যেদুল ইস্তিগফার বা শ্রেষ্ঠ ইস্তিগফার। যে ব্যক্তি এ দোয়ার অর্থের প্রতি দৃঢ়ভাবে বিশ্বাস রেখে দিনের বেলায় তা পাঠ করবে সে যদি সে দিন সন্ধ্যার আগে মৃত্যুবরণ করে, তবে সে জান্নাতী। আর যে ব্যক্তি এ দোয়া র অর্থে সুদৃঢ় একীন ও বিশ্বাস রেখে রাত্রে (সন্ধ্যায়) তা পাঠ করবে, সে যদি সে রাতেই সকালের আগে মৃত্যুবরণ করে, তবে সে জান্নাতী।"
       }
     },
     {
@@ -198,6 +240,12 @@
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "আয়াতুল কুরসী",
+        "content": "আয়াতুল কুরসী ১ বার -",
+        "translation": "আল্লাহ্‌, তিনি ছাড়া কোনো সত্য ইলাহ্ নেই। তিনি চিরঞ্জীব, সর্বসত্তার ধারক। তাঁকে তন্দ্রাও স্পর্শ করতে পারে না, নিদ্রাও নয়। আসমানসমূহে যা রয়েছে ও যমীনে যা রয়েছে সবই তাঁর। কে সে, যে তাঁর অনুমতি ব্যতীত তাঁর কাছে সুপারিশ করবে? তাদের সামনে ও পিছনে যা কিছু আছে তা তিনি জানেন। আর যা তিনি ইচ্ছে করেন তা ছাড়া তাঁর জ্ঞানের কোনো কিছুকেই তারা পরিবেষ্টন করতে পারে না। তাঁর ‘কুরসী’ আসমানসমূহ ও যমীনকে পরিব্যাপ্ত করে আছে; আর এ দুটোর রক্ষণাবেক্ষণ তাঁর জন্য বোঝা হয় না। আর তিনি সুউচ্চ সুমহান।",
+        "note": "উবাই ইবনু কা'ব (রাঃ) বর্ণিত হাদীসে বর্ণিত হয়েছে, যে ব্যক্তি সকালে আয়াতুল কুরসী পাঠ করবে সে সন্ধ্যা পর্যন্ত জ্বিন থেকে হেফাযতে থাকবে এবং যে ব্যক্তি সন্ধ্যায় তা পাঠ করবে সে সকাল পর্যন্ত জ্বিন থেকে হেফাযতে থাকবে। \n\nদ্রষ্টব্যঃ ফজরের সালাতের পরে একবার পাঠ করলেই সকালে পাঠের ফযীলত ও সালাতের পরে পাঠের ফযীলত, উভয় প্রকার ফযীলত লাভ করবেন; ইনশা আল্লাহ্‌।"
       }
     },
     {
@@ -230,7 +278,44 @@
         "content": "",
         "translation": "",
         "note": null
-      }
+      },
+      "reference_bn": {
+        "name": "সূরা ইখলাস, ফালাক ও নাস",
+        "content": "সূরা ইখলাস ৩ বার -",
+        "translation": "(১) বলুন, তিনি আল্লাহ্‌, এক-অদ্বিতীয় (২) আল্লাহ্‌ হচ্ছেন ‘সামাদ’ (তিনি কারো মুখাপেক্ষী নন, সকলেই তাঁর মুখাপেক্ষী) (৩) তিনি কাউকেও জন্ম দেন নি এবং তাঁকেও জন্ম দেয়া হয় নি (৪) আর তাঁর সমতুল্য কেউই নেই (সূরা ইখলাসঃ ১-৪)"
+      },
+      "group_items": [
+        {
+          "group": 0,
+          "key": "content",
+          "source": "Sura Falaq three times:",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "translation",
+          "source": "(1) Say, \"I seek refuge in the Lord of daybreak (2) From the evil of that which He created (3) And from the evil of darkness when it settles (4) And from the evil of the blowers in knots (5) And from the evil of an envier when he envies.\" (Sura Falaq: 1-5)",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "content",
+          "source": "Sura Nas three times:",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "translation",
+          "source": "(1) Say, \"I seek refuge in the Lord of mankind, (2) The Sovereign of mankind. (3) The ilah of mankind, (4) From the evil of the retreating whisperer - (5) Who whispers [evil] into the breasts of mankind - (6) From among the jinn and mankind.\" (Sura Nas: 1-6)",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "note",
+          "source": "Abdullah ibn Khubayb (RA) Said that, the Messenger of Allah (ﷺ) said: \n\n\"Say, He is Allah, One (Sura Ikhlas), Sura Nas & Falaq read three times in the morning and evening; they will serve you for every purpose.",
+          "target": ""
+        }
+      ]
     },
     {
       "key": [
@@ -262,7 +347,25 @@
         "content": null,
         "translation": "",
         "note": null
-      }
+      },
+      "reference_bn": {
+        "name": "একশতবার সুবহানাল্লাহি ওয়া বিহামদিহী",
+        "translation": "ঘোষণা করছি আল্লাহ্‌র পবিত্রতার এবং তার প্রশংসা-সহ।"
+      },
+      "group_items": [
+        {
+          "group": 0,
+          "key": "translation",
+          "source": "Glory be to Allah and all praise is due to him, glory be to Allah the great.",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "note",
+          "source": "Abu Hurairah (RA) said,  the Messenger of Allah (ﷺ) said that, if anyone recite “Sub’hanallahi wa bi’hamdihi” hundred  times in the morning and  in the evening, then you will bring largest rewards then anyone in the day of resurrection, except who recite it more than him. In the other narration, he will be forgiven even if his sins are greater than the foams of the sea. Another narration, the dhikr was mentioned as “Sub’hanallahil ‘adhim wa bi’hamdihi”.",
+          "target": ""
+        }
+      ]
     },
     {
       "key": [
@@ -294,6 +397,10 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "বিদ্বেষ-মুক্ত থাকার জন্য দোয়া",
+        "translation": "‘হে আমাদের রব, আমাদেরকে ও আমাদের ভাই যারা ঈমান নিয়ে আমাদের পূর্বে অতিক্রান্ত হয়েছে তাদেরকে ক্ষমা করুন; এবং যারা ঈমান এনেছিল তাদের জন্য আমাদের অন্তরে কোন বিদ্বেষ রাখবেন না; হে আমাদের রব, নিশ্চয় আপনি দয়াবান, পরম দয়ালু।"
       }
     },
     {
@@ -326,102 +433,12 @@
         "content": "",
         "translation": "",
         "note": ""
-      }
-    },
-    {
-      "key": [
-        101
-      ],
-      "id": 101,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 101,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِي، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوْءًا، أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ",
-        "indopak": "اَللّٰهُمَّ عَالِمَ الغَيْبِ وَالشَّهَادَةِ فَاطِرَ السَّمَاوَاتِ وَالْاَرْضِ، رَبَّ كُلِّ شَيْءٍ وَّمَلِيْكَهُ، اَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اَنْتَ، اَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِيْ، وَمِنْ شَرِّ الشَّيْطَانِ وَ شِرْكِهٖ ، وَاَنْ اَقْتَرِفَ عَلٰى نَفْسِيْ سُوْءًا، اَوْ اَجُرَّهٗ اِلٰى مُسْلِمٍ",
-        "clean": "اللهم عالم الغيب والشهاده فاطر السماوات والارض رب كل شيء ومليكه اشهد ان لا اله الا انت اعوذ بك من شر نفسي ومن شر الشيطان و شركه  وان اقترف علي نفسي سوءا او اجره الي مسلم",
-        "transliteration": "Allaahumma 'Aalimal-ghaybi wash-shahaadati faatiras-samaawaati wal'ardhi, Rabba kulli shay'in wa maleekahu, 'ash-hadu 'an laa 'ilaaha 'illaa 'Anta, 'A'oodhu bika min sharri nafsee, wa min sharrish-shaytaani wa shirkihi, wa 'an 'aqtarifa 'alaa nafsee soo'an, 'aw 'ajurrahu 'ilaa Muslim.",
-        "reference": "Sahih (Albani). Tirmidhi: 3529",
-        "audio": 101,
-        "cat_id": 5,
-        "subcat_id": 12
       },
-      "source": {
-        "name": "Ask Pardon from the evil of oneself and shaitan",
-        "content": "In the morning or evening, say -",
-        "translation": "O Allah, Knower of the unseen and the seen, Creator of the heavens and the Earth, Lord and Sovereign of all things, I bear witness that none has the right to be worshipped except You. I take refuge in You from the evil of my soul and from the evil and shirk of the devil, and from committing wrong against my soul or bringing such upon another Muslim.",
-        "note": "Abu Bakr As-Siddiq (RA) said: “O Messenger of Allah, teach me what to say at morning and afternoon.” He said: “O Abu Bakr, say (above dua)"
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        102
-      ],
-      "id": 102,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 102,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِيْ وَدُنْيَايَ وَأَهْلِيْ، وَمَالِيْ، اَللَّهُمَّ اسْتُرْ عَوْرَاتِيْ، وَآمِنْ رَوْعَاتِيْ، اَللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِيْنِيْ وَعَنْ شِمَالِي وَمِنْ فَوْقِيْ وَأَعُوْذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِيْ",
-        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْاٰخِرَةِ، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِيْ دِيْنِيْ وَدُنْيَايَ وَاَهْلِيْ، وَمَالِيْ، اَللّٰهُمَّ اسْتُرْ عَوْرَاتِيْ، وَاٰمِنْ رَوْعَاتِيْ، اَللّٰهُمَّ احْفَظْنِيْ مِنْۢ بَيْنِ يَدَيَّ وَمِنْ خَلْفِيْ وَعَنْ يَّمِيْنِيْ وَعَنْ شِمَالِيْ وَمِنْ فَوْقِيْ وَاَعُوْذُ بِعَظَمَتِكَ اَنْ اُغْتَالَ مِنْ تَحْتِيْ",
-        "clean": "اللهم اني اسالك العفو والعافيه في الدنيا والاخره اللهم اني اسالك العفو والعافيه في ديني ودنياي واهلي ومالي اللهم استر عوراتي وامن روعاتي اللهم احفظني من بين يدي ومن خلفي وعن يميني وعن شمالي ومن فوقي واعوذ بعظمتك ان اغتال من تحتي",
-        "transliteration": "Allaahumma 'innee 'as'alukal-'afwa wal'aafiyata fid-dunyaa wal'aakhirah, Allaahumma 'innee 'as'alukal-'afwa wal'aafiyata fee deenee wa dunyaaya wa 'ahlee, wa maalee, Allahum-mastur 'awraatee, wa 'aamin raw'aatee, Allahum-mahfadhnee mim bayni yadayya, wa min khalfee, wa 'an yameenee, wa 'an shimaalee, wa min fawqee, wa 'A'oodhu bi'adhamatika 'an 'ughtaala min tahtee.",
-        "reference": "Sahih (Albani). Abu Dawud: 5074",
-        "audio": 102,
-        "cat_id": 5,
-        "subcat_id": 12
-      },
-      "source": {
-        "name": "Asking for pardon, wellbeing and refuge from all sides",
-        "content": "In the morning (evening) say,",
-        "translation": "O Allah, I ask You for pardon and well-being in this life and the next. O Allah, I ask You for pardon and well-being in my religious and worldly affairs, and my family and my wealth. O Allah, veil my weaknesses and set at ease my dismay. O Allah, preserve me from the front and from behind and on my right and on my left and from above, and I take refuge with You lest I be swallowed up by the earth.",
-        "note": "Abdullah ibn Umar (RA) Said that, The Messenger of Allah (ﷺ) never forget to utter these supplications in the evening and in the morning."
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        103
-      ],
-      "id": 103,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 103,
-        "groups": null,
-        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
-        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
-        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد وهو علي كل شيء قدير",
-        "transliteration": "Laa 'ilaaha 'illAllahu wa'hdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu, wa Huwa 'alaa kulli shay'in Qadeer.",
-        "reference": "Bukhari: 3293",
-        "audio": 103,
-        "cat_id": 5,
-        "subcat_id": 12
-      },
-      "source": {
-        "name": "Special Tahlil",
-        "content": "This Dua is regarded as a special dhikr of masnun dhikr-",
-        "translation": "None has the right to be worshipped except Allah, He is alone, without any partner, to Him belong all sovereignty and praise, and He is over all things omnipotent.",
-        "note": "Many hadiths are narrated about benefit of this dhikr. Many authentic reports commanded us to to recite this dua in every morning and evening 1 or 10 or 100 or 200 times, After every obligatory prayer, and generally without any time restriction."
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+      "reference_bn": {
+        "name": "সকাল-সন্ধ্যার দোয়া",
+        "content": "৩ বার বলবে -",
+        "translation": "হে আল্লাহ্‌, আমার দেহে আমাকে পরিপূর্ণ সুস্থতা-নিরাপত্তা দান করুন। হে আল্লাহ্‌, আমার শ্রবণযন্ত্রে আমাকে পরিপূর্ণ সুস্থতা-নিরাপত্তা দান করুন। হে আল্লাহ্‌, আমার দৃষ্টি শক্তিতে আমাকে পরিপূর্ণ সুস্থতা-নিরাপত্তা দান করুন। আপনি ছাড়া কোনো প্রকৃত মাবুদ নেই। হে আল্লাহ্‌, আমি আপনার কাছে কুফরি ও দারিদ্র্য থেকে আশ্রয় প্রার্থনা করছি। হে আল্লাহ্‌, আমি আপনার কাছে কবরের আযাব থেকে আশ্রয় প্রার্থনা করছি। আপনি ছাড়া কোনো প্রকৃত উপাস্য নেই।",
+        "note": "আবু বাকর (রাঃ) প্রতিদিন সকালে ও সন্ধ্যায় এ দোয়া গুলো ৩ বার করে বলতেন। তাঁর পুত্র আব্দুর রহমান (রাঃ) তাঁকে এ বিষয়ে প্রশ্ন করলে তিনি বলেন: \n\n“আমি রাসূলুল্লাহ্‌ (ﷺ)-কে এই দোয়াগুলো বলতে শুনেছি। আমি তাঁরই সুন্নাত অনুসরণ করে চলতে পছন্দ করি।”"
       }
     }
   ]

@@ -36,8 +36,8 @@
     "subcat_count"
   ],
   "totals": {
-    "files": 260,
-    "chars": 1297589,
+    "files": 263,
+    "chars": 1311975,
     "rows": 1992
   },
   "tables": {
@@ -707,7 +707,7 @@
         "id"
       ],
       "total_rows": 1001,
-      "total_source_chars": 349211,
+      "total_source_chars": 363081,
       "files": [
         {
           "file": "work/duas/duas_001.json",
@@ -719,18 +719,18 @@
         },
         {
           "file": "work/duas/duas_002.json",
-          "rows": 18,
-          "id_range": "16-33",
-          "source_chars": 5847,
-          "items": 18,
+          "rows": 17,
+          "id_range": "16-32",
+          "source_chars": 5888,
+          "items": 17,
           "status": "pending"
         },
         {
           "file": "work/duas/duas_003.json",
-          "rows": 17,
-          "id_range": "34-50",
-          "source_chars": 5358,
-          "items": 17,
+          "rows": 18,
+          "id_range": "33-50",
+          "source_chars": 5759,
+          "items": 18,
           "status": "pending"
         },
         {
@@ -759,442 +759,466 @@
         },
         {
           "file": "work/duas/duas_007.json",
-          "rows": 13,
-          "id_range": "91-103",
-          "source_chars": 5978,
-          "items": 13,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_008.json",
-          "rows": 13,
-          "id_range": "104-116",
-          "source_chars": 5817,
-          "items": 13,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_009.json",
-          "rows": 14,
-          "id_range": "117-130",
-          "source_chars": 5818,
-          "items": 14,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_010.json",
-          "rows": 9,
-          "id_range": "131-139",
-          "source_chars": 4193,
-          "items": 9,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_011.json",
           "rows": 10,
-          "id_range": "140-149",
-          "source_chars": 5698,
+          "id_range": "91-100",
+          "source_chars": 5649,
           "items": 10,
           "status": "pending"
         },
         {
+          "file": "work/duas/duas_008.json",
+          "rows": 12,
+          "id_range": "101-112",
+          "source_chars": 4931,
+          "items": 12,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_009.json",
+          "rows": 8,
+          "id_range": "113-120",
+          "source_chars": 5951,
+          "items": 8,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_010.json",
+          "rows": 15,
+          "id_range": "121-135",
+          "source_chars": 5680,
+          "items": 15,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_011.json",
+          "rows": 8,
+          "id_range": "136-143",
+          "source_chars": 5496,
+          "items": 8,
+          "status": "pending"
+        },
+        {
           "file": "work/duas/duas_012.json",
-          "rows": 13,
-          "id_range": "150-162",
-          "source_chars": 5776,
-          "items": 13,
+          "rows": 14,
+          "id_range": "144-157",
+          "source_chars": 5560,
+          "items": 14,
           "status": "pending"
         },
         {
           "file": "work/duas/duas_013.json",
-          "rows": 18,
-          "id_range": "163-180",
-          "source_chars": 5929,
-          "items": 18,
+          "rows": 14,
+          "id_range": "158-171",
+          "source_chars": 5800,
+          "items": 14,
           "status": "pending"
         },
         {
           "file": "work/duas/duas_014.json",
-          "rows": 13,
-          "id_range": "181-193",
-          "source_chars": 5853,
-          "items": 13,
+          "rows": 17,
+          "id_range": "172-188",
+          "source_chars": 5762,
+          "items": 17,
           "status": "pending"
         },
         {
           "file": "work/duas/duas_015.json",
-          "rows": 19,
-          "id_range": "194-212",
-          "source_chars": 5762,
-          "items": 19,
+          "rows": 16,
+          "id_range": "189-204",
+          "source_chars": 5632,
+          "items": 16,
           "status": "pending"
         },
         {
           "file": "work/duas/duas_016.json",
           "rows": 16,
-          "id_range": "213-228",
-          "source_chars": 5592,
+          "id_range": "205-220",
+          "source_chars": 5675,
           "items": 16,
           "status": "pending"
         },
         {
           "file": "work/duas/duas_017.json",
-          "rows": 10,
-          "id_range": "229-238",
-          "source_chars": 5840,
-          "items": 10,
+          "rows": 14,
+          "id_range": "221-234",
+          "source_chars": 5780,
+          "items": 14,
           "status": "pending"
         },
         {
           "file": "work/duas/duas_018.json",
-          "rows": 14,
-          "id_range": "239-252",
-          "source_chars": 5876,
-          "items": 14,
+          "rows": 9,
+          "id_range": "235-243",
+          "source_chars": 5632,
+          "items": 9,
           "status": "pending"
         },
         {
           "file": "work/duas/duas_019.json",
-          "rows": 16,
-          "id_range": "253-268",
-          "source_chars": 5813,
-          "items": 16,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_020.json",
-          "rows": 10,
-          "id_range": "269-278",
-          "source_chars": 5340,
-          "items": 10,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_021.json",
-          "rows": 6,
-          "id_range": "279-284",
-          "source_chars": 5673,
-          "items": 6,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_022.json",
-          "rows": 14,
-          "id_range": "285-298",
-          "source_chars": 5601,
-          "items": 14,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_023.json",
-          "rows": 19,
-          "id_range": "299-317",
-          "source_chars": 5998,
-          "items": 19,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_024.json",
-          "rows": 13,
-          "id_range": "318-330",
-          "source_chars": 5722,
-          "items": 13,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_025.json",
-          "rows": 15,
-          "id_range": "331-345",
-          "source_chars": 5928,
-          "items": 15,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_026.json",
-          "rows": 20,
-          "id_range": "346-365",
-          "source_chars": 5979,
-          "items": 20,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_027.json",
-          "rows": 14,
-          "id_range": "366-379",
-          "source_chars": 5491,
-          "items": 14,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_028.json",
-          "rows": 18,
-          "id_range": "380-397",
-          "source_chars": 5997,
-          "items": 18,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_029.json",
-          "rows": 19,
-          "id_range": "398-416",
-          "source_chars": 5975,
-          "items": 19,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_030.json",
-          "rows": 16,
-          "id_range": "417-432",
-          "source_chars": 5932,
-          "items": 16,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_031.json",
-          "rows": 16,
-          "id_range": "433-448",
-          "source_chars": 5540,
-          "items": 16,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_032.json",
-          "rows": 19,
-          "id_range": "449-467",
-          "source_chars": 5957,
-          "items": 19,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_033.json",
-          "rows": 18,
-          "id_range": "468-485",
-          "source_chars": 5865,
-          "items": 18,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_034.json",
           "rows": 12,
-          "id_range": "486-497",
-          "source_chars": 5700,
+          "id_range": "244-255",
+          "source_chars": 5939,
           "items": 12,
           "status": "pending"
         },
         {
-          "file": "work/duas/duas_035.json",
+          "file": "work/duas/duas_020.json",
+          "rows": 15,
+          "id_range": "256-270",
+          "source_chars": 5587,
+          "items": 15,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_021.json",
+          "rows": 8,
+          "id_range": "271-278",
+          "source_chars": 5361,
+          "items": 8,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_022.json",
+          "rows": 5,
+          "id_range": "279-283",
+          "source_chars": 5508,
+          "items": 5,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_023.json",
+          "rows": 14,
+          "id_range": "284-297",
+          "source_chars": 5838,
+          "items": 14,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_024.json",
+          "rows": 17,
+          "id_range": "298-314",
+          "source_chars": 5862,
+          "items": 17,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_025.json",
+          "rows": 13,
+          "id_range": "315-327",
+          "source_chars": 5833,
+          "items": 13,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_026.json",
+          "rows": 14,
+          "id_range": "328-341",
+          "source_chars": 5829,
+          "items": 14,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_027.json",
+          "rows": 19,
+          "id_range": "342-360",
+          "source_chars": 5840,
+          "items": 19,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_028.json",
+          "rows": 12,
+          "id_range": "361-372",
+          "source_chars": 5808,
+          "items": 12,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_029.json",
+          "rows": 18,
+          "id_range": "373-390",
+          "source_chars": 5880,
+          "items": 18,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_030.json",
+          "rows": 23,
+          "id_range": "391-413",
+          "source_chars": 5952,
+          "items": 23,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_031.json",
+          "rows": 12,
+          "id_range": "414-425",
+          "source_chars": 5791,
+          "items": 12,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_032.json",
+          "rows": 15,
+          "id_range": "426-440",
+          "source_chars": 5475,
+          "items": 15,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_033.json",
+          "rows": 19,
+          "id_range": "441-459",
+          "source_chars": 5800,
+          "items": 19,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_034.json",
           "rows": 20,
-          "id_range": "498-517",
-          "source_chars": 5452,
+          "id_range": "460-479",
+          "source_chars": 5841,
           "items": 20,
           "status": "pending"
         },
         {
+          "file": "work/duas/duas_035.json",
+          "rows": 15,
+          "id_range": "480-494",
+          "source_chars": 5646,
+          "items": 15,
+          "status": "pending"
+        },
+        {
           "file": "work/duas/duas_036.json",
-          "rows": 16,
-          "id_range": "518-533",
-          "source_chars": 5983,
-          "items": 16,
+          "rows": 15,
+          "id_range": "495-509",
+          "source_chars": 5913,
+          "items": 15,
           "status": "pending"
         },
         {
           "file": "work/duas/duas_037.json",
-          "rows": 18,
-          "id_range": "534-551",
-          "source_chars": 5756,
-          "items": 18,
+          "rows": 15,
+          "id_range": "510-524",
+          "source_chars": 5270,
+          "items": 15,
           "status": "pending"
         },
         {
           "file": "work/duas/duas_038.json",
           "rows": 12,
-          "id_range": "552-563",
-          "source_chars": 5886,
+          "id_range": "525-536",
+          "source_chars": 4870,
           "items": 12,
           "status": "pending"
         },
         {
           "file": "work/duas/duas_039.json",
-          "rows": 9,
-          "id_range": "564-572",
-          "source_chars": 5564,
-          "items": 9,
+          "rows": 12,
+          "id_range": "537-548",
+          "source_chars": 5602,
+          "items": 12,
           "status": "pending"
         },
         {
           "file": "work/duas/duas_040.json",
-          "rows": 10,
-          "id_range": "573-582",
-          "source_chars": 5982,
-          "items": 10,
+          "rows": 12,
+          "id_range": "549-560",
+          "source_chars": 5746,
+          "items": 12,
           "status": "pending"
         },
         {
           "file": "work/duas/duas_041.json",
-          "rows": 26,
-          "id_range": "583-608",
-          "source_chars": 5957,
-          "items": 26,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_042.json",
-          "rows": 27,
-          "id_range": "609-635",
-          "source_chars": 5886,
-          "items": 27,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_043.json",
-          "rows": 41,
-          "id_range": "636-676",
-          "source_chars": 5467,
-          "items": 41,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_044.json",
-          "rows": 19,
-          "id_range": "677-695",
-          "source_chars": 5782,
-          "items": 19,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_045.json",
-          "rows": 16,
-          "id_range": "696-711",
-          "source_chars": 5168,
-          "items": 16,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_046.json",
-          "rows": 11,
-          "id_range": "712-722",
-          "source_chars": 5729,
-          "items": 11,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_047.json",
-          "rows": 8,
-          "id_range": "723-730",
-          "source_chars": 5922,
-          "items": 8,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_048.json",
-          "rows": 18,
-          "id_range": "731-748",
-          "source_chars": 5989,
-          "items": 18,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_049.json",
-          "rows": 11,
-          "id_range": "749-759",
-          "source_chars": 5058,
-          "items": 11,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_050.json",
-          "rows": 10,
-          "id_range": "760-769",
-          "source_chars": 5701,
-          "items": 10,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_051.json",
-          "rows": 14,
-          "id_range": "770-783",
-          "source_chars": 5909,
-          "items": 14,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_052.json",
-          "rows": 10,
-          "id_range": "784-793",
-          "source_chars": 5842,
-          "items": 10,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_053.json",
           "rows": 9,
-          "id_range": "794-802",
-          "source_chars": 5932,
+          "id_range": "561-569",
+          "source_chars": 5681,
           "items": 9,
           "status": "pending"
         },
         {
-          "file": "work/duas/duas_054.json",
-          "rows": 22,
-          "id_range": "803-824",
-          "source_chars": 5849,
-          "items": 22,
+          "file": "work/duas/duas_042.json",
+          "rows": 9,
+          "id_range": "570-578",
+          "source_chars": 5101,
+          "items": 9,
           "status": "pending"
         },
         {
-          "file": "work/duas/duas_055.json",
+          "file": "work/duas/duas_043.json",
+          "rows": 12,
+          "id_range": "579-590",
+          "source_chars": 5568,
+          "items": 12,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_044.json",
+          "rows": 30,
+          "id_range": "591-620",
+          "source_chars": 5955,
+          "items": 30,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_045.json",
+          "rows": 35,
+          "id_range": "621-655",
+          "source_chars": 5956,
+          "items": 35,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_046.json",
+          "rows": 26,
+          "id_range": "656-681",
+          "source_chars": 5885,
+          "items": 26,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_047.json",
+          "rows": 24,
+          "id_range": "682-705",
+          "source_chars": 5943,
+          "items": 24,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_048.json",
+          "rows": 13,
+          "id_range": "706-718",
+          "source_chars": 5966,
+          "items": 13,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_049.json",
+          "rows": 9,
+          "id_range": "719-727",
+          "source_chars": 5974,
+          "items": 9,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_050.json",
           "rows": 18,
-          "id_range": "825-842",
-          "source_chars": 5988,
+          "id_range": "728-745",
+          "source_chars": 5728,
           "items": 18,
           "status": "pending"
         },
         {
+          "file": "work/duas/duas_051.json",
+          "rows": 12,
+          "id_range": "746-757",
+          "source_chars": 5280,
+          "items": 12,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_052.json",
+          "rows": 8,
+          "id_range": "758-765",
+          "source_chars": 5937,
+          "items": 8,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_053.json",
+          "rows": 10,
+          "id_range": "766-775",
+          "source_chars": 5875,
+          "items": 10,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_054.json",
+          "rows": 14,
+          "id_range": "776-789",
+          "source_chars": 4955,
+          "items": 14,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_055.json",
+          "rows": 8,
+          "id_range": "790-797",
+          "source_chars": 5892,
+          "items": 8,
+          "status": "pending"
+        },
+        {
           "file": "work/duas/duas_056.json",
-          "rows": 34,
-          "id_range": "843-876",
-          "source_chars": 5965,
-          "items": 34,
+          "rows": 18,
+          "id_range": "798-815",
+          "source_chars": 5953,
+          "items": 18,
           "status": "pending"
         },
         {
           "file": "work/duas/duas_057.json",
-          "rows": 28,
-          "id_range": "877-904",
-          "source_chars": 5674,
-          "items": 28,
+          "rows": 17,
+          "id_range": "816-832",
+          "source_chars": 5654,
+          "items": 17,
           "status": "pending"
         },
         {
           "file": "work/duas/duas_058.json",
-          "rows": 23,
-          "id_range": "905-927",
-          "source_chars": 5094,
-          "items": 23,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_059.json",
-          "rows": 15,
-          "id_range": "928-942",
-          "source_chars": 5948,
-          "items": 15,
-          "status": "pending"
-        },
-        {
-          "file": "work/duas/duas_060.json",
           "rows": 25,
-          "id_range": "943-967",
-          "source_chars": 5886,
+          "id_range": "833-857",
+          "source_chars": 5856,
           "items": 25,
           "status": "pending"
         },
         {
+          "file": "work/duas/duas_059.json",
+          "rows": 27,
+          "id_range": "858-884",
+          "source_chars": 5887,
+          "items": 27,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_060.json",
+          "rows": 22,
+          "id_range": "885-906",
+          "source_chars": 5580,
+          "items": 22,
+          "status": "pending"
+        },
+        {
           "file": "work/duas/duas_061.json",
-          "rows": 34,
-          "id_range": "968-1001",
-          "source_chars": 4766,
-          "items": 34,
+          "rows": 25,
+          "id_range": "907-931",
+          "source_chars": 5728,
+          "items": 25,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_062.json",
+          "rows": 21,
+          "id_range": "932-952",
+          "source_chars": 5962,
+          "items": 21,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_063.json",
+          "rows": 27,
+          "id_range": "953-979",
+          "source_chars": 5957,
+          "items": 27,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_064.json",
+          "rows": 22,
+          "id_range": "980-1001",
+          "source_chars": 3194,
+          "items": 22,
           "status": "pending"
         }
       ]
@@ -2246,7 +2270,7 @@
       ]
     },
     "drawer_items": {
-      "source": "en",
+      "source": "bn",
       "translate_fields": [
         "title",
         "hero_title1",
@@ -2257,22 +2281,22 @@
         "id"
       ],
       "total_rows": 6,
-      "total_source_chars": 7727,
+      "total_source_chars": 8243,
       "files": [
         {
           "file": "work/drawer_items/drawer_items_001.json",
-          "rows": 4,
-          "id_range": "1-4",
-          "source_chars": 5979,
-          "items": 5,
+          "rows": 3,
+          "id_range": "19-21",
+          "source_chars": 4512,
+          "items": 4,
           "status": "pending"
         },
         {
           "file": "work/drawer_items/drawer_items_002.json",
           "rows": 3,
-          "id_range": "4-6",
-          "source_chars": 1748,
-          "items": 3,
+          "id_range": "22-24",
+          "source_chars": 3731,
+          "items": 4,
           "status": "pending"
         }
       ]

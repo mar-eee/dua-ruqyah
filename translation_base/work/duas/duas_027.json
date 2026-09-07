@@ -4,33 +4,70 @@
   "source_language": "en",
   "target_language": "TARGET",
   "status": "pending",
-  "rows": 14,
-  "id_range": "366-379",
-  "source_chars": 5491,
+  "rows": 19,
+  "id_range": "342-360",
+  "source_chars": 5840,
   "items": [
     {
       "key": [
-        366
+        342
       ],
-      "id": 366,
+      "id": 342,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 366,
+        "id": 342,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
-        "indopak": "اَللّٰهُمَّ لَا سَهْلَ اِلَّا مَا جَعَلْتَهٗ سَهْلًا، وَاَنْتَ تَجْعَلُ الْحَزْنَ اِذَا شِئْتَ سَهْلًا",
-        "clean": "اللهم لا سهل الا ما جعلته سهلا وانت تجعل الحزن اذا شءت سهلا",
-        "transliteration": "Allaahumma laa sahla 'illaa maa ja'altahu sahlan wa 'Anta taj'alul-hazna 'ithaa shi'ta sahla",
-        "reference": "Sahih (Ibn Hazar Asqalani). Ibn Hibban: 974",
-        "audio": 366,
-        "cat_id": 20,
-        "subcat_id": 65
+        "uthmani": "اَللَّهُ أَكْبَرُ",
+        "indopak": "اَللّٰهُ اَكْبَرُ",
+        "clean": "الله اكبر",
+        "transliteration": "Allahu 'Akbar",
+        "reference": "Bukhari: 1613, 1632",
+        "audio": 342,
+        "cat_id": 18,
+        "subcat_id": 61
       },
       "source": {
-        "name": "When faced with a difficult matter",
-        "content": "The Messenger of Allah (ﷺ) said:",
-        "translation": "O Allah, there is no ease other than what You make easy. If you want you can make difficult matter easy.",
+        "name": "Takbir when passing the black stone",
+        "content": null,
+        "translation": "Allah is the Most Great.",
+        "note": "Allah's Messenger (ﷺ) performed Tawaf (of the Ka`ba) ending a camel (at that time the Prophet [ﷺ] had foot injury). Whenever he came to the Corner (having the Black Stone) he would point out towards it with a thing in his hand and say, \"Allahu-Akbar.\" (The dua is Mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "হাজরে আসওয়াদের কাছে আসলে তাকবীর বলা",
+        "translation": "আল্লাহ্‌ সবচেয়ে বড়।",
+        "note": "রাসূলুল্লাহ্‌ (ﷺ) উটের উপর আরোহণ করে কা‘বা ঘর তাওয়াফ করলেন; যখনই তিনি হাজরে আসওয়াদের কাছে পৌছতেন, তখনই সেদিকে তার নিকটস্থ কিছু দিয়ে ইঙ্গিত করতেন এবং ‘আল্লাহু আকবার’ বলতেন - (দোয়াটি উপরে উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        343
+      ],
+      "id": 343,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 343,
+        "groups": "[{\"id\": 343, \"name\": null, \"cat_id\": 18, \"subcat_id\": 61, \"content\": \"He recited La ila-ha illallah\", \"uthmani\": \"\\u0644\\u064e\\u0627 \\u0625\\u0650\\u0644\\u064e\\u0647\\u064e \\u0625\\u0650\\u0644\\u0627\\u0651\\u064e \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f\", \"indopak\": \"\\u0644\\u064e\\u0627 \\u0627\\u0650\\u0644\\u0670\\u0647\\u064e \\u0627\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f\", \"clean\": \"\\u0644\\u0627 \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0627 \\u0627\\u0644\\u0644\\u0647\", \"transliteration\": \"Laa 'ilaaha 'illAllaah\", \"translation\": \"None has the right to be worshipped but Allah alone.\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 343, \"name\": null, \"cat_id\": 18, \"subcat_id\": 61, \"content\": \"And extolled His Tawheed or Unity\", \"uthmani\": \"\\u0627\\u064e\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0623\\u064e\\u062d\\u064e\\u062f\\u064c\", \"indopak\": \"\\u0627\\u064e\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0627\\u064e\\u062d\\u064e\\u062f\\u064c\", \"clean\": \"\\u0627\\u0644\\u0644\\u0647 \\u0627\\u062d\\u062f\", \"transliteration\": \"Allahu Ahad\", \"translation\": \"Allah is the one.\", \"note\": \"Then he (the sky) stays there until it becomes full fair. Then he left Muzdalifah before the sun rose.\", \"reference\": \"Muslim: 1218\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "اَللَّهُ أَكْبَرُ",
+        "indopak": "اَللّٰهُ اَكْبَرُ",
+        "clean": "الله اكبر",
+        "transliteration": "Allahu 'Akbar",
+        "reference": null,
+        "audio": 343,
+        "cat_id": 18,
+        "subcat_id": 61
+      },
+      "source": {
+        "name": "Sacred Site [al-Mash'ar al-Haraam] - At Muzdalifa",
+        "content": "The Prophet (ﷺ) rode on a camel called 'Kaswa'.When he finally came to Mash'arul Haram (a place in Muzdalifah), he prayed facing the Qibla and said takbeer -",
+        "translation": "Allah is the Most Great.",
         "note": null
       },
       "target": {
@@ -38,30 +75,347 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "মাশ‘আরুল হারাম তথা মুযদালিফায় যিক্‌র",
+        "content": "নবী (ﷺ) ‘কাসওয়া’ নামক উষ্ট্রীতে আরোহণ করলেন, অবশেষে তিনি যখন মাশ‘আরুল হারামে (মুযদালিফার একটি স্থানে) আসেন, তখন তিনি কিবলামুখী হয়ে দোয়া করেন এবং তাকবীর বলেন -",
+        "translation": "আল্লাহ্‌ সবচেয়ে বড়।"
+      },
+      "group_items": [
+        {
+          "group": 0,
+          "key": "content",
+          "source": "He recited La ila-ha illallah",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "translation",
+          "source": "None has the right to be worshipped but Allah alone.",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "content",
+          "source": "And extolled His Tawheed or Unity",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "translation",
+          "source": "Allah is the one.",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "note",
+          "source": "Then he (the sky) stays there until it becomes full fair. Then he left Muzdalifah before the sun rose.",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        344
+      ],
+      "id": 344,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 344,
+        "groups": null,
+        "uthmani": "اَللَّهُ أَكْبَرُ",
+        "indopak": "اَللّٰهُ اَكْبَرُ",
+        "clean": "الله اكبر",
+        "transliteration": "Allahu 'Akbar",
+        "reference": "Bukhari: 1751",
+        "audio": 344,
+        "cat_id": 18,
+        "subcat_id": 61
+      },
+      "source": {
+        "name": "When throwing each pebble at the Jamarat",
+        "content": "The Prophet (ﷺ) used to say when throwing pebbles in three jamarat:",
+        "translation": "Allah is the Most Great.",
+        "note": "Then he would move forward a little and stand facing the Qibla and would do Dua with both hands raised in the first Jamra and the second Jamra. But at the time of throwing every pebble at Jamratul Akbaba, he would say ‘Allahu Akbar’ and return without staying there."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "জামরাসমূহে প্রত্যেক কংকর নিক্ষেপকালে তাকবীর বলা",
+        "content": "রাসূল (ﷺ) তিনটি জামরায় প্রতিটি কংকর নিক্ষেপের সময় বলতেন -",
+        "translation": "আল্লাহ্‌ সবচেয়ে বড়।",
+        "note": "অতঃপর কিছুটা অগ্রসর হয়ে কিবলামুখী হয়ে দাঁড়াতেন এবং প্রথম জামরা ও দ্বিতীয় জামরায় দুই হাত উঁচু করে দোয়া করতেন। কিন্তু জামরাতুল ‘আক্বাবায় প্রতিটি কংকর নিক্ষেপের সময় ‘আল্লাহু আকবার’ বলতেন এবং সেখানে অবস্থান না করে ফিরে আসতেন।"
       }
     },
     {
       "key": [
-        367
+        345
       ],
-      "id": 367,
+      "id": 345,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 367,
+        "id": 345,
+        "groups": "[{\"id\": 345, \"name\": null, \"cat_id\": 18, \"subcat_id\": 61, \"content\": \"And then say: I begin by that which Allah began. so he started with as-Safaa and climbed it until he could see the Ka'bah, he then faced it and said:\", \"uthmani\": \"\\u0644\\u064e\\u0627 \\u0625\\u0650\\u0644\\u064e\\u0647\\u064e \\u0625\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u064f \\u0644\\u064e\\u0627 \\u0634\\u064e\\u0631\\u0650\\u064a\\u0643\\u064e \\u0644\\u064e\\u0647\\u064f\\u060c \\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u0645\\u064f\\u0644\\u0652\\u0643\\u064f \\u0648\\u064e\\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f \\u0648\\u064e\\u0647\\u064f\\u0648\\u064e \\u0639\\u064e\\u0644\\u064e\\u0649 \\u0643\\u064f\\u0644\\u0651\\u0650 \\u0634\\u064e\\u064a\\u0652\\u0621\\u064d \\u0642\\u064e\\u062f\\u0650\\u064a\\u0631\\u064c\\u060c \\u0644\\u064e\\u0627 \\u0625\\u0650\\u0644\\u064e\\u0647\\u064e \\u0625\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u064f\\u060c \\u0623\\u064e\\u0646\\u0652\\u062c\\u064e\\u0632\\u064e \\u0648\\u064e\\u0639\\u0652\\u062f\\u064e\\u0647\\u064f\\u060c \\u0648\\u064e\\u0646\\u064e\\u0635\\u064e\\u0631\\u064e \\u0639\\u064e\\u0628\\u0652\\u062f\\u064e\\u0647\\u064f\\u060c \\u0648\\u064e\\u0647\\u064e\\u0632\\u064e\\u0645\\u064e \\u0627\\u0644\\u0652\\u0623\\u064e\\u062d\\u0652\\u0632\\u064e\\u0627\\u0628\\u064e \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u064f\", \"indopak\": \"\\u0644\\u064e\\u0627 \\u0627\\u0650\\u0644\\u0670\\u0647\\u064e \\u0627\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u0657 \\u0644\\u064e\\u0627 \\u0634\\u064e\\u0631\\u0650\\u064a\\u0652\\u0643\\u064e \\u0644\\u064e\\u0647\\u0657\\u060c \\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u0645\\u064f\\u0644\\u0652\\u0643\\u064f \\u0648\\u064e\\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f \\u0648\\u064e\\u0647\\u064f\\u0648\\u064e \\u0639\\u064e\\u0644\\u0670\\u0649 \\u0643\\u064f\\u0644\\u0651\\u0650 \\u0634\\u064e\\u064a\\u0652\\u0621\\u064d \\u0642\\u064e\\u062f\\u0650\\u064a\\u0652\\u0631\\u064c\\u060c \\u0644\\u064e\\u0627 \\u0627\\u0650\\u0644\\u0670\\u0647\\u064e \\u0627\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u0657\\u060c \\u0627\\u064e\\u0646\\u0652\\u062c\\u064e\\u0632\\u064e \\u0648\\u064e\\u0639\\u0652\\u062f\\u064e\\u0647\\u0657\\u060c \\u0648\\u064e\\u0646\\u064e\\u0635\\u064e\\u0631\\u064e \\u0639\\u064e\\u0628\\u0652\\u062f\\u064e\\u0647\\u0657\\u060c \\u0648\\u064e\\u0647\\u064e\\u0632\\u064e\\u0645\\u064e \\u0627\\u0644\\u0652\\u0627\\u064e\\u062d\\u0652\\u0632\\u064e\\u0627\\u0628\\u064e \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u0657\", \"clean\": \"\\u0644\\u0627 \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0627 \\u0627\\u0644\\u0644\\u0647 \\u0648\\u062d\\u062f\\u0647 \\u0644\\u0627 \\u0634\\u0631\\u064a\\u0643 \\u0644\\u0647 \\u0644\\u0647 \\u0627\\u0644\\u0645\\u0644\\u0643 \\u0648\\u0644\\u0647 \\u0627\\u0644\\u062d\\u0645\\u062f \\u0648\\u0647\\u0648 \\u0639\\u0644\\u064a \\u0643\\u0644 \\u0634\\u064a\\u0621 \\u0642\\u062f\\u064a\\u0631 \\u0644\\u0627 \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0627 \\u0627\\u0644\\u0644\\u0647 \\u0648\\u062d\\u062f\\u0647 \\u0627\\u0646\\u062c\\u0632 \\u0648\\u0639\\u062f\\u0647 \\u0648\\u0646\\u0635\\u0631 \\u0639\\u0628\\u062f\\u0647 \\u0648\\u0647\\u0632\\u0645 \\u0627\\u0644\\u0627\\u062d\\u0632\\u0627\\u0628 \\u0648\\u062d\\u062f\\u0647\", \"transliteration\": \"Laa 'ilaaha 'illAllahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu wa Huwa 'alaa kulli shay'in Qadeer, laa 'ilaaha 'illAllahu wahdahu, 'anjaza wa'dahu, wa nasara 'abdahu, wa hazamal 'ahzaaba wahdahu.\", \"translation\": \"None has the right to be worshipped but Allah alone, Who has no partener, His is the dominion and His is the praise, and He is Able to do all things. None has the right to be worshipped but Allah alone, He fulfilled His Promise, He aided His slave, and He alone defeated Confederates.\", \"note\": \"Then he would ask Allah for what he liked, repeating the same thing like this three times. He did at Mount Marwah as he did at Mount Safa. [2]\", \"reference\": \"[1] Al-Baqarah: 158\\n[2] Muslim 2/888, No. 1218; And the verse is verse 158 of Surah Al-Baqara.\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَآئِرِ اللَّهِ",
+        "indopak": "اِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَآئِرِ اللّٰهِ",
+        "clean": "ان الصفا والمروه من شعاءر الله",
+        "transliteration": "Inna assafa wal-marwata min shaAAa-iri Allah",
+        "reference": null,
+        "audio": 345,
+        "cat_id": 18,
+        "subcat_id": 61
+      },
+      "source": {
+        "name": "Which dua should be read while standing in Safa and Marwa",
+        "content": "When the Prophet (ﷺ) approached mount as-Safaa he would recite:",
+        "translation": "Indeed, as-Safa and al-Marwah are among the symbols of Allah. [1]",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাফা ও মারওয়ায় দাঁড়িয়ে যা পড়বে",
+        "content": "যখন নবী (ﷺ) সাফা পর্বতের নিকটবর্তী হলেন, তখন এই আয়াত পড়লেন -",
+        "translation": "নিশ্চয়ই সাফা ও মারওয়া আল্লাহ্‌র নিদর্শনসমূহের অন্তর্ভুক্ত। [১]"
+      },
+      "group_items": [
+        {
+          "group": 0,
+          "key": "content",
+          "source": "And then say: I begin by that which Allah began. so he started with as-Safaa and climbed it until he could see the Ka'bah, he then faced it and said:",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "translation",
+          "source": "None has the right to be worshipped but Allah alone, Who has no partener, His is the dominion and His is the praise, and He is Able to do all things. None has the right to be worshipped but Allah alone, He fulfilled His Promise, He aided His slave, and He alone defeated Confederates.",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "note",
+          "source": "Then he would ask Allah for what he liked, repeating the same thing like this three times. He did at Mount Marwah as he did at Mount Safa. [2]",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        346
+      ],
+      "id": 346,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 346,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ",
+        "indopak": "بِسْمِ اللّٰهِ",
+        "clean": "بسم الله",
+        "transliteration": "Bismillaah",
+        "reference": "Bukhari: 985",
+        "audio": 346,
+        "cat_id": 19,
+        "subcat_id": 62
+      },
+      "source": {
+        "name": "Dua of sacrifice #1",
+        "content": "Jundub bin Abdullah (RA) said that the Prophet (ﷺ) said that the sacrificer will sacrifice by saying ‘Bismillah-h’.",
+        "translation": "In the name of Allah.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "কুরবানীর দোয়া #১",
+        "content": "জুনদুব ইবনু আব্দুল্লাহ (রাঃ) বলেন, রাসূল (ﷺ) বলেছেন, যবেহকারী ‘বিসমিল্লা-হ্’ বলে যবেহ করবে।",
+        "translation": "আল্লাহ্‌র নামে।"
+      }
+    },
+    {
+      "key": [
+        347
+      ],
+      "id": 347,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 347,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ",
+        "indopak": "بِسْمِ اللّٰهِ وَاللّٰهُ اَكْبَرُ",
+        "clean": "بسم الله والله اكبر",
+        "transliteration": "Bismillaahi wAllahu 'Akbar",
+        "reference": "Bukhari: 5565",
+        "audio": 347,
+        "cat_id": 19,
+        "subcat_id": 62
+      },
+      "source": {
+        "name": "Dua of sacrifice #2",
+        "content": "Anas (RA) said that the Prophet (ﷺ) placed his feet on the two jaws of a goat with white and black horns and sacrificed him saying Bismillahi wAllahu akbar.",
+        "translation": "With the Name of Allah, Allah is the Most Great!",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "কুরবানীর দোয়া #২",
+        "content": "আনাস (রাঃ) বলেন, রাসূল (ﷺ) সাদা-কালো মিশ্রিত শিং ওয়ালা ছাগলের দু’টি চোয়ালের উপর পা রেখে বিসমিল্লা-হি ওয়াল্লা-হু আকবার’ বলে কুরবানী করলেন।",
+        "translation": "আল্লাহ্‌র নামে, আর আল্লাহ্‌ সবচেয়ে বড়।"
+      }
+    },
+    {
+      "key": [
+        348
+      ],
+      "id": 348,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 348,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ [اَللَّهُمَّ مِنْكَ وَلَكَ] اَللَّهُمَّ تَقَبَّلْ مِنِّي",
+        "indopak": "بِسْمِ اللّٰهِ وَاللّٰهُ اَكْبَرُ [اَللّٰهُمَّ مِنْكَ وَلَكَ] اَللّٰهُمَّ تَقَبَّلْ مِنِّيْ",
+        "clean": "بسم الله والله اكبر اللهم منك ولك اللهم تقبل مني",
+        "transliteration": "Bismillaahi wAllahu 'Akbar [Allaahumma minka wa laka] Allaahumma taqabbal minnee",
+        "reference": "Ahmad 4/400, No. 19586; Abu Dawood, 4/308, No. 5040",
+        "audio": 348,
+        "cat_id": 19,
+        "subcat_id": 62
+      },
+      "source": {
+        "name": "What to say when slaughtering an animal",
+        "content": null,
+        "translation": "With the Name of Allah, Allah is the Most Great! [O Allah, from You and to You.] O Allah, accept it from me.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "পশু জবেহ বা নাহর করার সময় যা বলবে",
+        "translation": "আল্লাহ্‌র নামে, আর আল্লাহ্‌ সবচেয়ে বড়। [হে আল্লাহ্‌! এটা আপনার নিকট থেকে প্রাপ্ত এবং আপনার জন্যই] হে আল্লাহ্‌! আপনি আমার তরফ থেকে তা কবুল করুন।"
+      }
+    },
+    {
+      "key": [
+        349
+      ],
+      "id": 349,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 349,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ اَللَّهُمَّ تَقَبَّلْ مِنْ مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَمِنْ أُمَّةِ مُحَمَّدٍ",
+        "indopak": "بِسْمِ اللّٰهِ اَللّٰهُمَّ تَقَبَّلْ مِنْ مُّحَمَّدٍ وَّاٰلِ مُحَمَّدٍ وَّمِنْ اُمَّةِ مُحَمَّدٍ",
+        "clean": "بسم الله اللهم تقبل من محمد وال محمد ومن امه محمد",
+        "transliteration": "Bismillaahi, Allah-humma Taqabbal min Muhammadin wa Al-i-Muhammadin, wa min Ummati Muhammadin",
+        "reference": "Muslim: 1967",
+        "audio": 349,
+        "cat_id": 19,
+        "subcat_id": 62
+      },
+      "source": {
+        "name": "What the Prophet (ﷺ) used to say at the time of slaughtering #1",
+        "content": "Prophet (ﷺ) used to say at the time of slaughter -",
+        "translation": "In the name of Allah, O Allah, accept it from Muhammad, Muhammad's family and from Muhammad's Ummah (followers)",
+        "note": "Then he sacrificed it."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "নবী (ﷺ) জবাই করার সময় যা বলতেন #১",
+        "content": "নবী (ﷺ) জবাই করার সময় বলেন -",
+        "translation": "আল্লাহ্‌র নামে। হে আল্লাহ্‌! (এটি) কবুল করো মুহাম্মাদের পক্ষ থেকে, মুহাম্মাদের পরিবার ও মুহাম্মাদের উম্মাহর পক্ষ থেকে।",
+        "note": "এরপর তিনি সেটি কুরবানি করেন।"
+      }
+    },
+    {
+      "key": [
+        350
+      ],
+      "id": 350,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 350,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ هَذَا عَنِّي وَعَمَّنْ لَمْ يُضَحِّ مِنْ أُمَّتِي",
+        "indopak": "بِسْمِ اللّٰهِ وَاللّٰهُ اَكْبَرُ هٰذَا عَنِّيْ وَعَمَّنْ لَّمْ يُضَحِّ مِنْ اُمَّتِيْ",
+        "clean": "بسم الله والله اكبر هذا عني وعمن لم يضح من امتي",
+        "transliteration": "Bismillah-hi wallahu akbaru haza 'anni wa amman lam udahh-hi min ummati",
+        "reference": "Sahih (Albani). Abu Dawud: 2810",
+        "audio": 350,
+        "cat_id": 19,
+        "subcat_id": 62
+      },
+      "source": {
+        "name": "What the Prophet (ﷺ) used to say at the time of slaughtering #2",
+        "content": "The Prophet (ﷺ) used to say during the slaughter-",
+        "translation": "In the name of Allah, Allah is Most Great. This is from me and from those who did not sacrifice from my community.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "নবী (ﷺ) জবাই করার সময় যা বলতেন #২",
+        "content": "নবী (ﷺ) জবাই করার সময় বলেন -",
+        "translation": "আল্লাহ্‌র নামে। আল্লাহ্‌ সর্বশ্রেষ্ঠ। এটি আমার পক্ষ থেকে এবং আমার উম্মাহর যারা কুরবানি দেয়নি তাদের পক্ষ থেকে।"
+      }
+    },
+    {
+      "key": [
+        351
+      ],
+      "id": 351,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 351,
         "groups": null,
         "uthmani": null,
         "indopak": null,
         "clean": "",
         "transliteration": null,
-        "reference": "Sahih (Albani). Abu Dawud: 1521",
+        "reference": "Surah Fusilat 41:36",
         "audio": null,
         "cat_id": 20,
-        "subcat_id": 65
+        "subcat_id": 63
       },
       "source": {
-        "name": "If any sin occurred",
-        "content": "Narrated by Ali ibn abu Talib: Abu Bakr narrated to me a hadith, and Abu Bakr narrated it truthfully. He said: I heard the Messenger of Allah (ﷺ) saying: When a servant (of Allah) commits a sin, and he performs ablution well, and then stands and prays two rak'ahs, and asks pardon of Allah, Allah pardons him. He then recited this verse:\n\nAnd those who, when they commit an immorality or wrong themselves [by transgression], remember Allah and seek forgiveness for their sins - and who can forgive sins except Allah? - and [who] do not persist in what they have done while they know. Those - their reward is forgiveness from their Lord and gardens beneath which rivers flow [in Paradise], wherein they will abide eternally; and excellent is the reward of the [righteous] workers.(Surah Al 'Imran 3: 135-136)",
+        "name": "Pray to Allah for refuge from Satan",
+        "content": "Allah says:\n\nAnd if there comes to you from Satan an evil suggestion, then seek refuge in Allah. Indeed, He is the Hearing, the Knowing.",
         "translation": null,
         "note": null
       },
@@ -70,191 +424,108 @@
         "content": "",
         "translation": null,
         "note": null
+      },
+      "reference_bn": {
+        "name": "শয়তান থেকে বেঁচে থাকতে আল্লাহ্‌ তা‘আলার আশ্রয় প্রার্থনা",
+        "content": "আল্লাহ্‌ তা‘আলা বলেছেন-\n\n“যদি শয়তানের পক্ষ থেকে কোনও প্ররোচনা আঁচ করতে পারো, তা হলে আল্লাহ্‌র আশ্রয় প্রার্থনা করো; তিনি সব কিছু শোনেন এবং জানেন।”"
       }
     },
     {
       "key": [
-        368
+        352
       ],
-      "id": 368,
+      "id": 352,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 368,
+        "id": 352,
         "groups": null,
-        "uthmani": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيـمِ",
-        "indopak": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
-        "clean": "اعوذ بالله من الشيطان الرجيم",
-        "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
-        "reference": "[1] Bukhari: 3303\n[2] Sahih (Albani). Abu Dawud: 5103",
-        "audio": 368,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "[1] Bukhari: 608\n[2] Muslim: 780",
+        "audio": null,
         "cat_id": 20,
-        "subcat_id": 65
+        "subcat_id": 63
       },
       "source": {
-        "name": "Dua upon hearing the crowing of a rooster, the braying of a donkey or the barking of a dog at night",
-        "content": null,
-        "translation": "I seek refuge in Allah from Satan the outcast.",
-        "note": "The Prophet (ﷺ) said, \"When you hear the crowing of rooster, ask for Allah's Blessings for (their crowing indicates that) they have seen an angel. And when you hear the braying of donkeys, seek Refuge with Allah from Satan for (their braying indicates) that they have seen a Satan. [1]\n\nIn another narration when you hear the rooster crowing, ask Allah for some of His grace, for they have seen as angel; but when you hear donkey braying, seek refuge in Allah from the devil, for it has seen the devil. [2]"
+        "name": "What should be said to chase shaytaan",
+        "content": "1. Seek refuge in Allah from Satan;\n2. Give Azan [1]\n3. Remembrance and recitation of the Qur'an;  And [2]\n4. Spitting three times on the left during salah and recitation of the Qur'an.\n\nMoreover, the other things that drive away the devils are the adhkaar of morning and evening, the adhkaar of sleep, the adhkaar of awakening, the adhkaar of entering and leaving the house, the adhkaar of entering and leaving the mosque, etc., and those adhkaar which are according to the Shari'ah. For example, Ayatul Kursi, the last two verses of Surah Al-Baqarah during sleep. Moreover, the person who recites \"La ilaha illallah wahdahu la sharika lahu, lahul mulku wa lahul hamdu, wahua 'ala qulli shayin qadir\" a hundred times, will give him complete protection for that day. Also giving the Azan, Satan fled.\n\nThe Prophet (ﷺ) said, “Do not turn your houses into graves. Surely Satan flees from the house where Surah Al-Baqarah is recited.” [Muslim: 780]",
+        "translation": null,
+        "note": null
       },
       "target": {
         "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
+        "content": "",
+        "translation": null,
+        "note": null
+      },
+      "reference_bn": {
+        "name": "শয়তান তাড়ানোর জন্য যা যা বলা ও করা উচিত",
+        "content": "১. আল্লাহ্‌র কাছে শয়তান থেকে আশ্রয় চাওয়া; \n২. আযান দেওয়া; [১]\n৩. যিক্‌র ও কুরআন পাঠ করা; এবং [২]\n৪. সালাতের মধ্যে ও কুরআন পাঠের সময় শয়তান ওয়াসওয়াসা দিলে বামদিকে তিনবার থুতু ছিটানো।\n\nতাছাড়া আরও যা শয়তানকে তাড়িয়ে দেয় তা হচ্ছে, সকাল বিকালের যিক্‌রসমূহ, ঘুমের যিক্‌র, জাগ্রত হওয়ার যিক্‌র, ঘরে প্রবেশের ও ঘর থেকে বের হওয়ার যিক্‌রসমূহ, মসজিদে প্রবেশের ও মসজিদ থেকে বের হওয়ার যিক্‌রসমূহ, ইত্যাদি শরী‘আতসম্মত যিক্‌রসমূহ। যেমন, ঘুমের সময় আয়াতুল কুরসী, সূরা আল-বাকারার সর্বশেষ দু’টি আয়াত। তাছাড়া যে ব্যক্তি “লা ইলাহা ইল্লাল্লাহু ওয়াহ্‌দাহু লা শারীকা লাহু, লাহুল মুলকু ওয়া লাহুল হামদু, ওয়াহুয়া ‘আলা কুল্লি শাইয়িন ক্বাদীর” একশতবার পড়বে, সেটা তার জন্য সে দিনটির জন্য পুরোপুরিই হেফাযতের কাজে দিবে। তদ্রুপ আযান দিলেও শয়তান পলায়ন করে।\n\nনবী (ﷺ) বলেন, “তোমরা তোমাদের ঘরসমূহ কবরে পরিণত করো না। নিশ্চয় শয়তান ঐ ঘর থেকে পলায়ন করে যেখানে সূরা বাকারাহ্‌ পাঠ করা হয়।” [মুসলিমঃ ৭৮০]"
       }
     },
     {
       "key": [
-        369
+        353
       ],
-      "id": 369,
+      "id": 353,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 369,
+        "id": 353,
         "groups": null,
         "uthmani": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
         "indopak": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
         "clean": "اعوذ بالله من الشيطان الرجيم",
-        "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
-        "reference": "Bukhari: 3276",
-        "audio": 369,
+        "transliteration": "A‛oodhu billaahi minash-Shaytaanir-rajeem",
+        "reference": "Bukhari: 3282",
+        "audio": 353,
         "cat_id": 20,
-        "subcat_id": 66
+        "subcat_id": 63
       },
       "source": {
-        "name": "If afflicted with doubt in one's faith #1",
-        "content": null,
+        "name": "Dua for expelling the devil and his whisperings #1",
+        "content": "Seek refuge in Allah from Satan by this dua-",
         "translation": "I seek refuge in Allah from Satan the outcast.",
-        "note": "Allah's Messenger (ﷺ) said, \"Satan comes to one of you and says, 'Who created so-and-so? 'till he says, 'Who has created your Lord?' So, when he inspires such a question, When he reaches that stage, he should say - (The dua is mentioned above)"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        370
-      ],
-      "id": 370,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 370,
-        "groups": null,
-        "uthmani": "آمَنْتُ بِاللَّهِ وَرُسُلِهِ",
-        "indopak": "اٰمَنْتُ بِاللّٰهِ وَرُسُلِهٖ",
-        "clean": "امنت بالله ورسله",
-        "transliteration": "Aamantu billaahi wa Rusulihi",
-        "reference": "Muslim: 134",
-        "audio": 370,
-        "cat_id": 20,
-        "subcat_id": 66
-      },
-      "source": {
-        "name": "If afflicted with doubt in one's faith #2",
-        "content": null,
-        "translation": "I believe in Allah and His Messenger.",
-        "note": "It is narrated on the authority of Abu Huraira (RA) that the Messenger of Allah (ﷺ) said: Men will continue to question one another till this is propounded: Allah created all things but who created Allah? He who found himself confronted with such a situation should say: (The dua is Mentioned above)"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        371
-      ],
-      "id": 371,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 371,
-        "groups": null,
-        "uthmani": "اَللَّهُ أَحَدٌ، اللَّهُ الصَّمَدُ، لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
-        "indopak": "اَللّٰهُ اَحَدٌ اَللّٰهُ الصَّمَدُ لَمْ یَلِدْ وَلَمْ یُوْلَدْ وَلَمْ یَكُنْ لَّهٗ كُفُوًا اَحَدٌ",
-        "clean": "الله احد الله الصمد لم لد ولم ولد ولم كن له كفوا احد",
-        "transliteration": "Allahu 'Ahad. Allahus-Samad. Lam yalid wa lam yoolad. Wa lam yakun lahu kufuwan 'ahad",
-        "reference": "Hasan (Albani). Abu Dawud: 4722",
-        "audio": 371,
-        "cat_id": 20,
-        "subcat_id": 66
-      },
-      "source": {
-        "name": "If afflicted with doubt in one's faith #3",
-        "content": null,
-        "translation": "He is Allah, [who is] One, Allah, the Eternal Refuge. He neither begets nor is born, Nor is there to Him any equivalent.",
-        "note": "Abu Hurairah (RA) reported that Messenger of Allah (ﷺ) said: People will continue to ask one another(questions) till this is pronounced: Allah created all things, but who created Allah ? Whoever comes across anything of that, he should say: (The dua is mentioned above)\n\nThen he spit three times on his left side, seeking refuge with Allah from Satan."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        372
-      ],
-      "id": 372,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 372,
-        "groups": null,
-        "uthmani": "هُوَ الْأوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
-        "indopak": "هُوَ الْاَوَّلُ وَالْاٰخِرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيْمٌ",
-        "clean": "هو الاول والاخر والظاهر والباطن وهو بكل شيء عليم",
-        "transliteration": "Huwal-'Awwalu wal-'Aakhiru wadh-Dhaahiru wal-Baatinu, wa Huwa bikulli shay'in 'Aleem",
-        "reference": "Hasan (Albani). Abu Dawud: 5110",
-        "audio": 372,
-        "cat_id": 20,
-        "subcat_id": 66
-      },
-      "source": {
-        "name": "If afflicted with doubt in one's faith #4",
-        "content": "When doubt in belive comes to your mind, you say -",
-        "translation": "He is the First and the Last, the Most High and the Most Near. And He is the Knower of all things. (Sura Al-Hadid 57:3)",
-        "note": "Abu Zumayl (RA) said: I asked Ibn Abbas (RA), I have a difficult question in my mind. He asked: What is it? I replied: I swear by Allah, I cannot speak about it. He asked me: Is it something doubtful? and he laughed. He then said: No one could escape that, until Allah, the exalted, revealed:\n\n(94) So if you are in doubt, [O Muhammad], about that which We have revealed to you, then ask those who have been reading the Scripture before you. The truth has certainly come to you from your Lord, so never be among the doubters. (95) And never be of those who deny the signs of Allah and [thus] be among the losers. (Sura Yunus 10:94-95)"
+        "note": null
       },
       "target": {
         "name": "",
         "content": "",
         "translation": "",
-        "note": ""
+        "note": null
+      },
+      "reference_bn": {
+        "name": "শয়তান ও তার কুমন্ত্রণা দূর করার দোয়া #১",
+        "content": "শয়তান থেকে আল্লাহ্‌র নিকট আশ্রয় প্রার্থনা করবে এই দোয়ার মাধ্যমে -",
+        "translation": "বিতাড়িত শয়তান থেকে আমি আল্লাহ্‌র আশ্রয় নিচ্ছি।"
       }
     },
     {
       "key": [
-        373
+        354
       ],
-      "id": 373,
+      "id": 354,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 373,
+        "id": 354,
         "groups": null,
-        "uthmani": "نَعُوذُ بِاللَّهِ مِنْ عَذَابِ النَّارِ نَعُوذُ بِاللَّهِ مِنْ عَذَابِ الْقَبْرِ نَعُوذُ بِاللَّهِ مِنَ الْفِتَنِ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ نَعُوذُ بِاللَّهِ مِنْ فِتْنَةِ الدَّجَّالِ",
-        "indopak": "نَعُوْذُ بِاللّٰهِ مِنْ عَذَابِ النَّارِ نَعُوْذُ بِاللّٰهِ مِنْ عَذَابِ الْقَبْرِ نَعُوْذُ بِاللّٰهِ مِنَ الْفِتَنِ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ نَعُوْذُ بِاللّٰهِ مِنْ فِتْنَةِ الدَّجَّالِ",
-        "clean": "نعوذ بالله من عذاب النار نعوذ بالله من عذاب القبر نعوذ بالله من الفتن ما ظهر منها وما بطن نعوذ بالله من فتنه الدجال",
-        "transliteration": "NA‛oodhu billaahi min ‘adhaabin naar. NA‛oodhu billaahi min ‘adhaabil qabr. NA‛oodhu billaahi minal fitaani maa zahara minhaa wa maa batan. NA‛oodhu billaahi min fitnatid dajjaal",
-        "reference": "Sahih Muslim: 2867",
-        "audio": 373,
+        "uthmani": "رَبِّ أَعُوْذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ، وَأَعُوْذُ بِكَ رَبِّ أَن يَّحْضُرُونِ",
+        "indopak": "رَبِّ اَعُوْذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِيْنِ، وَاَعُوْذُ بِكَ رَبِّ اَنْ يَّحْضُرُوْنِ",
+        "clean": "رب اعوذ بك من همزات الشياطين واعوذ بك رب ان يحضرون",
+        "transliteration": "Rabbi A‛oodhu bika min hamazatish shayaateen, Wa A‛oodhu bika rabbi ay-yahduroon",
+        "reference": "Surah Al-Mu'minun 23: 97-98",
+        "audio": 354,
         "cat_id": 20,
-        "subcat_id": 67
+        "subcat_id": 63
       },
       "source": {
-        "name": "Seeking refuge from the torment of the grave and the Dajjal",
+        "name": "Dua for expelling the devil and his whisperings #2",
         "content": null,
-        "translation": "We seek refuge with Allah from the torment of Hell, Seek refuge with Allah from the torment of the grave. We seek refuge with Allah from turmoil and its visible and invisible aspects. We seek refuge with Allah from the turmoil of the Dajjal.",
+        "translation": "My Lord, I seek refuge in You from the incitements of the devils, And my Lord, I seek refuge from they be present with me.",
         "note": null
       },
       "target": {
@@ -262,62 +533,219 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "শয়তান ও তার কুমন্ত্রণা দূর করার দোয়া #২",
+        "translation": "হে আমার প্রতিপালক! শয়তানের কুমন্ত্রণা হতে আমি তোমার আশ্রয় প্রার্থনা করছি। হে আমার প্রতিপালক! তাদের উপস্থিতি থেকে তোমার আশ্রয় প্রার্থনা করছি।"
       }
     },
     {
       "key": [
-        374
+        355
       ],
-      "id": 374,
+      "id": 355,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 374,
+        "id": 355,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِاللَّهِ السَّمِيعِ الْعَلِيمِ مِنَ الشَّيْطَانِ الرَّجِيمِ مِنْ هَمْزِهِ وَنَفْخِهِ وَنَفْثِهِ",
+        "indopak": "اَعُوْذُ بِاللّٰهِ السَّمِيْعِ الْعَلِيْمِ مِنَ الشَّيْطَانِ الرَّجِيْمِ مِنْ هَمْزِهٖ وَنَفْخِهٖ وَنَفْثِهٖ",
+        "clean": "اعوذ بالله السميع العليم من الشيطان الرجيم من همزه ونفخه ونفثه",
+        "transliteration": "A‛oodhu Billa-Hish Sami’il-‘Alimi Minash Shaytaanir rajeem Min Hamzihi Wa Nafkhihi Wa Nafthihi",
+        "reference": "Sahih (Albani). Abu Dawud: 775",
+        "audio": 355,
+        "cat_id": 20,
+        "subcat_id": 63
+      },
+      "source": {
+        "name": "Dua for expelling the devil and his whisperings #3",
+        "content": null,
+        "translation": "I seek refuge in Allah, the All-Hearing and the All-Knowing from the accursed devil, from his madness or evil suggestion (Hamz), from his puffing up (Nafkh), and from his witchcraft (Nafth).",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "শয়তান ও তার কুমন্ত্রণা দূর করার দোয়া #৩",
+        "translation": "আমি সর্বশ্রোতা ও সর্বময় জ্ঞানের অধিকারী আল্লাহ্‌ তা’আলার নিকটে অভিশপ্ত শয়তান এবং তার কুমন্ত্রণা, ঝাড়ফুঁক ও যাদুমন্ত্র হতে আশ্রয় চাই।"
+      }
+    },
+    {
+      "key": [
+        356
+      ],
+      "id": 356,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 356,
         "groups": null,
         "uthmani": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
         "indopak": "اَعُوْذُ بِاللّٰهِ مِنْ الشَّيْطَانِ الرَّجِيْمِ",
         "clean": "اعوذ بالله من الشيطان الرجيم",
-        "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
-        "reference": "Ha-meem Sajdah 41:36",
-        "audio": 374,
+        "transliteration": "A‛oodhu billaahi minash-Shaytaanir-rajeem",
+        "reference": "Muslim: 2203",
+        "audio": 356,
         "cat_id": 20,
-        "subcat_id": 68
+        "subcat_id": 63
       },
       "source": {
-        "name": "Dua in an angry state",
-        "content": null,
+        "name": "Dua when afflicted by whisperings of the devil in prayer or recitation",
+        "content": "If you notice the presence of Satan in the prayer, say this dua and spit three times on the left side -",
         "translation": "I seek refuge in Allah from Satan the outcast.",
-        "note": "Allah says:\n\nAnd if there comes to you from Satan an evil suggestion, then seek refuge in Allah. Indeed, He is the Hearing, the Knowing."
+        "note": null
       },
       "target": {
         "name": "",
-        "content": null,
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সালাত / কুরআন তিলাওয়াতের সময় শয়তান কুমন্ত্রণা দিলে",
+        "content": "সালাতে শয়তানের উপস্থিতি টের পেলে এই দোয়া বলবে ও বামদিকে তিনবার থুতু দিবে -",
+        "translation": "বিতাড়িত শয়তান থেকে আমি আল্লাহ্‌র আশ্রয় নিচ্ছি।"
+      }
+    },
+    {
+      "key": [
+        357
+      ],
+      "id": 357,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 357,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِاللَّهِ الْعَظِيمِ وَبِوَجْهِهِ الْكَرِيمِ وَسُلْطَانِهِ الْقَدِيمِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "indopak": "اَعُوْذُ بِاللّٰهِ الْعَظِيْمِ وَبِوَجْهِهِ الْكَرِيْمِ وَسُلْطَانِهِ الْقَدِيْمِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اعوذ بالله العظيم وبوجهه الكريم وسلطانه القديم من الشيطان الرجيم",
+        "transliteration": "A‛oodhu Billaahil ‘Azeem, Wabi Wazhihil Kareem, Wa Sultaanihil Qadeem Minash Shaytaanir rajeem",
+        "reference": "Sahih (Albani). Abu Dawud: 466",
+        "audio": 357,
+        "cat_id": 20,
+        "subcat_id": 63
+      },
+      "source": {
+        "name": "When you enter the mosque, seek refuge from the devil #1",
+        "content": "When entering the mosque, say -",
+        "translation": "I seek refuge in Allah, the Magnificent, and in His noble face, and in his eternal domain, from the accursed Devil.",
+        "note": "Uqbah (RA) said, ‘When someone recites this du’a, the devil says, ‘This man escaped from me (evil and intrigue) for the whole day."
+      },
+      "target": {
+        "name": "",
+        "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "মসজিদে প্রবেশকালে শয়তান থেকে আশ্রয় চাওয়া #১",
+        "content": "মসজিদে প্রবেশকালে বলবে -",
+        "translation": "আমি মহান আল্লাহ্‌র নিকট বিতাড়িত শয়তান হতে আশ্রয় প্রার্থনা করছি, যিনি (আল্লাহ্‌) সর্বদা রাজত্বের এবং মর্যাদাপূর্ণ চেহারার অধিকারী।",
+        "note": "‘উক্ববাহ্ (রাঃ) বললেন, কেউ এ দু’আ পাঠ করলে শয়তান বলে, এ লোকটি আমার (অনিষ্ট ও কুমন্ত্রণা) থেকে সারা দিনের জন্য বেঁচে গেল।"
       }
     },
     {
       "key": [
-        375
+        358
       ],
-      "id": 375,
+      "id": 358,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 375,
+        "id": 358,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "indopak": "اَللّٰهُمَّ اعْصِمْنِيْ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اللهم اعصمني من الشيطان الرجيم",
+        "transliteration": "Allaahumma`simni min ash-shaytaanir-rajeem",
+        "reference": "Sahih (Albani). Ibn Majah: 773",
+        "audio": 358,
+        "cat_id": 20,
+        "subcat_id": 63
+      },
+      "source": {
+        "name": "When you enter the mosque, seek refuge from the devil #2",
+        "content": "When entering the mosque, say -",
+        "translation": "O Allah, protect me from Satan the outcast.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মসজিদে প্রবেশকালে শয়তান থেকে আশ্রয় চাওয়া #২",
+        "content": "মসজিদে প্রবেশকালে বলবে -",
+        "translation": "হে আল্লাহ্‌, আমাকে বিতাড়িত শয়তান থেকে হেফাযত করুন।"
+      }
+    },
+    {
+      "key": [
+        359
+      ],
+      "id": 359,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 359,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَجِرْنِيْ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "indopak": "اَللّٰهُمَّ اَجِرْنِيْ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اللهم اجرني من الشيطان الرجيم",
+        "transliteration": "Allaahumma, ajirni minash Shaytaanir rajeem",
+        "reference": "Sahih (Ibn Hibban). Ibn Hibban: 2047",
+        "audio": 359,
+        "cat_id": 20,
+        "subcat_id": 63
+      },
+      "source": {
+        "name": "Seeking refuge from the devil when leaving the mosque",
+        "content": "Abu Hurairah (RA) said: The Messenger of Allah (ﷺ) instructed to recite this dhikr while leaving the mosque -",
+        "translation": "O Allah, protect me from Satan the outcast.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মসজিদ থেকে বের হওয়ার সময় শয়তান থেকে আশ্রয় চাওয়া",
+        "content": "আবু হুরাইরা (রাঃ) বলেছেন, রাসূলুল্লাহ্‌ (ﷺ) মসজিদ থেকে বের হওয়ার সময় এ যিক্‌র পাঠ করতে নির্দেশ দিয়েছেন -",
+        "translation": "হে আল্লাহ্‌ আমাকে বিতাড়িত শয়তান থেকে রক্ষা করুন।"
+      }
+    },
+    {
+      "key": [
+        360
+      ],
+      "id": 360,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 360,
         "groups": null,
         "uthmani": null,
         "indopak": null,
         "clean": "",
         "transliteration": null,
-        "reference": "Bukhari: 6048",
+        "reference": "Bukhari: 3286",
         "audio": null,
         "cat_id": 20,
-        "subcat_id": 68
+        "subcat_id": 64
       },
       "source": {
-        "name": "Prayer for the suppression of anger #1",
-        "content": "Narrated by Sulaiman bin Surad: A man from the companions of the Prophet (ﷺ) said, \"Two men abused each other in front of the Prophet (ﷺ) and one of them became angry and his anger became so intense that his face became swollen and changed. The Prophet (ﷺ) said, \"I know a word the saying of which will cause him to relax if he does say it.\" Then a man went to him and informed him of the statement of the Prophet (ﷺ) and said, \"Seek refuge with Allah from Satan.\" On that, angry man said, 'Do you find anything wrong with me? Am I insane? Go away!\"",
+        "name": "Satan's enmity towards the newborn",
+        "content": "Narrated by Abu Huraira: The Prophet (ﷺ) said, \"When any human being is born. Satan touches him at both sides of the body with his two fingers, except Esa (As), the son of Mary, whom Satan tried to touch but failed, for he touched the placenta-cover instead.\"",
         "translation": null,
         "note": null
       },
@@ -326,134 +754,10 @@
         "content": "",
         "translation": null,
         "note": null
-      }
-    },
-    {
-      "key": [
-        376
-      ],
-      "id": 376,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 376,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Bukhari: 6114",
-        "audio": null,
-        "cat_id": 20,
-        "subcat_id": 68
       },
-      "source": {
-        "name": "Prayer for the suppression of anger #2",
-        "content": "Allah's Messenger (ﷺ) said, \"The strong is not the one who overcomes the people by his strength, but the strong is the one who controls himself while in anger.\"",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        377
-      ],
-      "id": 377,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 377,
-        "groups": null,
-        "uthmani": "أَسْتَغْفِرُ اللَّهَ",
-        "indopak": "اَسْتَغْفِرُ اللّٰهَ",
-        "clean": "استغفر الله",
-        "transliteration": "astaghfir-ullaah",
-        "reference": "Bukhari: 6307",
-        "audio": 377,
-        "cat_id": 21,
-        "subcat_id": 69
-      },
-      "source": {
-        "name": "Masnun Istegfar #1",
-        "content": null,
-        "translation": "I seek Allah’s forgiveness.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        378
-      ],
-      "id": 378,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 378,
-        "groups": null,
-        "uthmani": "أَسْتَغْفِرُ اللَّهَ وَأَتُوْبُ إِلَيْهِ",
-        "indopak": "اَسْتَغْفِرُ اللّٰهَ وَاَتُوْبُ اِلَيْهِ",
-        "clean": "استغفر الله واتوب اليه",
-        "transliteration": "astaghfir-ullaaha wa atuwb 'iilayhi",
-        "reference": "Bukhari: 6307",
-        "audio": 378,
-        "cat_id": 21,
-        "subcat_id": 69
-      },
-      "source": {
-        "name": "Masnun Istegfar #2",
-        "content": "The Prophet (ﷺ) used to recite more than seventy times a day:",
-        "translation": "I seek forgiveness of God and repent to him.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        379
-      ],
-      "id": 379,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 379,
-        "groups": null,
-        "uthmani": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ (الْغَفُوْرُ)",
-        "indopak": "رَبِّ اغْفِرْ لِيْ وَتُبْ عَلَيَّ اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِيْمُ (الغَفُوْرُ)",
-        "clean": "رب اغفر لي وتب علي انك انت التواب الرحيم الغفور",
-        "transliteration": "Rabbighfirli Watub Alayya Innaka Antat-Tawwabul- rahim  [in another narration there is al-Ghaffur instead of al-Rahim]",
-        "reference": "Sahih (Albani). Abu Dawud: 1516",
-        "audio": 379,
-        "cat_id": 21,
-        "subcat_id": 69
-      },
-      "source": {
-        "name": "Masnun Istegfar #3",
-        "content": "Narrated Abdullah ibn Umar (RA): We counted that the Messenger of Allah (ﷺ) would say this dua a hundred times during a meeting -",
-        "translation": "Lord, forgive me and repent for me, for you are The Most Merciful The Acceptor of Repentance. In another narration there is \"The Forgiver\" instead of \"The Acceptor of Repentance\"",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
+      "reference_bn": {
+        "name": "নবজাতকের ব্যপারে শয়তানের শত্রুতা",
+        "content": "আবু হুরায়রা (রাঃ) থেকে বর্ণিত, তিনি বলেন, নবী (ﷺ) বলেছেন, “মানুষ যখন জন্মগ্রহণ করে, তখন তাদের প্রত্যেকের দু' পাশে শয়তান তার দু' আঙুল দিয়ে স্পর্শ করে, তবে ঈসা ইবনু মারইয়াম (আঃ) এর ব্যতিক্রম। শয়তান তাঁকে স্পর্শ করতে গিয়েছিল, (কিন্তু পারেনি), পরিশেষে সে তাঁর বহিরাবরণের পর্দা স্পর্শ করে।”"
       }
     }
   ]

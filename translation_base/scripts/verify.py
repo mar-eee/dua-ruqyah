@@ -15,6 +15,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 BASE = os.path.dirname(HERE)
 
 BENGALI = re.compile(r'[ঀ-৿]')
+# frozen fields that must never carry Bengali script
+SCRIPT_GUARD = {'transliteration', 'reference', 'groups'}
 ARABIC  = re.compile(r'[؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿]')
 TAG     = re.compile(r'</?(?:ar1?|b|i|u|br|p)\s*/?>')
 NUMBER  = re.compile(r'\d+')
@@ -118,6 +120,20 @@ def main():
                 if s['source']:
                     check_pair(f"{tag} content[{s['index']}].{s['key']}",
                                s['source'], s.get('target'), problems)
+            # duas.groups holds whole nested dua records; their text is
+            # user-visible. Shipping them untranslated put Bengali into both
+            # the Japanese and the Indonesian databases.
+            for g in it.get('group_items', []):
+                if g['source']:
+                    check_pair(f"{tag} groups[{g['group']}].{g['key']}",
+                               g['source'], g.get('target'), problems)
+            # frozen fields must still be exactly what the source database has.
+            # This is the check that would have caught 42 Japanese and 686
+            # Indonesian rows shipping a Bengali-script transliteration.
+            for fname, fval in it.get('frozen', {}).items():
+                if fname in SCRIPT_GUARD and isinstance(fval, str) and BENGALI.search(fval):
+                    problems.append((f'{tag} frozen.{fname}', 'frozen field in Bengali script',
+                                     fval[:60]))
 
     # a term must be rendered one way across the whole workspace
     for term, variants in seen_terms.items():

@@ -4,520 +4,1268 @@
   "source_language": "en",
   "target_language": "ur",
   "status": "pending",
-  "rows": 16,
-  "id_range": "696-711",
-  "source_chars": 5168,
+  "rows": 35,
+  "id_range": "621-655",
+  "source_chars": 5956,
   "items": [
     {
       "key": [
-        696
+        621
       ],
-      "id": 696,
+      "id": 621,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 696,
+        "id": 621,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ فِتْنَةِ النَّارِ وَعَذَابِ النَّارِ، وَفِتْنَةِ الْقَبْرِ وَعَذَابِ الْقَبْرِ، وَشَرِّ فِتْنَةِ الْغِنَى، وَشَرِّ فِتْنَةِ الْفَقْرِ، اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ، اَللَّهُمَّ اغْسِلْ قَلْبِي بِمَاءِ الثَّلْجِ وَالْبَرَدِ، وَنَقِّ قَلْبِي مِنَ الْخَطَايَا، كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ، وَبَاعِدْ بَيْنِي وَبَيْنَ خَطَايَاىَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكَسَلِ وَالْمَأْثَمِ وَالْمَغْرَمِ",
-        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ فِتْنَةِ النَّارِ وَعَذَابِ النَّارِ، وَفِتْنَةِ الْقَبْرِ وَعَذَابِ الْقَبْرِ، وَشَرِّ فِتْنَةِ الْغِنٰى، وَشَرِّ فِتْنَةِ الْفَقْرِ، اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ شَرِّ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ، اَللّٰهُمَّ اغْسِلْ قَلْبِىْ بِمَاءِ الثَّلْجِ وَالْبَرَدِ، وَنَقِّ قَلْبِىْ مِنَ الْخَطَايَا، كَمَا نَقَّيْتَ الثَّوْبَ الْاَبْيَضَ مِنَ الدَّنَسِ، وَبَاعِدْ بَيْنِيْ وَبَيْنَ خَطَايَاىَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنَ الْكَسَلِ وَالْمَأْثَمِ وَالْمَغْرَمِ",
-        "clean": "اللهم اني اعوذ بك من فتنه النار وعذاب النار وفتنه القبر وعذاب القبر وشر فتنه الغني وشر فتنه الفقر اللهم اني اعوذ بك من شر فتنه المسيح الدجال اللهم اغسل قلبي بماء الثلج والبرد ونق قلبي من الخطايا كما نقيت الثوب الابيض من الدنس وباعد بيني وبين خطاياي كما باعدت بين المشرق والمغرب اللهم اني اعوذ بك من الكسل والماثم والمغرم",
-        "transliteration": "Allaahumma inni A‛oodhu bika min fitnatin-naar, wa 'adhaabin-naar, wa fitnatil-qabr wa 'adhaabil-qabr, wa sharri fitnatil-ghina, wa sharri fitnatil-faqr, Allaahumma inni A‛oodhu bika min sharri fitnatil-masihid-dajjaal. Allaahummaghsil qalbi bimaa'ith-thalji wal-barad, wa naqqi qalbi minal-khata-yaa kamaa naqqaytath-thawbal-abyada minad-danas. Wa baa'id bayni wa bayna khata-ya-ya kamaa baa'adta baynal-mashriqi wal-maghrib. Allaahumma inni A‛oodhu bika minal-kasali wal-ma'thami wal-maghram",
-        "reference": "Bukhari: 6377",
-        "audio": 696,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Refuge to Allah from displeasing things #1",
-        "content": "The Messenger of Allah (ﷺ) used to recite this dua:",
-        "translation": "O Allah! I seek refuge with You from the affliction of the Fire, the punishment of the Fire, the affliction of the grave, the punishment of the grave, and the evil of the affliction of poverty. O Allah! I seek refuge with You from the evil of the affliction of Al-Masih Ad- Dajjal, O Allah! Cleanse my heart with the water of snow and hail, and cleanse my heart from all sins as a white garment is cleansed from filth, and let there be a far away distance between me and my sins as You made the East and West far away from each other. O Allah! I seek refuge with You from laziness, senility, sins, and from being in debt.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        697
-      ],
-      "id": 697,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 697,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْهَرَمِ، وَالْبُخْلِ وَأَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ",
-        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْهَرَمِ، وَالْبُخْلِ وَاَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ",
-        "clean": "اللهم اني اعوذ بك من العجز والكسل والجبن والهرم والبخل واعوذ بك من عذاب القبر ومن فتنه المحيا والممات",
-        "transliteration": "Allaahumma inni A‛oodhu bika minal-'ajzi, wal-kasali, wal-jubni, wal-harami, wal-bukhli, wa A‛oodhu bika min 'adhaabil-qabr, wa min fitnatil-mahyaa wal-mamaat",
-        "reference": "Bukhari: 6377, Muslim: 2706",
-        "audio": 697,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Refuge to Allah from displeasing things #2",
-        "content": "Narrated Anas Ibn Malik (RA): The Messenger of Allah (ﷺ), used to say:",
-        "translation": "O Allah, I seek refuge in Thee from incapacity, from indolence, from cowardice, from senility, from miserliness, and I seek refuge in Thee from the torment of the grave and from trial of the life and death.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        698
-      ],
-      "id": 698,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 698,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
+        "uthmani": "رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ ﴿٤﴾ رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا ۖ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ ﴿٥﴾",
+        "indopak": "رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَاِلَيْكَ اَنَبْنَا وَاِلَيْكَ الْمَصِيْرُ ﴿٤﴾ رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِيْنَ كَفَرُوْا وَاغْفِرْ لَنَا رَبَّنَا ۖ اِنَّكَ اَنْتَ الْعَزِيْزُ الْحَكِيْمُ ﴿٥﴾",
+        "clean": "ربنا عليك توكلنا واليك انبنا واليك المصير ٤ ربنا لا تجعلنا فتنه للذين كفروا واغفر لنا ربنا  انك انت العزيز الحكيم ٥",
         "transliteration": null,
-        "reference": "Bukhari: 6347",
+        "reference": "Surah Mumtahina 60:4-5",
         "audio": null,
-        "cat_id": 38,
-        "subcat_id": 110
+        "cat_id": 35,
+        "subcat_id": 106
       },
       "source": {
-        "name": "Refuge to Allah from displeasing things #3",
-        "content": "Narrated by Abu Huraira (RA): Allah's Messenger (ﷺ) used to seek refuge with Allah from the difficult moment of a calamity and from being overtaken by destruction and from being destined to an evil end, and from the malicious joy of enemies.",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        699
-      ],
-      "id": 699,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 699,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَالْهَرَمِ وَعَذَابِ الْقَبْرِ، اَللَّهُمَّ آتِ نَفْسِيْ تَقْوَاهَا وَزَكِّهَا أَنْتَ خَيْرُ مَنْ زَكَّاهَا أَنْتَ وَلِيُّهَا وَمَوْلَاهَا، اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عِلْمٍ لَا يَنْفَعُ وَمِنْ قَلْبٍ لَا يَخْشَعُ وَمِنْ نَفْسٍ لَا تَشْبَعُ وَمِنْ دَعْوَةٍ لَا يُسْتَجَابُ لَهَا",
-        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَالْهَرَمِ وَعَذَابِ الْقَبْرِ، اَللّٰهُمَّ اٰتِ نَفْسِىْ تَقْوَاهَا وَزَكِّهَا اَنْتَ خَيْرُ مَنْ زَكَّاهَا اَنْتَ وَلِيُّهَا وَمَوْلَاهَا، اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ عِلْمٍ لَّا يَنْفَعُ وَمِنْ قَلْبٍ لَّا يَخْشَعُ وَمِنْ نَّفْسٍ لَّا تَشْبَعُ وَمِنْ دَعْوَةٍ لَّا يُسْتَجَابُ لَهَا",
-        "clean": "اللهم اني اعوذ بك من العجز والكسل والجبن والبخل والهرم وعذاب القبر اللهم ات نفسي تقواها وزكها انت خير من زكاها انت وليها ومولاها اللهم اني اعوذ بك من علم لا ينفع ومن قلب لا يخشع ومن نفس لا تشبع ومن دعوه لا يستجاب لها",
-        "transliteration": "Allaahumma innee a‛oodhu bika minal-‛ajzi wal-kasali, wal-jubni wal-bukhli, wal-harami wa ‛adhaabil-qabr, Allaahumma aati nafsee taqwaahaa wa zakkihaa anta khairu man zakkaahaa anta waliyuhaa wa mawlaahaa, Allaahumma inni a‛oodhu bika min ‛ilmin laa yanfa‛u, wa min qalbin laa yakh-sha‛u, wa min nafsin laa tashba‛u, wa min da‛wat-in laa yustajaabu lahaa",
-        "reference": "Muslim: 2722",
-        "audio": 699,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Refuge to Allah from displeasing things #4",
-        "content": "The Messenger of Allah (ﷺ) used to say:",
-        "translation": "O Allah, I seek refuge with You from weakness, and laziness, cowardice and miserliness, old and infirm age, and the torment of the grave. O Allah, give my soul piety and purify it, for indeed You are the best of those who can purify it, You are it's Guardian and Master. O Allah, I seek refuge with You from knowledge that does not benefit, from a heart that does not get humbled [to Allah], from a soul which is never satisfied and from a supplication which does not get answered.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        700
-      ],
-      "id": 700,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 700,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ، وَتَحَوُّلِ عَافِيَتِكَ، وَفُجَاءَةِ نِقْمَتِكَ، وَجَمِيعِ سَخَطِكَ",
-        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ، وَتَحَوُّلِ عَافِيَتِكَ، وَفُجَاءَةِ نِقْمَتِكَ، وَجَمِيْعِ سَخَطِكَ",
-        "clean": "اللهم اني اعوذ بك من زوال نعمتك وتحول عافيتك وفجاءه نقمتك وجميع سخطك",
-        "transliteration": "Allaahumma inni A‛oodhu bika min zawaali ni'matika, wa tahawwuli 'aafiyatika, wa fuja-aati niqmatika, wa jami'i sakhatik",
-        "reference": "Muslim: 2739",
-        "audio": 700,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Refuge to Allah from displeasing things #5",
-        "content": "One of the supplications of the Messenger of Allah (ﷺ) was as follows:",
-        "translation": "O Allah, I seek refuge in Thee from the withdrawal of Thine blessing and the change of Thine protection (from me) and from the sudden wrath of Thine, and from every displeasure of Thine.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        701
-      ],
-      "id": 701,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 701,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ شَرِّ مَا عَمِلْتُ، وَمِنْ شَرِّ مَا لَمْ أَعْمَلْ",
-        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ شَرِّ مَا عَمِلْتُ، وَمِنْ شَرِّ مَا لَمْ اَعْمَلْ",
-        "clean": "اللهم اني اعوذ بك من شر ما عملت ومن شر ما لم اعمل",
-        "transliteration": "Allaahumma, inni A‛oodhu bika min sharri maa 'amiltu, wa min sharri maa lam a'mal",
-        "reference": "Muslim: 2716",
-        "audio": 701,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Refuge to Allah from displeasing things #6",
-        "content": "The Messenger of Allah (ﷺ) used to make dua to Allah by saying this:",
-        "translation": "I seek refuge in Thee from the evil of what I did and from the evil of what I did not.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        702
-      ],
-      "id": 702,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 702,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ أَصْلِحْ لِي دِينِيَ الَّذِي هُوَ عِصْمَةُ أَمْرِي، وَأَصْلِحْ لِي دُنْيَايَ الَّتِي فِيهَا مَعَاشِي، وَأَصْلِحْ لِي آخِرَتِي الَّتِي فِيهَا مَعَادِي، وَاجْعَلِ الْحَيَاةَ زِيَادَةً لِي فِي كُلِّ خَيْرٍ، وَاجْعَلِ الْمَوْتَ رَاحَةً لِي مِنْ كُلِّ شَرٍّ",
-        "indopak": "اَللّٰهُمَّ اَصْلِحْ لِىْ دِيْنِيَ الَّذِيْ هُوَ عِصْمَةُ اَمْرِىْ، وَاَصْلِحْ لِىْ دُنْيَايَ الَّتِىْ فِيْهَا مَعَاشِيْ، وَاَصْلِحْ لِىْ اٰخِرَتِى الَّتِيْ فِيْهَا مَعَادِىْ، وَاجْعَلِ الْحَيَاةَ زِيَادَةً لِّىْ فِىْ كُلِّ خَيْرٍ، وَاجْعَلِ الْمَوْتَ رَاحَةً لِّىْ مِنْ كُلِّ شَرٍّ",
-        "clean": "اللهم اصلح لي ديني الذي هو عصمه امري واصلح لي دنياي التي فيها معاشي واصلح لي اخرتي التي فيها معادي واجعل الحياه زياده لي في كل خير واجعل الموت راحه لي من كل شر",
-        "transliteration": "Allaahumma aslih lee deeni al-ladhi huwa ‛is-matu amree, Wa aslih lee dun-yaaial-lati feeha ma‛aashee, Wa aslih lee aakhiratee al-lati feeha ma‛aadee, Waj-‛alil hayaata ziyaadatan lee fee kulli khayrin waj-'alil-mawta raahatan lee min kulli sharrin",
-        "reference": "Muslim: 2720",
-        "audio": 702,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Seeking good of this world and the hereafter #1",
-        "content": "The Messenger of Allah (ﷺ) used to say:",
-        "translation": "O Allah perfect for me my religion on which success of all my affairs depends, And perfect my worldly affairs on which my livelihood depends, And perfect my hereafter to which I will return, And make in life for me an increase of all good, And make death for me a comfort from all evil.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        703
-      ],
-      "id": 703,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 703,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى، وَالتُّقَى، وَالْعَفَافَ، وَالْغِنَى",
-        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ الْهُدٰى، وَالتُّقٰى، وَالْعَفَافَ، وَالْغِنٰى",
-        "clean": "اللهم اني اسالك الهدي والتقي والعفاف والغني",
-        "transliteration": "Allaahumma, inni as'alukal-hudaa wat- tuqaa wal-'afaafa wal-ghinaa",
-        "reference": "Muslim: 2721",
-        "audio": 703,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Seeking good of this world and the hereafter #2",
-        "content": "The Prophet (ﷺ) used to say:",
-        "translation": "O Allah. I beg of Thee the right guidance, safeguard against evils, chastity and freedom from want.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        704
-      ],
-      "id": 704,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 704,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ اهْدِنِيْ وَسَدِّدْنِي",
-        "indopak": "اَللّٰهُمَّ اهْدِنِىْ وَسَدِّدْنِىْ",
-        "clean": "اللهم اهدني وسددني",
-        "transliteration": "Allaahummah dini wa-saddidni",
-        "reference": "Muslim: 2725",
-        "audio": 704,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Prayer for guidance and steadfastness #1",
-        "content": "The Messenger of Allah (ﷺ) said:",
-        "translation": "O Allah, guide me and make me steadfast.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        705
-      ],
-      "id": 705,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 705,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالسَّدَادَ",
-        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ الْهُدٰى وَالسَّدَادَ",
-        "clean": "اللهم اني اسالك الهدي والسداد",
-        "transliteration": "Allaahumma inni as'alukal huda was-sadaad",
-        "reference": "Muslim: 2725",
-        "audio": 705,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Prayer for guidance and steadfastness #2",
+        "name": "General prayers #4",
         "content": null,
-        "translation": "O Allah, I beg of Thee righteousness and adhering to the straight path.",
-        "note": "[He (ﷺ) then said to Ali (RA)] when you make a mention of right guidance, keep in mind the right path and when you consider of the straight (path), keep in mind the straightness of the arrow."
+        "translation": "(4) Our Lord, upon You we have relied, and to You we have returned, and to You is the destination. (5) Our Lord, make us not [objects of] torment for the disbelievers and forgive us, our Lord. Indeed, it is You who is the Exalted in Might, the Wise.",
+        "note": null
       },
       "target": {
         "name": "",
         "content": null,
         "translation": "",
-        "note": ""
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাধারণ দোয়া #৪",
+        "translation": "(৪) হে আমাদের প্রতিপালক, আমরা আপনার ওপরই ভরসা করি, আপনারই অভিমুখী হই আর প্রত্যাবর্তন তো আপনারই কাছে। (৫) হে আমাদের রব, আপনি আমাদেরকে কাফিরদের উৎপীড়নের পাত্র বানাবেন না। হে আমাদের রব, আপনি আমাদের ক্ষমা করে দিন। নিশ্চয় আপনি মহাপরাক্রমশালী, প্রজ্ঞাময়।"
       }
     },
     {
       "key": [
-        706
+        622
       ],
-      "id": 706,
+      "id": 622,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 706,
+        "id": 622,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ أَكْثِرْ مَالَهُ وَوَلَدَهُ وَبَارِكْ لَهُ فِيمَا أَعْطَيْتَهُ",
-        "indopak": "اَللّٰهُمَّ اَكْثِرْ مَالَهٗ وَوَلَدَهٗ وَبَارِكْ لَهٗ فِيْمَا اَعْطَيْتَهٗ",
-        "clean": "اللهم اكثر ماله وولده وبارك له فيما اعطيته",
-        "transliteration": "Allaahumma Akthir Maalahu Wa waladahu wa baarik lahu Fimaa a'taitahu",
-        "reference": "Bukhari: 6344",
-        "audio": 706,
-        "cat_id": 38,
-        "subcat_id": 110
+        "uthmani": "رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "indopak": "رَبَّنَا اَتْمِمْ لَنَا نُوْرَنَا وَاغْفِرْ لَنَا ۖ اِنَّكَ عَلٰي كُلِّ شَيْءٍ قَدِيْرٌ",
+        "clean": "ربنا اتمم لنا نورنا واغفر لنا  انك علي كل شيء قدير",
+        "transliteration": null,
+        "reference": "Surah Tahrim 66:8",
+        "audio": 622,
+        "cat_id": 35,
+        "subcat_id": 106
       },
       "source": {
-        "name": "Dua for blessings in wealth and in children",
+        "name": "General prayers #5",
         "content": null,
-        "translation": "O Allah! Increase his wealth and children, and bestow Your Blessing on whatever You give him.",
-        "note": "Narrated by Anas (RA): My mother said, \"O Allah's Messenger (ﷺ)! Please invoke Allah on behalf of your servant.\" He (ﷺ) said: (the dua is mentioned above)"
+        "translation": "Our Lord, perfect for us our light and forgive us. Indeed, You are over all things competent.",
+        "note": null
       },
       "target": {
         "name": "",
         "content": null,
         "translation": "",
-        "note": ""
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাধারণ দোয়া #৫",
+        "translation": "হে আমাদের রব, আমাদের জন্য আমাদের নূর পূর্ণ করে দিন এবং আমাদেরকে ক্ষমা করুন; নিশ্চয় আপনি সর্ববিষয়ে সর্বক্ষমতাবান।"
       }
     },
     {
       "key": [
-        707
+        623
       ],
-      "id": 707,
+      "id": 623,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 707,
+        "id": 623,
         "groups": null,
-        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ الْعَظِيْمُ الْحَلِيمُ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ لَا إِلَهَ إِلَّا اللَّهُ رَبُّ السَّمَاوَاتِ وَرَبُّ الْأَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيمِ",
-        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ الْعَظِيْمُ الْحَلِيْمُ، لَا اِلٰهَ اِلَّا اللّٰهُ رَبُّ الْعَرْشِ الْعَظِيْمِ لَا اِلٰهَ اِلَّا اللّٰهُ رَبُّ السَّمَاوَاتِ وَرَبُّ الْاَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيْمِ",
-        "clean": "لا اله الا الله العظيم الحليم لا اله الا الله رب العرش العظيم لا اله الا الله رب السماوات ورب الارض ورب العرش الكريم",
-        "transliteration": "Laa ilaaha illallahul 'azimul halim Laa ilaaha illaallahu Rabbul 'arshil-'azim, Laa ilaaha illaallahu Rabbu-s-samaawaati wa Rabbul ardi, wa Rabbul 'arsh-il-Karim",
-        "reference": "Bukhari: 6346",
-        "audio": 707,
-        "cat_id": 38,
-        "subcat_id": 110
+        "uthmani": "رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنتَ خَيْرُ الْوَارِثِينَ",
+        "indopak": "رَبِّ لَا تَذَرْنِيْ فَرْدًا وَّاَنْتَ خَيْرُ الْوَارِثِيْنَ",
+        "clean": "رب لا تذرني فردا وانت خير الوارثين",
+        "transliteration": null,
+        "reference": "Surah Ambiya 21:89",
+        "audio": 623,
+        "cat_id": 35,
+        "subcat_id": 106
       },
       "source": {
-        "name": "Dua in a state of Anxiety and sorrow",
-        "content": "Narrated Ibn `Abbas (RA): Allah's Messenger (ﷺ) used to say at a time of distress:",
-        "translation": "There is none worthy of worship but Allah the Mighty, the Forbearing. There is none worthy of worship but Allah, Lord of the Magnificent Throne. There is none worthy of worship but Allah, Lord of the heavens and Lord of the earth, and Lord of the Noble Throne.",
+        "name": "General prayers #6",
+        "content": null,
+        "translation": "My Lord, do not leave me alone [with no heir], while you are the best of inheritors.",
         "note": null
       },
       "target": {
         "name": "",
-        "content": "",
+        "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "সাধারণ দোয়া #৬",
+        "translation": "হে আমার রব! আমাকে একা রেখো না, তুমি তো শ্রেষ্ঠ মালিকানার অধিকারী"
       }
     },
     {
       "key": [
-        708
+        624
       ],
-      "id": 708,
+      "id": 624,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 708,
+        "id": 624,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ عَافِنِيْ فِي بَدَنِي اَللَّهُمَّ عَافِنِيْ فِي سَمْعِيْ اَللَّهُمَّ عَافِنِيْ فِي بَصَرِيْ لَا إِلَهَ إِلَّا أَنْتَ",
-        "indopak": "اَللّٰهُمَّ عَافِنِىْ فِىْ بَدَنِىْ اَللّٰهُمَّ عَافِنِىْ فِىْ سَمْعِىْ اَللّٰهُمَّ عَافِنِىْ فِىْ بَصَرِىْ لَا اِلٰهَ اِلَّا اَنْتَ",
-        "clean": "اللهم عافني في بدني اللهم عافني في سمعي اللهم عافني في بصري لا اله الا انت",
-        "transliteration": "Allaahumma 'aafinee fee badanee, Allaahumma 'aafinee fee sam'ee, Allaahumma 'aafinee fee basaree, laa 'ilaaha 'illaa 'Anta",
-        "reference": "Hasan (Albani). Abu Dawud: 5090",
-        "audio": 708,
-        "cat_id": 38,
-        "subcat_id": 110
+        "uthmani": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ",
+        "indopak": "رَبِّ اَوْزِعْنِيْ اَنْ اَشْكُرَ نِعْمَتَكَ الَّتِيْ اَنْعَمْتَ عَلَيَّ وَعَلٰي وَالِدَيَّ وَاَنْ اَعْمَلَ صَالِحًا تَرْضَاهُ وَاَدْخِلْنِيْ بِرَحْمَتِكَ فِيْ عِبَادِكَ الصَّالِحِيْنَ",
+        "clean": "رب اوزعني ان اشكر نعمتك التي انعمت علي وعلي والدي وان اعمل صالحا ترضاه وادخلني برحمتك في عبادك الصالحين",
+        "transliteration": null,
+        "reference": "Surah An-Naml 27:19",
+        "audio": 624,
+        "cat_id": 35,
+        "subcat_id": 106
       },
       "source": {
-        "name": "Praying for the safety of limbs and seeking refuge from evil",
-        "content": "Abu Bakra (RA) said this for three times in every morning and in evening:",
-        "translation": "O Allah! Keep my body healthy! O Allah! Keep my hearing healthy! O Allah! Keep my eyesight healthy! There is no true god but you.",
+        "name": "General prayers #7",
+        "content": null,
+        "translation": "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And admit me by Your mercy into [the ranks of] Your righteous servants.",
         "note": null
       },
       "target": {
         "name": "",
-        "content": "",
+        "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "সাধারণ দোয়া #৭",
+        "translation": "হে আমার রব, তুমি আমার প্রতি ও আমার পিতা-মাতার প্রতি যে অনুগ্রহ করেছো তার জন্য আমাকে তোমার শুকরিয়া আদায় করার তাওফীক দাও। আর আমি যাতে এমন সৎকাজ করতে পারি যা তুমি পছন্দ করো। আর তোমার অনুগ্রহে তুমি আমাকে তোমার সৎকর্মপরায়ণ বান্দাদের অন্তর্ভুক্ত করো।"
       }
     },
     {
       "key": [
-        709
+        625
       ],
-      "id": 709,
+      "id": 625,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 709,
+        "id": 625,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ لَا إِلَهَ إِلَّا أَنْتَ",
-        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ لَا اِلٰهَ اِلَّا اَنْتَ",
-        "clean": "اللهم اني اعوذ بك من الكفر والفقر اللهم اني اعوذ بك من عذاب القبر لا اله الا انت",
-        "transliteration": "Allaahumma 'innee 'a'oodhu bika minal-kufri, wal-faqr, Allaahumma 'innee 'a'oodhu bika min 'adhaabil-qabr, laa 'ilaaha 'illaa 'Anta",
-        "reference": "Hasan (Albani). Abu Dawud: 5090",
-        "audio": 709,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Seeking refuge from evil",
-        "content": "And said this for three times in every morning and in evening:",
-        "translation": "O Allah, I seek refuge in You from disbelief and poverty. O Allah! I seek refuge in You from the punishment of the grave. There is none worthy of worship but You.",
-        "note": "He said: I heard the Messenger of Allah (ﷺ) using these words as a supplication and I like to follow his sunnah."
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        710
-      ],
-      "id": 710,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 710,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ رَحْمَتَكَ أَرْجُو فَلَا تَكِلْنِيْ إِلَى نَفْسِيْ طَرْفَةَ عَيْنٍ وَأَصْلِحْ لِي شَأْنِيْ كُلَّهُ لَا إِلَهَ إِلاَّ أَنْتَ",
-        "indopak": "اَللّٰهُمَّ رَحْمَتَكَ اَرْجُوْ فَلَا تَكِلْنِيْ اِلٰى نَفْسِىْ طَرْفَةَ عَيْنٍ وَاَصْلِحْ لِىْ شَأْنِىْ كُلَّهٗ لَا اِلٰهَ اِلَّا اَنْتَ",
-        "clean": "اللهم رحمتك ارجو فلا تكلني الي نفسي طرفه عين واصلح لي شاني كله لا اله الا انت",
-        "transliteration": "Allaahumma rahmataka 'arjoo falaa takilnee 'ilaa nafsee tarfata 'aynin, wa 'aslih lee sha'nee kullahu, laa 'ilaaha 'illaa 'Anta",
-        "reference": "Hasan (Albani). Abu Dawud: 5090",
-        "audio": 710,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Dua when in distress #1",
-        "content": "The Messenger of Allah (ﷺ) said, dua for distressed person is:",
-        "translation": "O Allah, I hope for Your mercy. Do not leave me to myself even for the blinking of an eye (i.e. a moment). Correct all of my affairs for me. There is none worthy of worship but You.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        711
-      ],
-      "id": 711,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 711,
-        "groups": null,
-        "uthmani": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِيْنَ",
-        "indopak": "لَا اِلٰهَ اِلَّا اَنْتَ سُبْحَانَكَ اِنِّىْ كُنْتُ مِنَ الظَّالِمِيْنَ",
+        "uthmani": "لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+        "indopak": "لَا اِلٰهَ الَّا اَنْتَ سُبْحَانَكَ اِنِّيْ كُنْتُ مِنَ الظَّالِمِيْنَ",
         "clean": "لا اله الا انت سبحانك اني كنت من الظالمين",
-        "transliteration": "Laa 'ilaaha 'illaa 'Anta subhaanaka 'innee kuntu minadh dhaalimeen",
-        "reference": "Sahih (Albani). Tirmidhi: 3505",
-        "audio": 711,
-        "cat_id": 38,
-        "subcat_id": 110
+        "transliteration": null,
+        "reference": "Surah Al-Ambiya 21:87",
+        "audio": 625,
+        "cat_id": 35,
+        "subcat_id": 106
       },
       "source": {
-        "name": "Dua when in distress #2",
-        "content": "The Messenger of Allah (ﷺ) said, Yunus (As) said in the belly of whale:",
-        "translation": "There is none worthy of worship but You, glory is to You. Surely, I was among the wrongdoers.",
-        "note": "So indeed, no Muslim man supplicates with it for anything, ever, except Allah responds to him."
+        "name": "General prayers #8",
+        "content": null,
+        "translation": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.",
+        "note": null
       },
       "target": {
         "name": "",
-        "content": "",
+        "content": null,
         "translation": "",
-        "note": ""
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাধারণ দোয়া #৮",
+        "translation": "আপনি ছাড়া কোন (সত্য) ইলাহ নেই। আপনি পবিত্র মহান। নিশ্চয় আমি ছিলাম যালিম।"
+      }
+    },
+    {
+      "key": [
+        626
+      ],
+      "id": 626,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 626,
+        "groups": null,
+        "uthmani": "رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+        "indopak": "رَبَّنَا لَا تُؤَاخِذْنَا اِنْ نَّسِيْنَا اَوْ اَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا اِصْرًا كَمَا حَمَلْتَهٗ عَلَي الَّذِيْنَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهٖ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ اَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَي الْقَوْمِ الْكَافِرِيْنَ",
+        "clean": "ربنا لا تءاخذنا ان نسينا او اخطانا  ربنا ولا تحمل علينا اصرا كما حملته علي الذين من قبلنا  ربنا ولا تحملنا ما لا طاقه لنا به  واعف عنا واغفر لنا وارحمنا  انت مولانا فانصرنا علي القوم الكافرين",
+        "transliteration": null,
+        "reference": "Surah Al-Baqara 2:286",
+        "audio": 626,
+        "cat_id": 35,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "General prayers #9",
+        "content": null,
+        "translation": "Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাধারণ দোয়া #৯",
+        "translation": "হে আমাদের রব! আমরা যদি ভুলে যাই, অথবা ভুল করি তাহলে আপনি আমাদেরকে পাকড়াও করবেন না। হে আমাদের রব, আমাদের উপর বোঝা চাপিয়ে দেবেন না, যেমন আমাদের পূর্ববর্তীদের উপর চাপিয়ে দিয়েছেন। হে আমাদের রব, আপনি আমাদেরকে এমন কিছু বহন করাবেন না, যার সামর্থ্য আমাদের নেই। আর আপনি আমাদেরকে মার্জনা করুন এবং আমাদেরকে ক্ষমা করুন, আর আমাদের উপর দয়া করুন। আপনি আমাদের অভিভাবক। অতএব আপনি কাফির সম্প্রদায়ের বিরুদ্ধে আমাদেরকে সাহায্য করুন।"
+      }
+    },
+    {
+      "key": [
+        627
+      ],
+      "id": 627,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 627,
+        "groups": null,
+        "uthmani": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي فِي ذُرِّيَّتِي ۖ إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ",
+        "indopak": "رَبِّ اَوْزِعْنِيْ اَنْ اَشْكُرَ نِعْمَتَكَ الَّتِيْ اَنْعَمْتَ عَلَيَّ وَعَلٰي وَالِدَيَّ وَاَنْ اَعْمَلَ صَالِحًا تَرْضَاهُ وَاَصْلِحْ لِيْ فِيْ ذُرِّيَّتِيْ ۖ اِنِّيْ تُبْتُ اِلَيْكَ وَاِنِّيْ مِنَ الْمُسْلِمِيْنَ",
+        "clean": "رب اوزعني ان اشكر نعمتك التي انعمت علي وعلي والدي وان اعمل صالحا ترضاه واصلح لي في ذريتي  اني تبت اليك واني من المسلمين",
+        "transliteration": null,
+        "reference": "Surah Al-Ahqaf 46:15",
+        "audio": 627,
+        "cat_id": 35,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "General prayers #10",
+        "content": null,
+        "translation": "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to work righteousness of which You will approve and make righteous for me my offspring. Indeed, I have repented to You, and indeed, I am of the Muslims.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাধারণ দোয়া #১০",
+        "translation": "হে আমার রব, আমাকে সামর্থ্য দাও, তুমি আমার উপর ও আমার মাতা-পিতার উপর যে নিয়ামত দান করেছ, তোমার সে নিয়ামতের যেন আমি শোকর আদায় করতে পারি এবং আমি যেন সৎকর্ম করতে পারি, যা তুমি পছন্দ করো। আর আমার জন্য তুমি আমার বংশধরদের মধ্যে সংশোধন করে দাও। নিশ্চয় আমি তোমার কাছে তাওবা করলাম এবং নিশ্চয় আমি মুসলিমদের অন্তর্ভুক্ত।"
+      }
+    },
+    {
+      "key": [
+        628
+      ],
+      "id": 628,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 628,
+        "groups": null,
+        "uthmani": "رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+        "indopak": "رَبَّنَا اٰمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِيْنَ",
+        "clean": "ربنا امنا فاكتبنا مع الشاهدين",
+        "transliteration": null,
+        "reference": "Surah Al-Maidah 5:83",
+        "audio": 628,
+        "cat_id": 35,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "General prayers #11",
+        "content": null,
+        "translation": "Our Lord, we have believed, so register us among the witnesses.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাধারণ দোয়া #১১",
+        "translation": "হে আমাদের রব, আমরা ঈমান এনেছি। সুতরাং আপনি আমাদেরকে সাক্ষ্য দানকারীদের সঙ্গে লিপিবদ্ধ করুন।"
+      }
+    },
+    {
+      "key": [
+        629
+      ],
+      "id": 629,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 629,
+        "groups": null,
+        "uthmani": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+        "indopak": "حَسْبِيَ اللّٰهُ لَا اِلٰهَ اِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيْمِ",
+        "clean": "حسبي الله لا اله الا هو  عليه توكلت  وهو رب العرش العظيم",
+        "transliteration": null,
+        "reference": "Surah At-Tawbah 9:129",
+        "audio": 629,
+        "cat_id": 35,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "General prayers #12",
+        "content": null,
+        "translation": "Sufficient for me is Allah; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাধারণ দোয়া #১২",
+        "translation": "আমার জন্য আল্লাহ্‌ই যথেষ্ট, তিনি ছাড়া কোন (সত্য) ইলাহ নেই। আমি তাঁরই উপর তাওয়াক্কুল করেছি। আর তিনিই মহাআরশের রব।"
+      }
+    },
+    {
+      "key": [
+        630
+      ],
+      "id": 630,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 630,
+        "groups": null,
+        "uthmani": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
+        "indopak": "رَبَّنَا اَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِيْنَ",
+        "clean": "ربنا افرغ علينا صبرا وتوفنا مسلمين",
+        "transliteration": null,
+        "reference": "Surah Al-A'raf 7:126",
+        "audio": null,
+        "cat_id": 35,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "General prayers #13",
+        "content": null,
+        "translation": "Our Lord, pour upon us patience and let us die as Muslims [in submission to You].",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাধারণ দোয়া #১৩",
+        "translation": "হে আমাদের রব, আমাদেরকে পরিপূর্ণ ধৈর্য দান করুন এবং মুসলিম হিসাবে আমাদেরকে মৃত্যু দান করুন"
+      }
+    },
+    {
+      "key": [
+        631
+      ],
+      "id": 631,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 631,
+        "groups": null,
+        "uthmani": "رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّايَ ۖ أَتُهْلِكُنَا بِمَا فَعَلَ السُّفَهَاءُ مِنَّا ۖ إِنْ هِيَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَاءُ وَتَهْدِي مَن تَشَاءُ ۖ أَنتَ وَلِيُّنَا فَاغْفِرْ لَنَا وَارْحَمْنَا ۖ وَأَنتَ خَيْرُ الْغَافِرِينَ ﴿١٥٥﴾ وَاكْتُبْ لَنَا فِي هَـٰذِهِ الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ إِنَّا هُدْنَا إِلَيْكَ ۚ ﴿١٥٦﴾",
+        "indopak": "رَبِّ لَوْ شِئْتَ اَهْلَكْتَهُمْ مِّن قَبْلُ وَاِيَّايَ ۖ اَتُهْلِكُنَا بِمَا فَعَلَ السُّفَهَاءُ مِنَّا ۖ اِنْ هِيَ اِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَنْ تَشَاءُ وَتَهْدِيْ مَن تَشَاءُ ۖ اَنتَ وَلِيُّنَا فَاغْفِرْ لَنَا وَارْحَمْنَا ۖ وَاَنْتَ خَيْرُ الْغَافِرِيْنَ ﴿١٥٥﴾ وَاكْتُبْ لَنَا فِيْ هٰذِهِ الدُّنْيَا حَسَنَةً وَفِيْ الْاٰخِرَةِ اِنَّا هُدْنَا اِلَيْكَ ۚ ﴿١٥٦﴾",
+        "clean": "رب لو شءت اهلكتهم من قبل واياي  اتهلكنا بما فعل السفهاء منا  ان هي الا فتنتك تضل بها من تشاء وتهدي من تشاء  انت ولينا فاغفر لنا وارحمنا  وانت خير الغافرين ١٥٥ واكتب لنا في هذه الدنيا حسنه وفي الاخره انا هدنا اليك  ١٥٦",
+        "transliteration": null,
+        "reference": "Surah Al-A'raf 7:155-156",
+        "audio": 631,
+        "cat_id": 35,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "General prayers #14",
+        "content": null,
+        "translation": "(155) My Lord, if You had willed, You could have destroyed them before and me [as well]. Would You destroy us for what the foolish among us have done? This is not but Your trial by which You send astray whom You will and guide whom You will. You are our Protector, so forgive us and have mercy upon us; and You are the best of forgivers. (156) And decree for us in this world [that which is] good and [also] in the Hereafter; indeed, we have turned back to You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাধারণ দোয়া #১৪",
+        "translation": "(১৫৫) ‘হে আমার রব, আপনি চাইলে ইতঃপূর্বে এদের ধ্বংস করতে পারতেন এবং আমাকেও। আমাদের মধ্যে নির্বোধরা যা করেছে তার কারণে কি আমাদেরকে ধ্বংস করবেন? এটাতো আপনার পরীক্ষা ছাড়া কিছু না। এর মাধ্যমে যাকে চান আপনি পথভ্রষ্ট করেন এবং যাকে চান হিদায়াত দান করেন। আপনি আমাদের অভিভাবক। সুতরাং আমাদের ক্ষমা করে দিন এবং আপনি উত্তম ক্ষমাশীল। (১৫৬) আর আমাদের জন্য এ দুনিয়াতে ও আখিরাতে কল্যাণ লিখে দিন। নিশ্চয় আমরা আপনার দিকে প্রত্যাবর্তন করেছি।’"
+      }
+    },
+    {
+      "key": [
+        632
+      ],
+      "id": 632,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 632,
+        "groups": null,
+        "uthmani": "رَبِّ إِنِّى وَهَنَ الْعَظْمُ مِنِّى وَاشْتَعَلَ الرَّأْسُ شَيْبًا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّا",
+        "indopak": "رَبِّ اِنِّىْ وَهَنَ الْعَظْمُ مِنِّىْ وَاشْتَعَلَ الرَّأْسُ شَيْبًا وَلَمْ اَكُنْۢ بِدُعَائِكَ رَبِّ شَقِيًّا",
+        "clean": "رب اني وهن العظم مني واشتعل الراس شيبا ولم اكن بدعاءك رب شقيا",
+        "transliteration": null,
+        "reference": "Surah Maryam 19:4",
+        "audio": null,
+        "cat_id": 35,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "General prayers #15",
+        "content": null,
+        "translation": "My Lord, indeed my bones have weakened, and my head has filled with white, and never have I been in my supplication to You, my Lord, unhappy.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাধারণ দোয়া #১৫",
+        "translation": "হে আমার রব! আমার হাড়গুলো দূর্বল হয়ে গেছে এবং বার্ধক্যবশতঃ আমার মাথার চুলগুলো সাদা হয়ে গেছে। হে আমার রব, আপনার নিকট দোয়া করে আমি কখনো ব্যর্থ হইনি’।"
+      }
+    },
+    {
+      "key": [
+        633
+      ],
+      "id": 633,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 633,
+        "groups": null,
+        "uthmani": "رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ",
+        "indopak": "رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِيْنَ تَابُوْا وَاتَّبَعُوْا سَبِيْلَكَ وَقِهِمْ عَذَابَ الْجَحِيْمِ",
+        "clean": "ربنا وسعت كل شيء رحمه وعلما فاغفر للذين تابوا واتبعوا سبيلك وقهم عذاب الجحيم",
+        "transliteration": null,
+        "reference": "Surah Ghafir 40:7",
+        "audio": 633,
+        "cat_id": 35,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "General prayers #16",
+        "content": null,
+        "translation": "Our Lord, You have encompassed all things in mercy and knowledge, so forgive those who have repented and followed Your way and protect them from the punishment of Hellfire.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাধারণ দোয়া #১৬",
+        "translation": "হে আমাদের পালনকর্তা, আপনার রহমত ও জ্ঞান সবকিছুতে পরিব্যাপ্ত। অতএব, যারা তাওবা করে এবং আপনার পথে চলে, তাদেরকে ক্ষমা করুন এবং জাহান্নামের আযাব থেকে রক্ষা করুন।"
+      }
+    },
+    {
+      "key": [
+        634
+      ],
+      "id": 634,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 634,
+        "groups": null,
+        "uthmani": "رَبِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرًا لِّلْمُجْرِمِينَ",
+        "indopak": "رَبِّ بِمَا اَنْعَمْتَ عَلَيَّ فَلَنْ اَكُوْنَ ظَهِيْرًا لِّلْمُجْرِمِيْنَ",
+        "clean": "رب بما انعمت علي فلن اكون ظهيرا للمجرمين",
+        "transliteration": null,
+        "reference": "Surah Al-Qasas - 28:17",
+        "audio": 634,
+        "cat_id": 35,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "General prayers #17",
+        "content": null,
+        "translation": "My Lord, for the favor You bestowed upon me, I will never be an assistant to the criminals.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাধারণ দোয়া #১৭",
+        "translation": "হে আমার রব, আপনি যেহেতু আমার প্রতি নি’আমত দান করেন, তাই আমি কখনো আর অপরাধীদের সাহায্যকারী হব না।"
+      }
+    },
+    {
+      "key": [
+        635
+      ],
+      "id": 635,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 635,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ﴿١﴾ اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ﴿٢﴾ الرَّحْمٰنِ الرَّحِيْمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّيْنِ ﴿٤﴾ اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُ ﴿٥﴾ اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ﴿٦﴾ صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ ﴿٧﴾",
+        "clean": "بسم الله الرحمن الرحيم ١ الحمد لله رب العالمين ٢ الرحمن الرحيم ٣ مالك يوم الدين ٤ اياك نعبد واياك نستعين ٥ اهدنا الصراط المستقيم ٦ صراط الذين انعمت عليهم غير المغضوب عليهم ولا الضالين ٧",
+        "transliteration": null,
+        "reference": "Surah Fatiha 1:1-7",
+        "audio": 635,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Surah (1) Fatiha: The best dua of human life",
+        "content": null,
+        "translation": "(1) In the name of Allah, the Entirely Merciful, the Especially Merciful. (2) [All] praise is [due] to Allah, Lord of the worlds. (3) The Entirely Merciful, the Especially Merciful, (4) Sovereign of the Day of Recompense. (5) It is You we worship and You we ask for help. (6) Guide us to the straight path. (7) The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সূরা (১) ফাতিহাঃ মানব জীবনের শ্রেষ্ঠতম দোয়া",
+        "translation": "(১) পরম করুণাময় অতি দয়ালু আল্লাহ্‌র নামে। (২) সমস্ত প্রশংসা আল্লাহ্‌র জন্য, যিনি সৃষ্টিকুলের রব। (৩) দয়াময়, পরম দয়ালু, পরম করুণাময়, অতি দয়ালু। (৪) বিচার দিবসের মালিক। (৫) আপনারই আমরা ইবাদাত করি এবং আপনারই নিকট আমরা সাহায্য চাই। (৬) আমাদেরকে সরল পথ দেখান। পথের হিদায়াত দিন। (৭) তাদের পথ, যাদের উপর আপনি অনুগ্রহ করেছেন। যাদেরকে নিয়ামত দিয়েছেন।যাদের উপর (আপনার) ক্রোধ আপতিত হয়নি এবং যারা পথভ্রষ্টও নয়।"
+      }
+    },
+    {
+      "key": [
+        636
+      ],
+      "id": 636,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 636,
+        "groups": null,
+        "uthmani": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+        "indopak": "رَبَّنَا اٰتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْاٰخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+        "clean": "ربنا اتنا في الدنيا حسنه وفي الاخره حسنه وقنا عذاب النار",
+        "transliteration": null,
+        "reference": "Surah Baqara 2:201",
+        "audio": 636,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Seeking good of this world and the hereafter",
+        "content": null,
+        "translation": "Our Lord! Grant us good in this world and good in the hereafter, and save us from the chastisement of the fire",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "দুনিয়াতে ও আখিরাতে কল্যাণ চাওয়া",
+        "translation": "হে আমাদের রব, আমাদেরকে দুনিয়াতে কল্যাণ দিন। আর আখিরাতেও কল্যাণ দিন এবং আমাদেরকে আগুনের আযাব থেকে রক্ষা করুন।"
+      }
+    },
+    {
+      "key": [
+        637
+      ],
+      "id": 637,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 637,
+        "groups": null,
+        "uthmani": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَّدُنْكَ رَحْمَةً ۚ إِنَّكَ أَنْتَ الْوَهَّابُ",
+        "indopak": "رَبَّنَا لَا تُزِغْ قُلُوْبَنَا بَعْدَ اِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَّدُنْكَ رَحْمَةً ۚ اِنَّكَ اَنْتَ الْوَهَّابُ",
+        "clean": "ربنا لا تزغ قلوبنا بعد اذ هديتنا وهب لنا من لدنك رحمه  انك انت الوهاب",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:8",
+        "audio": 637,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Protection from deviation after guidance",
+        "content": null,
+        "translation": "Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "হেদায়তের পর অন্তরের বক্রতা হতে মুক্তি চাওয়া",
+        "translation": "হে আমাদের রব, আপনি হিদায়াত দেয়ার পর আমাদের অন্তরসমূহ বক্র করবেন না এবং আপনার পক্ষ থেকে আমাদেরকে রহমত দান করুন। নিশ্চয় আপনি মহাদাতা।"
+      }
+    },
+    {
+      "key": [
+        638
+      ],
+      "id": 638,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 638,
+        "groups": null,
+        "uthmani": "اللَّـهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاءُ وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاءُ وَتُعِزُّ مَن تَشَاءُ وَتُذِلُّ مَن تَشَاءُ ۖ بِيَدِكَ الْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "indopak": "اَللّٰهُمَّ مَالِكَ الْمُلْكِ تُؤْتِى الْمُلْكَ مَنْ تَشَاءُ وَتَنْزِعُ الْمُلْكَ مِمَّنْ تَشَاءُ وَتُعِزُّ مَنْ تَشَاءُ وَتُذِلُّ مَنْ تَشَاءُ ۖ بِيَدِكَ الْخَيْرُ ۖ اِنَّكَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
+        "clean": "اللهم مالك الملك تءتي الملك من تشاء وتنزع الملك ممن تشاء وتعز من تشاء وتذل من تشاء  بيدك الخير  انك علي كل شيء قدير",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:26",
+        "audio": 638,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Prayers for power and honor",
+        "content": null,
+        "translation": "O Allah, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand is [all] good. Indeed, You are over all things competent.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "ক্ষমতা ও সম্মান প্রার্থনা",
+        "translation": "হে আল্লাহ্‌, রাজত্বের মালিক, আপনি যাকে চান রাজত্ব দান করেন, আর যার থেকে চান রাজত্ব কেড়ে নেন এবং আপনি যাকে চান সম্মান দান করেন। আর যাকে চান অপমানিত করেন, আপনার হাতেই কল্যাণ। নিশ্চয় আপনি সব কিছুর উপর ক্ষমতাবান।"
+      }
+    },
+    {
+      "key": [
+        639
+      ],
+      "id": 639,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 639,
+        "groups": null,
+        "uthmani": "رَبَّنَا آمَنَّا بِمَا أَنزَلْتَ وَاتَّبَعْنَا الرَّسُولَ فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+        "indopak": "رَبَّنَا اٰمَنَّا بِمَا اَنزَلْتَ وَاتَّبَعْنَا الرَّسُوْلَ فَاكْتُبْنَا مَعَ الشَّاهِدِيْنَ",
+        "clean": "ربنا امنا بما انزلت واتبعنا الرسول فاكتبنا مع الشاهدين",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:53",
+        "audio": 639,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Dua by the virtue of Imaan",
+        "content": null,
+        "translation": "Our Lord, we have believed in what You revealed and have followed the messenger, so register us among the witnesses [to truth].",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "ঈমানের ওসিলায় প্রার্থনা করা",
+        "translation": "হে আমাদের রব, আপনি যা নাযিল করেছেন তার প্রতি আমরা ঈমান এনেছি এবং আমরা রাসূলের অনুসরণ করেছি। অতএব, আমাদেরকে সাক্ষ্যদাতাদের তালিকাভুক্ত করুন।"
+      }
+    },
+    {
+      "key": [
+        640
+      ],
+      "id": 640,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 640,
+        "groups": null,
+        "uthmani": "رَبِّ اجْعَلْ هَـٰذَا الْبَلَدَ آمِنًا وَاجْنُبْنِي وَبَنِيَّ أَن نَّعْبُدَ الْأَصْنَامَ",
+        "indopak": "رَبِّ اجْعَلْ هٰذَا الْبَلَدَ اٰمِنًا وَاجْنُبْنِىْ وَبَنِيَّ اَنْ نَّعْبُدَ الْاَصْنَامَ",
+        "clean": "رب اجعل هذا البلد امنا واجنبني وبني ان نعبد الاصنام",
+        "transliteration": null,
+        "reference": "Surah Ibrahim 14:35",
+        "audio": 640,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Dua for security and protection from polytheism",
+        "content": null,
+        "translation": "My Lord, make this city secure and keep me and my sons away from worshipping idols.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "নিরাপত্তা ও শির্ক থেকে বেচে থাকার দোয়া",
+        "translation": "হে আমার রব, আপনি এ শহরকে নিরাপদ করে দিন এবং আমাকে ও আমার সন্তানদেরকে মূর্তি পূজা থেকে দূরে রাখুন।"
+      }
+    },
+    {
+      "key": [
+        641
+      ],
+      "id": 641,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 641,
+        "groups": null,
+        "uthmani": "رَّبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَل لِّي مِن لَّدُنكَ سُلْطَانًا نَّصِيرًا",
+        "indopak": "رَّبِّ اَدْخِلْنِىْ مُدْخَلَ صِدْقٍ وّاَخْرِجْنِىْ مُخْرَجَ صِدْقٍ وَّاجْعَلْ لِّىْ مِنْ لَّدُنْكَ سُلْطَانًا نَّصِيْرًا",
+        "clean": "رب ادخلني مدخل صدق واخرجني مخرج صدق واجعل لي من لدنك سلطانا نصيرا",
+        "transliteration": null,
+        "reference": "Surah Isra 17:80",
+        "audio": 641,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Pray for help",
+        "content": null,
+        "translation": "My Lord, cause me to enter a sound entrance and to exit a sound exit and grant me from Yourself a supporting authority.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাহায্য প্রার্থনা",
+        "translation": "হে আমার রব, আমাকে প্রবেশ করাও উত্তমভাবে এবং বের করো উত্তমভাবে। আর তোমার পক্ষ থেকে আমাকে সাহায্যকারী শক্তি দান করো।"
+      }
+    },
+    {
+      "key": [
+        642
+      ],
+      "id": 642,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 642,
+        "groups": null,
+        "uthmani": "رَبِّ اشْرَحْ لِي صَدْرِي ﴿٢٥﴾ وَيَسِّرْ لِي أَمْرِي ﴿٢٦﴾ وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي ﴿٢٧﴾ يَفْقَهُوا قَوْلِي ﴿٢٨﴾",
+        "indopak": "رَبِّ اشْرَحْ لِىْ صَدْرِىْ ﴿٢٥﴾ وَيَسِّرْ لِىْ اَمْرِىْ ﴿٢٦﴾ وَاحْلُلْ عُقْدَةً مِّنْ لِّسَانِىْ ﴿٢٧﴾ يَفْقَهُوْا قَوْلِىْ ﴿٢٨﴾",
+        "clean": "رب اشرح لي صدري ٢٥ ويسر لي امري ٢٦ واحلل عقده من لساني ٢٧ يفقهوا قولي ٢٨",
+        "transliteration": null,
+        "reference": "Surah Ta Ha 20:25-28",
+        "audio": 642,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Seeking easeness in speech",
+        "content": null,
+        "translation": "(25) My Lord, expand for me my breast [with assurance] (26) And ease for me my task (27) And untie the knot from my tongue (28) That they may understand my speech.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মুখের জড়তা দূর ও কর্মে সহজতা কামনা",
+        "translation": "(২৫) সে বলল, ‘হে আমার রব, আমার বুক প্রশস্ত করে দিন’ (২৬) ‘এবং আমার কাজ সহজ করে দিন, (২৭) ‘আর আমার জিহবার জড়তা দূর করে দিন- (২৮) যাতে তারা আমার কথা বুঝতে পারে’।"
+      }
+    },
+    {
+      "key": [
+        643
+      ],
+      "id": 643,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 643,
+        "groups": null,
+        "uthmani": "رَّبِّ زِدْنِي عِلْمًا",
+        "indopak": "رَبِّ زِدْنِىْ عِلْمًا",
+        "clean": "رب زدني علما",
+        "transliteration": null,
+        "reference": "Surah Ta Ha 20:114",
+        "audio": 643,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Asking for increase in knowledge",
+        "content": null,
+        "translation": "My Lord, increase me in knowledge.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "জ্ঞান বৃদ্ধি চাওয়া",
+        "translation": "হে আমার রব, আমার জ্ঞান বৃদ্ধি করে দিন।"
+      }
+    },
+    {
+      "key": [
+        644
+      ],
+      "id": 644,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 644,
+        "groups": null,
+        "uthmani": "رَبِّ احْكُم بِالْحَقِّ ۗ وَرَبُّنَا الرَّحْمَـٰنُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+        "indopak": "رَبِّ احْكُمْ بِالْحَقِّ ۗ وَرَبُّنَا الرَّحْمٰنُ الْمُسْتَعَانُ عَلٰي مَا تَصِفُوْنَ",
+        "clean": "رب احكم بالحق  وربنا الرحمن المستعان علي ما تصفون",
+        "transliteration": null,
+        "reference": "Surah Ambiya 21:112",
+        "audio": 644,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Pray for help",
+        "content": null,
+        "translation": "My Lord, judge [between us] in truth. And our Lord is the Most Merciful, the one whose help is sought against that which you describe.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সাহায্য প্রার্থনা",
+        "translation": "হে আমার রব, আপনি ন্যায়সঙ্গতভাবে ফয়সালা করে দিন। আর আমাদের রব তো পরম করুণাময়। তোমরা যা বলছ সে বিষয়ে তিনিই একমাত্র সহায়স্থল।"
+      }
+    },
+    {
+      "key": [
+        645
+      ],
+      "id": 645,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 645,
+        "groups": null,
+        "uthmani": "رَّبِّ أَعُوْذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ ﴿٩٧﴾ وَأَعُوْذُ بِكَ رَبِّ أَن يَحْضُرُونِ ﴿٩٨﴾",
+        "indopak": "رَّبِّ اَعُوْذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِيْنِ ﴿٩٧﴾ وَاَعُوْذُ بِكَ رَبِّ اَنْ يَّحْضُرُوْنِ ﴿٩٨﴾",
+        "clean": "رب اعوذ بك من همزات الشياطين ٩٧ واعوذ بك رب ان يحضرون ٩٨",
+        "transliteration": null,
+        "reference": "Surah Muminun 23:97-98",
+        "audio": 645,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Seeking refuge in Allah from devils",
+        "content": null,
+        "translation": "(97)My Lord, I seek refuge in You from the incitements of the devils, (98) And I seek refuge in You, my Lord, lest they be present with me.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "শয়তান হতে আল্লাহ্‌র কাছে আশ্রয় চাওয়া",
+        "translation": "(৯৭) আর বল, ‘হে আমার রব, আমি শয়তানের প্ররোচনা থেকে আপনার কাছে পানাহ চাই’। (৯৮) আর হে আমার রব, আমার কাছে তাদের উপস্থিতি হতে আপনার কাছে পানাহ চাই।’"
+      }
+    },
+    {
+      "key": [
+        646
+      ],
+      "id": 646,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 646,
+        "groups": null,
+        "uthmani": "رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا ﴿٦٥﴾ إِنَّهَا سَاءَتْ مُسْتَقَرًّا وَمُقَامًا ﴿٦٦﴾",
+        "indopak": "رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖاِنَّ عَذَابَهَا كَانَ غَرَامًا ﴿٦٥﴾ اِنَّهَا سَاءَتْ مُسْتَقَرًّا وَمُقَامًا ﴿٦٦﴾",
+        "clean": "ربنا اصرف عنا عذاب جهنم ان عذابها كان غراما ٦٥ انها ساءت مستقرا ومقاما ٦٦",
+        "transliteration": null,
+        "reference": "Surah Furqan 25:65-66",
+        "audio": 646,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Saving from the hell fire",
+        "content": null,
+        "translation": "(65)Our Lord, avert from us the punishment of Hell. Indeed, its punishment is ever adhering (66) Indeed, it is evil as a settlement and residence.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "জাহান্নামের আজাব হতে আশ্রয় চাওয়া",
+        "translation": "(৬৫) ‘হে আমাদের রব, তুমি আমাদের থেকে জাহান্নামের আযাব ফিরিয়ে নাও। নিশ্চয় এর আযাব হলো অবিচ্ছিন্ন’। (৬৬) ‘নিশ্চয় তা অবস্থানস্থল ও আবাসস্থল হিসেবে অত্যন্ত নিকৃষ্ট’।"
+      }
+    },
+    {
+      "key": [
+        647
+      ],
+      "id": 647,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 647,
+        "groups": null,
+        "uthmani": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+        "indopak": "رَبِّ اِنِّىْ لِمَا اَنزَلْتَ اِلَيَّ مِنْ خَيْرٍ فَقِيْرٌ",
+        "clean": "رب اني لما انزلت الي من خير فقير",
+        "transliteration": null,
+        "reference": "Surah Qasas 28:24",
+        "audio": 647,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Seeking whatever good Allah can bestow",
+        "content": null,
+        "translation": "My Lord, indeed I am, for whatever good You would send down to me, in need.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "আল্লাহ্‌র অনুগ্রহ প্রার্থনা",
+        "translation": "হে আমার রব, নিশ্চয় আপনি আমার প্রতি যে অনুগ্রহই নাযিল করবেন, আমি তার মুখাপেক্ষী"
+      }
+    },
+    {
+      "key": [
+        648
+      ],
+      "id": 648,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 648,
+        "groups": null,
+        "uthmani": "رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ",
+        "indopak": "رَبَّنَا تَقَبَّلْ مِنَّا ۖ اِنَّكَ اَنْتَ السَّمِيْعُ الْعَلِيْمُ",
+        "clean": "ربنا تقبل منا  انك انت السميع العليم",
+        "transliteration": null,
+        "reference": "Surah Al-Baqara 2:127",
+        "audio": 648,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Seeking acceptance of deeds",
+        "content": null,
+        "translation": "Our Lord, accept [this] from us. Indeed You are the Hearing, the Knowing.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "আমল কবুলের প্রার্থনা",
+        "translation": "হে আমাদের রব, আমাদের পক্ষ থেকে কবূল করুন। নিশ্চয় আপনি সর্বশ্রোতা, সর্বজ্ঞানী।"
+      }
+    },
+    {
+      "key": [
+        649
+      ],
+      "id": 649,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 649,
+        "groups": null,
+        "uthmani": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِن ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+        "indopak": "رَبِّ اجْعَلْنِىْ مُقِيْمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِىْ ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+        "clean": "رب اجعلني مقيم الصلاه ومن ذريتي  ربنا وتقبل دعاء",
+        "transliteration": null,
+        "reference": "Surah Ibrahim 14:40",
+        "audio": 649,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Dua to become establisher of prayer",
+        "content": null,
+        "translation": "My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সালাত কায়েমকারী হওয়ার প্রার্থনা",
+        "translation": "হে আমার রব, আমাকে সালাত কায়েমকারী বানান এবং আমার বংশধরদের মধ্য থেকেও, হে আমাদের রব, আর আমার দোয়া কবূল করুন।"
+      }
+    },
+    {
+      "key": [
+        650
+      ],
+      "id": 650,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 650,
+        "groups": null,
+        "uthmani": "رَبِّ هَبْ لِى مِنَ الصّٰلِحِينَ",
+        "indopak": "رَبِّ هَبْ لِىْ مِنَ الصّٰلِحِيْنَ",
+        "clean": "رب هب لي من الصلحين",
+        "transliteration": null,
+        "reference": "Surah As-Saffat 37:100",
+        "audio": 650,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Asking for a good child",
+        "content": null,
+        "translation": "My Lord, grant me [a child] from among the righteous.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "নেককার সন্তানের প্রার্থনা",
+        "translation": "হে আমার রব, আমাকে সৎকর্মশীল সন্তান দান করুন"
+      }
+    },
+    {
+      "key": [
+        651
+      ],
+      "id": 651,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 651,
+        "groups": null,
+        "uthmani": "رَبِّ هَبْ لِي مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ الدُّعَاءِ",
+        "indopak": "رَبِّ هَبْ لِىْ مِنْ لَّدُنْكَ ذُرِّيَّةً طَيِّبَةً ۖ اِنَّكَ سَمِيْعُ الدُّعَاءِ",
+        "clean": "رب هب لي من لدنك ذريه طيبه  انك سميع الدعاء",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:38",
+        "audio": 651,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Asking for a good child",
+        "content": null,
+        "translation": "My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "নেককার সন্তানের প্রার্থনা",
+        "translation": "হে আমর রব, আমাকে আপনার পক্ষ থেকে উত্তম সন্তান দান করুন। নিশ্চয় আপনি প্রার্থনা শ্রবণকারী।"
+      }
+    },
+    {
+      "key": [
+        652
+      ],
+      "id": 652,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 652,
+        "groups": null,
+        "uthmani": "رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+        "indopak": "رَبَّنَا اٰتِنَا مِنْ لَّدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ اَمْرِنَا رَشَدًا",
+        "clean": "ربنا اتنا من لدنك رحمه وهيء لنا من امرنا رشدا",
+        "transliteration": null,
+        "reference": "Surah Al-Kahf 18:10",
+        "audio": 652,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Seeking mercy",
+        "content": null,
+        "translation": "Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রহমত প্রার্থনা",
+        "translation": "হে আমাদের রব, আমাদেরকে আপনার পক্ষ থেকে রহমত দিন এবং আমাদের জন্য আমাদের কর্মকান্ড সঠিক করে দিন।"
+      }
+    },
+    {
+      "key": [
+        653
+      ],
+      "id": 653,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 653,
+        "groups": null,
+        "uthmani": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+        "indopak": "رَبَّنَا هَبْ لَنَا مِنْ اَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ اَعْيُنٍ وَّاجْعَلْنَا لِلْمُتَّقِيْنَ اِمَامًا",
+        "clean": "ربنا هب لنا من ازواجنا وذرياتنا قره اعين واجعلنا للمتقين اماما",
+        "transliteration": null,
+        "reference": "Surah Al-Furqan 25:74",
+        "audio": 653,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Asking coolness of eyes from family and becoming example for the righteous",
+        "content": null,
+        "translation": "Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "নেককার স্ত্রী ও সন্তান প্রার্থনা",
+        "translation": "হে আমাদের রব, আপনি আমাদেরকে এমন স্ত্রী ও সন্তানাদি দান করুন যারা আমাদের চক্ষু শীতল করবে। আর আপনি আমাদেরকে মুত্তাকীদের নেতা বানিয়ে দিন।"
+      }
+    },
+    {
+      "key": [
+        654
+      ],
+      "id": 654,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 654,
+        "groups": null,
+        "uthmani": "عَسَىٰ رَبِّي أَن يَهْدِيَنِي سَوَاءَ السَّبِيلِ",
+        "indopak": "عَسٰى رَبِّىْ اَنْ يَّهْدِيَنِىْ سَوَاءَ السَّبِيْلِ",
+        "clean": "عسي ربي ان يهديني سواء السبيل",
+        "transliteration": null,
+        "reference": "Surah Al-Qasas 28:22",
+        "audio": 654,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Asking for correcting affairs",
+        "content": null,
+        "translation": "Perhaps my Lord will guide me to the sound way.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সঠিক পথ লাভের প্রার্থনা",
+        "translation": "আশা করি আমার রব আমাকে সঠিক পথ প্রদর্শন করবেন"
+      }
+    },
+    {
+      "key": [
+        655
+      ],
+      "id": 655,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 655,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِاللَّهِ أَنْ أَكُونَ مِنَ الْجَاهِلِينَ",
+        "indopak": "اَعُوْذُ بِاللّٰهِ اَنْ اَكُوْنَ مِنَ الْجَاهِلِيْنَ",
+        "clean": "اعوذ بالله ان اكون من الجاهلين",
+        "transliteration": null,
+        "reference": "Surah Al-Baqara 2:67",
+        "audio": 655,
+        "cat_id": 35,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "Protecton from being ignorant",
+        "content": null,
+        "translation": "I seek refuge in Allah from being among the ignorant.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মূর্খতা থেকে মুক্তি চাওয়া",
+        "translation": "আমি মূর্খদের অন্তর্ভুক্ত হওয়া থেকে আল্লাহ্‌র আশ্রয় চাচ্ছি"
       }
     }
   ]

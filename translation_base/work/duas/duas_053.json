@@ -4,160 +4,380 @@
   "source_language": "en",
   "target_language": "TARGET",
   "status": "pending",
-  "rows": 9,
-  "id_range": "794-802",
-  "source_chars": 5932,
+  "rows": 10,
+  "id_range": "766-775",
+  "source_chars": 5875,
   "items": [
     {
       "key": [
-        794
+        766
       ],
-      "id": 794,
+      "id": 766,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 794,
+        "id": 766,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ عَلَيْكَ بِأَبِي جَهْلِ بْنِ هِشَامٍ وَعُتْبَةَ بْنِ رَبِيْعَةَ وَشَيْبَةَ بْنِ رَبِيْعَةَ وَالْوَلِيْدِ بْنِ عُقْبَةَ وَأُمَيَّةَ بْنِ خَلَفٍ وَعُقْبَةَ بْنِ أَبِيْ مُعَيْطٍ",
-        "indopak": "اَللّٰهُمَّ عَلَيْكَ بِاَبِيْ جَهْلِ بْنِ هِشَامٍ وَعُتْبَةَ بْنِ رَبِيْعَةَ وَشَيْبَةَ بْنِ رَبِيْعَةَ وَالْوَلِيْدِ بْنِ عُقْبَةَ واُمَيَّةَ بْنِ خَلَفٍ وَعُقْبَةَ بْنِ اَبِيْ مُعَيْطٍ",
-        "clean": "اللهم عليك بابي جهل بن هشام وعتبه بن ربيعه وشيبه بن ربيعه والوليد بن عقبه واميه بن خلف وعقبه بن ابي معيط",
-        "transliteration": "Allaahumma ‘Alaika bi abi jahl ibn Hisham, wa Utbath ibn Rabi'ah, wa Shaibah ibn Rabi'ah, wal Walid ibn Uqbah, wa Umayyah ibn Khalaf, wa Uqbah ibn abi Mu'ait",
-        "reference": "Muslim: 1794",
-        "audio": 794,
-        "cat_id": 39,
-        "subcat_id": 111
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَغَلَبَةِ الْعَدُوِّ وَشَمَاتَةِ الْأَعْدَاءِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَغَلَبَةِ الْعَدُوِّ وَشَمَاتَةِ الْاَعْدَاءِ",
+        "clean": "اللهم اني اعوذ بك من غلبه الدين وغلبه العدو وشماته الاعداء",
+        "transliteration": "Allaahumma inni A‛oodhu bika min ghalabatid-daini, wa ghalabatil-'aduwwi, wa shamaatatil-a'daa'i",
+        "reference": "Sahih (Albani). Nasai: 5487",
+        "audio": 766,
+        "cat_id": 38,
+        "subcat_id": 110
       },
       "source": {
-        "name": "Dua of the prophet (ﷺ) against the enemy",
-        "content": "When they heard his voice, laughter vanished from them and they feared his malediction. Then Prophet (ﷺ) said:",
-        "translation": "O Allah, it is for Thee to deal with Abu Jahl bin Hisham, 'Utba bin Rabi'a, Shaiba bin Rabi'a. Walid bin Uqba, Umayya bin Khalaf, Uqba bin Abu Mu'ait.",
-        "note": "Ibn Mas’ud (RA) said,”By One Who sent Muhammad (ﷺ) with truth, I saw (all) those he had named lying slain on the Day of Badr. Their dead bodies were dragged to be thrown into a pit near the battlefield”. In another narration, “I swear by Allah that I saw them lying slain in the battlefield of Badr. It being a hot day, their complexion had changed (showing signs of decay).”"
+        "name": "Seeking refuge from the burden of debt, victory and rejoicing of the enemy",
+        "content": "The Messenger of Allah (ﷺ) supplicate by saying these:",
+        "translation": "O Allah, I seek refuge with You from being overwhelmed by debt and from being overpowered by the enemy, and from the enemy rejoicing at my misfortune.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "ঋণের বোঝা, শত্রুর বিজয় ও উল্লাস থেকে আশ্রয় চাওয়া",
+        "content": "আল্লাহ্‌র রাসূল (ﷺ) এসব কথা বলে দোয়া করতেন -",
+        "translation": "হে আল্লাহ্‌! তোমার কাছে আশ্রয় চাই ঋণের অত্যধিক বোঝা, শত্রুর বিজয় ও শত্রুবাহিনীর উল্লাস থেকে।"
+      }
+    },
+    {
+      "key": [
+        767
+      ],
+      "id": 767,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 767,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي وَاهْدِنِيْ وَارْزُقْنِيْ وَعَافِنِيْ‏ أَعُوْذُ بِاللَّهِ مِنْ ضِيْقِ الْمَقَامِ يَوْمَ الْقِيَامَةِ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِيْ وَاهْدِنِيْ وَارْزُقْنِيْ وَعَافِنِيْ‏ اَعُوْذُ بِاللّٰهِ مِنْ ضِيْقِ الْمَقَامِ يَوْمَ الْقِيَامَةِ",
+        "clean": "اللهم اغفر لي واهدني وارزقني وعافني اعوذ بالله من ضيق المقام يوم القيامه",
+        "transliteration": "Allaahummaghfir li, wahdini, warzuqni wa 'aafini. A‛oodhu billaahi min di'qil-maqaami yawmal-qiyaamah",
+        "reference": "Hasan Sahih (Albani). Nasai: 1617",
+        "audio": 767,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Seeking refuge from a narrow place on the Day of Resurrection",
+        "content": null,
+        "translation": "O Allah, forgive me, guide me, grant me provision and good health. I seek refuge with Allah from the difficulty of standing on the Day of Resurrection.",
+        "note": "Asim bin Humaid (R) said: \"I asked 'Aishah (RA) how the Prophet (ﷺ)- start his Qiyam Al-Lail? She said: 'You have asked me something which no one before you has asked. The Messenger of Allah (ﷺ) used to say the takbir (Allahu Akbar) ten times, the tahmid (Alhamdu lillah) ten times, the tasbih (Subhanallah) ten times, the tahlil (La ilaha illallah) ten times, and the istigfaar (Astigfirullah) ten times, then he would say: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "কিয়ামতের দিন সংকীর্ণস্থান থেকে আশ্রয় চাওয়া",
+        "translation": "হে আল্লাহ্‌! আমাকে মাফ করে দাও; আমার সঠিক পথে পরিচালিত করো; আমার জীবনোপকরণ জুগিয়ে দাও; আমাকে সুস্থ রাখো। আমি আল্লাহ্‌র কাছে আশ্রয় চাই কিয়ামতের দিন সংকীর্ণ আবাস থেকে।",
+        "note": "আসিম ইবনু হুমাইদ (রাঃ) থেকে বর্ণিত, তিনি বলেন, আমি আয়িশা (রাঃ) কে জিজ্ঞাসা করি, “আল্লাহ্‌র রাসূল (ﷺ) কী বলে রাতের সালাত শুরু করতেন?” আয়িশা (রাঃ) বলেন, “তুমি আমাকে এমন এক বিষয়ে জিজ্ঞাসা করেছ, যে বিষয়ে এর আগে আমাকে কেউ জিজ্ঞাসা করেনি। আল্লাহ্‌র রাসূল (ﷺ) দশ বার তাকবীর (‘আল্লাহু আকবার'), দশ বার তাহমীদ (‘আল-হামদু লিল্লাহ’), দশ বার তাসবীহ (সুবহানাল্লাহ’), দশ বার তাহলীল (“লা ইলাহা ইল্লাল্লাহ’), দশ বার ইস্তিগফার (‘আস্তাগফিরুল্লাহ’) বলে (তারপর) বলতেন - (উপরে দোয়াটি উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        768
+      ],
+      "id": 768,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 768,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ مَتِّعْنِيْ بِسَمْعِيْ وَبَصَرِيْ وَاجْعَلْهُمَا الْوَارِثَ مِنِّيْ وَانْصُرْنِيْ عَلَى عَدُوِّيْ وَأَرِنِيْ مِنْهُ ثَأْرِيْ",
+        "indopak": "اَللّٰهُمَّ مَتِّعْنِيْ بِسَمْعِيْ وَبَصَرِيْ وَاجْعَلْهُمَا الْوَارِثَ مِنِّيْ وَانْصُرْنِيْ عَلٰى عَدُوِّيْ وَاَرِنِيْ مِنْهُ ثَأْرِيْ",
+        "clean": "اللهم متعني بسمعي وبصري واجعلهما الوارث مني وانصرني علي عدوي وارني منه ثاري",
+        "transliteration": "Allaahumma mati‛ni bi sam‛i wa basari waj-‛alhumal-waaritha minni, wan-surni 'alaa 'aduwwi wa-arini minhu bi tha’ri",
+        "reference": "Sahih (Albani). Adabul Mufrad: 650",
+        "audio": 768,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Seeking benefit from hearing and sight and seek help against the enemy",
+        "content": "The Prophet (ﷺ) said:",
+        "translation": "O Allah, let me enjoy my sight and hearing and make them remain sound until I die. Turn away my enemy and grant me revenge on him.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "শ্রবণ ও দৃষ্টিশক্তি থেকে উপকৃত হওয়া এবং শত্রুর বিরুদ্ধে সাহায্য চাওয়া",
+        "content": "নবী (ﷺ) বলতেন -",
+        "translation": "হে আল্লাহ্‌! আমার শ্রবণশক্তি ও দৃষ্টিশক্তি থেকে উপকৃত হওয়ার সুযোগ দাও; উভয়টিকে আমার উত্তরাধিকারী বানিয়ে দাও; আমার শত্রুর বিরুদ্ধে আমাকে সাহায্য করো; তার উপর কতটুকু প্রতিশোধ নেওয়া যাবে, তা দেখিয়ে দাও!"
+      }
+    },
+    {
+      "key": [
+        769
+      ],
+      "id": 769,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 769,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ عِيْشَةً نَقِيَّةً وَمِيْتَةً سَوِيَّةً وَمَرَدًّا غَيْرَ مُخْزٍ وَلَا فَضِحٍ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ عِيْشَةً نَّقِيَّةً وَّمِيْتَةً سَوِيَّةً وَّمَرَدًّا غَيْرَ مُخْزٍ وَّلَا فَضِحٍ",
+        "clean": "اللهم اني اسالك عيشه نقيه وميته سويه ومردا غير مخز ولا فضح",
+        "transliteration": "Allaahumma inni as'aluka ‘ishatan naqiyyatan, wa mitatan saweyyatan wa maraddan ghaira mukhzin wala fadi'hin",
+        "reference": "Sahih (Suyuti). Jami' as-Sagir: 1505",
+        "audio": 769,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Seeking blessed life and easy death",
+        "content": "The Messenger of Allah (ﷺ) used to pray like this:",
+        "translation": "O Allah! I ask You for a pure living, an easy death and a return that is not shameful or disgracefull!",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "পবিত্র জীবন ও সহজ মৃত্যু চাওয়া",
+        "content": "আল্লাহ্‌র রাসূল (ﷺ) এভাবে দোয়া করতেন -",
+        "translation": "হে আল্লাহ্‌! আমি তোমার কাছে চাই পরিচ্ছন্ন জীবন, সরল মৃত্যু এবং অপমান ও লাঞ্ছনামুক্ত প্রত্যাবর্তন।"
+      }
+    },
+    {
+      "key": [
+        770
+      ],
+      "id": 770,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 770,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ لَكَ الْحَمْدُ كُلُّهُ، اَللَّهُمَّ لَا قَابِضَ لِمَا بَسَطْتَ، وَلَا مُقَرِّبَ لِمَا بَاعَدْتَ، وَلَا مُبَاعِدَ لِمَا قَرَّبْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا مَانِعَ لِمَا أَعْطَيْتَ. اَللَّهُمَّ ابْسُطْ عَلَيْنَا مِنْ بَرَكَاتِكَ وَرَحْمَتِكَ وَفَضْلِكَ وَرِزْقِكَ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ النَّعِيمَ الْمُقِيمَ الَّذِي لَا يَحُولُ وَلَا يَزُولُ. اَللَّهُمَّ إِنِّي أَسْأَلُكَ النَّعِيمَ يَوْمَ الْعَيْلَةِ، وَالْأَمْنَ يَوْمَ الْحَرْبِ، اَللَّهُمَّ عَائِذًا بِكَ مِنْ سُوءِ مَا أَعْطَيْتَنَا، وَشَرِّ مَا مَنَعْتَ مِنَّا. اَللَّهُمَّ حَبِّبْ إِلَيْنَا الْإِيمَانَ وَزَيِّنْهُ فِي قُلُوبِنَا، وَكَرِّهْ إِلَيْنَا الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ، وَاجْعَلْنَا مِنَ الرَّاشِدِينَ. اَللَّهُمَّ تَوَفَّنَا مُسْلِمِينَ، وَأَحْيِنَا مُسْلِمِينَ، وَأَلْحِقْنَا بِالصَّالِحِينَ، غَيْرَ خَزَايَا وَلَا مَفْتُونِينَ. اَللَّهُمَّ قَاتِلِ الْكَفَرَةَ الَّذِينَ يَصُدُّونَ عَنْ سَبِيلِكَ، وَيُكَذِّبُونَ رُسُلَكَ، وَاجْعَلْ عَلَيْهِمْ رِجْزَكَ وَعَذَابَكَ. اَللَّهُمَّ قَاتِلِ الْكَفَرَةَ الَّذِينَ أُوتُوا الْكِتَابَ، إِلَهَ الْحَقِّ",
+        "indopak": "اَللّٰهُمَّ لَكَ الْحَمْدُ كُلُّهٗ، اَللّٰهُمَّ لَا قَابِضَ لِمَا بَسَطْتَ، وَلَا مُقَرِّبَ لِمَا بَاعَدْتَ، وَلَا مُبَاعِدَ لِمَا قَرَّبْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا مَانِعَ لِمَا اَعْطَيْتَ، اَللّٰهُمَّ ابْسُطْ عَلَيْنَا مِنْ بَرَكَاتِكَ وَرَحْمَتِكَ وَفَضْلِكَ وَرِزْقِكَ، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ النَّعِيْمَ الْمُقِيْمَ الَّذِيْ لَا يَحُوْلُ وَلَا يَزُوْلُ، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ النَّعِيْمَ يَوْمَ الْعَيْلَةِ، وَالْاَمْنَ يَوْمَ الْحَرْبِ، اَللّٰهُمَّ عَائِذًا بِكَ مِنْ سُوْءِ مَا اَعْطَيْتَنَا، وَشَرِّ مَا مَنَعْتَ مِنَّا. اَللّٰهُمَّ حَبِّبْ اِلَيْنَا الْاِيْمَانَ وَزَيِّنْهُ فِي قُلُوْبِنَا، وَكَرِّهْ اِلَيْنَا الْكُفْرَ وَالْفُسُوْقَ وَالْعِصْيَانَ، وَاجْعَلْنَا مِنَ الرَّاشِدِيْنَ، اَللّٰهُمَّ تَوَفَّنَا مُسْلِمِيْنَ، وَاَحْيِنَا مُسْلِمِيْنَ، وَاَلْحِقْنَا بِالصَّالِحِيْنَ، غَيْرَ خَزَايَا وَلَا مَفْتُوْنِيْنَ. اَللّٰهُمَّ قَاتِلِ الْكَفَرَةَ الَّذِيْنَ يَصُدُّوْنَ عَنْ سَبِيْلِكَ، وَيُكَذِّبُوْنَ رُسُلَكَ، وَاجْعَلْ عَلَيْهِمْ رِجْزَكَ وَعَذَابَكَ، اَللّٰهُمَّ قَاتِلِ الْكَفَرَةَ الَّذِيْنَ اُوْتُوا الْكِتَابَ، اِلٰهَ الْحَقِّ",
+        "clean": "اللهم لك الحمد كله اللهم لا قابض لما بسطت ولا مقرب لما باعدت ولا مباعد لما قربت ولا معطي لما منعت ولا مانع لما اعطيت اللهم ابسط علينا من بركاتك ورحمتك وفضلك ورزقك اللهم اني اسالك النعيم المقيم الذي لا يحول ولا يزول اللهم اني اسالك النعيم يوم العيله والامن يوم الحرب اللهم عاءذا بك من سوء ما اعطيتنا وشر ما منعت منا اللهم حبب الينا الايمان وزينه في قلوبنا وكره الينا الكفر والفسوق والعصيان واجعلنا من الراشدين اللهم توفنا مسلمين واحينا مسلمين والحقنا بالصالحين غير خزايا ولا مفتونين اللهم قاتل الكفره الذين يصدون عن سبيلك ويكذبون رسلك واجعل عليهم رجزك وعذابك اللهم قاتل الكفره الذين اوتوا الكتاب اله الحق",
+        "transliteration": "Allaahumma lakal ‘hamdu kulluhu, Allaahumma laa qaabidha limaa basat-ta, wa laa muqarriba limaa baa-’adta wa laa mubaa-’ida limaa qrrabta wa laa mu’tii-a limaa mana’ta wa laa maani’aa limaa a’tayta. Allaahummabsut ‘alainaa min barakaatika wa ra’hmatika wa fadhlika wa rizqika. Allaahumma inni as-alukan na’iimal muqiimalladhi laa ya’hulu wa laa yazuulu. Allaahumma inni as-alukan na’iima yawmal ‘ailati wal amna yawmal ‘harbi, Allaahumma ‘aa-idhan bika min suu-i maa a’taitanaa wa sharri maa mana’ta minnaa. Allaahumma habbib ilainal iimaana wa zayyinhu fii qulubinaa wa karrih ilainaal kufra wal fusuuqa wal ‘isyaana, waj’alnaa minar rashidin. Allaahumma tawaffana muslimin wa ah’inaa muslimiin. Wa alhiqnaa bissaalihiina ghaira khazayaa wa laa maftuuniin. Allaahumma qaatilil kafaratalla-dhiinaa yasudduuna ‘an sabiilika wa yukazzibuna rusulaka waj’al ‘alaihim rijzaka wa ‘adhaabaka. Allaahumma qaatilil kafaratalla-dhina ootul kitaaba, ilaahal haqq",
+        "reference": "Sahih (Albani). Adabul Mufrad: 699",
+        "audio": 770,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua for gaining dignity from Allah and His grace and His revenge against the enemies",
+        "content": null,
+        "translation": "O Allah, all praise is due to You. O Allah, none can contract what You expand nor bring near what you put far away. None can put far away what You bring near. None can give what You withhold nor withhold what You give. O Allah, expand to us some of Your blessings, mercy and favour and give us provision! O Allah, I ask You for the abiding blessing which is neither changed nor removed. O Allah, I ask You for blessing on the Day of Utter Poverty and security on the Day of Fear. O Allah, I seek refuge with You from the evil of what You give us. O Allah, make us love belief and adorn our hearts with it. Make us hate disbelief, deviance and rebellion. Place us among the rightly-guided. O Allah, make us die Muslims and make us live as Muslims and join us to the rightly, acting, who are neither disappointed nor afflicted. O Allah, fight the unbelievers who bar your path and who deny Your Messengers. Place You abasement and punishment over them. O Allah, fight the unbelievers who were given the Book, O Lord of Truth!",
+        "note": "Rifa'a az-Zurqi (R) said, \"In the Battle of Uhud when the idolaters retreated, the Messenger of Allah (ﷺ) said, 'Form straight ranks so that I can praise my Almighty Lord.' They formed in ranks behind him. He said: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "আল্লাহর মর্যাদা ও তাঁর অনুগ্রহ লাভ এবং শত্রুদের বিরুদ্ধে তাঁর প্রতিশোধ প্রার্থনা",
+        "translation": "হে আল্লাহ্‌! তোমার জন্য সকল প্রশংসা। হে আল্লাহ্‌! তুমি যা সম্প্রসারিত করো তা কেউ সংকুচিত করতে পারে না, তুমি যাকে দূরে ঠেলে দাও তাকে কেউ কাছে আনতে পারে না, তুমি যাকে কাছে টেনে নাও তাকে কেউ দূরে ঠেলে দিতে পারে না, তুমি যাকে না দাও তাকে কেউ দিতে পারে না এবং তুমি যাকে দান করো তাকে কেউ আটকে রাখতে পারে না। হে আল্লাহ্‌! তুমি আমাদের উপর তোমার বরকত, তোমার রহমাত, তোমার অনুগ্রহ এবং তোমার দেয়া রিফিক প্রসারিত করো। হে আল্লাহ্‌! আমি তোমার নিকট স্থায়ী নিয়ামত প্রার্থনা করি যা পরিবর্তন বা বিলীন হয় না। হে আল্লাহ্‌ ! আমি তোমার নিকট দুঃখের দিনে তোমার নিয়ামত ও যুদ্ধের দিনে তোমার নিরাপত্তা প্রার্থনা করি। হে আল্লাহ্‌! তুমি আমাকে যা দান করেছে তার অনিষ্ট থেকে আমাকে রক্ষা করো। তুমি যা আমাকে দান করোনি তার অনিষ্ট থেকে আমাকে রক্ষা করো। হে আল্লাহ্‌! তুমি আমাদের নিকট ঈমানকে প্রিয় বানাও, আমাদের অন্তরকে সৌন্দর্যময় করো এবং কুফর, পাপাচার ও বিদ্রোহকে আমাদের নিকট ঘৃণিত বানাও। তুমি আমাদেরকে হেদায়াতপ্রাপ্তদের অন্তর্ভুক্ত করো। হে আল্লাহ্‌! আমাদেরকে মুসলমানরূপে মৃত্যু দান করো, মুসলমানরূপে জীবিত রাখো এবং সৎকর্মশীল লোকদের সাথে মিলিত করো, অপমানিত ও বিপর্যস্তরূপে নয়। হে আল্লাহ্‌! তুমি কাফেরদের ধ্বংস করো, যারা তোমার পথে বাধা সৃষ্টি করে। তোমার ক্রোধ ও আযাব তাদের উপর অবতীর্ণ করো। হে আল্লাহ্‌! কিতাবপ্রাপ্ত কাফেরদের ধ্বংস করো। হে সত্য ইলাহ!",
+        "note": "উবাইদ ইবনে রিফাআ আয-যুরাকী (র) থেকে বর্ণিতঃ তিনি বলেন, উহুদ যুদ্ধের দিন যখন মুশরিকরা ইতস্তত বিক্ষিপ্ত হয়ে চলে গেলো তখন রাসূলুল্লাহ্‌ (ﷺ) বললেনঃ তোমরা সারিবদ্ধভাবে সোজা হয়ে দাঁড়াও, যাতে আমি আমার মহামহিমান্বিত প্রতিপালকের প্রশংসা করতে পারি। অতএব সাহাবীগণ তাঁর পিছনে সারিবদ্ধভাবে দাড়িয়ে থাকলেন। তিনি বলেনঃ (উপরে দোয়াটি উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        771
+      ],
+      "id": 771,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 771,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي وَارْحَمْنِيْ وَعَافِنِيْ وَارْزُقْنِيْ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِيْ وَارْحَمْنِيْ وَعَافِنِيْ وَارْزُقْنِيْ",
+        "clean": "اللهم اغفر لي وارحمني وعافني وارزقني",
+        "transliteration": "Allaahumma-ghfir li warhamni wa 'aafini warzuqni",
+        "reference": "Sahih (Albani). Ibn Majah: 3845",
+        "audio": 771,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua for seeking forgiveness, sustenance and healthy life",
+        "content": "A man had come to the Messenger of Allah (ﷺ), he heard him say: \"O Messenger of Allah (ﷺ), what should I say when I ask of Allah?\" He (ﷺ) said: \"Say:",
+        "translation": "O Allah, forgive me, have mercy on me, keep me safe and sound and grant me provision.",
+        "note": "And he held up his four fingers apart from the thumb and said: \"These will combine your religious and worldly affairs.\""
       },
       "target": {
         "name": "",
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "ক্ষমা, রিযিক ও সুস্থ জীবন লাভের দোয়া",
+        "content": "এক ব্যক্তি নবী (ﷺ)-এর কাছে এসে বলে, “হে আল্লাহ্‌র রাসূল (ﷺ) আমার রবের কাছে কিছু চাওয়ার সময়, কীভাবে (কী) বলব?” নবী (ﷺ) বলেন, তুমি বলো -",
+        "translation": "হে আল্লাহ্‌! আমাকে ক্ষমা করে দাও; আমার উপর দয়া করো; আমাকে সুস্থ রাখো এবং আমার জীবনোপকরণ জুগিয়ে দাও!",
+        "note": "এরপর তিনি বৃদ্ধাঙ্গুলি ছাড়া অন্য আঙুলসমূহ একসঙ্গে করে বলেন, “এসব (দোয়া) তোমার দুনিয়া ও আখিরাত একত্র করে দেবে।”"
       }
     },
     {
       "key": [
-        795
+        772
       ],
-      "id": 795,
+      "id": 772,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 795,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ اصْرَعْهُ",
-        "indopak": "اَللّٰهُمَّ اصْرَعْهُ",
-        "clean": "اللهم اصرعه",
-        "transliteration": "Allahum-mas ra'hu",
-        "reference": "Bukhari: 3911",
-        "audio": 795,
-        "cat_id": 39,
-        "subcat_id": 111
+        "id": 772,
+        "groups": "[{\"id\": 772, \"name\": null, \"cat_id\": 38, \"subcat_id\": 110, \"content\": \"Then  Prophet (\\ufdfa) said, \\u201cAllah sent down such ten ayahs upon me, whomsoever implicate these ayahs he will enter paradise.\\u201d Then he recited those ayahs:\", \"uthmani\": \"\\u0642\\u064e\\u062f\\u0652 \\u0623\\u064e\\u0641\\u0652\\u0644\\u064e\\u062d\\u064e \\u0627\\u0644\\u0652\\u0645\\u064f\\u0624\\u0652\\u0645\\u0650\\u0646\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0661\\ufd3e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0641\\u0650\\u064a \\u0635\\u064e\\u0644\\u064e\\u0627\\u062a\\u0650\\u0647\\u0650\\u0645\\u0652 \\u062e\\u064e\\u0627\\u0634\\u0650\\u0639\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0662\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0639\\u064e\\u0646\\u0650 \\u0627\\u0644\\u0644\\u0651\\u064e\\u063a\\u0652\\u0648\\u0650 \\u0645\\u064f\\u0639\\u0652\\u0631\\u0650\\u0636\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0663\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0644\\u0650\\u0644\\u0632\\u0651\\u064e\\u0643\\u064e\\u0627\\u0629\\u0650 \\u0641\\u064e\\u0627\\u0639\\u0650\\u0644\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0664\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0644\\u0650\\u0641\\u064f\\u0631\\u064f\\u0648\\u062c\\u0650\\u0647\\u0650\\u0645\\u0652 \\u062d\\u064e\\u0627\\u0641\\u0650\\u0638\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0665\\ufd3e \\u0625\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0639\\u064e\\u0644\\u064e\\u0649\\u0670 \\u0623\\u064e\\u0632\\u0652\\u0648\\u064e\\u0627\\u062c\\u0650\\u0647\\u0650\\u0645\\u0652 \\u0623\\u064e\\u0648\\u0652 \\u0645\\u064e\\u0627 \\u0645\\u064e\\u0644\\u064e\\u0643\\u064e\\u062a\\u0652 \\u0623\\u064e\\u064a\\u0652\\u0645\\u064e\\u0627\\u0646\\u064f\\u0647\\u064f\\u0645\\u0652 \\u0641\\u064e\\u0625\\u0650\\u0646\\u0651\\u064e\\u0647\\u064f\\u0645\\u0652 \\u063a\\u064e\\u064a\\u0652\\u0631\\u064f \\u0645\\u064e\\u0644\\u064f\\u0648\\u0645\\u0650\\u064a\\u0646\\u064e \\ufd3f\\u0666\\ufd3e \\u0641\\u064e\\u0645\\u064e\\u0646\\u0650 \\u0627\\u0628\\u0652\\u062a\\u064e\\u063a\\u064e\\u0649\\u0670 \\u0648\\u064e\\u0631\\u064e\\u0627\\u0621\\u064e \\u0630\\u064e\\u0670\\u0644\\u0650\\u0643\\u064e \\u0641\\u064e\\u0623\\u064f\\u0648\\u0644\\u064e\\u0670\\u0626\\u0650\\u0643\\u064e \\u0647\\u064f\\u0645\\u064f \\u0627\\u0644\\u0652\\u0639\\u064e\\u0627\\u062f\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0667\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0644\\u0650\\u0623\\u064e\\u0645\\u064e\\u0627\\u0646\\u064e\\u0627\\u062a\\u0650\\u0647\\u0650\\u0645\\u0652 \\u0648\\u064e\\u0639\\u064e\\u0647\\u0652\\u062f\\u0650\\u0647\\u0650\\u0645\\u0652 \\u0631\\u064e\\u0627\\u0639\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0668\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0639\\u064e\\u0644\\u064e\\u0649\\u0670 \\u0635\\u064e\\u0644\\u064e\\u0648\\u064e\\u0627\\u062a\\u0650\\u0647\\u0650\\u0645\\u0652 \\u064a\\u064f\\u062d\\u064e\\u0627\\u0641\\u0650\\u0638\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0669\\ufd3e \\u0623\\u064f\\u0648\\u0644\\u064e\\u0670\\u0626\\u0650\\u0643\\u064e \\u0647\\u064f\\u0645\\u064f \\u0627\\u0644\\u0652\\u0648\\u064e\\u0627\\u0631\\u0650\\u062b\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0661\\u0660\\ufd3e\", \"indopak\": \"\\u0642\\u064e\\u062f\\u0652 \\u0627\\u064e\\u0641\\u0652\\u0644\\u064e\\u062d\\u064e \\u0627\\u0644\\u0652\\u0645\\u064f\\u0624\\u0652\\u0645\\u0650\\u0646\\u064f\\u0648\\u0652\\u0646\\u064e \\u06d9\\ufd3f\\u06f1\\ufd3e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u06cc\\u0652\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0641\\u0650\\u06cc\\u0652 \\u0635\\u064e\\u0644\\u064e\\u0627\\u062a\\u0650\\u0647\\u0650\\u0645\\u0652 \\u062e\\u0670\\u0634\\u0650\\u0639\\u064f\\u0648\\u0652\\u0646\\u064e \\u06d9\\ufd3f\\u06f2\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u06cc\\u0652\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0639\\u064e\\u0646\\u0650 \\u0627\\u0644\\u0644\\u0651\\u064e\\u063a\\u0652\\u0648\\u0650 \\u0645\\u064f\\u0639\\u0652\\u0631\\u0650\\u0636\\u064f\\u0648\\u0652\\u0646\\u064e \\ufd3f\\u06d9\\u06f3\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u06cc\\u0652\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0644\\u0650\\u0644\\u0632\\u0651\\u064e\\u0643\\u0670\\u0648\\u0629\\u0650 \\u0641\\u0670\\u0639\\u0650\\u0644\\u064f\\u0648\\u0652\\u0646\\u064e \\u06d9\\ufd3f\\u06f4\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u06cc\\u0652\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0644\\u0650\\u0641\\u064f\\u0631\\u064f\\u0648\\u0652\\u062c\\u0650\\u0647\\u0650\\u0645\\u0652 \\u062d\\u0670\\u0641\\u0650\\u0638\\u064f\\u0648\\u0652\\u0646\\u064e \\u06d9\\ufd3f\\u06f5\\ufd3e \\u0627\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0639\\u064e\\u0644\\u0670\\u06e4\\u06cc \\u0627\\u064e\\u0632\\u0652\\u0648\\u064e\\u0627\\u062c\\u0650\\u0647\\u0650\\u0645\\u0652 \\u0627\\u064e\\u0648\\u0652 \\u0645\\u064e\\u0627 \\u0645\\u064e\\u0644\\u064e\\u0643\\u064e\\u062a\\u0652 \\u0627\\u064e\\u06cc\\u0652\\u0645\\u064e\\u0627\\u0646\\u064f\\u0647\\u064f\\u0645\\u0652 \\u0641\\u064e\\u0627\\u0650\\u0646\\u0651\\u064e\\u0647\\u064f\\u0645\\u0652 \\u063a\\u064e\\u06cc\\u0652\\u0631\\u064f \\u0645\\u064e\\u0644\\u064f\\u0648\\u0652\\u0645\\u0650\\u06cc\\u0652\\u0646\\u064e \\u06da\\ufd3f\\u06f6\\ufd3e \\u0641\\u064e\\u0645\\u064e\\u0646\\u0650 \\u0627\\u0628\\u0652\\u062a\\u064e\\u063a\\u0670\\u06cc \\u0648\\u064e\\u0631\\u064e\\u0627\\u0653\\u0621\\u064e \\u0630\\u0670\\u0644\\u0650\\u0643\\u064e \\u0641\\u064e\\u0627\\u064f\\u0648\\u0644\\u0670\\u0653\\u0626\\u0650\\u0643\\u064e \\u0647\\u064f\\u0645\\u064f \\u0627\\u0644\\u0652\\u0639\\u0670\\u062f\\u064f\\u0648\\u0652\\u0646\\u064e \\u06da\\ufd3f\\u06f7\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u06cc\\u0652\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652  \\u0644\\u0650\\u0627\\u064e\\u0645\\u0670\\u0646\\u0670\\u062a\\u0650\\u0647\\u0650\\u0645\\u0652 \\u0648\\u064e\\u0639\\u064e\\u0647\\u0652\\u062f\\u0650\\u0647\\u0650\\u0645\\u0652 \\u0631\\u0670\\u0639\\u064f\\u0648\\u0652\\u0646\\u064e \\u06d9\\ufd3f\\u06f8\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u06cc\\u0652\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0639\\u064e\\u0644\\u0670\\u06cc \\u0635\\u064e\\u0644\\u064e\\u0648\\u0670\\u062a\\u0650\\u0647\\u0650\\u0645\\u0652 \\u06cc\\u064f\\u062d\\u064e\\u0627\\u0641\\u0650\\u0638\\u064f\\u0648\\u0652\\u0646\\u064e  \\u06d8\\ufd3f\\u06f9\\ufd3e\\u0627\\u064f\\u0648\\u0644\\u0670\\u0653\\u0626\\u0650\\u0643\\u064e \\u0647\\u064f\\u0645\\u064f \\u0627\\u0644\\u0652\\u0648\\u0670\\u0631\\u0650\\u062b\\u064f\\u0648\\u0652\\u0646\\u064e \\ufd3f\\u06d9\\u06f1\\u06f0\\ufd3e\", \"clean\": \"\\u0642\\u062f \\u0627\\u0641\\u0644\\u062d \\u0627\\u0644\\u0645\\u0621\\u0645\\u0646\\u0648\\u0646  \\u0627\\u0644\\u0630\\u0646 \\u0647\\u0645 \\u0641 \\u0635\\u0644\\u0627\\u062a\\u0647\\u0645 \\u062e\\u0634\\u0639\\u0648\\u0646  \\u0648\\u0627\\u0644\\u0630\\u0646 \\u0647\\u0645 \\u0639\\u0646 \\u0627\\u0644\\u0644\\u063a\\u0648 \\u0645\\u0639\\u0631\\u0636\\u0648\\u0646  \\u0648\\u0627\\u0644\\u0630\\u0646 \\u0647\\u0645 \\u0644\\u0644\\u0632\\u0643\\u0648\\u0647 \\u0641\\u0639\\u0644\\u0648\\u0646  \\u0648\\u0627\\u0644\\u0630\\u0646 \\u0647\\u0645 \\u0644\\u0641\\u0631\\u0648\\u062c\\u0647\\u0645 \\u062d\\u0641\\u0638\\u0648\\u0646  \\u0627\\u0644\\u0627 \\u0639\\u0644 \\u0627\\u0632\\u0648\\u0627\\u062c\\u0647\\u0645 \\u0627\\u0648 \\u0645\\u0627 \\u0645\\u0644\\u0643\\u062a \\u0627\\u0645\\u0627\\u0646\\u0647\\u0645 \\u0641\\u0627\\u0646\\u0647\\u0645 \\u063a\\u0631 \\u0645\\u0644\\u0648\\u0645\\u0646  \\u0641\\u0645\\u0646 \\u0627\\u0628\\u062a\\u063a \\u0648\\u0631\\u0627\\u0621 \\u0630\\u0644\\u0643 \\u0641\\u0627\\u0648\\u0644\\u0621\\u0643 \\u0647\\u0645 \\u0627\\u0644\\u0639\\u062f\\u0648\\u0646  \\u0648\\u0627\\u0644\\u0630\\u0646 \\u0647\\u0645  \\u0644\\u0627\\u0645\\u0646\\u062a\\u0647\\u0645 \\u0648\\u0639\\u0647\\u062f\\u0647\\u0645 \\u0631\\u0639\\u0648\\u0646  \\u0648\\u0627\\u0644\\u0630\\u0646 \\u0647\\u0645 \\u0639\\u0644 \\u0635\\u0644\\u0648\\u062a\\u0647\\u0645 \\u062d\\u0627\\u0641\\u0638\\u0648\\u0646  \\u0627\\u0648\\u0644\\u0621\\u0643 \\u0647\\u0645 \\u0627\\u0644\\u0648\\u0631\\u062b\\u0648\\u0646 \", \"transliteration\": null, \"translation\": \"(1) Certainly will the believers have succeeded: (2) They who are during their prayer humbly submissive (3) And they who turn away from ill speech (4) And they who are observant of zakah (5) And they who guard their private parts (6) Except from their wives or those their right hands possess, for indeed, they will not be blamed - (7) But whoever seeks beyond that, then those are the transgressors - (8) And they who are to their trusts and their promises attentive (9) And they who carefully maintain their prayers - (10) Those are the inheritors. (Sura Muminun 23:1-10)\", \"note\": null, \"reference\": \"Hasan (Bagawi). Sharhus Sunnah: 3/154\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "اَللَّهُمَّ زِدْنَا وَلَا تَنْقُصْنَا وَأَكْرِمْنَا وَلَا تُهِنَّا وَأَعْطِنَا وَلَا تَحْرِمْنَا وَآثِرْنَا وَلَا تُؤْثِرْ عَلَيْنَا وَأَرْضِنَا وَارْضَ عَنَّا",
+        "indopak": "اَللّٰهُمَّ زِدْنَا وَلَا تَنْقُصْنَا وَاَكْرِمْنَا وَلَا تُهِنَّا وَاَعْطِنَا وَلَا تَحْرِمْنَا وَاٰثِرْنَا وَلَا تُؤْثِرْ عَلَيْنَا وَاَرْضِنَا وَارْضَ عَنَّا",
+        "clean": "اللهم زدنا ولا تنقصنا واكرمنا ولا تهنا واعطنا ولا تحرمنا واثرنا ولا توثر علينا وارضنا وارض عنا",
+        "transliteration": "Allaahumma zidnaa wa laa tanqusnaa wa akrimnaa walaa tuhinnaa wa a'tinaa wa laa ta’hrimnaa wa a-thirnaa walaa tu'thir alaynaa wa ardinaa war-da ‘annaa",
+        "reference": null,
+        "audio": 772,
+        "cat_id": 38,
+        "subcat_id": 110
       },
       "source": {
-        "name": "Dua of the Prophet (ﷺ) against Suraka Ibn Malik",
+        "name": "Dua to seek blessings, honor and satisfaction from Allah",
+        "content": "Narrated Anas Ibn Malik (RA): The Prophet (ﷺ) used to recite these supplications:",
+        "translation": "O Allah! Increase us [in Your Blessings and rewards] and do not decrease us, Honour us and do not humiliate us, give us [from Your Gifts] and do not deprive us, be in Favour of us and not against us, and make us satisfied and be satisfied with us.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "বরকত, সম্মান ও সন্তুষ্টি চাওয়ার দোয়া",
+        "content": "আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত, নবী (ﷺ) এসব দোয়া পড়তেন -",
+        "translation": "হে আল্লাহ্‌! আমাদের বাড়িয়ে দাও, কমিয়ে দিয়ো না; আমাদের সম্মানিত করো, অপমানিত করো না; আমাদের দাও, বঞ্চিত করো না; আমাদের প্রাধান্য দাও, আমাদের উপর কাউকে প্রাধান্য দিয়ো না; আমাদের সন্তুষ্ট করো এবং আমাদের উপর সন্তুষ্ট হও।"
+      },
+      "group_items": [
+        {
+          "group": 0,
+          "key": "content",
+          "source": "Then  Prophet (ﷺ) said, “Allah sent down such ten ayahs upon me, whomsoever implicate these ayahs he will enter paradise.” Then he recited those ayahs:",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "translation",
+          "source": "(1) Certainly will the believers have succeeded: (2) They who are during their prayer humbly submissive (3) And they who turn away from ill speech (4) And they who are observant of zakah (5) And they who guard their private parts (6) Except from their wives or those their right hands possess, for indeed, they will not be blamed - (7) But whoever seeks beyond that, then those are the transgressors - (8) And they who are to their trusts and their promises attentive (9) And they who carefully maintain their prayers - (10) Those are the inheritors. (Sura Muminun 23:1-10)",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        773
+      ],
+      "id": 773,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 773,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَحْسَنْتَ خَلْقِيْ فَأَحْسِنْ خُلُقِيْ",
+        "indopak": "اَللّٰهُمَّ اَحْسَنْتَ خَلْقِيْ فَاَحْسِنْ خُلُقِيْ",
+        "clean": "اللهم احسنت خلقي فاحسن خلقي",
+        "transliteration": "Allaahumma a’hsanta khalqi fa a’hsin khuluqi",
+        "reference": "Sahih (Albani). Ahmad: 24392",
+        "audio": 773,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua to seek good character",
+        "content": "The Messenger of Allah (ﷺ) used to say:",
+        "translation": "O Allah, you have perfected my creation, so too perfect my character.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "উত্তম চরিত্র চাওয়ার দোয়া",
+        "content": "আল্লাহ্‌র রাসূল (ﷺ) বলতেন -",
+        "translation": "হে আল্লাহ্‌! তুমি আমার দেহকাঠামো সুন্দর করেছে, সুতরাং আমার স্বভাবচরিত্র সুন্দর করে দাও।"
+      }
+    },
+    {
+      "key": [
+        774
+      ],
+      "id": 774,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 774,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ ثَبِّتْهُ وَاجْعَلْهُ هَادِيًا مَهْدِيًّا",
+        "indopak": "اَللّٰهُمَّ ثَبِّتْهٗ وَاجْعَلْهٗ هَادِيًا مَّهْدِيَّا",
+        "clean": "اللهم ثبته واجعله هاديا مهديا",
+        "transliteration": "Allaahumma thabbithu waj'alhu haadiyan mahdiyan",
+        "reference": "Bukhari: 4356",
+        "audio": 774,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Seeking stability and the right direction for someone",
         "content": null,
-        "translation": "O Allah! Cause him to fall down.",
-        "note": "Narrated by Anas bin Malik (RA): Allah's Messenger (ﷺ) arrived at Medina with Abu Bakr (RA), riding behind him on the same camel. Abu Bakr (RA) was an elderly man known to the people, while Allah's Messenger (ﷺ) was a youth that was unknown. Thus, if a man met Abu Bakr (RA), he would say, \"O Abu Bakr! Who is this man in front of you?\" Abu Bakr (RA) would say, \"This man shows me the Way,\" One would think that Abu Bakr (RA) meant the road, while in fact, Abu Bakr (RA) meant the way of virtue and good. Then Abu Bakr (RA) looked behind and saw a horse-rider pursuing them. He said, \"O Allah's Messenger (ﷺ)! This is a horse-rider pursuing us.\" The Prophet (ﷺ) looked behind and said - (The dua is mentioned above)"
+        "translation": "O Allah! Make him firm and make him a guiding and a rightly guided man.",
+        "note": "Narrated by Qais (R): Jarir (RA) said to me, The Prophet (ﷺ) said to me, \"Won't you relieve me from Dhu-l-Khalasa?\" And that was a house (in Yemem belonging to the tribe of) Khatham called Al-Ka`ba Al Yamaniya. I proceeded with one-hundred and-fifty cavalry from Ahmas (tribe) who were horse riders. I used not to sit firm on horses, so the Prophet (ﷺ) stroke me over my chest till I saw the mark of his fingers over my chest, and then he said: (The dua is mentioned above)"
       },
       "target": {
         "name": "",
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "কারও জন্যে স্থিরতা, ও সঠিক পথের দিশা চাওয়া",
+        "translation": "হে আল্লাহ্‌! তুমি তাকে স্থিরতা দাও, এবং তাকে (সঠিক পথের) দিশারী ও দিশাপ্রাপ্ত বানিয়ে দাও।",
+        "note": "ক্বায়স (রহঃ) থেকে বর্ণিতঃ তিনি বলেন, জারীর (রাঃ) থেকে আমাকে বলেছেন যে, নবী (ﷺ) তাঁকে বললেন, তুমি কি আমাকে যুল খালাসা থেকে স্বস্তি দেবে না? যুল খালাসা ছিল খাসআম গোত্রের একটি ঘর, যার নাম দেয়া হয়েছিল ইয়ামানী কা'বা। এ কথা শুনে আমি আহ্‌মাস গোত্র থেকে একশ' পঞ্চাশ জন অশ্বারোহী সৈন্য নিয়ে চললাম। তাঁদের সকলেই অশ্ব পরিচালনায় পারদর্শী ছিল। আর আমি তখন ঘোড়ার পিঠে স্থিরভাবে বসতে পারছিলাম না। কাজেই নবী (ﷺ) আমার বুকের উপর হাত দিয়ে আঘাত করলেন। এমন কি আমি আমার বুকের উপর তার আঙ্গুলগুলোর ছাপ পর্যন্ত দেখতে পেলাম। তিনি দোয়া করলেন - (উপরে দোয়াটি উল্লেখিত হয়েছে)"
       }
     },
     {
       "key": [
-        796
+        775
       ],
-      "id": 796,
+      "id": 775,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 796,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ أَنْجِزْ لِي مَا وَعَدْتَنِي اَللَّهُمَّ آتِ مَا وَعَدْتَنِي اَللَّهُمَّ إِنْ تُهْلِكْ هَذِهِ الْعِصَابَةَ مِنْ أَهْلِ الْإِسْلَامِ لَا تُعْبَدُ فِي الْأَرْضِ",
-        "indopak": "اَللّٰهُمَّ اَنْجِزْ لِيْ مَا وَعَدْتَّنِيْ اَللّٰهُمَّ اٰتِ مَا وَعَدْتَّنِيْ اَللّٰهُمَّ اِنْ تُهْلِكْ هٰذِهِ الْعِصَابَةَ مِنْ اَهْلِ الْاِسْلَامِ لَا تُعْبَدُ فِيْ الْاَرْضِ",
-        "clean": "اللهم انجز لي ما وعدتني اللهم ات ما وعدتني اللهم ان تهلك هذه العصابه من اهل الاسلام لا تعبد في الارض",
-        "transliteration": "Allaahumma anjiz li ma wa ‘adtani, Allaahumma aati ma wa ‘adtani, Allaahumma in tuhlik hadhi-hil 'ishabata min ahlil Islaami, la tu'badu fil ardi",
-        "reference": "Muslim: 1763",
-        "audio": 796,
-        "cat_id": 39,
-        "subcat_id": 111
-      },
-      "source": {
-        "name": "Dua of the Prophet (ﷺ) on the day of the battle of Badr",
-        "content": null,
-        "translation": "O Allah! Fulfill what You promised for me. [O Allah! Bring about what You promised for me] O Allah! If you destroy this band of adherents to Islam, you will not be worshiped upon the earth.",
-        "note": "It has been narrated on the authority of `Umar bin al-Khattab (RA) who said: When it was the day on which the Battle of Badr was fought, the Messenger of Allah (ﷺ) cast a glance at the infidels, and they were one thousand while his own Companions were three hundred and nineteen. The Prophet (ﷺ) turned (his face) towards the Qibla. Then he stretched his hands and began his supplication to his Lord: (The dua mentioned above)"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        797
-      ],
-      "id": 797,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 797,
-        "groups": null,
-        "uthmani": "إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ",
-        "indopak": "اِذْ تَسْتَغِيْثُوْنَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ اَنِّيْ مُمِدُّكُمْ بِاَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِيْنَ",
-        "clean": "اذ تستغيثون ربكم فاستجاب لكم اني ممدكم بالف من الملاءكه مردفين",
-        "transliteration": null,
-        "reference": "Muslim: 1763",
-        "audio": 797,
-        "cat_id": 39,
-        "subcat_id": 111
-      },
-      "source": {
-        "name": "The supplication of the believers and the help of Allah",
-        "content": null,
-        "translation": "[Remember] when you asked help of your Lord, and He answered you, \"Indeed, I will reinforce you with a thousand from the angels, following one another.\" (Sura Anfal 8:9)",
-        "note": "He (Rasulullah ﷺ) continued his supplication to his Lord, stretching his hands, facing the Qibla, until his mantle slipped down from his shoulders. So Abu Bakr (RA) came to him, picked up his mantle and put it on his shoulders. Then he embraced him from behind and said: O Prophet of Allah (ﷺ), this prayer of yours to your Lord will suffice you, and He will fulfill for you what He has promised you. So Allah, the Glorious and Exalted, revealed (the Qur'anic verse): (The ayaat is mentioned above) \n\nSo Allah helped him with angels."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        798
-      ],
-      "id": 798,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 798,
+        "id": 775,
         "groups": null,
         "uthmani": null,
         "indopak": null,
         "clean": "",
         "transliteration": null,
-        "reference": "[1] Name of the horse carrying the angel (translator)\n[2] Muslim: 1763",
+        "reference": "Bukhari: 2790",
         "audio": null,
-        "cat_id": 39,
-        "subcat_id": 111
+        "cat_id": 38,
+        "subcat_id": 110
       },
       "source": {
-        "name": "Allah's help upon the Mujahideen #1",
-        "content": "Narrated to him by Ibn `Abbas (RA) who said: While on that day a Muslim was chasing a disbeliever who was going ahead of him, he heard over him the swishing of the whip and the voice of the rider saying: Go ahead, Haizum! [1] He glanced at the polytheist who had (now) fallen down on his back. When he looked at him (carefully he found that) there was a scar on his nose and his face was torn as if it had been lashed with a whip, and had turned green with its poison. An Ansari came to the Messenger of Allah (ﷺ) and related this (event) to him. He said: You have told the truth. This was the help from the third heaven. The Muslims that day (i.e. the day of the Battle of Badr) killed seventy persons and captured seventy. [2]",
+        "name": "The dignity of those who strive in the cause of Allah",
+        "content": "Narrated Abu Huraira (RA): The Prophet (ﷺ) said, \"Whoever believes in Allah and His Apostle, offer prayer perfectly and fasts the month of Ramadan, will rightfully be granted Paradise by Allah, no matter whether he fights in Allah's Cause or remains in the land where he is born.\" The people said, \"O Allah's Messenger (ﷺ)! Shall we acquaint the people with the is good news?\" He (ﷺ) said, \"Paradise has one-hundred grades which Allah has reserved for the Mujahidin who fight in His Cause, and the distance between each of two grades is like the distance between the Heaven and the Earth. So, when you ask Allah (for something), ask for Al-firdaus which is the best and highest part of Paradise.\" The sub-narrator added, \"I think the Prophet (ﷺ) also said, 'Above it (i.e. Al-Firdaus) is the Throne of Beneficent (i.e. Allah), and from it originate the rivers of Paradise.\"",
         "translation": null,
         "note": null
       },
@@ -166,134 +386,10 @@
         "content": "",
         "translation": null,
         "note": null
-      }
-    },
-    {
-      "key": [
-        799
-      ],
-      "id": 799,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 799,
-        "groups": null,
-        "uthmani": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ إِذْ جَاءَتْكُمْ جُنُودٌ فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا وَجُنُودًا لَّمْ تَرَوْهَا ۚ وَكَانَ اللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا ﴿٩﴾ إِذْ جَاءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ الْأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ وَتَظُنُّونَ بِاللَّهِ الظُّنُونَا ﴿١٠﴾ هُنَالِكَ ابْتُلِيَ الْمُؤْمِنُونَ وَزُلْزِلُوا زِلْزَالًا شَدِيدًا ﴿١١﴾",
-        "indopak": "يَا اَيُّهَا الَّذِيْنَ اٰمَنُوا اذْكُرُوْا نِعْمَةَ اللّٰهِ عَلَيْكُمْ اِذْ جَاءَتْكُمْ جُنُوْدٌ فَاَرْسَلْنَا عَلَيْهِمْ رِيْحًا وَجُنُوْدًا لَّمْ تَرَوْهَا ۚ وَكَانَ اللّٰهُ بِمَا تَعْمَلُوْنَ بَصِيْرًا ﴿٩﴾ اِذْ جَاءُوْكُمْ مِّنْ فَوْقِكُمْ وَمِنْ اَسْفَلَ مِنْكُمْ وَاِذْ زَاغَتِ الْاَبْصَارُ وَبَلَغَتِ الْقُلُوْبُ الْحَنَاجِرَ وَتَظُنُّوْنَ بِاللّٰهِ الظُّنُوْنَا ﴿١٠﴾ هُنَالِكَ ابْتُلِيَ الْمُؤْمِنُوْنَ وَزُلْزِلُوْا زِلْزَالًا شَدِيْدًا ﴿١١﴾",
-        "clean": "يا ايها الذين امنوا اذكروا نعمه الله عليكم اذ جاءتكم جنود فارسلنا عليهم ريحا وجنودا لم تروها  وكان الله بما تعملون بصيرا ٩ اذ جاءوكم من فوقكم ومن اسفل منكم واذ زاغت الابصار وبلغت القلوب الحناجر وتظنون بالله الظنونا ١٠ هنالك ابتلي المءمنون وزلزلوا زلزالا شديدا ١١",
-        "transliteration": null,
-        "reference": "[1] Surah Al-Ahzab 33: 9-11\n[2] Jadul Ma'ad: 3/274",
-        "audio": 799,
-        "cat_id": 39,
-        "subcat_id": 111
       },
-      "source": {
-        "name": "Allah's help upon the Mujahideen #2",
-        "content": null,
-        "translation": "(9) O you who have believed, remember the favor of Allah upon you when armies came to [attack] you and We sent upon them a wind and armies [of angels] you did not see. And ever is Allah, of what you do, Seeing. (10) [Remember] when they came at you from above you and from below you, and when eyes shifted [in fear], and hearts reached the throats and you assumed about Allah [various] assumptions. (11) There the believers were tested and shaken with a severe shaking.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        800
-      ],
-      "id": 800,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 800,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ مُنْزِلَ الْكِتَابِ سَرِيعَ الْحِسَابِ اِهْزِمِ الْأَحْزَابَ اَللَّهُمَّ اهْزِمْهُمْ وَزَلْزِلْهُمْ",
-        "indopak": "اَللّٰهُمَّ مُنْزِلَ الْكِتَابِ سَرِيْعَ الْحِسَابِ اِهْزِمِ الْاَحْزَابَ اَللّٰهُمَّ اهْزِمْهُمْ وَزَلْزِلْهُمْ",
-        "clean": "اللهم منزل الكتاب سريع الحساب اهزم الاحزاب اللهم اهزمهم وزلزلهم",
-        "transliteration": "Allaahumma munzilal-kitaabi, saree'al-hisaabi, ihzimil-'ahzaaba, Allaahummah zimhum wa zalzilhum.",
-        "reference": "Muslim: 1742",
-        "audio": 800,
-        "cat_id": 39,
-        "subcat_id": 111
-      },
-      "source": {
-        "name": "Dua of the Prophet (ﷺ) on the day of the battle of Ahzab",
-        "content": null,
-        "translation": "O Allah, Revealer of the Book, swift in (taking) account, put the tribes to rout. O Lord, defeat them and shake them.",
-        "note": "In the battle of Ahzaab, those who fought with The Messenger of Allah (ﷺ), they were five kinds: Polytheists of Makkah, Polytheists of various tribes of Arab, Jews who came from outside the madina, Banu Quraiza and the hypocrites. There were ten thousands disbelievers in the front of trench and with the Prophet (ﷺ), there were three thousands Muslims. The disbelievers surrounded Prophet (ﷺ) for 1 month. There was no fighting between them, but there was an incident where a fighting took place Ali ibn Abi Taalib (RA) with Amar ibn Udd Amiri. Ali (RA) killed him. This was the fourth year after Hijrah. In that battle The Messenger of Allah (ﷺ) invoked Allah against them - (The dua is mentioned above)"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        801
-      ],
-      "id": 801,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 801,
-        "groups": null,
-        "uthmani": "شَاهَتِ الْوُجُوْهُ",
-        "indopak": "شَاهَتِ الْوُجُوْهُ",
-        "clean": "شاهت الوجوه",
-        "transliteration": "Shaahatil wujooh",
-        "reference": "Muslim: 1777",
-        "audio": 801,
-        "cat_id": 39,
-        "subcat_id": 111
-      },
-      "source": {
-        "name": "Dua of the Prophet (ﷺ) on the day of the battle of Hunain",
-        "content": null,
-        "translation": "May these faces be deformed!",
-        "note": "This hadith has been narrated on the authority of Salama ibnul akwa (RA) who said: We fought by the side of the Messenger of Allah (ﷺ) at Hunain. When we encountered the enemy, the Messenger of Allah (ﷺ) got down from his mule. picked up a handful of dust from the ground, threw it into their (enemy) faces and said: (the dua is mentioned above)\n\nThere was no one among the enemy whose eyes were not filled with the dust from this handful. So, they turned back fleeing. and Allah the Exalted and Glorious defeated them, and the Messenger of Allah (ﷺ) distributed their booty among the Muslims."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        802
-      ],
-      "id": 802,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 802,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ جَهْدِ الْبَلَاءِ وَدَرَكِ الشَّقَاءِ وَسُوْءِ الْقَضَاءِ وَشَمَاتَةِ الْأَعْدَاءِ",
-        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنْ جَهْدِ الْبَلَاءِ وَدَرَكِ الشَّقَاءِ وَسُوْءِ الْقَضَاءِ وَشَمَاتَةِ الْاَعْدَاءِ",
-        "clean": "اللهم اني اعوذ بك من جهد البلاء ودرك الشقاء وسوء القضاء وشماته الاعداء",
-        "transliteration": "Allaahumma innee ‘a’oodhu bika min jahdil-balaa’i, wa darakish-shaqaa’i, wa soo’il qadhaa’i, wa shamaatatil-‘a’adaa",
-        "reference": "Bukhari: 6347",
-        "audio": 802,
-        "cat_id": 40,
-        "subcat_id": 112
-      },
-      "source": {
-        "name": "Blessed masnun dua #1",
-        "content": null,
-        "translation": "O Allah, I seek refuge with Allah from the difficult moment of a calamity and from being overtaken by destruction and from being destined to an evil end, and from the malicious joy of enemies.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
+      "reference_bn": {
+        "name": "আল্লাহর পথে জিহাদকারীদের মর্যাদা",
+        "content": "আবু হুরায়রা (রাঃ) থেকে বর্ণিত, নবী (ﷺ) বলেন, যে- \"ব্যক্তি আল্লাহ্‌ ও তাঁর রাসূল (ﷺ)-কে মেনে নেয়, সালাত প্রতিষ্ঠা করে, রমাদান মাসে সিয়াম পালন করে, সে আল্লাহ্‌র রাস্তায় হিজরত করুক, কিংবা নিজ জন্মভূমিতে বসে থাকুক-তাকে জান্নাতে প্রবেশ করানো আল্লাহ্‌ তা'আলার দায়িত্ব। সাহাবীগণ বলেন, “আমরা কি লোকদেরকে এ সংবাদ দেবো না?” নবী (ﷺ) বলেন, “জান্নাতে একশ মর্যাদা আছে, যা আল্লাহ্‌ তা'আলা তাঁর পথে জিহাদকারীদের জন্য প্রস্তুত করে রেখেছেন। প্রতি দুটি মর্যাদার মাঝখানে ব্যবধান হলো আকাশ ও পৃথিবীর মধ্যকার ব্যবধানের মতো। তোমরা আল্লাহ্‌র কাছে চাইলে, (জান্নাতুল) ফিরদাউস চাইবে; কারণ তা হলো জান্নাতের মধ্যমণি এবং জান্নাতের মধ্যে সর্বোচ্চ স্তর; সনদের বর্ণনাকারী বলেন, আমার মনে হয় নবী (ﷺ) আরও বলেছেন, এর উপর রয়েছে দয়াময়ের আরশ; সেখান থেকে প্রবাহিত হয় জান্নাতের ঝরনাসমূহ৷”"
       }
     }
   ]

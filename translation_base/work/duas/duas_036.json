@@ -4,32 +4,106 @@
   "source_language": "en",
   "target_language": "TARGET",
   "status": "pending",
-  "rows": 16,
-  "id_range": "518-533",
-  "source_chars": 5983,
+  "rows": 15,
+  "id_range": "495-509",
+  "source_chars": 5913,
   "items": [
     {
       "key": [
-        518
+        495
       ],
-      "id": 518,
+      "id": 495,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 518,
+        "id": 495,
+        "groups": null,
+        "uthmani": "سُبْحَانَكَ اَللَّهُمَّ وَبِحَمْدِكَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ",
+        "indopak": "سُبْحَانَكَ اَللّٰهُمَّ وَبِحَمْدِكَ اَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اَنْتَ اَسْتَغْفِرُكَ وَاَتُوْبُ اِلَيْكَ",
+        "clean": "سبحانك اللهم وبحمدك اشهد ان لا اله الا انت استغفرك واتوب اليك",
+        "transliteration": "Subhaanaka Allaahumma wa bihamdika, 'ash-hadu 'an laa 'ilaaha 'illaa 'Anta, 'astaghfiruka wa 'atoobu 'ilayka",
+        "reference": "Sahih (Albani). Tirmidhi: 3433",
+        "audio": 495,
+        "cat_id": 29,
+        "subcat_id": 90
+      },
+      "source": {
+        "name": "Dua at the end of a sitting/gathering [Kaffaratul Majlis]",
+        "content": null,
+        "translation": "Glory is to You, O Allah, and praise is to You. I bear witness that there is none worthy of worship but You. I seek Your forgiveness and repent to You.",
+        "note": "It is narrated in different authentic chains by the Companions like Abdullah Ibn Amr Ibn Al-As (RA), Abu Barzah Aslami (RA), Abu Hurairah (RA) that the Prophet (ﷺ) used to say these words before leaving the meeting at the end of the meeting. He said, \"If anyone says these words while getting up from a meeting, it will be an expiation for the meeting. Because of this, Allah Almighty will forgive the unlawful speech and sins of that meeting."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "আখিরী দোয়া ও মাজলিসের কাফফারা",
+        "translation": "মহাপবিত্রতা আপনার, হে আল্লাহ্‌, এবং আপনারই প্রশংসা, আমি সাক্ষ্য দিচ্ছি যে, আপনি ছাড়া কোন প্রকৃত মাবুদ নেই, আমি আপনার কাছে ক্ষমা চাচ্ছি এবং তাওবা করছি।",
+        "note": "আব্দুল্লাহ ইবন আমর ইবনুল আস (রাঃ), আবূ বারযা আসলামী (রাঃ), আবু হুরাইরা (রাঃ) প্রমুখ সাহাবী থেকে পৃথক সহীহ সনদে বর্ণিত যে, রাসূলুল্লাহ্‌ (ﷺ) মাজলিসের শেষে মাজলিস থেকে উঠার আগে এ কথাগুলি বলতেন। তিনি বলেছেন, কোনো মাজলিস বা বৈঠক থেকে উঠার সময় যদি কেউ এ কথাগুলো বলে তবে তা মাজলিসের কাফফারা হবে, এর কারণে মহান আল্লাহ্‌ ঐ মাজলিসের অন্যায় কথাবার্তা ও পাপগুলো ক্ষমা করবেন।"
+      }
+    },
+    {
+      "key": [
+        496
+      ],
+      "id": 496,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 496,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اقْسِمْ لَنَا مِنْ خَشْيَتِكَ مَا يَحُولُ بَيْنَنَا وَبَيْنَ مَعَاصِيْكَ وَمِنْ طَاعَتِكَ مَا تُبَلِّغُنَا بِهِ جَنَّتَكَ وَمِنَ الْيَقِيْنِ مَا تُهَوِّنُ بِهِ عَلَيْنَا مُصِيْبَاتِ الدُّنْيَا وَمَتِّعْنَا بِأَسْمَاعِنَا وَأَبْصَارِنَا وَقُوَّتِنَا مَا أَحْيَيْتَنَا وَاجْعَلْهُ الْوَارِثَ مِنَّا وَاجْعَلْ ثَأْرَنَا عَلَى مَنْ ظَلَمَنَا وَانْصُرْنَا عَلَى مَنْ عَادَانَا وَلَا تَجْعَلْ مُصِيْبَتَنَا فِي دِيْنِنَا وَلَا تَجْعَلِ الدُّنْيَا أَكْبَرَ هَمِّنَا وَلَا مَبْلَغَ عِلْمِنَا وَلَا تُسَلِّطْ عَلَيْنَا مَنْ لَا يَرْحَمُنَا",
+        "indopak": "اَللّٰهُمَّ اقْسِمْ لَنَا مِنْ خَشْيَتِكَ مَا يَحُوْلُ بَيْنَنَا وَبَيْنَ مَعَاصِيْكَ وَمِنْ طَاعَتِكَ مَا تُبَلِّغُنَا بِهٖ جَنَّتَكَ وَمِنَ الْيَقِيْنِ مَا تُهَوِّنُ بِهٖ عَلَيْنَا مُصِيْبَاتِ الدُّنْيَا وَمَتِّعْنَا بِاَسْمَاعِنَا وَاَبْصَارِنَا وَقُوَّتِنَا مَا اَحْيَيْتَنَا وَاجْعَلْهُ الْوَارِثَ مِنَّا وَاجْعَلْ ثَأْرَنَا عَلٰى مَنْ ظَلَمَنَا وَانْصُرْنَا عَلٰى مَنْ عَادَانَا وَلَا تَجْعَلْ مُصِيْبَتَنَا فِيْ دِيْنِنَا وَلَا تَجْعَلِ الدُّنْيَا اَكْبَرَ هَمِّنَا وَلَا مَبْلَغَ عِلْمِنَا وَلَا تُسَلِّطْ عَلَيْنَا مَنْ لَّا يَرْحَمُنَا",
+        "clean": "اللهم اقسم لنا من خشيتك ما يحول بيننا وبين معاصيك ومن طاعتك ما تبلغنا به جنتك ومن اليقين ما تهون به علينا مصيبات الدنيا ومتعنا باسماعنا وابصارنا وقوتنا ما احييتنا واجعله الوارث منا واجعل ثارنا علي من ظلمنا وانصرنا علي من عادانا ولا تجعل مصيبتنا في ديننا ولا تجعل الدنيا اكبر همنا ولا مبلغ علمنا ولا تسلط علينا من لا يرحمنا",
+        "transliteration": "Allaahum-maq-sim la-naa min khash-yatika maa ya'hoolu baynanaa wa bayna ma‛aa-seeka, wa min taa‘a-tika maa tuballi-ghunaa bihi jan-nataka, wa mi-nal-yaqee-ni maa tu-hauwinu bihi ‛alaynaa musib-atid-dunyaa, wa matt'iena bi asmaa‛i-naa, wa absaa-rinaa, wa qoo-wati-naa maa a'h-yay-tanaa, waj‛al-hul-waaritha min-naa, waj‛al tha’ra-naa ‛alaa man zala-manaa, wan-sur-naa ‛alaa man ‛aa-daa-naa, wa laa taj‛al mu-seeba-ta-naa fee dee-ni-naa, wa laa taj‛a-lid-dunyaa akbara ham-minaa, wa laa mab-lagha ‛il-minaa, wa laa tusal-lit ‛alay-naa man laa yar-'hamunaa",
+        "reference": "Hasan (Albani). Tirmidhi: 3502",
+        "audio": 496,
+        "cat_id": 29,
+        "subcat_id": 90
+      },
+      "source": {
+        "name": "Dua at the end of a sitting/gathering",
+        "content": null,
+        "translation": "O Allah, give us such fear that will serve as a barrier between us and acts of disobedience; and give us such obedience that will take us to Your Paradise; and such certainty as will make easy for us to bear in the calamities of this world. O Allah! let us enjoy our hearing, our sight and our strength as long as You keep us alive and keep our senses healthy and sound until the day We die, and make our revenge restricted to those who oppressed us, and support us against those who are hostile to us, and give us not trial in our religion; and let not worldly affairs be our principal concern, or the ultimate limit of our knowledge, and let not those dominate us who do not show mercy to us.",
+        "note": "Abdullah bin Umar (RA) said, The Prophet (ﷺ) used to say this dua before leaving the Majlis and seldom left the Majlis without praying for his companions. This hadith is Hasan. [Tirmidhi (49-Kitabud Dawaat, 80-Baab) 5/ 492-493]\n\nIn another narration, Tabi'i Nafi said, “Abdullah ibn Umar (RA) would not have stood from a meeting without saying these words for the people sitting in the meeting. [Nasai, As-Sunanul Kubra 6/106; Ibn al-Athir, Jamiul Usul 4/279]\n\nIt is to be noted that the Prophet (ﷺ), the Companions of his Majlis, Abdullah Ibn Umar (RA) or the people of his Majlis did not raise their hands in supplication. We have seen that the Companions were very interested and diligent in narrating the Sunnah of the Prophet (ﷺ). They have described if raising hands during supplication is permissible in this particular case. That is why it is proved that the sunnah is not to be raised. \n\nBesides, we have seen that raising the hand during dua is a manners of dua. The Prophet (ﷺ) sometimes supplicated alone and sometimes with the Companions. In the light of this hadith, it is understood that at the end of the meeting, the speaker will say the words of the supplication and the people present will say Amin. If everyone sometimes raises their hands and supplicates, there is no chance of it being considered illegal or bidat. However, depending on the hadith of general virtue, it is bid'ah to consider it necessary to raise one's hand in the case of such duas or to consider it unlawful not to raise one's hand. Since the matter is open, in the light of hadith, the matter must be kept open."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "মাজলিসের আখিরী দোয়া",
+        "translation": "হে আল্লাহ্‌, আপনি আমাদেরকে আপনার ভয় করার তাওফীক দিন যে ভয় আমাদেরকে আপনার অবাধ্যতা থেকে রক্ষা করবে। এবং আপনি আমাদেরকে আপনার আনুগত্য করার তাওফীক প্রদান করুন, যে আনুগত্যের দ্বারা আপনি আমাদেরকে আপনার জান্নাতে পৌছাবেন। এবং আপনি আমাদেরকে দৃঢ় বিশ্বাস প্রদান করুন, যে বিশ্বাস আমাদের জন্য দুনিয়ার বিপদ-আপদকে সহজ করে দেবে। আপনি আমাদের শ্রবণশক্তি, দৃষ্টিশক্তি ও দেহের শক্তিকে আমাদের জন্য মরণ পর্যন্ত অক্ষুন্ন রাখুন এবং এগুলোকে বহাল রেখে আমাদের মৃত্যু দান করুন। যারা আমাদের জুলুম করেছে তাদের উপর আমাদের প্রতিশোধ অর্পণ করুন এবং যারা আমাদের শত্রুতা করেছে তাদের বিরুদ্ধে আমাদের সাহায্য করুন। আমাদের দীনকে বিপদযুক্ত করবেন না, দুনিয়াকে আমাদের চিন্তাভাবনার মূল বিষয় বানাবেন না এবং আমাদের জ্ঞানকে দুনিয়ার মধ্যে সীমাবদ্ধ রাখবেন না। আমাদের প্রতি মমতাবিহীন কাউকে আমাদের উপর ক্ষমতাবান করবেন না।",
+        "note": "আব্দুল্লাহ ইবন উমর (রাঃ) বলেন, “রাসূলুল্লাহ্‌ (ﷺ) মাজলিস থেকে উঠার আগে এ কথা বলে তার সাথীদের জন্য দোয়া না করে খুব কমই মাজলিস ত্যাগ করতেন।” হাদীসটি হাসান। [তিরমিযী (৪৯-কিতাবুদ দাওয়াত, ৮০- বাব) ৫/৪৯২-৪৯৩]\n\nঅন্য বর্ণনায় তাবিয়ী নাফি বলেন, “আব্দুল্লাহ ইবন উমর (রাঃ) কোনো মাজলিসে বসলে মাসলিসে বসা মানুষদের জন্য এ কথাগুলো বলে দোয়া না করে দাঁড়াতেন না। [নাসায়ী, আস-সুনানুল কুবরা ৬/১০৬; ইবনুল আসীর, জামিউল উসূল ৪/২৭৯]\n\nলক্ষণীয় যে, এ দোয়া করার সময় রাসূলুল্লাহ্‌ (ﷺ), তাঁর মাজলিসের সাহাবীগণ, আব্দুল্লাহ ইবন উমর (রাঃ) বা তাঁর মাজলিসের মানুষেরা তাদের হাত উঠিয়ে দোয়া করতেন বলে বর্ণিত হয়নি। আমরা দেখেছি যে, সাহাবীগণ রাসূলুল্লাহ্‌ (ﷺ) এর সুন্নাত বর্ণনায় অত্যন্ত আগ্রহী ও সচেষ্ট থাকতেন। কখনো দোয়ার সময় হাত উঠালে তারা তা বর্ণনা করেছেন। এজন্য যেখানে হাত উঠানোর কথা নেই সেখানে উঠাননি বলেই প্রমাণিত হয়। পাশাপাশি আমরা দেখেছি যে, দোয়ার সময় হাত উঠানো দোয়ার একটি আদব। রাসূলুল্লাহ্‌ (ﷺ) কখনো কখনো একাকী এবং কখনো কখনো সাহাবীদের সাথে হাত তুলে দোয়া করেছেন। হাদীসের আলোকে বুঝা যায় যে, মাজলিসের শেষে আলোচক মুখে দোয়ার বাক্যগুলো বলবেন এবং উপস্থিত মানুষেরা আমীন বলবেন। কখনো যদি সকলে হাত তুলে এ কথাগুলো বলে দোয়া করেন তবে তা অবৈধ বা বিদআত বলে গণ্য করার সুযোগ নেই। তবে সাধারণ ফযীলতের হাদীসের উপর নির্ভর করে এরূপ দোয়ার ক্ষেত্রে হাত উঠানো জরুরী বলে গণ্য করা বা হাত না উঠানোকে দুষণীয় বলে মনে করা বিদআত। হাদীসে যেহেতু বিষয়টি উন্মুক্ত সেহেতু বিষয়টিকে উন্মুক্ত রাখতে হবে।"
+      }
+    },
+    {
+      "key": [
+        497
+      ],
+      "id": 497,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 497,
         "groups": null,
         "uthmani": null,
         "indopak": null,
         "clean": "",
         "transliteration": null,
-        "reference": "Bukhari: 3206",
+        "reference": "Bukhari: 5376",
         "audio": null,
-        "cat_id": 32,
-        "subcat_id": 98
+        "cat_id": 30,
+        "subcat_id": 91
       },
       "source": {
-        "name": "Seeing the clouds condense #1",
-        "content": "If the sky was covered with thick black clouds, the color of the Prophet's (ﷺ) face would change; He would then enter the house, go out, go to the front and then come to the back. Then if it rained (started), his panic would go away. I could tell by the look on his face. Once (about the reason for this) I asked the Prophet (ﷺ). In reply he said, “Aisha! It could even be like the clouds that the people of Aad said when they saw it -\n\n(24) And when they saw it as a cloud approaching their valleys, they said, \"This is a cloud bringing us rain!\" Rather, it is that for which you were impatient: a wind, within it a painful punishment, (25) Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (Sura Al-Ahqaf 46:24-25)",
+        "name": "Etiquette of taking food and drink",
+        "content": "Narrated 'Umar ibn Abi Salamah (RA): I was a boy under the care of the Messenger of Allah (ﷺ). While eating, I would put my hands in different places of the pot. Then the Messenger of Allah (ﷺ) said to me, “This boy! Say Bismillah, eat, and the next part of your right to eat! \"After the meal, I'm going to follow the instructions.",
         "translation": null,
         "note": null
       },
@@ -38,63 +112,72 @@
         "content": "",
         "translation": null,
         "note": null
+      },
+      "reference_bn": {
+        "name": "খাবার ও পানীয় গ্রহণের শিষ্টাচার",
+        "content": "উমর ইবনু আবী সালামা (রাঃ) থেকে বর্ণিত, তিনি বলেন, আমি ছিলাম আল্লাহ্‌র রাসূল (ﷺ)-এর তত্ত্বাবধানে থাকা এক ছেলে। খাওয়ার সময় আমি পাত্রের বিভিন্ন জায়গায় হাত দিতাম। তখন আল্লাহ্‌র রাসূল (ﷺ) আমাকে বলেন, “এই ছেলে! বিসমিল্লাহ্‌ বলো, তোমার ডানদিক থেকে খাও এবং তোমার পাশের অংশ থেকে খাও!\" এর পর থেকে খাওয়ার সময় আমি এ নির্দেশনাগুলো অনুসরণ করে চলেছি।"
       }
     },
     {
       "key": [
-        519
+        498
       ],
-      "id": 519,
+      "id": 498,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 519,
+        "id": 498,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي اَعُوذُبِكَ مِنْ شَرِّهَا",
-        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُبِكَ مِنْ شَرِّهَا",
-        "clean": "اللهم اني اعوذبك من شرها",
-        "transliteration": "Allaahumma inni A‛oodhu bika min sarrihaa",
-        "reference": "Sahih (Albani). Abu Dawud: 5099",
-        "audio": 519,
-        "cat_id": 32,
-        "subcat_id": 98
+        "uthmani": "بِسْمِ اللَّهِ",
+        "indopak": "بِسْمِ اللّٰهِ",
+        "clean": "بسم الله",
+        "transliteration": "Bismillaah",
+        "reference": "Tirmidhi 4/254, no. 1858",
+        "audio": 498,
+        "cat_id": 30,
+        "subcat_id": 92
       },
       "source": {
-        "name": "Seeing the clouds condense #2",
+        "name": "Dua before eating #1.1",
         "content": null,
-        "translation": "O Allah! I seek refuge in Thee from its evil.",
-        "note": "Narrated Aisha (RA), she said, ‘If he saw clouds condensing on one of the horizons of the sky, the Messenger of Allah (ﷺ) would stop all work, even during Salat! Then he would say back to that- (The dua is mentaioned above)"
+        "translation": "In the Name of Allah.",
+        "note": "The Messenger of Allah (ﷺ) was eating with his six Companions when a desert Arab came and ate up the food in two mouthfuls. Messenger of Allah (ﷺ) said, \"Had he mentioned the Name of Allah, it would have sufficed for all of you.\" -(The dua is mentioned above)"
       },
       "target": {
         "name": "",
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "খাওয়ার শুরুতে দোয়া #১.১",
+        "translation": "আল্লাহ্‌র নামে।",
+        "note": "আয়িশা (রাঃ) থেকে বর্ণিত, আল্লাহ্‌র রাসূল (ﷺ) ছয়জন সাহাবীকে সঙ্গে নিয়ে একটি খাবার খাচ্ছিলেন। এমন সময় এক বেদুইন এসে দু' লুকমায় তা খেয়ে ফেলে। এর পরিপ্রেক্ষিতে নবী (ﷺ) বলেন, জেনে রাখো, সে যদি (খাওয়ার শুরুতে) বিসমিল্লাহ (আল্লাহ্‌র নামে) বলতো, তা হলে ওই খাবার তোমাদের সবার জন্য যথেষ্ট হতো। সুতরাং তোমাদের কেউ খাবার খেলে, সে যেন (খাওয়ার শুরুতে) বলে - (উপরে দোয়াটি উল্লেখিত হয়েছে)"
       }
     },
     {
       "key": [
-        520
+        499
       ],
-      "id": 520,
+      "id": 499,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 520,
+        "id": 499,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ صَيِّبًا نَافِعًا",
-        "indopak": "اَللّٰهُمَّ صَيِّبًا نَّافِعًا",
-        "clean": "اللهم صيبا نافعا",
-        "transliteration": "Allaahumma sayyiban naafi'an",
-        "reference": "Bukhari: 1032",
-        "audio": 520,
-        "cat_id": 32,
-        "subcat_id": 98
+        "uthmani": "بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ",
+        "indopak": "بِسْمِ اللّٰهِ اَوَّلَهٗ وَاٰخِرَهٗ",
+        "clean": "بسم الله اوله واخره",
+        "transliteration": "Bismillaahi 'awwalahu wa 'aakhirah",
+        "reference": "Sahih (Albani). Abu Dawud: 3767",
+        "audio": 499,
+        "cat_id": 30,
+        "subcat_id": 92
       },
       "source": {
-        "name": "Dua during the rain #1",
-        "content": "Ayesha (RA) said that the Prophet (ﷺ) used to say when he saw rain -",
-        "translation": "O Allah, (bring) beneficial rain clouds.",
+        "name": "Dua before eating #1.2",
+        "content": "And if he forgets to say 'Bismillaah', let him say -",
+        "translation": "In the name of Allah, in the beginning and in the end.",
         "note": null
       },
       "target": {
@@ -102,30 +185,108 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "খাওয়ার শুরুতে দোয়া #১.২",
+        "content": "আর ‘বিসমিল্লাহ' বলতে ভুলে গেলে, সে যেন বলে -",
+        "translation": "খাওয়ার শুরু ও শেষ সর্বাবস্থায় আল্লাহ্‌র নামে।"
       }
     },
     {
       "key": [
-        521
+        500
       ],
-      "id": 521,
+      "id": 500,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 521,
+        "id": 500,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ فِي أَوَّلِهِ وَآخِرِهِ",
+        "indopak": "بِسْمِ اللّٰهِ فِيْ اَوَّلِهٖ وَاٰخِرِهٖ",
+        "clean": "بسم الله في اوله واخره",
+        "transliteration": "Bismillahi fi-awwalihi wa akhirihi",
+        "reference": "Sahih (Albani). Tirmidhi: 1858",
+        "audio": 500,
+        "cat_id": 30,
+        "subcat_id": 93
+      },
+      "source": {
+        "name": "If forget to mention the name of Allah in the beginning",
+        "content": null,
+        "translation": "In the name of Allah, in the beginning and in the end.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "শুরুতে আল্লাহ্‌র নাম বলতে ভুলে গেলে",
+        "translation": "আল্লাহ্‌র নামে এর প্রথমে এবং এর শেষে।"
+      }
+    },
+    {
+      "key": [
+        501
+      ],
+      "id": 501,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 501,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ‎",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ‎",
+        "clean": "الحمد لله",
+        "transliteration": "Al'hamdu lillaah",
+        "reference": "Muslim: 2734",
+        "audio": 501,
+        "cat_id": 30,
+        "subcat_id": 94
+      },
+      "source": {
+        "name": "Dua between eating and drinking",
+        "content": "Allah is pleased with the person who says between eating and drinking:",
+        "translation": "All praise is for Allah.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "খাওয়া ও পান করার মাঝের দোয়া",
+        "content": "আল্লাহ্‌ তা‘আলা ঐ ব্যক্তির উপর সন্তুষ্ট হন, যে খাওয়া ও পান করার মাঝে বলে -",
+        "translation": "সকল প্রশংসা আল্লাহ্‌র জন্য।"
+      }
+    },
+    {
+      "key": [
+        502
+      ],
+      "id": 502,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 502,
         "groups": null,
         "uthmani": null,
         "indopak": null,
         "clean": "",
         "transliteration": null,
-        "reference": "Muslim: 898",
+        "reference": "Muslim: 2734",
         "audio": null,
-        "cat_id": 32,
-        "subcat_id": 98
+        "cat_id": 30,
+        "subcat_id": 95
       },
       "source": {
-        "name": "Touching Rainwater",
-        "content": "Narrated Anas Ibn Malik: He said, \"We were with the Messenger of Allah (ﷺ), At one point it started raining on us. Then the Messenger of Allah (ﷺ) lifted some part of his clothes so that the rain water would fall on him. We ask, “O Messenger of Allah! Why did you do that? ” He said, \"It has just come from his great Lord!\"",
+        "name": "The importance of the dua after finishing meal",
+        "content": "Narrated Anas: The Messenger of Allah (ﷺ), said, \"Allah must be pleased with the servant who praises Allah for eating or drinking and praises Him for drinking.\"",
         "translation": null,
         "note": null
       },
@@ -134,31 +295,72 @@
         "content": "",
         "translation": null,
         "note": null
+      },
+      "reference_bn": {
+        "name": "খাওয়া শেষে দোয়ার গুরুত্ব",
+        "content": "আনাস (রাঃ) থেকে বর্ণিত, তিনি বলেন, আল্লাহ্‌র রাসূল (ﷺ) বলেছেন, “আল্লাহ্‌ ওই বান্দার উপর অবশ্যই খুশি হবেন, যে খাবার খেয়ে খাবারের জন্য আল্লাহ্‌র প্রশংসা করে অথবা পানীয় পান করে পানীয়র জন্য আল্লাহ্‌র প্রশংসা করে\"।"
       }
     },
     {
       "key": [
-        522
+        503
       ],
-      "id": 522,
+      "id": 503,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 522,
+        "id": 503,
         "groups": null,
-        "uthmani": "سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيْفَتِهِ",
-        "indopak": "سُبْحَانَ الَّذِيْ يُسَبِّحُ الرَّعْدُ بِحَمْدِهٖ وَالْمَلَائِكَةُ مِنْ خِيْفَتِهٖ",
-        "clean": "سبحان الذي يسبح الرعد بحمده والملاءكه من خيفته",
-        "transliteration": "Subhaanal-lathee yusabbihur-ra'du bihamdihi wal-malaa'ikatu min kheefatihi",
-        "reference": "Sahih (Albani). Adabul Mufrad: 560",
-        "audio": 522,
-        "cat_id": 32,
-        "subcat_id": 98
+        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِيْ هَذَا وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ اَطْعَمَنِيْ هٰذَا وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِّنِّيْ وَلَا قُوَّةٍ",
+        "clean": "الحمد لله الذي اطعمني هذا ورزقنيه من غير حول مني ولا قوه",
+        "transliteration": "Alhamdu lillaahil-lathee 'at'amanee haathaa, wa razaqaneehi, min ghayri hawlin minnee wa laa quwwah",
+        "reference": "Hasan (Albani). Ibn Majah: 3285",
+        "audio": 503,
+        "cat_id": 30,
+        "subcat_id": 95
       },
       "source": {
-        "name": "Lightning strikes #1",
-        "content": "Abdullah ibn Zubayr (RA) used to say when he heard the thunder -",
-        "translation": "Glory is to Him Whom thunder and angels glorify due to fear of Him.",
+        "name": "Upon completing the meal",
+        "content": null,
+        "translation": "Praise is to Allah Who has given me this food and sustained me with it though I was unable to doit and powerless.",
+        "note": "The Prophet (ﷺ) said, \"If a person eats food and says these words, his previous sins will be forgiven.\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "খাবারের পরের যিক্‌র",
+        "translation": "সকল প্রশংসা আল্লাহ্‌র, যিনি আমাকে এ খাবার খাইয়েছেন এবং এ রিযক দিয়েছেন, (এখানে) আমার কোনও শক্তি-সামর্থ্য কিছুই নেই।",
+        "note": "রাসূলুল্লাহ্‌ (ﷺ) বলেন, “যদি কেউ খাদ্য গ্রহণ করে এ কথাগুলো বলে তাহলে তার পূর্বেকার গোনাহ ক্ষমা করা হবে।”"
+      }
+    },
+    {
+      "key": [
+        504
+      ],
+      "id": 504,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 504,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ",
+        "indopak": "اَللّٰهُمَّ بَارِكْ لَنَا فِيْهِ وَزِدْنَا مِنْهُ",
+        "clean": "اللهم بارك لنا فيه وزدنا منه",
+        "transliteration": "Allaahumma baarik lanaa feehi wa zidnaa minhu",
+        "reference": "Hasan (Albani). Ibn Majah: 3322",
+        "audio": 504,
+        "cat_id": 30,
+        "subcat_id": 95
+      },
+      "source": {
+        "name": "Dua after drinking Milk",
+        "content": "The Messenger of Allah (ﷺ) said, \"if anyone drinks milk, he will say:",
+        "translation": "O Allah, bless us in it and give us more of it.",
         "note": null
       },
       "target": {
@@ -166,31 +368,36 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "দুধ খাওয়ার পরের যিক্‌র",
+        "content": "রাসূলুল্লাহ্‌ (ﷺ) বলেন, যদি কেউ দুধ পান করে তবে বলবে -",
+        "translation": "হে আল্লাহ্‌ আপনি এতে বরকত প্রদান করুন এবং আমাদেরকে এর চেয়ে উত্তম কিছু খাওয়ান।"
       }
     },
     {
       "key": [
-        523
+        505
       ],
-      "id": 523,
+      "id": 505,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 523,
+        "id": 505,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ لَا تَقْتُلْنَا بِغَضَبِكَ وَلَا تُهْلِكْنَا بِعَذَابِكَ وَعَافِنَا قَبْلَ ذَلِكَ",
-        "indopak": "اَللّٰهُمَّ لَا تَقْتُلْنَا بِغَضَبِكَ وَلَا تُهْلِكْنَا بِعَذَابِكَ وَعَافِنَا قَبْلَ ذٰلِكَ",
-        "clean": "اللهم لا تقتلنا بغضبك ولا تهلكنا بعذابك وعافنا قبل ذلك",
-        "transliteration": "Allaahumma Laa taqtulna bi-ghadabika Wa laa tuhlikna bi-adhaabika Wa aafina qabla dhalik",
-        "reference": "Sahihul Isnad (Ahmad Shakir). Musnad Ahmad: 8/98",
-        "audio": 523,
-        "cat_id": 32,
-        "subcat_id": 98
+        "uthmani": "اَلْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ، غَيْرَ مَكْفِيٍّ وَلَا مُوَدَّعٍ، وَلَا مُسْتَغْنًى عَنْهُ رَبَّنَا",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ حَمْدًا كَثِيْرًا طَيِّبًا مُّبَارَكًا فِيْهِ، غَيْرَ مَكْفِيٍّ وَّلَا مُوَدَّعٍ، وَلَا مُسْتَغْنًى عَنْهُ رَبَّنَا",
+        "clean": "الحمد لله حمدا كثيرا طيبا مباركا فيه غير مكفي ولا مودع ولا مستغني عنه ربنا",
+        "transliteration": "Alhamdu lillaahi hamdan katheeran tayyiban mubaarakan feehi, ghayra [makfiyyin wa laa] muwadda'in, wa laa mustaghnan 'anhu Rabbanaa",
+        "reference": "Bukhari: 5458, Sahih (Albani). Tirmidhi: 3456",
+        "audio": 505,
+        "cat_id": 30,
+        "subcat_id": 95
       },
       "source": {
-        "name": "Lightning strikes #2",
-        "content": "Narrated 'Abdullah ibn' Umar (RA): When he heard a thunderclap or a loud noise like thunder, the Messenger of Allah (ﷺ) would say:",
-        "translation": "O Allah, do not kill us with Your wrath, and do not destroy us with Your punishment, and pardon us before that.",
+        "name": "Upon completing the meal #1",
+        "content": "The Prophet (ﷺ) used to say while lifting the Dastarkhan:",
+        "translation": "All praise is to Allah, praise in abundance, good and blessed. It cannot [be compensated for, nor can it] be left, nor can it be done without, our Lord.",
         "note": null
       },
       "target": {
@@ -198,159 +405,36 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "খাবারের পরের যিক্‌র #১",
+        "content": "(খাওয়া শেষে) নবী (ﷺ) দস্তরখানা ওঠানোর সময় বলতেন -",
+        "translation": "সকল প্রশংসা আল্লাহ্‌র, (এমন প্রশংসা যা) পরিমাণে বিপুল, পবিত্র, বরকতময়, (তুমি আমাদের জন্য) যথেষ্ট ও অপরিত্যাজ্য; আমরা সবাই তোমার মুখাপেক্ষী, হে আমাদের রব!"
       }
     },
     {
       "key": [
-        524
+        506
       ],
-      "id": 524,
+      "id": 506,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 524,
+        "id": 506,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ لَا طَيْرَ إِلاَّ طَيْرُكَ، وَلَا خَيْرَ إِلَّا خَيْرُكَ، وَلَا إِلَهَ غَيْرُكَ",
-        "indopak": "اَللّٰهُمَّ لَا طَيْرَ اِلَّا طَيْرُكَ، وَلَا خَيْرَ اِلَّا خَيْرُكَ، وَلَا اِلٰهَ غَيْرُكَ",
-        "clean": "اللهم لا طير الا طيرك ولا خير الا خيرك ولا اله غيرك",
-        "transliteration": "Allaahumma laa tayra illaa tayruka, wa laa khayra illaa khayruka, wa laa ilaaha ghayruk",
-        "reference": "Sahih (Albani). Silsila Sahiha: 1065, Musnad Ahmad: 7045",
-        "audio": 524,
-        "cat_id": 32,
-        "subcat_id": 98
+        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَ وَسَقَى وَسَوَّغَهُ وَجَعَلَ لَهُ مَخْرَجًا",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ اَطْعَمَ وَسَقٰى وَسَوَّغَهٗ وَجَعَلَ لَهٗ مَخْرَجًا",
+        "clean": "الحمد لله الذي اطعم وسقي وسوغه وجعل له مخرجا",
+        "transliteration": "Alhamdu lillahilladhi at'ama wasaqa wasawwagahu waza'ala lahu makhrazaa",
+        "reference": "Sahih (Albani). Abu Dawood 3851",
+        "audio": 506,
+        "cat_id": 30,
+        "subcat_id": 95
       },
       "source": {
-        "name": "Atonement for bad omen",
-        "content": null,
-        "translation": "O Allah, there is no omen but there is reliance on You, there is no good except Your good and none has the right to be worshipped except You.",
-        "note": "Ibn 'Umar (RA) said: The Messenger of Allah (ﷺ) said: The Companions said, O Messenger of Allah, what is the expiation for such a thought? He said he should say (the above words)."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        525
-      ],
-      "id": 525,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 525,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ عَلَى ظُهُوْرِ الْجِبَالِ وَالْآكَامِ وَبُطُوْنِ الْأَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ",
-        "indopak": "اَللّٰهُمَّ عَلٰى ظُهُوْرِ الْجِبَالِ وَالْاٰكَامِ وَبُطُوْنِ الْاَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ",
-        "clean": "اللهم علي ظهور الجبال والاكام وبطون الاوديه ومنابت الشجر",
-        "transliteration": "Allaahumma ‘alaa dhuhuril jibaali wal aakaami wa butunil awdiyati wa manaabitish shajari",
-        "reference": "Bukhari: 1019",
-        "audio": 525,
-        "cat_id": 32,
-        "subcat_id": 98
-      },
-      "source": {
-        "name": "During droughts and heavy rains",
-        "content": null,
-        "translation": "O Allah! (Let it rain) on the summit of the mountain, plateau, where a variety of plants grow in the Valley.",
-        "note": "Narrated by Anas Ibn Malik (RA): A man came to the Messenger of Allah (ﷺ) and said, “O Messenger of Allah! Our animals have been destroyed and the roads have been cut off. Pray to Allah (for rain)!” The Prophet (ﷺ) prayed to Allah. As a result, it rained on us from one Jumu'ah to another Jumu'ah. Then a man came to the Prophet (ﷺ) and said, “O Messenger of Allah! Our homes have been destroyed, our roads have been cut off, and our cattle have been destroyed.” Then the Messenger of Allah (ﷺ) said: (The dua is mentioned above)\n\nThen the clouds move away from Medina in the same way that clothes are removed from the body."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        526
-      ],
-      "id": 526,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 526,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ اسْقِنَا غَيْثًا مُغِيْثًا مَرِيْئًا مَرِيْعًا نَافِعًا غَيْرَ ضَارٍّ عَاجِلًا غَيْرَ آجِلٍ",
-        "indopak": "اَللّٰهُمَّ اسْقِنَا غَيْثًا مُّغِيْثًا مَرِيْئًا مَّرِيْعًا نَافِعًا غَيْرَ ضَارٍّ عَاجِلًا غَيْرَ اٰجِلٍ",
-        "clean": "اللهم اسقنا غيثا مغيثا مريءا مريعا نافعا غير ضار عاجلا غير اجل",
-        "transliteration": "Allaahumma 'asqinaa ghaythan mugheethan maree-an maree'an, naafi'an ghayra dhaarrin, 'aajilan ghayra 'aajil",
-        "reference": "Sahih (Albani). Abu Dawud: 1169",
-        "audio": 526,
-        "cat_id": 32,
-        "subcat_id": 98
-      },
-      "source": {
-        "name": "Istisqa or prayer for Rain #1",
-        "content": "Narrated Jabir bin Abdillah (RA): (Because of draught) some people came to the Prophet (ﷺ) weeping. Then the Prophet (ﷺ) said -",
-        "translation": "O Allah, shower upon us abundant rain, beneficial not harmful, swiftly and not delayed.",
-        "note": "Soon the sky became overcast."
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        527
-      ],
-      "id": 527,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 527,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ أَغِثْنَا، اَللَّهُمَّ أَغِثْنَا، اَللَّهُمَّ أَغِثْنَا",
-        "indopak": "اَللّٰهُمَّ اَغِثْنَا، اَللّٰهُمَّ اَغِثْنَا، اَللّٰهُمَّ اَغِثْنَا",
-        "clean": "اللهم اغثنا اللهم اغثنا اللهم اغثنا",
-        "transliteration": "Allaahumma 'aghithnaa. Allaahumma 'aghithnaa. Allaahumma 'aghithnaa",
-        "reference": "Bukhari: 1014",
-        "audio": 527,
-        "cat_id": 32,
-        "subcat_id": 98
-      },
-      "source": {
-        "name": "Istisqa or prayer for Rain #2",
-        "content": null,
-        "translation": "O Allah, give us rain. O Allah, give us rain. O Allah, give us rain.",
-        "note": "Narrated Anas: A man enters the mosque on Friday. The Messenger of Allah (ﷺ) was then standing and giving a sermon (speech). The man said, “O Messenger of Allah! (Our) wealth has been destroyed, roads have been cut off; Pray to Allah to give us rain. ”Hearing this, the Messenger of Allah (ﷺ) raised his hands and said:(The dua is mentioned  above)"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        528
-      ],
-      "id": 528,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 528,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ اسْقِ عِبَادَكَ، وَبَهَائِمَكَ، وَانْشُرْ رَحْمَتَكَ، وَأَحْيِي بَلَدَكَ الْمَيِّتَ",
-        "indopak": "اَللّٰهُمَّ اسْقِ عِبَادَكَ، وَبَهَائِمَكَ، وَانْشُرْ رَحْمَتَكَ، وَاَحْيِيْ بَلَدَكَ الْمَيِّتَ",
-        "clean": "اللهم اسق عبادك وبهاءمك وانشر رحمتك واحيي بلدك الميت",
-        "transliteration": "Allahum-masqi 'ibaadaka, wa bahaa'imaka, wanshur rahmataka, wa 'ahyi baladakal-mayyita",
-        "reference": "Hasan (Albani). Abu Dawud: 1176",
-        "audio": 528,
-        "cat_id": 32,
-        "subcat_id": 98
-      },
-      "source": {
-        "name": "Istiska or  prayer for Rain #3",
-        "content": "Messenger of Allah (ﷺ), used to say:",
-        "translation": "O Allah, give water to Your slaves, and Your livestock, and spread Your mercy, and revive Your dead land.",
+        "name": "Upon completing the meal #2",
+        "content": "The Messenger of Allah (ﷺ), used to say after taking food or drink:",
+        "translation": "Praise be to Allah Who has given food and drink and made it easy to swallow, and provided an exit for it.",
         "note": null
       },
       "target": {
@@ -358,166 +442,122 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "খাবারের পরের যিক্‌র #২",
+        "content": "আল্লাহ্‌র রাসূল (ﷺ) খাবার বা পানীয় গ্রহণ করে বলতেন -",
+        "translation": "ঐ আল্লাহ্‌র প্রশংসা, যিনি খাওয়ালেন, পান করালেন এবং সহজভাবে প্রবেশ করালেন ও তা বের হওয়ার ব্যবস্থা করলেন।"
       }
     },
     {
       "key": [
-        529
+        507
       ],
-      "id": 529,
+      "id": 507,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 529,
+        "id": 507,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا، اَللَّهُمَّ عَلَى الْآكَامِ وَالظِّرَابِ، وَبُطُونِ الْأَوْدِيَةِ، وَمَنَابِتِ الشَّجَرِ",
-        "indopak": "اَللّٰهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا، اَللّٰهُمَّ عَلَى الْاٰكَامِ وَالظِّرَابِ، وَبُطُوْنِ الْاَوْدِيَةِ، وَمَنَابِتِ الشَّجَرِ",
-        "clean": "اللهم حوالينا ولا علينا اللهم علي الاكام والظراب وبطون الاوديه ومنابت الشجر",
-        "transliteration": "Allaahumma hawaalaynaa wa laa 'alaynaa. Allaahumma 'alal-'aakaami wadh-dhiraabi, wa butoonil-'awdiyati, wa manaabitish-shajar",
-        "reference": "Hasan (Albani). Abu Dawud: 1/218",
-        "audio": 529,
-        "cat_id": 32,
-        "subcat_id": 98
+        "uthmani": "اَللَّهُمَّ أَطْعِمْ مَنْ أَطْعَمَنِيْ وَاسْقِ مَنْ سَقَانِيْ (وَأَسْقِ مَنْ أَسْقَانِي)",
+        "indopak": "اَللّٰهُمَّ اَطْعِمْ مَنْ اَطْعَمَنِيْ وَاسْقِ مَنْ سَقَانِيْ (وَاَسْقِ مَنْ اَسْقَانِيْ)",
+        "clean": "اللهم اطعم من اطعمني واسق من سقاني واسق من اسقاني",
+        "transliteration": "Allaahumma 'at'im man 'at'amanee wasqi man saqaanee (in another narration: wa asqee man asqaani)",
+        "reference": "Muslim: 2055",
+        "audio": 507,
+        "cat_id": 30,
+        "subcat_id": 96
       },
       "source": {
-        "name": "Dua for stopping heavy rains",
-        "content": null,
-        "translation": "O Allah, let it pass us and not fall upon us, but upon the hills and mountains, and the center of the valleys, and upon the forested lands.",
+        "name": "Dua by the guest for the host #1",
+        "content": "Once the Prophet (ﷺ) after drinking something in the house of one of the Companions, said -",
+        "translation": "O Allah, feed the one who has fed me and drink to the one who has given me drink.",
         "note": null
       },
       "target": {
         "name": "",
-        "content": null,
+        "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "যে পানাহার করাল তার জন্য দোয়া #১",
+        "content": "একদা রাসূল (ﷺ) জনৈক সাহাবীর বাড়িতে কিছু পান করার পরে বলেছিলেন -",
+        "translation": "হে আল্লাহ্‌, যে আমাকে খাইয়েছে তাকে আপনি খাদ্য প্রদান করুন এবং যে আমাকে পান করিয়েছে তাকে আপনি পানীয় প্রদান করুন।"
       }
     },
     {
       "key": [
-        530
+        508
       ],
-      "id": 530,
+      "id": 508,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 530,
+        "id": 508,
         "groups": null,
-        "uthmani": "مُطِرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ",
-        "indopak": "مُطِرْنَا بِفَضْلِ اللّٰهِ وَرَحْمَتِهٖ",
-        "clean": "مطرنا بفضل الله ورحمته",
-        "transliteration": "Mutirnaa bifadhlillaahi wa rahmatihi",
-        "reference": "Bukhari: 846",
-        "audio": 530,
-        "cat_id": 32,
-        "subcat_id": 98
+        "uthmani": "أَفْطَرَ عِنْدَكُمُ الصَّائِمُوْنَ، وَأَكَلَ طَعَامَكُمُ الْأَبْرَارُ وَصَلَّتْ عَلَيْكُمُ الْمَلَائِكَةُ",
+        "indopak": "اَفْطَرَ عِنْدَكُمُ الصَّائِمُوْنَ، وَاَكَلَ طَعَامَكُمُ الْاَبْرَارُ وَصَلَّتْ عَلَيْكُمُ الْمَلَائِكَةُ",
+        "clean": "افطر عندكم الصاءمون واكل طعامكم الابرار وصلت عليكم الملاءكه",
+        "transliteration": "Aftara 'indakumus-saa'imoon, wa 'akala ta'aamakumul-'abraar, wa sallat 'alaykumul-malaa'ikah",
+        "reference": "Sahih (Albani). Abu Dawud: 3854",
+        "audio": 508,
+        "cat_id": 30,
+        "subcat_id": 96
       },
       "source": {
-        "name": "Thanking Allah after the rain",
+        "name": "Dua by the guest for the host #2",
         "content": null,
-        "translation": "It has rained by the bounty of Allah and His mercy.",
-        "note": "Narrated Zaid bin Khalid Al-Juhani (RA): The Prophet (ﷺ) led us in the Fajr prayer at Hudaibiya after a rainy night. On completion of the prayer, he faced the people and said, \"Do you know what your Lord has said (revealed)?\" The people replied, \"Allah and His Apostle know better.\" He said, \"Allah has said, 'In this morning some of my slaves remained as true believers and some became non-believers; whoever said that (The dua is mentioned above) had belief in Me and he disbelieves in the stars, and whoever said that it rained because of a particular star had no belief in Me but believes in that star.'"
+        "translation": "With you, those who are fasting have broken their fast, those who are righteous shall fed by you, and the angels recite their prayers upon you.",
+        "note": "If someone breaks the fast of Rasulullah (ﷺ) or feeds any food other than fasting, he would say du'a for him by saying this - (The dua is mentioned above)"
       },
       "target": {
         "name": "",
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "যে পানাহার করাল তার জন্য দোয়া #২",
+        "translation": "তোমাদের কাছে রোযাদারগণ ইফতার করুন, তোমাদের খাদ্য নেককারগণ ভক্ষণ করুন এবং তোমাদের জন্য ফিরিশতাগণ দোয়া করুন।",
+        "note": "কেউ রাসূলুল্লাহ্‌ (ﷺ)-কে ইফতার করালে বা সিয়াম ছাড়া অন্য সময়ে কোনো খাদ্য খাওয়ালে তিনি এ কথা বলে তার জন্য দোয়া করতেন - (উপরে দোয়াটি উল্লেখিত হয়েছে)"
       }
     },
     {
       "key": [
-        531
+        509
       ],
-      "id": 531,
+      "id": 509,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 531,
+        "id": 509,
         "groups": null,
-        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾",
-        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ ﴿۱﴾ اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِیْنَ ۙ﴿۲﴾ الرَّحْمٰنِ الرَّحِیْمِ ۙ﴿۳﴾ مٰلِكِ یَوْمِ الدِّیْنِ ؕ﴿۴﴾ اِیَّاكَ نَعْبُدُ وَاِیَّاكَ نَسْتَعِیْنُ ؕ﴿۵﴾ اِهْدِنَا الصِّرَاطَ الْمُسْتَقِیْمَ ۙ﴿۶﴾ صِرَاطَ الَّذِیْنَ اَنْعَمْتَ عَلَیْهِمْ غَیْرِ الْمَغْضُوْبِ عَلَیْهِمْ وَلَا الضَّآلِّیْنَ ٪﴿۷﴾",
-        "clean": "بسم الله الرحمن الرحم  الحمد لله رب العلمن  الرحمن الرحم  ملك وم الدن  ااك نعبد وااك نستعن  اهدنا الصراط المستقم  صراط الذن انعمت علهم غر المغضوب علهم ولا الضالن ",
-        "transliteration": "(1) Bismillaahir Rahmaanir Raheem. (2) Alhamdu lillaahi Rabbil 'aalameen. (3) Ar-Rahmaanir-Raheem. (4) Maaliki Yawmid-Deen. (5) Iyyaaka na'budu wa lyyaaka nasta'een. (6) Ihdinas-Siraatal-Mustaqeem. (7) Siraatal-lazeena an'amta 'alaihim ghayril-maghdoobi 'alaihim wa lad-daaalleen",
-        "reference": "Bukhari: 5741",
-        "audio": 531,
-        "cat_id": 33,
-        "subcat_id": 99
+        "uthmani": "اَللَّهُمَّ بَارِكْ لَهُمْ فِي مَا رَزَقْتَهُمْ وَاغْفِرْ لَهُمْ وَارْحَمْهُمْ",
+        "indopak": "اَللّٰهُمَّ بَارِكْ لَهُمْ فِيْ مَا رَزَقْتَهُمْ وَاغْفِرْ لَهُمْ وَارْحَمْهُمْ",
+        "clean": "اللهم بارك لهم في ما رزقتهم واغفر لهم وارحمهم",
+        "transliteration": "Allaahumma baarik lahum feemaa razaqtahum, waghfir lahum warhamhum",
+        "reference": "Muslim: 2042",
+        "audio": 509,
+        "cat_id": 30,
+        "subcat_id": 96
       },
       "source": {
-        "name": "Dua of poisonous sting",
-        "content": "Surah Fatiha",
-        "translation": "(1) In the name of Allah, the Entirely Merciful, the Especially Merciful. (2) [All] praise is [due] to Allah, Lord of the worlds - (3) The Entirely Merciful, the Especially Merciful, (4) Sovereign of the Day of Recompense. (5) It is You we worship and You we ask for help. (6) Guide us to the straight path - (7) The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray. (Sura Fatiha: 1-7)",
-        "note": "Narrated Al-Aswad (RA): I asked `Aisha about treating poisonous stings (a snake-bite or a scorpion sting) with a Ruqya. She said, \"The Prophet (ﷺ) allowed the treatment of poisonous sting with Ruqya.\""
+        "name": "Dua by the guest for the host #3",
+        "content": null,
+        "translation": "O Allah, bless them in what You have provided for them, and forgive them and have mercy on them.",
+        "note": "Abdullah ibn Bishar said, \"The Messenger of Allah (ﷺ) came to my father's house.\" He offered some food. He took some food from it. My father wants to pray for him. Then he said these words- (The dua is mentioned above)"
       },
       "target": {
         "name": "",
-        "content": "",
+        "content": null,
         "translation": "",
         "note": ""
-      }
-    },
-    {
-      "key": [
-        532
-      ],
-      "id": 532,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 532,
-        "groups": null,
-        "uthmani": "بَارَكَ اللَّهُ لَكَ",
-        "indopak": "بَارَكَ اللّٰهُ لَكَ",
-        "clean": "بارك الله لك",
-        "transliteration": "Barakallahu lak",
-        "reference": "Sahih (Albani). Ibn Majah: 3508, 3509",
-        "audio": 532,
-        "cat_id": 33,
-        "subcat_id": 99
       },
-      "source": {
-        "name": "When in fear of afflicting someone with one’s eye",
-        "content": "When one of you sees something in his brother's, or his own, or his own possessions that makes him wonder, let him say:",
-        "translation": "Allah give blessings to you.",
-        "note": "Because, for the evil eye is real."
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        533
-      ],
-      "id": 533,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 533,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Bukhari: 4439",
-        "audio": null,
-        "cat_id": 33,
-        "subcat_id": 99
-      },
-      "source": {
-        "name": "Dua of exorcise for various diseases",
-        "content": "‘Ayesha (RA) said that when the Prophet (ﷺ) was afflicted, he would recite Surah Nas, Falaq, blow on his body and wipe the body with his hands.",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
+      "reference_bn": {
+        "name": "যে পানাহার করাল তার জন্য দোয়া #৩",
+        "translation": "হে আল্লাহ্‌! আপনি তাদেরকে যে রিযিক দান করেছেন তাতে তাদের জন্য বরকত দিন এবং তাদের গুনাহ মাফ করুন, আর তাদের প্রতি দয়া করুন।",
+        "note": "আব্দুল্লাহ্ ইবনু বিশর বলেন, রাসূলুল্লাহ্‌ (ﷺ) আমার পিতার বাড়িতে আগমন করেন। তিনি কিছু খাদ্য পেশ করেন। তিনি তা থেকে কিছু খাদ্য গ্রহণ করেন। আমার পিতা তার কাছে দোয়া চান। তখন তিনি এ কথাগুলো বলেন। (উপরে দোয়াটি উল্লেখিত হয়েছে)"
       }
     }
   ]

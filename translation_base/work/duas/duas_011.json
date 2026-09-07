@@ -4,10 +4,158 @@
   "source_language": "en",
   "target_language": "TARGET",
   "status": "pending",
-  "rows": 10,
-  "id_range": "140-149",
-  "source_chars": 5698,
+  "rows": 8,
+  "id_range": "136-143",
+  "source_chars": 5496,
   "items": [
+    {
+      "key": [
+        136
+      ],
+      "id": 136,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 136,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِيْ إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ",
+        "indopak": "اَللّٰهُمَّ اَسْلَمْتُ نَفْسِيْ اِلَيْكَ، وَفَوَّضْتُ اَمْرِيْ اِلَيْكَ، وَوَجَّهْتُ وَجْهِيَ اِلَيْكَ، وَالْجَأْتُ ظَهْرِيْ اِلَيْكَ، رَغْبَةً وَّرَهْبَةً اِلَيْكَ، لَا مَلْجَاَ وَلَا مَنْجَا مِنْكَ اِلَّا اِلَيْكَ، اٰمَنْتُ بِكِتَابِكَ الَّذِيْ اَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِيْ اَرْسَلْتَ",
+        "clean": "اللهم اسلمت نفسي اليك وفوضت امري اليك ووجهت وجهي اليك والجات ظهري اليك رغبه ورهبه اليك لا ملجا ولا منجا منك الا اليك امنت بكتابك الذي انزلت وبنبيك الذي ارسلت",
+        "transliteration": "Allaahumma 'aslamtu nafsee 'ilayka, wa fawwadhtu 'amree 'ilayka, wa wajjahtu wajhee 'ilayka, wa 'alja'tu dhahree 'ilayka, raghbatan wa rahbatan 'ilayka, laa maalja' wa laa manjaa minka 'illaa 'ilayka, 'aamantu bikitaabikal-ladhee 'anzalta wa bi-nabiyyikal-ladhee 'arsalta",
+        "reference": "Al-Bukhari, Fathul Bari 11/113 no. 6313, Muslim 4/2081 no. 2710",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #15",
+        "content": "The Prophet (ﷺ) said, \"If you want to go to your bed, then perform ablution, lie on your right side and then supplicate:",
+        "translation": "O Allah, I submit my soul unto You, and I entrust my affair unto You, and I turn my face towards You, and I totally rely on You, in hope and fear of You. Verily there is no refuge nor safe haven from You except with You. I believe in Your Book which You have revealed and in Your Prophet whom You have sent.",
+        "note": "The Prophet (ﷺ) said to the person to whom he taught this Dua: If you die that night, you die on Fitrat, the religion of Islam."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "ঘুমানোর যিক্‌রসমূহ #১৫",
+        "content": "রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, “যখন তুমি বিছানা গ্রহণ করবে, তখন নামাযের মতো ওযূ করবে, তারপর তোমার ডান পার্শ্বদেশে শুয়ে পড়বে। তারপর বলো -",
+        "translation": "হে আল্লাহ্‌! আমি নিজেকে আপনার কাছে সঁপে দিলাম। আমার যাবতীয় বিষয় আপনার কাছেই সোপর্দ করলাম, আমার চেহারা আপনার দিকেই ফিরালাম, আর আমার পৃষ্ঠদেশকে আপনার দিকেই ন্যস্ত করলাম; আপনার প্রতি অনুরাগী হয়ে এবং আপনার ভয়ে ভীত হয়ে। একমাত্র আপনার নিকট ছাড়া আপনার (পাকড়াও) থেকে বাঁচার কোনো আশ্রয়স্থল নেই এবং কোনো মুক্তির উপায় নেই। আমি ঈমান এনেছি আপনার নাযিলকৃত কিতাবের উপর এবং আপনার প্রেরিত নবীর উপর।",
+        "note": "রাসূলুল্লাহ্‌ (ﷺ) যাকে এ দোয়াটি শিক্ষা দিলেন, তাকে বলেন: “যদি তুমি ঐ রাতে মারা যাও তবে ‘ফিতরাত’ তথা দীন ইসলামের উপর মারা গেলে।”"
+      }
+    },
+    {
+      "key": [
+        137
+      ],
+      "id": 137,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 137,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Hasan (Albani). Nasai: 1787",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Going around with the intention of pray Qiyam",
+        "content": "One has to get up at night and go to sleep with a strong desire to perform tahajjud; It has been said in various hadiths that the reward of tahajjud will be obtained even if one does not wake up at night. It was narrated from Abu Ad-Darda' (RA) who attributed it to the Prophet (ﷺ): \"Whoever goes to his bed intending to get up and pray qiyam at night, then sleep overwhelms him until morning, will have recorded that which he intended for and his sleep will be a charity given to him by his Lord.\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      },
+      "reference_bn": {
+        "name": "তাহাজ্জুদের নিয়্যাতসহ ঘুমাতে যাওয়া",
+        "content": "রাত্রে উঠে তাহাজ্জুদ আদায়ের দৃঢ় ইচ্ছা নিয়ে ঘুমাতে হবে; তাহলে রাত্রে ঘুম না ভাঙলেও তাহাজ্জুদের সাওয়াব অর্জিত হবে বলে বিভিন্ন হাদীসে বলা হয়েছে। এক হাদীসে আবু দারদা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেছেন- \"যে ব্যক্তি তাহাজ্জুদের সালাত আদায় করার নিয়তে বিছানায় আসে কিন্তু তার চক্ষুদ্বয় নিদ্রা প্রবল হয়ে যাওয়ায় ভোর পর্যন্ত সে ঘুমিয়ে থাকে, তার জন্য তার নিয়ত অনুসারে সওয়াব লিখা হবে, আর আল্লাহ্‌ তা‘আলার পক্ষ থেকে তার নিদ্রা তার জন্য সদকা স্বরূপ হয়ে যাবে।\""
+      }
+    },
+    {
+      "key": [
+        138
+      ],
+      "id": 138,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 138,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ الْوَاحِدُ الْقَهَّارُ، رَبُّ السَّمَوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الْعَزِيزُ الْغَفَّارُ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ الْوَاحِدُ الْقَهّارُ، رَبُّ السَّمَاوَاتِ وَالْاَرْضِ وَمَا بَيْنَهُمَا الْعَزِيْزُ الْغَفَّارُ",
+        "clean": "لا اله الا الله الواحد القهار رب السماوات والارض وما بينهما العزيز الغفار",
+        "transliteration": "Laa 'ilaaha 'illAllahul-Waahidul-Qahhaar, Rabbus-samaawaati wal'ardh, wa maa baynahumal-'Azeezul-Ghaffaar",
+        "reference": "Sahih by Hakim. Imam Dhahabi 1/540; Nasai, Amalul Yaomi Wallayla No. 202, Ibnus sunni No. 757. Also see, Sahih Jame 4:213",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 15
+      },
+      "source": {
+        "name": "When turning over during the night",
+        "content": null,
+        "translation": "There is none worthy of worship but Allah, the One, the Victorious, Lord of the heavens and the earth and all that is between them, the All-Mighty, the All-Forgiving.",
+        "note": "Aaishah (RA) narrated that the Messenger of Allah (ﷺ) used to say at night if he turned during sleep: (the dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "ঘুমের মধ্যে পার্শ্বপরিবর্তনের দোয়া",
+        "translation": "মহাপ্রতাপশালী এক আল্লাহ্‌ ছাড়া আর কোনো হক্ব ইলাহ নেই। (তিনি) আসমানসমূহ, যমীন এবং এ দু’য়ের মধ্যস্থিত সবকিছুর রব্ব, প্রবল পরাক্রমশালী, পরম ক্ষমাশীল।",
+        "note": "আয়েশা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) রাতে যখন বিছানায় পার্শ্ব পরিবর্তন করতেন তখন বলতেন, (দোয়াটি উপরে উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        139
+      ],
+      "id": 139,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 139,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ، سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيْمِ، رَبِّ اغْفِرْ لِي",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ، سُبْحَانَ اللّٰهِ، وَالْحَمْدُ لِلّٰهِ، وَلَا اِلٰهَ اِلَّا اللّٰهُ، وَاللّٰهُ اَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ الْعَلِيِّ الْعَظِيْمِ، رَبِّ اغْفِرْ لِيْ",
+        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد وهو علي كل شيء قدير سبحان الله والحمد لله ولا اله الا الله والله اكبر ولا حول ولا قوه الا بالله العلي العظيم رب اغفر لي",
+        "transliteration": "Laa 'illaaha 'illAllahu wa’hdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu, wa Huwa 'alaa kulli shay'in Qadeer Subhaanallahi, walhamdu lillaahi, wa laa 'ilaaha 'illAllahu, wAllahu 'akbar, wa laa ‘hawla wa laa Quwwata 'illaa billaahil-'Aliyyil-'Adheem, Rabbighfir lee",
+        "reference": "Sahih (Albani). Abu Dawud: 5060",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 15
+      },
+      "source": {
+        "name": "Dua when waking up at night #1",
+        "content": null,
+        "translation": "None has the right to be worshipped except Allah, alone, without any partner, to Him belong sovereignty and praise and He is over all things wholly capable. How perfect Allah is, and all praise is for Allah, and none has the right to be worshipped except Allah, Allah is the greatest and there is no power nor might except with Allah, The Most High, The Supreme, O my Lord forgive me.",
+        "note": "‘Ubadah bin al-Samit (RA) reported the Messenger of Allah (ﷺ) as saying, “If anyone is alarmed while asleep and he says when awakes and he prays, his prayer will be answered. If he gets up, performs ablution, and prays, his prayer will be accepted.”"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "ঘুম থেকে ওঠার পর যিক্‌র (রাত্রে) #১",
+        "translation": "আল্লাহ্‌ ছাড়া কোন প্রকৃত মাবুদ নেই, তিনি একক, তাঁর কোনো শরীক নেই। রাজত্ব তাঁরই, এবং প্রশংসা তাঁরই। এবং তিনি সর্বোপরি ক্ষমতাবান। সকল প্রশংসা আল্লাহ্‌র। আল্লাহ্‌র পবিত্রতা ঘোষণা করছি। আল্লাহ্‌ ছাড়া কোন প্রকৃত মাবুদ নেই। আল্লাহ্‌ সর্বশ্রেষ্ঠ। কোনো অবলম্বন নেই, কোনো ক্ষমতা নেই আল্লাহ্‌র (সাহায্য) ছাড়া।",
+        "note": "‘উবাদা ইবনু সামিত (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, “যদি কারো রাত্রে ঘুম ভেঙ্গে যায় এরপর সে উপরের যিক্‌রের বাক্যগুলো পাঠ করে এবং এরপর সে আল্লাহ্‌র কাছে ক্ষমা চায় অথবা কোনো প্রকার দোয়া করে বা কিছু চায় তাহলে তার দোয়া কবুল করা হবে। আর যদি সে এরপর উঠে ওযূ করে (তাহাজ্জুদের) সালাত আদায় করে তাহলে তার সালাত কবুল করা হবে।”"
+      }
+    },
     {
       "key": [
         140
@@ -38,6 +186,12 @@
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "ঘুম থেকে ওঠার পর যিক্‌র (রাত্রে) #২",
+        "content": "ঘুম থেকে উঠে ওযূ করে (সূরা আল ইমরান এর শেষ দশটি আয়াত) পাঠ করা -",
+        "translation": "(১৯০) নিশ্চয় আসমানসমূহ ও যমীনের সৃষ্টি এবং রাত ও দিনের বিবর্তনের মধ্যে রয়েছে বিবেকসম্পন্নদের জন্য বহু নির্দশন। (১৯১) যারা আল্লাহ্‌কে স্মরণ করে দাঁড়িয়ে, বসে ও কাত হয়ে এবং আসমানসমূহ ও যমীনের সৃষ্টি সম্পর্কে চিন্তা করে। (বলে) ‘হে আমাদের রব, তুমি এসব অনর্থক সৃষ্টি করনি। তুমি পবিত্র মহান। সুতরাং তুমি আমাদেরকে আগুনের আযাব থেকে রক্ষা কর’। (১৯২) ‘হে আমাদের রব, নিশ্চয় তুমি যাকে আগুনে প্রবেশ করাবে, অবশ্যই তাকে তুমি অপমান করবে। আর যালিমদের জন্য কোন সাহায্যকারী নেই’। (১৯৩) ‘হে আমাদের রব, নিশ্চয় আমরা শুনেছিলাম একজন আহবানকারীকে, যে ঈমানের দিকে আহবান করে যে, ‘তোমরা তোমাদের রবের প্রতি ঈমান আন’। তাই আমরা ঈমান এনেছি। হে আমাদের রব আমাদের গুনাহসমূহ ক্ষমা করুন এবং বিদূরিত করুন আমাদের ত্রুটি-বিচ্যুতি, আর আমাদেরকে মৃত্যু দিন নেককারদের সাথে’। (১৯৪) ‘হে আমাদের রব, আর আপনি আমাদেরকে তা প্রদান করুন যার ওয়াদা আপনি আমাদেরকে দিয়েছেন আপনার রাসূলগণের মাধ্যমে। আর কিয়ামতের দিনে আপনি আমাদেরকে অপমান করবেন না। নিশ্চয় আপনি অঙ্গীকার ভঙ্গ করেন না’। (১৯৫) অতঃপর তাদের রব তাদের ডাকে সাড়া দিলেন যে, ‘নিশ্চয় আমি তোমাদের কোন পুরুষ অথবা মহিলা আমলকারীর আমল নষ্ট করব না। তোমাদের একে অপরের অংশ। সুতরাং যারা হিজরত করেছে এবং যাদেরকে তাদের ঘর থেকে বের করে দেয়া হয়েছে এবং যাদেরকে আমার রাস্তায় কষ্ট দেয়া হয়েছে, আর যারা যুদ্ধ করেছে এবং নিহত হয়েছে, আমি অবশ্যই তাদের ত্রুটি-বিচ্যুতিসমূহ বিলুপ্ত করে দেব এবং তাদেরকে প্রবেশ করাবো জান্নাতসমূহে, যার তলদেশে প্রবাহিত হচ্ছে নহরসমূহ; আল্লাহ্‌র পক্ষ থেকে প্রতিদানস্বরূপ। আর আল্লাহ্‌র নিকট রয়েছে উত্তম প্রতিদান। (১৯৬) নগরসমূহে সেসব লোকের চলা-ফেরা তোমাকে যেন ধোঁকায় না ফেলে যারা কুফরী করেছে। (১৯৭) এসব অল্প ভোগ্যসামগ্রী। এরপর তাদের আশ্রয়স্থল জাহান্নাম; আর তা কতইনা মন্দ বিছানা! (১৯৮) কিন্তু যারা তাদের রবকে ভয় করে, তাদের জন্য রয়েছে জান্নাত, যার তলদেশে প্রবাহিত হবে নহরসমূহ, সেখানে তারা স্থায়ী হবে। এটা আল্লাহ্‌র পক্ষ থেকে মেহমানদারী। আর আল্লাহ্‌র নিকট যা রয়েছে তা নেককার লোকদের জন্য উত্তম। (১৯৯) আর নিশ্চয় আহলে কিতাবদের মধ্যে এমন লোক রয়েছে, যে আল্লাহ্‌র জন্য বিনীত হয়ে ঈমান আনে আল্লাহ্‌র প্রতি এবং যা নাযিল করা হয়েছে তোমাদের প্রতি, আর যা নাযিল করা হয়েছে তাদের প্রতি। তারা আল্লাহ্‌র আয়াতসমূহ স্বল্পমূল্যের বিনিময়ে বিক্রয় করে না। তাদের জন্য রয়েছে তাদের রবের নিকট পুরস্কার। নিশ্চয় আল্লাহ্‌ অতি দ্রুত হিসাব গ্রহণকারী। (২০০) হে মুমিনগণ, তোমরা ধৈর্য ধর ও ধৈর্যে অটল থাক এবং পাহারায় নিয়োজিত থাক। আর আল্লাহ্‌কে ভয় করো, যাতে তোমরা সফল হও। (সূরা আল ইমরান ৩ঃ ১৯০-২০০)",
+        "note": "এরপর নবী (ﷺ) দাঁড়িয়ে দু' রাকআত সালাত আদায় করেন; ওই সালাতে তিনি কিয়াম, রুকূ ও সাজদাগুলো অনেক দীর্ঘায়িত করেন। সালাত শেষে তিনি ঘুমিয়ে পড়েন ...।"
       }
     },
     {
@@ -70,6 +224,10 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "ঘুম থেকে উঠার পর যিক্‌র #৩",
+        "translation": "হামদ-প্রশংসা আল্লাহ্‌র জন্য, যিনি (নিদ্রারূপ) মৃত্যুর পর আমাদেরকে জীবিত করলেন, আর তাঁরই নিকট সকলের পুনরুত্থান।"
       }
     },
     {
@@ -102,6 +260,11 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "ঘুম থেকে উঠার পর যিক্‌র #৪",
+        "content": "(নবী ﷺ বলেন) তোমাদের কেউ যখন ঘুম থেকে জেগে ওঠে, তখন সে যেন বলে -",
+        "translation": "সকল হামদ-প্রশংসা আল্লাহ্‌র জন্য, যিনি আমার দেহকে নিরাপদ করেছেন, আমার রূহকে আমার নিকট ফেরত দিয়েছেন এবং আমাকে তাঁর যিক্‌র করার অনুমতি (সুযোগ) দিয়েছেন।"
       }
     },
     {
@@ -134,198 +297,10 @@
         "content": "",
         "translation": null,
         "note": null
-      }
-    },
-    {
-      "key": [
-        144
-      ],
-      "id": 144,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 144,
-        "groups": null,
-        "uthmani": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
-        "indopak": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
-        "clean": "اعوذ بالله من الشيطان الرجيم",
-        "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
-        "reference": "[1] Bukhari: 7044\n[2] Muslim: 6041\n[3] Sahih (Albani). Tirmidhi: 2280",
-        "audio": 144,
-        "cat_id": 6,
-        "subcat_id": 15
       },
-      "source": {
-        "name": "Upon seeing a good or a bad dream",
-        "content": "If you have a bad dream in your sleep, you should spit three times on the left side, then say three times -",
-        "translation": "I seek refuge in Allah from Satan the outcast.",
-        "note": "One need to change sides in their sleep. It is forbidden to tell this dream in front of anyone. Even if you have good dreams, you don't have to tell anyone. But it can be said in front of a close friend or in front of wise people.\n\nNarrated Abu Qatadah (RA): The Prophet (ﷺ) said: A good dream is from Allah. And bad dreams are from the devil. So whoever has a good dream, let him reveal it to the one he loves. And if anyone has a bad dream, let him seek refuge in Allah from its harm and from the evil of Satan, and spit three times to the left. Don't reveal the dream to anyone. Then it will not be able to harm him. [1]\n\nJarir (RA)  said, Rasulullah (ﷺ) said, when one of you has a dream that he dislikes, he should spit three times to his left. And he seeks refuge in Allah from Satan three times and changes sides. [2]\n\nAbu Hurairah (RA)  said: The Messenger of Allah (ﷺ) said: If a person has a bad dream, he should get up and pray two rak'ahs. [3]"
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        145
-      ],
-      "id": 145,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 145,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Bukhari: 5747",
-        "audio": null,
-        "cat_id": 6,
-        "subcat_id": 15
-      },
-      "source": {
-        "name": "Dua related to dreams",
-        "content": "The Messenger of Allah (ﷺ) said - \"A good dream is from Allah, and a bad dream is from Satan. So if anyone of you sees (in a dream) something he dislikes, when he gets up he should blow thrice (on his left side) and seek refuge with Allah from its evil for then it will not harm him.\"",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        146
-      ],
-      "id": 146,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 146,
-        "groups": null,
-        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِي كَسَانِيْ هَذَا الثَّوْبَ وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّيْ وَلَا قُوَّةٍ",
-        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ كَسَانِيْ هَذَا الثَّوْبَ وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِّنِّيْ وَلَا قُوَّةٍ",
-        "clean": "الحمد لله الذي كساني هذا الثوب ورزقنيه من غير حول مني ولا قوه",
-        "transliteration": "Alhamdu lillaahil-ladhee kasaanee haadhaa aththawba wa razaqaneehi min ghayri hawlim-minnee wa laa quwwah",
-        "reference": "Hasan (Albani). Abu Dawud: 4023",
-        "audio": 146,
-        "cat_id": 7,
-        "subcat_id": 16
-      },
-      "source": {
-        "name": "Dua when putting on a garment",
-        "content": null,
-        "translation": "All Praise is for Allah who has clothed me with this garment and provided it for me, with no power nor might from myself.",
-        "note": "The Prophet (ﷺ) said, \"If anyone says this while wearing clothes, his previous sins will be forgiven.\""
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        147
-      ],
-      "id": 147,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 147,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ كَسَوْتَنِيْهِ أَسْأَلُكَ خَيْرَهُ وَخَيْرَ مَا صُنِعَ لَهُ وَأَعُوْذُ بِكَ مِنْ شَرِّهِ وَشَرِّ مَا صُنِعَ لَهُ",
-        "indopak": "اَللّٰهُمَّ لَكَ الْحَمْدُ اَنْتَ كَسَوْتَنِيْهِ اَسْاَلُكَ خَيْرَهٗ وَخَيْرَ مَا صُنِعَ لَهٗ  وَاَعُوْذُ بِكَ مِنْ شَرِّهٖ  وَشَرِّ مَا صُنِعَ لَهٗ",
-        "clean": "اللهم لك الحمد انت كسوتنيه اسالك خيره وخير ما صنع له  واعوذ بك من شره  وشر ما صنع له",
-        "transliteration": "Allaahumma lakal-hamdu 'Anta kasawtaneehi, 'as'aluka khayrahu wa khayra maa suni'a lahu, wa 'a'oodhu bika min sharrihi wa sharri ma suni'a lahu",
-        "reference": "Sahih (Albani). Tirmidhi: 1767",
-        "audio": 147,
-        "cat_id": 7,
-        "subcat_id": 16
-      },
-      "source": {
-        "name": "Dua when putting on a new garment",
-        "content": null,
-        "translation": "O Allah, for You is all praise, You have clothed me with it, I ask You for the good of it and the good for which it was made, and I seek refuge with You from the evil of it and the evil for which it was made.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        148
-      ],
-      "id": 148,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 148,
-        "groups": null,
-        "uthmani": "تُبْلَی وَيُخْلِفُ اللَّهُ تَعَالَی",
-        "indopak": "تُبْلٰی وَيُخْلِفُ اللّٰهُ تَعَالٰی",
-        "clean": "تبل ويخلف الله تعال",
-        "transliteration": "Tubla- wa yukhliful-laahu ta'aalaa",
-        "reference": "Sahih (Albani). Abu Dawud: 4020",
-        "audio": 148,
-        "cat_id": 7,
-        "subcat_id": 16
-      },
-      "source": {
-        "name": "Dua said to someone seen wearing a new garment",
-        "content": null,
-        "translation": "May you wear it out and Allah (Ta'aala) replace it [with another].",
-        "note": "The Companions used to make this dua when they saw someone wearing new clothes."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        149
-      ],
-      "id": 149,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 149,
-        "groups": null,
-        "uthmani": "بِسْمِ اللَّه",
-        "indopak": "بِسْمِ اللّٰهِ",
-        "clean": "بسم الله",
-        "transliteration": "Bismillaah",
-        "reference": "Sahih (Albani). Tirmidhi: 606",
-        "audio": 149,
-        "cat_id": 7,
-        "subcat_id": 16
-      },
-      "source": {
-        "name": "Dua before undressing",
-        "content": null,
-        "translation": "In the name of Allah.",
-        "note": "The Messenger of Allah (ﷺ) said: When one of you undresses or is uncovered, the veil between the human genitals and the eyes of the jinn is called 'Bismillah'."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
+      "reference_bn": {
+        "name": "ঘুম থেকে উঠে আল্লাহ্‌কে স্মরণ করা",
+        "content": "আবু হুরায়রা (রাঃ) থেকে বর্ণিত, আল্লাহ্‌র রাসূল (ﷺ) বলেন, “তোমাদের কেউ ঘুমাতে গেলে, তার মাথার পেছন দিকে শয়তান তিনটি গিঁট দেয়। প্রত্যেকটি গিঁটের জায়গায় সে চাপড় দিয়ে বলে, “তোমার সামনে দীর্ঘ রাত পড়ে আছে; সুতরাং আরামে ঘুম দাও!” মানুষ যখন ঘুম থেকে জেগে আল্লাহ্‌কে স্মরণ করে, তখন একটি গিট খুলে যায়; সে যদি ওযূ করে, তাতে (আরও) একটি গিট খুলে যায়। এরপর সালাত আদায় করলে (তৃতীয়) গিট খুলে যায়; এর ফলে তার সকাল কাটে প্রাণবন্ত ও প্রফুল্ল অবস্থায়। অন্যথায় তার সকাল কাটে নোংরা-মন ও অলস অবস্থায়।"
       }
     }
   ]

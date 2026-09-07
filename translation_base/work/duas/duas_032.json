@@ -4,616 +4,562 @@
   "source_language": "en",
   "target_language": "TARGET",
   "status": "pending",
-  "rows": 19,
-  "id_range": "449-467",
-  "source_chars": 5957,
+  "rows": 15,
+  "id_range": "426-440",
+  "source_chars": 5475,
   "items": [
     {
       "key": [
-        449
+        426
       ],
-      "id": 449,
+      "id": 426,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 449,
+        "id": 426,
         "groups": null,
-        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ",
-        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ",
-        "clean": "لا اله الا الله",
-        "transliteration": "Laa Ilaaha Illaallah",
-        "reference": "Bukhari: 3346",
-        "audio": 449,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِي عَافَانِي مِمَّا ابْتَلَاكَ بِهِ، وَفَضَّلَنِي عَلَى كَثِيرٍ مِمَّنْ خَلَقَ تَفْضِيلًا",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ عَافَانِيْ مِمَّا ابْتَلَاكَ بِهٖ، وَفَضَّلَنِيْ عَلٰى كَثِيْرٍ مِّمَّنْ خَلَقَ تَفْضِيْلًا",
+        "clean": "الحمد لله الذي عافاني مما ابتلاك به وفضلني علي كثير ممن خلق تفضيلا",
+        "transliteration": "Alhamdu lillaahil-lathee 'aafaanee mimmab-talaaka bihi wa fadhdhalanee 'alaa katheerin mimman khalaqa tafdheela",
+        "reference": "Sahih (Albani). Tirmidhi: 3432",
+        "audio": 426,
+        "cat_id": 25,
+        "subcat_id": 77
+      },
+      "source": {
+        "name": "Upon seeing someone in trial or tribulation",
+        "content": "The Messenger of Allah (ﷺ) said: A person who sees a person in danger, then says:",
+        "translation": "Praise is to Allah Who has spared me what He has afflicted you with, and preferred me greatly above much of what He has created.",
+        "note": "That danger will not touch him."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "বিপদগ্রস্ত কাউকে দেখলে",
+        "content": "আল্লাহ্‌র রাসূল (ﷺ) বলেছেন, যে-ব্যক্তি কোনও বিপদগ্রস্ত ব্যক্তিকে দেখে বলে -",
+        "translation": "সকল প্রশংসা আল্লাহ্‌র, যিনি আমাকে তোমার বিপদ থেকে রেহাই দিয়েছেন, এবং বহু সৃষ্টির উপর আমাকে যথার্থ শ্রেষ্ঠত্ব দিয়েছেন।",
+        "note": "তাকে ওই বিপদ স্পর্শ করবে না।"
+      }
+    },
+    {
+      "key": [
+        427
+      ],
+      "id": 427,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 427,
+        "groups": null,
+        "uthmani": "يَا حَيُّ يَا قَيُّوْمُ، بِرَحْمَتِكَ أَسْتَغِيْثُ",
+        "indopak": "يَا حَيُّ يَا قَيُّوْمُ ، بِرَحْمَتِكَ اَسْتَغِيْثُ",
+        "clean": "يا حي يا قيوم  برحمتك استغيث",
+        "transliteration": "Ya ‘hayyi-u ya qayyumu bira’hmatika astagith",
+        "reference": "Hasan (Albani). Tirmidhi: 3524",
+        "audio": 427,
+        "cat_id": 25,
+        "subcat_id": 77
+      },
+      "source": {
+        "name": "When one's affairs have become difficult",
+        "content": null,
+        "translation": "O Ever Living, O Self-Subsisting and Supporter of all, by Your mercy I seek assistance.",
+        "note": "Whenever a matter would distress him, the Prophet (ﷺ) would say (above dua)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "কঠিন কাজে পতিত ব্যক্তির দোয়া",
+        "translation": "হে চিরঞ্জীব সত্তা, হে সকল সৃষ্টির ধারক, আপনার রহমতের দোহাই দিয়ে সাহায্য চাইছি।",
+        "note": "রাসূলুল্লাহ্‌ (ﷺ) এর সম্মুখে কঠিন কাজ হাযির হলে তিনি উপরোক্ত দোয়াটি বলতেন।"
+      }
+    },
+    {
+      "key": [
+        428
+      ],
+      "id": 428,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 428,
+        "groups": null,
+        "uthmani": "قَدَرُ اللَّهِ وَمَا شَاءَ فَعَلَ",
+        "indopak": "قَدَرُ اللّٰهِ وَمَا شَاءَ فَعَلَ",
+        "clean": "قدر الله وما شاء فعل",
+        "transliteration": "Qadarullaahi wa maa shaa'a fa'al",
+        "reference": "Muslim: 2664",
+        "audio": 428,
+        "cat_id": 26,
+        "subcat_id": 78
+      },
+      "source": {
+        "name": "Dua for hopelessness",
+        "content": null,
+        "translation": "It is the Decree of Allah and He does whatever He wills.",
+        "note": "Abu Huraira (RA) reported Allah's Messenger (ﷺ) as saying: A strong believer is better and is more lovable to Allah than a weak believer, and there is good in everyone, (but) cherish that which gives you benefit (in the Hereafter) and seek help from Allah and do not lose heart, and if anything (in the form of trouble) comes to you, don't say: If I had not done that, it would not have happened so and so, but say: (The dua is mentioned above) and your\" if\" opens the (gate) for the Satan."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "ব্যর্থতার সময়ের দোয়া",
+        "translation": "এটি আল্লাহ্‌র ফয়সালা, আর তিনি যা ইচ্ছা করেছেন।",
+        "note": "আবু হুরাইরা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেন: “শক্তিশালী মুমিন আল্লাহ্‌র কাছে দূর্বল মুমিনের চেয়ে বেশি প্রিয় ও বেশি ভাল, যদিও সকল মুমিনের মধ্যেই কল্যাণ বিদ্যমান। তোমার জন্য কল্যাণকর বিষয় অর্জনের জন্য তুমি সুদঢ় ইচ্ছা নিয়ে চেষ্টা করবে এবং আল্লাহ্‌র কাছে সাহায্য প্রার্থনা করবে। কখনোই দূর্বল বা হতাশ হবে না। যদি তুমি কোনো সমস্যায় নিপতিত হও (তুমি ব্যর্থ হও বা তোমার প্রচেষ্টার আশানুরূপ ফল না পাও) তাহলে কখনই বলবে না যে, যদি আমি ঐ কাজটি করতাম! যদি আমি অমুক তমুক কাজ করতাম। বরং (উপরের বাক্যটি) বলবে; কারণ, অতীতের আফসোস মূলক (যদি করতাম) ধরনের বাক্যগুলো শয়তানের দরজা খুলে দেয়।”"
+      }
+    },
+    {
+      "key": [
+        429
+      ],
+      "id": 429,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 429,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+        "indopak": "اَللّٰهُمَّ لَا سَهْلَ اِلَّا مَا جَعَلْتَهُ سَهْلًا وَاَنْتَ تَجْعَلُ الْحَزْنَ اِذَا شِئْتَ سَهْلًا",
+        "clean": "اللهم لا سهل الا ما جعلته سهلا وانت تجعل الحزن اذا شءت سهلا",
+        "transliteration": "Allaahumma laa sahlaa illaa maa ja'altahu sahlaa, wa Anta taj'alul-hazna 'idhaa shi'ta sahlaa",
+        "reference": "Sahih (Albani). Ibn Hibban: 974",
+        "audio": 429,
+        "cat_id": 26,
+        "subcat_id": 78
+      },
+      "source": {
+        "name": "When one's affairs have become difficult",
+        "content": null,
+        "translation": "O Allah, there is no ease other than what You make easy. If You want You ease sorrow.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "কঠিন কর্মকে সহজ করার দোয়া",
+        "translation": "হে আল্লাহ্‌ আপনি যা সহজ করেন তা ছাড়া কিছুই সহজ নয়। আর আপনি ইচ্ছা করলে সুকঠিনকে সহজ করেন।"
+      }
+    },
+    {
+      "key": [
+        430
+      ],
+      "id": 430,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 430,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنَّا نَجْعَلُكَ فِي نُحُورِهِمْ وَنَعُوذُ بِكَ مِنْ شُرُورِهِمْ",
+        "indopak": "اَللّٰهُمَّ اِنَّا نَجْعَلُكَ فِيْ نُحُوْرِهِمْ وَنَعُوْذُ بِكَ مِنْ شُرُوْرِهِمْ",
+        "clean": "اللهم انا نجعلك في نحورهم ونعوذ بك من شرورهم",
+        "transliteration": "Allaahumma 'innaa naj'aluka fee nuhoorihim wa nA'oodhu bika min shuroorihim",
+        "reference": "Sahih (Albani). Abu Dawud: 1537",
+        "audio": 430,
+        "cat_id": 26,
+        "subcat_id": 79
+      },
+      "source": {
+        "name": "Upon encountering an enemy or those of authority #1",
+        "content": null,
+        "translation": "O Allah, we ask You to restrain them by their necks and we seek refuge in You from their evil.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "শত্রু এবং শক্তিধর ব্যক্তির সাক্ষাতকালে দোয়া #১",
+        "translation": "হে আল্লাহ্‌, আমরা আপনাকে তাদের কণ্ঠদেশে রাখছি এবং আপনার আশ্রয় গ্রহণ করছি তাদের অকল্যাণ থেকে।"
+      }
+    },
+    {
+      "key": [
+        431
+      ],
+      "id": 431,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 431,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَرَبَّ الْعَرْشِ الْعَظِيْمِ كُنْ لِي جَارًا مِنْ فُلَانِ بْنِ فُلَانٍ، وَأَحْزَابِهِ مِنْ خَلَائِقِكَ (وَمِنْ شَرِّ خَلْقِكَ كُلِّهِمْ جَمِيْعًا) أَنْ يَفْرُطَ عَلَيَّ أَحَدٌ مِنْهُمْ أَوْ يَطْغَى عَزَّ جَارُكَ وَجَلَّ ثَنَاؤُكَ وَلَا إِلٰهَ إِلَّا أَنْتَ",
+        "indopak": "اَللّٰهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَرَبَّ الْعَرْشِ الْعَظِيْمِ كُنْ لِّيْ جَارًا مِّنْ فُلَانِ بْنِ فُلَانٍ، وَاَحْزَابِهٖ مِنْ خَلَائِقِكَ (وَمِنْ شَرِّ خَلْقِكَ كُلِّهِمْ جَمِيْعًا) اَنْ يَّفْرُطَ عَلَيَّ اَحَدٌ مِّنْهُمْ اَوْ يَطْغٰى عَزَّ جَارُكَ وَجَلَّ ثَنَاؤُكَ وَلَا اِلٰهَ اِلَّا اَنْتَ",
+        "clean": "اللهم رب السماوات السبع ورب العرش العظيم كن لي جارا من فلان بن فلان واحزابه من خلاءقك ومن شر خلقك كلهم جميعا ان يفرط علي احد منهم او يطغي عز جارك وجل ثناءك ولا اله الا انت",
+        "transliteration": "Allaahumma Rabbas-samawaatis-sab'i, wa Rabbal-'Arshil-'Adheem, kun lee jaaran min [here you mention the person's name], wa 'ahzaabihi min khalaa'iqika, (wa min sharri khalqika kullihim jami'an) 'an yafruta 'alayya 'ahadun minhum 'aw yatghaa, 'azza jaaruka, wajalla thanaa'uka, wa laa 'ilaaha 'illaa 'Anta",
+        "reference": "Sahih (Albani). Sahih Al-Targhib: 2237, Adabul Mufrad: 707",
+        "audio": null,
+        "cat_id": 26,
+        "subcat_id": 79
+      },
+      "source": {
+        "name": "Upon encountering an enemy or those of authority #২",
+        "content": "Prophet (ﷺ) said, If anyone fears to encounter an enemy or those of authority, then he should say:",
+        "translation": "O Allah, Lord of the seven heavens, Lord of the Magnificent Throne, be for me a support against [such and such a person] and his helpers from among your creatures, lest any of them abuse me or do me wrong. Mighty is Your patronage and glorious are Your praises. There is none worthy of worship but You.",
+        "note": "Narrated from Abdullah Ibn Masood (RA) and Abdullah Ibn Abbas (RA), they said: If anyone fears harm from any ruler, administrator or powerful person, he should recite this dua."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "শত্রু এবং শক্তিধর ব্যক্তির সাক্ষাতকালে দোয়া #২",
+        "content": "নবী (ﷺ) বলেন, কেউ যদি কোনও প্রতাপশালী ব্যক্তির ব্যাপারে কোনও শঙ্কা বোধ করে, তা হলে সে যেন বলে -",
+        "translation": "হে আল্লাহ্‌, সাত আসমানের প্রভু ও মহান আরশের প্রভু, আপনি আমাকে আশ্রয় প্রদান করেন অমুকের পুত্র অমুক (সংশ্লিষ্ট ব্যক্তির নাম) থেকে এবং আপনার সৃষ্টির মধ্য থেকে যারা তার দলবলে রয়েছে তাদের থেকে (এবং সকল খারাপ সৃষ্টির অমঙ্গল থেকে), তাদের কেউ যেন আমার বিষয়ে সীমালঙ্ঘন করতে না পারে বা আমার উপর অত্যাচার বা বিদ্রোহ করতে না পারে। আপনি যাকে আশ্রয় দেন সে-ই সম্মানিত। আপনার প্রশংসা মহিমামণ্ডিত। আপনি ছাড়া কোন প্রকৃত মাবুদ নেই।",
+        "note": "আব্দুল্লাহ ইবনু মাসউদ (রাঃ) ও আব্দুল্লাহ ইবনু আব্বাস (রাঃ) থেকে বর্ণিত, তাঁরা বলেন: কেউ কোনো শাসক, প্রশাসক বা ক্ষমতাধর থেকে ক্ষতির আশঙ্কা করলে এ দোয়াটি পাঠ করবে।"
+      }
+    },
+    {
+      "key": [
+        432
+      ],
+      "id": 432,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 432,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اكْفِنِيْهِمْ بِمَا شِئْتَ",
+        "indopak": "اَللّٰهُمَّ اكْفِنِيْهِمْ بِمَا شِئْتَ",
+        "clean": "اللهم اكفنيهم بما شءت",
+        "transliteration": "Allaahummak-fineehim bimaa shi'ta",
+        "reference": "Muslim 4/2300, 3005",
+        "audio": 432,
+        "cat_id": 26,
+        "subcat_id": 79
+      },
+      "source": {
+        "name": "Dua of self-defense if one fears harm from anyone",
+        "content": null,
+        "translation": "O Allah, suffice (i.e. protect) me against them however You wish.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "কারো ক্ষতির আশঙ্কা করলে আত্মরক্ষার দোয়া",
+        "translation": "হে আল্লাহ্‌, আপনি যেভাবে ইচ্ছা আমাকে তাদের থেকে সংরক্ষণ করুন।"
+      }
+    },
+    {
+      "key": [
+        433
+      ],
+      "id": 433,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 433,
+        "groups": null,
+        "uthmani": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ، اَللَّهُمَّ أْجُرْنِيْ فِي مُصِيْبَتِيْ وَأَخْلِفْ لِي خَيْرًا مِنْهَا",
+        "indopak": "اِنَّا لِلّٰهِ وَاِنَّا اِلَيْهِ رَاجِعُوْنَ، اَللّٰهُمَّ أْجُرْنِيْ فِيْ مُصِيْبَتِيْ وَاَخْلِفْ لِيْ خَيْرًا مِّنْهَا",
+        "clean": "انا لله وانا اليه راجعون اللهم اجرني في مصيبتي واخلف لي خيرا منها",
+        "transliteration": "Innaa lillaahi wa 'innaa 'ilayhi raaji'oon, Allaahumma'-jurni fee museebatee wa 'akhlif lee khayran minhaa",
+        "reference": "Muslim: 918",
+        "audio": 433,
         "cat_id": 26,
         "subcat_id": 80
       },
       "source": {
-        "name": "When Panicked",
-        "content": "Narrated Zainab bint Jahsh (RA): That the Prophet (ﷺ) once came to her in a state of fear and said:",
-        "translation": "None has the right to be worshipped but Allah.",
-        "note": "Woe unto the Arabs from a danger that has come near. An opening has been made in the wall of Gog and Magog like this,\" making a circle with his thumb and index finger. Zainab bint Jahsh (RA) said, \"O Allah's Messenger (ﷺ)! Shall we be destroyed even though there are pious persons among us?\" He said, \"Yes, when the evil person will increase.\""
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        450
-      ],
-      "id": 450,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 450,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ فَأَيُّمَا مُؤْمِنٍ سَبَبْتُهُ فَاجْعَلْ ذَلِكَ لَهُ قُرْبَةً إِلَيْكَ يَوْمَ الْقِيَامَةِ",
-        "indopak": "اَللّٰهُمَّ فَاَيُّمَا مُؤْمِنٍ سَبَبْتُهٗ فَاجْعَلْ ذٰلِكَ لَهٗ قُرْبَةً اِلَيْكَ يَوْمَ الْقِيَامَةِ",
-        "clean": "اللهم فايما مءمن سببته فاجعل ذلك له قربه اليك يوم القيامه",
-        "transliteration": "Allaahumma fa'ayyumaa mu'minin sababtuhu faj'al dhaalika lahu qurbatan 'ilayka yawmal-qiyaamah",
-        "reference": "Bukhari: 6361",
-        "audio": 450,
-        "cat_id": 27,
-        "subcat_id": 81
-      },
-      "source": {
-        "name": "For one you have insulted",
-        "content": "Narrated by Abu Huraira (RA), He heard the Prophet (ﷺ) say:",
-        "translation": "O Allah, whomever of the believers I have abused, make it a means of gaining nearness to you on the Day of Resurrection.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        451
-      ],
-      "id": 451,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 451,
-        "groups": null,
-        "uthmani": "أَحْسِبُ فُلَانًا وَاللَّهُ حَسِيبُهُ وَلَا أُزَكِّي عَلَى اللَّهِ أَحَدًا أَحْسِبُهُ كَذَا وَكَذَا",
-        "indopak": "اَحْسِبُ فُلَانًا وَاللّٰهُ حَسِيْبُهٗ وَلَا اُزَكِّيْ عَلَى اللّٰهِ اَحَدًا اَحْسِبُهٗ كَذَا وَكَذَا",
-        "clean": "احسب فلانا والله حسيبه ولا ازكي علي الله احدا احسبه كذا وكذا",
-        "transliteration": "Ahsibu fulaanan wAllaahu haseebuhu wa laa 'uzakkee 'alAllaahi 'ahadan ahsibuhu kadha wa kadha",
-        "reference": "Bukhari: 2662",
-        "audio": 451,
-        "cat_id": 27,
-        "subcat_id": 81
-      },
-      "source": {
-        "name": "Etiquette of praising a fellow Muslim",
-        "content": "The Prophet (ﷺ) said: \"Whoever amongst you has to praise his brother should say:",
-        "translation": "I think that he is so and so, and Allah knows exactly the truth, and I do not confirm anybody's good conduct before Allah, but I think him so and so.",
-        "note": "It is to be said when you must ensure you have knowledge that the certain characteristic is present in that person."
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        452
-      ],
-      "id": 452,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 452,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ لَا تُؤَاخِذْنِي بِمَا يَقُولُونَ، وَاغْفِرْ لِي مَا لَا يَعْلَمُونَ، وَاجْعَلْنِي خَيْرًا مِمَّا يَظُّنُّونَ",
-        "indopak": "اَللّٰهُمَّ لَا تُؤَاخِذْنِيْ بِمَا يَقُوْلُوْنَ، وَاغْفِرْ لِيْ مَا لَا يَعْلَمُوْنَ، وَاجْعَلْنِيْ خَيْرًا مِّمَّا يَظُّنُّوْنَ",
-        "clean": "اللهم لا تءاخذني بما يقولون واغفر لي ما لا يعلمون واجعلني خيرا مما يظنون",
-        "transliteration": "Allaahumma laa tu'aakhidhnee bimaa yaqooloon, waghfir lee maa laa ya'lamoon waj'alnee khayram-mimmaa yadhunnoon",
-        "reference": "Sahih (Albani). Adabul Mufrad: 589",
-        "audio": 452,
-        "cat_id": 27,
-        "subcat_id": 81
-      },
-      "source": {
-        "name": "For the one that have been praised",
-        "content": "One of Companions of The Prophet (ﷺ) had a characteristic that if he was praised, he would say:",
-        "translation": "O Allah, do not call me to account for what they say and forgive me for what they have no knowledge of and make me better than they imagine.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        453
-      ],
-      "id": 453,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 453,
-        "groups": "[{\"id\": 453, \"name\": null, \"cat_id\": 27, \"subcat_id\": 82, \"content\": \"In response, The Messenger of Allah (\\ufdfa) said:\", \"uthmani\": \"\\u0648\\u064e\\u0644\\u064e\\u0643\\u064e\", \"indopak\": \"\\u0648\\u064e\\u0644\\u064e\\u0643\\u064e\", \"clean\": \"\\u0648\\u0644\\u0643\", \"transliteration\": \"Wa lak\", \"translation\": \"May Allah forgive you too. [1]\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 453, \"name\": null, \"cat_id\": 27, \"subcat_id\": 82, \"content\": \"When the people heard this, they said, Allah's Apostle (\\ufdfa) seek forgiveness for you? He said: Yes, and also for you all. Then he then recited this verse\\u0964 [2]\", \"uthmani\": \"\\u0648\\u064e\\u0627\\u0633\\u0652\\u062a\\u064e\\u063a\\u0652\\u0641\\u0650\\u0631\\u0652 \\u0644\\u0650\\u0630\\u064e\\u0646\\u0652\\u0628\\u0650\\u0643\\u064e \\u0648\\u064e\\u0644\\u0650\\u0644\\u0652\\u0645\\u064f\\u0624\\u0652\\u0645\\u0650\\u0646\\u0650\\u064a\\u0646\\u064e \\u0648\\u064e\\u0627\\u0644\\u0652\\u0645\\u064f\\u0624\\u0652\\u0645\\u0650\\u0646\\u064e\\u0627\\u062a\\u0650\", \"indopak\": \"\\u0648\\u064e\\u0627\\u0633\\u0652\\u062a\\u064e\\u063a\\u0652\\u0641\\u0650\\u0631\\u0652 \\u0644\\u0650\\u0630\\u064e\\u0646\\u0652\\u0628\\u0650\\u0643\\u064e \\u0648\\u064e\\u0644\\u0650\\u0644\\u0652\\u0645\\u064f\\u0624\\u0652\\u0645\\u0650\\u0646\\u0650\\u064a\\u0652\\u0646\\u064e \\u0648\\u064e\\u0627\\u0644\\u0652\\u0645\\u064f\\u0624\\u0652\\u0645\\u0650\\u0646\\u064e\\u0627\\u062a\\u0650\", \"clean\": \"\\u0648\\u0627\\u0633\\u062a\\u063a\\u0641\\u0631 \\u0644\\u0630\\u0646\\u0628\\u0643 \\u0648\\u0644\\u0644\\u0645\\u0621\\u0645\\u0646\\u064a\\u0646 \\u0648\\u0627\\u0644\\u0645\\u0621\\u0645\\u0646\\u0627\\u062a\", \"transliteration\": null, \"translation\": \"Ask forgiveness for your sin and for the believing men and believing women. (Surah Muhammad 47:19)\", \"note\": null, \"reference\": \"[1] Riyadus Salehin: 1843\\n[2] Muslim: 2346\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
-        "uthmani": "غَفَرَ اللَّهُ لَكَ",
-        "indopak": "غَفَرَ اللّٰهُ لَكَ",
-        "clean": "غفر الله لك",
-        "transliteration": "Ghafar-Allahu lak",
-        "reference": null,
-        "audio": 453,
-        "cat_id": 27,
-        "subcat_id": 82
-      },
-      "source": {
-        "name": "For the one who asks Allah to forgive your sins",
-        "content": "Abdullah bin Sarjis (RA) said to the Messenger of Allah (ﷺ): \"O Messenger of Allah! -",
-        "translation": "May Allah forgive you.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        454
-      ],
-      "id": 454,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 454,
-        "groups": null,
-        "uthmani": "جَزَاكَ اللَّهُ خَيْرًا",
-        "indopak": "جَزَاكَ اللّٰهُ خَيْرًا",
-        "clean": "جزاك الله خيرا",
-        "transliteration": "JazaakAllahu khayran",
-        "reference": "Sahih (Albani). Tirmidhi: 2035",
-        "audio": 454,
-        "cat_id": 27,
-        "subcat_id": 82
-      },
-      "source": {
-        "name": "If someone does a good job for you",
-        "content": "The Messenger of Allah (ﷺ) said: Whoever some good was done to him, and he says:",
-        "translation": "May Allah reward you with good.",
-        "note": "Then he has done the most that he can of praise."
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        455
-      ],
-      "id": 455,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 455,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Muslim: 809",
-        "audio": null,
-        "cat_id": 27,
-        "subcat_id": 82
-      },
-      "source": {
-        "name": "Protection from the Dajjal",
-        "content": "Allah's Apostle (ﷺ) as saying: If anyone learns by heart the first ten verses of the Surah al-Kahf, he will be protected from the Dajjal.",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        456
-      ],
-      "id": 456,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 456,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Sahih (Albani). Abu Dawud: 983",
-        "audio": null,
-        "cat_id": 27,
-        "subcat_id": 82
-      },
-      "source": {
-        "name": "Seeking refuge from four things",
-        "content": "Abu Hurairah (RA) reported that the Messenger of Allah (ﷺ) as saying: When one of you finishes the last tashahhud, he should seek refuge in Allah from four things: the punishment in Hell, the punishment in the grave, the trail of life and death, and the evil of Antichrist.",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        457
-      ],
-      "id": 457,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 457,
-        "groups": "[{\"id\": 457, \"name\": null, \"cat_id\": 27, \"subcat_id\": 82, \"content\": \"He will respond by saying:\", \"uthmani\": \"\\u0623\\u064e\\u062d\\u064e\\u0628\\u0651\\u064e\\u0643\\u064e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a \\u0623\\u064e\\u062d\\u0652\\u0628\\u064e\\u0628\\u0652\\u062a\\u064e\\u0646\\u0650\\u064a\\u0652 \\u0644\\u064e\\u0647\\u064f\", \"indopak\": \"\\u0627\\u064e\\u062d\\u064e\\u0628\\u0651\\u064e\\u0643\\u064e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0652 \\u0627\\u064e\\u062d\\u0652\\u0628\\u064e\\u0628\\u0652\\u062a\\u064e\\u0646\\u0650\\u064a\\u0652 \\u0644\\u064e\\u0647\\u0657\", \"clean\": \"\\u0627\\u062d\\u0628\\u0643 \\u0627\\u0644\\u0630\\u064a \\u0627\\u062d\\u0628\\u0628\\u062a\\u0646\\u064a \\u0644\\u0647\", \"transliteration\": \"Ahabbakal-ladhee 'ahbabtanee lahu\", \"translation\": \"May He for Whose sake you love me, love you.\", \"note\": null, \"reference\": \"Hasan (Albani). Abu Dawud: 5125\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
-        "uthmani": "أُحِبُّكَ فِي اللَّهِ",
-        "indopak": "اُحِبُّكَ فِيْ اللّٰهِ",
-        "clean": "احبك في الله",
-        "transliteration": "U'hibbuka fill-aah",
-        "reference": null,
-        "audio": 457,
-        "cat_id": 27,
-        "subcat_id": 82
-      },
-      "source": {
-        "name": "If anyone likes you for the sake of Allah",
-        "content": "If a Muslim brother want to tell him that he loves him, he should say:",
-        "translation": "I love you for the sake of Allah.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        458
-      ],
-      "id": 458,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 458,
-        "groups": null,
-        "uthmani": "بَارَكَ اللَّهُ لَكَ فِي أَهْلِكَ وَمَالِكَ",
-        "indopak": "بَارَكَ اللّٰهُ لَكَ فِيْ اَهْلِكَ وَمَالِكَ",
-        "clean": "بارك الله لك في اهلك ومالك",
-        "transliteration": "BaarakAllahu laka fee 'ahlika wa maalika",
-        "reference": "Bukhari: 3780, 5167",
-        "audio": 458,
-        "cat_id": 24,
-        "subcat_id": 76
-      },
-      "source": {
-        "name": "To one who has offered you some of his wealth",
-        "content": "When Saad (RA) wanted to give half of his family and wealth, Abdur Rahman (RA) said -",
-        "translation": "May Allah bless you in your family and your property.",
-        "note": "`Abdur-Rahman (RA) then said, \"Where is your market?\" So they showed him the Qainuqa' market. (He went there and) returned with a profit in the form of dried yogurt and butter. He continued going (to the market) till one day he came, bearing the traces of yellow scent. The Prophet (ﷺ) asked, \"What is this (scent)?\" He replied, \"I got married.\" The Prophet (ﷺ) asked, \"How much Mahr did you give her?\" He replied, \"I gave her a datestone of gold or a gold piece equal to the weight of a date-stone.\" The Prophet (ﷺ) said, \"Arrange a marriage banquet even with a sheep."
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        459
-      ],
-      "id": 459,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 459,
-        "groups": null,
-        "uthmani": "بَارَكَ اللَّهُ لَكَ فِي أَهْلِكَ وَمَالِكَ، إِنَّمَا جَزَاءُ السَّلَفِ الْحَمْدُ وَالْأَدَاءُ",
-        "indopak": "بارَكَ اللّٰهُ لَكَ فِىْ اَهْلِكَ وَمَالِكَ، اِنَّمَا جَزَاءُ السَّلَفِ الْحَمْدُ وَالْاَدَاءُ",
-        "clean": "بارك الله لك في اهلك ومالك انما جزاء السلف الحمد والاداء",
-        "transliteration": "BaarakAllahu laka fee 'ahlika wa maalika, 'innamaa jazaa'us-salafil-hamdu wal'adaa'",
-        "reference": "Sahih (Albani). An-Nasai: 4683",
-        "audio": null,
-        "cat_id": 24,
-        "subcat_id": 76
-      },
-      "source": {
-        "name": "To the debtor when his debt is settled",
-        "content": "When repaying the loan, the Prophet (ﷺ) said:",
-        "translation": "May Allah bless you in your family and your wealth, surely the reward for a loan is praise and returning (what was borrowed).",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        460
-      ],
-      "id": 460,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 460,
-        "groups": "[{\"id\": 460, \"name\": null, \"cat_id\": 27, \"subcat_id\": 82, \"content\": \"Aaishah (RA) then said:\", \"uthmani\": \"\\u0648\\u064e\\u0641\\u0650\\u064a\\u0647\\u0650\\u0645\\u0652 \\u0628\\u064e\\u0627\\u0631\\u064e\\u0643\\u064e \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f\", \"indopak\": \"\\u0648\\u064e\\u0641\\u0650\\u064a\\u0652\\u0647\\u0650\\u0645\\u0652 \\u0628\\u064e\\u0627\\u0631\\u064e\\u0643\\u064e \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f\", \"clean\": \"\\u0648\\u0641\\u064a\\u0647\\u0645 \\u0628\\u0627\\u0631\\u0643 \\u0627\\u0644\\u0644\\u0647\", \"transliteration\": \"Wa feehim baarakAllah\", \"translation\": \"And may Allah bless them.\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 460, \"name\": null, \"cat_id\": 27, \"subcat_id\": 82, \"content\": \"So we return their supplication in a similar way and our reward will remain with us:\", \"uthmani\": \"\\u0648\\u064e\\u0641\\u0650\\u064a\\u0643\\u064e \\u0628\\u064e\\u0627\\u0631\\u064e\\u0643\\u064e \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f\", \"indopak\": \"\\u0648\\u064e\\u0641\\u0650\\u064a\\u0652\\u0643\\u064e \\u0628\\u064e\\u0627\\u0631\\u064e\\u0643\\u064e \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f\", \"clean\": \"\\u0648\\u0641\\u064a\\u0643 \\u0628\\u0627\\u0631\\u0643 \\u0627\\u0644\\u0644\\u0647\", \"transliteration\": \"Wa feeka baarakAllah\", \"translation\": \"And May Allah bless you.\", \"note\": null, \"reference\": \"Ibn As-Sunni (Page 138 , Hadith no. 278). Also see, Ibnul Qaiyyum's Al Wabilus Sayyeb Page 304. Tahkeek, Bashir Muhammad Uyun\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
-        "uthmani": "بَارَكَ اللَّهُ فِيكُمْ",
-        "indopak": "بَارَكَ اللّٰهُ فِيْكُمْ",
-        "clean": "بارك الله فيكم",
-        "transliteration": "BaarakAllahu feekum",
-        "reference": null,
-        "audio": 460,
-        "cat_id": 27,
-        "subcat_id": 82
-      },
-      "source": {
-        "name": "Dua to one who says 'May Allah bless you'",
-        "content": "Aaishah (RA) reported that the Messenger of Allah (ﷺ) was given a sheep and he ordered for its distribution. When the servant would come back [from distributing it], 'Aaishah (RA) asked, \"What did they say?\", he replied, \"They supplicated:",
-        "translation": "May Allah bless you all.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        461
-      ],
-      "id": 461,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 461,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ لَا طَيْرَ إِلَّا طَيْرُكَ وَلَا خَيْرَ إِلَّا خَيْرُكَ وَلَا إِلَهَ غَيْرُكَ",
-        "indopak": "اَللّٰهُمَّ لَا طَيْرَ اِلَّا طَيْرُكَ وَلَا خَيْرَ اِلَّا خَيْرُكَ وَلَا اِلٰهَ غَيْرُكَ",
-        "clean": "اللهم لا طير الا طيرك ولا خير الا خيرك ولا اله غيرك",
-        "transliteration": "Allaahumma laa tayra 'illaa tayruka, wa laa khayra 'illaa khayruka, wa laa 'ilaaha ghayruk",
-        "reference": "Sahih (Albani). Silsila Sahiha: 1065, Musnad Ahmad: 7045",
-        "audio": 461,
-        "cat_id": 27,
-        "subcat_id": 82
-      },
-      "source": {
-        "name": "Forbiddance of ascribing things to omens",
+        "name": "Dua for one afflicted by a calamity",
         "content": null,
-        "translation": "O Allah there is no portent other than Your portent, no goodness other than Your goodness, and none worthy of worship other than You.",
-        "note": null
+        "translation": "We are from Allah and unto Him we return. O Allah take me out of my plight and bring to me after it something better.",
+        "note": "Umm Salama (RA) reported Allah's Messenger (ﷺ) as saying: If any Muslim who suffers some calamity says, what Allah has commanded him,\" We are from Allah and unto Him we return. O Allah take me out of my plight and bring to me after it something better. When Abu Salama died Umm Salama said: What Muslim is better than Abu Salama whose family was the first to emigrate to the Messenger of Allah (ﷺ). I then said the words, and Allah gave me God's Messenger (ﷺ) in exchange."
       },
       "target": {
         "name": "",
         "content": null,
         "translation": "",
-        "note": null
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "বিপদ-কষ্টে নিপতিত ব্যক্তির দোয়া",
+        "translation": "নিশ্চয় আমরা আল্লাহ্‌র জন্য এবং নিশ্চয় তাঁর কাছেই আমরা ফিরে যাবো। হে আল্লাহ্‌ আপনি আমাকে এ বিপদ মুসিবতের পুরস্কার প্রদান করুন এবং আমাকে এর পরিবর্তে এর চেয়ে উত্তম কিছু প্রদান করুন।",
+        "note": "উম্মুল মু'মিনীন উম্মু সালামা (রাঃ) বলেন, আমি রাসূলুল্লাহ্‌ (ﷺ)-কে বলতে শুনেছি, যদি কোনো মুসলিম বিপদগ্রস্ত হয়ে এ কথাগুলো বলে তাহলে আল্লাহ্‌ তাকে অবশ্যই উক্ত ক্ষতির পরিবর্তে উত্তম বিষয় দান করে ক্ষতিপূরণ করে দিবেন। উম্মু সালামাহ বলেন, আমার স্বামী আবু সালামাহর মৃত্যুর পরে আমি চিন্তা করলাম, আবু সালামার চেয়ে আর কে ভালো হতে পারে! তারপরও আমি এ কথাগুলো বললাম। তখন আল্লাহ্‌ আমাকে আবু সালামার পরে রাসূলুল্লাহ্‌ (ﷺ)-কে স্বামী হিসাবে প্রদান করেন।"
       }
     },
     {
       "key": [
-        462
+        434
       ],
-      "id": 462,
+      "id": 434,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 462,
+        "id": 434,
         "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Bukhari: 1239",
-        "audio": null,
-        "cat_id": 28,
-        "subcat_id": 83
+        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِي عَافَانِيْ مِمَّا ابْتَلَاكَ بِهِ وَفَضَّلَنِيْ عَلَى كَثِيْرٍ مِمَّنْ خَلَقَ تَفْضِيْلًا",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ عَافَانِيْ مِمَّا ابْتَلَاكَ بِهٖ وَفَضَّلَنِيْ عَلٰى كَثِيْرٍ مِّمَّنْ خَلَقَ تَفْضِيْلًا",
+        "clean": "الحمد لله الذي عافاني مما ابتلاك به وفضلني علي كثير ممن خلق تفضيلا",
+        "transliteration": "Al-hamdu lil-laahil-ladhee ‘aafaanee mim-mab-ta-laaka bihi, wa fad-dala-nee ‛alaa kathee-rin mim-man khalaqa taf-deelaa",
+        "reference": "Sahih (Albani). At-Tirmidhi: 3431, 3432",
+        "audio": 434,
+        "cat_id": 26,
+        "subcat_id": 80
       },
       "source": {
-        "name": "In the case of sneezing Prophet (ﷺ)'s order #1",
-        "content": "Narrated Al-Bara' bin `Azib (RA): Allah's Messenger (ﷺ) ordered us to do seven things and forbade us to do other seven. He ordered us: to follow the funeral procession. to visit the sick, to accept invitations, to help the oppressed, to fulfill the oaths, to return the greeting and to reply to the sneezer: (saying, \"May Allah be merciful on you,\" provided the sneezer says, \"All the praises are for Allah,\"). He forbade us to use silver utensils and dishes and to wear golden rings, silk (clothes), Dibaj (pure silk cloth), Qissi and Istabraq (two kinds of silk cloths).",
-        "translation": null,
+        "name": "Dua upon seeing a person who has been afflicted by an ilness or disability",
+        "content": null,
+        "translation": "Praise be to Allah who had saved me from what He had afflicted you with, and for honouring me over many of his creations.",
+        "note": "Umar (RA) narrated that: The Messenger of Allah (ﷺ) said: “Whoever sees a person afflicted and say: (The dua is mentioned above) then he shall be saved from that affliction for as long as he lives.” Grandson of Husain (RA), Muhammad al-Bakir said, dua should be uttered silently without hearing the afflicted person."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "বিপদগ্রস্তকে দেখলে বলার দোয়া",
+        "translation": "প্রশংসা আল্লাহ্‌র জন্য, যিনি তোমাকে যে বিপদটি দিয়ে পরীক্ষা করেছেন সে বিপদ থেকে আমাকে নিরাপদ রেখেছেন এবং আমাকে তার অনেক সৃষ্টির থেকে অধিক মর্যাদা দিয়েছেন।",
+        "note": "উমর ইবনুল খাত্তাব (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ্‌ (ﷺ) বলেন, যদি কেউ কোনো বিপদগ্রস্ত দেখে উপরের কথাগুলো বলে তবে সে উক্ত বিপদ বা অসুবিধা থেকে (আজীবনের জন্য) নিরাপত্তা লাভ করবে, (বিপদ যেমনই হোক না কেন)। হুসাইন (রাঃ)-এর পৌত্র মুহাম্মাদ আল-বাকির বলেন, বিপদ বা অসুবিধায় নিপতিত মানুষ দেখলে তাকে না শুনিয়ে নিজের মনে এ কথা বলতে হবে।"
+      }
+    },
+    {
+      "key": [
+        435
+      ],
+      "id": 435,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 435,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "indopak": "اَعُوْذُ بِكَلِمَاتِ اللّٰهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "clean": "اعوذ بكلمات الله التامات من شر ما خلق",
+        "transliteration": "A‛oodhu bikalimaatil-laahit-taammaati min sharri maa khalaq",
+        "reference": "Muslim: 2709",
+        "audio": 435,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Protection of Insect stings",
+        "content": null,
+        "translation": "I seek refuge in the Perfect Words of Allah from the evil of what He has created.",
+        "note": "Abu Huraira (RA) reported that a person came to Allah's Messenger (ﷺ) and said:\" Allah's Messenger, I was stung by a scorpion during the night. Thereupon he said: Had you recited these words in the evening:\" I seek refuge in the Perfect Word of Allah from the evil of what He created,\" it would not have done any harm to you.\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "সাপ বিচ্ছু থেকে আত্মরক্ষার যিক্‌র",
+        "translation": "আল্লাহ্‌র পরিপূর্ণ বাক্যসমূহের আশ্রয় গ্রহণ করছি, তিনি যা কিছু সৃষ্টি করেছেন তার অকল্যাণ থেকে।",
+        "note": "আবু হুরাইরা (রাঃ) বলেন, এক ব্যক্তি রাসূলুল্লাহ্‌ (ﷺ) এর কাছে এসে বলে, হে আল্লাহ্‌র রাসূল, গত রাতে আমাকে একটি বিষাক্ত বিচ্ছু কামড় দিয়েছিল তাতে আমি খুব কষ্ট পেয়েছি। তিনি বলেন, “যদি তুমি সন্ধ্যার সময় এ কথা (উপরোক্ত দোয়াটি) বলতে তাহলে তা তোমার কোনো ক্ষতি করতে পারত না।” অন্য বর্ণনায় তিনি বলেন: “যদি কেউ সন্ধ্যায় তিন বার এ বাক্যটি বলে সে রাতে কোনো বিষ বা দংশন তাকে ক্ষতি করতে পারবে না।”"
+      }
+    },
+    {
+      "key": [
+        436
+      ],
+      "id": 436,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 436,
+        "groups": null,
+        "uthmani": "يَا حَيُّ، يَا قَيُّوْمُ",
+        "indopak": "يَا حَيُّ يَا قَيُّوْمُ",
+        "clean": "يا حي يا قيوم",
+        "transliteration": "Yaa Hayyu yaa Qayyoom",
+        "reference": "Hasan (Haisami). Tabarani: 4817",
+        "audio": 436,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Prayer for victory over enemies",
+        "content": null,
+        "translation": "O Ever Living One, O Eternal One.",
+        "note": "Ali (RA) said: ”In the day of Badr war, after fighting for some while I was rushing to come to the Messenger of Allah (ﷺ) to see what he was doing. I saw him in a state of prostration and only saying these words : ya ‘hayyu ya qayyum (O Ever Living One, O Eternal One) and didn’t increase over that. Then again I went to the war. After some time I returned to him. Again I saw him in a state of prostration and only saying those same words.Then again I went to the war. After some time  I returned to him and saw him in a state of prostration and only saying those same words. Then Allah granted him (ﷺ) victory.\n\nWe can see in this hadith how to make dua by dhikr. This type of dua brings best result."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "শত্রুদের উপর বিজয় লাভের প্রার্থনা",
+        "translation": "হে চিরঞ্জীব, হে সর্বসংরক্ষক।",
+        "note": "আলী (রাঃ) বলেন: “বদরের যুদ্ধের দিনে আমি কিছুক্ষণ যুদ্ধ করে রাসূলুল্লাহ্‌ (ﷺ) কি করছেন তা দেখার জন্য তাড়াহুড়ো করে ফিরে আসলাম। এসে দেখি তিনি সাজাদা রত অবস্থায় রয়েছেন এবং শুধু বলছেন: ইয়া হাইউ ইয়া কাইউম' (হে চিরঞ্জীব, হে সংরক্ষক), এর বেশি কিছুই বলছেন না। এরপর আমি আবার যুদ্ধের মধ্যে ফিরে গেলাম। কিছুক্ষণ পরে আবার আসলাম। দেখি তিনি সাজদা রত অবস্থায় ঐ কথাই বলছেন। এরপর আমি যুদ্ধে ফিরে গেলাম। কিছুক্ষণ পরে আবার ফিরে আসলাম। এসে দেখি তিনি সে কথাই বলছেন। এরপর আল্লাহ্‌ তাঁকে বিজয় দান করেন।\n\nএ হাদীসেও আমরা দেখছি, কিভাবে যিক্‌রের মাধ্যমে দোয়া করা হয়। এরূপ সমর্পিত যিক্‌র সর্বোত্তম দোয়ার ফল এনে দেয়।"
+      }
+    },
+    {
+      "key": [
+        437
+      ],
+      "id": 437,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 437,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ، الْعَظِيْمُ الْحَلِيْمُ لَا إِلَهَ إِلَّا اللَّهُ، رَبُّ الْعَرْشِ الْعَظِيْمِ لَا إِلَهَ إِلَّا اللَّهُ، رَبُّ السَّمَاوَاتِ، وَرَبُّ الْأَرْضِ، وَرَبُّ الْعَرْشِ الْكَرِيمِ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ، اَلْعَظِيْمُ الْحَلِيْمُ لَا اِلٰهَ اِلَّا اللّٰهُ، رَبُّ الْعَرْشِ الْعَظِيْمِ لَا اِلٰهَ اِلَّا اللّٰهُ، رَبُّ السَّمَاوَاتِ، وَرَبُّ الْاَرْضِ، وَرَبُّ الْعَرْشِ الْكَرِيْمِ",
+        "clean": "لا اله الا الله العظيم الحليم لا اله الا الله رب العرش العظيم لا اله الا الله رب السماوات ورب الارض ورب العرش الكريم",
+        "transliteration": "Laa 'ilaaha 'illAllaahul-'Adheemul-Haleem, laa 'ilaaha 'illAllaahu Rabbul-'Arshil-'Adheem, laa 'ilaaha 'illAllaahu Rabbus-samaawaati wa Rabbul-'ardhi wa Rabbul-'Arshil-Kareem",
+        "reference": "Bukhari: 7431",
+        "audio": 437,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Anxiety and Sorrow #1",
+        "content": "Ibn 'Abbas (RA) said: The Messenger of Allah (ﷺ) used to say these words in times of danger or hardship:",
+        "translation": "There is none worthy of worship but Allah the Mighty, the Forbearing. There is none worthy of worship but Allah, Lord of the Magnificent Throne. There is none worthy of worship but Allah, Lord of the heavens and Lord of the earth, and Lord of the Noble Throne.",
         "note": null
       },
       "target": {
         "name": "",
         "content": "",
-        "translation": null,
+        "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "দুশ্চিন্তা বা বিপদগ্রস্তের দোয়া #১",
+        "content": "রাসূলুল্লাহ্‌ (ﷺ) বিপদ বা কষ্টের সময় এ কথাগুলো বলতেন -",
+        "translation": "আল্লাহ্‌ ছাড়া কোন প্রকৃত মাবুদ নেই, যিনি মহান, মহাধৈর্যশীল মহা বিচক্ষণ, আল্লাহ্‌ ছাড়া কোন প্রকৃত মাবুদ নেই, যিনি মহান আরশের প্রভু, আল্লাহ্‌ ছাড়া কোন প্রকৃত মাবুদ নেই, যিনি আসমানসমূহের, জমিনের ও সম্মানিত আরশের প্রভু।"
       }
     },
     {
       "key": [
-        463
+        438
       ],
-      "id": 463,
+      "id": 438,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 463,
+        "id": 438,
         "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Bukhari: 1240",
-        "audio": null,
-        "cat_id": 28,
-        "subcat_id": 83
+        "uthmani": "اَللَّهُ رَبِّي لَا أُشْرِكُ بِهِ شَيْئًا",
+        "indopak": "اَللّٰهُ رَبِّيْ لَا اُشْرِكُ بِهٖ شَيْئًا",
+        "clean": "الله ربي لا اشرك به شيءا",
+        "transliteration": "Allahu Rabbee laa 'ushriku bihi shay'an",
+        "reference": "Sahih (Albani). Ibn Majah: 3882",
+        "audio": 438,
+        "cat_id": 26,
+        "subcat_id": 80
       },
       "source": {
-        "name": "In the case of sneezing Prophet (ﷺ)'s order #2",
-        "content": "Narrated Abu Huraira: I heard Allah's Messenger (ﷺ) saying, \"The rights of a Muslim on the Muslims are five: to respond to the salaam, visiting the sick, to follow the funeral processions, to accept an invitation, and to return the greeting and to reply to the sneezer: (saying, \"May Allah be merciful on you,\" provided the sneezer says, \"All the praises are for Allah,\").",
-        "translation": null,
+        "name": "Anxiety and Sorrow #2",
+        "content": null,
+        "translation": "Allah is my Lord. I do not associate anything with Him.",
+        "note": "Ayesha (RA) said, \"The Messenger of Allah (ﷺ), used to gather all his family together and say: If any of you are ever in trouble or in danger, say this.\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "দুশ্চিন্তা বা বিপদগ্রস্তের দোয়া #২",
+        "translation": "আল্লাহ্‌ আমার রব, তার সাথে কাউকে শরীক করি না।",
+        "note": "আয়েশা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) তাঁর পরিবারের সবাইকে একত্রিত করে বলতেন: “তোমাদের কেউ কখনো দুশ্চিন্তা বা বিপদের মধ্যে নিপতিত হলে এ কথা বলবে।”"
+      }
+    },
+    {
+      "key": [
+        439
+      ],
+      "id": 439,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 439,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَنْتَ عَضُدِي، وَأَنْتَ نَصِيرِي، بِكَ أَحُولُ وَبِكَ أَصُولُ، وَبِكَ أُقَاتِلُ",
+        "indopak": "اَللّٰهُمَّ اَنْتَ عَضُدِيْ، وَاَنْتَ نَصِيْرِيْ، بِكَ اَحُوْلُ وَبِكَ اَصُوْلُ، وَبِكَ اُقَاتِلُ",
+        "clean": "اللهم انت عضدي وانت نصيري بك احول وبك اصول وبك اقاتل",
+        "transliteration": "Allaahumma 'Anta 'adhudee, wa 'Anta naseeree, bika 'a'hoolu, wa bika 'asoolu, wa bika 'uqaatilu",
+        "reference": "Hasan Garib (Albani). Abu Dawud: 2632",
+        "audio": 439,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Anxiety and Sorrow #3",
+        "content": "The Messenger of Allah (ﷺ), used to say during the battle:",
+        "translation": "O Allah, You are my strength and You are my support. For Your sake I go forth and for Your sake I advance and for Your sake I fight.",
         "note": null
       },
       "target": {
         "name": "",
         "content": "",
-        "translation": null,
+        "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "দুশ্চিন্তা বা বিপদগ্রস্তের দোয়া #৩",
+        "content": "যুদ্ধের সময় আল্লাহ্‌র রাসূল (ﷺ) বলতেন -",
+        "translation": "হে আল্লাহ্‌! তুমিই আমার শক্তি, তুমিই আমার সাহায্যকারী; তোমার মাধ্যমে আমি প্রতিরোধ গড়ে তুলি, আর তোমার শক্তিতে আমি আক্রমণ ও লড়াই করি।"
       }
     },
     {
       "key": [
-        464
+        440
       ],
-      "id": 464,
+      "id": 440,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 464,
+        "id": 440,
         "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Bukhari: 3289",
-        "audio": null,
-        "cat_id": 28,
-        "subcat_id": 83
+        "uthmani": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+        "indopak": "حَسْبُنَا اللّٰهُ وَنِعْمَ الْوَكِيْلُ",
+        "clean": "حسبنا الله ونعم الوكيل",
+        "transliteration": "HasbunAllahu wa ni'amal-wakeel",
+        "reference": "Bukhari: 4563",
+        "audio": 440,
+        "cat_id": 26,
+        "subcat_id": 80
       },
       "source": {
-        "name": "In the case of sneezing Prophet (ﷺ)'s order #3",
-        "content": "Narrated by Abu Hurairah (RA), that the Messenger of Allah (ﷺ) said: \"Indeed Allah loves sneezing and He dislikes the yawn. So when one of you sneezes and says 'Al-Hamdulillah (All praise is due to Allah),' then it is a right due from every one who hears him to say: 'Yarhamukallah (May Allah have mercy upon you)' As for yawning then when one of you yawns let him suppress it as much as possible and not say: \"Hah Hah' for that is only from Ash-Shaitan laughing at him.\"",
-        "translation": null,
-        "note": null
+        "name": "Anxiety and Sorrow #4",
+        "content": null,
+        "translation": "Allah is sufficient for me, and how fine a trustee (He is).",
+        "note": "This dua was recited by Ibrahim (As) when he was thrown into the fire. And Muhammad (ﷺ) recited this prayer when the people said to him, \"The people are united against you!\""
       },
       "target": {
         "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        465
-      ],
-      "id": 465,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 465,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Sahih (Albani). Silsilah Sahihah: 1330",
-        "audio": null,
-        "cat_id": 28,
-        "subcat_id": 83
+        "content": null,
+        "translation": "",
+        "note": ""
       },
-      "source": {
-        "name": "How many times do you have to respond to sneezing?",
-        "content": "Narrated Abu Huraira (RA): I heard the Messenger of Allah (ﷺ), say, \"If one of you sneezes, the person next to him should say, 'Yarhamukallah'; \"If you sneeze more than three times, you will understand that he has a cold. So you don't have to say 'Yarhamukallah' after three times.”",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        466
-      ],
-      "id": 466,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 466,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Hasan Sahih (Albani). Abu Dawud: 5029",
-        "audio": null,
-        "cat_id": 28,
-        "subcat_id": 83
-      },
-      "source": {
-        "name": "Manners in sneezing",
-        "content": "Narrated Abu Hurayrah (RA): When the Messenger of Allah (ﷺ) sneezed, he placed his hand or a garment on his mouth, and lessened the noise.",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        467
-      ],
-      "id": 467,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 467,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Muslim: 2995",
-        "audio": null,
-        "cat_id": 28,
-        "subcat_id": 83
-      },
-      "source": {
-        "name": "Etiquette in yawn",
-        "content": "Allah's Messenger (ﷺ) said: When one of you yawns, he should keep his mouth shut with the help of his hand, for it is the devil that enters therein.",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
+      "reference_bn": {
+        "name": "দুশ্চিন্তা বা বিপদগ্রস্তের দোয়া #৪",
+        "translation": "আমাদের জন্য আল্লাহ্‌ই যথেষ্ট, আর তিনিই সবচেয়ে ভালো অভিভাবক।",
+        "note": "এ দোয়া পড়েছিলেন ইবরাহীম (আঃ), যখন তাঁকে আগুনে নিক্ষেপ করা হয়েছিল। আর এ দোয়া পড়েছেন মুহাম্মাদ (ﷺ), যখন লোকজন তাঁকে বলেছিল, “তোমাদের বিরুদ্ধে কিন্তু লোকজন একজোট হয়েছে!”"
       }
     }
   ]

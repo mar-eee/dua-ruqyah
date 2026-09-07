@@ -4,65 +4,477 @@
   "source_language": "en",
   "target_language": "TARGET",
   "status": "pending",
-  "rows": 19,
-  "id_range": "299-317",
-  "source_chars": 5998,
+  "rows": 14,
+  "id_range": "284-297",
+  "source_chars": 5838,
   "items": [
     {
       "key": [
-        299
+        284
       ],
-      "id": 299,
+      "id": 284,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 299,
+        "id": 284,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ اغْفِرْ لَهَا وَارْحَمْهَا وَعَافِهَا وَاعْفُ عَنْهَا وَأَكْرِمْ نُزُلَهَا وَوَسِّعْ مُدْخَلَهَا وَاغْسِلْهَا بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ وَنَقِّهَا مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ وَأَبْدِلْهَا دَارًا خَيْرًا مِنْ دَارِهَا وَأَهْلًا خَيْرًا مِنْ أَهْلِهَا وَزَوْجًا خَيْرًا مِنْ زَوْجِهَا وَأَدْخِلْهَا الْجَنَّةَ وَأَعِذْهَا مِنْ عَذَابِ الْقَبْرِ [عَذَابِ النَّارِ]",
-        "indopak": "اَللّٰهُمَّ اغْفِرْ لَهَا وَارْحَمْهَا وَعَافِهَا وَاعْفُ عَنْهَا وَاَكْرِمْ نُزُلَهَا وَوَسِّعْ مُدْخَلَهَا وَاغْسِلْهَا بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ وَنَقِّهَا مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْاَبْيَضَ مِنَ الدَّنَسِ وَاَبْدِلْهَا دَارًا خَيْرًا مِّنْ دَارِهَا وَاَهْلًا خَيْرًا مِّنْ اَهْلِهَا وَزَوْجًا خَيْرًا مِّنْ زَوْجِهَا وَاَدْخِلْهَا الْجَنَّةَ وَاَعِذْهَا مِنْ عَذَابِ الْقَبْرِ [عَذَابِ النَّارِ]",
-        "clean": "اللهم اغفر لها وارحمها وعافها واعف عنها واكرم نزلها ووسع مدخلها واغسلها بالماء والثلج والبرد ونقها من الخطايا كما نقيت الثوب الابيض من الدنس وابدلها دارا خيرا من دارها واهلا خيرا من اهلها وزوجا خيرا من زوجها وادخلها الجنه واعذها من عذاب القبر عذاب النار",
-        "transliteration": "Allahum-maghfir laha warhamha, wa 'aafiha, wa'fu 'anha, wa 'akrim nuzulaha, wa wassi' mudkhalaha, waghsilha bilmaa'i waththalji walbarad, wa naqqiha minal-khataayaa kamaa naqqaytath-thawbal-'abyadha minad-danas, wa 'abdilha daaran khayran min daariha, wa 'ahlan khayran min 'ahliha, wa zawjan khayran min zawjiha, wa 'adkhilhal-jannata, wa 'a'idh-ha min 'adhaabil-qabr [or, 'adhaabin-naar instead of 'adhaabil-qabr].",
+        "uthmani": "وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ ﴿١٣٥﴾ أُولَٰئِكَ جَزَاؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ وَنِعْمَ أَجْرُ الْعَامِلِينَ ﴿١٣٦﴾",
+        "indopak": "وَالَّذِينَ اِذَا فَعَلُوْا فَاحِشَةً اَوْ ظَلَمُوْا اَنْفُسَهُمْ ذَكَرُوا اللّٰهَ فَاسْتَغْفَرُوْا لِذُنُوْبِهِمْ وَمَن يَّغْفِرُ الذُّنُوْبَ اِلَّا اللّٰهُ وَلَمْ يُصِرُّوْا عَلٰى مَا فَعَلُوْا وَهُمْ يَعْلَمُونَ ﴿١٣٥﴾ اُولٰئِكَ جَزَاؤُهُمْ مَّغْفِرَةٌ مِّنْ رَّبِّهِمْ وَجَنَّاتٌ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهَارُ خَالِدِيْنَ فِيْهَا ۚ وَنِعْمَ اَجْرُ الْعَامِلِيْنَ ﴿١٣٦﴾",
+        "clean": "والذين اذا فعلوا فاحشه او ظلموا انفسهم ذكروا الله فاستغفروا لذنوبهم ومن يغفر الذنوب الا الله ولم يصروا علي ما فعلوا وهم يعلمون ١٣٥ اولءك جزاءهم مغفره من ربهم وجنات تجري من تحتها الانهار خالدين فيها  ونعم اجر العاملين ١٣٦",
+        "transliteration": null,
+        "reference": "Sahih (Albani). Abu Dawud: 1521",
+        "audio": 284,
+        "cat_id": 14,
+        "subcat_id": 53
+      },
+      "source": {
+        "name": "The prayer of repentance",
+        "content": "Allah's Messenger (ﷺ) said, \"If a servant commits a sin, then performs ablution properly, then stands up and prays two rak'ats and seeks forgiveness from Allah, Allah will surely forgive him.\" Then he recited this verse –",
+        "translation": "(135) And those who, when they commit an immorality or wrong themselves [by transgression], remember Allah and seek forgiveness for their sins -  and who can forgive sins except Allah ? -  and [who] do not persist in what they have done while they know. (136) Those -  their reward is forgiveness from their Lord and gardens beneath which rivers flow [in Paradise], wherein they will abide eternally; and excellent is the reward of the [righteous] workers. (Sura Ali Imran 3:135-136)",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "তাওবা'র সালাত",
+        "content": "আল্লাহ্‌র রাসূল (ﷺ) বলেছেন, কোনও বান্দা যদি কোনও গোনাহ করে, তারপর সুন্দরভাবে ওযূ করে, এরপর দাঁড়িয়ে দু'রাকআত সালাত আদায় করে আল্লাহ্‌র কাছে ক্ষমা চায়, আল্লাহ্‌ অবশ্যই তাকে মাফ করে দেবেন। এরপর তিনি এ আয়াত পাঠ করেন -",
+        "translation": "(১৩৫) আর যারা কোন অশ্লীল কাজ করলে অথবা নিজদের প্রতি যুলম করলে আল্লাহ্‌কে স্মরণ করে, অতঃপর তাদের গুনাহের জন্য ক্ষমা চায়। আর আল্লাহ্‌ ছাড়া কে গুনাহ ক্ষমা করবে? আর তারা যা করেছে, জেনে শুনে তা তারা বার বার করে না। (১৩৬) এরাই তারা, যাদের প্রতিদান তাদের রবের পক্ষ থেকে মাগফিরাত ও জান্নাতসমূহ যার তলদেশে প্রবাহিত রয়েছে নহরসমূহ। সেখানে তারা স্থায়ী হবে। আর আমলকারীদের প্রতিদান কতই না উত্তম! (সূরা আল-ইমরান ৩:১৩৫-১৩৬)"
+      }
+    },
+    {
+      "key": [
+        285
+      ],
+      "id": 285,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 285,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لَهُ، وَارْفَعْ دَرَجَتَهُ فِي الْمَهْدِيِّينَ، وَاخْلُفْهُ فِي عَقِبِهِ فِي الْغَابِرِيْنَ، وَاغْفِرْ لَنَا وَلَهُ يَا رَبَّ الْعَالَمِيْنَ، وَافْسَحْ لَهُ فِي قَبْرِهِ، وَنَوِّرْ لَهُ فِيهِ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لَهٗ، وَارْفَعْ دَرَجَتَهٗ فِي الْمَهْدِيِّيْنَ، وَاخْلُفْهٗ فِيْ عَقِبِهٖ فِيْ الْغَابِرِيْنَ، وَاغْفِرْ لَنَا وَلَهٗ يَا رَبَّ الْعَالَمِيْنَ، وَافْسَحْ لَهُ فِيْ قَبْرِهٖ، وَنَوِّرْ لَهٗ فِيْهِ",
+        "clean": "اللهم اغفر له وارفع درجته في المهديين واخلفه في عقبه في الغابرين واغفر لنا وله يا رب العالمين وافسح له في قبره ونور له فيه",
+        "transliteration": "Alla-humma'gfir lahu (person's name), warfa'a darajatahu fil mahdiyin, wa'khlufhu fi 'aqibihi fil ga-birin, wagfir lana wa lahu ya rabbal' a-lamin, wafsa'ah lahu fi qabrihi, wa nau-wir lahu fihi",
+        "reference": "Muslim: 920",
+        "audio": 285,
+        "cat_id": 15,
+        "subcat_id": 54
+      },
+      "source": {
+        "name": "Dua for closing the eyes of the dead body",
+        "content": null,
+        "translation": "O Allah, forgive him (person's name), raise his degree among those who are rightly guided, grant him a successor in his descendants who remain. Forgive us and him, O Lord of the Universe, and make his grave spacious, and grant him light in it.",
+        "note": "The Messenger of Allah (ﷺ) came to Abu Salama (RA) (as he died). His eyes were fixedly open. Rasoolullah (ﷺ) closed them, and then said: When the soul is taken away the sight follows it. Some of the people of his family wept and wailed. So he said: Do not supplicate for yourselves anything but good, for angels say \"Amen\" to what you say. He then said- (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "মৃত ব্যক্তির চোখ বন্ধ করানোর দোয়া",
+        "translation": "হে আল্লাহ্‌, আপনি ক্ষমা করুন এ ব্যক্তিকে (ব্যক্তির নাম) এবং হেদায়াতপ্রাপ্তদের মধ্যে তার মর্যাদা বৃদ্ধি করুন, তার কবরকে তার জন্য প্রশস্ত করুন, তার জন্য তা আলোকিত করুন, তার উত্তরসূরীদের মধ্যে আপনিই তার খলীফা-স্থলাভিষিক্ত থাকুন, আমাদেরকে এবং তাকে ক্ষমা করুন, হে বিশ্বজগতের প্রতিপালক, তাঁর কবরকে প্রশস্ত এবং নূরে পরিপূর্ণ করে দিন।",
+        "note": "উম্মে সালামাহ্ (রাঃ) বলেন, রাসূল (ﷺ) আবু সালামার নিকট আসলেন, এমতাবস্থায় তার চক্ষু খোলা ছিল, তিনি তাঁর চক্ষু বন্ধ করলেন। অতঃপর বললেন, ‘রূহ যখন কবয করা হয় তখন চক্ষু তার অনুস্বরণ করে। এ কথা শুনে আবু সালামার পরিবারের কিছু লোক চিৎকার করে কেঁদে উঠল। তখন রাসূল (ﷺ) বললেন, তোমরা তোমাদের রূহের জন্য কল্যাণ ছাড়া অমঙ্গল কামনা করো না। তোমরা যা বলো ফেরেশতাগণ তার সাথে সাথে ‘আমীন’ বলেন। অতঃপর রাসূল (ﷺ) এ দোয়াটি তিনি বলেন - (উপরে দোয়াটি উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        286
+      ],
+      "id": 286,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 286,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Sahih (Albani). Ibn Majah:1565",
+        "audio": null,
+        "cat_id": 15,
+        "subcat_id": 55
+      },
+      "source": {
+        "name": "Throwing soil after burial",
+        "content": "It is narrated in Sahih Hadith that after burying the dead, it is Sunnah for those present to throw soil three times with both hands. Abu Hurairah (RA) said: \"The Prophet (ﷺ) offered a janaza prayer. Then he went to the grave of the dead man and threw soil on him three times from the side of his head.\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      },
+      "reference_bn": {
+        "name": "কবরস্থ করার পরে কবরে মাটি ফেলা",
+        "content": "সহীহ হাদীসে বর্ণিত যে, মৃতকে কবরস্থ করার পরে উপস্থিত ব্যক্তিদের জন্য সুন্নাত তিন বার দু হাত ভরে মাটি কবরে ফেলা। আবু হুরাইরা (রাঃ) বলেন, “রাসূলুল্লাহ্‌ (ﷺ) একটি জানাযার সালাত আদায় করলেন। এরপর মৃতের কবরে গিয়ে তার মাথার দিক থেকে তার উপর তিনবার মাটি ফেললেন।’’"
+      }
+    },
+    {
+      "key": [
+        287
+      ],
+      "id": 287,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 287,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ وَعَلَى سُنَّةِ رَسُوْلِ اللَّهِ (ﷺ)",
+        "indopak": "بِسْمِ اللّٰهِ وَعَلٰى سُنَّةِ رَسُوْلِ اللّٰه (ﷺ)",
+        "clean": "بسم الله وعلي سنه رسول الله ",
+        "transliteration": "Bismillaahi wa 'alaa sunnati Rasulillaah",
+        "reference": "Sahih (Albani). Abu Dawud: 3213",
+        "audio": 287,
+        "cat_id": 15,
+        "subcat_id": 55
+      },
+      "source": {
+        "name": "When placing the dead in the grave #1",
+        "content": "Ibn 'Umar (RA) said, \"The Messenger of Allah (ﷺ) used to say this dua when he put the dead body in the grave:",
+        "translation": "With the Name of Allah and according to the Sunnah of the Messenger of Allah (ﷺ).",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মৃতকে কবরস্থ করার দোয়া #১",
+        "content": "ইবন উমর (রাঃ) বলেন, “রাসূলুল্লাহ্‌ (ﷺ) যখন মৃতদেহকে কবরে নামাতেন তখন এ কথা বলতেন -",
+        "translation": "আল্লাহ্‌র নামে এবং রাসূলুল্লাহ্‌ (ﷺ)-এর সুন্নাতের উপর (লাশকে কবরে রাখছি)"
+      }
+    },
+    {
+      "key": [
+        288
+      ],
+      "id": 288,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 288,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ وَعَلَى مِلَّةِ رَسُوْلِ اللَّهِ",
+        "indopak": "بِسْمِ اللّٰهِ وَعَلٰى مِلَّةِ رَسُوْلِ اللّٰهِ",
+        "clean": "بسم الله وعلي مله رسول الله",
+        "transliteration": "Bismillaahi wa 'alaa millati Rasoolillaah",
+        "reference": "Sahih (Albani). Ibn Majah: 1550",
+        "audio": 288,
+        "cat_id": 15,
+        "subcat_id": 55
+      },
+      "source": {
+        "name": "When placing the dead in the grave #2",
+        "content": "The Prophet (ﷺ) said, ‘When you put death body in grave, say:",
+        "translation": "With the Name of Allah and according to the millat of the Messenger of Allah (ﷺ).",
+        "note": "Sunnah is to place the dead in the grave on his right side. There is no evidence to place the dead on his back and hands on the chest. When giving soil, there is no Dua to recite except Bismillah."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "মৃতকে কবরস্থ করার দোয়া #২",
+        "content": "রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, ‘যখন তোমরা লাশ কবরে রাখ, তখন বল -",
+        "translation": "আল্লাহ্‌র নামে এবং তাঁর রাসূল (ﷺ)-এর মিল্লাতের উপর (লাশকে কবরে রাখছি)",
+        "note": "মৃতব্যক্তিকে ডান কাতে কবরে রাখা সুন্নত। চিৎ করে এবং বুকের উপর হাত রেখে কবরে রাখার কোন প্রমাণ নেই। আর মাটি দেওয়ার সময় বিসমিল্লাহ ছাড়া কোন দোয়া নেই।"
+      }
+    },
+    {
+      "key": [
+        289
+      ],
+      "id": 289,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 289,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ وَفِي سَبِيلِ اللَّهِ وَعَلَى مِلَّةِ رَسُولِ اللَّهِ",
+        "indopak": "بِسْمِ اللّٰهِ وَفِيْ سَبِيْلِ اللّٰهِ وَعَلٰى مِلَّةِ رَسُوْلِ اللّٰهِ",
+        "clean": "بسم الله وفي سبيل الله وعلي مله رسول الله",
+        "transliteration": "Bismillahi wa fi sabilillahi wa 'ala millati rasoolillah (ﷺ)",
+        "reference": "Sahih (Albani). Ibn Majah: 1270",
+        "audio": 289,
+        "cat_id": 15,
+        "subcat_id": 55
+      },
+      "source": {
+        "name": "When placing the dead in the grave #3",
+        "content": "The Prophet (ﷺ) said, When you put death body in grave, say:",
+        "translation": "With the Name of Allah, in the path of Allah and according to the millat of the Messenger of Allah (ﷺ)",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মৃতকে কবরস্থ করার দোয়া #৩",
+        "content": "রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, ‘যখন তোমরা লাশ কবরে রাখ, তখন বল -",
+        "translation": "আল্লাহ্‌র নামে, আল্লাহ্‌র পথে এবং আল্লাহ্‌র রাসূলের মিল্লাতের উপর (লাশকে কবরে রাখছি)"
+      }
+    },
+    {
+      "key": [
+        290
+      ],
+      "id": 290,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 290,
+        "groups": null,
+        "uthmani": "اَلسَّلَامُ عَلَيْكُمْ أَهْلَ الدِّيَارِ مِنَ الْمُؤْمِنِيْنَ وَالْمُسْلِمِيْنَ إِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَاحِقُوْنَ أَسْاَلُ اللَّهَ لَنَا وَلَكُمُ الْعَافِيَةَ",
+        "indopak": "اَلسَّلَامُ عَلَيْكُمْ اَهْلَ الدِّيَارِ مِنَ الْمُؤْمِنِيْنَ وَالْمُسْلِمِيْنَ اِنَّا اِنْ شَاءَ اللّٰهُ بِكُمْ لَاحِقُوْنَ اَسْاَلُ اللّٰهَ لَنَا وَلَكُمُ الْعَافِيَةَ",
+        "clean": "السلام عليكم اهل الديار من المءمنين والمسلمين انا ان شاء الله بكم لاحقون اسال الله لنا ولكم العافيه",
+        "transliteration": "As-salamu 'alaykum ahlad diyari min al-mu'minina wal-muslimin, inna In sha' Allahu bikum lahikun, as-alullaha lana walakumul 'afiyah",
+        "reference": "Muslim: 975",
+        "audio": 290,
+        "cat_id": 15,
+        "subcat_id": 56
+      },
+      "source": {
+        "name": "Dua for visiting graves #1",
+        "content": null,
+        "translation": "Peace be upon you, the inhabitants of the grave, among the believers, and Muslims, and if Allah will then we shall join you. I pray to Allah peace for us and for you.",
+        "note": "Buraida ibnul husaib aslami (RA) narrated that the Messenger of Allah (ﷺ) used to teach them to recite this dua when anyone went to the graveyard."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "কবর যিয়ারতের দোয়া #১",
+        "translation": "হে কবরবাসী মুমিন ও মুসলিম! তোমাদের প্রতি সালাম বর্ষিত হোক, আমরাও তোমাদের সাথে মিলিত হচ্ছি ইনশাআল্লাহ্‌। আমরা আল্লাহ্‌র নিকট আমাদের জন্য এবং তোমাদের জন্য নিরাপত্তা প্রার্থনা করছি।",
+        "note": "বুরাইদা ইবনুল হুসাইব আসলামী (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) সাহাবীগণকে শিক্ষা দিতেন যে, কেউ যেন কবরস্থানে গেলে এ কথাগুলো বলে।"
+      }
+    },
+    {
+      "key": [
+        291
+      ],
+      "id": 291,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 291,
+        "groups": null,
+        "uthmani": "اَلسَّلَامُ عَلَى أَهْلِ الدِّيَارِ مِنَ الْمُؤْمِنِيْنَ وَالْمُسْلِمِيْنَ وَيَرْحَمُ اللَّهُ الْمُسْتَقْدِمِيْنَ مِنَّا وَالْمُسْتَأْخِرِيْنَ وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَلَاحِقُونَ",
+        "indopak": "اَلسَّلَامُ عَلٰى اَهْلِ الدِّيَارِ مِنَ الْمُؤْمِنِيْنَ وَالْمُسْلِمِيْنَ وَيَرْحَمُ اللّٰهُ الْمُسْتَقْدِمِيْنَ مِنَّا وَالْمُسْتَأْخِرِيْنَ وَاِنَّا اِنْ شَاءَ اللّٰهُ بِكُمْ لَلَاحِقُوْنَ",
+        "clean": "السلام علي اهل الديار من المءمنين والمسلمين ويرحم الله المستقدمين منا والمستاخرين وانا ان شاء الله بكم للاحقون",
+        "transliteration": "As-salamu 'ala ahlid diya-ri minal mu’minin wal muslimin, wa yarhamullahul mustaq’dimina minna-wal mustakhirin, wa inna- insa allahu bikum lala-’hiqun",
+        "reference": "Sahih (Albani). Mishkatul Masabih: 1767",
+        "audio": 291,
+        "cat_id": 15,
+        "subcat_id": 56
+      },
+      "source": {
+        "name": "Dua for visiting graves #2",
+        "content": null,
+        "translation": "Peace be upon the inhabitants of this place among the believers and Muslims. May Allah have mercy upon those who have gone on ahead of us and those who come later on, and we will join you, if Allah wills.",
+        "note": "A’isha (RA) asked Allah’s messenger (ﷺ) what she should say, i.e. when visiting graves, and he told her to say (The Dua is mentioned above)."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "কবর যিয়ারতের দোয়া #২",
+        "translation": "হে কবরবাসী মুমিন ও মুসলমান! তোমাদের প্রতি সালাম বর্ষিত হোক, আমাদের মধ্যে যারা আগে গিয়েছেন এবং যারা পরে যাবেন সকলকেই আল্লাহ্‌ রহমত করুন। আল্লাহ্‌র ইচ্ছায় আমরা তোমাদের সাথে মিলিত হব।",
+        "note": "‘আয়েশা্ (রাঃ) থেকে বর্ণিত, তিনি বলেন, আমি বললাম, হে আল্লাহ্‌র রাসূল! ক্ববর যিয়ারতে আমি কি বলব? তিনি বললেন, (উপরে দোয়াটি উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        292
+      ],
+      "id": 292,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 292,
+        "groups": null,
+        "uthmani": "اَلسَّلَامُ عَلَيْكُمْ دَارَ قَوْمٍ مُؤْمِنِيْنَ، وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَاحِقُوْنَ",
+        "indopak": "اَلسَّلَامُ عَلَيْكُمْ دَارَ قَوْمٍ مُؤْمِنِيْنَ، وَاِنَّا اِنْ شَاءَ اللّٰهُ بِكُمْ لَاحِقُوْنَ",
+        "clean": "السلام عليكم دار قوم مءمنين وانا ان شاء الله بكم لاحقون",
+        "transliteration": "As-salamu 'alaikum dara qaumin mu’minin, wa inna-insha- allahu bikum la-‘hikun",
+        "reference": "Muslim: 249",
+        "audio": 292,
+        "cat_id": 15,
+        "subcat_id": 56
+      },
+      "source": {
+        "name": "Dua for visiting graves #3",
+        "content": null,
+        "translation": "Peace be upon you, O you who believe. We will meet you, if Allah willing.",
+        "note": "Abu Hurairah said, \"The Messenger of Allah (ﷺ) went to the graveyard and said these words.\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "কবর যিয়ারতের দোয়া #৩",
+        "translation": "তোমাদের উপর সালাম, হে মুমিন কবরবাসিগণ। আল্লাহ্‌র ইচ্ছায় আমরা তোমাদের সাথে মিলিত হব।",
+        "note": "আবূ হুরাইরা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) কবরস্থানে গিয়ে এ কথাগুলো বলেছেন।"
+      }
+    },
+    {
+      "key": [
+        293
+      ],
+      "id": 293,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 293,
+        "groups": null,
+        "uthmani": "اَلسَّلَامُ عَلَيْكُمْ دَارَ قَوْمٍ مُؤْمِنِيْنَ وَأَتَاكُمْ مَا تُوعَدُونَ غَدًا مُؤَجَّلُونَ وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَاحِقُونَ اَللَّهُمَّ اغْفِرْ لِأَهْلِ بَقِيعِ الْغَرْقَدِ",
+        "indopak": "اَلسَّلَامُ عَلَيْكُمْ دَارَ قَوْمٍ مُؤْمِنِيْنَ وَاَتَاكُمْ مَا تُوْعَدُوْنَ غَدًا مُّؤَجَّلُوْنَ وَاِنَّا اِنْ شَاءَ اللّٰهُ بِكُمْ لَاحِقُوْنَ اَللّٰهُمَّ اغْفِرْ لِاَهْلِ بَقِيْعِ الْغَرْقَدِ",
+        "clean": "السلام عليكم دار قوم مءمنين واتاكم ما توعدون غدا مءجلون وانا ان شاء الله بكم لاحقون اللهم اغفر لاهل بقيع الغرقد",
+        "transliteration": "As-salamu 'alaikum da-ra kaumin mu’minin, wa ata-kum ma-tu’aadun ‘gadan muajjalun, wa inna-insha- allahu bikum la-’hikun. Alla-humma’gfir liahli baki‘eil garqad.",
+        "reference": "Muslim: 974",
+        "audio": 293,
+        "cat_id": 15,
+        "subcat_id": 56
+      },
+      "source": {
+        "name": "Dua for visiting graves #4",
+        "content": null,
+        "translation": "Peace be upon you, O you who believers inhabitants of the grave! The promise that was given to you has come to you, and you are waiting for the day to come. And we will meet you by the will of Allah. O Allah, forgive the inhabitants of the Baqi graveyard.",
+        "note": "Ayesha (RA) said, \"When Rasoolullah (ﷺ) stayed in my house, he used to go to the Baqi' graveyard at the last hour of night and say these words."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "কবর যিয়ারতের দোয়া #৪",
+        "translation": "তোমাদের উপর সালাম, হে মুমিন কবরবাসিগণ। তোমাদেরকে যা প্রতিশ্রুতি দেওয়া হয়েছিল তা তোমাদের কাছে এসেছে, আগামী দিনের জন্য তোমাদের অপেক্ষায় রাখা হয়েছে। আর আল্লাহ্‌র ইচ্ছায় আমরা তোমাদের সাথে মিলিত হব। হে আল্লাহ্‌ আপনি বাকী কবরস্থানের বাসিন্দাদেরকে ক্ষমা করুন।",
+        "note": "আয়েশা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) যখন আমার গৃহে অবস্থান করতেন তখন শেষ রাতে বাকী গোরস্থানে গিয়ে এ কথাগুলো বলতেন।"
+      }
+    },
+    {
+      "key": [
+        294
+      ],
+      "id": 294,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 294,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِحَيِّنَا وَمَيِّتِنَا وَصَغِيرِنَا وَكَبِيرِنَا وَذَكَرِنَا وَأُنْثَانَا وَشَاهِدِنَا وَغَائِبِنَا اَللَّهُمَّ مَنْ أَحْيَيْتَهُ مِنَّا فَأَحْيِهِ عَلَى الْإِيمَانِ وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهُ عَلَى الْإِسْلَامِ اَللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهُ وَلَا تُضِلَّنَا بَعْدَهُ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِحَيِّنَا وَمَيِّتِنَا وَصَغِيْرِنَا وَكَبِيْرِنَا وَذَكَرِنَا وَاُنْثَانَا وَشَاهِدِنَا وَغَائِبِنَا اَللّٰهُمَّ مَنْ اَحْيَيْتَهُ مِنَّا فَاَحْيِهٖ عَلَى الْاِيْمَانِ وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهٗ عَلَى الْاِسْلَامِ اَللّٰهُمَّ لَا تَحْرِمْنَا اَجْرَهٗ وَلَا تُضِلَّنَا بَعْدَهٗ",
+        "clean": "اللهم اغفر لحينا وميتنا وصغيرنا وكبيرنا وذكرنا وانثانا وشاهدنا وغاءبنا اللهم من احييته منا فاحيه علي الايمان ومن توفيته منا فتوفه علي الاسلام اللهم لا تحرمنا اجره ولا تضلنا بعده",
+        "transliteration": "Allahum-maghfir lihayyinaa, wa mayyitinaa, wa sagheerinaa wa kabeerinaa, wa thakarinaa wa 'unthaanaa, wa shaahidinaa, wa ghaa'ibinaa. Allaahumma man 'ahyaytahu minnaa fa'ahyihi 'alal-'Imaan, wa man tawaffaytahu minnaa fatawaffahu 'alal-'Islam, Allaahumma laa tahrimnaa 'ajrahu wa laa tudhillanaa ba'dahu",
+        "reference": "Sahih (Albani). Abu Dawud: 3201",
+        "audio": 294,
+        "cat_id": 15,
+        "subcat_id": 57
+      },
+      "source": {
+        "name": "Funeral prayers #1",
+        "content": "The Prophet (ﷺ) used to say in funeral prayer:",
+        "translation": "O Allah, forgive those of us who are living and those of us who are dead, those of us who are present and those of us who are absent, our young and our old, our male and our female. O Allah, to whomsoever of us You givest life grant him life as a believer, and whomsoever of us You takest in death take him in death as a follower of Islam. O Allah, do not withhold from us the reward (of faith) and do not lead us astray after his death.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "জানাযার দোয়া #১",
+        "content": "রাসূল (ﷺ) যখন জানাযার সালাত পড়তেন তখন বলতেন -",
+        "translation": "হে আল্লাহ্‌! আমাদের জীবিত ও মৃত, ছোট ও বড়, নর ও নারী এবং উপস্থিত ও অনুপস্থিতকে ক্ষমা করুন। হে আল্লাহ্‌! আপনি আমাদের মধ্যে যাদের জীবিত রাখবেন তাদেরকে ঈমানের সাথে জীবিত রাখুন এবং যাদেরকে মৃত্যু দান করবেন তাদেরকে ইসলামের উপর মৃত্যু দান করুন। হে আল্লাহ্‌! আমাদেরকে তার (মৃত্যুতে ধৈর্যধারণের) সওয়াব থেকে বঞ্চিত করবেন না এবং তার (মৃত্যুর) পর আমাদেরকে পথভ্রষ্ট করবেন না।"
+      }
+    },
+    {
+      "key": [
+        295
+      ],
+      "id": 295,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 295,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ وَعَافِهِ وَاعْفُ عَنْهُ وَأَكْرِمْ نُزُلَهُ وَوَسِّعْ مُدْخَلَهُ وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ وَأَبْدِلْهُ دَارًا خَيْرًا مِنْ دَارِهِ وَأَهْلًا خَيْرًا مِنْ أَهْلِهِ وَزَوْجًا خَيْرًا مِنْ زَوْجِهِ وَأَدْخِلْهُ الْجَنَّةَ وَأَعِذْهُ مِنْ عَذَابِ الْقَبْرِ [وَعَذَابِ النَّارِ]",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لَهٗ وَارْحَمْهُ وَعَافِهٖ وَاعْفُ عَنْهُ وَاَكْرِمْ نُزُلَهٗ وَوَسِّعْ مُدْخَلَهٗ وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ وَنَقِّهٖ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْاَبْيَضَ مِنَ الدَّنَسِ وَاَبْدِلْهُ دَارًا خَيْرًا مِّنْ دَارِهٖ وَاَهْلًا خَيْرًا مِّنْ اَهْلِهٖ وَزَوْجًا خَيْرًا مِّنْ زَوْجِهٖ وَاَدْخِلْهُ الْجَنَّةَ وَاَعِذْهُ مِنْ عَذَابِ الْقَبْرِ [وَعَذَابِ النَّارِ]",
+        "clean": "اللهم اغفر له وارحمه وعافه واعف عنه واكرم نزله ووسع مدخله واغسله بالماء والثلج والبرد ونقه من الخطايا كما نقيت الثوب الابيض من الدنس وابدله دارا خيرا من داره واهلا خيرا من اهله وزوجا خيرا من زوجه وادخله الجنه واعذه من عذاب القبر وعذاب النار",
+        "transliteration": "Allahum-maghfir lahu warhamhu, wa 'aafihi, wa'fu 'anhu, wa 'akrim nuzulahu, wa wassi' mudkhalahu, waghsilhu bilmaa'i waththalji walbarad, wa naqqihi minal-khataayaa kamaa naqqaytath-thawbal-'abyadha minad-danas, wa 'abdilhu daaran khayran min daarihi, wa 'ahlan khayran min 'ahlihi, wa zawjan khayran min zawjihi, wa 'adkhilhul-jannata, wa 'a'idhhu min 'adhaabil-qabr (wa 'adhaabin-naar)",
         "reference": "Muslim: 963",
-        "audio": 299,
+        "audio": 295,
         "cat_id": 15,
         "subcat_id": 57
       },
       "source": {
-        "name": "Funeral prayers #3.1 (Female)",
+        "name": "Funeral prayers #2.1 (Male)",
         "content": null,
-        "translation": "O Allah, forgive her and have mercy on her and give her strength and pardon her. Be generous to her and cause her entrance to be wide and wash her with water and snow and hail. Cleanse her of his transgressions as white cloth is cleansed of stains. Give her an abode better than her home, and a family better than her family and a spouse better than his spouse. Take her into Paradise and protect her from the punishment of the grave [and from the punishment of Hell-fire].",
-        "note": null
+        "translation": "O Allah, forgive him and have mercy on him and give him strength and pardon him. Be generous to him and cause his entrance to be wide and wash him with water and snow and hail. Cleanse him of his transgressions as white cloth is cleansed of stains. Give him an abode better than his home, and a family better than his family and a spouse better than his spouse. Take him into Paradise and protect him from the punishment of the grave [and from the punishment of Hell-fire].",
+        "note": "Awf ibn Malik (RA) said, When the Messenger of Allah (ﷺ) performed the funeral prayer, I memorized this dua from him. Hearing this dua, I wished that the dead body would be me! (The dua is Mentioned above)"
       },
       "target": {
         "name": "",
         "content": null,
         "translation": "",
-        "note": null
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "জানাযার দোয়া #২.১ (পুরুষ)",
+        "translation": "হে আল্লাহ্‌, আপনি তাকে ক্ষমা করুন, রহমত করুন, নিরাপত্তা দান করুন, তাকে মাফ করে দিন, তাকে সম্মানের সাথে আপনার কাছে স্থান দান করুন, তার প্রবেশস্থান (কবর) প্রশস্ত করুন, তাকে পানি, বরফ ও শীল দিয়ে ধৌত করুন, তাকে পাপরাশি থেকে এমনভাবে পবিত্র ও পরিচ্ছন্ন করুন যেভাবে সাদা কাপড়কে ময়লা থেকে পরিচ্ছন্ন ও ঝকঝকে করেছেন। তাকে দান করুন তার (ফেলে যাওয়া) বাড়ির চেয়ে উত্তম বাড়ি, তার পরিজনের চেয়ে উত্তম পরিজন, তার (দুনিয়ার) সঙ্গীর চেয়ে উত্তম সঙ্গী। তাকে আপনি জান্নাত দান করুন এবং কবরের বা জাহান্নামের আযাব থেকে রক্ষা করুন।",
+        "note": "আওফ ইবন মালিক (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) সালাতুল জানাযা আদায় করেন, তখন আমি তার থেকে এ দোয়াটি মুখস্থ করি। এ দোয়া শুনে আমার বাসনা হচ্ছিল যে, মৃত দেহটি যদি আমারই হতো! (দোয়াটি উপরে উল্লেখিত হয়েছে)"
       }
     },
     {
       "key": [
-        300
+        296
       ],
-      "id": 300,
+      "id": 296,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 300,
+        "id": 296,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ (إِنَّهَا) أَمَتُكَ وَبِنْتُ عَبْدِكَ وَبِنْتُ أَمَتِكَ كَانَتْ يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُوْلُكَ وَأَنْتَ أَعْلَمُ بِهِ اَللَّهُمَّ إِنْ كَانَتْ مُحْسِنَةً فَزِدْ فِي إِحْسَانِهَا وَإِنْ كَانَتْ مُسِيْئَةً فَتَجَاوَزْ عَنْ سَيِّئَاتِهَا اَللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهَا وَلَا تَفْتِنَّا بَعْدَهَا",
-        "indopak": "اَللّٰهُمَّ (اِنَّهَا) اَمَتُكَ وَبِنْتُ عَبْدِكَ وَبِنْتُ اَمَتِكَ كَانَتْ يَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اَنْتَ وَاَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُوْلُكَ وَاَنْتَ اَعْلَمُ بِهِ اَللّٰهُمَّ اِنْ كَانَتْ مُحْسِنَةً فَزِدْ فِيْ اِحْسَانِهَا وَاِنْ كَانَتْ مُسِيْئَةً فَتَجَاوَزْ عَنْ سَيِّئَاتِهَا اَللّٰهُمَّ لَا تَحْرِمْنَا اَجْرَهَا وَلَا تَفْتِنَّا بَعْدَهَا",
-        "clean": "اللهم انها امتك وبنت عبدك وبنت امتك كانت يشهد ان لا اله الا انت وان محمدا عبدك ورسولك وانت اعلم به اللهم ان كانت محسنه فزد في احسانها وان كانت مسيءه فتجاوز عن سيءاتها اللهم لا تحرمنا اجرها ولا تفتنا بعدها",
-        "transliteration": "Alla-humma, (innaha) ‘amatuka, wa bintu 'abdika, wa bintu amatika, kaanat yashhadu an laa ilaaha illaa anta, wa anna mu’hammadan ‘abduka wa rasooluka, wa aanta a’lamu bihi. Alla-humma, in kaanat mu'hsinatan fajid fi ehsaa-niha, wa in kaanat musi-atan fataja-waz ‘an saiyyi-aa-tiha. Alla-humma laa-ta'harimna-ajraha, wala-taftinna ba'adaha.",
+        "uthmani": "اَللَّهُمَّ (إِنَّهُ) عَبْدُكَ وَابْنُ عَبْدِكَ وَابْنُ أَمَتِكَ كَانَ يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُوْلُكَ وَأَنْتَ أَعْلَمُ بِهِ اَللَّهُمَّ إِنْ كَانَ مُحْسِنًا فَزِدْ فِي إِحْسَانِهِ وَإِنْ كَانَ مُسِيْئًا فَتَجَاوَزْ عَنْ سَيِّئَاتِهِ اَللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهُ وَلَا تَفْتِنَّا بَعْدَهُ",
+        "indopak": "اَللّٰهُمَّ (اِنَّهُ) عَبْدُكَ وَابْنُ عَبْدِكَ وَابْنُ اَمَتِكَ كَانَ يَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اَنْتَ وَاَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُوْلُكَ وَاَنْتَ اَعْلَمُ بِهٖ اَللّٰهُمَّ اِنْ كَانَ مُحْسِنًا فَزِدْ فِيْ اِحْسَانِهٖ وَاِنْ كَانَ مُسِيْئًا فَتَجَاوَزْ عَنْ سَيِّئَاتِهٖ اَللّٰهُمَّ لَا تَحْرِمْنَا اَجْرَهٗ وَلَا تَفْتِنَّا بَعْدَهٗ",
+        "clean": "اللهم انه عبدك وابن عبدك وابن امتك كان يشهد ان لا اله الا انت وان محمدا عبدك ورسولك وانت اعلم به اللهم ان كان محسنا فزد في احسانه وان كان مسيءا فتجاوز عن سيءاته اللهم لا تحرمنا اجره ولا تفتنا بعده",
+        "transliteration": "Alla-humma, (innahu) ‘abduka, wabnu‘ 'abdika, wabnu amatika, ka-na yashhadu an laa ilaaha illa anta, wa anna mu’hmmadan ‘abduka wa rasooluka, wa aanta a'laamu bihi. Alla-humma, in kaana mu'hhsinan fajid fi e'hsaa-nihi, wa in ka-na musi-an fataja-waz ‘an saiyyi-aa-tihi. Alla-humma laa-ta'harimna-ajrahu, wala-taftinna ba'adahu",
         "reference": "Sahih Mawkuf (Albani). Al-Muwatta: 539",
-        "audio": 300,
+        "audio": 296,
         "cat_id": 15,
         "subcat_id": 57
       },
       "source": {
-        "name": "Funeral prayers #3.2 (Female)",
+        "name": "Funeral prayers #2.2 (Male)",
         "content": null,
-        "translation": "O Allah, this woman is Your servant, the daughter of Your male servant, the daughter of female servant. She testified that there is no true ilaah but you and that Muhammad (ﷺ) is your servant and your messenger. And you are more aware of it. O Allah, if she is a doer of good, then increase her goodness. And if she has sinned, then forgive her. O Allah, do not deprive us of her reward and do not tempt us after that.",
+        "translation": "O Allah, this man is Your servant, the son of Your male servant, the son of female servant. He testified that there is no true ilaah but you and that Muhammad (ﷺ) is your servant and your messenger. And you are more aware of it. O Allah, if he is a doer of good, then increase his goodness. And if he has sinned, then forgive him. O Allah, do not deprive us of His reward and do not tempt us after that.",
         "note": null
       },
       "target": {
@@ -70,127 +482,35 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "জানাযার দোয়া #২.২ (পুরুষ)",
+        "translation": "হে আল্লাহ্‌, এ ব্যক্তি আপনার বান্দা, আপনার বান্দার পুত্র, আপনার বান্দীর পুত্র। সে সাক্ষ্য দিত যে, আপনি ছাড়া কোন প্রকৃত মাবুদ নেই এবং মুহাম্মাদ (ﷺ) আপনার বান্দা ও আপনার রাসূল। আর আপনি তার বিষয়ে অধিক অবগত। হে আল্লাহ্‌, যদি সে নেককর্মকারী হয়ে থাকে তবে আপনি তার নেকি বৃদ্ধি করে দিন। আর যদি সে পাপাচারী হয়ে থাকে তবে আপনি তার পাপরাশি ক্ষমা করে দিন। হে আল্লাহ্‌, আমাদেরকে তার পুরস্কার থেকে বঞ্চিত করবেন না এবং তার পরে আমাদেরকে ফিতনাগ্রস্থ করবেন না।"
       }
     },
     {
       "key": [
-        301
+        297
       ],
-      "id": 301,
+      "id": 297,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 301,
+        "id": 297,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ أَمَتُكَ وَبِنْتُ أَمَتِكَ اِحْتَاجَتْ إِلَى رَحْمَتِكَ، وَأَنْتَ غَنِيٌّ عَنْ عَذَابِهَا، إِنْ كَانَتْ مُحْسِنَةً فَزِدْ فِي حَسَنَاتِهَا، وَإِنْ كَانَتْ مُسِيئَةً فَتَجَاوَزْ عَنْهَا",
-        "indopak": "اَللّٰهُمَّ اَمَتُكَ وَبِنْتُ اَمَتِكَ اِحْتَاجَتْ اِلٰى رَحْمَتِكَ، وَاَنْتَ غَنِيٌّ عَنْ عَذَابِهَا، اِنْ كَانَتْ مُحْسِنَةً فَزِدْ فِيْ حَسَنَاتِهَا، وَاِنْ كَانَتْ مُسِيْئَةً فَتَجَاوَزْ عَنْهَا",
-        "clean": "اللهم امتك وبنت امتك احتاجت الي رحمتك وانت غني عن عذابها ان كانت محسنه فزد في حسناتها وان كانت مسيءه فتجاوز عنها",
-        "transliteration": "Allaahumma ‛amatuka wabintu ‛amatika, i’htaajat ilaa ra’hmatika, wa anta ghaniyyun ‛an ‛adhaabiha, in kaanat mu’hsinatan fazid fee ‘hasanaatiha, wa in kaanat musee’atan fa tajaawaz ‛anha",
+        "uthmani": "اَللَّهُمَّ عَبْدُكَ وَابْنُ أَمَتِكَ اِحْتَاجَ إِلَى رَحْمَتِكَ، وَأَنْتَ غَنِيٌّ عَنْ عَذَابِهِ، إِنْ كَانَ مُحْسِنًا فَزِدْ فِي حَسَنَاتِهِ، وَإِنْ كَانَ مُسِيئًا فَتَجَاوَزْ عَنْهُ",
+        "indopak": "اَللّٰهُمَّ عَبْدُكَ وَابْنُ اَمَتِكَ اِحْتَاجَ اِلٰى رَحْمَتِكَ، وَاَنْتَ غَنِيٌّ عَنْ عَذَابِهٖ، اِنْ كَانَ مُحْسِنًا فَزِدْ فِيْ حَسَنَاتِهٖ، وَاِنْ كَانَ مُسِيْئًا فَتَجَاوَزْ عَنْهٗ",
+        "clean": "اللهم عبدك وابن امتك احتاج الي رحمتك وانت غني عن عذابه ان كان محسنا فزد في حسناته وان كان مسيءا فتجاوز عنه",
+        "transliteration": "Allaahumma 'abduka wabnu 'amatika ihtaaja 'ilaa rahmatika, wa 'Anta ghaniyyun 'an 'adhaabihi, 'in kaana mu'hsinan fazid fee hasanaatihi, wa 'in kaana musee'an fatajaawaz 'anhu",
         "reference": "Sahih (Albani). Al-Hakim: 1/359",
-        "audio": 301,
+        "audio": 297,
         "cat_id": 15,
         "subcat_id": 57
       },
       "source": {
-        "name": "Funeral prayers #3.3 (Female)",
-        "content": null,
-        "translation": "O Allah, she is the daughter of One of Your male & female slave, she is in need of Your mercy, and You are not in need of her torment. If she was pious then increase her rewards and if she was a sinner then pardon her.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        302
-      ],
-      "id": 302,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 302,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنَّ (فُلَانَةَ بِنْتُ فُلَانٍ) فِي ذِمَّتِكَ وَحَبْلِ جِوَارِكَ فَقِهِ مِنْ فِتْنَةِ الْقَبْرِ وَعَذَابِ النَّارِ وَأَنْتَ أَهْلُ الْوَفَاءِ وَالْحَقِّ، اَللَّهُمَّ فَاغْفِرْ لَهَا وَارْحَمْهَا إِنَّكَ أَنْتَ الْغَفُوْرُ الرَّحِيْمُ",
-        "indopak": "اَللّٰهُمَّ اِنَّ (فُلَانَةَ بِنْتُ فُلَانٍ) فِيْ ذِمَّتِكَ وَحَبْلِ جِوَارِكَ فَقِهِ مِنْ فِتْنَةِ الْقَبْرِ وَعَذَابِ النَّارِ وَاَنْتَ اَهْلُ الْوَفَاءِ وَالْحَقِّ، اَللّٰهُمَّ فَاغْفِرْ لَهَا وَارْحَمْهَا اِنَّكَ اَنْتَ الْغَفُوْرُ الرَّحِيْمُ",
-        "clean": "اللهم ان فلانه بنت فلان في ذمتك وحبل جوارك فقه من فتنه القبر وعذاب النار وانت اهل الوفاء والحق اللهم فاغفر لها وارحمها انك انت الغفور الرحيم",
-        "transliteration": "Allaahumma 'inna (fulanata bintu fulan) fee dhimmatika, wa habli jiwaarika, faqihi min fitnatil-qabri wa 'adhaabin-naari, wa 'Anta 'ahlul-wafaa'i walhaqq. Allaahumma faghfir laha warhamha 'innaka 'Antal-Ghafoorur-Raheem",
-        "reference": "Sahih (Albani). Abu Dawud: 3202",
-        "audio": 302,
-        "cat_id": 15,
-        "subcat_id": 57
-      },
-      "source": {
-        "name": "Funeral prayers #3.4 (Female)",
-        "content": null,
-        "translation": "O Allah, surely [name the person] is under Your protection, and in the rope of Your security, so save her from the trial of the grave and from the punishment of the Fire. You fulfill promises and grant rights, so forgive her and have mercy on her. Surely You are Most Forgiving, Most Merciful.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        303
-      ],
-      "id": 303,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 303,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ أَنْتَ رَبُّهَا، وَأَنْتَ خَلَقْتَهَا، وَأَنْتَ هَدَيْتَهَا لِلْإِسْلَامِ، وَأَنْتَ قَبَضْتَ رُوْحَهَا، وَأَنْتَ أَعْلَمُ بِسِرِّهَا وَعَلَانِيَتِهَا، جِئْنَا شُفَعَاءَ فَاغْفِرْ لَهَا",
-        "indopak": "اَللّٰهُمَّ اَنْتَ رَبُّهَا، وَاَنْتَ خَلَقْتَهَا، وَاَنْتَ هَدَيْتَهَا لِلْاِسْلَامِ، وَاَنْتَ قَبَضْتَ رُوْحَهَا، وَاَنْتَ اَعْلَمُ بِسِرِّهَا وَعَلَانِيَتِهَا، جِئْنَا شُفَعَاءَ فَاغْفِرْ لَهَا",
-        "clean": "اللهم انت ربها وانت خلقتها وانت هديتها للاسلام وانت قبضت روحها وانت اعلم بسرها وعلانيتها جءنا شفعاء فاغفر لها",
-        "transliteration": "Alla-humma, anta rabbuhaa, wa anta khalaqtahaa, wa anta hadaitahaa lil islaam, wa anta qabadta ru'hahaa, wa anta a'lamu bisirriha wa 'ala-niyatihaa, ji'na shufa'a-a fagfir laha",
-        "reference": "Hasan (Ibn Hajar). Ar-rabbaniyah 4/176",
-        "audio": 303,
-        "cat_id": 15,
-        "subcat_id": 57
-      },
-      "source": {
-        "name": "Funeral prayers #4",
-        "content": null,
-        "translation": "O Allah, You are his Lord, You have created him, You have shown him the way to Islam, You have accepted his soul, You know all his open and secrets. We have come to intercede for him, so forgive him.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        304
-      ],
-      "id": 304,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 304,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ اجْعَلْهُ فَرَطًا وَذُخْرًا لِوَالِدَيْهِ، وَشَفِيعًا مُجَابًا، اَللَّهُمَّ ثَقِّلْ بِهِ مَوَازِينَهُمَا، وَأَعْظِمْ بِهِ أُجُورَهُمَا، وَأَلْحِقْهُ بِصَالِحِ الْمُؤْمِنِينَ، وَاجْعَلْهُ فِي كَفَالَةِ إِبْرَاهِيمَ، وَقِهِ بِرَحْمَتِكَ عَذَابَ الْجَحِيمِ، وَأَبْدِلْهُ دَارًا خَيْرًا مِنْ دَارِهِ، وَأَهْلًا خَيْرًا مِنْ أَهْلِهِ، اَللَّهُمَّ اغْفِرْ لِأَسْلَافِنَا، وَأَفْرَاطِنَا، وَمَنْ سَبَقَنَا بِالْإِيمَانِ",
-        "indopak": "اَللّٰهُمَّ اجْعَلْهُ فَرَطًا وَّذُخْرًا لِّوَالِدَيْهِ، وَشَفِيْعًا مُّجَابًا، اَللّٰهُمَّ ثَقِّلْ بِهٖ مَوَازِيْنَهُمَا، وَاَعْظِمْ بِهٖ اُجُوْرَهُمَا، وَاَلْحِقْهٗ بِصَالِحِ الْمُؤْمِنِيْنَ، وَاجْعَلْهٗ فِيْ كَفَالَةِ اِبْرَاهِيْمَ، وَقِهٖ بِرَحْمَتِكَ عَذَابَ الْجَحِيْمِ، وَاَبْدِلْهٗ دَارًا خَيْرًا مِّنْ دَارِهٖ، وَاَهْلًا خَيْرًا مِّنْ اَهْلِهٖ، اَللّٰهُمَّ اغْفِرْ لِاَسْلَافِنَا، وَاَفْرَاطِنَا، وَمَنْ سَبَقَنَا بِالْاِيْمَانِ",
-        "clean": "اللهم اجعله فرطا وذخرا لوالديه وشفيعا مجابا اللهم ثقل به موازينهما واعظم به اجورهما والحقه بصالح المءمنين واجعله في كفاله ابراهيم وقه برحمتك عذاب الجحيم وابدله دارا خيرا من داره واهلا خيرا من اهله اللهم اغفر لاسلافنا وافراطنا ومن سبقنا بالايمان",
-        "transliteration": "Allahum-maj'alhu faratan wa dhukhran liwaalidayhi, wa shafee'an mujaaban. Allaahumma thaqqil bihi mawaazeenahumaa wa 'a'dhim bihi 'ujoorahumaa, wa 'alhiqhu bisaalihil-mu'mineen, waj'alhu fee kafaalati 'Ibraaheema, wa qihi birahmatika 'adhaabal-jaheem, wa 'abdilhu daaran khayran min daarihi, wa 'ahlan khayran min 'ahlihi, Allahum-maghfir li'aslaafinaa, wa 'afraatinaa wa man sabaqanaa bil'eemaan.",
-        "reference": "See Al-Mughni, Lee Ibn Kudama, 3/416; See also Ad-Durusul Muhimmah Li ‘Ammatil Ummah, Lish Sheikh Abdil Aziz Ibn Abdillah Ibn Baz, Rahemahullah, p. 15.",
-        "audio": 304,
-        "cat_id": 15,
-        "subcat_id": 58
-      },
-      "source": {
-        "name": "Blessings at the child's funeral #1",
-        "content": "Following Dua is good -",
-        "translation": "O Allah, make him a precursor, a forerunner and a treasure for his parents and an answered intercessor. O Allah, make him weigh heavily in their scales (of good) and magnify their reward. Make him join the righteous of the believers. Place him in the care of Ibrahim (As). Save him by Your mercy from the torment of Hell. Give him a home better than his home and a family better than his family. O Allah, forgive those who have gone (i.e. passed away) before us, our lost children (by death), and those who have preceded us in Faith.",
+        "name": "Funeral prayers #2.3 (Male)",
+        "content": "Narrated by Yazid Ibn Rukana Ibn Muttalib (RA): When the Messenger of Allah (ﷺ) perform Janazah prayer, he used to say:",
+        "translation": "O Allah, he is the son of One of Your male & female slave, he is in need of Your mercy, and You are not in need of his torment. If he was pious, then increase his rewards and if he was a sinner then pardon him.",
         "note": null
       },
       "target": {
@@ -198,422 +518,11 @@
         "content": "",
         "translation": "",
         "note": null
-      }
-    },
-    {
-      "key": [
-        305
-      ],
-      "id": 305,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 305,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ أَعِذْهُ مِنْ عَذَابِ الْقَبْرِ",
-        "indopak": "اَللّٰهُمَّ اَعِذْهُ مِنْ عَذَابِ الْقَبْرِ",
-        "clean": "اللهم اعذه من عذاب القبر",
-        "transliteration": "Allaahumma 'a'idh-hu min 'adhaabil-qabr",
-        "reference": "Sahih (Shu'aib al-Arnaut). Al-Muwatta: 540",
-        "audio": 305,
-        "cat_id": 15,
-        "subcat_id": 58
       },
-      "source": {
-        "name": "Blessings at the child's funeral #2",
-        "content": null,
-        "translation": "O Allah, protect him from the torment of the grave.",
-        "note": "Narrated by Sa’eed Ibn Musayyib (R) He said, \"I perform janaza of a child behind Abu Hurairah (RA) who has never committed any sin.\" There I heard Abu Huraira (RA) say: (The dua is Mentioned above)"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        306
-      ],
-      "id": 306,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 306,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ اجْعَلْهُ لَنَا سَلَفًا وَّفَرَطًا وَّأَجْرًا",
-        "indopak": "اَللّٰهُمَّ اجْعَلْهُ لَنَا سَلَفًا وَّفَرَطًا وَّاَجْرًا",
-        "clean": "اللهم اجعله لنا سلفا وفرطا واجرا",
-        "transliteration": "Allahum-maj'alhu lanaa salafan, wa faratan, wa 'ajran",
-        "reference": "Mawquf Hasan (Albani). Ahkamul-Jana'iz, 160 Page",
-        "audio": 306,
-        "cat_id": 15,
-        "subcat_id": 58
-      },
-      "source": {
-        "name": "Blessings at the child's funeral #3",
-        "content": "The famous Tabi'i Hasan Basri (R) used to recite Surah Fatiha at the janaza of child and recite the following du'a:",
-        "translation": "O Allah, make him for us a precursor, a forerunner and a cause of reward.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        307
-      ],
-      "id": 307,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 307,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ اغْفِرْ لَهُ وَثَبِّتْهُ",
-        "indopak": "اَللّٰهُمَّ اغْفِرْ لَهٗ وَثَبِّتْهٗ",
-        "clean": "اللهم اغفر له وثبته",
-        "transliteration": "Allahum-maghfir lahu wa thabbithu",
-        "reference": "Sahih (Albani). Abu Dawud: 3221",
-        "audio": 307,
-        "cat_id": 15,
-        "subcat_id": 58
-      },
-      "source": {
-        "name": "Blessings after burying the dead person",
-        "content": null,
-        "translation": "O Allah, forgive him, strengthen him (During question of grave)",
-        "note": "Narrated Uthman ibn Affan (RA) : Whenever the Prophet (ﷺ) became free from burying the dead, he used to stay at him (i.e. his grave) and say: Seek forgiveness for your brother, and beg steadfastness for him, for he will be questioned now."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        308
-      ],
-      "id": 308,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 308,
-        "groups": null,
-        "uthmani": "إِنَّ لِلَّهِ مَا أَخَذَ وَلَهُ مَا أَعْطَى وَكُلٌّ عِنْدَهُ بِأَجَلٍ مُسَمًّى",
-        "indopak": "اِنَّ لِلّٰهِ مَا اَخَذَ وَلَهُ مَا اَعْطٰى وَكُلٌّ عِنْدَهُ بِاَجَلٍ مُسَمَّى",
-        "clean": "ان لله ما اخذ وله ما اعطي وكل عنده باجل مسمي",
-        "transliteration": "Inna lillaahi maa 'akhadha, wa lahu maa 'a'taa, wa kullun 'indahu bi'ajalin musamma",
-        "reference": "Bukhari: 7377",
-        "audio": 308,
-        "cat_id": 15,
-        "subcat_id": 58
-      },
-      "source": {
-        "name": "Consolation to the relatives of the deceased",
-        "content": null,
-        "translation": "Whatever Allah takes is His, and whatever He gives is His, and everything with Him has a limited fixed term (in this world).",
-        "note": "Narrated by Usama bin Zaid (RA): We were with the Prophet (ﷺ) when suddenly there came to him a messenger from one of his daughters who was asking him to come and see her son who was dying. The Prophet (ﷺ) said (to the messenger), (The dua is Mentioned above). So order her to be patient and hope for Allah's reward."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        309
-      ],
-      "id": 309,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 309,
-        "groups": null,
-        "uthmani": "أَعْظَمَ اللَّهُ أَجْرَكَ، وَأَحْسَنَ عَزَاءَكَ، وَغَفَرَ لِمَيِّتِكَ",
-        "indopak": "اَعْظَمَ اللّٰهُ اَجْرَكَ، وَاَحْسَنَ عَزَاءَكَ، وَغَفَرَ لِمَيِّتِكَ",
-        "clean": "اعظم الله اجرك واحسن عزاءك وغفر لميتك",
-        "transliteration": "A'dhamAllahu 'ajraka, wa 'ahsana 'azaa'aka wa ghafara limayyitik.",
-        "reference": "Al-Adhkaar lin Nawawi P. 126",
-        "audio": 309,
-        "cat_id": 15,
-        "subcat_id": 58
-      },
-      "source": {
-        "name": "Dua for Consolation",
-        "content": "It is better to recite this dua in giving condolence",
-        "translation": "May Allah increase your reward, grant you the tawfiq of patience (in mourning), and forgive the dead person.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        310
-      ],
-      "id": 310,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 310,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنَّكَ عَفُوٌّ (كَرِيْمٌ) تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
-        "indopak": "اَللّٰهُمَّ اِنَّكَ عَفُوٌّ (كَرِيْمٌ) تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّىْ",
-        "clean": "اللهم انك عفو كريم تحب العفو فاعف عني",
-        "transliteration": "Allaahumma innaka `Afuwwun [Karimun], tu'hibbul-`afwa fa`fu `annī.",
-        "reference": "Sahih (Albani). Tirmidhi: 3513",
-        "audio": 310,
-        "cat_id": 16,
-        "subcat_id": 59
-      },
-      "source": {
-        "name": "Dua of Laylatul Qadr",
-        "content": null,
-        "translation": "O Allah, indeed You are Pardoning [Generous], You love pardon, so pardon me.",
-        "note": "Ayesha (RA) said, \"O Messenger of Allah (ﷺ), should I make du'a on Lailatul Qadr?\" Then he (ﷺ) taught me this du'a.\n\nThis du'aa 'can be recited in the prostration of Salat on Laylat al-Qadr, before Salam, after salaam and on all other days and nights in all Salats and at normal times."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        311
-      ],
-      "id": 311,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 311,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": null,
-        "audio": null,
-        "cat_id": 16,
-        "subcat_id": 59
-      },
-      "source": {
-        "name": "Dua of the beginning of fasting",
-        "content": "There is no masnun dua at the beginning of fasting. However, it is important to make the intention for fasting the night before the start of fasting. The conscious purpose in the mind is called intention. This is the intention of the believer to fast before fasting, before going to bed at night or during sahri. It is not Sunnah to say \"Nawaituan\" or to do so in any other way.",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        312
-      ],
-      "id": 312,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 312,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ أَهْلِلْهُ عَلَيْنَا بِالْيُمْنِ وَالْإِيْمَانِ وَالسَّلَامَةِ وَالْإِسْلَامِ رَبِّيْ وَرَبُّكَ اللَّهُ",
-        "indopak": "اَللّٰهُمَّ اَهْلِلْهُ عَلَيْنَا بِالْيُمْنِ وَالْاِيْمَانِ وَالسَّلَامَةِ وَالْاِسْلَامِ رَبِّيْ وَرَبُّكَ اللّٰهُ",
-        "clean": "اللهم اهلله علينا باليمن والايمان والسلامه والاسلام ربي وربك الله",
-        "transliteration": "Allaahumma ahlilhu `alaina bil-yumni wal-iman, was-salamati wal-Islam, rabbi wa rabbuk Allah",
-        "reference": "Sahih (Albani). Tirmidhi: 3451",
-        "audio": 312,
-        "cat_id": 16,
-        "subcat_id": 59
-      },
-      "source": {
-        "name": "Upon sighting the crescent moon",
-        "content": null,
-        "translation": "O Allah, bring it over us with blessing and faith, and security and Islam. My Lord and your Lord is Allah.",
-        "note": "Rasulullah (ﷺ) used to say this dua when he saw the new moon. It is masnun to recite this dua after seeing the new moon of Ramadan and all the months."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        313
-      ],
-      "id": 313,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 313,
-        "groups": null,
-        "uthmani": "ذَهَبَ الظَّمَاءُ وَابْتَلَّتِ الْعُرُوْقُ وَثَبَتَ الْأَجْرُ إِنْ شَاءَ اللَّهُ",
-        "indopak": "ذَهَبَ الظَّمَاءُ وَابْتَلَّتِ الْعُرُوْقُ وَثَبَتَ الْاَجْرُ اِنْ شَآءَ اللّٰهُ",
-        "clean": "ذهب الظماء وابتلت العروق وثبت الاجر ان شاء الله",
-        "transliteration": "Dhahabadh-dhama'u wabtallatil-'urooqu, wa thabatal-'ajru 'inshaa'Allah",
-        "reference": "[1] Hasan (Albani). Abu Dawud: 2357\n[2] Weak (Albany). Abu Dawud: 2358",
-        "audio": 313,
-        "cat_id": 16,
-        "subcat_id": 59
-      },
-      "source": {
-        "name": "Dua recited during Iftar #1",
-        "content": "The Prophet (ﷺ) used to say when he breaks his fast:",
-        "translation": "The thirst is gone, the veins are moistened and the reward is confirmed, if Allah wills.",
-        "note": "Note that, the widely practiced hadith \n\n'Allahumma laka samtu wa 'ala rizqika aftartu'\n\nbut, the hadith is da'if (weak). [2]"
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        314
-      ],
-      "id": 314,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 314,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ بِرَحْمَتِكَ الَّتِي وَسِعَتْ كُلَّ شَيْءٍ أَنْ تَغْفِرَ لِي",
-        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ بِرَحْمَتِكَ الَّتِيْ وَسِعَتْ كُلَّ شَيْءٍ اَنْ تَغْفِرَ لِيْ",
-        "clean": "اللهم اني اسالك برحمتك التي وسعت كل شيء ان تغفر لي",
-        "transliteration": "Allaahumma 'innee 'as'aluka birahmatikal-latee wasi'at kulla shay'in 'an taghfira lee",
-        "reference": "Hasan (Hafiz Ibn Hazar). Takhrijul Adhkar, Sharhul Adhkar: 4/342",
-        "audio": 314,
-        "cat_id": 16,
-        "subcat_id": 59
-      },
-      "source": {
-        "name": "Dua recited during Iftar #2",
-        "content": null,
-        "translation": "O Allah, I ask You by Your mercy, which encompasses all things, that You forgive me.",
-        "note": "Abdullah bin Amr (RA) used to say this dua during Iftar."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        315
-      ],
-      "id": 315,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 315,
-        "groups": null,
-        "uthmani": "إِنِّي صَائِمٌ، إِنِّي صَائِمٌ",
-        "indopak": "اِنِّيْ صَائِمٌ، اِنِّيْ صَائِمٌ",
-        "clean": "اني صاءم اني صاءم",
-        "transliteration": "Innee saa'imun, 'innee saa'imun",
-        "reference": "Bukhari: 1894",
-        "audio": 315,
-        "cat_id": 16,
-        "subcat_id": 59
-      },
-      "source": {
-        "name": "Dua when insulted while fasting",
-        "content": null,
-        "translation": "I am fasting. I am fasting.",
-        "note": "Narrated Abu Huraira (RA): The Messenger of Allah (ﷺ) said: Fasting is a shield; So if any one of you observes fasting, let him not commit adultery or foolishness; If someone fights him or insults him, let him say - (The dua is mentioned above)"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        316
-      ],
-      "id": 316,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 316,
-        "groups": null,
-        "uthmani": "أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ، وَأَكَلَ طَعَامَكُمُ الْأَبْرَارُ، وَصَلَّتْ عَلَيْكُمُ الْمَلَائِكَةُ",
-        "indopak": "اَفْطَرَ عِنْدَكُمُ الصَّائِمُوْنَ، وَاَكَلَ طَعَامَكُمُ الْاَبْرَارُ، وَصَلَّتْ عَلَيْكُمُ الْمَلَائِكَةُ",
-        "clean": "افطر عندكم الصاءمون واكل طعامكم الابرار وصلت عليكم الملاءكه",
-        "transliteration": "Aftara 'indakumus-saa'imoona, wa 'akala ta'aamakumul-'abraaru, wa sallat 'alaykumul-malaa'ikah.",
-        "reference": "Sahih (Albani). Abu Dawud: 3854",
-        "audio": 316,
-        "cat_id": 16,
-        "subcat_id": 59
-      },
-      "source": {
-        "name": "When breaking fast in someone's home",
-        "content": null,
-        "translation": "With you, those who are fasting have broken their fast, you have fed those who are righteous, and the angels recite their prayers upon you.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        317
-      ],
-      "id": 317,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 317,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Muslim: 1150",
-        "audio": null,
-        "cat_id": 16,
-        "subcat_id": 59
-      },
-      "source": {
-        "name": "By one fasting when presented with food",
-        "content": "The Prophet (ﷺ) says: If any one of you is invited to a meal when he is fasting, he should say:\" I am fasting.\"",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
+      "reference_bn": {
+        "name": "জানাযার দোয়া #২.৩ (পুরুষ)",
+        "content": "ইয়াযীদ ইবনু রুকানা ইবনিল মুত্তালিব (রাঃ) থেকে বর্ণিত, তিনি বলেন, কোনও ব্যক্তির জানাযা পড়ার উদ্দেশে দাঁড়ালে, আল্লাহ্‌র রাসূল (ﷺ) বলতেন -",
+        "translation": "হে আল্লাহ্‌, সে আপনার এক দাস, আর এক দাসীর পুত্র। আপনার দয়া তার খুবই প্রয়োজন, তাকে শাস্তি না দিলে আপনার কোনও ক্ষতি নেই। যদি সে নেককার বান্দা হয়, তবে তার সওয়াব আরও বাড়িয়ে দিন, আর যদি বদকার বান্দা হয়, তবে তার খারাপ কাজগুলো ক্ষমা করুন।"
       }
     }
   ]

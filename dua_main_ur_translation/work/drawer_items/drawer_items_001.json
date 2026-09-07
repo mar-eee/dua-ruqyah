@@ -1,31 +1,31 @@
 {
   "table": "drawer_items",
   "chunk": "drawer_items_001.json",
-  "source_language": "en",
+  "source_language": "bn",
   "target_language": "ur",
   "status": "pending",
-  "rows": 4,
-  "id_range": "1-4",
-  "source_chars": 5979,
+  "rows": 3,
+  "id_range": "19-21",
+  "source_chars": 4512,
   "items": [
     {
       "key": [
-        1
+        19
       ],
-      "id": 1,
+      "id": 19,
       "part": 1,
       "of": 2,
       "frozen": {
-        "id": 1,
+        "id": 19,
         "item_type": "privacy_policy",
         "display_order": 1,
         "created_at": 0,
         "updated_at": 0
       },
       "source": {
-        "title": "Privacy Policy",
-        "hero_title1": "Your Trust and Privacy",
-        "hero_title2": "Are a Sacred Duty to Us"
+        "title": "গোপনীয়তার নীতিমালা",
+        "hero_title1": "আপনার আস্থা ও তথ্যের সুরক্ষা",
+        "hero_title2": "আমাদের কাছে পবিত্র আমানত"
       },
       "target": {
         "title": "",
@@ -36,140 +36,80 @@
         {
           "index": 0,
           "key": "text",
-          "source": "Islamic Resource Development (IRD) (\"we,\" \"us,\" or \"our\") deeply respects the privacy of our users (\"you\"). This Privacy Policy explains how we collect, use, and safeguard your information when you use our Dua & Ruqyah app (the \"App\"). Please read this policy carefully. If you do not agree with its terms, we kindly ask that you do not access the app.",
+          "source": "ইসলামিক রিসোর্স ডেভেলপমেন্ট (IRD) (en 'আমরা' বা 'আমাদের') এর ব্যবহারকারী ('আপনি' বা 'আপনার') হিসেবে আপনার গোপনীয়তাকে সম্মান করে। এই গোপনীয়তা নীতিমালায় ব্যাখ্যা করা হয়েছে যে, আপনি যখন আমাদের 'দোয়া ও রুকইয়াহ' অ্যাপটি ব্যবহার করেন, তখন আমরা কীভাবে আপনার তথ্য সংগ্রহ, ব্যবহার ও সুরক্ষিত রাখি। অনুগ্রহ করে এই নীতিমালা মনোযোগ দিয়ে পড়ুন। আপনি যদি এর শর্তাবলীর সাথে একমত না হন, তবে অ্যাপটি ব্যবহার থেকে বিরত থাকুন।",
           "target": ""
         },
         {
           "index": 2,
           "key": "text",
-          "source": "We reserve the right to make changes to this Privacy Policy at any time. We will notify you of any changes directly within the app. Your continued use of the App after updates are posted will constitute your acceptance of those changes.",
+          "source": "আমরা যেকোনো সময় এই গোপনীয়তার নীতিমালায় পরিবর্তন আনার অধিকার রাখি। কোনো পরিবর্তন করা হলে তা অ্যাপের মধ্যেই আপনাকে জানিয়ে দেওয়া হবে। পরিবর্তিত নীতিমালা অ্যাপে পোস্ট করার পর আপনি যদি তা ব্যবহার করা চালিয়ে যান, তবে ধরে নেওয়া হবে যে আপনি পরিবর্তনগুলো সম্পর্কে অবগত হয়েছেন এবং তা মেনে নিয়েছেন।",
           "target": ""
         },
         {
           "index": 4,
           "key": "text",
-          "source": "Collection of Your Information",
+          "source": "আপনার তথ্য সংগ্রহ",
           "target": ""
         },
         {
           "index": 6,
           "key": "text",
-          "source": "We may collect information about you in a few ways. The information we collect via the App depends on the content and features you use, and includes the following:",
+          "source": "আমরা বিভিন্ন উপায়ে আপনার তথ্য সংগ্রহ করতে পারি। অ্যাপের মাধ্যমে সংগৃহীত তথ্য নির্ভর করে আপনি কোন বিষয়বস্তু ও ফিচার ব্যবহার করছেন তার উপর। এর মধ্যে রয়েছে:",
           "target": ""
         },
         {
           "index": 8,
           "key": "text",
-          "source": "Personal Data",
+          "source": "ব্যক্তিগত তথ্য",
           "target": ""
         },
         {
           "index": 10,
           "key": "text",
-          "source": "Personally identifiable information, such as your name and email address, that you voluntarily provide when you send feedback, report a dua, or back up your settings to Google Drive. Your email is used strictly to contact you regarding that specific report or feedback, if necessary. We do not share your email address with any third parties.",
+          "source": "আপনার স্বেচ্ছায় দেওয়া ব্যক্তিগত তথ্য, যেমন নাম ও ইমেইল ঠিকানা, যা আপনি অ্যাপের বিভিন্ন কার্যক্রমে অংশ নেওয়ার সময় দিয়ে থাকেন। বিশেষভাবে, যখন আপনি আমাদের মতামত পাঠান, কোনো দোয়া সম্পর্কে রিপোর্ট করেন বা গুগল ড্রাইভে আপনার সেটিংস ব্যাকআপ রাখেন। আপনার ইমেইল ঠিকানা শুধুমাত্র নির্দিষ্ট কোনো রিপোর্ট বা মতামতের প্রয়োজনে আপনার সাথে যোগাযোগ করার জন্য ব্যবহার করা হয়। আমরা আপনার ইমেইল কোনো তৃতীয় পক্ষের সাথে শেয়ার করি না।",
           "target": ""
         },
         {
           "index": 12,
           "key": "text",
-          "source": "Mobile Device Access",
+          "source": "মোবাইল ডিভাইস অ্যাক্সেস",
           "target": ""
         },
         {
           "index": 14,
           "key": "text",
-          "source": "We may request permission to access certain features from your mobile device, including storage (read/write), network access, and vibration, to ensure app functionality. You can change our access permissions at any time in your device's settings.",
+          "source": "অ্যাপের কিছু ফিচার ব্যবহারের জন্য আমরা আপনার মোবাইল ডিভাইসের কিছু বিষয়ে অনুমতি চাইতে পারি। যেমন: ইন্টারনেট, নেটওয়ার্ক অ্যাক্সেস, এক্সটার্নাল স্টোরেজ (পড়া ও লেখা), ভাইব্রেশন এবং অ্যাপ ক্যাশ পরিষ্কার করার অনুমতি। আপনি আপনার ডিভাইসের সেটিংস থেকে যেকোনো সময় এই অনুমতি পরিবর্তন করতে পারবেন।",
           "target": ""
         },
         {
           "index": 16,
           "key": "text",
-          "source": "Push Notifications",
+          "source": "পুশ নোটিফিকেশন",
           "target": ""
         },
         {
           "index": 18,
           "key": "text",
-          "source": "We may request to send you push notifications regarding your account or the App. If you wish to opt out, you may turn them off in your device's settings.",
+          "source": "আমরা আপনার অ্যাকাউন্ট বা অ্যাপ সম্পর্কিত পুশ নোটিফিকেশন পাঠানোর জন্য অনুমতি চাইতে পারি। আপনি যদি এই ধরনের নোটিফিকেশন পেতে না চান, তবে আপনার ডিভাইসের সেটিংস থেকে তা বন্ধ করতে পারেন।",
           "target": ""
         },
         {
           "index": 20,
           "key": "text",
-          "source": "Use of Your Information",
-          "target": ""
-        },
-        {
-          "index": 22,
-          "key": "text",
-          "source": "Having accurate information permits us to provide you with a smooth, efficient, and personalized experience. Specifically, we may use information collected about you via the App to:",
-          "target": ""
-        },
-        {
-          "index": 24,
-          "key": "header",
-          "source": "",
-          "target": ""
-        },
-        {
-          "index": 24,
-          "key": "details",
-          "source": "Save your bookmarks to your device's storage.",
-          "target": ""
-        },
-        {
-          "index": 26,
-          "key": "header",
-          "source": "",
-          "target": ""
-        },
-        {
-          "index": 26,
-          "key": "details",
-          "source": "Remember your last-read position.",
-          "target": ""
-        },
-        {
-          "index": 28,
-          "key": "header",
-          "source": "",
-          "target": ""
-        },
-        {
-          "index": 28,
-          "key": "details",
-          "source": "Save a copy of your settings to your device.",
-          "target": ""
-        },
-        {
-          "index": 30,
-          "key": "header",
-          "source": "",
-          "target": ""
-        },
-        {
-          "index": 30,
-          "key": "details",
-          "source": "Back up your settings to your personal Google Drive account.",
-          "target": ""
-        },
-        {
-          "index": 32,
-          "key": "header",
-          "source": "",
+          "source": "আপনার তথ্যের ব্যবহার",
           "target": ""
         }
       ]
     },
     {
       "key": [
-        1
+        19
       ],
-      "id": 1,
+      "id": 19,
       "part": 2,
       "of": 2,
       "frozen": {
-        "id": 1,
+        "id": 19,
         "item_type": "privacy_policy",
         "display_order": 1,
         "created_at": 0,
@@ -179,9 +119,69 @@
       "target": {},
       "content_sections": [
         {
+          "index": 22,
+          "key": "text",
+          "source": "আপনার তথ্য আমাদের কাছে থাকলে আমরা আপনাকে একটি সাবলীল, কার্যকর ও উন্নত অভিজ্ঞতা দিতে পারি। অ্যাপের মাধ্যমে সংগৃহীত তথ্য আমরা বিশেষভাবে নিম্নলিখিত কাজে ব্যবহার করে থাকি:",
+          "target": ""
+        },
+        {
+          "index": 24,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 24,
+          "key": "details",
+          "source": "আপনার বুকমার্কগুলো সংরক্ষণের জন্য স্টোরেজ ব্যবহার করা হয়।",
+          "target": ""
+        },
+        {
+          "index": 26,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 26,
+          "key": "details",
+          "source": "আপনার সর্বশেষ পড়া স্থান মনে রাখার জন্য স্টোরেজ ব্যবহার করা হয়।",
+          "target": ""
+        },
+        {
+          "index": 28,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 28,
+          "key": "details",
+          "source": "আপনার সেটিংসের একটি কপি ডিভাইসে সেভ করার জন্য স্টোরেজ ব্যবহার করা হয়।",
+          "target": ""
+        },
+        {
+          "index": 30,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 30,
+          "key": "details",
+          "source": "আপনার সেটিংস গুগল ড্রাইভে ব্যাকআপ রাখার জন্য ইমেইল ঠিকানা ব্যবহার করা হয়।",
+          "target": ""
+        },
+        {
+          "index": 32,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
           "index": 32,
           "key": "details",
-          "source": "Identify you when you send feedback or report a dua.",
+          "source": "মতামত পাঠানো বা কোনো দোয়া রিপোর্ট করার সময় আপনাকে শনাক্ত করতে ইমেইল ঠিকানা ব্যবহার করা হয়।",
           "target": ""
         },
         {
@@ -193,41 +193,41 @@
         {
           "index": 34,
           "key": "details",
-          "source": "Check your network status to download necessary data.",
+          "source": "প্রয়োজনীয় ডেটা ডাউনলোডের জন্য আপনার ডিভাইসের নেটওয়ার্কের অবস্থা পরীক্ষা করা হয়।",
           "target": ""
         },
         {
           "index": 36,
           "key": "text",
-          "source": "Disclosure of Your Information",
+          "source": "আপনার তথ্য প্রকাশ",
           "target": ""
         },
         {
           "index": 38,
           "key": "text",
-          "source": "Your data is never shared with, stored by, or sold to any third parties. The only exception is the use of Google Drive to store a backup of your settings in your own Google account, which remains under your full control.",
+          "source": "আপনার কোনো ডেটা কোনো তৃতীয় পক্ষের সাথে শেয়ার, সংরক্ষণ বা ব্যবহার করা হয় না। শুধুমাত্র গুগল ড্রাইভের মাধ্যমে আপনার সেটিংস ব্যাকআপ রাখার জন্যই আপনার ইমেইল ব্যবহার করা হয়, যার সম্পূর্ণ নিয়ন্ত্রণ আপনার হাতে।",
           "target": ""
         }
       ]
     },
     {
       "key": [
-        2
+        20
       ],
-      "id": 2,
+      "id": 20,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 2,
+        "id": 20,
         "item_type": "copyright_warning",
         "display_order": 2,
         "created_at": 0,
         "updated_at": 0
       },
       "source": {
-        "title": "Copyright Warning",
-        "hero_title1": "Upholding the Sanctity",
-        "hero_title2": "of Sacred Knowledge"
+        "title": "কপিরাইট সতর্কতা",
+        "hero_title1": "দ্বীনি জ্ঞানের মর্যাদা রক্ষা",
+        "hero_title2": "আমাদের সম্মিলিত দায়িত্ব"
       },
       "target": {
         "title": "",
@@ -238,47 +238,47 @@
         {
           "index": 0,
           "key": "text",
-          "source": "Important Notice",
+          "source": "গুরুত্বপূর্ণ বিজ্ঞপ্তি",
           "target": ""
         },
         {
           "index": 2,
           "key": "text",
-          "source": "It is strictly forbidden to modify the content of the Dua & Ruqyah app to create derivative apps or websites that display haram (prohibited) advertisements for monetary gain. We strongly discourage the creation and use of such unauthorized applications. Additionally, these apps will not receive our regular updates, meaning any errors or inaccuracies will remain uncorrected.",
+          "source": "'দোয়া ও রুকইয়াহ' অ্যাপের কনটেন্ট পরিবর্তন করে অর্থ উপার্জনের উদ্দেশ্যে হারাম বিজ্ঞাপনযুক্ত কোনো অ্যাপ বা ওয়েবসাইট তৈরি করা সম্পূর্ণরূপে নিষিদ্ধ। আমরা এই ধরনের অননুমোদিত অ্যাপ বা ওয়েবসাইট তৈরি ও ব্যবহার থেকে বিরত থাকার জন্য দৃঢ়ভাবে অনুরোধ করছি। এ ধরনের অ্যাপে নিয়মিত আপডেটও আসে না, ফলে যেকোনো ভুল বা অসঙ্গতি স্থায়ীভাবে থেকে যাওয়ার ঝুঁকি থাকে।",
           "target": ""
         },
         {
           "index": 4,
           "key": "text",
-          "source": "Permitted Usage",
+          "source": "অনুমোদিত ব্যবহার",
           "target": ""
         },
         {
           "index": 6,
           "key": "text",
-          "source": "You are welcome to share our content on Facebook, YouTube, blogs, articles, and other platforms for the purpose of da'wah (Islamic outreach). In such cases, we kindly request that you credit our app as the source, so that others may also discover and benefit from this work.",
+          "source": "তবে, দাওয়াতের উদ্দেশ্যে ফেসবুক, ইউটিউব, ব্লগ, আর্টিকেল এবং অন্যান্য প্ল্যাটফর্মে কনটেন্ট শেয়ার করা যাবে। সেক্ষেত্রে, আমরা অনুরোধ করব আমাদের অ্যাপকে সোর্স হিসেবে উল্লেখ করার জন্য, যাতে অন্যরাও এই দ্বীনি কাজ সম্পর্কে জানতে ও এর থেকে উপকৃত হতে পারেন।",
           "target": ""
         }
       ]
     },
     {
       "key": [
-        3
+        21
       ],
-      "id": 3,
+      "id": 21,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 3,
+        "id": 21,
         "item_type": "about_us",
         "display_order": 3,
         "created_at": 0,
         "updated_at": 0
       },
       "source": {
-        "title": "About Us",
-        "hero_title1": "A Journey to Serve the Ummah",
-        "hero_title2": "Through Knowledge and Faith"
+        "title": "আমাদের পরিচিতি",
+        "hero_title1": "আল্লাহর সন্তুষ্টির পথে",
+        "hero_title2": "আমাদের এই পথচলা"
       },
       "target": {
         "title": "",
@@ -289,31 +289,31 @@
         {
           "index": 0,
           "key": "text",
-          "source": "Our journey began in 2012 with a vision to create a comprehensive hadith database. Alhamdulillah, by the grace of Allah, we accomplished this goal and launched the Al-Hadith Android and iOS apps, along with the iHadith.com website.",
+          "source": "আমাদের এই যাত্রা শুরু হয়েছিল ২০১২ সালে, হাদীসের একটি পূর্ণাঙ্গ ডাটাবেস তৈরির লক্ষ্য নিয়ে। আলহামদুলিল্লাহ, আল্লাহর অশেষ রহমতে আমরা সফলভাবে সেই লক্ষ্য অর্জন করি এবং 'আল-হাদীস' অ্যান্ড্রয়েড ও আইওএস অ্যাপের পাশাপাশি iHadith.com ওয়েবসাইট চালু করি।",
           "target": ""
         },
         {
           "index": 2,
           "key": "text",
-          "source": "We then expanded our work to Quranic tafsir and translations, launching the Quran Majeed Android and iOS apps and QuranMajeed.com. Most recently, Alhamdulillah, we are humbled to present the Dua & Ruqyah app.",
+          "source": "এরপর আমরা পবিত্র কুরআনের তাফসীর ও অনুবাদ নিয়ে কাজ শুরু করি। আলহামদুলিল্লাহ, আমরা 'কুরআন মাজীদ' অ্যান্ড্রয়েড ও আইওএস অ্যাপ এবং QuranMajeed.com ওয়েবসাইট চালু করতে সক্ষম হই। সম্প্রতি, আল্লাহর দয়ায়, আমরা 'দোয়া ও রুকইয়াহ' অ্যাপটিও আপনাদের কাছে নিয়ে এসেছি।",
           "target": ""
         },
         {
           "index": 4,
           "key": "text",
-          "source": "We are continually enhancing our existing projects while exploring new ideas that, insha'Allah, will benefit the global Muslim Ummah.",
+          "source": "আমরা আমাদের বিদ্যমান প্রকল্পগুলো উন্নত করার পাশাপাশি নতুন নতুন ধারণা নিয়ে কাজ করে যাচ্ছি, যা ইনশাআল্লাহ বিশ্বব্যাপী মুসলিম উম্মাহর উপকারে আসবে।",
           "target": ""
         },
         {
           "index": 6,
           "key": "text",
-          "source": "Dear brothers and sisters, please remember us in your precious duas.",
+          "source": "প্রিয় ভাই ও বোনেরা, আপনাদের নেক দোয়ায় আমাদের স্মরণ রাখবেন।",
           "target": ""
         },
         {
           "index": 8,
           "key": "text",
-          "source": "Our Projects",
+          "source": "আমাদের প্রকল্পসমূহ",
           "target": ""
         },
         {
@@ -325,7 +325,7 @@
         {
           "index": 10,
           "key": "details",
-          "source": "Dua & Ruqyah (Android & iOS)",
+          "source": "দোয়া ও রুকইয়াহ (অ্যান্ড্রয়েড ও আইওএস)",
           "target": ""
         },
         {
@@ -337,7 +337,7 @@
         {
           "index": 12,
           "key": "details",
-          "source": "Al Hadith (Android & iOS)",
+          "source": "আল হাদীস (অ্যান্ড্রয়েড ও আইওএস)",
           "target": ""
         },
         {
@@ -349,7 +349,7 @@
         {
           "index": 14,
           "key": "details",
-          "source": "Quran Majeed (Android & iOS)",
+          "source": "কুরআন মাজীদ (অ্যান্ড্রয়েড ও আইওএস)",
           "target": ""
         },
         {
@@ -361,7 +361,7 @@
         {
           "index": 16,
           "key": "details",
-          "source": "iHadith Website",
+          "source": "iHadith ওয়েবসাইট",
           "target": ""
         },
         {
@@ -373,238 +373,13 @@
         {
           "index": 18,
           "key": "details",
-          "source": "Quran Majeed Website",
+          "source": "Quran Majeed ওয়েবসাইট",
           "target": ""
         },
         {
           "index": 20,
           "key": "text",
-          "source": "To learn more about all our projects, please visit our website.",
-          "target": ""
-        }
-      ]
-    },
-    {
-      "key": [
-        4
-      ],
-      "id": 4,
-      "part": 1,
-      "of": 2,
-      "frozen": {
-        "id": 4,
-        "item_type": "about_this_app",
-        "display_order": 4,
-        "created_at": 0,
-        "updated_at": 0
-      },
-      "source": {
-        "title": "About This App",
-        "hero_title1": "Your Companion for Daily",
-        "hero_title2": "Supplication & Healing"
-      },
-      "target": {
-        "title": "",
-        "hero_title1": "",
-        "hero_title2": ""
-      },
-      "content_sections": [
-        {
-          "index": 0,
-          "key": "text",
-          "source": "Dua & Ruqyah is a comprehensive Islamic app designed to be your daily spiritual companion. Built with love and dedication by IRD Foundation, this app provides authentic duas, ruqyah, and essential Islamic tools to deepen your connection with Allah.",
-          "target": ""
-        },
-        {
-          "index": 2,
-          "key": "text",
-          "source": "What's Inside",
-          "target": ""
-        },
-        {
-          "index": 4,
-          "key": "text",
-          "source": "This app offers a rich collection of Islamic spiritual resources:",
-          "target": ""
-        },
-        {
-          "index": 6,
-          "key": "header",
-          "source": "Vast Dua Collection:",
-          "target": ""
-        },
-        {
-          "index": 6,
-          "key": "details",
-          "source": "Over 200 authentic duas organized by category for daily life, special occasions, and various situations.",
-          "target": ""
-        },
-        {
-          "index": 8,
-          "key": "header",
-          "source": "Ruqyah Ash-Shar'iyyah:",
-          "target": ""
-        },
-        {
-          "index": 8,
-          "key": "details",
-          "source": "A complete collection of verses and supplications from the Quran & Sunnah for spiritual healing and protection.",
-          "target": ""
-        },
-        {
-          "index": 10,
-          "key": "header",
-          "source": "Prayer Times:",
-          "target": ""
-        },
-        {
-          "index": 10,
-          "key": "details",
-          "source": "Accurate prayer time calculations for your location with multiple calculation methods.",
-          "target": ""
-        },
-        {
-          "index": 12,
-          "key": "header",
-          "source": "Memorization Plans:",
-          "target": ""
-        },
-        {
-          "index": 12,
-          "key": "details",
-          "source": "A structured system with progress tracking to help you memorize important duas with ease.",
-          "target": ""
-        },
-        {
-          "index": 14,
-          "key": "header",
-          "source": "Smart Bookmarks:",
-          "target": ""
-        },
-        {
-          "index": 14,
-          "key": "details",
-          "source": "Save and organize your favorite duas for quick and easy access whenever you need them.",
-          "target": ""
-        },
-        {
-          "index": 16,
-          "key": "header",
-          "source": "Multilingual Support:",
-          "target": ""
-        },
-        {
-          "index": 16,
-          "key": "details",
-          "source": "Available in English, Bengali, Arabic, Hindi, and Urdu for global accessibility.",
-          "target": ""
-        },
-        {
-          "index": 18,
-          "key": "text",
-          "source": "Technical Excellence",
-          "target": ""
-        },
-        {
-          "index": 20,
-          "key": "header",
-          "source": "Offline-First:",
-          "target": ""
-        },
-        {
-          "index": 20,
-          "key": "details",
-          "source": "Works completely offline, ensuring you have access to all content without needing an internet connection.",
-          "target": ""
-        },
-        {
-          "index": 22,
-          "key": "header",
-          "source": "Cloud Sync:",
-          "target": ""
-        },
-        {
-          "index": 22,
-          "key": "details",
-          "source": "Optional integration to back up your bookmarks, progress, and preferences across your devices.",
-          "target": ""
-        },
-        {
-          "index": 24,
-          "key": "header",
-          "source": "Smart Notifications:",
-          "target": ""
-        },
-        {
-          "index": 24,
-          "key": "details",
-          "source": "Gentle reminders for prayer times, memorization sessions, and daily dhikr.",
-          "target": ""
-        },
-        {
-          "index": 26,
-          "key": "header",
-          "source": "Advanced Search:",
-          "target": ""
-        },
-        {
-          "index": 26,
-          "key": "details",
-          "source": "Full-text search across all duas and ruqyah content with intelligent filtering options.",
-          "target": ""
-        },
-        {
-          "index": 28,
-          "key": "text",
-          "source": "Our Mission",
-          "target": ""
-        },
-        {
-          "index": 30,
-          "key": "text",
-          "source": "We are committed to creating authentic, high-quality Islamic applications that:",
-          "target": ""
-        },
-        {
-          "index": 32,
-          "key": "header",
-          "source": "Stay True to Islam:",
-          "target": ""
-        },
-        {
-          "index": 32,
-          "key": "details",
-          "source": "All content is carefully verified and sourced from the Quran and authentic Sunnah.",
-          "target": ""
-        },
-        {
-          "index": 34,
-          "key": "header",
-          "source": "Remain Ad-Free:",
-          "target": ""
-        },
-        {
-          "index": 34,
-          "key": "details",
-          "source": "We prioritize your spiritual focus by maintaining a completely ad-free experience.",
-          "target": ""
-        },
-        {
-          "index": 36,
-          "key": "header",
-          "source": "Serve the Global Ummah:",
-          "target": ""
-        },
-        {
-          "index": 36,
-          "key": "details",
-          "source": "Making Islamic knowledge accessible to Muslims worldwide, regardless of location or language.",
-          "target": ""
-        },
-        {
-          "index": 38,
-          "key": "text",
-          "source": "Acknowledgements",
+          "source": "আমাদের সকল প্রকল্প সম্পর্কে বিস্তারিত জানতে ওয়েবসাইট ভিজিট করুন।",
           "target": ""
         }
       ]

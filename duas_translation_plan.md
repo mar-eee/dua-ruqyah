@@ -721,3 +721,48 @@ Qur'an 4:78.
 workspace uses the 163-row English `ruqyah_subcategories` whose VIDEO entries are 150-163.
 None of the 74 videos therefore reaches a video subcategory. Not fixed: the user does not use
 the ruqyah video feature.
+
+## Comparison against `translation_base` — 2026-09-08
+
+The finished Japanese was compared table by table against the new standard workspace.
+Row counts, key sets and frozen fields matched for all 11 tables. Three real defects
+were found, all of them in places the earlier audit had not looked.
+
+### Fixed
+
+1. **`duas.transliteration` — 42 rows were still in Bengali script.** The README requires
+   this field to be copied verbatim from `dua_main_en.sqlite`; these rows had kept the
+   Bengali (`আল্লা-হুম্মা…` instead of `Allaahumma…`). Replaced from English.
+
+2. **`duas.groups` — 35 rows shipped untranslated Bengali.** `groups` is a JSON string
+   holding whole nested dua records; earlier work treated it as a frozen field, so its
+   contents were never looked at. 67 nested records were carrying Bengali `name`,
+   `content`, `translation` and `note` (13 138 characters), plus Bengali `transliteration`
+   and `reference`. All 150 text fields translated to Japanese, reusing the wording already
+   established in the main table for Surah al-Falaq, an-Nas, al-Ikhlas and al-Kafirun;
+   the nested `transliteration` and `reference` copied from English.
+
+3. `drawer_items` was confirmed to use ids 19-24, matching the Bengali database. The first
+   version of `translation_base` sourced this table from English (ids 1-6) and would have
+   produced drawer items the app cannot find. Fixed in the template.
+
+### Verified and deliberately left alone
+
+- `categories` and `subcategories` were translated from the **Bengali**, not the English,
+  and were right to be. English category 2 is "Dua's Excellence", but the subcategory it
+  contains is "Excellence of doing Tasbeeh, Tahmid, Tahlil, Takbeer" — that is dhikr, and
+  the Bengali name says dhikr. Category 5 is "Morning & Evening" in English and
+  "morning and evening dhikr" in Bengali, which matches its contents.
+  `translation_base` now shows the Bengali reading alongside the English for these tables.
+
+### Result
+
+`dua_main_ja_rebuilt.sqlite` now contains **no Bengali in any field of any table outside
+the excluded book tables**, nested JSON included. Structure, row counts and frozen fields
+are unchanged from before the fixes; `PRAGMA integrity_check` = `ok`.
+
+### Still open for Indonesian
+
+`dua_main_id_planned_json` has the same `groups` issue (35 rows) and 686 rows of Bengali
+`transliteration`. Its `duas` table is still largely untranslated (all 1001 names are
+Bengali), so this is pending work rather than a shipped defect.

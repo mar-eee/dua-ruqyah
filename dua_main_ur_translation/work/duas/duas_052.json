@@ -4,33 +4,33 @@
   "source_language": "en",
   "target_language": "ur",
   "status": "pending",
-  "rows": 10,
-  "id_range": "784-793",
-  "source_chars": 5842,
+  "rows": 8,
+  "id_range": "758-765",
+  "source_chars": 5937,
   "items": [
     {
       "key": [
-        784
+        758
       ],
-      "id": 784,
+      "id": 758,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 784,
+        "id": 758,
         "groups": null,
-        "uthmani": "إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ ﴿٩﴾ وَمَا جَعَلَهُ اللَّـهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِ قُلُوبُكُمْ ۚ وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّـهِ ۚ إِنَّ اللَّـهَ عَزِيزٌ حَكِيمٌ ﴿١٠﴾",
-        "indopak": "اِذْ تَسْتَغِيْثُوْنَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ اَنِّيْ مُمِدُّكُمْ بِاَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِيْنَ ﴿٩﴾ وَمَا جَعَلَهُ اللّٰهُ اِلَّا بُشْرٰى وَلِتَطْمَئِنَّ بِهٖ قُلُوْبُكُمْ ۚ وَمَا النَّصْرُ اِلَّا مِنْ عِنْدِ اللّٰهِ ۚ اِنَّ اللّٰهَ عَزِيْزٌ حَكِيْمٌ ﴿١٠﴾",
-        "clean": "اذ تستغيثون ربكم فاستجاب لكم اني ممدكم بالف من الملاءكه مردفين ٩ وما جعله الله الا بشري ولتطمءن به قلوبكم  وما النصر الا من عند الله  ان الله عزيز حكيم ١٠",
-        "transliteration": null,
-        "reference": "Surah Al-Anfal 8: 9-10",
-        "audio": null,
-        "cat_id": 39,
-        "subcat_id": 111
+        "uthmani": "اَللَّهُمَّ رَبَّ السَّمَوَاتِ وَرَبَّ الْأَرْضِ، وَرَبَّ الْعَرْشِ الْعَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَالْإِنْجِيْلِ وَالْفُرْقَانِ، أَعُوْذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ أَنْتَ آخِذٌ بِنَاصِيَتِهِ، اَللَّهُمَّ أَنْتَ الْأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَأَنْتَ الْآخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ",
+        "indopak": "اَللّٰهُمَّ رَبَّ السَّمَاوَاتِ وَرَبَّ الْاَرْضِ، وَرَبَّ الْعَرْشِ الْعَظِيْمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوٰى، وَمُنْزِلَ التَّوْرَاةِ وَالْاِنْجِيْلِ وَالْفُرْقَانِ، اَعُوْذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ اَنْتَ اٰخِذٌ بِنَاصِيَتِهٖ، اَللّٰهُمَّ اَنْتَ الْاَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، واَنْتَ الْاٰخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَاَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَاَنْتَ الْبَاطِنُ فَلَيْسَ دُوْنَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَاَغْنِنَا مِنَ الْفَقْرِ",
+        "clean": "اللهم رب السماوات ورب الارض ورب العرش العظيم ربنا ورب كل شيء فالق الحب والنوي ومنزل التوراه والانجيل والفرقان اعوذ بك من شر كل شيء انت اخذ بناصيته اللهم انت الاول فليس قبلك شيء وانت الاخر فليس بعدك شيء وانت الظاهر فليس فوقك شيء وانت الباطن فليس دونك شيء اقض عنا الدين واغننا من الفقر",
+        "transliteration": "Allaahumma Rabbas-samawaati wa Rabbal ardi, wa Rabbal-'Arshil-'Adheem, Rabbanaa wa Rabba kulli shay 'in, faaliqal-habbi wannawaa, wa munzilat-Tawraati wal-'Injeeli, wal-Furqaan, 'a'oodhu bika min sharri kulli shay'in 'Anta 'aakhidhun binaasiyatihi. Allaahumma 'Antal-'Awwalu falaysa qablaka shay'un, wa 'Antal-'Aakhiru falaysa ba'daka shay'un, wa 'Antadh-Dhaahiru falaysa fawqaka shay'un, wa 'Antal-Baatinu falaysa doonaka shay'un, iqdhi 'annad-dayna wa 'aghninaa minal-faqr",
+        "reference": "Muslim: 2713",
+        "audio": 758,
+        "cat_id": 38,
+        "subcat_id": 110
       },
       "source": {
-        "name": "Allah responds when his slave invokes him",
-        "content": "Allah says:",
-        "translation": "(9) [Remember] when you asked help of your Lord, and He answered you, \"Indeed, I will reinforce you with a thousand from the angels, following one another.\" (10) And Allah made it not but good tidings and so that your hearts would be assured thereby. And victory is not but from Allah. Indeed, Allah is Exalted in Might and Wise.",
+        "name": "Dua for debt relief",
+        "content": "Allah's Messenger (ﷺ) used to command us that as we go to our bed, we should utter these words:",
+        "translation": "O Allah. the Lord of the Heavens and the Lord of the Earth and Lord of the Magnificent Throne, our Lord, and the Lord of evervthing, the Splitter of the grain of corn and the datestone (or fruit kernal), the Revealer of Torah and Injil and Criterion (the Holy Qur'an), I seek refuge in Thee from the evil of every- thing Thou art to sieze by the forelock (Thou hast perfect control over it). O Allah, Thou art the First, there is naught before Thee, and Thou art the Last and there is naught after Thee, and Thou art Evident and there is nothing above Thee, and Thou art Innermost and there is nothing beyond Thee. Remove the burden of debt from us and relieve us from want.",
         "note": null
       },
       "target": {
@@ -38,294 +38,271 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "ঋণ মুক্তির দোয়া",
+        "content": "আল্লাহ্‌র রাসূল (ﷺ) আমাদের নির্দেশ দিতেন, ঘুমুতে যাওয়ার সময় আমরা যেন বলি -",
+        "translation": "হে আল্লাহ্‌! মহাকাশ ও পৃথিবীর শাসক-অধিপতি, মহান আরশের অধিপতি, আমাদের ও সবকিছুর অধিপতি, বীজ ও শস্যদানা থেকে চারা উৎপন্নকারী, তাওরাত, ইনজীল ও কুরআন নাযিলকারী! তোমার কাছে প্রত্যেক বস্তুর অনিষ্ট থেকে আশ্রয় চাই, যা সবাই তোমার অধীন! তুমিই অনাদি; তোমার আগে কিছুই ছিল না; তুমিই অনন্ত, তোমার পরে কিছু নেই; তুমিই প্রকাশ্য, তোমার চেয়ে বেশি প্রকাশিত কিছুই নেই তুমিই গোপন, তোমার চেয়ে গোপন আর কিছুই নেই! তুমি আমাদের ঋণ পরিশোধের ব্যবস্থা করে দাও! আর আমাদের অভাবমুক্ত করে দাও!"
       }
     },
     {
       "key": [
-        785
+        759
       ],
-      "id": 785,
+      "id": 759,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 785,
+        "id": 759,
         "groups": null,
-        "uthmani": "وَلَقَدْ نَصَرَكُمُ اللَّـهُ بِبَدْرٍ وَأَنتُمْ أَذِلَّةٌ ۖ فَاتَّقُوا اللَّـهَ لَعَلَّكُمْ تَشْكُرُونَ ﴿١٢٣﴾ إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم بِثَلَاثَةِ آلَافٍ مِّنَ الْمَلَائِكَةِ مُنزَلِينَ ﴿١٢٤﴾ بَلَىٰ ۚ إِن تَصْبِرُوا وَتَتَّقُوا وَيَأْتُوكُم مِّن فَوْرِهِمْ هَـٰذَا يُمْدِدْكُمْ رَبُّكُم بِخَمْسَةِ آلَافٍ مِّنَ الْمَلَائِكَةِ مُسَوِّمِينَ ﴿١٢٥﴾ وَمَا جَعَلَهُ اللَّـهُ إِلَّا بُشْرَىٰ لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُم بِهِ ۗ وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّـهِ الْعَزِيزِ الْحَكِيمِ ﴿١٢٦﴾",
-        "indopak": "وَلَقَدْ نَصَرَكُمُ اللّٰهُ بِبَدْرٍ وَّاَنتُمْ اَذِلَّةٌ ۖ فَاتَّقُوا اللّٰهَ لَعَلَّكُمْ تَشْكُرُوْنَ ﴿١٢٣﴾ اِذْ تَقُوْلُ لِلْمُؤْمِنِيْنَ اَلَنْ يَّكْفِيَكُمْ اَنْ يُّمِدَّكُمْ رَبُّكُمْ بِثَلَاثَةِ اٰلَافٍ مِّنَ الْمَلَائِكَةِ مُنْزَلِيْنَ ﴿١٢٤﴾ بَلٰى ۚ اِنْ تَصْبِرُوْا وَتَتَّقُوْا وَيَأْتُوْكُم مِّنْ فَوْرِهِمْ هٰذَا يُمْدِدْكُمْ رَبُّكُمْ بِخَمْسَةِ اٰلَافٍ مِّنَ الْمَلَائِكَةِ مُسَوِّمِيْنَ ﴿١٢٥﴾ وَمَا جَعَلَهُ اللّٰهُ اِلَّا بُشْرٰى لَكُمْ وَلِتَطْمَئِنَّ قُلُوْبُكُمْ بِهٖ ۗ وَمَا النَّصْرُ اِلَّا مِنْ عِنْدِ اللّٰهِ الْعَزِيْزِ الْحَكِيْمِ ﴿١٢٦﴾",
-        "clean": "ولقد نصركم الله ببدر وانتم اذله  فاتقوا الله لعلكم تشكرون ١٢٣ اذ تقول للمءمنين الن يكفيكم ان يمدكم ربكم بثلاثه الاف من الملاءكه منزلين ١٢٤ بلي  ان تصبروا وتتقوا وياتوكم من فورهم هذا يمددكم ربكم بخمسه الاف من الملاءكه مسومين ١٢٥ وما جعله الله الا بشري لكم ولتطمءن قلوبكم به  وما النصر الا من عند الله العزيز الحكيم ١٢٦",
-        "transliteration": null,
-        "reference": "Surah Ali-Imran 3: 123-126",
-        "audio": null,
-        "cat_id": 39,
-        "subcat_id": 111
+        "uthmani": "رَبَّنَا أَصْلِحْ بَيْنَنَا، وَاهْدِنَا سَبِيلَ الْإِسْلَامِ، وَنَجِّنَا مِنَ الظُّلُمَاتِ إِلَى النُّورِ، وَاصْرِفْ عَنَّا الْفَوَاحِشَ مَا ظَهْرَ مِنْهَا وَمَا بَطَنَ، وَبَارِكْ لَنَا فِي أَسْمَاعِنَا وَأَبْصَارِنَا وَقُلُوبِنَا وَأَزْوَاجِنَا وَذُرِّيَّاتِنَا، وَتُبْ عَلَيْنَا إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ، وَاجْعَلْنَا شَاكِرِينَ لِنِعْمَتِكَ، مُثْنِينَ بِهَا، قَائِلِينَ بِهَا، وَأَتْمِمْهَا عَلَيْنَا",
+        "indopak": "رَبَّنَا اَصْلِحْ بَيْنَنَا، وَاهْدِنَا سَبِيْلَ الْاِسْلَامِ، وَنَجِّنَا مِنَ الظُّلُمَاتِ اِلَى النُّوْرِ، وَاصْرِفْ عَنَّا الْفَوَاحِشَ مَا ظَهْرَ مِنْهَا وَمَا بَطَنَ، وَبَارِكْ لَنَا فِي اَسْمَاعِنَا وَاَبْصَارِنَا وَقُلُوْبِنَا وَاَزْوَاجِنَا وَذُرِّيَّاتِنَا، وَتُبْ عَلَيْنَا اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِيْمُ، وَاجْعَلْنَا شَاكِرِيْنَ لِنِعْمَتِكَ، مُثْنِيْنَ بِهَا، قَائِلِيْنَ بِهَا، وَاَتْمِمْهَا عَلَيْنَا",
+        "clean": "ربنا اصلح بيننا واهدنا سبيل الاسلام ونجنا من الظلمات الي النور واصرف عنا الفواحش ما ظهر منها وما بطن وبارك لنا في اسماعنا وابصارنا وقلوبنا وازواجنا وذرياتنا وتب علينا انك انت التواب الرحيم واجعلنا شاكرين لنعمتك مثنين بها قاءلين بها واتممها علينا",
+        "transliteration": "Rabbanaa aslih baynanaa wahdinaa sabiilal islaam, wa najjinaa minadh dhulumaati ilaannur wasrif ‘annaal fawaa’hisha maa dhahraa minhaa wa maa batana wa baarik lanaa fii asmaa-’inaa wa absaarinaa wa quluubinaa wa azwaajinaa wa dhurriyyaatinaa wa tub ‘alainaa innaka antat tawwabur rahiim waj’alnaa shaakiriinaa lini’matika muth niina bihaa qaa-iliina bihaa wa atmimhaa ‘alainaa",
+        "reference": "Sahih (Albani). Sahih Adabul Mufrad: 630",
+        "audio": 759,
+        "cat_id": 38,
+        "subcat_id": 110
       },
       "source": {
-        "name": "Allah's help #1",
+        "name": "Dua with wide meaning and best sentences",
         "content": null,
-        "translation": "(123) And already had Allah given you victory at [the battle of] Badr while you were few in number. Then fear Allah; perhaps you will be grateful. (124) [Remember] when you said to the believers, \"Is it not sufficient for you that your Lord should reinforce you with three thousand angels sent down? (125) Yes, if you remain patient and conscious of Allah and the enemy come upon you [attacking] in rage, your Lord will reinforce you with five thousand angels having marks [of distinction] (126) And Allah made it not except as [a sign of] good tidings for you and to reassure your hearts thereby. And victory is not except from Allah, the Exalted in Might, the Wise -",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        786
-      ],
-      "id": 786,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 786,
-        "groups": null,
-        "uthmani": "اَلَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّـهُ وَنِعْمَ الْوَكِيلُ ﴿١٧٣﴾ فَانقَلَبُوا بِنِعْمَةٍ مِّنَ اللَّـهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوءٌ وَاتَّبَعُوا رِضْوَانَ اللَّـهِ ۗ وَاللَّـهُ ذُو فَضْلٍ عَظِيمٍ ﴿١٧٤﴾",
-        "indopak": "اَلَّذِيْنَ قَالَ لَهُمُ النَّاسُ اِنَّ النَّاسَ قَدْ جَمَعُوْا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ اِيْمَانًا وَّقَالُوْا حَسْبُنَا اللّٰهُ وَنِعْمَ الْوَكِيْلُ ﴿١٧٣﴾ فَانْقَلَبُوْا بِنِعْمَةٍ مِّنَ اللّٰهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوْءٌ وَّاتَّبَعُوْا رِضْوَانَ اللّٰهِ  وَاللّٰهُ ذُوْ فَضْلٍ عَظِيْمٍ ﴿١٧٤﴾",
-        "clean": "الذين قال لهم الناس ان الناس قد جمعوا لكم فاخشوهم فزادهم ايمانا وقالوا حسبنا الله ونعم الوكيل ١٧٣ فانقلبوا بنعمه من الله وفضل لم يمسسهم سوء واتبعوا رضوان الله  والله ذو فضل عظيم ١٧٤",
-        "transliteration": null,
-        "reference": "Surah Ali-Imran 3: 173-174",
-        "audio": 786,
-        "cat_id": 39,
-        "subcat_id": 111
-      },
-      "source": {
-        "name": "Allah's help #2",
-        "content": null,
-        "translation": "(173) Those to whom hypocrites said, \"Indeed, the people have gathered against you, so fear them.\" But it [merely] increased them in faith, and they said, \"Sufficient for us is Allah, and [He is] the best Disposer of affairs.\" (174) So they returned with favor from Allah and bounty, no harm having touched them. And they pursued the pleasure of Allah, and Allah is the possessor of great bounty.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        787
-      ],
-      "id": 787,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 787,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ أَكْثِرْ مَالَهُ وَوَلَدَهُ، وَأَطِلْ حَيَاتَهُ، وَاغْفِرْ لَهُ",
-        "indopak": "اَللّٰهُمَّ، اَكْثِرْ مَالَهٗ وَوَلَدَهٗ، وَاَطِلْ حَيَاتَهٗ، وَاغْفِرْ لَهٗ",
-        "clean": "اللهم اكثر ماله وولده واطل حياته واغفر له",
-        "transliteration": "Allaahumma akthir maalahu wa waladahu wa atil hayaatahu waghfir lahu",
-        "reference": "Bukhari: 6344",
-        "audio": 787,
-        "cat_id": 39,
-        "subcat_id": 111
-      },
-      "source": {
-        "name": "Dua of the Prophet (ﷺ) for Anas Ibn Malik (RA)",
-        "content": null,
-        "translation": "O Allah! Increase his wealth and children, and bestow Your Blessing on whatever You give him.\" a time of distress.",
-        "note": "Anas (RA) said, \"The Prophet (ﷺ), used to come to us, the people of his house. One day he came to us and made supplication for us. Umm Sulaym (RA) said, 'Won't you make supplication for your little servant?' He said, (the dua is mentioned above)"
+        "translation": "Our Lord, make peace between us and guide us on the path of Islam. Save us from the darkness (and bring us) to the light. Remove acts of deviance from us, both open and hidden. Bless us in our ears, our eyes, our hearts, our wives and our children. Turn to us. You are the Ever-Turning, Most Merciful. Make us thankful for Your blessing and make us among those who give praise for it and proclaim it. Perfect it for us.",
+        "note": "Narrated Abdullah ibn Mas'ud (RA): We did not know what we should say when we sat during prayer. The Messenger of Allah (ﷺ) was taught (by Allah). He then narrated the tradition to the same effect. Then He said: He used to teach us also some other words, but he did not teach them as he taught us the tashahhud: (The dua is mentioned above)"
       },
       "target": {
         "name": "",
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "ব্যাপক অর্থবোধক ও সর্বোত্তম বাক্যাবলির সাহায্যে দোয়া",
+        "translation": "আমাদের প্রতিপালক! আমাদের মধ্যকার সম্পর্কের সংশোধন করে দাও, আমাদেরকে ইসলামের পথে পরিচালিত করো, আমাদেরকে অন্ধকার থেকে আলোর পথে মুক্তি দাও, প্রকাশ্য ও গুপ্ত সকল প্রকার অশ্লীলতা থেকে আমাদের দূরে রাখো, আমাদের শ্রবণেন্দ্রীয়, অন্তরসমূহ ও আমাদের স্ত্রী-পুত্রদের মধ্যে বরকত দান করো এবং আমাদের তাওবা কবুল করো। কেননা তুমিই তাওবা কবুলকারী, পরম দয়ালু। তুমি আমাদেরকে নিয়ামতের প্রতি কৃতজ্ঞ, এগুলোর প্রশংসাকারী ও আলোচনাকারী বানাও এবং তা আমাদেরকে পূর্ণরূপে দান করে।",
+        "note": "আবদুল্লাহ ইবনু মাসউদ (রাঃ) থেকে বর্ণিত, তিনি বলেন, সালাতে বসে কী পড়ব, আমরা তা জানতাম না। আর আল্লাহ্‌র রাসূল (ﷺ)-কে শেখানো হয়েছে ব্যাপক অর্থবোধক ও সর্বোত্তম বাক্যাবলি। এরপর তিনি তাশাহুদের আলোচনা করতে গিয়ে বলেন, আল্লাহ্‌র রাসূল (ﷺ) তাশাহুদের মতো করে আমাদেরকে আরও কিছু বাক্য শেখাতেন – (দোয়াটি উপরে উল্লেখিত হয়েছে)"
       }
     },
     {
       "key": [
-        788
+        760
       ],
-      "id": 788,
+      "id": 760,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 788,
+        "id": 760,
         "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Sahih (Albani). Tirmidhi: 3833",
-        "audio": null,
-        "cat_id": 39,
-        "subcat_id": 111
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ الْمَسْأَلَةِ، وَخَيْرَ الدُّعَاءِ، وَخَيْرَ النَّجَاحِ، وَخَيْرَ الْعَمَلِ، وَخَيْرَ الثَّوَابِ، وَخَيْرَ الْحَيَاةِ، وَخَيْرَ الْمَمَاتِ، وَثَبِّتْنِيْ، وَثَقِّل مَوَازِينِيْ، وَحَقِّقْ إِيْمَانِيْ، وَارْفَعْ دَرَجَاتِيْ، وَتَقَبَّلْ صَلَاتِيْ، وَاغْفِرْ خَطِيْئَتِيْ، وَأَسْأَلُكَ الدَّرَجَاتِ الْعُلَى مِنَ الْجَنَّةِ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ فَوَاتِحَ الْخَيْرِ، وَخَوَاتِمَهُ، وَجَوَامِعَهُ، وَأَوَّلَهُ، وَآخِرَهُ وَظَاهِرَهُ، وَبَاطِنَهُ، وَالدَّرَجَاتِ الْعُلَى مِنَ الْجَنَّةِ آمِينْ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ مَا آتِيْ، وَخَيْرَ مَا أَفْعَلُ، وَخَيْرَ مَا أَعْمَلُ، وَخَيْرَ مَا بَطَنَ، وَخَيْرَ مَا ظَهَرَ، وَالدَّرَجَاتِ الْعُلَى مِنَ الْجَنَّةِ آمِينْ، اَللَّهُمَّ إنِّي أَسْأَلُكَ أَنْ تَرْفَعَ ذِكْرِيْ، وَتَضَعَ وِزْرِيْ، وَتُصْلِحَ أَمْرِيْ، وَتُطَهِّرَ قَلْبِيْ، وَتُحَصِّنَ فَرْجِيْ، وَتُنَوِّرَ قَلْبِيْ، وَتَغْفِرَ لِي ذَنْۢبِيْ، وَأَسْأَلُكَ الدَّرَجَاتِ الْعُلَى مِنَ الْجَنَّةِ آمِينْ، اَللَّهُمَّ إنِّي أَسْأَلُكَ أَنْ تُبَارِكَ لِي فِي نَفْسِيْ، وَفِي سَمْعِيْ، وَفِي بَصَرِيْ، وَفِي رُوحِيْ، وَفِي خَلْقِيْ، وَفِي خُلُقِيْ، وَفِي أَهْلِيْ، وَفِي مَحْيَايَ، وَفِي مَمَاتِيْ، وَفِي عَمَلِيْ، فَتَقَبَّلْ حَسَنَاتِيْ، وَأَسْأَلُكَ الدَّرَجَاتِ الْعُلَى مِنَ الْجَنَّةِ، آمِينْ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ خَيْرَ الْمَسْاَلَةِ، وَخَيْرَ الدُّعَاءِ، وَخَيْرَ النَّجَاحِ، وَخَيْرَ الْعَمَلِ، وَخَيْرَ الثَّوَابِ، وَخَيْرَ الْحَيَاةِ، وَخَيْرَ الْمَمَاتِ، وَثَبِّتْنِيْ، وَثَقِّلْ مَوَازِيْنِيْ، وَحَقِّقْ اِيْمَانِيْ، وَارْفَعْ دَرَجَاتِيْ، وَتَقَبَّلْ صَلَاتِيْ، وَاغْفِرْ خَطِيْئَتِيْ، وَاَسْاَلُكَ الدَّرَجَاتِ الْعُلٰى مِنَ الْجَنَّةِ، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ فَوَاتِحَ الْخَيْرِ، وَخَوَاتِمَهُ، وَجَوَامِعَهُ، وَاَوَّلَهُ، وَاٰخِرَهُ وَظَاهِرَهُ، وَبَاطِنَهُ، وَالدَّرَجَاتِ الْعُلٰى مِنَ الْجَنَّةِ اٰمِيْن، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ خَيْرَ مَا اٰتِيْ، وَخَيْرَ مَا اَفْعَلُ، وَخَيْرَ مَا اَعْمَلُ، وَخَيْرَ مَا بَطَنَ، وَخَيْرَ مَا ظَهَرَ، وَالدَّرَجَاتِ الْعُلٰى مِنَ الْجَنَّةِ اٰمِيْن، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ اَنْ تَرْفَعَ ذِكْرِيْ، وَتَضَعَ وِزْرِيْ، وَتُصْلِحَ اَمْرِيْ، وَتُطَهِّرَ قَلْبِيْ، وَتُحَصِّنَ فَرْجِيْ، وَتُنَوِّرَ قَلْبِيْ، وَتَغْفِرَ لِيْ ذَنْۢبِيْ، وَاَسْاَلُكَ الدَّرَجَاتِ الْعُلٰى مِنَ الْجَنَّةِ اٰمِيْن، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ اَنْ تُبَارِكَ لِيْ فِيْ نَفْسِيْ، وَفِيْ سَمْعِيْ، وَفِيْ بَصَرِيْ، وَفِيْ رُوْحِيْ، وَفِيْ خَلْقِيْ، وَفِيْ خُلُقِيْ، وَفِيْ اَهْلِيْ، وَفِيْ مَحْيَايَ، وَفِيْ مَمَاتِيْ، وَفِيْ عَمَلِيْ، فَتَقَبَّلْ حَسَنَاتِيْ، وَاَسْاَلُكَ الدَّرَجَاتِ الْعُلٰى مِنَ الْجَنَّةِ، اٰمِيْن",
+        "clean": "اللهم اني اسالك خير المساله وخير الدعاء وخير النجاح وخير العمل وخير الثواب وخير الحياه وخير الممات وثبتني وثقل موازيني وحقق ايماني وارفع درجاتي وتقبل صلاتي واغفر خطيءتي واسالك الدرجات العلي من الجنه اللهم اني اسالك فواتح الخير وخواتمه وجوامعه واوله واخره وظاهره وباطنه والدرجات العلي من الجنه امين اللهم اني اسالك خير ما اتي وخير ما افعل وخير ما اعمل وخير ما بطن وخير ما ظهر والدرجات العلي من الجنه امين اللهم اني اسالك ان ترفع ذكري وتضع وزري وتصلح امري وتطهر قلبي وتحصن فرجي وتنور قلبي وتغفر لي ذنبي واسالك الدرجات العلي من الجنه امين اللهم اني اسالك ان تبارك لي في نفسي وفي سمعي وفي بصري وفي روحي وفي خلقي وفي خلقي وفي اهلي وفي محياي وفي مماتي وفي عملي فتقبل حسناتي واسالك الدرجات العلي من الجنه امين",
+        "transliteration": "Allaahumma inni as’aluka khairal mas alati, wa khairad dua’a-i, wa khairan najaa’hi wa khairal ‘amali wa khairath thawaabi wa khairal ‘hayaati wa khairal mamaati wa thabbitni wa thaqqil mawaazinii wa haqqiq iimaani warfa’ darajaatii wa taqabbal salaatii waghfir khatii-atii wa as-alukad darajaatil ‘ulaa minal jannati. Allaahumma inni as-aluka fawati’hal khayri wa khawaatimahu, wa jawaami’ahu, wa awwalahu wa aakhirahu wa dhaahirahu wa batinahu waddarajaatil ‘ulaa minal jannati aamin.\n\nAllaahumma inni as-aluka khaira maa aatii wa khaira maa af’alu wa khaira maa a’malu wa khaira maa batana wa khaira maa dhahara wad darajaatil ‘ulaa minal jannati aamin. \n\nAllaahumma inni as-aluka an tarfa’a dhikrii wa tada’a wizrii wa tusli’ha amrii wa tutahhira qalbii wa tu’hassina farjii wa tunawwira qalbii wa taghfira lii dhambii wa as-alukad darajaatil ‘ulaa minal jannati aamin. \n\nAllaahumma inni as-aluka an tubaarika lii fii nafsii wa fii sam’ii wa fii basarii wa fi ruuhii wa fii khalqii wa fii khuluqi wa fi ahlii wa fii ma’hyaaya wa fii mamaati wa fii ‘amalii fataqabbal hasanaatii wa as-alukad darajaatil ‘ulaa minal jannati aamin",
+        "reference": "Sahih (Haisami). Majma Al-Jawwat: 10/108",
+        "audio": 760,
+        "cat_id": 38,
+        "subcat_id": 110
       },
       "source": {
-        "name": "Miracles of Anas (RA)",
-        "content": "Anas (RA) had a garden that would bear fruit twice in the year, and there used to be sweet basil in it, from which could be found the smell of musk.",
-        "translation": null,
+        "name": "Wishing for the welfare of the world and the Hereafter",
+        "content": "Muhammad (ﷺ) supplicate to his Rabb by saying this:",
+        "translation": "O Allah I ask of You the best request, the best supplication, the best success, the best work, the best reward, the best life, and the best death. And make me firm, let my balance (of good) be heavy, fulfill my belief, elevate my position, accept my prayer, and forgive my sin. And I ask of You the highest degrees in Paradise. Ameen.\n\nO Allah I ask of You the beginnings of good, and the endings of good, all its aspects, its first, and its last, its apparent (side) and its unapparent (side), and the highest degrees in Paradise. Ameen. O Allah I ask of You the good that comes to me, and the good of what I do, and the good of my work and the good of what I conceal, and the good of what I reveal and the highest degrees in Paradise. Ameen.\n\nO Allah I ask You to raise high my reputation, relieve me of my burden, set right my affairs, purify my heart, guard my chastity, illuminate my heart, and forgive my sin. And I ask of You the highest degrees in Paradise. Ameen.\n\nO Allah I ask You to bless me in my hearing, in my sight, in my soul, in my body, in my manners, in my family, in my life, in my death, and in my work and to accept my good deeds. And I ask of You the highest degrees in Paradise. Ameen.",
         "note": null
       },
       "target": {
         "name": "",
         "content": "",
-        "translation": null,
+        "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "দুনিয়া-আখিরাতের কল্যাণ কামনা",
+        "content": "মুহাম্মাদ (ﷺ) তাঁর রবের কাছে এসব বিষয় চেয়েছেন -",
+        "translation": "\"আল্লাহ্‌! আমি তোমার কাছে চাই চাওয়ার কল্যাণ, দোয়ার কল্যাণ ও সফলতার কল্যাণ, কাজের কল্যাণ ও প্রতিদানের কল্যাণ, এবং জীবনের কল্যাণ ও মৃত্যুর কল্যাণ। আমাকে দৃঢ়তা দাও, আমার (আমলের) ওজন ভারী করো, আমার ঈমান সুপ্রতিষ্ঠিত করে দাও, আমাকে সুউচ্চ মর্যাদা দাও, আমার সালাত কবুল করো, আমার গোনাহ মাফ করো, আমি তোমার কাছে জান্নাতে সুউচ্চ মর্যাদা চাই। হে আল্লাহ্‌! আমি তোমার কাছে চাই- কল্যাণের সূচনা ও সমাপ্তিসমূহ, সর্বব্যাপী কল্যাণ-যা আছে শুরুতে এবং শেষে, প্রকাশ্যে ও গোপনে আর জান্নাতে সুউচ্চ মর্যাদা। আমীন!  \n\nহে আল্লাহ্‌! আমি তোমার কাছে চাই- আমার আগমনের কল্যাণ, আমার কৃতকর্মের কল্যাণ, আমার আমলের কল্যাণ, গোপন বিষয়াদির কল্যাণ ও প্রকাশ্য বিষয়াদির কল্যাণ, আর জান্নাতে সুউচ্চ মর্যাদা। আমীন!\n\nহে আল্লাহ্‌! আমি তোমার কাছে চাই- আমার স্মরণ বুলন্দ করে দাও, আমার বোঝা নামিয়ে দাও, আমার বিষয়াদি সংশোধন করে দাও, আমার অন্তর পবিত্র করে দাও, আমার যৌনতার সুরক্ষা দাও, আমার অন্তর আলোকিত করে দাও, আর আমার গোনাহ মাফ করে দাও। আমি তোমার কাছে জান্নাতে সুউচ্চ মর্যাদা চাই। আমীন!\n\nহে আল্লাহ্‌! তোমার কাছে চাই-আমাকে বরকত দাও আমার দেহসত্ত্বা, শ্রবণশক্তি ও দৃষ্টিশক্তিতে, আমার আত্মা ও দেহকাঠামোতে, আমার স্বভাবচরিত্র ও পরিবারের সদস্যদের মধ্যে, আমার জীবন, মরণ ও (যাবতীয়) কাজে। আমার ভালো কাজগুলো কবুল করো। আমি তোমার কাছে জান্নাতে সুউচ্চ মর্যাদা চাই। আমীন!\""
       }
     },
     {
       "key": [
-        789
+        761
       ],
-      "id": 789,
+      "id": 761,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 789,
+        "id": 761,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ اهْدِ أُمَّ أَبِي هُرَيْرَةَ",
-        "indopak": "اَللّٰهُمَّ اهْدِ اُمَّ اَبِيْ هُرَيْرَةَ",
-        "clean": "اللهم اهد ام ابي هريره",
-        "transliteration": "Allaahummahdi ummi abi Hurairah",
-        "reference": null,
-        "audio": 789,
-        "cat_id": 39,
-        "subcat_id": 111
+        "uthmani": "اَللَّهُمَّ قَنِّعْنِيْ بِمَا رَزَقْتَنِيْ وَبَارِكْ لِي فِيهِ وَأَخْلِفْ عَلَيَّ كُلَّ غَائِبَةٍ لِي بِخَيْرٍ",
+        "indopak": "اَللّٰهُمَّ قَنِّعْنِيْ بِمَا رَزَقْتَنِيْ وَبَارِكْ لِيْ فِيْهِ وَاَخْلِفْ عَلَيَّ كُلَّ غَائِبَةٍ لِّيْ بِخَيْرٍ",
+        "clean": "اللهم قنعني بما رزقتني وبارك لي فيه واخلف علي كل غاءبه لي بخير",
+        "transliteration": "Allaahumma qanni`ni bimaa razaqtani wa baarik lee feehi wa akhlif ‘alayya kulla ghaa'ibatin lee bikhayr",
+        "reference": "Hasan (Ibn Hajar). Futuhatur Rabbaniyyah: 4/383",
+        "audio": 761,
+        "cat_id": 38,
+        "subcat_id": 110
       },
       "source": {
-        "name": "Dua of the Prophet (ﷺ) for Abu Huraira (RA) and his mother",
-        "content": null,
-        "translation": "O Allah, guide mother of Abu Huraira on the right path.",
-        "note": "Prophet (ﷺ) made dua for mother of Abu Hurairah (RA). Then his mother  accepted Islam Immediately. Abu Hurairah (RA) said, “My mother was a polytheist woman. I gave dawah to her to accept Islam. One day I gave dawah to her. While I was giving dawah to her, she said something ill about The Messenger of Allah (ﷺ), which displeased me.Then I went to The Messenger of Allah (ﷺ) crying. I said to him, “Oh The Messenger of Allah (ﷺ)! I was giving dawah to my mother, but she didn’t accept it. Today, I give dawah to her. As a result, she said something ill about. Please make dua for her that Allah give guidance to her. Then the Messenger of Allah (ﷺ) said: (the dua is mentioned above)"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        790
-      ],
-      "id": 790,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 790,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ حَبِّبْ عُبَيْدَكَ هَذَا وَأُمَّهُ إِلَى عِبَادِكَ الْمُؤْمِنِينَ وَحَبِّبْ إِلَيْهِمُ الْمُؤْمِنِيْنَ",
-        "indopak": "اَللّٰهُمَّ حَبِّبْ عُبَيْدَكَ هٰذَا وَاُمَّهٗ اِلٰى عِبَادِكَ الْمُؤْمِنِيْنَ وَحَبِّبْ اِلَيْهِمُ الْمُؤْمِنِيْنَ",
-        "clean": "اللهم حبب عبيدك هذا وامه الي عبادك المومنين وحبب اليهم المومنين",
-        "transliteration": "Allaahumma habbib 'ubaidaka hadha wa ummahu ilaa 'ibadikal mu'minin, wa habbib ilayhimul mu'minin",
-        "reference": "Muslim: 2491",
-        "audio": 790,
-        "cat_id": 39,
-        "subcat_id": 111
-      },
-      "source": {
-        "name": "Dua for other believer",
-        "content": null,
-        "translation": "O Allah, let there be love of these servants of yours, i.e. Abu Huraira and his mother, in the hearts of the believing servants and let their hearts be filled with the love of the believing servants.",
-        "note": "I came out quite pleased with the supplication of Allah's Apostle (ﷺ) and when I came near the door it was closed from within. My mother heard the noise of my footsteps and she said: Abu Huraira, just wait. And I heard the noise of falling of water. She took a bath and put on the cloth and quickly covered her head with a head-dress and opened the door and then said: Abu Huraira, I bear witness to the fact that there is no god but Allah and Muhammad is His bondsman and His Messenger (ﷺ). \n\nHe (Abu Huraira) said: I went back to Allah's Messenger (ﷺ) and (this time) I was shedding the tears of joy. I said: Allah's Messenger, be happy, for Allah has responded to your supplication and He has set on the right path the mother of Abu Huraira. He (the Holy Prophet) praised Allah, and extolled Him and uttered good words. \n\nI said: O Allah's Messenger (ﷺ), supplicate to Allah so that He may instill love of mine and that of my mother too in the believing servants and let our hearts be filled with their love, whereupon Allah's Messenger (ﷺ) said: O Allah, let there be love of these servants of yours, i.e. Abu Huraira and his mother, in the hearts of the believing servants and let their hearts be filled with the love of the believing servants. \n\n(Abu Huraira said: This prayer) was so well granted by Allah that no believer was ever born who heard of me and who saw me but did not love me."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        791
-      ],
-      "id": 791,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 791,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Bukhari: 3642",
-        "audio": null,
-        "cat_id": 39,
-        "subcat_id": 111
-      },
-      "source": {
-        "name": "Supplication of the Prophet (ﷺ) for Urwa Ibn Abil Jaad Bariki (RA)",
-        "content": "The incident was as follows: That the Prophet (ﷺ) gave him one Dinar so as to buy a sheep for him. `Urwa bought two sheep for him with the money. Then he sold one of the sheep for one Dinar, and brought one Dinar and a sheep to the Prophet (ﷺ). On that, the Prophet (ﷺ) invoked Allah to bless him in his deals. So `Urwa used to gain (from any deal) even if he bought dust.",
-        "translation": null,
+        "name": "Dua to get things better than what is lost",
+        "content": "The Prophet (ﷺ) used to say in his supplications:",
+        "translation": "O Allah, make me content with the provision You have given me and bless me in it and appoint good for me in every thing which I do not have.",
         "note": null
       },
       "target": {
         "name": "",
         "content": "",
-        "translation": null,
+        "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "যা হারিয়েছে তার চেয়ে উত্তম বদলা চাওয়ার দোয়া",
+        "content": "নবী (ﷺ) দোয়ায় বলতেন -",
+        "translation": "হে আল্লাহ্‌! আমাকে যা দিয়েছো, তাতে আমাকে তুষ্ট করো ও এর মধ্যে আমার জন্য বরকত দাও এবং যা আমি হারিয়েছি এমন প্রত্যেকটির উত্তম বদলা দাও।"
       }
     },
     {
       "key": [
-        792
+        762
       ],
-      "id": 792,
+      "id": 762,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 792,
+        "id": 762,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ بَارِكْ لَهُ فِي صَفْقَةِ يَمِيْنِهِ",
-        "indopak": "اَللّٰهُمَّ بَارِكْ لَهٗ فِيْ صَفْقَةِ يَمِيْنِهٖ",
-        "clean": "اللهم بارك له في صفقه يمينه",
-        "transliteration": "Allaahumma baarik lahu fi safqati yaminihi",
-        "reference": "Baihaqi: 6/112, Ahmed: 1750",
-        "audio": 792,
-        "cat_id": 39,
-        "subcat_id": 111
+        "uthmani": "اَللَّهُمَّ حَاسِبْنِيْ حِسَابًا يَسِيْرًا",
+        "indopak": "اَللّٰهُمَّ حَاسِبْنِيْ حِسَابًا يَّسِيْرًا",
+        "clean": "اللهم حاسبني حسابا يسيرا",
+        "transliteration": "Allaahumma haasibni hisaabay yasira",
+        "reference": "Bukhari: 6537",
+        "audio": 762,
+        "cat_id": 38,
+        "subcat_id": 110
       },
       "source": {
-        "name": "Dua for blessing one's business",
-        "content": "The Prophet (ﷺ) prayed for Urwa ibn Abil Jaad Bariki (RA) as follows:",
-        "translation": "Oh Allah! Put barakah on his trade.",
-        "note": "He lived in Kufa; And before returning home, he used to make a profit of forty thousand."
+        "name": "Dua for easy reckoning",
+        "content": "On the authority of  Ayesha (RA), she said, I heard Prophet (ﷺ) saying in his prayer:",
+        "translation": "O Allah! Grant me an easy reckoning.",
+        "note": "Narrated by ‘Aisha (RA): Allah's Messenger (ﷺ), said, \"None will be called to account on the Day of Resurrection, but will be ruined.\" I said \"O Allah's Messenger (ﷺ)! Hasn't Allah said: 'Then as for him who will be given his record in his right hand, he surely will receive an easy reckoning? (84:7-8)  \n\nAllah's Messenger (ﷺ) said, \"That (Verse) means only the presentation of the accounts, but anybody whose account (record) is questioned on the Day of Resurrection, will surely be punished.\""
       },
       "target": {
         "name": "",
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "সহজ হিসাবের জন্য দোয়া",
+        "content": "আয়িশা (রাঃ) থেকে বর্ণিত, তিনি বলেন, আমি নবী (ﷺ)-কে কোনও এক সালাতে বলতে শুনেছি -",
+        "translation": "হে আল্লাহ্‌! আমার কাছ থেকে সহজ করে হিসাব নিয়ো!",
+        "note": "আয়েশা (রাঃ) থেকে বর্ণিতঃ নবী (ﷺ) বলেছেনঃ ক্বিয়ামতের দিন যারই হিসাব নেয়া হবে সে ধ্বংস হয়ে যাবে। [‘আয়েশা (রাঃ) বলেন] আমি বললাম, হে আল্লাহ্‌র রাসূল (ﷺ)! আল্লাহ্‌ কি বলেননি, ‘অতঃপর যার ‘আমালনামা তার ডান হাতে দেয়া হবে তার হিসাব সহজভাবেই নেয়া হবে (৮৪ঃ৭-৮)। অতঃপর রসূলুল্লাহ্‌ (ﷺ) বলেনঃ তা কেবল পেশ করা মাত্র। ক্বিয়ামতের দিন যার হিসাব খতিয়ে দেখা হবে তাকে অবশ্যই আযাব দেয়া হবে।"
       }
     },
     {
       "key": [
-        793
+        763
       ],
-      "id": 793,
+      "id": 763,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 793,
+        "id": 763,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ عَلَيْكَ بِقُرَيْشٍ",
-        "indopak": "اَللّٰهُمَّ عَلَيْكَ بِقُرَيْشٍ",
-        "clean": "اللهم عليك بقريش",
-        "transliteration": "Allaahumma 'Alaika bi Quraish",
-        "reference": "Muslim: 1794",
-        "audio": 793,
-        "cat_id": 39,
-        "subcat_id": 111
+        "uthmani": "اَللَّهُمَّ أَعِنِّيْ عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "indopak": "اَللّٰهُمَّ اَعِنِّيْ عَلٰى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "clean": "اللهم اعني علي ذكرك وشكرك وحسن عبادتك",
+        "transliteration": "Allaahumma 'a'innee 'alaa dhikrika, wa shukrika, wahusni 'ibaadatik",
+        "reference": "Sahih (Albani). Abu Dawud: 1522",
+        "audio": 763,
+        "cat_id": 38,
+        "subcat_id": 110
       },
       "source": {
-        "name": "Prophet (ﷺ) Dua against the enemy",
+        "name": "Seeking Allah's help in remembrance, thanksgiving and acceptable worship",
+        "content": "Prophet (ﷺ) said, “Do you want to supplicate in most powerful way? Then say this:",
+        "translation": "O Allah, help me to remember You, to give You thanks, and to perform Your worship in the best manner.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "যিক্‌র, শুকরিয়া এবং কবূলযোগ্য ইবাদতে আল্লাহর সাহায্য চাওয়া",
+        "content": "নবী (ﷺ) বলেন, তোমরা কি দোয়ায় সর্বশক্তি নিয়োগ করতে চাও? (তা হলে) বলো -",
+        "translation": "হে আল্লাহ্‌! আমাকে সাহায্য করো যেন তোমাকে স্মরণ রাখতে পারি, তোমার শুকরিয়া আদায় করতে পারি এবং সুন্দরভাবে তোমার গোলামি করতে পারি।"
+      }
+    },
+    {
+      "key": [
+        764
+      ],
+      "id": 764,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 764,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ إِيْمَانًا لَا يَرْتَدُّ، وَنَعِيْمًا لَا يَنْفَدُ، وَمُرَافَقَةَ نَبِيِّنَا مُحَمَّدٍ (ﷺ) فِي أَعْلَى جَنَّةِ الْخُلْدِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ اِيْمَانًا لَّا يَرْتَدُّ، وَنَعِيْمًا لَّا يَنْفَدُ، وَمُرَافَقَةَ نَبِيِّنَا مُحَمَّدٍ (ﷺ) فِيْ اَعْلٰى جَنَّةِ الْخُلْدِ",
+        "clean": "اللهم اني اسالك ايمانا لا يرتد ونعيما لا ينفد ومرافقه نبينا محمد  في اعلي جنه الخلد",
+        "transliteration": "Allaahumma Inni As'aluka Imaanan Laa Yartaddu Wa Na'eeman Laa Yanfadu Wa Muraafaqata Nabyyinaa (ﷺ) Fee A'laa Jannatil-Khuld.",
+        "reference": "Hasan (Albani). Silsilatul Sahiha: 5/379",
+        "audio": 764,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua to seek full faith, infinite grace and companionship of the Prophet (ﷺ)",
         "content": null,
-        "translation": "O Allah, it is for Thee to deal with the Quraish.",
-        "note": "Prophet (ﷺ) invoked Allah's imprecations upon some enemy of Allah, and Allah responded his dua. One of the incidence was, in Makkah , polytheists gave much pain to Prophet (ﷺ). One day, while the Messenger of Allah (ﷺ) was saying his prayer near the Ka'ba, Abu Jahl commanded some of his evil companions to place foetus of the she-camel between the shoulders of Muhammad when he goes down in prostration (a posture in prayer). This heinous crime was commited by ‘Uqbaa ibn Abi Muait.When the Prophet (ﷺ) had finished his prayer, he invoked Allah's imprecations upon them in a loud voice. Then he said thrice: (the dua is mentioned above)"
+        "translation": "O Allah, I ask you for such Imaan that does not waver and tranquility that does not diminish and the companionship of our Prophet (ﷺ) in high stations of everlasting Jannah.",
+        "note": "Abdullah Ibn Mas’ud (RA) narrated, he said, “I was praying at the mosque. In the meantime, The Messenger of Allah (ﷺ) entered into the mosque. Abu Bakr (RA) and ‘Umar (RA) were with Him. I recited surah An-Nisah. After completing the recitation, I praised Allah and sent salah upon prophet (ﷺ) then I make dua for myself. Then The Messenger of Allah (ﷺ) said, “Ask! You will be given (what you want).” Then He (ﷺ) said, “Whoever wants to recite the Qur'an in it’s pure form, then he should recite it as Ibn Umm ‘Abd (Abdullah Ibn Mas’ud).\n\nThen I came back to my home. Sometimes later Abu Bakr (RA) came to me and said, “Did you remember the things you are wanting in your supplication?” I replied, “Yes. Those are: (The dua is mentioned above)”\n\nThen ‘Umar (RA) came to this slave of Allah to give the glad tidings. After reaching, he saw Abu Bakr (RA) was leaving from me. Then he [‘Umar (RA)] said, “If you did this, then you are always outdid me.”"
       },
       "target": {
         "name": "",
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "পরিপূর্ণ ঈমান, অশেষ অনুগ্রহ এবং রাসুল (ﷺ) সাহচর্য চাওয়ার দোয়া",
+        "translation": "হে আল্লাহ্‌! আমি তোমার কাছে চাই এমন ঈমান যা গ্রহণ করার পর কেউ তা ত্যাগ করে না, এমন অনুগ্রহ যা কখনও শেষ হবে না। এবং আমাদের নবী মুহাম্মাদ (ﷺ)-এর সাহচর্য (যিনি থাকবেন) স্থায়ী জান্নাতের সর্বোচ্চ স্তরে।",
+        "note": "আবদুল্লাহ ইবনু মাসউদ (রাঃ) থেকে বর্ণিত, তিনি বলেন, “আমি মসজিদে সালাত আদায় করছি। এমন সময় আল্লাহ্‌র রাসূল (ﷺ) (মসজিদে) ঢুকেন। সঙ্গে আবু বকর ও উমর (রাঃ)। আমি সূরা আন-নিসা পাঠ করি। পাঠ শেষ হলে, বসে আল্লাহ্‌ তা'আলার প্রশংসা ও নবী (ﷺ) এর উপর দরুদ পড়তে শুরু করি। এরপর নিজের জন্য দোয়া করি। তখন আল্লাহ্‌র রাসূল (ﷺ) বলেন, “চাও! তোমাকে দেওয়া হবে।” এরপর তিনি (ﷺ) বলেন, “যে ব্যক্তি সতেজভাবে কুরআন পাঠ করতে চায়, সে যেন ইবনু উম্মে আবদ (অর্থাৎ আবদুল্লাহ ইবনু মাসঊদ)-এর মতো পাঠ করে।\n\nএরপর আমি ঘরে চলে আসি। কিছুক্ষণ পর আবু বকর (রাঃ) এসে বলেন, “তুমি যে দোয়া করেছিলে, তার কিছু কি মনে আছে?” আমি বলি, “হ্যাঁ! (সেটি হলো) - (দোয়াটি উপরে উল্লেখিত হয়েছে)\n\nএরপর আল্লাহ্‌র (এ) বান্দাকে সুসংবাদ দেওয়ার জন্য উমর (রাঃ) আসেন। এসে দেখেন, তার আগেই আবু বকর (রাঃ) এসে বেরিয়ে যাচ্ছেন। তখন তিনি বলেন, “এ কাজ করে থাকলে, আপনি তো কল্যাণমূলক (সকল) কাজে সবার চেয়ে অগ্রগামী!”"
+      }
+    },
+    {
+      "key": [
+        765
+      ],
+      "id": 765,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 765,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَلْهِمْنِيْ رُشْدِيْ وَأَعِذْنِيْ مِنْ شَرِّ نَفْسِيْ",
+        "indopak": "اَللّٰهُمَّ اَلْهِمْنِيْ رُشْدِيْ وَاَعِذْنِيْ مِنْ شَرِّ نَفْسِيْ",
+        "clean": "اللهم الهمني رشدي واعذني من شر نفسي",
+        "transliteration": "Allaahumma alhimni rushdi, wa a-‘idhni min sharri nafsi",
+        "reference": "Hasan (Ibn Hajar). Takhrij Mishkat: 3/24",
+        "audio": 765,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua for the right direction and protection from the evils of the nafs",
+        "content": null,
+        "translation": "O Allah, inspire me with my guidance, and protect me from harm of myself.",
+        "note": "Imran bin Husain (RA) narrated: “The Prophet (ﷺ) said to my father: ‘O Husain, how many deities do you worship?’ He said: ‘Seven. Six in the earth, and one above the heavens.’ He (ﷺ) said: ‘So which of them do you take for your ardent requests and fears?’ He said: ‘The one above the heavens.’ He (ﷺ) said: ‘O Husain, if you would but accept Islam, I would teach you two phrases that would benefit you.’ He said: “So when Husain accepted Islam, he said: ‘O Messenger of Allah, teach me the two phrases you promised me.’ So, he (ﷺ) said: “Say: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "সঠিক দিকনির্দেশনা এবং নফসের অনিষ্ট থেকে সুরক্ষার দোয়া",
+        "translation": "হে আল্লাহ্‌! আমার জন্য যা সঠিক, তা আমাকে দেখিয়ে দাও! আর আমাকে আমার দেহসত্ত্বার অনিষ্ট থেকে সুরক্ষা দাও!",
+        "note": "ইমরান ইবনু হুসাইন (রাঃ) থেকে বর্ণিত, তিনি বলেন, নবী (ﷺ) আমার পিতাকে বলেন, “হুসাইন! আজ কয়জন প্রভুর আরাধনা করেছ?” আমার পিতা বলেন, “সাতজনের; তাদের মধ্যে ছয়জন (আছেন) দুনিয়াতে, আর একজন আকাশে।” নবী (ﷺ) এসে বলেন, “তাদের মধ্যে কার উদ্দীপনা ও ভয়কে সামনে রেখে নিজেকে প্রস্তুত করছো?” তিনি বলেন, “যিনি আকাশে আছেন, তাঁর।” নবী (ﷺ) বলেন, “হুসাইন, শোনো! তুমি ইসলাম গ্রহণ করলে আমি তোমাকে এমন দুটি কথা শেখাব, যা তোমার উপকারে আসবে।” ইসলাম গ্রহণ করার পর হুসাইন (রাঃ) বলেন, “হে আল্লাহ্‌র রাসূল (ﷺ) আমাকে যে-দুটি কথা শেখানোর ওয়াদা দিয়েছিলেন, তা শিখিয়ে দিন। তখন নবী (ﷺ) বলেন, বলো- (উপরে দোয়াটি উল্লেখিত হয়েছে)"
       }
     }
   ]

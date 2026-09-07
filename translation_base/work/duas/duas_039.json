@@ -4,289 +4,528 @@
   "source_language": "en",
   "target_language": "TARGET",
   "status": "pending",
-  "rows": 9,
-  "id_range": "564-572",
-  "source_chars": 5564,
+  "rows": 12,
+  "id_range": "537-548",
+  "source_chars": 5602,
   "items": [
     {
       "key": [
-        564
+        537
       ],
-      "id": 564,
+      "id": 537,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 564,
+        "id": 537,
+        "groups": "[{\"id\": 537, \"name\": null, \"cat_id\": 33, \"subcat_id\": 99, \"content\": \"Surah Falaq\", \"uthmani\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0640\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u064e\\u0640\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0645\\u0650\\n\\n\\u0642\\u064f\\u0644\\u0652 \\u0623\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0650\\u0651 \\u0627\\u0644\\u0652\\u0641\\u064e\\u0644\\u064e\\u0642\\u0650 \\ufd3f\\u0661\\ufd3e \\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0645\\u064e\\u0627 \\u062e\\u064e\\u0644\\u064e\\u0642\\u064e \\ufd3f\\u0662\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u063a\\u064e\\u0627\\u0633\\u0650\\u0642\\u064d \\u0625\\u0650\\u0630\\u064e\\u0627 \\u0648\\u064e\\u0642\\u064e\\u0628\\u064e \\ufd3f\\u0663\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0641\\u0651\\u064e\\u0627\\u062b\\u064e\\u0627\\u062a\\u0650 \\u0641\\u0650\\u064a \\u0627\\u0644\\u0652\\u0639\\u064f\\u0642\\u064e\\u062f\\u0650 \\ufd3f\\u0664\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u062d\\u064e\\u0627\\u0633\\u0650\\u062f\\u064d \\u0625\\u0650\\u0630\\u064e\\u0627 \\u062d\\u064e\\u0633\\u064e\\u062f\\u064e \\ufd3f\\u0665\\ufd3e\", \"indopak\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0652\\u0645\\u0650\\n\\u0642\\u064f\\u0644\\u0652 \\u0627\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0651\\u0650 \\u0627\\u0644\\u0652\\u0641\\u064e\\u0644\\u064e\\u0642\\u0650 \\u06d9\\ufd3f\\u06f1\\ufd3e \\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0651\\u0650 \\u0645\\u064e\\u0627 \\u062e\\u064e\\u0644\\u064e\\u0642\\u064e \\u06d9\\ufd3f\\u06f2\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0651\\u0650 \\u063a\\u064e\\u0627\\u0633\\u0650\\u0642\\u064d \\u0627\\u0650\\u0630\\u064e\\u0627 \\u0648\\u064e\\u0642\\u064e\\u0628\\u064e \\u06d9\\ufd3f\\u06f3\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0651\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0641\\u0651\\u0670\\u062b\\u0670\\u062a\\u0650 \\u0641\\u0650\\u06cc \\u0627\\u0644\\u0652\\u0639\\u064f\\u0642\\u064e\\u062f\\u0650 \\u06d9\\ufd3f\\u06f4\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0651\\u0650 \\u062d\\u064e\\u0627\\u0633\\u0650\\u062f\\u064d \\u0627\\u0650\\u0630\\u064e\\u0627 \\u062d\\u064e\\u0633\\u064e\\u062f\\u064e \\ufd3f\\u06f5\\ufd3e\", \"clean\": \"\\u0628\\u0633\\u0645 \\u0627\\u0644\\u0644\\u0647 \\u0627\\u0644\\u0631\\u062d\\u0645\\u0646 \\u0627\\u0644\\u0631\\u062d\\u064a\\u0645\\u0642\\u0644 \\u0627\\u0639\\u0648\\u0630 \\u0628\\u0631\\u0628 \\u0627\\u0644\\u0641\\u0644\\u0642  \\u0645\\u0646 \\u0634\\u0631 \\u0645\\u0627 \\u062e\\u0644\\u0642  \\u0648\\u0645\\u0646 \\u0634\\u0631 \\u063a\\u0627\\u0633\\u0642 \\u0627\\u0630\\u0627 \\u0648\\u0642\\u0628  \\u0648\\u0645\\u0646 \\u0634\\u0631 \\u0627\\u0644\\u0646\\u0641\\u062b\\u062a \\u0641 \\u0627\\u0644\\u0639\\u0642\\u062f  \\u0648\\u0645\\u0646 \\u0634\\u0631 \\u062d\\u0627\\u0633\\u062f \\u0627\\u0630\\u0627 \\u062d\\u0633\\u062f \", \"transliteration\": \"Bismillaahir-Rahmaanir-Raheem. (1) Qul 'A'oodhu birabbil-falaq. (2) Min sharri maa khalaq. (3) Wa min sharri ghaasiqin 'ithaa waqab. (4) Wa min sharrin-naffaathaati fil-'uqad. (5) Wa min sharri haasidin 'ithaa hasad\", \"translation\": \"In the name of Allah, the Entirely Merciful, the Especially Merciful.  (1) Say, \\\"I seek refuge in the Lord of daybreak (2) From the evil of that which He created (3) And from the evil of darkness when it settles (4) And from the evil of the blowers in knots (5) And from the evil of an envier when he envies.\\\" (Sura Falaq: 1-5)\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 537, \"name\": null, \"cat_id\": 33, \"subcat_id\": 99, \"content\": \"Surah Nas\", \"uthmani\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0640\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u064e\\u0640\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0645\\u0650\\n\\n\\u0642\\u064f\\u0644\\u0652 \\u0623\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0650\\u0651 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0661\\ufd3e \\u0645\\u064e\\u0644\\u0650\\u0643\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0662\\ufd3e \\u0625\\u0650\\u0644\\u064e\\u0640\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0663\\ufd3e \\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0627\\u0644\\u0652\\u0648\\u064e\\u0633\\u0652\\u0648\\u064e\\u0627\\u0633\\u0650 \\u0627\\u0644\\u0652\\u062e\\u064e\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0664\\ufd3e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a \\u064a\\u064f\\u0648\\u064e\\u0633\\u0652\\u0648\\u0650\\u0633\\u064f \\u0641\\u0650\\u064a \\u0635\\u064f\\u062f\\u064f\\u0648\\u0631\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0665\\ufd3e \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0652\\u062c\\u0650\\u0646\\u0651\\u064e\\u0629\\u0650 \\u0648\\u064e\\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0666\\ufd3e\", \"indopak\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0652\\u0645\\u0650 \\n\\u0642\\u064f\\u0644\\u0652 \\u0627\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0651\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\u06d9\\ufd3f\\u06f1\\ufd3e \\u0645\\u064e\\u0644\\u0650\\u0643\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\u06d9\\ufd3f\\u06f2\\ufd3e \\u0627\\u0650\\u0644\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\u06d9\\ufd3f\\u06f3\\ufd3e \\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0651\\u0650 \\u0627\\u0644\\u0652\\u0648\\u064e\\u0633\\u0652\\u0648\\u064e\\u0627\\u0633\\u0650 \\u06ec\\u06d9  \\u0627\\u0644\\u0652\\u062e\\u064e\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\u06ea\\u06d9\\ufd3f\\u06f4\\ufd3e  \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u06cc\\u0652 \\u06cc\\u064f\\u0648\\u064e\\u0633\\u0652\\u0648\\u0650\\u0633\\u064f \\u0641\\u0650\\u06cc\\u0652 \\u0635\\u064f\\u062f\\u064f\\u0648\\u0652\\u0631\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\u06d9\\ufd3f\\u06f5\\ufd3e \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0652\\u062c\\u0650\\u0646\\u0651\\u064e\\u0629\\u0650 \\u0648\\u064e\\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\u066a\\ufd3f\\u06f6\\ufd3e\", \"clean\": \"\\u0628\\u0633\\u0645 \\u0627\\u0644\\u0644\\u0647 \\u0627\\u0644\\u0631\\u062d\\u0645\\u0646 \\u0627\\u0644\\u0631\\u062d\\u064a\\u0645 \\u0642\\u0644 \\u0627\\u0639\\u0648\\u0630 \\u0628\\u0631\\u0628 \\u0627\\u0644\\u0646\\u0627\\u0633  \\u0645\\u0644\\u0643 \\u0627\\u0644\\u0646\\u0627\\u0633  \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0646\\u0627\\u0633  \\u0645\\u0646 \\u0634\\u0631 \\u0627\\u0644\\u0648\\u0633\\u0648\\u0627\\u0633   \\u0627\\u0644\\u062e\\u0646\\u0627\\u0633   \\u0627\\u0644\\u0630 \\u0648\\u0633\\u0648\\u0633 \\u0641 \\u0635\\u062f\\u0648\\u0631 \\u0627\\u0644\\u0646\\u0627\\u0633  \\u0645\\u0646 \\u0627\\u0644\\u062c\\u0646\\u0647 \\u0648\\u0627\\u0644\\u0646\\u0627\\u0633 \", \"transliteration\": \"Bismillaahir-Rahmaanir-Raheem. (1) Qul 'A'oodhu birabbin-naas. (2) Malikin-naas. (3) 'Ilaahin-naas. (4) Min sharril-waswaasil-khannaas. (5) Allathee yuwaswisu fee sudoorin-naas. (6) Minal-jinnati wan-naas\", \"translation\": \"In the name of Allah, the Entirely Merciful, the Especially Merciful. (1) Say, \\\"I seek refuge in the Lord of mankind, (2) The Sovereign of mankind. (3) The God of mankind, (4) From the evil of the retreating whisperer - (5) Who whispers [evil] into the breasts of mankind - (6) From among the jinn and mankind.\\\" (Sura Nas: 1-6)\", \"note\": \"Narrated `Aisha (RA):\\n\\nDuring the Prophet's fatal illness, he used to recite the Mu'auwidhat (Surat An-Nas and Surat Al- Falaq) and then blow his breath over his body. When his illness was aggravated, I used to recite those two Suras and blow my breath over him and make him rub his body with his own hand for its blessings.\\\" (Ma`mar asked Az-Zuhri: How did the Prophet (\\ufdfa) use to blow? Az-Zuhri said: He used to blow on his hands and then passed them over his face.)\\n\\nWe have already learned to recite the Surahs in this way even during regular dhikr while lying in bed at night.\", \"reference\": \"Bukhari: 5735\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\nقُلْ هُوَ اللَّـهُ أَحَدٌ ﴿١﴾ اللَّـهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ \nقُلْ هُوَ اللّٰهُ اَحَدٌ  ۚ﴿۱﴾ اَللّٰهُ الصَّمَدُ ۚ﴿۲﴾ لَمْ یَلِدْ وَلَمْ  یُوْلَدْ ۙ﴿۳﴾ وَلَمْ یَكُنْ لَّهٗ كُفُوًا اَحَدٌ ٪﴿۴﴾",
+        "clean": "بسم الله الرحمن الرحيم قل هو الله احد   الله الصمد  لم لد ولم  ولد  ولم كن له كفوا احد ",
+        "transliteration": "Bismillaahir-Rahmaanir-Raheem. (1) Qul HuwAllahu 'Ahad. (2) Allahus-Samad. (3) Lam yalid wa lam yoolad. (4) Wa lam yakun lahu kufuwan 'ahad",
+        "reference": null,
+        "audio": 537,
+        "cat_id": 33,
+        "subcat_id": 99
+      },
+      "source": {
+        "name": "Dua for healing oneself and others",
+        "content": "Surah Ikhlas",
+        "translation": "In the name of Allah, the Entirely Merciful, the Especially Merciful. (1) Say, \"He is Allah, [who is] One, (2) Allah, the Eternal Refuge. (3) He neither begets nor is born, (4) Nor is there to Him any equivalent.\" (Sura Ikhlas: 1-4)",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "নিজের ও অন্যের রোগমুক্তির দোয়া",
+        "content": "সূরা ইখলাস",
+        "translation": "পরম করুণাময় অতি দয়ালু আল্লাহ্‌র নামে। (১) বল, তিনিই আল্লাহ্‌, এক-অদ্বিতীয়। (২) আল্লাহ্‌ কারো মুখাপেক্ষী নন, সকলেই তাঁর মুখাপেক্ষী। (৩) তিনি কাউকে জন্ম দেননি এবং তাঁকেও জন্ম দেয়া হয়নি। (৪) আর তাঁর কোন সমকক্ষও নেই। (সূরা ইখলাসঃ ১-৪)"
+      },
+      "group_items": [
+        {
+          "group": 0,
+          "key": "content",
+          "source": "Surah Falaq",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "translation",
+          "source": "In the name of Allah, the Entirely Merciful, the Especially Merciful.  (1) Say, \"I seek refuge in the Lord of daybreak (2) From the evil of that which He created (3) And from the evil of darkness when it settles (4) And from the evil of the blowers in knots (5) And from the evil of an envier when he envies.\" (Sura Falaq: 1-5)",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "content",
+          "source": "Surah Nas",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "translation",
+          "source": "In the name of Allah, the Entirely Merciful, the Especially Merciful. (1) Say, \"I seek refuge in the Lord of mankind, (2) The Sovereign of mankind. (3) The God of mankind, (4) From the evil of the retreating whisperer - (5) Who whispers [evil] into the breasts of mankind - (6) From among the jinn and mankind.\" (Sura Nas: 1-6)",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "note",
+          "source": "Narrated `Aisha (RA):\n\nDuring the Prophet's fatal illness, he used to recite the Mu'auwidhat (Surat An-Nas and Surat Al- Falaq) and then blow his breath over his body. When his illness was aggravated, I used to recite those two Suras and blow my breath over him and make him rub his body with his own hand for its blessings.\" (Ma`mar asked Az-Zuhri: How did the Prophet (ﷺ) use to blow? Az-Zuhri said: He used to blow on his hands and then passed them over his face.)\n\nWe have already learned to recite the Surahs in this way even during regular dhikr while lying in bed at night.",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        538
+      ],
+      "id": 538,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 538,
         "groups": null,
-        "uthmani": "لِّلَّـهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَإِن تُبْدُوا مَا فِي أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ اللَّـهُ ۖ فَيَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ ۗ وَاللَّـهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿٢٨٤﴾ آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّـهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ ﴿٢٨٥﴾ لَا يُكَلِّفُ اللَّـهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ ﴿٢٨٦﴾",
-        "indopak": "لِلّٰهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْاَرْضِ ۗ وَاِن تُبْدُوْا مَا فِيْ اَنْفُسِكُمْ اَوْ تُخْفُوْهُ يُحَاسِبْكُمْ بِهِ اللّٰهُ ۖ فَيَغْفِرُ لِمَنْ يَّشَاءُ وَيُعَذِّبُ مَنْ يَّشَاءُ ۗ وَاللّٰهُ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ ﴿٢٨٤﴾ اٰمَنَ الرَّسُوْلُ بِمَا اُنْزِلَ اِلَيْهِ مِن رَّبِّهٖ وَالْمُؤْمِنُوْنَ ۚ كُلٌّ اٰمَنَ بِاللّٰهِ وَمَلَائِكَتِهٖ وَكُتُبِهٖ وَرُسُلِهٖ لَا نُفَرِّقُ بَيْنَ اَحَدٍ مِّن رُّسُلِهٖ ۚ وَقَالُوْا سَمِعْنَا وَاَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَاِلَيْكَ الْمَصِيْرُ ﴿٢٨٥﴾  لَا یُكَلِّفُ اللّٰهُ نَفْسًا اِلَّا وُسْعَهَا ؕ لَهَا مَا كَسَبَتْ وَعَلَیْهَا مَا اكْتَسَبَتْ ؕ رَبَّنَا لَا تُؤَاخِذْنَاۤ اِنْ نَّسِیْنَاۤ اَوْ اَخْطَاْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَیْنَاۤ اِصْرًا كَمَا حَمَلْتَهٗ عَلَی الَّذِیْنَ مِنْ قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهٖ ۚ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا اَنْتَ مَوْلٰىنَا فَانْصُرْنَا عَلَی الْقَوْمِ الْكٰفِرِیْنَ ﴿۲۸۶﴾",
-        "clean": "لله ما في السماوات وما في الارض  وان تبدوا ما في انفسكم او تخفوه يحاسبكم به الله  فيغفر لمن يشاء ويعذب من يشاء  والله علي كل شيء قدير ٢٨٤ امن الرسول بما انزل اليه من ربه والمءمنون  كل امن بالله وملاءكته وكتبه ورسله لا نفرق بين احد من رسله  وقالوا سمعنا واطعنا  غفرانك ربنا واليك المصير ٢٨٥  لا كلف الله نفسا الا وسعها  لها ما كسبت وعلها ما اكتسبت  ربنا لا تءاخذنا ان نسنا او اخطانا  ربنا ولا تحمل علنا اصرا كما حملته عل الذن من قبلنا  ربنا ولا تحملنا ما لا طاقه لنا به  واعف عنا واغفر لنا وارحمنا انت مولينا فانصرنا عل القوم الكفرن ",
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
         "transliteration": null,
-        "reference": "Surah Baqarah 2: 284-286",
+        "reference": "Sahih (Albani). Tirmidhi: 969",
         "audio": null,
-        "cat_id": 34,
-        "subcat_id": 102
+        "cat_id": 33,
+        "subcat_id": 99
       },
       "source": {
-        "name": "Jinn, magic and treatment of diseases that must be read #6",
-        "content": null,
-        "translation": "(284) To Allah belongs whatever is in the heavens and whatever is in the earth. Whether you show what is within yourselves or conceal it, Allah will bring you to account for it. Then He will forgive whom He wills and punish whom He wills, and Allah is over all things competent. (285) The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], \"We make no distinction between any of His messengers.\" And they say, \"We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.\" (286) Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\"",
+        "name": "Excellence of visiting the sick #1",
+        "content": "Abdur rahman ibn abu laila (RA) narrated that: His father said: \"Ali took me by the hand and said: 'Come with us to pay a visit to Al-Hasan.' So we found that Abu Musa was with him.' Ali - peace be upon him - said: 'O Abu Musa! Did you come to visit (the sick) or merely (stop by to) visit?' He said: 'No, to visit (the sick).' So Ali said: 'I heard the Messenger of Allah (ﷺ) saying: \"No Muslim visits (the sick) Muslims in the morning, except that sevety-thousand angels, sent Salat upon him until the evening, and he does not visit at night except that seventy thousand angels sent Salat upon him until the morning, and there will be a garden for him in Paradise.\"",
+        "translation": null,
         "note": null
       },
       "target": {
         "name": "",
-        "content": null,
-        "translation": "",
+        "content": "",
+        "translation": null,
         "note": null
+      },
+      "reference_bn": {
+        "name": "অসুস্থ ব্যক্তিকে দেখতে যাওয়ার ফযীলত #১",
+        "content": "আবদুর রহমান ইবনু আবী লাইলা (রাঃ) থেকে বর্ণিত, তিনি বলেন, হাসান ইবনু আলী (রাঃ)-এর অসুস্থতার সময় আবূ মূসা (রাঃ) তাকে দেখতে আসেন। তখন আলী (রাঃ) তাকে জিজ্ঞাসা করেন, “কী জন্য এসেছেন: আত্মতৃপ্তির জন্য, নাকি রোগী-দেখার উদ্দেশে?” তিনি বলেন, “না; বরং রোগী দেখতে এসেছি।” এর পরিপ্রেক্ষিতে আলী (রাঃ) তাকে বলেন, “যদি রোগী দেখার উদ্দেশে এসে থাকেন, তা হলে শুনুন-আমি আল্লাহ্‌র রাসূল (ﷺ)-কে বলতে শুনেছি, যখন কোনও ব্যক্তি তার অসুস্থ মুসলিম ভাইকে দেখতে যায়, তখন সেখানে গিয়ে বসার আগ পর্যন্ত সে জান্নাতের ফলবাগানের মধ্যে বিচরণ করতে থাকে। যখন সে বসে, তখন (আল্লাহ্‌র) রহমত তাকে আচ্ছন্ন করে রাখে। সকালবেলা রোগী দেখতে গেলে, সন্ধ্যা পর্যন্ত সত্তর হাজার ফেরেশতা তার জন্য দোয়া করতে থাকে; আর সন্ধ্যাবেলা রোগী দেখতে গেলে, সকাল পর্যন্ত সত্তর হাজার ফেরেশতা তার জন্য দোয়া করতে থাকে।"
       }
     },
     {
       "key": [
-        565
+        539
       ],
-      "id": 565,
+      "id": 539,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 565,
+        "id": 539,
         "groups": null,
-        "uthmani": "شَهِدَ اللَّـهُ أَنَّهُ لَا إِلَـٰهَ إِلَّا هُوَ وَالْمَلَائِكَةُ وَأُولُو الْعِلْمِ قَائِمًا بِالْقِسْطِ ۚ لَا إِلَـٰهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ ﴿١٨﴾ إِنَّ الدِّينَ عِندَ اللَّـهِ الْإِسْلَامُ ۗ وَمَا اخْتَلَفَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِآيَاتِ اللَّـهِ فَإِنَّ اللَّـهَ سَرِيعُ الْحِسَابِ ﴿١٩﴾",
-        "indopak": "شَهِدَ اللّٰهُ اَنَّهٗ لَا اِلٰهَ اِلَّا هُوَ ۙ وَالْمَلٰٓئِكَةُ وَاُولُوا الْعِلْمِ قَآئِمًۢا بِالْقِسْطِ ؕ لَا اِلٰهَ اِلَّا هُوَ الْعَزِیْزُ الْحَكِیْمُ﴿ؕ۱۸﴾ اِنَّ الدِّیْنَ عِنْدَ اللّٰهِ الْاِسْلَامُ ۟ وَمَا اخْتَلَفَ الَّذِیْنَ اُوْتُوا الْكِتٰبَ اِلَّا مِنْۢ بَعْدِ مَا جَآءَهُمُ الْعِلْمُ بَغْیًۢا بَیْنَهُمْ ؕ وَمَنْ یَّكْفُرْ بِاٰیٰتِ اللّٰهِ فَاِنَّ اللّٰهَ سَرِیْعُ الْحِسَابِ﴿۱۹﴾",
-        "clean": "شهد الله انه لا اله الا هو  والملءكه واولوا العلم قاءما بالقسط  لا اله الا هو العزز الحكم ان الدن عند الله الاسلام  وما اختلف الذن اوتوا الكتب الا من بعد ما جاءهم العلم بغا بنهم  ومن كفر بات الله فان الله سرع الحساب",
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
         "transliteration": null,
-        "reference": "Surah Ali-Imran 3: 18-19",
-        "audio": 565,
-        "cat_id": 34,
-        "subcat_id": 102
+        "reference": "Muslim: 2568",
+        "audio": null,
+        "cat_id": 33,
+        "subcat_id": 99
       },
       "source": {
-        "name": "Jinn, magic and treatment of diseases that must be read #7",
-        "content": null,
-        "translation": "(18) Allah witnesses that there is no deity except Him, and [so do] the angels and those of knowledge -  [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise. (19) Indeed, the religion in the sight of Allah is Islam. And those who were given the Scripture did not differ except after knowledge had come to them -  out of jealous animosity between themselves. And whoever disbelieves in the verses of Allah, then indeed, Allah is swift in [taking] account.",
+        "name": "Excellence of visiting the sick #2",
+        "content": "Narrated Sawban: The Messenger of Allah (ﷺ), said, \"Whoever goes to see a patient, he is wandering in the orchards of Paradise.\"",
+        "translation": null,
         "note": null
       },
       "target": {
         "name": "",
-        "content": null,
-        "translation": "",
+        "content": "",
+        "translation": null,
         "note": null
+      },
+      "reference_bn": {
+        "name": "অসুস্থ ব্যক্তিকে দেখতে যাওয়ার ফযীলত #২",
+        "content": "সাওবান (রাঃ) থেকে বর্ণিত, আল্লাহ্‌র রাসূল (ﷺ) বলেন, “যে-ব্যক্তি কোনও রোগীকে দেখতে যায়, সে জান্নাতের ফলবাগানে বিচরণ করতে থাকে।”"
       }
     },
     {
       "key": [
-        566
+        540
       ],
-      "id": 566,
+      "id": 540,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 566,
+        "id": 540,
         "groups": null,
-        "uthmani": "إِنَّ رَبَّكُمُ اللَّـهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِأَمْرِهِ ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ اللَّـهُ رَبُّ الْعَالَمِينَ ﴿٥٤﴾ ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ ﴿٥٥﴾ وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ اللَّـهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ ﴿٥٦﴾",
-        "indopak": "اِنَّ رَبَّكُمُ اللّٰهُ الَّذِیْ خَلَقَ السَّمٰوٰتِ وَالْاَرْضَ فِیْ سِتَّةِ اَیَّامٍ ثُمَّ اسْتَوٰی عَلَی الْعَرْشِ ۟ یُغْشِی الَّیْلَ النَّهَارَ یَطْلُبُهٗ حَثِیْثًا ۙ وَّالشَّمْسَ وَالْقَمَرَ وَالنُّجُوْمَ مُسَخَّرٰتٍۭ بِاَمْرِهٖ ؕ اَلَا لَهُ الْخَلْقُ وَالْاَمْرُ ؕ تَبٰرَكَ اللّٰهُ رَبُّ الْعٰلَمِیْنَ﴿۵۴﴾ اُدْعُوْا رَبَّكُمْ تَضَرُّعًا وَّخُفْیَةً ؕ اِنَّهٗ لَا یُحِبُّ الْمُعْتَدِیْنَ﴿ۚ۵۵﴾ وَلَا تُفْسِدُوْا فِی الْاَرْضِ بَعْدَ اِصْلَاحِهَا وَادْعُوْهُ خَوْفًا وَّطَمَعًا ؕ اِنَّ رَحْمَتَ اللّٰهِ قَرِیْبٌ مِّنَ الْمُحْسِنِیْنَ﴿۵۶﴾",
-        "clean": "ان ربكم الله الذ خلق السموت والارض ف سته اام ثم استو عل العرش  غش الل النهار طلبه حثثا  والشمس والقمر والنجوم مسخرت بامره  الا له الخلق والامر  تبرك الله رب العلمن ادعوا ربكم تضرعا وخفه  انه لا حب المعتدن ولا تفسدوا ف الارض بعد اصلاحها وادعوه خوفا وطمعا  ان رحمت الله قرب من المحسنن",
-        "transliteration": null,
-        "reference": "Surah A'raf 7: 54-56",
-        "audio": 566,
-        "cat_id": 34,
-        "subcat_id": 102
+        "uthmani": "أَذْهِبِ الْبَأْسَ رَبَّ النَّاسِ، وَاشْفِ أَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا",
+        "indopak": "اَذْهِبِ الْبَاسَ رَبَّ النَّاسِ، وَاشْفِ اَنْتَ الشَّافِيْ، لَا شِفَاءَ اِلَّا شِفَاؤُكَ، شِفَاءً لَّا يُغَادِرُ سَقَمًا",
+        "clean": "اذهب الباس رب الناس واشف انت الشافي لا شفاء الا شفاءك شفاء لا يغادر سقما",
+        "transliteration": "Adhhibil-ba’s Rabban-naas, washfi Antash-Shaafi, laa shifaa’a illaa shifaa’uka, shifaa’an laa yughadiru saqama",
+        "reference": "Bukhari: 5675",
+        "audio": 540,
+        "cat_id": 33,
+        "subcat_id": 99
       },
       "source": {
-        "name": "Jinn, magic and treatment of diseases that must be read #8",
+        "name": "Dua of sickness",
         "content": null,
-        "translation": "(54) Indeed, your Lord is Allah, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, His is the creation and the command; blessed is Allah, Lord of the worlds. (55) Call upon your Lord in humility and privately; indeed, He does not like transgressors. (56) And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allah is near to the doers of good.",
-        "note": null
+        "translation": "Take away the disease, O the Lord of the people! Cure him as You are the One Who cures. There is no cure but Yours, a cure that leaves no disease.",
+        "note": "Whenever Allah's Messenger (ﷺ) paid a visit to a patient, or a patient was brought to him, he used to invoke Allah, saying (The dua is mentioned above)"
       },
       "target": {
         "name": "",
         "content": null,
         "translation": "",
-        "note": null
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "অসুস্থ ব্যক্তির জন্য দোয়া",
+        "translation": "হে মানুষের প্রতিপালক! তুমি রোগ দূর করে দাও এবং আরোগ্য দান করো। তুমিই তো আরোগ্যদানকারী, তোমার আরোগ্য ভিন্ন আর কোন আরোগ্য নেই, এমন আরোগ্য দাও, যারপর কোন রোগ থাকে না।",
+        "note": "নবী (ﷺ) তাদের (তার স্ত্রীদের) কাউকে ঝাড়ার সময় ডান হাত দিয়ে মাসাহ্ করতেন এবং বলতেন, (দোয়াটি উপরে উল্লেখিত হয়েছে)"
       }
     },
     {
       "key": [
-        567
+        541
       ],
-      "id": 567,
+      "id": 541,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 567,
+        "id": 541,
         "groups": null,
-        "uthmani": "وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنْ أَلْقِ عَصَاكَ ۖ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ ﴿١١٧﴾ فَوَقَعَ الْحَقُّ وَبَطَلَ مَا كَانُوا يَعْمَلُونَ ﴿١١٨﴾ فَغُلِبُوا هُنَالِكَ وَانقَلَبُوا صَاغِرِينَ ﴿١١٩﴾ وَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ ﴿١٢٠﴾ قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ ﴿١٢١﴾ رَبِّ مُوسَىٰ وَهَارُونَ ﴿١٢٢﴾",
-        "indopak": "وَاَوْحَیْنَاۤ اِلٰی مُوْسٰۤی اَنْ اَلْقِ عَصَاكَ ۚ فَاِذَا هِیَ تَلْقَفُ مَا یَاْفِكُوْنَ﴿۱۱۷﴾ۚ فَوَقَعَ الْحَقُّ وَبَطَلَ مَا كَانُوْا یَعْمَلُوْنَ﴿۱۱۸﴾ۚ فَغُلِبُوْا هُنَالِكَ وَانْقَلَبُوْا صٰغِرِیْنَ﴿۱۱۹﴾ۚ وَاُلْقِیَ السَّحَرَةُ سٰجِدِیْنَ﴿۱۲۰﴾ۚۖ قَالُوْۤا اٰمَنَّا بِرَبِّ الْعٰلَمِیْنَ﴿۱۲۱﴾ۙ  رَبِّ مُوْسٰی وَهٰرُوْنَ﴿۱۲۲﴾",
-        "clean": "واوحنا ال موس ان الق عصاك  فاذا ه تلقف ما افكون فوقع الحق وبطل ما كانوا عملون فغلبوا هنالك وانقلبوا صغرن والق السحره سجدن قالوا امنا برب العلمن  رب موس وهرون",
-        "transliteration": null,
-        "reference": "Surah A'raf 7: 117-122",
-        "audio": 567,
-        "cat_id": 34,
-        "subcat_id": 102
+        "uthmani": "لَا بَأْسَ طَهُورٌ إِنْ شَاءَ اللَّهُ",
+        "indopak": "لَا بأْسَ طَهُوْرٌ اِنْ شَاءَ اللّٰهُ",
+        "clean": "لا باس طهور ان شاء الله",
+        "transliteration": "Laa ba'sa tahoorun 'inshaa'Allah.",
+        "reference": "Bukhari: 3616",
+        "audio": 541,
+        "cat_id": 33,
+        "subcat_id": 99
       },
       "source": {
-        "name": "Jinn, magic and treatment of diseases that must be read #9",
+        "name": "Dua for the patient #1",
         "content": null,
-        "translation": "(117) And We inspired to Moses, \"Throw your staff,\" and at once it devoured what they were falsifying. (118) So the truth was established, and abolished was what they were doing. (119) And Pharaoh and his people were overcome right there and became debased. (120) And the magicians fell down in prostration [to Allah ]. (121) They said, \"We have believed in the Lord of the worlds, (122) The Lord of Moses and Aaron.\"",
-        "note": null
+        "translation": "Do not worry, it will be a purification (for you), Allah willing.",
+        "note": "The Prophet (ﷺ) used to say this dua when he went to see a sick person."
       },
       "target": {
         "name": "",
         "content": null,
         "translation": "",
-        "note": null
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "রোগীর জন্য দোয়া #১",
+        "translation": "চিন্তা করো না গুনাহ হতে তুমি পবিত্র হয়ে যাবে ইনশাআল্লাহ্‌ (এর কারণে আল্লাহ্‌ আপনার পাপরাশি ক্ষমা করে আপনাকে পবিত্র করবেন)",
+        "note": "রাসূলুল্লাহ্‌ (ﷺ) কোনো অসুস্থকে দেখতে গেলে এ দোয়া বলতেন।"
       }
     },
     {
       "key": [
-        568
+        542
       ],
-      "id": 568,
+      "id": 542,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 568,
+        "id": 542,
         "groups": null,
-        "uthmani": "فَلَمَّا أَلْقَوْا قَالَ مُوسَىٰ مَا جِئْتُم بِهِ السِّحْرُ ۖ إِنَّ اللَّـهَ سَيُبْطِلُهُ ۖ إِنَّ اللَّـهَ لَا يُصْلِحُ عَمَلَ الْمُفْسِدِينَ ﴿٨١﴾ وَيُحِقُّ اللَّـهُ الْحَقَّ بِكَلِمَاتِهِ وَلَوْ كَرِهَ الْمُجْرِمُونَ ﴿٨٢﴾",
-        "indopak": "فَلَمَّاۤ اَلْقَوْا قَالَ مُوْسٰی مَا جِئْتُمْ بِهِ ۙ السِّحْرُ ؕ اِنَّ اللّٰهَ سَیُبْطِلُهٗ ؕ اِنَّ اللّٰهَ لَا یُصْلِحُ عَمَلَ الْمُفْسِدِیْنَ﴿۸۱﴾ وَیُحِقُّ اللّٰهُ الْحَقَّ بِكَلِمٰتِهٖ وَلَوْ كَرِهَ الْمُجْرِمُوْنَ﴿٪۸۲﴾",
-        "clean": "فلما القوا قال موس ما جءتم به  السحر  ان الله سبطله  ان الله لا صلح عمل المفسدن وحق الله الحق بكلمته ولو كره المجرمون",
-        "transliteration": null,
-        "reference": "Surah Yunus 10: 81-82",
-        "audio": 568,
-        "cat_id": 34,
-        "subcat_id": 102
+        "uthmani": "أَسْأَلُ اللَّهَ الْعَظِيْمَ رَبَّ الْعَرْشِ الْعَظِيْمِ أَنْ يَشْفِيَكَ",
+        "indopak": "اَسْاَلُ اللّٰهَ الْعَظِيْمَ رَبَّ الْعَرْشِ الْعَظِيْمِ اَنْ يَّشْفِيَكَ",
+        "clean": "اسال الله العظيم رب العرش العظيم ان يشفيك",
+        "transliteration": "As'alullaahal-'Adheem Rabbal-'Arshil-'Adheem 'an yashfiyak",
+        "reference": "Sahih (Albani). Tirmidhi: 2083",
+        "audio": 542,
+        "cat_id": 33,
+        "subcat_id": 99
       },
       "source": {
-        "name": "Jinn, magic and treatment of diseases that must be read #10",
-        "content": null,
-        "translation": "(81) And when they had thrown, Moses said, \"What you have brought is [only] magic. Indeed, Allah will expose its worthlessness. Indeed, Allah does not amend the work of corrupters. (82) And Allah will establish the truth by His words, even if the criminals dislike it.\"",
-        "note": null
+        "name": "Dua for the patient #2",
+        "content": "(Seven times)",
+        "translation": "I ask Almighty Allah, Lord of the Magnificent Throne, to make you well.",
+        "note": "Ibn 'Abbas (RA) narrated that the Prophet (ﷺ) said: \"There is no Muslim worshiper who visits one who is ill - other than at the time of death - and he says seven times: (The dua is mentioned above) except when he will be cured.\" (The dua is mentioned above)"
       },
       "target": {
         "name": "",
-        "content": null,
+        "content": "",
         "translation": "",
-        "note": null
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "রোগীর জন্য দোয়া #২",
+        "content": "৭ বার বলবে -",
+        "translation": "আমি প্রার্থনা করছি মহামর্যাদাময় আল্লাহ্‌র নিকট, যিনি মহামর্যাদাময় আরশের প্রভু, তিনি যেন তোমাকে সুস্থতা প্রদান করেন।",
+        "note": "ইবনু আব্বাস (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, “যদি কোনো মুসলিম কোনো অসুস্থ ব্যক্তিকে দেখতে গিয়ে এ কথাগুলো সাত বার বলেন তাহলে তার মৃত্যু উপস্থিত না হলে সে সুস্থতা লাভ করবেই।” (দোয়াটি উপরে উল্লেখিত হয়েছে)"
       }
     },
     {
       "key": [
-        569
+        543
       ],
-      "id": 569,
+      "id": 543,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 569,
+        "id": 543,
         "groups": null,
-        "uthmani": "وَأَلْقِ مَا فِي يَمِينِكَ تَلْقَفْ مَا صَنَعُوا ۖ إِنَّمَا صَنَعُوا كَيْدُ سَاحِرٍ ۖ وَلَا يُفْلِحُ السَّاحِرُ حَيْثُ أَتَىٰ ﴿٦٩﴾",
-        "indopak": "وَاَلْقِ مَا فِیْ یَمِیْنِكَ تَلْقَفْ مَا صَنَعُوْا ؕ اِنَّمَا صَنَعُوْا كَیْدُ سٰحِرٍ ؕ وَلَا یُفْلِحُ السَّاحِرُ حَیْثُ اَتٰی﴿۶۹﴾",
-        "clean": "والق ما ف منك تلقف ما صنعوا  انما صنعوا كد سحر  ولا فلح الساحر حث ات",
-        "transliteration": null,
-        "reference": "Surah Ta Ha 20:69",
-        "audio": 569,
-        "cat_id": 34,
-        "subcat_id": 102
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَأَلْحِقْنِي بِالرَّفِيقِ الْأَعْلَى",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِيْ، وَارْحَمْنِيْ، وَالْحِقْنِيْ بِالرَّفِيْقِ الْاَعْلٰى",
+        "clean": "اللهم اغفر لي وارحمني والحقني بالرفيق الاعلي",
+        "transliteration": "Allahum-maghfir lee warhamnee wa 'alhiqnee bir-rafeeqil-'a'laa",
+        "reference": "Sahih (Albani) Sahih Al Jame: 1267",
+        "audio": 543,
+        "cat_id": 33,
+        "subcat_id": 99
       },
       "source": {
-        "name": "Jinn, magic and treatment of diseases that must be read #11",
-        "content": null,
-        "translation": "(69) And throw what is in your right hand; it will swallow up what they have crafted. What they have crafted is but the trick of a magician, and the magician will not succeed wherever he is.\"",
+        "name": "When the sick have renounced all hope of life #1",
+        "content": "Narrated Aisha (RA), she said, ‘The Prophet (ﷺ) was leaning towards me. Then I heard him say -",
+        "translation": "O Allah, forgive me and have mercy upon me and join me with the highest companions (in Paradise).",
         "note": null
       },
       "target": {
         "name": "",
-        "content": null,
+        "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "মুমূর্ষ রোগীর দোয়া #১",
+        "content": "আয়িশা (রাঃ) থেকে বর্ণিত, তিনি বলেন, ‘নবী (ﷺ) আমার দিকে হেলান দিয়ে ছিলেন। তখন আমি তাঁকে বলতে শুনি -",
+        "translation": "হে আল্লাহ্‌! আমাকে মাফ করে দাও! আমার উপর রহম করো! আর আমাকে সর্বোচ্চ বন্ধুর কাছে পৌঁছে দাও!"
       }
     },
     {
       "key": [
-        570
+        544
       ],
-      "id": 570,
+      "id": 544,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 570,
-        "groups": null,
-        "uthmani": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ ﴿١١٥﴾ فَتَعَالَى اللَّـهُ الْمَلِكُ الْحَقُّ ۖ لَا إِلَـٰهَ إِلَّا هُوَ رَبُّ الْعَرْشِ الْكَرِيمِ ﴿١١٦﴾ وَمَن يَدْعُ مَعَ اللَّـهِ إِلَـٰهًا آخَرَ لَا بُرْهَانَ لَهُ بِهِ فَإِنَّمَا حِسَابُهُ عِندَ رَبِّهِ ۚ إِنَّهُ لَا يُفْلِحُ الْكَافِرُونَ ﴿١١٧﴾ وَقُل رَّبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ ﴿١١٨﴾",
-        "indopak": "اَفَحَسِبْتُمْ اَنَّمَا خَلَقْنٰكُمْ عَبَثًا وَّاَنَّكُمْ اِلَیْنَا لَا تُرْجَعُوْنَ﴿۱۱۵﴾ فَتَعٰلَی اللّٰهُ الْمَلِكُ الْحَقُّ ۚ لَاۤ اِلٰهَ اِلَّا هُوَ ۚ رَبُّ الْعَرْشِ الْكَرِیْمِ ﴿۱۱۶﴾ وَمَنْ یَّدْعُ مَعَ اللّٰهِ اِلٰهًا اٰخَرَ ۙ  لَا بُرْهَانَ لَهٗ بِهٖ ۙ فَاِنَّمَا حِسَابُهٗ عِنْدَ رَبِّهٖ ؕ اِنَّهٗ لَا یُفْلِحُ الْكٰفِرُوْنَ﴿۱۱۷﴾ وَقُلْ رَّبِّ اغْفِرْ وَارْحَمْ وَاَنْتَ خَیْرُ الرّٰحِمِیْنَ﴿٪۱۱۸﴾",
-        "clean": "افحسبتم انما خلقنكم عبثا وانكم النا لا ترجعون فتعل الله الملك الحق  لا اله الا هو  رب العرش الكرم  ومن دع مع الله الها اخر   لا برهان له به  فانما حسابه عند ربه  انه لا فلح الكفرون وقل رب اغفر وارحم وانت خر الرحمن",
-        "transliteration": null,
-        "reference": "Surah Muminun 23: 115-118",
-        "audio": 570,
-        "cat_id": 34,
-        "subcat_id": 102
+        "id": 544,
+        "groups": "[{\"id\": 544, \"name\": null, \"cat_id\": 33, \"subcat_id\": 99, \"content\": \"His Lord affirms his statement and says: \\u2018There is none worthy of worship except Me, and I am the Greatest,\\u2019\", \"uthmani\": \"\\u0644\\u064e\\u0627 \\u0625\\u0650\\u0644\\u064e\\u0647\\u064e \\u0625\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u064f\", \"indopak\": \"\\u0644\\u064e\\u0627 \\u0627\\u0650\\u0644\\u0670\\u0647\\u064e \\u0627\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u0657\", \"clean\": \"\\u0644\\u0627 \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0627 \\u0627\\u0644\\u0644\\u0647 \\u0648\\u062d\\u062f\\u0647\", \"transliteration\": \"Laa ilaaha ill-Allahu wahdahu\", \"translation\": \"None has the right to be worshipped except Allah Alone.\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 544, \"name\": null, \"cat_id\": 33, \"subcat_id\": 99, \"content\": \"Allah says: \\u2018There is none worthy of worship except for Me and I am Alone.\\u2019when he says:\", \"uthmani\": \"\\u0644\\u064e\\u0627 \\u0625\\u0650\\u0644\\u064e\\u0647\\u064e \\u0625\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u064f \\u0644\\u064e\\u0627 \\u0634\\u064e\\u0631\\u0650\\u064a\\u0643\\u064e \\u0644\\u064e\\u0647\\u064f\", \"indopak\": \"\\u0644\\u064e\\u0627 \\u0627\\u0650\\u0644\\u0670\\u0647\\u064e \\u0627\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u0657 \\u0644\\u064e\\u0627 \\u0634\\u064e\\u0631\\u0650\\u064a\\u0652\\u0643\\u064e \\u0644\\u064e\\u0647\\u0657\", \"clean\": \"\\u0644\\u0627 \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0627 \\u0627\\u0644\\u0644\\u0647 \\u0648\\u062d\\u062f\\u0647 \\u0644\\u0627 \\u0634\\u0631\\u064a\\u0643 \\u0644\\u0647\", \"transliteration\": \"Laa ilaaha ill-Allahu wahdahu laa shareeka lah\", \"translation\": \"None has the right to be worshipped except Allah, Alone without partner.\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 544, \"name\": null, \"cat_id\": 33, \"subcat_id\": 99, \"content\": \"Allah says: \\u2018There is none worthy of worship except Me, to Me belongs all that exists, and to Me is the praise.\\u2019 when he says:\", \"uthmani\": \"\\u0644\\u064e\\u0627 \\u0625\\u0650\\u0644\\u064e\\u0647\\u064e \\u0625\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u0645\\u064f\\u0644\\u0652\\u0643\\u064f \\u0648\\u064e\\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f\", \"indopak\": \"\\u0644\\u064e\\u0627 \\u0627\\u0650\\u0644\\u0670\\u0647\\u064e \\u0627\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u0645\\u064f\\u0644\\u0652\\u0643\\u064f \\u0648\\u064e\\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f\", \"clean\": \"\\u0644\\u0627 \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0627 \\u0627\\u0644\\u0644\\u0647 \\u0644\\u0647 \\u0627\\u0644\\u0645\\u0644\\u0643 \\u0648\\u0644\\u0647 \\u0627\\u0644\\u062d\\u0645\\u062f\", \"transliteration\": \"Laa ilaaha ill-Allahu lahul-mulku walahul-hamdu\", \"translation\": \"None has the right to be worshipped except Allah, to Him belongs all sovereignty and praise.\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 544, \"name\": null, \"cat_id\": 33, \"subcat_id\": 99, \"content\": \"Allah says: \\u2018There is none worthy of worship except Me, and there is no might or power except by Me.\\u2019 when he says:\", \"uthmani\": \"\\u0644\\u064e\\u0627 \\u0625\\u0650\\u0644\\u064e\\u0647\\u064e \\u0625\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0648\\u064e\\u0644\\u064e\\u0627 \\u062d\\u064e\\u0648\\u0652\\u0644\\u064e \\u0648\\u064e\\u0644\\u064e\\u0627 \\u0642\\u064f\\u0648\\u0651\\u064e\\u0629\\u064e \\u0625\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0628\\u0650\\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u0650\", \"indopak\": \"\\u0644\\u064e\\u0627 \\u0627\\u0650\\u0644\\u0670\\u0647\\u064e \\u0627\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0648\\u064e\\u0644\\u064e\\u0627 \\u062d\\u064e\\u0648\\u0652\\u0644\\u064e \\u0648\\u064e\\u0644\\u064e\\u0627 \\u0642\\u064f\\u0648\\u0651\\u064e\\u0629\\u064e \\u0627\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0628\\u0650\\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650\", \"clean\": \"\\u0644\\u0627 \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0627 \\u0627\\u0644\\u0644\\u0647 \\u0648\\u0644\\u0627 \\u062d\\u0648\\u0644 \\u0648\\u0644\\u0627 \\u0642\\u0648\\u0647 \\u0627\\u0644\\u0627 \\u0628\\u0627\\u0644\\u0644\\u0647\", \"transliteration\": \"Laa ilaaha ill-allahu wa laa hawla wa laa quwwata illaa billaah\", \"translation\": \"None has the right to be worshipped except Allah and there is no might and no power except with Allah.\", \"note\": \"Then Allah said, None has the right to be worshipped except Allah and there is no might and no power except with Allah. And he (\\ufdfa) used to say, \\\"Hell will not burn a person who dies while reciting these duas while he is ill.\\\"\", \"reference\": \"Sahih (Albani). Tirmidhi: 3430\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَاللّٰهُ اَكْبَرُ",
+        "clean": "لا اله الا الله والله اكبر",
+        "transliteration": "Laa ilaaha ill-Allahu wAllahu akbar",
+        "reference": null,
+        "audio": 544,
+        "cat_id": 33,
+        "subcat_id": 99
       },
       "source": {
-        "name": "Jinn, magic and treatment of diseases that must be read #12",
-        "content": null,
-        "translation": "(115) Then did you think that We created you uselessly and that to Us you would not be returned?\" (116) So exalted is Allah, the Sovereign, the Truth; there is no deity except Him, Lord of the Noble Throne. (117) And whoever invokes besides Allah another deity for which he has no proof -  then his account is only with his Lord. Indeed, the disbelievers will not succeed. (118) And, [O Muhammad], say, \"My Lord, forgive and have mercy, and You are the best of the merciful.\"",
+        "name": "When the sick have renounced all hope of life #2",
+        "content": "Narrated Abu Huraira (RA): The Prophet (ﷺ) said: The person who says -",
+        "translation": "None has the right to be worshipped except Allah and Allah is the greatest.",
         "note": null
       },
       "target": {
         "name": "",
-        "content": null,
+        "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "মুমূর্ষ রোগীর দোয়া #২",
+        "content": "আবু হুরায়রা (রাঃ) থেকে বর্ণিত, নবী (ﷺ) বলেন, যে-ব্যক্তি বলে -",
+        "translation": "আল্লাহ্‌ ছাড়া কোনও হক্ব ইলাহ নেই; আল্লাহ্‌ সর্বশ্রেষ্ঠ।"
+      },
+      "group_items": [
+        {
+          "group": 0,
+          "key": "content",
+          "source": "His Lord affirms his statement and says: ‘There is none worthy of worship except Me, and I am the Greatest,’",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "translation",
+          "source": "None has the right to be worshipped except Allah Alone.",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "content",
+          "source": "Allah says: ‘There is none worthy of worship except for Me and I am Alone.’when he says:",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "translation",
+          "source": "None has the right to be worshipped except Allah, Alone without partner.",
+          "target": ""
+        },
+        {
+          "group": 2,
+          "key": "content",
+          "source": "Allah says: ‘There is none worthy of worship except Me, to Me belongs all that exists, and to Me is the praise.’ when he says:",
+          "target": ""
+        },
+        {
+          "group": 2,
+          "key": "translation",
+          "source": "None has the right to be worshipped except Allah, to Him belongs all sovereignty and praise.",
+          "target": ""
+        },
+        {
+          "group": 3,
+          "key": "content",
+          "source": "Allah says: ‘There is none worthy of worship except Me, and there is no might or power except by Me.’ when he says:",
+          "target": ""
+        },
+        {
+          "group": 3,
+          "key": "translation",
+          "source": "None has the right to be worshipped except Allah and there is no might and no power except with Allah.",
+          "target": ""
+        },
+        {
+          "group": 3,
+          "key": "note",
+          "source": "Then Allah said, None has the right to be worshipped except Allah and there is no might and no power except with Allah. And he (ﷺ) used to say, \"Hell will not burn a person who dies while reciting these duas while he is ill.\"",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        545
+      ],
+      "id": 545,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 545,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ",
+        "clean": "لا اله الا الله",
+        "transliteration": "Laa 'ilaaha 'illAllah",
+        "reference": "Sahih (Albani). Abu Dawud: 3116",
+        "audio": 545,
+        "cat_id": 33,
+        "subcat_id": 99
+      },
+      "source": {
+        "name": "Instruction for the one nearing death #1",
+        "content": "Narrated Mu'adh Ibn Jabal (RA): The Messenger of Allah (ﷺ) said: Whose last words will be -",
+        "translation": "There is none worthy of worship but Allah.",
+        "note": "He will go to paradise."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "মুমূর্ষ ব্যক্তিকে যে দোয়া পড়তে উদ্বুদ্ধ করা উচিত #১",
+        "content": "মুআয ইবনু জাবাল (রাঃ) থেকে বর্ণিত, তিনি বলেন, আল্লাহ্‌র রাসূলঃ বলেছেন, “যার শেষকথা হবে -",
+        "translation": "আল্লাহ্‌ ছাড়া কোনও হক্ব ইলাহ নেই।",
+        "note": "সে জান্নাতে যাবে।"
       }
     },
     {
       "key": [
-        571
+        546
       ],
-      "id": 571,
+      "id": 546,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 571,
+        "id": 546,
         "groups": null,
-        "uthmani": "وَالصَّافَّاتِ صَفًّا ﴿١﴾ فَالزَّاجِرَاتِ زَجْرًا ﴿٢﴾ فَالتَّالِيَاتِ ذِكْرًا ﴿٣﴾ إِنَّ إِلَـٰهَكُمْ لَوَاحِدٌ ﴿٤﴾ رَّبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِ ﴿٥﴾ إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ ﴿٦﴾ وَحِفْظًا مِّن كُلِّ شَيْطَانٍ مَّارِدٍ ﴿٧﴾ لَّا يَسَّمَّعُونَ إِلَى الْمَلَإِ الْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ ﴿٨﴾ دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ ﴿٩﴾ إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ ﴿١٠﴾",
-        "indopak": "وَالصّٰٓفّٰتِ صَفًّا ۙ﴿۱﴾ فَالزّٰجِرٰتِ زَجْرًا ۙ﴿۲﴾ فَالتّٰلِیٰتِ ذِكْرًا ۙ﴿۳﴾ اِنَّ اِلٰهَكُمْ لَوَاحِدٌ ﴿ؕ۴﴾ رَبُّ السَّمٰوٰتِ وَالْاَرْضِ وَمَا بَیْنَهُمَا وَرَبُّ الْمَشَارِقِ ؕ﴿۵﴾ اِنَّا زَیَّنَّا السَّمَآءَ الدُّنْیَا بِزِیْنَةِ ۣ الْكَوَاكِبِ ۙ﴿۶﴾ وَحِفْظًا مِّنْ كُلِّ شَیْطٰنٍ مَّارِدٍ ۚ﴿۷﴾ لَا یَسَّمَّعُوْنَ اِلَی الْمَلَاِ الْاَعْلٰی وَیُقْذَفُوْنَ مِنْ كُلِّ جَانِبٍ٭ۖ﴿۸﴾ دُحُوْرًا وَّلَهُمْ عَذَابٌ وَّاصِبٌ ۙ﴿۹﴾ اِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَاَتْبَعَهٗ شِهَابٌ ثَاقِبٌ﴿۱۰﴾",
-        "clean": "والصفت صفا  فالزجرت زجرا  فالتلت ذكرا  ان الهكم لواحد  رب السموت والارض وما بنهما ورب المشارق  انا زنا السماء الدنا بزنه  الكواكب  وحفظا من كل شطن مارد  لا سمعون ال الملا الاعل وقذفون من كل جانب دحورا ولهم عذاب واصب  الا من خطف الخطفه فاتبعه شهاب ثاقب",
-        "transliteration": null,
-        "reference": "Surah As-Saffat 37: 1-10",
-        "audio": 571,
-        "cat_id": 34,
-        "subcat_id": 102
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ",
+        "clean": "لا اله الا الله",
+        "transliteration": "Laa 'ilaaha 'illAllah",
+        "reference": "Muslim: 916",
+        "audio": 546,
+        "cat_id": 33,
+        "subcat_id": 99
       },
       "source": {
-        "name": "Jinn, magic and treatment of diseases that must be read #13",
-        "content": null,
-        "translation": "(1) By those [angels] lined up in rows (2) And those who drive [the clouds] (3) And those who recite the message, (4) Indeed, your God is One, (5) Lord of the heavens and the earth and that between them and Lord of the sunrises. (6) Indeed, We have adorned the nearest heaven with an adornment of stars (7) And as protection against every rebellious devil (8) [So] they may not listen to the exalted assembly [of angels] and are pelted from every side, (9) Repelled; and for them is a constant punishment, (10) Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness].",
+        "name": "Instruction for the one nearing death #2",
+        "content": "Allah's Messenger (ﷺ) as saying: Exhort to recite:",
+        "translation": "There is none worthy of worship but Allah.",
         "note": null
       },
       "target": {
         "name": "",
-        "content": null,
+        "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "মুমূর্ষ ব্যক্তিকে যে দোয়া পড়তে উদ্বুদ্ধ করা উচিত #২",
+        "content": "আল্লাহ্‌র রাসূল (ﷺ) বলেছেন, তোমরা তোমাদের মুমূর্য ব্যক্তিকে এ কথা বলতে উদ্বুদ্ধ করো -",
+        "translation": "আল্লাহ্‌ ছাড়া কোনও হক্ব ইলাহ নেই।"
       }
     },
     {
       "key": [
-        572
+        547
       ],
-      "id": 572,
+      "id": 547,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 572,
+        "id": 547,
         "groups": null,
-        "uthmani": "وَإِذْ صَرَفْنَا إِلَيْكَ نَفَرًا مِّنَ الْجِنِّ يَسْتَمِعُونَ الْقُرْآنَ فَلَمَّا حَضَرُوهُ قَالُوا أَنصِتُوا ۖ فَلَمَّا قُضِيَ وَلَّوْا إِلَىٰ قَوْمِهِم مُّنذِرِينَ ﴿٢٩﴾ قَالُوا يَا قَوْمَنَا إِنَّا سَمِعْنَا كِتَابًا أُنزِلَ مِن بَعْدِ مُوسَىٰ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ يَهْدِي إِلَى الْحَقِّ وَإِلَىٰ طَرِيقٍ مُّسْتَقِيمٍ ﴿٣٠﴾ يَا قَوْمَنَا أَجِيبُوا دَاعِيَ اللَّـهِ وَآمِنُوا بِهِ يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُجِرْكُم مِّنْ عَذَابٍ أَلِيمٍ ﴿٣١﴾ وَمَن لَّا يُجِبْ دَاعِيَ اللَّـهِ فَلَيْسَ بِمُعْجِزٍ فِي الْأَرْضِ وَلَيْسَ لَهُ مِن دُونِهِ أَوْلِيَاءُ ۚ أُولَـٰئِكَ فِي ضَلَالٍ مُّبِينٍ ﴿٣٢﴾",
-        "indopak": "وَاِذْ صَرَفْنَاۤ اِلَیْكَ نَفَرًا مِّنَ الْجِنِّ یَسْتَمِعُوْنَ الْقُرْاٰنَ ۚ فَلَمَّا حَضَرُوْهُ قَالُوْۤا اَنْصِتُوْا ۚ فَلَمَّا قُضِیَ وَلَّوْا اِلٰی قَوْمِهِمْ مُّنْذِرِیْنَ﴿۲۹﴾ قَالُوْا یٰقَوْمَنَاۤ اِنَّا سَمِعْنَا كِتٰبًا اُنْزِلَ مِنْۢ بَعْدِ مُوْسٰی مُصَدِّقًا لِّمَا بَیْنَ یَدَیْهِ یَهْدِیْۤ اِلَی الْحَقِّ وَاِلٰی طَرِیْقٍ مُّسْتَقِیْمٍ﴿۳۰﴾ یٰقَوْمَنَاۤ اَجِیْبُوْا دَاعِیَ اللّٰهِ وَاٰمِنُوْا بِهٖ یَغْفِرْ لَكُمْ مِّنْ ذُنُوْبِكُمْ وَیُجِرْكُمْ مِّنْ عَذَابٍ اَلِیْمٍ﴿۳۱﴾ وَمَنْ لَّا یُجِبْ دَاعِیَ اللّٰهِ فَلَیْسَ بِمُعْجِزٍ فِی الْاَرْضِ وَلَیْسَ لَهٗ مِنْ دُوْنِهٖۤ اَوْلِیَآءُ ؕ اُولٰٓئِكَ فِیْ ضَلٰلٍ مُّبِیْنٍ﴿۳۲﴾",
-        "clean": "واذ صرفنا الك نفرا من الجن ستمعون القران  فلما حضروه قالوا انصتوا  فلما قض ولوا ال قومهم منذرن قالوا قومنا انا سمعنا كتبا انزل من بعد موس مصدقا لما بن ده هد ال الحق وال طرق مستقم قومنا اجبوا داع الله وامنوا به غفر لكم من ذنوبكم وجركم من عذاب الم ومن لا جب داع الله فلس بمعجز ف الارض ولس له من دونه اولاء  اولءك ف ضلل مبن",
-        "transliteration": null,
-        "reference": "Surah Ahqaf 46: 29-32",
-        "audio": 572,
-        "cat_id": 34,
-        "subcat_id": 102
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ إِنَّ لِلْمَوْتِ سَكَرَاتٍ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ اِنَّ لِلْمَوْتِ سَكَرَاتٍ",
+        "clean": "لا اله الا الله ان للموت سكرات",
+        "transliteration": "Laa 'ilaaha 'illAllahu 'inna lilmawti sakaraat",
+        "reference": "Bukhari: 4449",
+        "audio": 547,
+        "cat_id": 33,
+        "subcat_id": 99
       },
       "source": {
-        "name": "Jinn, magic and treatment of diseases that must be read #14",
+        "name": "When the sick have renounced all hope of life #1",
+        "content": "The Prophet (ﷺ) dipped his hands in water at the time of his death, wiped his face with it and said,",
+        "translation": "There is none worthy of worship but Allah, surely death has agonies.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "জীবনের আশা ছেড়ে দেওয়া রোগীর দোয়া #১",
+        "content": "রাসূলুল্লাহ্‌ (ﷺ) মৃত্যুর সময় তাঁর দু’হাত পানিতে প্রবেশ করিয়ে তা দিয়ে তাঁর চেহারা মুছছিলেন এবং বলছিলেন -",
+        "translation": "আল্লাহ্‌ ব্যতীত কোনো হক্ব ইলাহ নেই, নিশ্চয় মৃত্যুর রয়েছে বিভিন্ন প্রকার ভয়াবহ কষ্ট।"
+      }
+    },
+    {
+      "key": [
+        548
+      ],
+      "id": 548,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 548,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَا إِلَهَ إِلَّا اللَّهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، لَا إِلَهَ إِلَّا اللَّهُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَاللّٰهُ اَكْبَرُ، لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ، لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَا اِلٰهَ اِلَّا اللّٰهُ لَهُ المُلْكُ وَلَهُ الْحَمْدُ، لَا اِلٰهَ اِلَّا اللّٰهُ وَلَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ",
+        "clean": "لا اله الا الله والله اكبر لا اله الا الله وحده لا اله الا الله وحده لا شريك له لا اله الا الله له الملك وله الحمد لا اله الا الله ولا حول ولا قوه الا بالله",
+        "transliteration": "Laa 'ilaaha 'illAllahu wAllahu 'Akbar, laa 'ilaaha 'illAllahu wahdahu, laa 'ilaaha 'illAllahu wahdahu laa shareeka lahu, laa 'ilaaha 'illAllahu lahul-mulku wa lahul-hamdu, laa 'ilaaha 'illAllahu wa laa hawla wa laa quwwata 'illaa billaah",
+        "reference": "Sahih (Albani). Tirmidhi: 3430",
+        "audio": 548,
+        "cat_id": 33,
+        "subcat_id": 99
+      },
+      "source": {
+        "name": "When the sick have renounced all hope of life #2",
         "content": null,
-        "translation": "(29) And [mention, O Muhammad], when We directed to you a few of the jinn, listening to the Qur'an. And when they attended it, they said, \"Listen quietly.\" And when it was concluded, they went back to their people as warners. (30) They said, \"O our people, indeed we have heard a [recited] Book revealed after Moses confirming what was before it which guides to the truth and to a straight path. (31) O our people, respond to the Messenger of Allah and believe in him; Allah will forgive for you your sins and protect you from a painful punishment. (32) But he who does not respond to the Caller of Allah will not cause failure [to Him] upon earth, and he will not have besides Him any protectors. Those are in manifest error.\"",
+        "translation": "There is none worthy of worship but Allah, Allah is the Most Great. None has the right to be worshipped but Allah alone. None has the right to be worshipped but Allah alone, Who has no partner. There is none worthy of worship but Allah, His is the dominion and His is the praise. There is none worthy of worship but Allah, there is no power and no might but by Allah.",
         "note": null
       },
       "target": {
@@ -294,6 +533,10 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "জীবনের আশা ছেড়ে দেওয়া রোগীর দোয়া #২",
+        "translation": "আল্লাহ্‌ ব্যতীত কোনো হক্ব ইলাহ নেই, আল্লাহ্‌ মহান। একমাত্র আল্লাহ্‌ ব্যতীত কোনো হক্ব ইলাহ নেই। একমাত্র আল্লাহ্‌ ব্যতীত কোনো হক্ব ইলাহ নেই, তাঁর কোনো শরীক নেই। আল্লাহ্‌ ব্যতীত কোনো হক্ব ইলাহ নেই, যাবতীয় রাজত্ব তাঁরই, তার জন্যই সকল প্রশংসা, আল্লাহ্‌ ব্যতীত কোনো হক্ব ইলাহ নেই, আল্লাহ্‌র সাহায্য ছাড়া (পাপ কাজ থেকে দূরে থাকার) কোনো উপায় এবং (সৎকাজ করার) কোনো শক্তি নেই"
       }
     }
   ]

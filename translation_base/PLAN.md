@@ -13,12 +13,12 @@ Budget 6000 source characters per file, max 50 rows, big rows split at paragraph
 | [ ] | `subcategories` | 3 | 118 | 3,531 | EN |
 | [ ] | `ruqyah_subcategories` | 4 | 163 | 4,805 | EN |
 | [ ] | `ruqyah_videos` | 2 | 74 | 3,884 | BN |
-| [ ] | `drawer_items` | 2 | 6 | 7,727 | EN |
-| [ ] | `duas` | 61 | 1001 | 349,211 | EN |
+| [ ] | `drawer_items` | 2 | 6 | 8,243 | BN |
+| [ ] | `duas` | 64 | 1001 | 363,081 | EN |
 | [ ] | `ruqyah_instants` | 20 | 308 | 112,037 | EN |
 | [ ] | `ruqyah_details` | 95 | 200 | 457,751 | EN |
 | [ ] | `dua_infos` | 70 | 42 | 357,024 | BN |
-| | **total** | **260** | **1992** | **1,297,589** | |
+| | **total** | **263** | **1992** | **1,311,975** | |
 
 ---
 
@@ -78,12 +78,12 @@ Source: **BN** · fields: `name`, `author` · key: `id`
 
 ## `drawer_items`
 
-Source: **EN** · fields: `title`, `hero_title1`, `hero_title2`, `content` · key: `id`
+Source: **BN** · fields: `title`, `hero_title1`, `hero_title2`, `content` · key: `id`
 
 | | File | Rows | IDs | Chars | Items |
 |---|---|---:|---|---:|---:|
-| [ ] | `work/drawer_items/drawer_items_001.json` | 4 | 1-4 | 5,979 | 5 |
-| [ ] | `work/drawer_items/drawer_items_002.json` | 3 | 4-6 | 1,748 | 3 |
+| [ ] | `work/drawer_items/drawer_items_001.json` | 3 | 19-21 | 4,512 | 4 |
+| [ ] | `work/drawer_items/drawer_items_002.json` | 3 | 22-24 | 3,731 | 4 |
 
 ## `duas`
 
@@ -92,66 +92,69 @@ Source: **EN** · fields: `name`, `content`, `translation`, `note` · key: `id`
 | | File | Rows | IDs | Chars | Items |
 |---|---|---:|---|---:|---:|
 | [ ] | `work/duas/duas_001.json` | 15 | 1-15 | 5,906 | 15 |
-| [ ] | `work/duas/duas_002.json` | 18 | 16-33 | 5,847 | 18 |
-| [ ] | `work/duas/duas_003.json` | 17 | 34-50 | 5,358 | 17 |
+| [ ] | `work/duas/duas_002.json` | 17 | 16-32 | 5,888 | 17 |
+| [ ] | `work/duas/duas_003.json` | 18 | 33-50 | 5,759 | 18 |
 | [ ] | `work/duas/duas_004.json` | 12 | 51-62 | 5,991 | 12 |
 | [ ] | `work/duas/duas_005.json` | 14 | 63-76 | 5,636 | 14 |
 | [ ] | `work/duas/duas_006.json` | 14 | 77-90 | 5,695 | 14 |
-| [ ] | `work/duas/duas_007.json` | 13 | 91-103 | 5,978 | 13 |
-| [ ] | `work/duas/duas_008.json` | 13 | 104-116 | 5,817 | 13 |
-| [ ] | `work/duas/duas_009.json` | 14 | 117-130 | 5,818 | 14 |
-| [ ] | `work/duas/duas_010.json` | 9 | 131-139 | 4,193 | 9 |
-| [ ] | `work/duas/duas_011.json` | 10 | 140-149 | 5,698 | 10 |
-| [ ] | `work/duas/duas_012.json` | 13 | 150-162 | 5,776 | 13 |
-| [ ] | `work/duas/duas_013.json` | 18 | 163-180 | 5,929 | 18 |
-| [ ] | `work/duas/duas_014.json` | 13 | 181-193 | 5,853 | 13 |
-| [ ] | `work/duas/duas_015.json` | 19 | 194-212 | 5,762 | 19 |
-| [ ] | `work/duas/duas_016.json` | 16 | 213-228 | 5,592 | 16 |
-| [ ] | `work/duas/duas_017.json` | 10 | 229-238 | 5,840 | 10 |
-| [ ] | `work/duas/duas_018.json` | 14 | 239-252 | 5,876 | 14 |
-| [ ] | `work/duas/duas_019.json` | 16 | 253-268 | 5,813 | 16 |
-| [ ] | `work/duas/duas_020.json` | 10 | 269-278 | 5,340 | 10 |
-| [ ] | `work/duas/duas_021.json` | 6 | 279-284 | 5,673 | 6 |
-| [ ] | `work/duas/duas_022.json` | 14 | 285-298 | 5,601 | 14 |
-| [ ] | `work/duas/duas_023.json` | 19 | 299-317 | 5,998 | 19 |
-| [ ] | `work/duas/duas_024.json` | 13 | 318-330 | 5,722 | 13 |
-| [ ] | `work/duas/duas_025.json` | 15 | 331-345 | 5,928 | 15 |
-| [ ] | `work/duas/duas_026.json` | 20 | 346-365 | 5,979 | 20 |
-| [ ] | `work/duas/duas_027.json` | 14 | 366-379 | 5,491 | 14 |
-| [ ] | `work/duas/duas_028.json` | 18 | 380-397 | 5,997 | 18 |
-| [ ] | `work/duas/duas_029.json` | 19 | 398-416 | 5,975 | 19 |
-| [ ] | `work/duas/duas_030.json` | 16 | 417-432 | 5,932 | 16 |
-| [ ] | `work/duas/duas_031.json` | 16 | 433-448 | 5,540 | 16 |
-| [ ] | `work/duas/duas_032.json` | 19 | 449-467 | 5,957 | 19 |
-| [ ] | `work/duas/duas_033.json` | 18 | 468-485 | 5,865 | 18 |
-| [ ] | `work/duas/duas_034.json` | 12 | 486-497 | 5,700 | 12 |
-| [ ] | `work/duas/duas_035.json` | 20 | 498-517 | 5,452 | 20 |
-| [ ] | `work/duas/duas_036.json` | 16 | 518-533 | 5,983 | 16 |
-| [ ] | `work/duas/duas_037.json` | 18 | 534-551 | 5,756 | 18 |
-| [ ] | `work/duas/duas_038.json` | 12 | 552-563 | 5,886 | 12 |
-| [ ] | `work/duas/duas_039.json` | 9 | 564-572 | 5,564 | 9 |
-| [ ] | `work/duas/duas_040.json` | 10 | 573-582 | 5,982 | 10 |
-| [ ] | `work/duas/duas_041.json` | 26 | 583-608 | 5,957 | 26 |
-| [ ] | `work/duas/duas_042.json` | 27 | 609-635 | 5,886 | 27 |
-| [ ] | `work/duas/duas_043.json` | 41 | 636-676 | 5,467 | 41 |
-| [ ] | `work/duas/duas_044.json` | 19 | 677-695 | 5,782 | 19 |
-| [ ] | `work/duas/duas_045.json` | 16 | 696-711 | 5,168 | 16 |
-| [ ] | `work/duas/duas_046.json` | 11 | 712-722 | 5,729 | 11 |
-| [ ] | `work/duas/duas_047.json` | 8 | 723-730 | 5,922 | 8 |
-| [ ] | `work/duas/duas_048.json` | 18 | 731-748 | 5,989 | 18 |
-| [ ] | `work/duas/duas_049.json` | 11 | 749-759 | 5,058 | 11 |
-| [ ] | `work/duas/duas_050.json` | 10 | 760-769 | 5,701 | 10 |
-| [ ] | `work/duas/duas_051.json` | 14 | 770-783 | 5,909 | 14 |
-| [ ] | `work/duas/duas_052.json` | 10 | 784-793 | 5,842 | 10 |
-| [ ] | `work/duas/duas_053.json` | 9 | 794-802 | 5,932 | 9 |
-| [ ] | `work/duas/duas_054.json` | 22 | 803-824 | 5,849 | 22 |
-| [ ] | `work/duas/duas_055.json` | 18 | 825-842 | 5,988 | 18 |
-| [ ] | `work/duas/duas_056.json` | 34 | 843-876 | 5,965 | 34 |
-| [ ] | `work/duas/duas_057.json` | 28 | 877-904 | 5,674 | 28 |
-| [ ] | `work/duas/duas_058.json` | 23 | 905-927 | 5,094 | 23 |
-| [ ] | `work/duas/duas_059.json` | 15 | 928-942 | 5,948 | 15 |
-| [ ] | `work/duas/duas_060.json` | 25 | 943-967 | 5,886 | 25 |
-| [ ] | `work/duas/duas_061.json` | 34 | 968-1001 | 4,766 | 34 |
+| [ ] | `work/duas/duas_007.json` | 10 | 91-100 | 5,649 | 10 |
+| [ ] | `work/duas/duas_008.json` | 12 | 101-112 | 4,931 | 12 |
+| [ ] | `work/duas/duas_009.json` | 8 | 113-120 | 5,951 | 8 |
+| [ ] | `work/duas/duas_010.json` | 15 | 121-135 | 5,680 | 15 |
+| [ ] | `work/duas/duas_011.json` | 8 | 136-143 | 5,496 | 8 |
+| [ ] | `work/duas/duas_012.json` | 14 | 144-157 | 5,560 | 14 |
+| [ ] | `work/duas/duas_013.json` | 14 | 158-171 | 5,800 | 14 |
+| [ ] | `work/duas/duas_014.json` | 17 | 172-188 | 5,762 | 17 |
+| [ ] | `work/duas/duas_015.json` | 16 | 189-204 | 5,632 | 16 |
+| [ ] | `work/duas/duas_016.json` | 16 | 205-220 | 5,675 | 16 |
+| [ ] | `work/duas/duas_017.json` | 14 | 221-234 | 5,780 | 14 |
+| [ ] | `work/duas/duas_018.json` | 9 | 235-243 | 5,632 | 9 |
+| [ ] | `work/duas/duas_019.json` | 12 | 244-255 | 5,939 | 12 |
+| [ ] | `work/duas/duas_020.json` | 15 | 256-270 | 5,587 | 15 |
+| [ ] | `work/duas/duas_021.json` | 8 | 271-278 | 5,361 | 8 |
+| [ ] | `work/duas/duas_022.json` | 5 | 279-283 | 5,508 | 5 |
+| [ ] | `work/duas/duas_023.json` | 14 | 284-297 | 5,838 | 14 |
+| [ ] | `work/duas/duas_024.json` | 17 | 298-314 | 5,862 | 17 |
+| [ ] | `work/duas/duas_025.json` | 13 | 315-327 | 5,833 | 13 |
+| [ ] | `work/duas/duas_026.json` | 14 | 328-341 | 5,829 | 14 |
+| [ ] | `work/duas/duas_027.json` | 19 | 342-360 | 5,840 | 19 |
+| [ ] | `work/duas/duas_028.json` | 12 | 361-372 | 5,808 | 12 |
+| [ ] | `work/duas/duas_029.json` | 18 | 373-390 | 5,880 | 18 |
+| [ ] | `work/duas/duas_030.json` | 23 | 391-413 | 5,952 | 23 |
+| [ ] | `work/duas/duas_031.json` | 12 | 414-425 | 5,791 | 12 |
+| [ ] | `work/duas/duas_032.json` | 15 | 426-440 | 5,475 | 15 |
+| [ ] | `work/duas/duas_033.json` | 19 | 441-459 | 5,800 | 19 |
+| [ ] | `work/duas/duas_034.json` | 20 | 460-479 | 5,841 | 20 |
+| [ ] | `work/duas/duas_035.json` | 15 | 480-494 | 5,646 | 15 |
+| [ ] | `work/duas/duas_036.json` | 15 | 495-509 | 5,913 | 15 |
+| [ ] | `work/duas/duas_037.json` | 15 | 510-524 | 5,270 | 15 |
+| [ ] | `work/duas/duas_038.json` | 12 | 525-536 | 4,870 | 12 |
+| [ ] | `work/duas/duas_039.json` | 12 | 537-548 | 5,602 | 12 |
+| [ ] | `work/duas/duas_040.json` | 12 | 549-560 | 5,746 | 12 |
+| [ ] | `work/duas/duas_041.json` | 9 | 561-569 | 5,681 | 9 |
+| [ ] | `work/duas/duas_042.json` | 9 | 570-578 | 5,101 | 9 |
+| [ ] | `work/duas/duas_043.json` | 12 | 579-590 | 5,568 | 12 |
+| [ ] | `work/duas/duas_044.json` | 30 | 591-620 | 5,955 | 30 |
+| [ ] | `work/duas/duas_045.json` | 35 | 621-655 | 5,956 | 35 |
+| [ ] | `work/duas/duas_046.json` | 26 | 656-681 | 5,885 | 26 |
+| [ ] | `work/duas/duas_047.json` | 24 | 682-705 | 5,943 | 24 |
+| [ ] | `work/duas/duas_048.json` | 13 | 706-718 | 5,966 | 13 |
+| [ ] | `work/duas/duas_049.json` | 9 | 719-727 | 5,974 | 9 |
+| [ ] | `work/duas/duas_050.json` | 18 | 728-745 | 5,728 | 18 |
+| [ ] | `work/duas/duas_051.json` | 12 | 746-757 | 5,280 | 12 |
+| [ ] | `work/duas/duas_052.json` | 8 | 758-765 | 5,937 | 8 |
+| [ ] | `work/duas/duas_053.json` | 10 | 766-775 | 5,875 | 10 |
+| [ ] | `work/duas/duas_054.json` | 14 | 776-789 | 4,955 | 14 |
+| [ ] | `work/duas/duas_055.json` | 8 | 790-797 | 5,892 | 8 |
+| [ ] | `work/duas/duas_056.json` | 18 | 798-815 | 5,953 | 18 |
+| [ ] | `work/duas/duas_057.json` | 17 | 816-832 | 5,654 | 17 |
+| [ ] | `work/duas/duas_058.json` | 25 | 833-857 | 5,856 | 25 |
+| [ ] | `work/duas/duas_059.json` | 27 | 858-884 | 5,887 | 27 |
+| [ ] | `work/duas/duas_060.json` | 22 | 885-906 | 5,580 | 22 |
+| [ ] | `work/duas/duas_061.json` | 25 | 907-931 | 5,728 | 25 |
+| [ ] | `work/duas/duas_062.json` | 21 | 932-952 | 5,962 | 21 |
+| [ ] | `work/duas/duas_063.json` | 27 | 953-979 | 5,957 | 27 |
+| [ ] | `work/duas/duas_064.json` | 22 | 980-1001 | 3,194 | 22 |
 
 ## `ruqyah_instants`
 

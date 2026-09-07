@@ -4,360 +4,341 @@
   "source_language": "en",
   "target_language": "TARGET",
   "status": "pending",
-  "rows": 11,
-  "id_range": "749-759",
-  "source_chars": 5058,
+  "rows": 9,
+  "id_range": "719-727",
+  "source_chars": 5974,
   "items": [
     {
       "key": [
-        749
+        719
       ],
-      "id": 749,
+      "id": 719,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 749,
+        "id": 719,
         "groups": null,
-        "uthmani": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَىَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيْمُ",
-        "indopak": "رَبِّ اغْفِرْ لِيْ وَتُبْ عَلَىَّ اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِيْمُ",
-        "clean": "رب اغفر لي وتب علي انك انت التواب الرحيم",
-        "transliteration": "Rabbighfirli wa tub `alayya innaka Antat-Tawwabur-Rahim",
-        "reference": "Sahih (Albani). Abu Dawud: 1516",
-        "audio": 749,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنَ الْخَيْرِ كُلِّهِ عَاجِلِهِ وَآجِلِهِ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ وَأَعُوْذُ بِكَ مِنَ الشَّرِّ كُلِّهِ عَاجِلِهِ وَآجِلِهِ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ عَبْدُكَ وَنَبِيُّكَ وَأَعُوْذُ بِكَ مِنْ شَرِّ مَا عَاذَ بِهِ عَبْدُكَ وَنَبِيُّكَ اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ وَأَعُوْذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ وَأَسْأَلُكَ أَنْ تَجْعَلَ كُلَّ قَضَاءٍ قَضَيْتَهُ لِي خَيْرًا",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ مِنَ الْخَيْرِ كُلِّهٖ عَاجِلِهٖ وَاٰجِلِهٖ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ اَعْلَمْ وَاَعُوْذُ بِكَ مِنَ الشَّرِّ كُلِّهٖ عَاجِلِهٖ وَاٰجِلِهٖ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ اَعْلَمْ اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ مِنْ خَيْرِ مَا سَاَلَكَ عَبْدُكَ وَنَبِيُّكَ وَاَعُوْذُ بِكَ مِنْ شَرِّ مَا عَاذَ بِهٖ عَبْدُكَ وَنَبِيُّكَ اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ الْجَنَّةَ وَمَا قَرَّبَ اِلَيْهَا مِنْ قَوْلٍ اَوْ عَمَلٍ وَاَعُوْذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ اِلَيْهَا مِنْ قَوْلٍ اَوْ عَمَلٍ وَاَسْاَلُكَ اَنْ تَجْعَلَ كُلَّ قَضَاءٍ قَضَيْتَهٗ لِىْ خَيْرًا",
+        "clean": "اللهم اني اسالك من الخير كله عاجله واجله ما علمت منه وما لم اعلم واعوذ بك من الشر كله عاجله واجله ما علمت منه وما لم اعلم اللهم اني اسالك من خير ما سالك عبدك ونبيك واعوذ بك من شر ما عاذ به عبدك ونبيك اللهم اني اسالك الجنه وما قرب اليها من قول او عمل واعوذ بك من النار وما قرب اليها من قول او عمل واسالك ان تجعل كل قضاء قضيته لي خيرا",
+        "transliteration": "Allaahumma inni as’aluka minal-khairi kullihi ‛aajilihi wa aajilihi, maa ‛alimtu minhu wa maa lam a‛lam, wa a‛oodhu bika minash-sharri kullihi ‛aajilihi wa aajilihi, maa ‛alimtu minhu wa maa lam a‛lam, Allaahumma inni as’aluka min khairi maa sa’alalka ‛abduka wa nabiyuka, wa a‛oodhu bika min sharri maa 'aadha bihi ‛abduka wa nabiyyuka, Allaahumma innee as’alukal-jannata wa maa qarraba ilayhaa min qaulin aw ‛amal, wa a'oodhu bika minan-naar, wa maa qarraba ilayhaa min qaulin aw ‛amal. wa as'aluka an taj‛ala kulla qadaa’in qaday-tahu lee khayra",
+        "reference": "Sahih (Albani). Ibn Majah: 3846",
+        "audio": 719,
         "cat_id": 38,
         "subcat_id": 110
       },
       "source": {
-        "name": "Repent to Allah and ask forgiveness",
+        "name": "Dua for gaining beneficial things and seeking refuge from evil things",
+        "content": "Narrated Aisha (RA): Allah's Messenger (ﷺ) taught her this prayer:",
+        "translation": "O Allah! I ask You for all goodness, now and later on, that which I know and that which I do not know, and I seek refuge with You from all evil, now and later on, that which I know and that which I do not know. O Allah! I ask You the good that which your slave and Prophet (ﷺ) asked You for, and I seek refuge with You from the evil that from which your slave and Prophet (ﷺ) sought refuge. O Allah! I ask you for Paradise and what brings one closer to it of words or deeds, and I seek refuge from you from Hell and what brings one closer to it of words or deeds, and I ask you to make every destiny that You have prescribed for me good.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "কল্যাণ লাভ ও অকল্যাণ থেকে আশ্রয় চাওয়া",
+        "content": "আয়িশা (রাঃ) থেকে বর্ণিত, আল্লাহ্‌র রাসূল (ﷺ) তাকে এ দোয়া শিখিয়েছেন -",
+        "translation": "হে আল্লাহ্‌, আমি আপনার কাছে চাই সকল কল্যাণ থেকে নিকটবর্তী কল্যাণ, দূরবর্তী কল্যাণ, আমি যে কল্যাণ সম্পর্কে অবগত আছি এবং আমি যে কল্যাণ সম্পর্কে অবগত নই। আর আমি আপনার আশ্রয় গ্রহণ করছি সকল অকল্যাণ থেকে নিকটবর্তী অকল্যাণ, দূরবর্তী অকল্যাণ, আমি যে অকল্যাণ সম্পর্কে অবগত আছি এবং আমি যে অকল্যাণ সম্পর্কে অবগত নই। হে আল্লাহ্‌, আমি আপনার কাছে সে সকল কল্যাণ চাই যে সকল কল্যাণ চেয়েছেন আপনার কাছে আপনার বান্দা এবং আপনার নবী (ﷺ)। হে আল্লাহ্‌, আমি আপনার কাছে আশ্রয় চাই সে সকল অকল্যাণ থেকে যে সকল অকল্যাণ থেকে আপনার আশ্রয় চেয়েছেন আপনার বান্দা এবং আপনার নবী (ﷺ)। হে আল্লাহ্‌, আমি আপনার কাছে চাই জান্নাত এবং জান্নাতের নিকটে নিয়ে যায় এরূপ সকল কথা বা কাজের তাওফীক্ব। এবং আমি আপনার আশ্রয় চাই জাহান্নাম থেকে এবং সেই সব কথা বা কাজ থেকে যা জাহান্নামের কাছে নিয়ে যায়। আর আমি আপনার কাছে চাই-আমার ব্যাপারে আপনার প্রত্যেকটি সিদ্ধান্ত কল্যাণজনক করে দিন৷"
+      }
+    },
+    {
+      "key": [
+        720
+      ],
+      "id": 720,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 720,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ شَرِّ سَمْعِيْ وَمِنْ شَرِّ بَصَرِيْ وَمِنْ شَرِّ لِسَانِيْ وَمِنْ شَرِّ قَلْبِيْ وَمِنْ شَرِّ مَنِيِّيْ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ شَرِّ سَمْعِىْ وَمِنْ شَرِّ بَصَرِىْ وَمِنْ شَرِّ لِسَانِىْ وَمِنْ شَرِّ قَلْبِىْ وَمِنْ شَرِّ مَنِيِّىْ",
+        "clean": "اللهم اني اعوذ بك من شر سمعي ومن شر بصري ومن شر لساني ومن شر قلبي ومن شر منيي",
+        "transliteration": "Allaahumma innee A‛oodhu bika min sharri sam‛ee, wa min sharri basaaree, wa min sharri lisaanee, wa min sharri qalbee, wa min sharri mani-yee",
+        "reference": "Sahih (Albani). Tirmidhi: 3492",
+        "audio": 720,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua for saving the eyes, ears, tongue and heart from evil",
         "content": null,
-        "translation": "O Allah forgive me and accept my repentance, for You are the Accepter of repentance, the Most Merciful.",
-        "note": "Narrated by Abdullah ibn Umar (RA): We counted that the Messenger of Allah (ﷺ) would say a hundred times during a meeting: (The dua is mentioned above)"
+        "translation": "O Allah, I seek refuge in You from hearing evil, from seeing evil, from speaking evil, from the evils of my heart and the evils of my carnal desires.",
+        "note": "Shakal bin Humaid (RA) said: \"I came to the Prophe t(ﷺ) and said: 'O Messenger of Allah (ﷺ), teach me a way of seeking refuge so that I may seek refuge by it.\" He (ﷺ) said: \"So he took my hand and said: 'Say: (the dua is mentioned above)"
       },
       "target": {
         "name": "",
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "চক্ষু, কর্ণ, জিহ্বা ও অন্তরের অনিষ্ট হতে বাঁচার দোয়া",
+        "translation": "হে আল্লাহ্‌! আমি তোমার কাছে আশ্রয় চাই আমার শ্রবণশক্তির অনিষ্ট থেকে, আমার দৃষ্টিশক্তির অনিষ্ট থেকে, আমার জিহ্বার অনিষ্ট থেকে, আমার অন্তরের অনিষ্ট থেকে, এবং আমার লজ্জাস্থানের অনিষ্ট থেকে৷",
+        "note": "শাকাল ইবনু হুমাইদ (রাঃ) থেকে বর্ণিত, তিনি বলেন, আমি নবী (ﷺ)-এর কাছে এসে বলি, “হে আল্লাহ্‌র রাসূল (ﷺ) (আল্লাহ্‌র কাছে) আশ্রয় চাওয়ার জন্য আমাকে একটি দোয়া শিখিয়ে দিন।” তখন নবী (ﷺ) আমার কাঁধ ধরে বলেন, তুমি বলো- (উপরে উল্লেখিত দোয়া)"
       }
     },
     {
       "key": [
-        750
+        721
       ],
-      "id": 750,
+      "id": 721,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 750,
+        "id": 721,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ بِعِلْمِكَ الْغَيْبَ وَقُدْرَتِكَ عَلَى الْخَلْقِ أَحْيِنِي مَا عَلِمْتَ الْحَيَاةَ خَيْرًا لِيْ، وَتَوَفَّنِيْ إِذَا عَلِمْتَ الْوَفَاةَ خَيْرًا لِي، اَللَّهُمَّ وَأَسْأَلُكَ خَشْيَتَكَ فِي الْغَيْبِ وَالشَّهَادَةِ وَأَسْأَلُكَ كَلِمَةَ الْحَقِّ فِي الرِّضَا وَالْغَضَبِ، وَأَسْأَلُكَ الْقَصْدَ فِي الْفَقْرِ وَالْغِنَى، وَأَسْأَلُكَ نَعِيمًا لَا يَنْفَدُ، وأَسْأَلُكَ قُرَّةَ عَيْنٍ لَا تَنْقَطِعُ، وَأَسْأَلُكَ الرِّضَا بَعْدَ الْقَضَاءِ، وَأَسْأَلُكَ بَرْدَ الْعَيْشِ بَعْدَ الْمَوْتِ، وَأَسْأْلُكَ لَذَّةَ النَّظَرِ إِلَى وَجْهِكَ، وَالشَّوْقَ إِلَى لِقَائِكَ، فِي غَيْرِ ضَرَّاءَ مُضِرَّةٍ، وَلَا فِتْنَةٍ مُضِلَّةٍ، اَللَّهُمَّ زَيِّنَّا بِزِينَةِ الْإِيمَانِ، وَاجْعَلْنَا هُدَاةً مُهْتَدِينَ",
-        "indopak": "اَللّٰهُمَّ بِعِلْمِكَ الْغَيْبَ وَقُدْرَتِكَ عَلَى الْخَلْقِ اَحْيِنِيْ مَا عَلِمْتَ الْحَيَاةَ خَيْرًا لِّيْ، وَتَوَفَّنِيْ اِذَا عَلِمْتَ الْوَفَاةَ خَيْرًا لِّيْ، اَللّٰهُمَّ وَاَسْاَلُكَ خَشْيَتَكَ فِي الْغَيْبِ وَالشَّهَادَةِ وَاَسْاَلُكَ كَلِمَةَ الْحَقِّ فِي الرِّضَا وَالْغَضَبِ، وَاَسْاَلُكَ الْقَصْدَ فِي الْفَقْرِ وَالْغِنٰى، وَاَسْاَلُكَ نَعِيْمًا لَّا يَنْفَدُ، وَاَسْاَلُكَ قُرَّةَ عَيْنٍ لَّا تَنْقَطِعُ، وَاَسْاَلُكَ الرِّضَا بَعَدَ الْقَضَاءِ، وَاَسْاَلُكَ بَرْدَ الْعَيْشِ بَعْدَ الْمَوْتِ، وَاَسْاَلُكَ لَذَّةَ النَّظَرِ اِلٰى وَجْهِكَ، وَالشَّوْقَ اِلٰى لِقَائِكَ، فِيْ غَيْرِ ضَرَّاءَ مُضِرَّةٍ، وَلَا فِتْنَةٍ مُّضِلَّةٍ، اَللّٰهُمَّ زَيِّنَّا بِزِيْنَةِ الْاِيْمَانِ، وَاجْعَلْنَا هُدَاةً مُهْتَدِيْنَ",
-        "clean": "اللهم بعلمك الغيب وقدرتك علي الخلق احيني ما علمت الحياه خيرا لي وتوفني اذا علمت الوفاه خيرا لي اللهم واسالك خشيتك في الغيب والشهاده واسالك كلمه الحق في الرضا والغضب واسالك القصد في الفقر والغني واسالك نعيما لا ينفد واسالك قره عين لا تنقطع واسالك الرضا بعد القضاء واسالك برد العيش بعد الموت واسالك لذه النظر الي وجهك والشوق الي لقاءك في غير ضراء مضره ولا فتنه مضله اللهم زينا بزينه الايمان واجعلنا هداه مهتدين",
-        "transliteration": "Allaahumma bi 'ilmikal-ghaiba wa qudratika 'alal-khalqi a’hyini maa 'alimtal-‘hayaata khairan li, wa tawaffani idhaa 'alimtal-wafata khairan li. Allaahumma wa as'aluka khashyataka fil-ghaibi wash-shahaadati wa as'aluka kalimatal-haqqi fir-ridaa wal ghadabi, wa as'alukal-qasda fil faqri wal-ghinaa, wa as'aluka na'iman laa yanfadu wa as'aluka qurrata ‘ainin laa tanqati'u wa as'alukar-ridaa ba'dal-qadaa'i, wa as'aluka bardal 'aishi ba'dal-mawti, wa as'aluka ladh dhatan-nazari ilaa wajhika wash-shawqa ilaa liqaa'ika fi ghayri darraa'a mudirratin, wala fitnatin mudillatin, Allaahumma zayyinnaa bizinatil-imani waj'alna hudaatam muhtadin",
-        "reference": "Sahih (Albani). Nasai 1305",
-        "audio": 750,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْبَرَصِ وَالْجُنُوْنِ وَالْجُذَامِ وَمِنْ سَيِّئِ الْأَسْقَامِ",
+        "indopak": "اَللَّهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنَ الْبَرَصِ وَالْجُنُوْنِ وَالْجُذَامِ وَمِنْ سَيِّئِ الْأَسْقَامِ",
+        "clean": "اللهم اني اعوذ بك من البرص والجنون والجذام ومن سيء الاسقام",
+        "transliteration": "Allaahumma inni A‛oodhu bika minal-barasi wal-jununi wal-judhaami, wamin sayy'il-asqaam",
+        "reference": "Sahih (Albani). Abu Dawud: 1554",
+        "audio": 721,
         "cat_id": 38,
         "subcat_id": 110
       },
       "source": {
-        "name": "Dua for gaining the blessing of seeing the face of Allah",
+        "name": "Blessings to seek refuge from epidemics and diseases",
+        "content": "Narrated Anas (RA): The Prophet (ﷺ) used to say:",
+        "translation": "O Allah, I seek refuge in Thee from leprosy, madness, elephantiasis, and evil diseases.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মহামারী ও রোগব্যাধি থেকে আশ্রয় চাওয়ার দোয়া",
+        "content": "আনাস (রাঃ) থেকে বর্ণিত, নবী (ﷺ) বলতেন -",
+        "translation": "হে আল্লাহ্‌! আমি তোমার কাছে আশ্রয় চাই কুষ্ঠরোগ ও পাগলামি থেকে, এবং পা-ফোলা রোগ ও নিকৃষ্ট ব্যাধি থেকে।"
+      }
+    },
+    {
+      "key": [
+        722
+      ],
+      "id": 722,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 722,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ مُنْكَرَاتِ الْأَخْلَاقِ وَالْأَعْمَالِ وَالْأَهْوَاءِ وَالْأَدْوَاءِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنْ مُنْكَرَاتِ الْاَخْلَاقِ وَالْاَعْمَالِ وَالْاَهْوَاءِ وَالْاَدْوَاءِ",
+        "clean": "اللهم اني اعوذ بك من منكرات الاخلاق والاعمال والاهواء والادواء",
+        "transliteration": "Allaahumma inni a`udhu bika min munkaraatil-akhlaaqi wal-a`maali wal-ahwaa'i wal-adwaa'i",
+        "reference": "Sahih (Albani). Mishkat: 2405",
+        "audio": 722,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua for seeking refuge from evil characteristics and evil deeds",
+        "content": "Narrated Qutb Ibn Malik (RA): The Prophet (ﷺ) used to say:",
+        "translation": "O Allah, I seek refuge in you from evil morals, deeds, passions and diseases.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "দুশ্চরিত্র ও মন্দ কর্ম থেকে আশ্রয় চাওয়ার দোয়া",
+        "content": "কুতবা ইবনু মালিক (রাঃ) থেকে বর্ণিত, নবী (ﷺ) বলতেন -",
+        "translation": "হে আল্লাহ্‌! আমি তোমার কাছে আশ্রয় চাই নিকৃষ্ট মানের আচরণ থেকে, এবং নিকৃষ্ট মানের কাজ, আশা ও রোগ থেকে।"
+      }
+    },
+    {
+      "key": [
+        723
+      ],
+      "id": 723,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 723,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنَّكَ عَفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+        "indopak": "اَللّٰهُمَّ اِنَّكَ عَفُوٌّ كَرِيْمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّيْ",
+        "clean": "اللهم انك عفو كريم تحب العفو فاعف عني",
+        "transliteration": "Allaahumma innaka `Afuwwun Karimun, tuhibbul-`afwa fa`fu `anni",
+        "reference": "Sahih (Albani). Tirmidhi: 3513",
+        "audio": 723,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua for seeking forgiveness",
         "content": null,
-        "translation": "O Allah, by Your knowledge of the unseen and Your power over creation, keep me alive so long as You know that living is good for me and cause me to die when You know that death is better for me. O Allah, cause me to fear You in secret and in public. I ask You to make me true in speech in times of pleasure and of anger. I ask You to make me moderate in times of wealth and poverty. And I ask You for everlasting delight and joy that will never cease. I ask You to make me pleased with that which You have decreed and for an easy life after death. I ask You for the sweetness of looking upon Your face and a longing to meet You in a manner that does not entail a calamity that will bring about harm or a trial that will cause deviation. O Allah, beautify us with the adornment of faith and make us among those who guide and are rightly guided.",
-        "note": "‘Ata bin As-Sa'ib (R) narrated that his father said: \"Ammar bin Yasir (RA) led us in prayer and he made it brief. Some of the people said to him: 'You made the prayer sort (or brief).' He said: 'Nevertheless I still recited supplications that I heard from the Messenger of Allah (ﷺ).' When he got up and left, a man followed him and asked him about that supplication, then he came and told the people: (The dua is mentioned above)"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        751
-      ],
-      "id": 751,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 751,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ ارْزُقْنِيْ حُبَّكَ وَحُبَّ مَنْ يَنْفَعُنِيْ حُبُّهُ عِنْدَكَ اَللَّهُمَّ مَا رَزَقْتَنِيْ مِمَّا أُحِبُّ فَاجْعَلْهُ قُوَّةً لِي فِيمَا تُحِبُّ اَللَّهُمَّ وَمَا زَوَيْتَ عَنِّيْ مِمَّا أُحِبُّ فَاجْعَلْهُ لِي فَرَاغًا فِيمَا تُحِبُّ",
-        "indopak": "اَللّٰهُمَّ ارْزُقْنِيْ حُبَّكَ وَحُبَّ مَنْ يَّنْفَعُنِيْ حُبُّهٗ عِنْدَكَ اَللّٰهُمَّ مَا رَزَقْتَنِيْ مِمَّا اُحِبُّ فَاجْعَلْهُ قُوَّةً لِّيْ فِيْمَا تُحِبُّ اَللّٰهُمَّ وَمَا زَوَيْتَ عَنِّيْ مِمَّا اُحِبُّ فَاجْعَلْهُ لِيْ فَرَاغًا فِيْمَا تُحِبُّ",
-        "clean": "اللهم ارزقني حبك وحب من ينفعني حبه عندك اللهم ما رزقتني مما احب فاجعله قوه لي فيما تحب اللهم وما زويت عني مما احب فاجعله لي فراغا فيما تحب",
-        "transliteration": "Allaahummar-zuqni ‘hubbuka, wa ‘hubba man yanfa`uni ‘hubbuhu ‘indaka. Allaahumma maa razaqtani mimmaa u’hibbu faj’alhu quwwatan li fimaa tu’hibbu. Allaahumma wa maa zawaita ‘anni mimmaa u’hibbu faj’alhu faraaghan li fimaa tu’hibbu",
-        "reference": "Hasan (Ibn Hajar). Takhrij Mishkat: 3/31",
-        "audio": 751,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Dua for seeking the love of Allah",
-        "content": "The Prophet (ﷺ) used to pray:",
-        "translation": "O Allah grant me Your love and the love of those whose love will benefit me with You. O Allah, whatever you have provided me of that which I love, then make it strength for me for that which You love. O Allah, and what you have kept from me of that which I love, then make it for me a period of rest in that which You love.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        752
-      ],
-      "id": 752,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 752,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ طَهِّرْنِيْ مِنَ الذُّنُوبِ وَالْخَطَايَا اَللَّهُمَّ نَقِّنِيْ مِنْهَا كَمَا يُنَقَّى الثَّوْبُ الْأَبْيَضُ مِنَ الدَّنَسِ، اَللَّهُمَّ طَهِّرْنِيْ بِالثَّلْجِ وَالْبَرَدِ وَالْمَاءِ الْبَارِدِ",
-        "indopak": "اَللّٰهُمَّ طَهِّرْنِيْ مِنَ الذُّنُوْبِ وَالْخَطَايَا اَللّٰهُمَّ نَقِّنِيْ مِنْهَا كَمَا يُنَقَّى الثَّوْبُ الْاَبْيَضُ مِنْ الدَّنَسِ، اَللّٰهُمَّ طَهِّرْنِيْ بِالثَّلْجِ وَالْبَرَدِ وَالْمَاءِ الْبَارِدِ",
-        "clean": "اللهم طهرني من الذنوب والخطايا اللهم نقني منها كما ينقي الثوب الابيض من الدنس اللهم طهرني بالثلج والبرد والماء البارد",
-        "transliteration": "Allaahumma tahhirni minadh-dhunubi wal-khataayaa. Allaahumma naqqini minhaa kamaa yunaqqath thawbul-abyadu minad-danasi, Allaahumma tahhirni bith-thalji wal-barad wal-maa'i al-baarid",
-        "reference": "Sahih (Albani). An-Nasai: 402",
-        "audio": 752,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Dua to be cleansed from sin and error",
-        "content": "The Prophet (ﷺ) used to pray:",
-        "translation": "O Allah, purify me of sin and error, O Allah cleanse me of it as a white garment is cleansed of dirt, O Allah purify me with snow and hail and cold water.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        753
-      ],
-      "id": 753,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 753,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْجُبْنِ وَالْبُخْلِ وَسُوْءِ الْعُمُرِ، وَفِتْنَةِ الصَّدْرِ، وَعَذَابِ الْقَبْرِ",
-        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنَ الْجُبْنِ وَالْبُخْلِ وَسُوْءِ الْعُمُرِ، وَفِتْنَةِ الصَّدْرِ، وَعَذَابِ الْقَبْرِ",
-        "clean": "اللهم اني اعوذ بك من الجبن والبخل وسوء العمر وفتنه الصدر وعذاب القبر",
-        "transliteration": "Allaahumma inni A‛oodhu bika minal-jubni, wal-bukhli, wa suw'il-'umuri, wa fitnatis-sadri wa 'adhaabil qabr",
-        "reference": "Sahih (Albani). Abu Dawud: 1376",
-        "audio": 753,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Dua to escape from the stinginess, cowardice and test of heart",
-        "content": "The Messenger of Allah (ﷺ) seek refuge to Allah from five things:",
-        "translation": "O Allah, I seek refuge with You from cowardice, miserliness, reaching the age of second childhood, the trials of the heart and the torment of the grave.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        754
-      ],
-      "id": 754,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 754,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ رَبَّ جِبْرَائِيْلَ وَمِيْكَائِيْلَ ورَبَّ إِسْرَافِيلَ أَعُوذُ بِكَ مِنْ حَرِّ النَّارِ وَمِنْ عَذَابِ الْقَبْرِ",
-        "indopak": "اَللّٰهُمَّ رَبَّ جِبْرَائِيْلَ وَمِيْكَائِيْلَ ورَبَّ اِسْرَافِيْلَ اَعُوْذُ بِكَ مِنْ حَرِّ النَّارِ وَمِنْ عَذَابِ الْقَبْرِ",
-        "clean": "اللهم رب جبراءيل وميكاءيل ورب اسرافيل اعوذ بك من حر النار ومن عذاب القبر",
-        "transliteration": "Allaahumma rab-ba jibraa’eel wa meekaa’eel, wa rab-ba israafeel, a‛oodhu bika min ‘harrin naar, wa min ‛adhaabil qabr",
-        "reference": "Sahih (Albani). Nasai: 5519",
-        "audio": 754,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Seeking refuge from the heat of hellfire and the punishment of the grave",
-        "content": "Narrated from Aisha (RA), she said, The Messenger of Allah (ﷺ) said:",
-        "translation": "O Allah, Lord of Gabriel and Michael, and lord of Israfel, I seek refuge in You from the heat of the hell fire, and from the torment of the grave.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        755
-      ],
-      "id": 755,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 755,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِيْ وَأَسْأَلُكَ أَنْ تَعْزِمَ لِي عَلَى رُشْدِ أَمْرِيْ",
-        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِيْ وَاَسْاَلُكَ اَنْ تَعْزِمَ لِيْ عَلٰى رُشْدِ اَمْرِيْ",
-        "clean": "اللهم اني اعوذ بك من شر نفسي واسالك ان تعزم لي علي رشد امري",
-        "transliteration": "Allahumma inni A‛oodhu bika min sharri nafsi wa ‘as’aluka an ta’zima li ‘alaa rushdi ‘amri",
-        "reference": "Sahih (Al Wadi). Sahihul Musnad: 322",
-        "audio": 755,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Dua for being steadfast and right",
-        "content": "The Prophet (ﷺ) said:",
-        "translation": "Ya Allah! I seek refuge in You from harm of myself and I ask you for guidence and steadfastness to do right things",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        756
-      ],
-      "id": 756,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 756,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي مَا أَسْرَرْتُ وَمَا أَعْلَنْتُ وَمَا أَخْطَأْتُ وَمَا تَعَمَّدْتُ وَمَا عَلِمْتُ وَمَا جَهِلْتُ",
-        "indopak": "اَللّٰهُمَّ اغْفِرْ لِيْ مَا اَسْرَرْتُ وَمَا اَعْلَنْتُ وَمَا اَخْطَأْتُ وَمَا تَعَمَّدْتُ وَمَا عَلِمْتُ وَمَا جَهِلْتُ",
-        "clean": "اللهم اغفر لي ما اسررت وما اعلنت وما اخطات وما تعمدت وما علمت وما جهلت",
-        "transliteration": "Allaahummagfirli maa asrartu wa maa a’alantu wa maa akhtaa’-tu wa maa ta’ammadtu wa maa ‘alimtu wa maa jahiltu",
-        "reference": "Sahih (Ibn al-Qayyim). Al Wabilus Sayyib: P. 199",
-        "audio": null,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Dua to seek forgiveness for sins committed in secret and in public",
-        "content": null,
-        "translation": "O Allah, grant me forgiveness from the fault which I committed in privacy or in public, which I mistakenly did, which I did deliberately, which I did knowingly and which I did unknowingly.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        757
-      ],
-      "id": 757,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 757,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Hasan (Albani). Ibn Majah: 3843",
-        "audio": null,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Seeking beneficial knowledge and seeking refuge from harmful knowledge",
-        "content": "On the authority of Jaabir ibn Abdullah (RA). he said The Messenger of Allah (ﷺ) said, “Ask Allah for beneficial knowledge and seek refuge from that type of knowledge which is not beneficial.",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        758
-      ],
-      "id": 758,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 758,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ رَبَّ السَّمَوَاتِ وَرَبَّ الْأَرْضِ، وَرَبَّ الْعَرْشِ الْعَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَالْإِنْجِيْلِ وَالْفُرْقَانِ، أَعُوْذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ أَنْتَ آخِذٌ بِنَاصِيَتِهِ، اَللَّهُمَّ أَنْتَ الْأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَأَنْتَ الْآخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ",
-        "indopak": "اَللّٰهُمَّ رَبَّ السَّمَاوَاتِ وَرَبَّ الْاَرْضِ، وَرَبَّ الْعَرْشِ الْعَظِيْمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوٰى، وَمُنْزِلَ التَّوْرَاةِ وَالْاِنْجِيْلِ وَالْفُرْقَانِ، اَعُوْذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ اَنْتَ اٰخِذٌ بِنَاصِيَتِهٖ، اَللّٰهُمَّ اَنْتَ الْاَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، واَنْتَ الْاٰخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَاَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَاَنْتَ الْبَاطِنُ فَلَيْسَ دُوْنَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَاَغْنِنَا مِنَ الْفَقْرِ",
-        "clean": "اللهم رب السماوات ورب الارض ورب العرش العظيم ربنا ورب كل شيء فالق الحب والنوي ومنزل التوراه والانجيل والفرقان اعوذ بك من شر كل شيء انت اخذ بناصيته اللهم انت الاول فليس قبلك شيء وانت الاخر فليس بعدك شيء وانت الظاهر فليس فوقك شيء وانت الباطن فليس دونك شيء اقض عنا الدين واغننا من الفقر",
-        "transliteration": "Allaahumma Rabbas-samawaati wa Rabbal ardi, wa Rabbal-'Arshil-'Adheem, Rabbanaa wa Rabba kulli shay 'in, faaliqal-habbi wannawaa, wa munzilat-Tawraati wal-'Injeeli, wal-Furqaan, 'a'oodhu bika min sharri kulli shay'in 'Anta 'aakhidhun binaasiyatihi. Allaahumma 'Antal-'Awwalu falaysa qablaka shay'un, wa 'Antal-'Aakhiru falaysa ba'daka shay'un, wa 'Antadh-Dhaahiru falaysa fawqaka shay'un, wa 'Antal-Baatinu falaysa doonaka shay'un, iqdhi 'annad-dayna wa 'aghninaa minal-faqr",
-        "reference": "Muslim: 2713",
-        "audio": 758,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Dua for debt relief",
-        "content": "Allah's Messenger (ﷺ) used to command us that as we go to our bed, we should utter these words:",
-        "translation": "O Allah. the Lord of the Heavens and the Lord of the Earth and Lord of the Magnificent Throne, our Lord, and the Lord of evervthing, the Splitter of the grain of corn and the datestone (or fruit kernal), the Revealer of Torah and Injil and Criterion (the Holy Qur'an), I seek refuge in Thee from the evil of every- thing Thou art to sieze by the forelock (Thou hast perfect control over it). O Allah, Thou art the First, there is naught before Thee, and Thou art the Last and there is naught after Thee, and Thou art Evident and there is nothing above Thee, and Thou art Innermost and there is nothing beyond Thee. Remove the burden of debt from us and relieve us from want.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        759
-      ],
-      "id": 759,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 759,
-        "groups": null,
-        "uthmani": "رَبَّنَا أَصْلِحْ بَيْنَنَا، وَاهْدِنَا سَبِيلَ الْإِسْلَامِ، وَنَجِّنَا مِنَ الظُّلُمَاتِ إِلَى النُّورِ، وَاصْرِفْ عَنَّا الْفَوَاحِشَ مَا ظَهْرَ مِنْهَا وَمَا بَطَنَ، وَبَارِكْ لَنَا فِي أَسْمَاعِنَا وَأَبْصَارِنَا وَقُلُوبِنَا وَأَزْوَاجِنَا وَذُرِّيَّاتِنَا، وَتُبْ عَلَيْنَا إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ، وَاجْعَلْنَا شَاكِرِينَ لِنِعْمَتِكَ، مُثْنِينَ بِهَا، قَائِلِينَ بِهَا، وَأَتْمِمْهَا عَلَيْنَا",
-        "indopak": "رَبَّنَا اَصْلِحْ بَيْنَنَا، وَاهْدِنَا سَبِيْلَ الْاِسْلَامِ، وَنَجِّنَا مِنَ الظُّلُمَاتِ اِلَى النُّوْرِ، وَاصْرِفْ عَنَّا الْفَوَاحِشَ مَا ظَهْرَ مِنْهَا وَمَا بَطَنَ، وَبَارِكْ لَنَا فِي اَسْمَاعِنَا وَاَبْصَارِنَا وَقُلُوْبِنَا وَاَزْوَاجِنَا وَذُرِّيَّاتِنَا، وَتُبْ عَلَيْنَا اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِيْمُ، وَاجْعَلْنَا شَاكِرِيْنَ لِنِعْمَتِكَ، مُثْنِيْنَ بِهَا، قَائِلِيْنَ بِهَا، وَاَتْمِمْهَا عَلَيْنَا",
-        "clean": "ربنا اصلح بيننا واهدنا سبيل الاسلام ونجنا من الظلمات الي النور واصرف عنا الفواحش ما ظهر منها وما بطن وبارك لنا في اسماعنا وابصارنا وقلوبنا وازواجنا وذرياتنا وتب علينا انك انت التواب الرحيم واجعلنا شاكرين لنعمتك مثنين بها قاءلين بها واتممها علينا",
-        "transliteration": "Rabbanaa aslih baynanaa wahdinaa sabiilal islaam, wa najjinaa minadh dhulumaati ilaannur wasrif ‘annaal fawaa’hisha maa dhahraa minhaa wa maa batana wa baarik lanaa fii asmaa-’inaa wa absaarinaa wa quluubinaa wa azwaajinaa wa dhurriyyaatinaa wa tub ‘alainaa innaka antat tawwabur rahiim waj’alnaa shaakiriinaa lini’matika muth niina bihaa qaa-iliina bihaa wa atmimhaa ‘alainaa",
-        "reference": "Sahih (Albani). Sahih Adabul Mufrad: 630",
-        "audio": 759,
-        "cat_id": 38,
-        "subcat_id": 110
-      },
-      "source": {
-        "name": "Dua with wide meaning and best sentences",
-        "content": null,
-        "translation": "Our Lord, make peace between us and guide us on the path of Islam. Save us from the darkness (and bring us) to the light. Remove acts of deviance from us, both open and hidden. Bless us in our ears, our eyes, our hearts, our wives and our children. Turn to us. You are the Ever-Turning, Most Merciful. Make us thankful for Your blessing and make us among those who give praise for it and proclaim it. Perfect it for us.",
-        "note": "Narrated Abdullah ibn Mas'ud (RA): We did not know what we should say when we sat during prayer. The Messenger of Allah (ﷺ) was taught (by Allah). He then narrated the tradition to the same effect. Then He said: He used to teach us also some other words, but he did not teach them as he taught us the tashahhud: (The dua is mentioned above)"
+        "translation": "O Allah, indeed You are Pardoning, [Generous,] You love pardon, so pardon me.",
+        "note": "Aishah (RA) narrated: “I said: ‘O Messenger of Allah (ﷺ), what is your view if I know when the Night of Al-Qadr is, then what should I say in it?” He (ﷺ) said: ‘Say: (The above dua has been mentioned)"
       },
       "target": {
         "name": "",
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "ক্ষমা চাওয়ার দোয়া",
+        "translation": "হে আল্লাহ্‌! তুমি ক্ষমাশীল, মহানুভব!, তুমি ক্ষমা করতে পছন্দ করো অতএব, আমাকে ক্ষমা করে দাও।",
+        "note": "আয়িশা (রাঃ) থেকে বর্ণিত, তিনি বলেন, “আমি বললাম “হে আল্লাহ্‌র রাসূল (ﷺ) আমি যদি বুঝতে পারি কোন রাতটি লাইলাতুল কদর, তা হলে ওই রাতে আমি কী বলব?” নবী (ﷺ) বলেন, তুমি বলো- (দোয়াটি উপরে উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        724
+      ],
+      "id": 724,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 724,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ فِعْلَ الْخَيْرَاتِ وَتَرْكَ الْمُنْكَرَاتِ وَحُبَّ الْمَسَاكِيْنِ وَأَنْ تَغْفِرَ لِي وَتَرْحَمَنِي وَإِذَا أَرَدْتَ فِتْنَةَ قَوْمٍ فَتَوَفَّنِيْ غَيْرَ مَفْتُوْنٍ وَأَسْأَلُكَ حُبَّكَ وَحُبَّ مَنْ يُحِبُّكَ وَحُبَّ عَمَلٍ يُقَرِّبُ إِلَى حُبِّكَ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ فِعْلَ الْخَيْرَاتِ وَتَرْكَ الْمُنْكَرَاتِ وَحُبَّ الْمَسَاكِيْنِ وَاَنْ تَغْفِرَ لِيْ وَتَرْحَمَنِيْ وَاِذَا اَرَدْتَ فِتْنَةَ قَوْمٍ فَتَوَفَّنِيْ غَيْرَ مَفْتُوْنٍ وَاَسْاَلُكَ حُبَّكَ وَحُبَّ مَنْ يُّحِبُّكَ وَحُبَّ عَمَلٍ يُقَرِّبُ اِلٰى حُبِّكَ",
+        "clean": "اللهم اني اسالك فعل الخيرات وترك المنكرات وحب المساكين وان تغفر لي وترحمني واذا اردت فتنه قوم فتوفني غير مفتون واسالك حبك وحب من يحبك وحب عمل يقرب الي حبك",
+        "transliteration": "Allaahumma innee as’aluka fi’lal-khairaati, wa tarkal-munkaraati, wa hubbal-masaakeeni, wa ‘an taghfira lee wa tar’hamanee wa idhaa aradta fitnata qawmin fa-tawaffanee ghaira maf-toon, Wa as’aluka ’hubbaka wa ’hubba man yu’hibbuka, wa ’hubba ‛amalin yuqarribu ilaa h‛ubbik",
+        "reference": "[1] That is, sins are forgiven if you do them\n[2] Sahih (Albani). Tirmidhi: 3235",
+        "audio": 724,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua for good deeds and seeking the love of Allah",
+        "content": null,
+        "translation": "O Allah, I ask You to inspire me to do good deeds, and to abstain from bad deeds, and to love those who are poor, and to forgive me and have mercy on me, and if You wish a trial for Your servants, then make me die before falling into it. And I ask You to make me love You and to love those who love You, and to love the actions that get me closer to Your love.",
+        "note": "Narrated by Mu'adh bin Jabal (RA): \"One morning, the Messenger of Allah (ﷺ) was prevented from coming to us for Fajr Salat, until we were just about to look for the eye of the sun (meaning sunrise). Then he came out quickly, had the Salat prepared for. The Messenger of Allah (ﷺ) performed the Salat, and he performed his Salat in a relatively quick manner. When he said the Salam, he called aloud with his voice saying to us: 'Stay in your rows as you are.' Then he turned coming near to us, then he said:\n\n'I am going to narrate to you what kept me from you this morning: I got up during the night, I performed Wudu and prayed as much as I was able to, and I dozed off during my Salat, and fell deep asleep. Then I saw my Lord, Blessed and Most High, in the best of appearances. He said: 'O Muhammad!' I said: 'My Lord here I am my Lord!' He said: 'What is it that the most exalted group busy themselves with?' I said: 'I do not know Lord.' And He said it three times.\" He said: \"So I saw Him place His Palm between my shoulders, and I sensed the coolness of His Fingertips between my breast. Then everything was disclosed for me, and I became aware. \n\nSo He said: 'O Muhammad!' I said: 'Here I am my Lord!' He said: 'What is it that the most exalted group busy themselves with?' I said: 'In the acts that atone.' He said: 'And what are they?' I said: 'The footsteps to the congregation, the gatherings in the Masajid after the Salat, Isbagh Al-Wudu during difficulties.' [1] He said: 'Then what else?' I said: 'Feeding others, being lenient in speech, and Salat during the night while the people are sleeping.' He said: 'Ask.' I said: (The dua mentioned above)\n\nThe Messenger of Allah (ﷺ) said: \"Indeed it is true, so study it and learn it.\" [2]"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "সৎকর্ম ও আল্লাহর ভালোবাসা চাওয়ার দোয়া",
+        "translation": "হে আল্লাহ্‌! আমি তোমার কাছে চাই (যেন) যাবতীয় ভালো কাজ করতে পারি সকল খারাপ কাজ ছাড়তে পারি। এবং নিঃস্ব লোকদের ভালোবাসতে পারি। তুমি আমাকে মাফ করে দাও, আমার উপর দয়া করো। কোনও জনগোষ্ঠীকে পরীক্ষায় ফেলতে চাইলে, পরীক্ষার মুখোমুখি হওয়ার আগেই আমাকে নিয়ে যেয়ো। আমি তোমার কাছে চাই তোমার ভালোবাসা, যারা তোমাকে ভালোবাসে তাদের ভালোবাসা। এবং এমন কাজের প্রতি ভালোবাসা, যা তোমার ভালোবাসার কাছে নিয়ে যায়।",
+        "note": "মুআয ইবনু জাবাল (রাঃ) থেকে বর্ণিত, তিনি বলেন, একদিন ভোরবেলা ফজরের সালাতের সময় আল্লাহ্‌র রাসূল (ﷺ) আমাদের কাছে আসতে দেরি করেন। একপর্যায়ে আমাদের মনে হতে থাকে, এক্ষুনি সূর্য ওঠবে! এমন সময় নবী (ﷺ) দ্রুত বেরিয়ে আসেন। এরপর সালাতের প্রস্তুতি নেওয়া হয়। এরপর আল্লাহ্‌র রাসূল (ﷺ) স্বাভাবিকের চেয়ে একটু দ্রুত গতিতে সালাত শেষ করেন। সালাম ফিরিয়ে তিনি উচ্চ আওয়াজে আমাদের বলেন, “তোমরা নিজ নিজ সারিতে যেভাবে আছো, সেভাবেই থাকো।” এরপর তিনি আমাদের দিকে ঘুরে বলেন, আজ ভোরে তোমাদের কাছে আসতে আমার কেন দেরি হয়েছিল, তা এখনই বলছি:\n\nআমি রাতে উঠে ওযূ করে আমার-জন্য-নির্ধারিত সালাত আদায় করি। সালাতের মধ্যে আমি প্রচণ্ড তন্দ্রাচ্ছন্ন হয়ে পড়ি। আচমকা দেখি, আমি আমার মহান রবের পাশে! সর্বোত্তম আকৃতিতে! তিনি বলেন, মুহাম্মাদ!' আমি বলি, ‘রব আমার! আমি হাজির! তিনি বলেন, ‘উচ্চতর দলটি কী নিয়ে তর্ক করে?' আমি বলি, আমার জানা নেই।' তিনি, তিনবার এটি জিজ্ঞাসা করেন। এরপর দেখি-তিনি তাঁর হাতের তালু আমার দু' কাঁধের মাঝখানে রাখেন; আমি তাঁর আঙুলসমূহের শীতলতা বক্ষে অনুভব করি! এরপর আমার সামনে সবকিছু উজ্জ্বল হয়ে ওঠে এবং আমি (বিষয়টি) বুঝতে পারি।\n\nতখন আল্লাহ্‌ তা'আলা বলেন, ‘মুহাম্মাদ! আমি বলি, ‘রব আমার! আমি হাজির! তিনি বলেন, ‘(ফেরেশতাদের) উচ্চতর দলটি কী নিয়ে তর্ক করে?' আমি বলি, ‘কাফফারা বা প্রায়শ্চিত্তের ব্যাপারে৷ [১] তিনি বলেন, “কী সেগুলো?' আমি বলি, পায়ে হেঁটে জামাআতের দিকে যাওয়া, সালাতের পর মসজিদে বসা এবং কষ্টের মধ্যেও সঠিকভাবে ওযূ করা।' তিনি বলেন, এরপর কী?' আমি বলি, ‘খাবার খাওয়ানো, কোমলভাবে কথা বলা এবং রাতের বেলা মানুষ যখন ঘুমিয়ে থাকে তখন সালাত আদায় করা। আল্লাহ্‌ তা'আলা বলেন, (আমার কাছে) চাও! বলো - (দোয়াটি উপরে উল্লেখিত হয়েছে)\n\nআল্লাহ্‌র রাসূল (ﷺ) বলেন, এটি নিশ্চিত সত্য; সুতরাং এটি তোমরা শেখো, তারপর (লোকদের) শেখাও।” [২]"
+      }
+    },
+    {
+      "key": [
+        725
+      ],
+      "id": 725,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 725,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ احْفَظْنِيْ بِالْإِسْلَامِ قَائِمًا، وَاحْفَظْنِيْ بِالْإِسْلَامِ قَاعِدًا، وَاحْفَظْنِيْ بِالْإِسْلَامِ رَاقِدًا، وَلَا تُشْمِتْ بِي عَدُوًّا وَلَا حَاسِدًا اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ كُلِّ خَيْرٍ خَزَائِنُهُ بِيَدِكَ، وَأَعُوْذُ بِكَ مِنْ كُلِّ شَرٍّ خَزَائِنُهُ بِيَدِكَ",
+        "indopak": "اَللّٰهُمَّ احْفَظْنِيْ بِالْاِسْلَامِ قائِمًا، وَاحْفَظْنِيْ بِالْاِسْلَامِ قَاعِدًا، وَاحْفَظْنِيْ بِالْاِسْلَامِ رَاقِدًا، وَلَا تُشْمِتْ بِيْ عَدُوًّا وَلَا حَاسِدًا اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ مِنْ كُلِّ خَيْرٍ خَزَائِنُهٗ بِيَدِكَ، وَاَعُوْذُ بِكَ مِنْ كُلِّ شَرٍّ خَزَائِنُهٗ بِيَدِكَ",
+        "clean": "اللهم احفظني بالاسلام قاءما واحفظني بالاسلام قاعدا واحفظني بالاسلام راقدا ولا تشمت بي عدوا ولا حاسدا اللهم اني اسالك من كل خير خزاءنه بيدك واعوذ بك من كل شر خزاءنه بيدك",
+        "transliteration": "Allaahumma’h-fazni bil’islaami qaa’iman, wa’h-fazni bil’islaami qaa‛idan, wa’h-fazni bil’islaami raa-qidan, wa laa tushmit bee ‛adu-wan wa laa ’haasidan, Allaahumma innee as’aluka min kulli khayrin khazaa’inuhu bi-yadik, wa a‛oodhu bika min kulli sharrin khazaa’inuhu biyadik",
+        "reference": "Hasan (Albani). Silsilatul Sahiha: 1540",
+        "audio": 725,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua to seek protection in all circumstances by Islam",
+        "content": "The Messenger of Allah (ﷺ) used to pray like this:",
+        "translation": "O Allah! Protect me with Islam when standing, and protect me with Islam when sitting down, and protect me with Islam when reclining, and do not make an enemy or envier gloat over me. O Allah, I ask you for every good whose treasuries are in Your Hand, and I seek refuge with you from every evil whose treasuries are in Your Hand.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "ইসলামের অসীলায় সর্বাবস্থায় সুরক্ষা চাওয়ার দোয়া",
+        "content": "আল্লাহ্‌র রাসূল (ﷺ) এভাবে দোয়া করতেন -",
+        "translation": "হে আল্লাহ্‌! আমাকে দাঁড়ানো অবস্থায় ইসলাম দ্বারা সুরক্ষা দাও! বসা অবস্থায় আমাকে ইসলাম দ্বারা সুরক্ষা দাও! শোয়া অবস্থায় আমাকে ইসলাম দ্বারা সুরক্ষা দাও! আমার দ্বারা কোনও হিংসুটে শত্রুকে উল্লসিত হতে দিয়ো না! হে আল্লাহ্‌! আমি তোমার কাছে প্রত্যেকটি কল্যাণ চাই, যার যাবতীয় ভাণ্ডার তোমার হাতে; আর প্রত্যেকটি অকল্যাণ থেকে তোমার কাছে আশ্রয় চাই, যার সকল ভাণ্ডার তোমার হাতে৷"
+      }
+    },
+    {
+      "key": [
+        726
+      ],
+      "id": 726,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 726,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اقْسِمْ لَنَا مِنْ خَشْيَتِكَ مَا يَحُوْلُ بَيْنَنَا وَبَيْنَ مَعَاصِيْكَ وَمِنْ طَاعَتِكَ مَا تُبَلِّغُنَا بِهِ جَنَّتَكَ وَمِنَ الْيَقِيْنِ مَا تُهَوِّنُ بِهِ عَلَيْنَا مُصِيْبَاتِ الدُّنْيَا وَمَتِّعْنَا بِأَسْمَاعِنَا وَأَبْصَارِنَا وَقُوَّتِنَا مَا أَحْيَيْتَنَا وَاجْعَلْهُ الْوَارِثَ مِنَّا وَاجْعَلْ ثَأْرَنَا عَلَى مَنْ ظَلَمَنَا وَانْصُرْنَا عَلَى مَنْ عَادَانَا وَلَا تَجْعَلْ مُصِيْبَتَنَا فِي دِيْنِنَا وَلَا تَجْعَلِ الدُّنْيَا أَكْبَرَ هَمِّنَا وَلَا مَبْلَغَ عِلْمِنَا وَلَا تُسَلِّطْ عَلَيْنَا مَنْ لَا يَرْحَمُنَا",
+        "indopak": "اَللّٰهُمَّ اقْسِمْ لَنَا مِنْ خَشْيَتِكَ مَا يَحُوْلُ بَيْنَنَا وَبَيْنَ مَعَاصِيْكَ وَمِنْ طَاعَتِكَ مَا تُبَلِّغُنَا بِهٖ جَنَّتَكَ وَمِنَ الْيَقِيْنِ مَا تُهَوِّنُ بِهٖ عَلَيْنَا مُصِيْبَاتِ الدُّنْيَا وَمَتِّعْنَا بِاَسْمَاعِنَا وَاَبْصَارِنَا وَقُوَّتِنَا مَا اَحْيَيْتَنَا وَاجْعَلْهُ الْوَارِثَ مِنَّا وَاجْعَلْ ثَأْرَنَا عَلٰى مَنْ ظَلَمَنَا وَانْصُرْنَا عَلٰى مَنْ عَادَانَا وَلَا تَجْعَلْ مُصِيْبَتَنَا فِيْ دِيْنِنَا وَلَا تَجْعَلِ الدُّنْيَا اَكْبَرَ هَمِّنَا وَلَا مَبْلَغَ عِلْمِنَا وَلَا تُسَلِّطْ عَلَيْنَا مَنْ لَّا يَرْحَمُنَا",
+        "clean": "اللهم اقسم لنا من خشيتك ما يحول بيننا وبين معاصيك ومن طاعتك ما تبلغنا به جنتك ومن اليقين ما تهون به علينا مصيبات الدنيا ومتعنا باسماعنا وابصارنا وقوتنا ما احييتنا واجعله الوارث منا واجعل ثارنا علي من ظلمنا وانصرنا علي من عادانا ولا تجعل مصيبتنا في ديننا ولا تجعل الدنيا اكبر همنا ولا مبلغ علمنا ولا تسلط علينا من لا يرحمنا",
+        "transliteration": "Allaahumma-qsim lanaa min khashyatika maa ya’hulu, bainanaa wa baina ma’aasika wa min taa’atika maa tuballighunaa bihi jannataka, wa minal-yaqini maa tuhawwinu bihi ‘alainaa musibaatid-dunyaa, wa matti’naa bi-asmaa’inaa wa absarinaa wa quwwatinaa maa a’hyaytanaa, waj’alhul-waaritha minnaa, waj’al tha’ranaa ‘alaa man zalamanaa, wansurnaa ‘alaa man ‘aadaanaa, wa laa taj’al musibatanaa fi dininaa, wa laa taj’alid-dunyaa akbara hamminaa wa laa mablagha ‘ilminaa, wa laa tusallit ‘alainaa man laa yar’hamunaa",
+        "reference": "Hasan (Albani). Tirmidhi: 3502",
+        "audio": 726,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua for strong faith and seeking protection from enemies",
+        "content": "Ibn 'Umar (RA) said: Rarely would the Messenger of Allah (ﷺ) stand from a sitting until he supplicated with these words for his Companions:",
+        "translation": "O Allah, apportion for us, fear of You, that shall come between us and disobedience of You, and of obedience to You, which shall cause us to obtain Your Paradise, and of certainty, which shall make the afflictions of the world easy for us, and enjoyment of our hearing, and our seeing, and our strength as long as You keep us alive, and make it the inheritor of us. And let our vengeance be upon those who have wronged us, and aid us against those who show enmity towards us, and do not make our affliction in our religion, and do not make this world our greatest concern, nor the limit of our knowledge, and do not give power over us to those who will not have mercy on us.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মজবুত ঈমান ও শত্রুদের থেকে নিরাপত্তা চাওয়ার দোয়া",
+        "content": "আবদুল্লাহ ইবনু উমর (রাঃ) থেকে বর্ণিত, তিনি বলেন, প্রায় প্রত্যেকটি বৈঠক থেকে ওঠা মাত্রই আল্লাহ্‌র রাসূল (ﷺ) এ দোয়া পড়তেন -",
+        "translation": "হে আল্লাহ্‌! আমাদেরকে তোমার এমন ভয় দান করো, যা আমাদের ও তোমার অবাধ্যতার মধ্যে বাধা হয়ে দাঁড়াবে; তোমার এমন আনুগত্য করার সামর্থ্য দাও, যা আমাদেরকে তোমার জান্নাতে পৌঁছে দেবে; এমন সন্দেহমুক্ত ঈমান দাও, যা দুনিয়ার মুসিবতগুলোকে আমাদের কাছে তুচ্ছ করে দেবে! আমাদের শ্রবণশক্তি দিয়ে উপকৃত হতে দাও, দৃষ্টিশক্তি ও শারীরিক শক্তি থেকে উপকৃত হতে দাও, যতদিন তুমি আমাদের বাঁচিয়ে রাখো! এসব শক্তিকে আমাদের ওয়ারিশ বানিয়ে দাও! আমাদের জালিমদের বিরুদ্ধে আমাদের ক্রুদ্ধ করে তোলো! আমাদের শত্রুদের বিরুদ্ধে আমাদের সাহায্য করো; আমাদের দ্বীন-পালনে কোনও মুসিবত রেখো না; দুনিয়া যেন আমাদের সবচেয়ে বড় ভাবনার বস্তু না হয়; আমাদের জ্ঞানের লক্ষ্য যেন দুনিয়া না হয়; আমাদের উপর এমন কাউকে চাপিয়ে দিয়ো না, যে আমাদের উপর দয়া করবে না!"
+      }
+    },
+    {
+      "key": [
+        727
+      ],
+      "id": 727,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 727,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْبُخْلِ وَأَعُوْذُ بِكَ مِنَ الْجُبْنِ وَأَعُوْذُ بِكَ مِنْ أَنْ أُرَدَّ إِلَى أَرْذَلِ الْعُمُرِ وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا وَأَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنَ الْبُخْلِ وَاَعُوْذُ بِكَ مِنَ الْجُبْنِ وَاَعُوْذُ بِكَ مِنْ اَنْ اُرَدَّ اِلٰى اَرْذَلِ الْعُمُرِ وَاَعُوْذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا وَاَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ",
+        "clean": "اللهم اني اعوذ بك من البخل واعوذ بك من الجبن واعوذ بك من ان ارد الي ارذل العمر واعوذ بك من فتنه الدنيا واعوذ بك من عذاب القبر",
+        "transliteration": "Allaahumma 'innee 'a'oodhu bika minal-bukhli, wa 'a'oodhu bika minal-jubni, wa 'a'oodhu bika min 'an 'uradda 'ilaa 'ardhalil-'umuri, wa 'a'oodhu bika min fitnatid-dunyaa wa 'a'oodhu bika min 'adhaabil-qabr",
+        "reference": "Bukhari: 6370",
+        "audio": 727,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Seeking refuge from the test of the world and the grave",
+        "content": null,
+        "translation": "O Allah, I seek Your protection from miserliness, I seek Your protection from cowardice, and I seek Your protection from being returned to feeble old age. I seek Your protection from the trials of this world and I seek Your protection from the torment of the grave.",
+        "note": "Saad ibn Abi Waqqas (RA) used to teach these sentences to his sons in the same way that a teacher teaches handwriting to children. And he used to say that the Messenger of Allah (ﷺ) used to seek refuge (in Allah) in all these matters towards the end of the prayer - (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "দুনিয়া ও কবরের পরীক্ষা থেকে আশ্রয় চাওয়া",
+        "translation": "হে আল্লাহ্‌! আমি তোমার কাছে কৃপণতা থেকে আশ্রয় চাই ভীরুতা থেকে তোমার কাছে আশ্রয় চাই; তোমার কাছে আশ্রয় চাই, যেন নিকৃষ্টতর বয়সে পৌঁছে না যাই; তোমার কাছে দুনিয়ার পরীক্ষা থেকে আশ্রয় চাই; আর তোমার কাছে আশ্রয় চাই কবরের পরীক্ষা থেকে।",
+        "note": "শিক্ষক যেভাবে বাচ্চাদের হাতের লেখা শেখায়, সাদ ইবনু আবী ওয়াক্কাস (রাঃ) তার ছেলেদের এসব বাক্য সেভাবে শেখাতেন। আর তিনি বলতেন, সালাতের শেষের দিকে আল্লাহ্‌র রাসূল (ﷺ) এসব বিষয়ে (আল্লাহ্‌র কাছে) আশ্রয় চাইতেন – (দোয়াটি উপরে উল্লেখিত হয়েছে)"
       }
     }
   ]

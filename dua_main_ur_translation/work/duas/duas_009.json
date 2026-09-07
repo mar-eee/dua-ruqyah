@@ -4,10 +4,191 @@
   "source_language": "en",
   "target_language": "ur",
   "status": "pending",
-  "rows": 14,
-  "id_range": "117-130",
-  "source_chars": 5818,
+  "rows": 8,
+  "id_range": "113-120",
+  "source_chars": 5951,
   "items": [
+    {
+      "key": [
+        113
+      ],
+      "id": 113,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 113,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\nاَلْحَمْدُ لِلَّـهِ الَّذِي أَنزَلَ عَلَىٰ عَبْدِهِ الْكِتَابَ وَلَمْ يَجْعَل لَّهُ عِوَجًا ۜ ﴿١﴾ قَيِّمًا لِّيُنذِرَ بَأْسًا شَدِيدًا مِّن لَّدُنْهُ وَيُبَشِّرَ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا حَسَنًا ﴿٢﴾ مَّاكِثِينَ فِيهِ أَبَدًا ﴿٣﴾ وَيُنذِرَ الَّذِينَ قَالُوا اتَّخَذَ اللَّـهُ وَلَدًا ﴿٤﴾ مَّا لَهُم بِهِ مِنْ عِلْمٍ وَلَا لِآبَائِهِمْ ۚ كَبُرَتْ كَلِمَةً تَخْرُجُ مِنْ أَفْوَاهِهِمْ ۚ إِن يَقُولُونَ إِلَّا كَذِبًا ﴿٥﴾ فَلَعَلَّكَ بَاخِعٌ نَّفْسَكَ عَلَىٰ آثَارِهِمْ إِن لَّمْ يُؤْمِنُوا بِهَـٰذَا الْحَدِيثِ أَسَفًا ﴿٦﴾ إِنَّا جَعَلْنَا مَا عَلَى الْأَرْضِ زِينَةً لَّهَا لِنَبْلُوَهُمْ أَيُّهُمْ أَحْسَنُ عَمَلًا ﴿٧﴾ وَإِنَّا لَجَاعِلُونَ مَا عَلَيْهَا صَعِيدًا جُرُزًا ﴿٨﴾ أَمْ حَسِبْتَ أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ كَانُوا مِنْ آيَاتِنَا عَجَبًا ﴿٩﴾ إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ فَقَالُوا رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا ﴿١٠﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ\nاَلْحَمْدُ لِلّٰهِ الَّذِیْۤ  اَنْزَلَ عَلٰی عَبْدِهِ الْكِتٰبَ وَلَمْ  یَجْعَلْ  لَّهٗ عِوَجًا ؕ﴿ٜ۱﴾قَیِّمًا  لِّیُنْذِرَ بَاْسًا شَدِیْدًا مِّنْ لَّدُنْهُ وَیُبَشِّرَ الْمُؤْمِنِیْنَ الَّذِیْنَ یَعْمَلُوْنَ الصّٰلِحٰتِ اَنَّ لَهُمْ اَجْرًا حَسَنًا ۙ﴿۲﴾ مَّاكِثِیْنَ فِیْهِ اَبَدًا ۙ﴿۳﴾ وَّیُنْذِرَ الَّذِیْنَ قَالُوا اتَّخَذَ اللّٰهُ وَلَدًا ٭﴿۴﴾ مَا لَهُمْ بِهٖ مِنْ عِلْمٍ وَّلَا لِاٰبَآئِهِمْ ؕ كَبُرَتْ كَلِمَةً  تَخْرُجُ مِنْ اَفْوَاهِهِمْ ؕ اِنْ یَّقُوْلُوْنَ اِلَّا كَذِبًا ﴿۵﴾ فَلَعَلَّكَ بَاخِعٌ نَّفْسَكَ عَلٰۤی اٰثَارِهِمْ اِنْ لَّمْ  یُؤْمِنُوْا بِهٰذَا  الْحَدِیْثِ اَسَفًا ﴿۶﴾ اِنَّا جَعَلْنَا مَا عَلَی الْاَرْضِ زِیْنَةً لَّهَا لِنَبْلُوَهُمْ  اَیُّهُمْ اَحْسَنُ عَمَلًا ﴿۷﴾وَ اِنَّا لَجٰعِلُوْنَ مَا عَلَیْهَا صَعِیْدًا جُرُزًا  ؕ﴿۸﴾اَمْ حَسِبْتَ اَنَّ اَصْحٰبَ الْكَهْفِ وَالرَّقِیْمِ ۙ كَانُوْا مِنْ اٰیٰتِنَا عَجَبًا ﴿۹﴾ اِذْ اَوَی الْفِتْیَةُ اِلَی الْكَهْفِ فَقَالُوْا رَبَّنَاۤ اٰتِنَا مِنْ لَّدُنْكَ رَحْمَةً وَّهَیِّئْ لَنَا مِنْ اَمْرِنَا رَشَدًا﴿۱۰﴾",
+        "clean": "بسم الله الرحمن الرحيمالحمد لله الذ  انزل عل عبده الكتب ولم  جعل  له عوجا قما  لنذر باسا شددا من لدنه وبشر المءمنن الذن عملون الصلحت ان لهم اجرا حسنا  ماكثن فه ابدا  ونذر الذن قالوا اتخذ الله ولدا  ما لهم به من علم ولا لاباءهم  كبرت كلمه  تخرج من افواههم  ان قولون الا كذبا  فلعلك باخع نفسك عل اثارهم ان لم  ءمنوا بهذا  الحدث اسفا  انا جعلنا ما عل الارض زنه لها لنبلوهم  اهم احسن عملا و انا لجعلون ما علها صعدا جرزا  ام حسبت ان اصحب الكهف والرقم  كانوا من اتنا عجبا  اذ او الفته ال الكهف فقالوا ربنا اتنا من لدنك رحمه وهء لنا من امرنا رشدا",
+        "transliteration": null,
+        "reference": "Muslim: 809",
+        "audio": 113,
+        "cat_id": 5,
+        "subcat_id": 13
+      },
+      "source": {
+        "name": "Protection from punishment of Dajjal",
+        "content": "Allah's Messenger (ﷺ) said:",
+        "translation": "(1) [All] praise is [due] to Allah, who has sent down upon His Servant the Book and has not made therein any deviance. (2) [He has made it] straight, to warn of severe punishment from Him and to give good tidings to the believers who do righteous deeds that they will have a good reward (3) In which they will remain forever (4) And to warn those who say, \" Allah has taken a son.\" (5) They have no knowledge of it, nor had their fathers. Grave is the word that comes out of their mouths; they speak not except a lie. (6) Then perhaps you would kill yourself through grief over them, [O Muhammad], if they do not believe in this message, [and] out of sorrow. (7) Indeed, We have made that which is on the earth adornment for it that We may test them [as to] which of them is best in deed. (8) And indeed, We will make that which is upon it [into] a barren ground. (9) Or have you thought that the companions of the cave and the inscription were, among Our signs, a wonder? (10) [Mention] when the youths retreated to the cave and said, \"Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance. (Sura Kahf: 1-10)",
+        "note": "The Prophet (ﷺ) said, \"If anyone learns by heart the first ten verses of the Surah al-Kahf, he will be protected from the Dajjal.\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "দাজ্জালের ফিতনা থেকে আত্মরক্ষার দোয়া",
+        "content": "রাসূলুল্লাহ্‌ (ﷺ) বলেন -",
+        "translation": "(১) সমস্ত প্রশংসা আল্লাহ্‌র, যিনি তাঁর বান্দার উপর কিতাব নাযিল করেছেন এবং তাতে রাখেননি কোন বক্রতা। (২) সরলরূপে, যাতে সে তাঁর পক্ষ থেকে কঠিন আযাব সম্পর্কে সতর্ক করে এবং সুসংবাদ দেয়, সেসব মুমিনকে, যারা সৎকর্ম করে, নিশ্চয় তাদের জন্য রয়েছে উত্তম প্রতিদান। (৩) তারা তাতে অনন্তকাল অবস্থান করবে। (৪) আর যেন সতর্ক করে তাদেরকে, যারা বলে, আল্লাহ্‌ সন্তান গ্রহণ করেছেন’। (৫) এ ব্যাপারে তাদের কোন জ্ঞান নেই এবং তাদের পিতৃপুরুষদেরও না। বড় মারাত্মক কথা, যা তাদের মুখ থেকে বের হয়। মিথ্যা ছাড়া তারা কিছুই বলে না! (৬) হয়তো তুমি তাদের পেছনে পেছনে ঘুরে দুঃখে নিজকে শেষ করে দেবে, যদি তারা এই কথার প্রতি ঈমান না আনে। (৭) নিশ্চয় যমীনের উপর যা রয়েছে, তা আমি শোভা করেছি তার জন্য, যাতে তাদেরকে পরীক্ষা করি যে, কর্মে তাদের মধ্যে কে উত্তম। (৮) আর নিশ্চয় তার উপর যা রয়েছে তাকে আমি উদ্ভিদহীন শুষ্ক মাটিতে পরিণত করব। (৯) তুমি কি মনে করেছো যে, গুহা ও রাকীমের অধিবাসীরা ছিল আমার আয়াতসমূহের এক বিস্ময়? (১০) যখন যুবকরা গুহায় আশ্রয় নিল অতঃপর বলল, ‘হে আমাদের রব, আমাদেরকে আপনার পক্ষ থেকে রহমত দিন এবং আমাদের জন্য আমাদের কর্মকান্ড সঠিক করে দিন’। (সূরা কাহফঃ ১-১০)",
+        "note": "রাসূল (ﷺ) বলেছেন, “যে ব্যক্তি সূরা কাহফ-এর প্রথম দশটি আয়াত মুখস্থ করবে সে দাজ্জাল থেকে সংরক্ষিত থাকবে।’’"
+      }
+    },
+    {
+      "key": [
+        114
+      ],
+      "id": 114,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 114,
+        "groups": null,
+        "uthmani": "أُعِيذُكُمَا [أَعُوْذُ] بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+        "indopak": "اُعِيْذُكُمَا [اَعُوْذُ] بِكَلِمَاتِ اللّٰهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَّهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَّامَّةٍ",
+        "clean": "اعيذكما اعوذ بكلمات الله التامه من كل شيطان وهامه ومن كل عين لامه",
+        "transliteration": "Oo-'idhukumaa (For self: A'ooudhu) bi kalimaat-illaahit-taammati min kulli shaytaanin wa haammah, wa min kulli ‛aynin laammah",
+        "reference": "Bukhari: 3371",
+        "audio": 114,
+        "cat_id": 5,
+        "subcat_id": 13
+      },
+      "source": {
+        "name": "Dua of custody from evil eye and disease",
+        "content": null,
+        "translation": "I commend you to the protection of Allah’s perfect words from every devil, vermin, and every evil eye.",
+        "note": "The Prophet (ﷺ) used to seek Refuge with Allah for Al-Hasan and Al-Husain and say: \"Your forefather (i.e. Abraham) used to seek Refuge with Allah for Ishmael and Isaac by reciting.\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "বদনজর ও রোগব্যাধি থেকে হিফাযতের দোয়া",
+        "translation": "আমি তোমাদেরকে আশ্রয়ে রাখছি (অথবা, আমি আশ্রয় গ্রহণ করছি) আল্লাহ্‌র পরিপূর্ণ কথাসমূহের, সকল শয়তান থেকে, সকল ক্ষতিকারক পোকামাকড় ও প্রাণি থেকে এবং সকল ক্ষতিকারক দৃষ্টি থেকে।",
+        "note": "রাসূলুল্লাহ্‌ (ﷺ) এ বাক্যগুলো দ্বারা হাসান (রাঃ) ও হুসাইন (রাঃ)- কে হেফাজত করাতেন। তিনি বলতেন, ইবরাহীম (আঃ) এ বাক্যদ্বারা তার দু সন্তান ইসমাঈল ও ইসহাককে (আঃ) হেফাজত করাতেন।"
+      }
+    },
+    {
+      "key": [
+        115
+      ],
+      "id": 115,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 115,
+        "groups": "[{\"id\": 115, \"name\": null, \"cat_id\": 6, \"subcat_id\": 14, \"content\": \"Alhamdu lillaah 33 times\", \"uthmani\": \"\\u0627\\u064e\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f \\u0644\\u0650\\u0644\\u0651\\u064e\\u0647\\u0650\", \"indopak\": \"\\u0627\\u064e\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f \\u0644\\u0650\\u0644\\u0651\\u0670\\u0647\\u0650\", \"clean\": \"\\u0627\\u0644\\u062d\\u0645\\u062f \\u0644\\u0644\\u0647\", \"transliteration\": \"Alhamdu lillaah\", \"translation\": \"All praise is for Allah.\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 115, \"name\": null, \"cat_id\": 6, \"subcat_id\": 14, \"content\": \"Allahu 'akbar 34 times\", \"uthmani\": \"\\u0627\\u064e\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0623\\u064e\\u0643\\u0652\\u0628\\u064e\\u0631\\u064f\", \"indopak\": \"\\u0627\\u064e\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0627\\u064e\\u0643\\u0652\\u0628\\u064e\\u0631\\u064f\", \"clean\": \"\\u0627\\u0644\\u0644\\u0647 \\u0627\\u0643\\u0628\\u0631\", \"transliteration\": \"Allahu 'akbar\", \"translation\": \"Allah is the greatest.\", \"note\": \"The Prophet (\\ufdfa) said to Ali (RA) and Fatima (RA): \\u201cShall I not tell you something that will be better for you than a servant? When you go to bed, the two of you say: (the dua is mentioned above)\", \"reference\": \"Al-Bukhari, Fathul Bari 7/71 no. 3705, Muslim 4/2091 no. 2726\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "سُبْحَانَ اللَّهِ",
+        "indopak": "سُبْحَانَ اللّٰهِ",
+        "clean": "سبحان الله",
+        "transliteration": "SubhaanAllah",
+        "reference": null,
+        "audio": 115,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "One hundred times (Tasbih)",
+        "content": "Subhanallah 33 times",
+        "translation": "How Perfect Allah is.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "একশতবার তাসবীহ পাঠ",
+        "content": "৩৩ বার সুবহানাল্লাহ",
+        "translation": "আল্লাহ্‌র পবিত্রতা ঘোষণা করছি।"
+      },
+      "group_items": [
+        {
+          "group": 0,
+          "key": "content",
+          "source": "Alhamdu lillaah 33 times",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "translation",
+          "source": "All praise is for Allah.",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "content",
+          "source": "Allahu 'akbar 34 times",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "translation",
+          "source": "Allah is the greatest.",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "note",
+          "source": "The Prophet (ﷺ) said to Ali (RA) and Fatima (RA): “Shall I not tell you something that will be better for you than a servant? When you go to bed, the two of you say: (the dua is mentioned above)",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        116
+      ],
+      "id": 116,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 116,
+        "groups": null,
+        "uthmani": "اَللَّهُ لَآ إِلٰهَ إِلَّا هُوَ الْحَىُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى السَّمٰوٰتِ وَمَا فِى الْأَرْضِ ۗ مَنْ ذَا الَّذِى يَشْفَعُ عِنْدَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمٰوٰتِ وَالْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ الْعَلِىُّ الْعَظِيمُ",
+        "indopak": "اَللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ ۚ اَلْحَیُّ الْقَیُّوْمُ  ۚ لَا تَاْخُذُهٗ سِنَةٌ وَّلَا نَوْمٌ  ؕ لَهٗ مَا فِی السَّمٰوٰتِ وَمَا فِی الْاَرْضِ ؕ مَنْ ذَا الَّذِیْ یَشْفَعُ عِنْدَهٗۤ  اِلَّا بِاِذْنِهٖ ؕ یَعْلَمُ مَابَیْنَ اَیْدِیْهِمْ وَمَا خَلْفَهُمْ  ۚ وَلَا یُحِیْطُوْنَ بِشَیْءٍ مِّنْ عِلْمِهٖۤ اِلَّا بِمَا شَآءَ  ۚ وَسِعَ كُرْسِیُّهُ السَّمٰوٰتِ وَالْاَرْضَ ۚ وَلَا یَئُوْدُهٗ حِفْظُهُمَا ۚ وَهُوَ الْعَلِیُّ الْعَظِیْمُ ﴿۲۵۵﴾",
+        "clean": "الله لا اله الا هو  الح القوم   لا تاخذه سنه ولا نوم   له ما ف السموت وما ف الارض  من ذا الذ شفع عنده  الا باذنه  علم مابن ادهم وما خلفهم   ولا حطون بشء من علمه الا بما شاء   وسع كرسه السموت والارض  ولا ءوده حفظهما  وهو العل العظم ",
+        "transliteration": "Allahu laa 'ilaaha 'illaa Huwal-Hayyul-Qayyoom, laa ta'khudhuhu sinatun wa laa nawm, lahu maa fis-samaawaati wa maa fil-'ardh, man dhal-ladhee yashfa'u 'indahu 'illaa bi'idh nih, ya'lamu maa bayna 'aydeehim wa maa khalfahum, wa laa yuheetoona bishay'im-min 'ilmihi 'illaa bimaa shaa'a, wasi'a kursiyyuhus-samaawaati wal'ardh, wa laa ya'ooduhu hifdhuhumaa, wa Huwal-'Aliyyul- 'Adheem",
+        "reference": "Al-Bukhari, Fathul Bari 4/487, no. 2311",
+        "audio": 116,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Ayatul Kursi",
+        "content": null,
+        "translation": "Allah! There is none worthy of worship but He, the Ever Living, the One Who sustains and protects all that exists. Neither slumber nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them in this world, and what will happen to them in the Hereafter. And they will never compass anything of His Knowledge except that which He wills. His Throne extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great. (Sura Baqarah 2:255)",
+        "note": "Whoever reads Ayatul Kursi when he lies down to sleep will have a guardian from Allah remain with him and Satan will not be able to come near him until he rises in the morning."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "আয়াতুল কুরসী",
+        "translation": "মহান আল্লাহ্‌, তিনি ছাড়া সত্যিকারের কোন প্রকৃত উপাস্য নেই, তিনি চিরঞ্জীব, সর্বদা রক্ষণাবেক্ষণকারী। তাঁকে তন্দ্রা ও নিদ্রা স্পর্শ করে না। আকাশমণ্ডলে ও ভূমণ্ডলে যা কিছু আছে, তাঁরই। কে সেই ব্যক্তি যে তাঁর অনুমতি ছাড়া তাঁর নিকট সুপারিশ করে? তিনি লোকদের সমুদয় প্রকাশ্য ও অপ্রকাশ্য অবস্থা জানেন। পক্ষান্তরে মানুষ তাঁর জ্ঞানের কোনকিছুই আয়ত্ত করতে সক্ষম নয়, তিনি যে পরিমাণ ইচ্ছা করেন সেটুকু ছাড়া। তাঁর কুরসী আকাশ ও পৃথিবী পরিবেষ্টন করে আছে এবং এ দু’য়ের রক্ষণাবেক্ষণ তাঁকে ক্লান্ত করে না। তিনি উচ্চ মর্যাদাশীল, মহান। (সূরা বাকারা ২ঃ ২৫৫)",
+        "note": "রাসূলুল্লাহ্‌ (ﷺ) বলেন: “যে কেউ যখন রাতে আপন বিছানায় যাবে এবং ‘আয়াতুল কুরসী’ পড়বে, তখন সে রাতের পুরো সময় আল্লাহ্‌র পক্ষ থেকে তার জন্য হেফাযতকারী থাকবে; আর সকাল হওয়া পর্যন্ত শয়তান তার নিকটেও আসতে পারবে না।”"
+      }
+    },
     {
       "key": [
         117
@@ -38,6 +219,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "সূরা বাকারার শেষ দু আয়াত",
+        "translation": "(২৮৫) রাসূল তার নিকট তার রবের পক্ষ থেকে নাযিলকৃত বিষয়ের প্রতি ঈমান এনেছে, আর মুমিনগণও। প্রত্যেকে ঈমান এনেছে আল্লাহ্‌র উপর, তাঁর ফেরেশতাকুল, কিতাবসমূহ ও তাঁর রাসূলগণের উপর, আমরা তাঁর রাসূলগণের কারও মধ্যে তারতম্য করি না। আর তারা বলে, আমরা শুনলাম এবং মানলাম। হে আমাদের রব! আমরা আপনারই ক্ষমা প্রার্থনা করি, আর আপনার দিকেই প্রত্যাবর্তনস্থল। (২৮৬) আল্লাহ্‌ কোন ব্যক্তিকে তার সামর্থ্যের বাইরে দায়িত্ব দেন না। সে যা অর্জন করে তা তার জন্যই এবং সে যা কামাই করে তা তার উপরই বর্তাবে। হে আমাদের রব! আমরা যদি ভুলে যাই, অথবা ভুল করি তাহলে আপনি আমাদেরকে পাকড়াও করবেন না। হে আমাদের রব, আমাদের উপর বোঝা চাপিয়ে দেবেন না, যেমন আমাদের পূর্ববর্তীদের উপর চাপিয়ে দিয়েছেন। হে আমাদের রব, আপনি আমাদেরকে এমন কিছু বহন করাবেন না, যার সামর্থ্য আমাদের নেই। আর আপনি আমাদেরকে মার্জনা করুন এবং আমাদেরকে ক্ষমা করুন, আর আমাদের উপর দয়া করুন। আপনি আমাদের অভিভাবক। অতএব আপনি কাফির সম্প্রদায়ের বিরুদ্ধে আমাদেরকে সাহায্য করুন। (সূরা বাকারা ২ঃ ২৮৫-২৮৬)",
+        "note": "রাসূলুল্লাহ্‌ (ﷺ) বলেন: যে ব্যক্তি রাতের বেলা সূরা বাকারার শেষ দুটি আয়াত পড়বে, তা তার জন্য যথেষ্ট হবে।"
       }
     },
     {
@@ -70,6 +256,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "সূরা কাফিরূন",
+        "translation": "(১) বল, ‘হে কাফিররা, (২) তোমরা যার ‘ইবাদাত করো আমি তার ‘ইবাদাত করি না’। (৩) এবং আমি যার ‘ইবাদাত করি তোমরা তার ‘ইবাদাতকারী নও’। (৪) ‘আর তোমরা যার ‘ইবাদত করছ আমি তার ‘ইবাদাতকারী হব না’। (৫) ‘আর আমি যার ‘ইবাদাত করি তোমরা তার ‘ইবাদাতকারী হবে না’। (৬) ‘তোমাদের জন্য তোমাদের দীন আর আমার জন্য আমার দীন।’ (সূরা কাফিরুন ১০৯ঃ ১-৬)",
+        "note": "নাওফাল আল-আশজায়ী (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) আমাকে বলেছেন, তুমি সূরা কাফিরূন পড়ে ঘুমাবে, এ হচ্ছে তোমার শিরক থেকে বিমুক্তি।"
       }
     },
     {
@@ -102,6 +293,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "সূরা ইখলাস",
+        "translation": "(১) বল, তিনিই আল্লাহ্‌, এক-অদ্বিতীয়। (২) আল্লাহ্‌ কারো মুখাপেক্ষী নন, সকলেই তাঁর মুখাপেক্ষী। (৩) তিনি কাউকে জন্ম দেননি এবং তাঁকেও জন্ম দেয়া হয়নি। (৪) আর তাঁর কোন সমকক্ষও নেই। (সূরা ইখলাস ১১২ঃ ১-৪)",
+        "note": "নবীজী (ﷺ) তাঁর সাহাবীগণকে বললেন: তোমরা কি পারবে না রাতে কুরআনের এক-তৃতীয়াংশ তিলাওয়াত করতে? বিষয়টি তাদের কাছে কষ্টকর মনে হলো। তাঁরা বললেন: হে আল্লাহ্‌র রাসূল (ﷺ), আমাদের মধ্যে কে-ই বা তা পারবে? তখন তিনি বলেন: \"ক্বুল হুআল্লাহু আহাদ\" সূরাটি কুরআনের এক তৃতীয়াংশ।"
       }
     },
     {
@@ -134,327 +330,44 @@
         "content": "",
         "translation": "",
         "note": null
-      }
-    },
-    {
-      "key": [
-        121
-      ],
-      "id": 121,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 121,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "[1] Sahih (Albani). Tirmidhi: 3404\n[2] Sahih (Albani). Tirmidhi: 2920",
-        "audio": null,
-        "cat_id": 6,
-        "subcat_id": 14
       },
-      "source": {
-        "name": "Surah to be recited before going to sleep",
-        "content": "Jabir (RA) said, Rasulullah (ﷺ) would not sleep without reciting Surah Sajdah and Surah Mulk. [1]\n\nAyesha (RA) said, \"The Messenger of Allah (ﷺ), would not sleep without reciting Surah Bani Isra'il and Surah Zumar.\" In another hadith, Ayesha (RA) said that the Prophet (ﷺ) used to recite Surah Sajdah and Surah Zumar every night. [2]",
-        "translation": null,
-        "note": null
+      "reference_bn": {
+        "name": "সূরা ইখলাস, ফালাক ও নাস",
+        "content": "সূরা ইখলাস ৩ বার  -",
+        "translation": "(১) বল, তিনিই আল্লাহ্‌, এক-অদ্বিতীয়। (২) আল্লাহ্‌ কারো মুখাপেক্ষী নন, সকলেই তাঁর মুখাপেক্ষী। (৩) তিনি কাউকে জন্ম দেননি এবং তাঁকেও জন্ম দেয়া হয়নি। (৪) আর তাঁর কোন সমকক্ষও নেই। (সূরা ইখলাস ১১২ঃ ১-৪)"
       },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        122
-      ],
-      "id": 122,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 122,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ بِاسْمِكَ أَمُوْتُ وَأَحْيَا",
-        "indopak": "اَللّٰهُمَّ بِاسْمِكَ اَمُوْتُ وَاَحْيَا",
-        "clean": "اللهم باسمك اموت واحيا",
-        "transliteration": "Allaahumma bismika amutu wa a'h-yaa",
-        "reference": "Bukhari: 6314",
-        "audio": null,
-        "cat_id": 6,
-        "subcat_id": 14
-      },
-      "source": {
-        "name": "Dua and remembrance before sleeping #1",
-        "content": "Narrated by Hudhaifa (RA): When the Prophet (ﷺ) went to bed at night, he would put his hand under his cheek and then say:",
-        "translation": "O Allah, in Your Name I die and I live.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        123
-      ],
-      "id": 123,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 123,
-        "groups": null,
-        "uthmani": "بِاسْمِكَ اَللَّهُمَّ أَمُوْتُ وَأَحْيَا",
-        "indopak": "بِاسْمِكَ اَللّٰهُمَّ اَمُوْتُ وَاَحْيَا",
-        "clean": "باسمك اللهم اموت واحيا",
-        "transliteration": "Bismika Allaahumma 'amootu wa 'ahyaa",
-        "reference": "Al-Bukhari, Fathul Bari 11/113 no. 6324, Muslim 4/2083 no. 2711",
-        "audio": null,
-        "cat_id": 6,
-        "subcat_id": 14
-      },
-      "source": {
-        "name": "Dua and remembrance before sleeping #2",
-        "content": null,
-        "translation": "In Your name O Allah, I live and die.",
-        "note": "Hudhayfah (RA) said, \"If the Messenger of Allah (ﷺ) intended to sleep, he would recite this dhikr.”"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        124
-      ],
-      "id": 124,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 124,
-        "groups": null,
-        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِى كَفَانِى وَآوَانِى وَأَطْعَمَنِى وَسَقَانِى وَالَّذِى مَنَّ عَلَىَّ فَأَفْضَلَ وَالَّذِى أَعْطَانِى فَأَجْزَلَ اَلْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ، اَللَّهُمَّ رَبَّ كُلِّ شَىْءٍ وَمَلِيْكَهُ وَإِلَهَ كُلِّ شَىْءٍ أَعُوْذُ بِكَ مِنَ النَّارِ",
-        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِىْ كَفَانِى وَاٰوَانِىْ وَاَطْعَمَنِىْ وَسَقَانِىْ وَالَّذِىْ مَنَّ عَلَىَّ فَاَفْضَلَ وَالَّذِىْ اَعْطَانِىْ فَاَجْزَلَ اَلْحَمْدُ لِلّٰهِ عَلٰى كُلِّ حَالٍ، اَللّٰهُمَّ رَبَّ كُلِّ شَىْءٍ وَّمَلِيْكَهُ وَاِلٰهَ كُلِّ شَىْءٍ اَعُوْذُ بِكَ مِنَ النَّارِ",
-        "clean": "الحمد لله الذي كفاني واواني واطعمني وسقاني والذي من علي فافضل والذي اعطاني فاجزل الحمد لله علي كل حال اللهم رب كل شيء ومليكه واله كل شيء اعوذ بك من النار",
-        "transliteration": "Alhamdu lillaahil-ladhi kafaani wa aa'wani wa at'amani wa saqaani wal-ladhi manna alayya fa-afdala wal-ladhi a'taani fa-ajzala alhamdu-lillaahi alaa kulli hal, Allaahumma rabba kulli shayin wa malikahu wa ilaaha kulli shayin A‛oodhu bika minan naar",
-        "reference": "Sahih (Albani). Abu Dawud: 5058",
-        "audio": null,
-        "cat_id": 6,
-        "subcat_id": 14
-      },
-      "source": {
-        "name": "Dua and remembrance before sleeping #3",
-        "content": "Narrated Abdullah ibn Umar (RA): When the Messenger of Allah (ﷺ) went to his bed, he would say:",
-        "translation": "Praise be to Allah Who has given me sufficiency, has guarded me, given me food and drink, been most gracious to me, and given to me most lavishly. Praise be to Allah in every circumstance. O Allah! Lord and King of everything, God of everything, I seek refuge in Thee from Hell.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        125
-      ],
-      "id": 125,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 125,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنَّكَ خَلَقْتَ نَفْسِي وَأَنْتَ تَوَفَّاهَا، لَكَ مَمَاتُهَا وَمَحْيَاهَا، إِنْ أَحْيَيْتَهَا فَاحْفَظْهَا، وَإِنْ أَمَتَّهَا فَاغْفِرْ لَهَا، اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ",
-        "indopak": "اَللّٰهُمَّ اِنَّكَ خَلَقْتَ نَفْسِيْ وَاَنْتَ تَوَفَّاهَا، لَكَ مَمَاتُهَا وَمَحْيَاهَا، اِنْ اَحْيَيْتَهَا فَاحْفَظْهَا، وَاِنْ اَمَتَّهَا فَاغْفِرْ لَهَا، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ الْعَافِيَةَ",
-        "clean": "اللهم انك خلقت نفسي وانت توفاها لك مماتها ومحياها ان احييتها فاحفظها وان امتها فاغفر لها اللهم اني اسالك العافيه",
-        "transliteration": "Allaahumma 'innaka khalaqta nafsee wa 'Anta tawaffaahaa, laka mamaatuhaa wa mahyaahaa, 'in 'ahyaytahaa fa’hfadhhaa, wa 'in 'amattahaa faghfir lahaa. Allaahumma 'innee 'as'alukal-'aafiyah",
-        "reference": "Muslim: 2712",
-        "audio": null,
-        "cat_id": 6,
-        "subcat_id": 14
-      },
-      "source": {
-        "name": "Dua and remembrance before sleeping #4",
-        "content": null,
-        "translation": "O Allah, verily You have created my soul and You shall take it's life, to You belong it's life and death. If You keep my soul alive then protect it, and if You take it's life then forgive it. O Allah, I ask You to grant me good health.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        126
-      ],
-      "id": 126,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 126,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ أَنْتَ الْأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَأَنْتَ الْآخِرُ فَلَيسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ",
-        "indopak": "اَللّٰهُمَّ اَنْتَ الْاَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَاَنْتَ الْاٰخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَاَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَاَنْتَ الْبَاطِنُ فَلَيْسَ دُوْنَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَاَغْنِنَا مِنَ الْفَقْرِ",
-        "clean": "اللهم انت الاول فليس قبلك شيء وانت الاخر فليس بعدك شيء وانت الظاهر فليس فوقك شيء وانت الباطن فليس دونك شيء اقض عنا الدين واغننا من الفقر",
-        "transliteration": "Allaahumma 'Antal-'Awwalu falaysa qablaka shay'un, wa 'Antal-'Aakhiru falaysa ba'daka shay'un, wa 'Antadh-Dhaahiru falaysa fawqaka shay'un, wa 'Antal-Baatinu falaysa doonaka shay'un, iqdhi 'annad-dayna wa 'aghninaa minal-faqr",
-        "reference": "Muslim: 2713",
-        "audio": null,
-        "cat_id": 6,
-        "subcat_id": 14
-      },
-      "source": {
-        "name": "Dua and remembrance before sleeping #5",
-        "content": null,
-        "translation": "O Allah You are the First and nothing has come before you, and You are the Last, and nothing may come after You. You are the Most High, nothing is above You and You are the Most Near and nothing is nearer than You. Remove our debts from us and enrich us against poverty.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        127
-      ],
-      "id": 127,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 127,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَرَبَّ الْأَرْضِ، وَرَبَّ الْعَرْشِ الْعَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَالْإِنْجِيلِ، وَالْفُرْقَانِ، أَعُوْذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ أَنْتَ آخِذٌ بِنَاصِيَتِهِ، اَللَّهُمَّ أَنْتَ الْأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَأَنْتَ الْآخِرُ فَلَيسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيْءٌ، اقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ",
-        "indopak": "اَللّٰهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَرَبَّ الْاَرْضِ، وَرَبَّ الْعَرْشِ الْعَظِيْمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوٰى، وَمُنْزِلَ التَّوْرَاةِ وَالْاِنْجِيْلِ، وَالْفُرْقَانِ، اَعُوْذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ اَنْتَ اٰخِذٌ بِنَاصِيَتِهٖ، اَللّٰهُمَّ اَنْتَ الْاَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَاَنْتَ الْاٰخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَاَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَاَنْتَ الْبَاطِنُ فَلَيْسَ دُوْنَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَاَغْنِنَا مِنَ الْفَقْرِ",
-        "clean": "اللهم رب السموات السبع ورب الارض ورب العرش العظيم ربنا ورب كل شيء فالق الحب والنوي ومنزل التوراه والانجيل والفرقان اعوذ بك من شر كل شيء انت اخذ بناصيته اللهم انت الاول فليس قبلك شيء وانت الاخر فليس بعدك شيء وانت الظاهر فليس فوقك شيء وانت الباطن فليس دونك شيء اقض عنا الدين واغننا من الفقر",
-        "transliteration": "Allaahumma Rabbas-samaawaatis-sab'i wa Rabbal ard, wa Rabbal-'Arshil-'Adheem, Rabbanaa wa Rabba kulli shay 'in, faaliqal-habbi wannawaa, wa munzilat-Tawraati wal-'Injeeli, wal-Furqaan, 'a'oodhu bika min sharri kulli shay 'in 'Anta 'aakhidhun binaasiyatihi. Allaahumma 'Antal-'Awwalu falaysa qablaka shay'un, wa 'Antal-'Aakhiru falaysa ba'daka shay'un, wa 'Antadh-Dhaahiru falaysa fawqaka shay'un, wa 'Antal-Baatinu falaysa doonaka shay'un, iqdhi 'annad-dayna wa 'aghninaa minal-faqr",
-        "reference": "Muslim: 2713, Sahih (Albani). Tirmidhi: 3481",
-        "audio": null,
-        "cat_id": 6,
-        "subcat_id": 14
-      },
-      "source": {
-        "name": "Dua and remembrance before sleeping #6",
-        "content": null,
-        "translation": "O Allah, Lord of the seven heavens and the Lord of the Earth and Lord of the Magnificent Throne, our Lord and Lord of all things, Splitter of the seed and the date stone, Revealer of the Towraat, the Injeel and the Furqaan, I take refuge in You from the evil of all things You shall seize by the forelock. O Allah, You are The First so there is nothing before You and You are The Last so there is nothing after You. You are ath-Dhaahir so there is nothing above You and You are al-Baatin so there is nothing closer than You. Settle our debt for us and spare us from poverty.",
-        "note": "Abu Huraira (RA) reported that Allah's Messenger (ﷺ) used to command us that as we go to our bed, we should utter the words (as mentioned above). In another narration, he said that when Fatima (RA)  asked him for a khadima, he then taught the dua."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        128
-      ],
-      "id": 128,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 128,
-        "groups": null,
-        "uthmani": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ (التَّامَّاتِ) مِنْ غَضَبِهِ وَعِقَابِهِ وَ(مِنْ) شَرِّ عِبَادِهِ وَمِنْ هَمَزَاتِ الشَّيَاطِيْنِ وَأَنْ يَحْضُرُوْنِ",
-        "indopak": "اَعُوْذُ بِكَلِمَاتِ اللّٰهِ التَّامَّةِ (التَّامَّاتِ) مِنْ غَضَبِهٖ وَعِقَابِهٖ وَ(مِنْ) شَرِّ عِبَادِهٖ وَمِنْ هَمَزَاتِ الشَّيَاطِيْنِ وَاَنْ يَّحْضُرُوْنِ",
-        "clean": "اعوذ بكلمات الله التامه التامات من غضبه وعقابه ومن شر عباده ومن همزات الشياطين وان يحضرون",
-        "transliteration": "A'oodhu bikalimaatil-laahit-taammaati min ghadhabihi wa 'iqaabihi, wa (min) sharri 'ibaadihi, wa min hamazaatish-shayaateeni wa 'an yahduroon",
-        "reference": "Hasan (Albani). Tirmidhi: 3528",
-        "audio": null,
-        "cat_id": 6,
-        "subcat_id": 14
-      },
-      "source": {
-        "name": "Dua and remembrance before sleeping #7",
-        "content": "The Messenger of Allah (ﷺ) said: “When one of you becomes frightened during sleep, then let him say:",
-        "translation": "I seek refuge in the Perfect Words of Allah from His anger and His punishment, from the evil of His slaves and from the taunts of devils and from their presence.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        129
-      ],
-      "id": 129,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 129,
-        "groups": null,
-        "uthmani": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهُ، فَإِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا، بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ",
-        "indopak": "بِاسْمِكَ رَبِّيْ وَضَعْتُ جَنْۢبِيْ، وَبِكَ اَرْفَعُهٗ، فَاِنْ اَمْسَكْتَ نَفْسِيْ فَارْحَمْهَا، وَاِنْ اَرْسَلْتَهَا فَاحْفَظْهَا، بِمَا تَحْفَظُ بِهٖ عِبَادَكَ الصَّالِحِيْنَ",
-        "clean": "باسمك ربي وضعت جنبي وبك ارفعه فان امسكت نفسي فارحمها وان ارسلتها فاحفظها بما تحفظ به عبادك الصالحين",
-        "transliteration": "Bismika Rabbee wada'tu janbee, wa bika 'arfa'uhu, fa'in 'amsakta nafsee far’hamhaa, wa 'in 'arsaltahaa fa’hfadh haa, bimaa ta’hfadhu bihi 'ibaadakas-saaliheen",
-        "reference": "Al-Bukhari 11/126 no. 6320, Muslim 4/2084 no.2714",
-        "audio": null,
-        "cat_id": 6,
-        "subcat_id": 14
-      },
-      "source": {
-        "name": "Dua and remembrance before sleeping #8",
-        "content": null,
-        "translation": "In Your name my Lord, I lie down and in Your name I rise, so if You should take my soul then have mercy upon it, and if You should return my soul then protect it in the manner You do so with Your righteous servants.",
-        "note": "Narrated by Abu Huraira (RA): The Prophet (ﷺ) said, When anyone of you go to bed, he should shake out his bed with the inside of his waist sheet, for he does not know what has come on to it after him, and then he should say: (The dua is mentioned above)"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        130
-      ],
-      "id": 130,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 130,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
-        "indopak": "اَللّٰهُمَّ قِنِيْ عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
-        "clean": "اللهم قني عذابك يوم تبعث عبادك",
-        "transliteration": "Allaahumma qinee 'adhaabaka yawma tab'athu 'ibaadak",
-        "reference": "Sahih (Albani). At-Tirmizi: 3398",
-        "audio": null,
-        "cat_id": 6,
-        "subcat_id": 14
-      },
-      "source": {
-        "name": "Dua and remembrance before sleeping #9",
-        "content": "The Prophet (ﷺ) would place his right hand under his cheek when about to sleep and supplicate:",
-        "translation": "O Allah, protect me from Your punishment on the day Your servants are resurrected.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
+      "group_items": [
+        {
+          "group": 0,
+          "key": "content",
+          "source": "Sura Falaq three times:",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "translation",
+          "source": "(1) Say, \"I seek refuge in the Lord of daybreak (2) From the evil of that which He created (3) And from the evil of darkness when it settles (4) And from the evil of the blowers in knots (5) And from the evil of an envier when he envies.\" (Sura Falaq 113: 1-5)",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "content",
+          "source": "Sura Nas three times:",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "translation",
+          "source": "(1) Say, \"I seek refuge in the Lord of mankind, (2) The Sovereign of mankind. (3) The God of mankind, (4) From the evil of the retreating whisperer - (5) Who whispers [evil] into the breasts of mankind - (6) From among the jinn and mankind.\" (Sura Nas 114: 1-6)",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "note",
+          "source": "Narrated 'Aisha (RA): Whenever the Prophet (ﷺ) went to bed every night, he used to cup his hands together and blow over it after reciting Surat Al-Ikhlas, Surat Al-Falaq and Surat An-Nas, and then rub his hands over whatever parts of his body he was able to rub, starting with his head, face and front of his body. He used to do that three times.",
+          "target": ""
+        }
+      ]
     }
   ]
 }

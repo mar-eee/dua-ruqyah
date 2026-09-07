@@ -4,225 +4,70 @@
   "source_language": "en",
   "target_language": "TARGET",
   "status": "pending",
-  "rows": 20,
-  "id_range": "498-517",
-  "source_chars": 5452,
+  "rows": 15,
+  "id_range": "480-494",
+  "source_chars": 5646,
   "items": [
     {
       "key": [
-        498
+        480
       ],
-      "id": 498,
+      "id": 480,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 498,
+        "id": 480,
         "groups": null,
-        "uthmani": "بِسْمِ اللَّهِ",
-        "indopak": "بِسْمِ اللّٰهِ",
-        "clean": "بسم الله",
-        "transliteration": "Bismillaah",
-        "reference": "Tirmidhi 4/254, no. 1858",
-        "audio": 498,
-        "cat_id": 30,
-        "subcat_id": 92
+        "uthmani": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
+        "indopak": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ",
+        "clean": "السلام عليكم ورحمه الله وبركاته",
+        "transliteration": "As-salaamu 'alaykum wara'hmatullaahi wa barakaatuh",
+        "reference": "[1] Musnad Ahmad 1430\n[2] Sahih Bukhari (With Fathul Baari) 1/82\n[3] Sahih Bukhari (With Fathul Baari) 1/55",
+        "audio": 480,
+        "cat_id": 28,
+        "subcat_id": 88
       },
       "source": {
-        "name": "Dua before eating #1.1",
+        "name": "Spread of salutations",
         "content": null,
-        "translation": "In the Name of Allah.",
-        "note": "The Messenger of Allah (ﷺ) was eating with his six Companions when a desert Arab came and ate up the food in two mouthfuls. Messenger of Allah (ﷺ) said, \"Had he mentioned the Name of Allah, it would have sufficed for all of you.\" -(The dua is mentioned above)"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        499
-      ],
-      "id": 499,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 499,
-        "groups": null,
-        "uthmani": "بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ",
-        "indopak": "بِسْمِ اللّٰهِ اَوَّلَهٗ وَاٰخِرَهٗ",
-        "clean": "بسم الله اوله واخره",
-        "transliteration": "Bismillaahi 'awwalahu wa 'aakhirah",
-        "reference": "Sahih (Albani). Abu Dawud: 3767",
-        "audio": 499,
-        "cat_id": 30,
-        "subcat_id": 92
-      },
-      "source": {
-        "name": "Dua before eating #1.2",
-        "content": "And if he forgets to say 'Bismillaah', let him say -",
-        "translation": "In the name of Allah, in the beginning and in the end.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        500
-      ],
-      "id": 500,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 500,
-        "groups": null,
-        "uthmani": "بِسْمِ اللَّهِ فِي أَوَّلِهِ وَآخِرِهِ",
-        "indopak": "بِسْمِ اللّٰهِ فِيْ اَوَّلِهٖ وَاٰخِرِهٖ",
-        "clean": "بسم الله في اوله واخره",
-        "transliteration": "Bismillahi fi-awwalihi wa akhirihi",
-        "reference": "Sahih (Albani). Tirmidhi: 1858",
-        "audio": 500,
-        "cat_id": 30,
-        "subcat_id": 93
-      },
-      "source": {
-        "name": "If forget to mention the name of Allah in the beginning",
-        "content": null,
-        "translation": "In the name of Allah, in the beginning and in the end.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        501
-      ],
-      "id": 501,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 501,
-        "groups": null,
-        "uthmani": "اَلْحَمْدُ لِلَّهِ‎",
-        "indopak": "اَلْحَمْدُ لِلّٰهِ‎",
-        "clean": "الحمد لله",
-        "transliteration": "Al'hamdu lillaah",
-        "reference": "Muslim: 2734",
-        "audio": 501,
-        "cat_id": 30,
-        "subcat_id": 94
-      },
-      "source": {
-        "name": "Dua between eating and drinking",
-        "content": "Allah is pleased with the person who says between eating and drinking:",
-        "translation": "All praise is for Allah.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        502
-      ],
-      "id": 502,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 502,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Muslim: 2734",
-        "audio": null,
-        "cat_id": 30,
-        "subcat_id": 95
-      },
-      "source": {
-        "name": "The importance of the dua after finishing meal",
-        "content": "Narrated Anas: The Messenger of Allah (ﷺ), said, \"Allah must be pleased with the servant who praises Allah for eating or drinking and praises Him for drinking.\"",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        503
-      ],
-      "id": 503,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 503,
-        "groups": null,
-        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِيْ هَذَا وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
-        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ اَطْعَمَنِيْ هٰذَا وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِّنِّيْ وَلَا قُوَّةٍ",
-        "clean": "الحمد لله الذي اطعمني هذا ورزقنيه من غير حول مني ولا قوه",
-        "transliteration": "Alhamdu lillaahil-lathee 'at'amanee haathaa, wa razaqaneehi, min ghayri hawlin minnee wa laa quwwah",
-        "reference": "Hasan (Albani). Ibn Majah: 3285",
-        "audio": 503,
-        "cat_id": 30,
-        "subcat_id": 95
-      },
-      "source": {
-        "name": "Upon completing the meal",
-        "content": null,
-        "translation": "Praise is to Allah Who has given me this food and sustained me with it though I was unable to doit and powerless.",
-        "note": "The Prophet (ﷺ) said, \"If a person eats food and says these words, his previous sins will be forgiven.\""
+        "translation": "Peace be upon you, and the Mercy of Allah and His Blessings.",
+        "note": "By the One in Whose Hand is the soul of Muhammad, you will not enter Paradise until you believe, and you will not believe until you love one another. Shall I not tell you of something that will help you to achieve that? Spread (the greeting of) salaam amongst yourselves.` [1]\n\nThe person who can combine three things, can combines faith-\n1. Justice for oneself,\n2. Give salaam to everyone in the world, and\n3. Give charity despite having few wealth [2]\n\nOnce a man asked prophet (ﷺ) which deed is best in islam ? prophet (ﷺ) replied that, “To feed people and give salaam to the persons who are known or unknown to you. [3]"
       },
       "target": {
         "name": "",
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "সালামের প্রসার",
+        "translation": "আপনার উপর আল্লাহ্‌র শান্তি, রহমত ও বরকত বর্ষিত হোক",
+        "note": "রাসূলুল্লাহ্‌ (ﷺ) বলেন, “তোমরা ঈমানদার না হওয়া পর্যন্ত জান্নাতে প্রবেশ করতে পারবে না। আর তোমরা পরস্পরকে না ভালোবাসা পর্যন্ত মুমিন হতে পারবে না। আমি কি তোমাদের এমন কিছু শিখিয়ে দিবো না যা করলে তোমরা পরস্পরকে ভালোবাসবে? (তা হলো) তোমরা নিজেদের মধ্যে সালামের ব্যাপক প্রসার ঘটাও।” [১]\n\n“তিনটি জিনিস যে ব্যক্তি একত্রিত করতে পারবে সে ঈমান একত্রিত করল-\n১. নিজের ব্যাপারেও ইনসাফ করা, \n২. জগতের সকলকে সালাম দেওয়া, আর\n৩. অল্প সম্পদ থাকা সত্ত্বেও তা থেকে ব্যয় করা [২]\n\n‘আবদুল্লাহ ইবনে ‘আমর (রাঃ) থেকে বর্ণিত, এক ব্যক্তি নবী (ﷺ)-কে জিজ্ঞেস করলো, ইসলামের কোন কাজটি শ্রেষ্ঠ?\n\nনবী (ﷺ) বললেন, “তুমি খাবার খাওয়াবে এবং তোমার পরিচিত-অপরিচিত সকলকে সালাম দিবে।” [৩]"
       }
     },
     {
       "key": [
-        504
+        481
       ],
-      "id": 504,
+      "id": 481,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 504,
+        "id": 481,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ",
-        "indopak": "اَللّٰهُمَّ بَارِكْ لَنَا فِيْهِ وَزِدْنَا مِنْهُ",
-        "clean": "اللهم بارك لنا فيه وزدنا منه",
-        "transliteration": "Allaahumma baarik lanaa feehi wa zidnaa minhu",
-        "reference": "Hasan (Albani). Ibn Majah: 3322",
-        "audio": 504,
-        "cat_id": 30,
-        "subcat_id": 95
+        "uthmani": "وَعَلَيْكُمْ",
+        "indopak": "وَعَلَيْكُمْ",
+        "clean": "وعليكم",
+        "transliteration": "Wa 'alaykum",
+        "reference": "Bukhari: 6258",
+        "audio": 481,
+        "cat_id": 28,
+        "subcat_id": 88
       },
       "source": {
-        "name": "Dua after drinking Milk",
-        "content": "The Messenger of Allah (ﷺ) said, \"if anyone drinks milk, he will say:",
-        "translation": "O Allah, bless us in it and give us more of it.",
+        "name": "Returning a greeting to a kaafir",
+        "content": "When the people of the Book greet you, reply by saying:",
+        "translation": "And upon you",
         "note": null
       },
       "target": {
@@ -230,382 +75,454 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "অমুসলিম সালাম দিলে কীভাবে জবাব দিবে",
+        "content": "অমুসলিম ব্যক্তি সালাম দিলে তার উত্তরে বলতে হবে -",
+        "translation": "আর তোমাদেরও উপর"
       }
     },
     {
       "key": [
-        505
+        482
       ],
-      "id": 505,
+      "id": 482,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 505,
+        "id": 482,
         "groups": null,
-        "uthmani": "اَلْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ، غَيْرَ مَكْفِيٍّ وَلَا مُوَدَّعٍ، وَلَا مُسْتَغْنًى عَنْهُ رَبَّنَا",
-        "indopak": "اَلْحَمْدُ لِلّٰهِ حَمْدًا كَثِيْرًا طَيِّبًا مُّبَارَكًا فِيْهِ، غَيْرَ مَكْفِيٍّ وَّلَا مُوَدَّعٍ، وَلَا مُسْتَغْنًى عَنْهُ رَبَّنَا",
-        "clean": "الحمد لله حمدا كثيرا طيبا مباركا فيه غير مكفي ولا مودع ولا مستغني عنه ربنا",
-        "transliteration": "Alhamdu lillaahi hamdan katheeran tayyiban mubaarakan feehi, ghayra [makfiyyin wa laa] muwadda'in, wa laa mustaghnan 'anhu Rabbanaa",
-        "reference": "Bukhari: 5458, Sahih (Albani). Tirmidhi: 3456",
-        "audio": 505,
-        "cat_id": 30,
-        "subcat_id": 95
-      },
-      "source": {
-        "name": "Upon completing the meal #1",
-        "content": "The Prophet (ﷺ) used to say while lifting the Dastarkhan:",
-        "translation": "All praise is to Allah, praise in abundance, good and blessed. It cannot [be compensated for, nor can it] be left, nor can it be done without, our Lord.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        506
-      ],
-      "id": 506,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 506,
-        "groups": null,
-        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَ وَسَقَى وَسَوَّغَهُ وَجَعَلَ لَهُ مَخْرَجًا",
-        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ اَطْعَمَ وَسَقٰى وَسَوَّغَهٗ وَجَعَلَ لَهٗ مَخْرَجًا",
-        "clean": "الحمد لله الذي اطعم وسقي وسوغه وجعل له مخرجا",
-        "transliteration": "Alhamdu lillahilladhi at'ama wasaqa wasawwagahu waza'ala lahu makhrazaa",
-        "reference": "Sahih (Albani). Abu Dawood 3851",
-        "audio": 506,
-        "cat_id": 30,
-        "subcat_id": 95
-      },
-      "source": {
-        "name": "Upon completing the meal #2",
-        "content": "The Messenger of Allah (ﷺ), used to say after taking food or drink:",
-        "translation": "Praise be to Allah Who has given food and drink and made it easy to swallow, and provided an exit for it.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        507
-      ],
-      "id": 507,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 507,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ أَطْعِمْ مَنْ أَطْعَمَنِيْ وَاسْقِ مَنْ سَقَانِيْ (وَأَسْقِ مَنْ أَسْقَانِي)",
-        "indopak": "اَللّٰهُمَّ اَطْعِمْ مَنْ اَطْعَمَنِيْ وَاسْقِ مَنْ سَقَانِيْ (وَاَسْقِ مَنْ اَسْقَانِيْ)",
-        "clean": "اللهم اطعم من اطعمني واسق من سقاني واسق من اسقاني",
-        "transliteration": "Allaahumma 'at'im man 'at'amanee wasqi man saqaanee (in another narration: wa asqee man asqaani)",
-        "reference": "Muslim: 2055",
-        "audio": 507,
-        "cat_id": 30,
-        "subcat_id": 96
-      },
-      "source": {
-        "name": "Dua by the guest for the host #1",
-        "content": "Once the Prophet (ﷺ) after drinking something in the house of one of the Companions, said -",
-        "translation": "O Allah, feed the one who has fed me and drink to the one who has given me drink.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        508
-      ],
-      "id": 508,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 508,
-        "groups": null,
-        "uthmani": "أَفْطَرَ عِنْدَكُمُ الصَّائِمُوْنَ، وَأَكَلَ طَعَامَكُمُ الْأَبْرَارُ وَصَلَّتْ عَلَيْكُمُ الْمَلَائِكَةُ",
-        "indopak": "اَفْطَرَ عِنْدَكُمُ الصَّائِمُوْنَ، وَاَكَلَ طَعَامَكُمُ الْاَبْرَارُ وَصَلَّتْ عَلَيْكُمُ الْمَلَائِكَةُ",
-        "clean": "افطر عندكم الصاءمون واكل طعامكم الابرار وصلت عليكم الملاءكه",
-        "transliteration": "Aftara 'indakumus-saa'imoon, wa 'akala ta'aamakumul-'abraar, wa sallat 'alaykumul-malaa'ikah",
-        "reference": "Sahih (Albani). Abu Dawud: 3854",
-        "audio": 508,
-        "cat_id": 30,
-        "subcat_id": 96
-      },
-      "source": {
-        "name": "Dua by the guest for the host #2",
-        "content": null,
-        "translation": "With you, those who are fasting have broken their fast, those who are righteous shall fed by you, and the angels recite their prayers upon you.",
-        "note": "If someone breaks the fast of Rasulullah (ﷺ) or feeds any food other than fasting, he would say du'a for him by saying this - (The dua is mentioned above)"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        509
-      ],
-      "id": 509,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 509,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ بَارِكْ لَهُمْ فِي مَا رَزَقْتَهُمْ وَاغْفِرْ لَهُمْ وَارْحَمْهُمْ",
-        "indopak": "اَللّٰهُمَّ بَارِكْ لَهُمْ فِيْ مَا رَزَقْتَهُمْ وَاغْفِرْ لَهُمْ وَارْحَمْهُمْ",
-        "clean": "اللهم بارك لهم في ما رزقتهم واغفر لهم وارحمهم",
-        "transliteration": "Allaahumma baarik lahum feemaa razaqtahum, waghfir lahum warhamhum",
-        "reference": "Muslim: 2042",
-        "audio": 509,
-        "cat_id": 30,
-        "subcat_id": 96
-      },
-      "source": {
-        "name": "Dua by the guest for the host #3",
-        "content": null,
-        "translation": "O Allah, bless them in what You have provided for them, and forgive them and have mercy on them.",
-        "note": "Abdullah ibn Bishar said, \"The Messenger of Allah (ﷺ) came to my father's house.\" He offered some food. He took some food from it. My father wants to pray for him. Then he said these words- (The dua is mentioned above)"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        510
-      ],
-      "id": 510,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 510,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Bukhari: 3303",
-        "audio": null,
-        "cat_id": 31,
-        "subcat_id": 97
-      },
-      "source": {
-        "name": "When the rooster crows and the donkey cries",
-        "content": "Narrated by Abu Huraira (RA): The Prophet (ﷺ) said, \"When you hear the crowing of cocks, ask for Allah's Blessings for (their crowing indicates that) they have seen an angel. And when you hear the braying of donkeys, seek refuge with Allah from Satan for (their braying indicates) that they have seen a Satan.",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        511
-      ],
-      "id": 511,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 511,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Silsila Sahiha: 1518, Bukhari: 3304",
-        "audio": null,
-        "cat_id": 31,
-        "subcat_id": 97
-      },
-      "source": {
-        "name": "Upon hearing a donkey bray or dogs barking #1",
-        "content": "The Prophet (ﷺ) said, When people stop moving, get out (of the house) less, because Allah scatters whom He wills in His creation at night. Close the door by remembering the name of Allah, because the door that is closed by remembering the name of Allah, Satan cannot open it. Then cover the pot, turn the (empty) pot upside down and close the mouth of the water bag.",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        512
-      ],
-      "id": 512,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 512,
-        "groups": null,
-        "uthmani": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيـمِ",
+        "uthmani": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
         "indopak": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
         "clean": "اعوذ بالله من الشيطان الرجيم",
         "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
-        "reference": "[1] Bukhari: 3303\n[2] Sahih (Albani). Abu Dawud: 5103",
-        "audio": 512,
-        "cat_id": 31,
-        "subcat_id": 97
+        "reference": "Bukhari: 3282",
+        "audio": 482,
+        "cat_id": 28,
+        "subcat_id": 89
       },
       "source": {
-        "name": "Upon hearing a donkey bray or dogs barking #2",
+        "name": "Blessings of anger control",
         "content": null,
         "translation": "I seek refuge in Allah from Satan the outcast.",
-        "note": "The Prophet (ﷺ) said, \"When you hear the crowing of cocks, ask for Allah's Blessings for (their crowing indicates that) they have seen an angel. And when you hear the braying of donkeys, seek Refuge with Allah from Satan for (their braying indicates) that they have seen a Satan.\" [1]\n\nWhen you hear the donkeys of dogs and the braying of asses at night, seek refuge in Allah, for they see which you do not see. [2]"
+        "note": "Sulaiman ibn Surad (RA) said: The Messenger of Allah (ﷺ) said: Saying these words will remove the anger of the angry person.\n\nWe have seen that suppressing anger and forgiving those who are angry is one of the ways to gain Allah's mercy. Therefore, when a believer feels anger, he should say this sentence again and again, looking at the meaning."
       },
       "target": {
         "name": "",
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "ক্রোধ নিয়ন্ত্রণের দোয়া",
+        "translation": "আমি আল্লাহ্‌র আশ্রয় গ্রহণ করছি বিতাড়িত শয়তান থেকে।",
+        "note": "সুলাইমান ইবনু সূরাদ (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, এ কথাগুলি বললে ক্রোধান্বিত ব্যক্তির ক্রোধ দূরীভূত হবে।\n\nআমরা দেখেছি, ক্রোধ দমন করা এবং যার উপরে রাগ হয়েছে তাকে ক্ষমা করা আল্লাহ্‌র রহমত লাভের অন্যতম পথ। কাজেই মুমিনের উচিত ক্রোধ অনুভব করলে অর্থের দিকে লক্ষ্য করে এ বাক্যটি বারবার বলা।"
       }
     },
     {
       "key": [
-        513
+        483
       ],
-      "id": 513,
+      "id": 483,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 513,
+        "id": 483,
         "groups": null,
-        "uthmani": "اَلْحَمْدُ لِلَّهِ، سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ، اَلْحَمْدُ لِلَّهِ، اَلْحَمْدُ لِلَّهِ، اَلْحَمْدُ لِلَّهِ، اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، (لَا إِلَهَ إِلَّا أَنْتَ) سُبْحَانَكَ، إِنِّي ظَلَمْتُ نَفْسِيْ فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوْبَ إِلَّا أَنْتَ",
-        "indopak": "اَلْحَمْدُ لِلّٰهِ، سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هٰذَا وَمَا كُنَّا لَهٗ مُقْرِنِيْنَ وَاِنَّا اِلٰى رَبِّنَا لَمُنْقَلِبُوْنَ، اَلْحَمْدُ لِلّٰهِ، اَلْحَمْدُ لِلّٰهِ، اَلْحَمْدُ لِلّٰهِ، اَللّٰهُ اَكْبَرُ، اَللّٰهُ اَكْبَرُ، اَللّٰهُ اَكْبَرُ، (لَا اِلٰهَ اِلَّا اَنْتَ) سُبْحَانَكَ، اِنِّيْ ظَلَمْتُ نَفْسِيْ فَاغْفِرْ لِيْ فَاِنَّهٗ لَا يَغْفِرُ الذُّنُوْبَ اِلَّا اَنْتَ",
-        "clean": "الحمد لله سبحان الذي سخر لنا هذا وما كنا له مقرنين وانا الي ربنا لمنقلبون الحمد لله الحمد لله الحمد لله الله اكبر الله اكبر الله اكبر لا اله الا انت سبحانك اني ظلمت نفسي فاغفر لي فانه لا يغفر الذنوب الا انت",
-        "transliteration": "Alhamdu lillaah. Subhaanal-ladhee sakhkhara lanaa haadhaa wa maa kunnaa lahu muqrineen. Wa 'innaa 'ilaa Rabbinaa lamunqaliboon. Alhamdu lillaah, alhamdu lillaah, alhamdu lillaah, Allahu 'Akbar, Allahu 'Akbar, Allahu 'Akbar, (laa ilaaha illaa 'Anta) subhaanaka 'innee dhalamtu nafsee faghfir lee, fa'innahu laa yaghfirudh-dhunooba 'illaa 'Anta",
-        "reference": "Sahih (Albani). Tirmidhi: 3446",
-        "audio": 513,
-        "cat_id": 31,
-        "subcat_id": 97
+        "uthmani": "اَللَّهُمَّ فَأَيُّمَا مُؤْمِنٍ سَبَبْتُهُ فَاجْعَلْ ذَلِكَ لَهُ قُرْبَةً إِلَيْكَ يَوْمَ الْقِيَامَةِ",
+        "indopak": "اَللّٰهُمَّ فَاَيُّمَا مُؤْمِنٍ سَبَبْتُهٗ فَاجْعَلْ ذٰلِكَ لَهٗ قُرْبَةً اِلَيْكَ يَوْمَ الْقِيَامَةِ",
+        "clean": "اللهم فايما مءمن سببته فاجعل ذلك له قربه اليك يوم القيامه",
+        "transliteration": "Allaahumma fa'ayyumaa mu'minin sababtuhu faj'al thaalika lahu qurbatan 'ilayka yawmal-qiyaamah",
+        "reference": "Bukhari: 6361",
+        "audio": 483,
+        "cat_id": 28,
+        "subcat_id": 89
       },
       "source": {
-        "name": "When mounting an animal or any means of transport",
-        "content": "Rasulullah (ﷺ) used to say Bismillah while boarding the ride, he said the rest of the dua after getting up:",
-        "translation": "Praise is to Allah. Glory is to Him Who has provided this for us though we could never have had it by our efforts. Surely, unto our Lord we are returning. Praise is to Allah.(3 times) Allah is the Most Great. (3 times) Glory is to You. O Allah, I have wronged my own soul. Forgive me, for surely none forgives sins but You.",
+        "name": "For one you have insulted",
+        "content": null,
+        "translation": "O Allah, whomever of the believers I have abused, give him the reward of a sacrificial slaughter for it on the Day of Resurrection.",
         "note": null
       },
       "target": {
         "name": "",
-        "content": "",
+        "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "কাউকে গালি দিলে/কটুবাক্য বললে তার জন্য দোয়া",
+        "translation": "হে আল্লাহ্‌, যে কোন মুমিন বান্দাকে আমি কটুবাক্য বলে থাকলে বা গালি দিয়ে থাকলে, তা তার জন্য কিয়ামতের দিন আপনার নৈকট্যের মাধ্যম করে দিন।"
       }
     },
     {
       "key": [
-        514
+        484
       ],
-      "id": 514,
+      "id": 484,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 514,
+        "id": 484,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ وَأَعُوْذُ بِكَ مِنْ شَرِّهَا وَمِنْ شَرِّ مَا جَبَلْتَهَا عَلَيْهِ",
-        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ خَيْرَهَا وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ وَاَعُوْذُ بِكَ مِنْ شَرِّهَا وَمِنْ شَرِّ مَا جَبَلْتَهَا عَلَيْهِ",
-        "clean": "اللهم اني اسالك خيرها وخير ما جبلتها عليه واعوذ بك من شرها ومن شر ما جبلتها عليه",
-        "transliteration": "Allaahumma 'innee 'as'aluka khayrahaa wa khayra maa jabaltahaa 'alayhi wa 'A'oodhu bika min sharrihaa wamin sharri maa jabaltahaa 'alayhi",
-        "reference": "Hasan (Albani). Abu Dawud: 2160",
-        "audio": 514,
-        "cat_id": 31,
-        "subcat_id": 97
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَا إِلَهَ إِلَّا اللَّهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، لَا إِلَهَ إِلَّا اللَّهُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَاللّٰهُ اَكْبَرُ، لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ، لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَا اِلٰهَ اِلَّا اللّٰهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، لَا اِلٰهَ اِلَّا اللّٰهُ وَلَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ",
+        "clean": "لا اله الا الله والله اكبر لا اله الا الله وحده لا اله الا الله وحده لا شريك له لا اله الا الله له الملك وله الحمد لا اله الا الله ولا حول ولا قوه الا بالله",
+        "transliteration": "Laa 'ilaaha 'illAllahu wAllahu 'Akbar, laa 'ilaaha 'illAllahu wahdahu, laa 'ilaaha 'illAllahu wahdahu laa shareeka lahu, laa 'ilaaha 'illAllahu lahul-mulku wa lahul-hamdu, laa 'ilaaha 'illAllahu wa laa hawla wa laa quwwata 'illaa billaah",
+        "reference": "Sahih (Albani). Tirmidhi: 3430",
+        "audio": 484,
+        "cat_id": 28,
+        "subcat_id": 89
       },
       "source": {
-        "name": "Dua when buying a riding animal or a car",
-        "content": "The messenger of Allah (ﷺ) said: If you buy a camel, then you should take hold of it’s hump and say:",
-        "translation": "O Allah, I ask You for the goodness of it and the goodness upon which You have created it, and I seek refuge in You from the evil of it and from the evil upon which You have created it.",
+        "name": "Dua for Allah's response and forgiveness",
+        "content": null,
+        "translation": "There is none worthy of worship but Allah, Allah is the Most Great. None has the right to be worshipped but Allah alone. None has the right to be worshipped but Allah alone, Who has no partner. There is none worthy of worship but Allah, His is the dominion and His is the praise. There is none worthy of worship but Allah, there is no power and no might but by Allah.",
+        "note": "Abu Saeed Khudri (RA) and Abu Hurairah (RA) said that the Messenger of Allah (ﷺ) said that when a servant says these words, Allah responds to him and if someone says these words while he is ill and then dies, the fire will not touch him."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "আল্লাহ্‌র সাড়া লাভ ও ক্ষমা লাভের দোয়া",
+        "translation": "আল্লাহ্‌ ছাড়া কোন প্রকৃত মাবুদ নেই এবং আল্লাহ্‌ সর্বশ্রেষ্ঠ। আল্লাহ্‌ ছাড়া কোন প্রকৃত মাবুদ নেই, তিনি একক। আল্লাহ্‌ ছাড়া কোন প্রকৃত মাবুদ নেই, তিনি একক, তার কোনো শরীক নেই। আল্লাহ্‌ ছাড়া কোন প্রকৃত মাবুদ নেই, রাজত্ব তারই এবং প্রশংসা তারই। আল্লাহ্‌ ছাড়া কোন প্রকৃত মাবুদ নেই কোনো অবলম্বন নেই, কোনো ক্ষমতা নেই আল্লাহ্‌র (সাহায্য) ছাড়া।",
+        "note": "আবু সাঈদ খুদরী (রাঃ) ও আবু হুরাইরা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেন, যখন কোনো বান্দা এ বাক্যগুলো বলে তখন আল্লাহ্‌ তাঁর ডাকে সাড়া দেন এবং যদি কেউ অসুস্থ অবস্থায় এ কথাগুলি বলে এরপর সে মৃত্যুরণ করে তবে আগুন তাকে স্পর্শ করবে না।"
+      }
+    },
+    {
+      "key": [
+        485
+      ],
+      "id": 485,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 485,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَبَّ جِبْرَائِيْلَ وَمِيْكَائِيْلَ وَإِسْرَافِيلَ فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ اهْدِنِيْ لِمَا اخْتُلِفَ فِيهِ مِنَ الْحَقِّ بِإِذْنِكَ إِنَّكَ تَهْدِيْ مَنْ تَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيْمٍ",
+        "indopak": "اَللّٰهُمَّ رَبَّ جِبْرَائِيْلَ وَمِيْكَائِيْلَ وَاِسْرَافِيْلَ فَاطِرَ السَّمَاوَاتِ وَالْاَرْضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ اَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيْمَا كَانُوْا فِيْهِ يَخْتَلِفُوْنَ اهْدِنِيْ لِمَا اخْتُلِفَ فِيْهِ مِنَ الْحَقِّ بِاِذْنِكَ اِنَّكَ تَهْدِيْ مَنْ تَشَآءُ اِلٰى صِرَاطٍ مُّسْتَقِيْمٍ",
+        "clean": "اللهم رب جبراءيل وميكاءيل واسرافيل فاطر السماوات والارض عالم الغيب والشهاده انت تحكم بين عبادك فيما كانوا فيه يختلفون اهدني لما اختلف فيه من الحق باذنك انك تهدي من تشاء الي صراط مستقيم",
+        "transliteration": "Allaahumma rabba jibra-eel, wameeka-eel, wa-israafeel faatiras-samawaati wal-ardi, AAalimal-ghaybi washshahaadah, anta tahkumu bayna ibaadika feemaa kanoo feehi yakhtalifoon ihdinee limakh-tulifa feehi minal-haqqi bi-idhnika, innaka tahdee man tashaa-o ilaa siraatin mustaqeem",
+        "reference": "Muslim: 770",
+        "audio": 485,
+        "cat_id": 28,
+        "subcat_id": 89
+      },
+      "source": {
+        "name": "Dua of researcher, mufti and truth seeker",
+        "content": null,
+        "translation": "O Allah, Lord of Jibra-eel, Meeka-eel and Israfeel (great angles), Creator of the heavens and the Earth, Knower of the seen and the unseen. You are the arbitrator between Your servants in that which they have disputed. Guide me to the truth by Your leave, in that which they have differed, for verily You guide whom You will to a straight path.",
+        "note": "Ayesha said, \"The Messenger of Allah (ﷺ), used to recite this du'a at the beginning of the night (tahajjud) prayer.\"\n\nIt should be noted that every researcher, scholar, mufti and truth-seeking believer should recite this dua more and more at the beginning of tahajjud, in prostration and at all other times. It is very important to seek guidance from Allah Almighty through this dua without relying entirely on one's own research, knowledge or anything else."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "গবেষক, মুফতী ও সত্যানুসন্ধানীর দোয়া",
+        "translation": "হে আল্লাহ্‌, জিবরাঈল, মিকাঈল ও ইসরাফীলের প্রভু, আসমানসমূহ ও পৃথিবীর স্রষ্টা, দৃশ্য ও অদৃশ্যের জ্ঞানী, আপনার বান্দারা যে সকল বিষয় নিয়ে মতভেদ করত তাদের মধ্যে সে বিষয়ে আপনিই ফয়সালা প্রদান করবেন। যে সকল বিষয়ে সত্য বা হক্ক নির্ধারণে মতভেদ হয়েছে সে সকল বিষয়ে আপনি আপনার অনুমতিতে আমাকে সঠিক পথে পরিচালিত করুন। আপনি যাকে ইচ্ছা করেন তাকে সিরাতুল মুস্তাকিমে পরিচালিত করেন।",
+        "note": "আয়েশা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) রাতের (তাহাজ্জুদের) সালাতের শুরুতে এ দোয়াটি পাঠ করতেন।\n\nউল্লেখ্য যে, প্রত্যেক গবেষক, আলিম, মুফতী ও সত্যসন্ধানী মুমিনের উচিত তাহাজ্জুদের শুরুতে, সিজদায় ও অন্যান্য সকল সময়ে এ দোয়াটি বেশি বেশি পাঠ করা। নিজের গবেষণা, ইলম বা অন্য কোনো কিছুর উপর পুরোপুরি নির্ভর না করে মহান আল্লাহ্‌র কাছে এ দোয়ার মাধ্যমে পথনির্দেশনা চাওয়া খুবই প্রয়োজন।"
+      }
+    },
+    {
+      "key": [
+        486
+      ],
+      "id": 486,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 486,
+        "groups": null,
+        "uthmani": "جَزَاكَ اللَّهُ خَيْرًا",
+        "indopak": "جَزَاكَ اللّٰهُ خَيْرًا",
+        "clean": "جزاك الله خيرا",
+        "transliteration": "JazaakAllahu khayran",
+        "reference": "Sahih (Albani). Tirmidhi: 2035",
+        "audio": 486,
+        "cat_id": 28,
+        "subcat_id": 89
+      },
+      "source": {
+        "name": "Expressing gratitude to the benefactor",
+        "content": null,
+        "translation": "May Allah reward you with good.",
+        "note": "We have seen that the believer never expects gratitude or recompense from anyone who benefits him. On the other hand, it is the duty of the beneficent believer to express gratitude to the benefactor, to praise him, to openly acknowledge his beneficence, and to pray for him. The Prophet (ﷺ) said: If someone does good to someone and he gives thanks to the benefactor by saying this, then it will be best appreciated."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "উপকারীর কৃতজ্ঞতা প্রকাশক দোয়া",
+        "translation": "আল্লাহ্‌ আপনাকে উত্তম প্রতিদান প্রদান করুন।",
+        "note": "আমরা দেখেছি যে, মুমিন কাউকে উপকার করলে কখনোই তার থেকে কৃতজ্ঞতা বা প্রতিদানের আশা করে না। পক্ষান্তরে উপকৃত মুমিনের দায়িত্ব, উপকারীর কৃতজ্ঞতা প্রকাশ করা, তার প্রশংসা করা, তার উপকারের কথা অকপটে স্বীকার করা এবং তার জন্য দোয়া করা। রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, কেউ কারো উপকার করলে সে যদি উপকারীকে এ কথা বলে কৃতজ্ঞতা জানায় তাহলে তা সর্বোত্তম প্রশংসা করা হবে।"
+      }
+    },
+    {
+      "key": [
+        487
+      ],
+      "id": 487,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 487,
+        "groups": "[{\"id\": 487, \"name\": null, \"cat_id\": 28, \"subcat_id\": 89, \"content\": \"...He replied:\", \"uthmani\": \"\\u0648\\u064e\\u0644\\u064e\\u0643\\u064e\", \"indopak\": \"\\u0648\\u064e\\u0644\\u064e\\u0643\\u064e\", \"clean\": \"\\u0648\\u0644\\u0643\", \"transliteration\": \"Walaka\", \"translation\": \"And you. [2]\", \"note\": null, \"reference\": \"[1] Sahih (Hussein Salim Asad). Musnad Abi Ya'la 3/131\\n[2] Sahih (Albani). Riyadus Salehin: 1852\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "غَفَرَ اللَّهُ لَكَ",
+        "indopak": "غَفَرَ اللّٰهُ لَكَ",
+        "clean": "غفر الله لك",
+        "transliteration": "GafarAllahu lak",
+        "reference": null,
+        "audio": 487,
+        "cat_id": 28,
+        "subcat_id": 89
+      },
+      "source": {
+        "name": "Returning a Dua of forgiveness",
+        "content": null,
+        "translation": "May Allah forgive you!",
+        "note": "Adbullaah Ibn Sarjis (RA) said: \"I went to see The Prophet (ﷺ) and ate from his food and then said to him [1]: (The Dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "কেউ যদি বলে, ‘আল্লাহ্‌ আপনাকে ক্ষমা করুন’, তার জন্য দোয়া",
+        "translation": "আল্লাহ্‌ আপনাকে ক্ষমা করুন!",
+        "note": "আব্দুল্লাহ ইবনে সারজিস (রাঃ) বলেন, \"আমি রাসূল (ﷺ) এর কাছে গেলাম আর তাঁর কাছ থেকে খাবার খেলাম\"। অতঃপর বললাম [১], (দোয়াটি উপরে উল্লেখিত হয়েছে)"
+      },
+      "group_items": [
+        {
+          "group": 0,
+          "key": "content",
+          "source": "...He replied:",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "translation",
+          "source": "And you. [2]",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        488
+      ],
+      "id": 488,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 488,
+        "groups": null,
+        "uthmani": "أَحَبَّكَ الَّذِي أَحْبَبْتَنِي لَهُ",
+        "indopak": "اَحَبَّكَ الَّذِيْ اَحْبَبْتَنِيْ لَهٗ",
+        "clean": "احبك الذي احببتني له",
+        "transliteration": "Ahabbakal-ladhee 'ahbabtanee lahu",
+        "reference": "Hasan (Albani). Abu Dawud: 5125",
+        "audio": 488,
+        "cat_id": 28,
+        "subcat_id": 89
+      },
+      "source": {
+        "name": "To one who pronounces his love for you, for Allah’s sake",
+        "content": null,
+        "translation": "May He for Whose sake you love me, love you.",
         "note": null
       },
       "target": {
         "name": "",
-        "content": "",
+        "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "যে ব্যক্তি বলবে, ‘আমি আপনাকে আল্লাহ্‌র জন্য ভালোবাসি’- তার জন্য দোয়া",
+        "translation": "যাঁর জন্য আপনি আমাকে ভালোবেসেছেন, তিনি আপনাকে ভালোবাসুন।"
       }
     },
     {
       "key": [
-        515
+        489
       ],
-      "id": 515,
+      "id": 489,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 515,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
-        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ مِنْ فَضْلِكَ",
-        "clean": "اللهم اني اسالك من فضلك",
-        "transliteration": "Allaahumma innee as’aluka min fadlik",
-        "reference": "Bukhari: 3303",
-        "audio": 515,
-        "cat_id": 31,
-        "subcat_id": 97
+        "id": 489,
+        "groups": "[{\"id\": 489, \"name\": null, \"cat_id\": 28, \"subcat_id\": 89, \"content\": \"..'Aaishah (RA) would then say:\", \"uthmani\": \"\\u0648\\u064e\\u0641\\u0650\\u064a\\u0647\\u0650\\u0645\\u0652 \\u0628\\u064e\\u0627\\u0631\\u064e\\u0643\\u064e \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f\", \"indopak\": \"\\u0648\\u064e\\u0641\\u0650\\u064a\\u0652\\u0647\\u0650\\u0645\\u0652 \\u0628\\u064e\\u0627\\u0631\\u064e\\u0643\\u064e \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f\", \"clean\": \"\\u0648\\u0641\\u064a\\u0647\\u0645 \\u0628\\u0627\\u0631\\u0643 \\u0627\\u0644\\u0644\\u0647\", \"transliteration\": \"Wa feehim baarakAllah\", \"translation\": \"And may Allah bless them.\", \"note\": \"[For a male]\\n\\n'Wa feeka barakAllah'\\n\\n[For a female]\\n\\n'Wa feeki barakAllah'\\r\\n\\n[For a group of people]\\n\\n'Wa feekum barakAllah'\", \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 489, \"name\": null, \"cat_id\": 28, \"subcat_id\": 89, \"content\": \"So we return their supplication in a similar way and our reward remains with us:\", \"uthmani\": \"\\u0648\\u064e\\u0641\\u0650\\u064a\\u0643\\u064e \\u0628\\u064e\\u0627\\u0631\\u064e\\u0643\\u064e \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f\", \"indopak\": \"\\u0648\\u064e\\u0641\\u0650\\u064a\\u0652\\u0643\\u064e \\u0628\\u064e\\u0627\\u0631\\u064e\\u0643\\u064e \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f\", \"clean\": \"\\u0648\\u0641\\u064a\\u0643 \\u0628\\u0627\\u0631\\u0643 \\u0627\\u0644\\u0644\\u0647\", \"transliteration\": \"Wa feeka baarakAllah\", \"translation\": \"And May Allah bless you\", \"note\": \"[For a male]\\n\\n'Wa feeka barakAllah'\\n\\n[For a female]\\n\\n'Wa feeki barakAllah'\\n\\n[For a group of people]\\n\\n'Wa feekum barakAllah'\", \"reference\": \"Zayid (Nasai). Amalul Yawm wal Laila: 303, Zayed (Albani). Kalema tvayyabah: 239\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "بَارَكَ اللَّهُ فِيكُمْ",
+        "indopak": "بَارَكَ اللّٰهُ فِيْكُمْ",
+        "clean": "بارك الله فيكم",
+        "transliteration": "BaarakAllahu feekum",
+        "reference": null,
+        "audio": 489,
+        "cat_id": 28,
+        "subcat_id": 89
       },
       "source": {
-        "name": "Dua upon hearing a rooster crow",
-        "content": "The Messenger of Allah (ﷺ) said, “If you hear the crow of a rooster, ask Allah for his bounty for it has seen an angel.” Say:",
-        "translation": "O Allah, I ask You from Your favor.",
+        "name": "Dua to one who says 'May Allah bless you'",
+        "content": null,
+        "translation": "May Allah bless you all.",
+        "note": "Aaishah (RA) reported that the Messenger of Allah (ﷺ) was given a sheep and he ordered for it's distribution. When the servant would come back [from distributing it] , 'Aaishah (RA) would ask: \"What did they say?\", he replied: \"They would supplicate: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "কেউ যদি বলে, ‘আল্লাহ্‌ আপনার উপর বরকত দিন’, তার জন্য দোয়া",
+        "translation": "আল্লাহ্‌ আপনাকে বরকত দান করুন।",
+        "note": "আয়েশা (রাঃ) হতে বর্ণিত রাসূলুল্লাহ্‌ (ﷺ) একদিন একটি ভেড়া হাদিয়া পান এরপর তা দান করে দিতে বলেন। যখন সে দাসটি ফিরে আসল আয়েশা (রাঃ) জিজ্ঞেস করলেন, “তারা কী বলল?” সে উত্তর দিল, “তারা এই দোয়া পাঠ করল- (দোয়াটি উপরে উল্লেখিত হয়েছে)"
+      },
+      "group_items": [
+        {
+          "group": 0,
+          "key": "content",
+          "source": "..'Aaishah (RA) would then say:",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "translation",
+          "source": "And may Allah bless them.",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "note",
+          "source": "[For a male]\n\n'Wa feeka barakAllah'\n\n[For a female]\n\n'Wa feeki barakAllah'\r\n\n[For a group of people]\n\n'Wa feekum barakAllah'",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "content",
+          "source": "So we return their supplication in a similar way and our reward remains with us:",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "translation",
+          "source": "And May Allah bless you",
+          "target": ""
+        },
+        {
+          "group": 1,
+          "key": "note",
+          "source": "[For a male]\n\n'Wa feeka barakAllah'\n\n[For a female]\n\n'Wa feeki barakAllah'\n\n[For a group of people]\n\n'Wa feekum barakAllah'",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        490
+      ],
+      "id": 490,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 490,
+        "groups": null,
+        "uthmani": "بَارَكَ اللَّهُ لَكَ فِي أَهْلِكَ وَمَالِكَ",
+        "indopak": "بَارَكَ اللّٰهُ لَكَ فِيْ اَهْلِكَ وَمَالِكَ",
+        "clean": "بارك الله لك في اهلك ومالك",
+        "transliteration": "BaarakAllahu laka fee 'ahlika wa maalik",
+        "reference": "Bukhari: 5167",
+        "audio": 490,
+        "cat_id": 28,
+        "subcat_id": 89
+      },
+      "source": {
+        "name": "To one who has offered you some of his wealth",
+        "content": null,
+        "translation": "May Allah bless you in your family and your property.",
         "note": null
       },
       "target": {
         "name": "",
-        "content": "",
+        "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "কেউ তার সম্পদ দান করার জন্য পেশ করলে তার জন্য দোয়া",
+        "translation": "আল্লাহ্‌ আপনার পরিবারে ও সম্পদে বরকত দান করুন।"
       }
     },
     {
       "key": [
-        516
+        491
       ],
-      "id": 516,
+      "id": 491,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 516,
+        "id": 491,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اكْتُبْ لِي بِهَا عِنْدَكَ أَجْرًا وَضَعْ عَنِّيْ بِهَا وِزْرًا وَاجعَلْهَا لِي عِنْدَكَ ذُخْرًا وَتَقَبَّلْهَا مِنِّي كَمَا تَقَبَّلْتَهَا مِنْ عَبْدِكَ دَاوُدَ",
+        "indopak": "اَللّٰهُمَّ اكْتُبْ لِيْ بِهَا عِنْدَكَ اَجْرًا وَّضَعْ عَنِّيْ بِهَا وِزْرًا وَاجعَلْهَا لِيْ عِنْدَكَ ذُخْرًا وَتَقَبَّلْهَا مِنِّيْ كَمَا تَقَبَّلْتَهَا مِنْ عَبْدِكَ دَاوٗدَ",
+        "clean": "اللهم اكتب لي بها عندك اجرا وضع عني بها وزرا واجعلها لي عندك ذخرا وتقبلها مني كما تقبلتها من عبدك داود",
+        "transliteration": "Allahum-maktub lee bihaa 'indaka 'ajran, wad'a 'annee bihaa wizran, waj'alhaa lee 'indaka thukhran, wa taqabbalhaa minnee kamaa taqabbaltahaa min 'abdika Daawood",
+        "reference": "Hasan (Albani). Tirmidhi: 3424",
+        "audio": 491,
+        "cat_id": 28,
+        "subcat_id": 89
+      },
+      "source": {
+        "name": "Prostration due to Quran recitation",
+        "content": null,
+        "translation": "O Allah, write it as a reward for me, and release me from a burden for it, and make it a treasure for me in Paradise. Accept it from me as You accepted it from your servant Dawud.",
+        "note": "Ibn 'Abbas (RA) said, \"The Messenger of Allah (ﷺ), recited the verses of prostration and recited this du'a.\" (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "তিলাওয়াতের সিজদার দোয়া",
+        "translation": "হে আল্লাহ্‌, আপনি লিপিবদ্ধ করুন আমার জন্য এ সিজদার বিনিময়ে পুরস্কার, এবং অপসারণ করুন আমার থেকে এর বিনিময়ে পাপ-বোঝা, এবং বানিয়ে দিন একে আপনার নিকট সম্পদ, এবং কবুল করুন একে আমার থেকে যেমন কবুল করেছিলেন আপনার বান্দা দাউদ থেকে।",
+        "note": "ইবনু আব্বাস (রাঃ) বলেন, “রাসূলুল্লাহ্‌ (ﷺ) সিজদার আয়াত তিলাওয়াত করে সিজদা করেন এবং এ দোয়াটি পাঠ করেন।” (উপরে দোয়াটি উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        492
+      ],
+      "id": 492,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 492,
         "groups": null,
         "uthmani": null,
         "indopak": null,
         "clean": "",
         "transliteration": null,
-        "reference": "Sahih (Albani). Abu Dawud 5097",
+        "reference": "Sahih (Albani). Abu Dawud: 4856",
         "audio": null,
-        "cat_id": 32,
-        "subcat_id": 98
+        "cat_id": 29,
+        "subcat_id": 90
       },
       "source": {
-        "name": "When strong winds begin to blow",
-        "content": "Narrated Abu Huraira (RA):The Messenger of Allah (ﷺ) said: The wind is the liveliness of Allah; It brings mercy, but also punishment. So when you see the wind blow, don't curse it; (Rather) seek its good from Allah, and seek refuge (from Him) from its evil.",
+        "name": "About meeting #1",
+        "content": "Narrated Abu Hurayrah (RA): The Prophet (ﷺ) said: If anyone sits at a place where he does not remember Allah, deprivation will descend on him from Allah; and if he lies at a place where he does not remember Allah, deprivation will descend on him from Allah.",
         "translation": null,
         "note": null
       },
@@ -614,31 +531,71 @@
         "content": "",
         "translation": null,
         "note": null
+      },
+      "reference_bn": {
+        "name": "বৈঠক সম্পর্কে #১",
+        "content": "আবু হুরায়রা (রাঃ) থেকে বর্ণিত, আল্লাহ্‌র রাসূল (ﷺ) বলেন, “যে-ব্যক্তি কোনও বৈঠকে বসল, অথচ তাতে আল্লাহ্‌ তা'আলার যিক্‌র করল না, তার উপর আল্লাহ্‌র পক্ষ থেকে আফসোস! যে ব্যক্তি কোনও জায়গায় শয়ন করল, অথচ সেখানে আল্লাহ্‌ তা'আলার যিকির করল না, তার উপর আল্লাহ্‌র পক্ষ থেকে আফসোস!”"
       }
     },
     {
       "key": [
-        517
+        493
       ],
-      "id": 517,
+      "id": 493,
       "part": 1,
       "of": 1,
       "frozen": {
-        "id": 517,
+        "id": 493,
         "groups": null,
-        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا فِيهَا، وَخَيْرَ مَا أُرْسِلَتْ بِهِ وَأَعُوْذُ بِكَ مِنْ شَرِّهَا، وَشَرِّ مَا فِيهَا، وَشَرِّ مَا أُرْسِلَتْ بِهِ",
-        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ خَيْرَهَا، وَخَيْرَ مَا فِيْهَا، وَخَيْرَ مَا اُرْسِلَتْ بِهٖ وَاَعُوْذُ بِكَ مِنْ شَرِّهَا، وَشَرِّ مَا فِيْهَا، وَشَرِّ مَا اُرْسِلَتْ بِهٖ",
-        "clean": "اللهم اني اسالك خيرها وخير ما فيها وخير ما ارسلت به واعوذ بك من شرها وشر ما فيها وشر ما ارسلت به",
-        "transliteration": "Allaahumma 'innee 'as'aluka khayrahaa, wa khayra maa feehaa, wa khayra maa 'ursilat bihi wa A'oodhu bika min sharrihaa, wa sharri maa feehaa, wa sharri maa 'ursilat bihi",
-        "reference": "Muslim: 899",
-        "audio": 517,
-        "cat_id": 32,
-        "subcat_id": 98
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Sahih (Albani). Abu Dawud: 4855",
+        "audio": null,
+        "cat_id": 29,
+        "subcat_id": 90
       },
       "source": {
-        "name": "Dua to read in case of wind / storm",
-        "content": "Ayesha (RA) said that when a storm arose, Rasoolullah (ﷺ) used to say -",
-        "translation": "O Allah, I ask You for the good of it, for the good of what it contains, and for the good of what is sent with it. I seek refuge in You from the evil of it, from the evil of what it contains, and from the evil that is sent with it.",
+        "name": "About meeting #2",
+        "content": "Narrated Abu Hurayrah (RA): The Prophet (ﷺ) said: People who get up from a sitting or meeting in which they did not remember Allah will be just as if they had got up from an dunkey corpse, and it will be a cause of grief to them.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      },
+      "reference_bn": {
+        "name": "বৈঠক সম্পর্কে #২",
+        "content": "আবু হুরায়রা (রাঃ) থেকে বর্ণিত, তিনি বলেন, আল্লাহ্‌র রাসূল (ﷺ) বলেছেন, “একদল লোক বৈঠক থেকে ওঠল অথচ সেখানে আল্লাহ্‌র যিক্‌র (স্মরণ) করল না, এরা যেন মরা গাধা (খাওয়ার অনুষ্ঠান) থেকে ওঠল; এটি হবে তাদের আফসোসের কারণ।”"
+      }
+    },
+    {
+      "key": [
+        494
+      ],
+      "id": 494,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 494,
+        "groups": null,
+        "uthmani": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَىَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+        "indopak": "رَبِّ اغْفِرْ لِيْ وَتُبْ عَلَىَّ اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِيْمُ",
+        "clean": "رب اغفر لي وتب علي انك انت التواب الرحيم",
+        "transliteration": "Rabbighfir lee watub 'alayya 'innaka 'Antat-Tawwaabur-rahim",
+        "reference": "Sahih (Albani). Abu Dawud: 1516",
+        "audio": 494,
+        "cat_id": 29,
+        "subcat_id": 90
+      },
+      "source": {
+        "name": "Dua during any sitting or gathering",
+        "content": "Narrated Abdullah bin Umar (RA): We used to count and see that the Messenger of Allah (ﷺ) used to say a hundred times after the meeting:",
+        "translation": "My Lord, forgive me and accept my repentance, You are the Ever-Relenting, the All-Forgiving.",
         "note": null
       },
       "target": {
@@ -646,6 +603,11 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "বৈঠক চলাকালে দোয়া",
+        "content": "আবদুল্লাহ ইবনু উমর (রাঃ) থেকে বর্ণিত, তিনি বলেন, “আমরা গণনা করে দেখতাম, আল্লাহ্‌র রাসূল (ﷺ) বৈঠক শেষে একশ বার বলছেন -",
+        "translation": "হে আমার রব্ব! আপনি আমাকে মাফ করুন এবং তাওবাহ কবুল করুন; নিশ্চয় আপনিই তাওবা কবুলকারী দয়ালু।"
       }
     }
   ]

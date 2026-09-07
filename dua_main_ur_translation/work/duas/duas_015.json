@@ -4,10 +4,207 @@
   "source_language": "en",
   "target_language": "ur",
   "status": "pending",
-  "rows": 19,
-  "id_range": "194-212",
-  "source_chars": 5762,
+  "rows": 16,
+  "id_range": "189-204",
+  "source_chars": 5632,
   "items": [
+    {
+      "key": [
+        189
+      ],
+      "id": 189,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 189,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ قَيِّمُ السَّمَوَاتِ وَالْأَرْضِ وَمَنْ فِيهِنَّ وَلَكَ الْحَمْدُ، لَكَ مُلْكُ السَّمَوَاتِ وَالْأَرْضِ وَمَنْ فِيهِنَّ، وَلَكَ الْحَمْدُ أَنْتَ نُورُ السَّمَوَاتِ وَالْأَرْضِ، وَلَكَ الْحَمْدُ أَنْتَ الْحَقُّ، وَوَعْدُكَ الْحَقُّ، وَلِقَاؤُكَ حَقٌّ، وَقَوْلُكَ حَقٌّ، وَالْجَنَّةُ حَقٌّ، وَالنَّارُ حَقٌّ، وَالنَّبِيُّونَ حَقٌّ، وَمُحَمَّدٌ ﷺ حَقٌّ، وَالسَّاعَةُ حَقٌّ، اَللَّهُمَّ لَكَ أَسْلَمْتُ، وَبِكَ آمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ، وَإِلَيْكَ أَنَبْتُ، وَبِكَ خَاصَمْتُ، وَإِلَيْكَ حَاكَمْتُ، فَاغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ، أَنْتَ الْمُقَدِّمُ وَأَنْتَ الْمُؤَخِّرُ، لَا إِلَهَ إِلَّا أَنْتَ (لَا إِلَهَ غَيْرُكَ)",
+        "indopak": "اَللّٰهُمَّ لَكَ الْحَمْدُ اَنْتَ قَيِّمُ السَّمَاوَاتِ وَالْاَرْضِ وَمَنْ فِيْهِنَّ وَلَكَ الْحَمْدُ، لَكَ مُلْكُ السَّمَاوَاتِ وَالْاَرْضِ وَمَنْ فِيْهِنَّ، وَلَكَ الْحَمْدُ اَنْتَ نُوْرُ السَّمَاوَاتِ وَالْاَرْضِ، وَلَكَ الْحَمْدُ اَنْتَ الْحَقُّ، وَوَعْدُكَ الْحَقُّ، وَلِقَاؤُكَ حَقٌّ، وَقَوْلُكَ حَقٌّ، وَالْجَنَّةُ حَقٌّ، وَالنَّارُ حَقٌّ، وَالنَّبِيُّوْنَ حَقٌّ، وَمُحَمَّدٌ ﷺ حَقٌّ، وَالسَّاعَةُ حَقٌّ، اَللّٰهُمَّ لَكَ اَسْلَمْتُ، وَبِكَ اٰمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ، وَاِلَيْكَ اَنَبْتُ، وَبِكَ خَاصَمْتُ، وَاِلَيْكَ حَاكَمْتُ، فَاغْفِرْ لِيْ مَا قَدَّمْتُ وَمَا اَخَّرْتُ، وَمَا اَسْرَرْتُ وَمَا اَعْلَنْتُ، اَنْتَ الْمُقَدِّمُ وَاَنْتَ الْمُؤَخِّرُ، لَا اِلٰهَ اِلَّا اَنْتَ (لَا اِلٰهَ غَيْرُكَ)",
+        "clean": "اللهم لك الحمد انت قيم السماوات والارض ومن فيهن ولك الحمد لك ملك السماوات والارض ومن فيهن ولك الحمد انت نور السماوات والارض ولك الحمد انت الحق ووعدك الحق ولقاءك حق وقولك حق والجنه حق والنار حق والنبيون حق ومحمد  حق والساعه حق اللهم لك اسلمت وبك امنت وعليك توكلت واليك انبت وبك خاصمت واليك حاكمت فاغفر لي ما قدمت وما اخرت وما اسررت وما اعلنت انت المقدم وانت المءخر لا اله الا انت لا اله غيرك",
+        "transliteration": "Allaahumma lakal-hamdu. Anta qaiyyimus-samawaati wal-ardi wa man fihinna. Walakal-hamdu, Laka mulkus-samawaati wal-ardi wa man fihinna. Walakal-hamdu, anta nurus-samawaati wal-ardi. Walakal-hamdu, antal-haqqu wa wa'dukal-haqqu, wa liqaa'uka Haqqun, wa qauluka Haqqun, wal-jannatu Haqqun wan-naaru Haqqun wannabiyuna Haqqun. Wa Muhammadun (ﷺ) Haqqun, was-sa'atu Haqqun. Allaahumma Laka aslamtu wabika amantu, wa 'Alaika tawakkaltu, wa ilaika anabtu wa bika khaasamtu, wa ilaika ‘haakamtu faghfir li maa qaddamtu wamaa akh-khartu wamaa as-rartu wamaa a’lantu, antal-muqaddimu wa antal muakh-khiru, laa ilaaha illaa anta (in another narration there is laa ilaaha ghairuka instead of laa ilaaha illaa anta)",
+        "reference": "Bukhari: 1120",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 31
+      },
+      "source": {
+        "name": "At the beginning of the prayer #5",
+        "content": "Ibn 'Abbas (RA) said: when The Prophet (ﷺ) was standing at night to pray Tahajjud, he used to recite:",
+        "translation": "O Allah! All the praises are for you, You are the Holder of the Heavens and the Earth, And whatever is in them. All the praises are for You; You have the possession of the Heavens and the Earth And whatever is in them. All the praises are for You; You are the Light of the Heavens and the Earth And all the praises are for You; You are the King of the Heavens and the Earth; And all the praises are for You; You are the Truth and Your Promise is the truth, And to meet You is true, Your Word is the truth And Paradise is true And Hell is true And all the Prophets (Peace be upon them) are true; And Muhammad (ﷺ) is true, And the Day of Resurrection is true. O Allah ! I surrender (my will) to You; I believe in You and depend on You. And repent to You, And with Your help I argue (with my opponents, the non-believers) And I take You as a judge (to judge between us). Please forgive me my previous And future sins; And whatever I concealed or revealed And You are the One who make (some people) forward And (some) backward. There is none to be worshipped but you.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সানার দোয়া #৫",
+        "content": "ইবনু আব্বাস্ (রাঃ) বলেন, নবী করীম (ﷺ) যখন রাতে তাহাজ্জুদে দাঁড়াতেন তখন পড়তেন -",
+        "translation": "হে আল্লাহ্‌! সমস্ত প্রশংসা একমাত্র তোমারই জন্য। আসমান, যমীন এবং এদের মধ্যস্থিত যা কিছু আছে সবকিছুর তুমিই অধিকর্তা। প্রশংসা মাত্রই তোমার। আসমান, যমীন এবং এদের মধ্যস্থিত যা কিছু আছে, তুমি সবকিছুর নূর বা জ্যোতি। (হে আল্লাহ্‌!) প্রশংসা মাত্রই তোমার জন্য। আসমান, যমীন এবং উভয়ের মধ্যস্থিত যা কিছু আছে তুমি ঐ সবের প্রতিপালক। (হে আল্লাহ্‌!) প্রশংসা মাত্রই তোমার। আসমান ও যমীনের রাজত্ব তোমার। সকল গুণকীর্তন তোমার জন্যই। তুমি সত্য, তোমার অঙ্গীকার সত্য, তোমার বাণী সত্য, তোমার দর্শন লাভ সত্য, জান্নাত সত্য, জাহান্নাম সত্য, নবীগণ সত্য, মুহাম্মাদ (ﷺ) সত্য এবং ক্বিয়ামত সত্য। হে আল্লাহ্‌! তোমার নিকটে আত্মসমর্পন করলাম, তোমারই উপর নির্ভরশীল হলাম, তোমার উপর দৃঢ় বিশ্বাস স্থাপন করলাম, তোমার দিকে প্রত্যাবর্তিত হলাম, তোমারই সাহায্যের প্রত্যাশায় শত্রুর বিরুদ্ধে যুদ্ধে প্রবৃত্ত হলাম এবং তোমাকেই বিচারক নির্ধারণ করলাম। অতএব আমার পূর্বের ও পরের গোপনীয় এবং প্রকাশ্য দুষ্কর্ম সমূহ মাফ করে দাও। তুমি ব্যতীত ‘ইবাদতের যোগ্য কোন মা‘বূদ নেই’।"
+      }
+    },
+    {
+      "key": [
+        190
+      ],
+      "id": 190,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 190,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَنْتَ الْمَلِكُ لَا إِلَهَ إِلَّا أَنْتَ، أَنْتَ رَبِّي وَأَنَا عَبْدُكَ، ظَلَمْتُ نَفْسِي وَاعْتَرَفْتُ بِذَنْبِي فَاغْفِرْ لِي ذُنُوبِي جَمِيعًا إِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، وَاهْدِنِي لِأَحْسَنِ الْأَخْلَاقِ لَا يَهْدِي لِأَحْسَنِهَا إِلَّا أَنْتَ، وَاصْرِفْ عَنِّي سَيِّئَهَا، لَا يَصْرِفُ عَنِّي سَيِّئَهَا إِلاَّ أَنْتَ.",
+        "indopak": "اَللّٰهُمَّ اَنْتَ الْمَلِكُ لَا اِلٰهَ اِلَّا اَنْتَ، اَنْتَ رَبِّىْ وَاَنَا عَبْدُكَ، ظَلَمْتُ نَفْسِىْ وَاعْتَرَفْتُ بِذَنْۢبِىْ فَاغْفِرْ لِىْ ذُنُوبِىْ جَمِيْعًا اِنَّهٗ لَا يَغْفِرُ الذُّنُوبَ اِلَّا اَنْتَ، وَاهْدِنِىْ لِاَحْسَنِ الْاَخْلَاقِ لَا يَهْدِىْ لِاَحْسَنِهَا اِلَّا اَنْتَ، وَاصْرِفْ عَنِّىْ سَيِّئَهَا، لَا يَصْرِفُ عَنِّىْ سَيِّئَهَا اِلاَّ اَنْتَ",
+        "clean": "اللهم انت الملك لا اله الا انت انت ربي وانا عبدك ظلمت نفسي واعترفت بذنبي فاغفر لي ذنوبي جميعا انه لا يغفر الذنوب الا انت واهدني لاحسن الاخلاق لا يهدي لاحسنها الا انت واصرف عني سيءها لا يصرف عني سيءها الا انت",
+        "transliteration": "Allaahumma antal-maliku laa ilaaha illaa anta. anta rabbee wa-anaa ‘abduka, dhalamtu nafsee wa’taraftu bidhanbee faghfir lee dhunoobee jamee'aan innahu laa yaghfirudh-dhunooba illaa anta. wahdinee li-ahsanil-akhlaaqi laa yahdee li-ahsanihaa illaa anta, wasrif 'annee sayyi-ahaa laa yasrifu 'annee sayyi-ahaa illaa anta",
+        "reference": "Muslim: 771",
+        "audio": 190,
+        "cat_id": 13,
+        "subcat_id": 31
+      },
+      "source": {
+        "name": "At the beginning of the prayer #6",
+        "content": null,
+        "translation": "O Allah, You are the Sovereign, none has the right to be worshipped except You. You are my Lord and I am Your servant, I have wronged my own soul and have acknowledged my sin, so forgive me all my sins for no one forgives sins except You. Guide me to the best of characters for none can guide to it other than You, and deliver me from the worst of characters for none can deliver me from it other than You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সানার দোয়া #৬",
+        "translation": "হে আল্লাহ্‌! আপনিই অধিপতি, আপনি ব্যতীত আর কোনো হক্ব ইলাহ নেই। আপনি আমার রব্ব, আমি আপনার বান্দা। আমি আমার নিজের প্রতি অন্যায় করেছি এবং আমি আমার পাপসমূহ স্বীকার করছি। সুতরাং আপনি আমার সমুদয় গুনাহ মাফ করে দিন। নিশ্চয় আপনি ছাড়া আর কেউ গুনাহসমূহ মাফ করতে পারে না। আর আপনি আমাকে সর্বোত্তম চরিত্রের পথে পরিচালিত করুন, আপনি ছাড়া আর কেউ উত্তম চরিত্রের পথে পরিচালিত করতে পারে না। আর আপনি আমার থেকে আমার খারাপ চরিত্রগুলো দূরীভূত করুন, আপনি ব্যতীত আর কেউ সে খারাপ চরিত্রগুলো অপসারিত করতে পারে না।"
+      }
+    },
+    {
+      "key": [
+        191
+      ],
+      "id": 191,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 191,
+        "groups": null,
+        "uthmani": "لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ كُلُّهُ بِيَـدَيْكَ، وَالشَّـرُّ لَيْسَ إِلَيْـكَ، أَنَا بِكَ وَإِلَيْكَ، تَبَارَكْتَ وَتَعَالَيْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+        "indopak": "لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ كُلُّهٗ بِيَدَيْكَ، وَالشَّرُّ لَيْسَ اِلَيْكَ، اَنَا بِكَ وَاِلَيْكَ، تَبَارَكْتَ وَتَعَالَيْتَ، اَسْتَغْفِرُكَ وَاَتُوْبُ اِلَيْكَ",
+        "clean": "لبيك وسعديك والخير كله بيديك والشر ليس اليك انا بك واليك تباركت وتعاليت استغفرك واتوب اليك",
+        "transliteration": "Labbayka wa sa'dayka, wal-khayru kulluhu biyadaika, washsharru laysa ilayka, anaa bika wa-ilayka, tabaarakta wa ta'Aalayta, astaghfiruka wa-atoobu ilayk",
+        "reference": "Muslim: 771",
+        "audio": 191,
+        "cat_id": 13,
+        "subcat_id": 31
+      },
+      "source": {
+        "name": "At the beginning of the prayer #7",
+        "content": null,
+        "translation": "Here I am, in answer to Your call, happy to serve you. All good is within Your hands and evil does not stem from You. I exist by your will and will return to you. Blessed and High are You, I seek Your forgiveness and repent unto You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সানার দোয়া #৭",
+        "translation": "আমি আপনার হুকুম মানার জন্য সদা-সর্বদা হাজির, সকল কল্যাণই আপনার দু’হাতে নিহিত। অকল্যাণ আপনার দিকে নয় (অর্থাৎ মন্দকে আপনার দিকে সম্পৃক্ত করা উচিত নয়, অথবা মন্দ দ্বারা আপনার নিকটবর্তী হওয়া যায় না, বা মন্দ আপনার দিকে উঠে না)। আমি আপনার দ্বারাই (প্রতিষ্ঠিত আছি, সহযোগিতা পেয়ে থাকি) এবং আপনার দিকেই (আমার সকল প্রবণতা, বা আমার প্রত্যাবর্তন)। আপনি বরকতময় এবং আপনি সুঊচ্চ। আমি আপনার নিকট ক্ষমা চাই এবং আপনার কাছে তাওবাহ্‌ করছি।"
+      }
+    },
+    {
+      "key": [
+        192
+      ],
+      "id": 192,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 192,
+        "groups": "[{\"id\": 192, \"name\": null, \"cat_id\": 13, \"subcat_id\": 31, \"content\": \"Then say:\", \"uthmani\": \"\\u0623\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u0650 \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0634\\u0651\\u064e\\u064a\\u0652\\u0637\\u064e\\u0627\\u0646\\u0650 \\u0645\\u0650\\u0646\\u0652 \\u0646\\u064e\\u0641\\u0652\\u062e\\u0650\\u0647\\u0650\\u060c \\u0648\\u064e\\u0646\\u064e\\u0641\\u0652\\u062b\\u0650\\u0647\\u0650\\u060c \\u0648\\u064e\\u0647\\u064e\\u0645\\u0652\\u0632\\u0650\\u0647\\u0650\", \"indopak\": \"\\u0627\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650 \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0634\\u0651\\u064e\\u064a\\u0652\\u0637\\u064e\\u0627\\u0646\\u0650 \\u0645\\u0650\\u0646\\u0652 \\u0646\\u064e\\u0641\\u0652\\u062e\\u0650\\u0647\\u0656\\u060c \\u0648\\u064e\\u0646\\u064e\\u0641\\u0652\\u062b\\u0650\\u0647\\u0656\\u060c \\u0648\\u064e\\u0647\\u064e\\u0645\\u0652\\u0632\\u0650\\u0647\\u0656\", \"clean\": \"\\u0627\\u0639\\u0648\\u0630 \\u0628\\u0627\\u0644\\u0644\\u0647 \\u0645\\u0646 \\u0627\\u0644\\u0634\\u064a\\u0637\\u0627\\u0646 \\u0645\\u0646 \\u0646\\u0641\\u062e\\u0647 \\u0648\\u0646\\u0641\\u062b\\u0647 \\u0648\\u0647\\u0645\\u0632\\u0647\", \"transliteration\": \"A 'oodhu billaahi minash-Shaytaani min nafkhihi, wa nafthihi, wa hamzihi\", \"translation\": \"I seek refuge in Allah from Satan. From his breath and from his voice and from his whisper.\", \"note\": null, \"reference\": \"Hasan li gairihi (Shu'aib Al-Arnaut). Abu Dawud: 764\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "اَللَّهُ أَكْبَرُ كَبِيرًا، اَللَّهُ أَكْبَرُ كَبِيرًا، اَللَّهُ أَكْبَرُ كَبِيرًا، وَالْحَمْدُ لِلَّهِ كَثِيرًا، وَالْحَمْدُ لِلَّهِ كَثِيرًا، وَالْحَمْدُ لِلَّهِ كَثِيرًا، وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلًا",
+        "indopak": "اَللّٰهُ اَكْبَرُ كَبِيْرًا، اَللّٰهُ اَكْبَرُ كَبِيْرًا، اَللّٰهُ اَكْبَرُ كَبِيْرًا، وَالْحَمْدُ لِلّٰهِ كَثِيْرًا، وَالْحَمْدُ لِلّٰهِ كَثِيْرًا، وَالْحَمْدُ لِلّٰهِ كَثِيْرًا، وَسُبْحَانَ اللّٰهِ بُكْرَةً وَّاَصِيْلًا",
+        "clean": "الله اكبر كبيرا الله اكبر كبيرا الله اكبر كبيرا والحمد لله كثيرا والحمد لله كثيرا والحمد لله كثيرا وسبحان الله بكره واصيلا",
+        "transliteration": "Allahu 'Akbar Kabeera, Allahu 'Akbar Kabeera, Allahu 'Akbar Kabeera, walhamdu lillaahi katheera, walhamdu lillaahi katheera, walhamdu lillaahi katheera, wa SubhaanAllahi bukratan wa'aseela",
+        "reference": null,
+        "audio": 192,
+        "cat_id": 13,
+        "subcat_id": 31
+      },
+      "source": {
+        "name": "At the beginning of the prayer #8",
+        "content": "Say three times:",
+        "translation": "Allah is the Greatest, Most Great. Allah is the Greatest, Most Great. Allah is the Greatest, Most Great. Praise is to Allah, abundantly. Praise is to Allah, abundantly. Praise is to Allah, abundantly. Glory is to Allah, at the break of day and at its end.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সানার দোয়া #৮",
+        "content": "তিনবার বলবে -",
+        "translation": "আল্লাহ্‌ সবচেয়ে বড় অতীব বড়, আল্লাহ্‌ সবচেয়ে বড় অতীব বড়, আল্লাহ্‌ সবচেয়ে বড় অতীব বড়। আর আল্লাহ্‌র জন্যই অনেক ও অজস্র প্রশংসা, আল্লাহ্‌র জন্যই অনেক ও অজস্র প্রশংসা, আল্লাহ্‌র জন্যই অনেক ও অজস্র প্রশংসা। সকালে ও বিকালে আল্লাহ্‌র পবিত্রতা ও মহিমা ঘোষণা করছি।"
+      },
+      "group_items": [
+        {
+          "group": 0,
+          "key": "content",
+          "source": "Then say:",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "translation",
+          "source": "I seek refuge in Allah from Satan. From his breath and from his voice and from his whisper.",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        193
+      ],
+      "id": 193,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 193,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "indopak": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اعوذ بالله من الشيطان الرجيم",
+        "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
+        "reference": "Muslim: 2203",
+        "audio": 193,
+        "cat_id": 13,
+        "subcat_id": 32
+      },
+      "source": {
+        "name": "If afflicted by whisperings in prayer or recitation",
+        "content": null,
+        "translation": "I seek refuge in Allah from Satan the outcast.",
+        "note": "Uthman bin Abu al-'As reported that he came to Allah's Messenger (ﷺ) and said: Allah's Messenger (ﷺ), the Satan intervenes between me and my prayer and my reciting of the Qur'an and he confounds me. Thereupon Allah's Messenger (ﷺ) said:, That is (the doing of a) Satan (devil) who is known as Khinzab, and when you perceive its effect, seek refuge with Allah from it and spit three times to your left. Uthman (RA) said: I did that and Allah dispelled that from me."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "সালাতের মাঝে শয়তানের কুমন্ত্রণা হতে বাঁচার দোয়া",
+        "translation": "আমি আল্লাহ্‌র আশ্রয় গ্রহণ করছি বিতাড়িত শয়তান থেকে।",
+        "note": "উসমান ইবনু আবীল আস (রাঃ) বলেন, আমি বললাম, হে আল্লাহ্‌র রাসূল (ﷺ), শয়তান আমার ও আমার সালাতের মধ্যে বাধা দেয় এবং আমার কিরাআত এলোমেলো করে দেয়। তখন রাসূলুল্লাহ্‌ (ﷺ) বলেন: সে শয়তানের নাম: 'খিনযাব'। যখন এরূপ অনুভব করবে তখন (উপরের যিক্‌র) পাঠ করে তোমার বাম দিকে থুথু ফেলবে। তিনবার করবে। উসমান (রাঃ) বলেন: আমি এরূপ করলাম, ফলে আল্লাহ্‌ উক্ত শয়তানকে আমার থেকে দূর করে দিলেন।"
+      }
+    },
     {
       "key": [
         194
@@ -38,6 +235,10 @@
         "content": "",
         "translation": null,
         "note": null
+      },
+      "reference_bn": {
+        "name": "রুকূর দোয়া সমূহ #১",
+        "content": "শাক্বীক্ব (রাঃ) বলেন, হুযায়ফাহ্ (রাঃ) একজন লোককে দেখলেন, সে ঠিকমত রুকূ-সিজদা করল না। সে ছালাত শেষ করলে তিনি তাকে ডাকলেন। অতঃপর তাকে বললেন, তুমি ছালাত আদায় করনি। শাক্বীক্ব বলেন, আমি মনে করছি তিনি তাকে বললেন, তুমি এখন মারা গেলে তোমার মরণ এমন নীতির উপর হবে যা মুহাম্মাদ (ﷺ) যে নীতিতে রয়েছেন তার চেয়ে ভিন্ন। [১]\n\nকাতাদাহ্ (রাঃ) বলেন, রাসূল (ﷺ) বলেছেন, সবচেয়ে নিকৃষ্ট চোর সে যে ছালাত চুরি করে। ছাহাবীগণ বললেন, কিভাবে ছালাত চুরি করে? রাসূল (ﷺ) বললেন, যে তার রুকূ-সিজদা পূর্ণ করে না'। [২]"
       }
     },
     {
@@ -70,6 +271,12 @@
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "রুকূর দোয়া সমূহ #২",
+        "content": "কমপক্ষে ৩ বার এ তাসবীহ পাঠ করা -",
+        "translation": "মহাপবিত্র আমার মহান প্রভু।",
+        "note": "মনের আবেগ নিয়ে এ ঘোষণা বার বার দিতে হবে। কমপক্ষে ৩ বার এ তাসবীহ পাঠ করা রাসূলুল্লাহ্‌ (ﷺ)-এর আচরিত ও নির্দেশিত কর্ম। অধিকাংশ বর্ণনায় “সুবহানা রাব্বিয়াল আযীম” এবং কোনো কোনো হাদীসে “সুবাহানা রাব্বিয়াল আযীম ওয়া বিহামদিহী” বর্ণিত হয়েছে।"
       }
     },
     {
@@ -102,6 +309,11 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "রুকূর দোয়া সমূহ #৩",
+        "content": "কমপক্ষে ৩ বার এ তাসবীহ পাঠ করা -",
+        "translation": "আমি আমার মহান প্রভুর প্রশংসা-সহ পবিত্রতা বর্ণনা করছি।"
       }
     },
     {
@@ -134,6 +346,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "রুকূর দোয়া সমূহ #৪",
+        "translation": "মহাপবিত্র, মহামহিম, ফিরিশতাগণের এবং পবিত্ৰাত্মার প্রভু।",
+        "note": "আয়েশা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) রুকু ও সিজদায় এটি পাঠ করতেন।"
       }
     },
     {
@@ -166,6 +383,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "রুকূর দোয়া সমূহ #৫",
+        "translation": "হে আল্লাহ্‌, আপনারই জন্য রুকু করেছি, এবং আপনার উপরেই ঈমান এনেছি এবং আপনারই কাছে সমর্পিত হয়েছি। ভক্তিতে অবনত হয়েছে আপনার জন্য আমার শ্রবণ, আমার দৃষ্টি, আমার মস্তিষ্ক, আমার অস্থি ও আমার স্নায়ুতন্ত্র।",
+        "note": "আলী (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) রুকুতে এ কথাগুলো বলতেন।"
       }
     },
     {
@@ -198,6 +420,12 @@
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "রুকূর দোয়া সমূহ #৬",
+        "content": "আউফ ইবনু মালিক আশজাঈ (রাঃ) থেকে বর্ণিত, তিনি বলেন, রাসূল (ﷺ) রুকূতে বলতেন -",
+        "translation": "পবিত্র ওই সত্তা, যিনি সর্বময় ক্ষমতা, সার্বভৌমত্ব, শ্রেষ্ঠত্ব ও মহত্ত্বের অধিকারী।",
+        "note": "এরপর তিনি সিজদায় গিয়ে ততক্ষণ থাকেন, যতক্ষণ তিনি দাঁড়িয়ে ছিলেন। সিজদায় তিনি একই দোয়া পড়েন। তারপর সিজদা থেকে উঠে সূরা আল ইমরান ও অন্যান্য সূরা পাঠ করেন।"
       }
     },
     {
@@ -230,6 +458,11 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "রুকূর দোয়া সমূহ #৭",
+        "content": "‘আবদুল্লাহ্ ইবনু মাস্‘ঊদ্ (রাঃ) বলেন, রাসূল (ﷺ) রুকূ এবং সিজদায় বলতেন -",
+        "translation": "তোমার প্রশংসা সহকারে তোমার পবিত্রতা বর্ণনা করি। তোমার নিকট ক্ষমা চাই ও তোমার নিকট তাওবা করি।"
       }
     },
     {
@@ -262,6 +495,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "রুকূর দোয়া সমূহ #৮",
+        "translation": "হে আমাদের রব আল্লাহ্‌! তুমি ত্রুটিমুক্ত। প্রশংসা সবই তোমার। হে আল্লাহ্‌! আমাকে ক্ষমা করে দাও। [১]",
+        "note": "আয়িশা (রাঃ) থেকে বর্ণিত, তিনি বলেন, কুরআনের নির্দেশ অনুযায়ী [২] আল্লাহ্‌র রাসূল (ﷺ) রুকূ ও সিজদায় গিয়ে বেশি বেশি বলতেন - (দোয়াটি উপরে উল্লেখিত হয়েছে)"
       }
     },
     {
@@ -294,6 +532,11 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "রুকু থেকে উঠার দোয়া #১",
+        "content": "রুকু থেকে উঠার সময় বলতে হয় -",
+        "translation": "আল্লাহ্‌ তার কথা শোনেন যে তাঁর প্রশংসা করে।"
       }
     },
     {
@@ -326,6 +569,10 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "রুকু থেকে উঠার দোয়া #২",
+        "translation": "হে আল্লাহ্‌! তোমার জন্য আসমান যমীন পরিপূর্ণ প্রশংসা আর এর ব্যতীত আরো অন্য বস্তু পরিপূর্ণ প্রশংসাও-যা তুমি চাও। তুমি প্রশংসা ও মর্যাদার একমাত্র অধিকারী, এটা বড়ই ন্যায্য কথা যা তোমার বান্দা বলল, আমরা সকলেই তোমারই বান্দা। হে আল্লাহ্‌! তুমি আমাদের যা দেবে তাতে বাধা দেবার কেউ নেই এবং তুমি যা দেবে না তা দেবারও কেউ নেই। কোন শক্তিমানই সাহায্য করতে পারে না কারণ সকল শক্তিই তোমারই করায়ত্তে।"
       }
     },
     {
@@ -358,262 +605,11 @@
         "content": "",
         "translation": "",
         "note": null
-      }
-    },
-    {
-      "key": [
-        205
-      ],
-      "id": 205,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 205,
-        "groups": null,
-        "uthmani": "(اَللَّهُمَّ) رَبَّنَا وَلَكَ الْحَمْدُ",
-        "indopak": "(اَللّٰهُمَّ) رَبَّنَا وَلَكَ الْحَمْدُ",
-        "clean": "اللهم ربنا ولك الحمد",
-        "transliteration": "(1) Rabbanaa wa lakal-hamd\n(2) Allaahumma Rabbanaa wa lakal-hamd",
-        "reference": "Bukhari: 795",
-        "audio": 205,
-        "cat_id": 13,
-        "subcat_id": 35
       },
-      "source": {
-        "name": "Dua while in a state of rukoo #2",
-        "content": null,
-        "translation": "[1] Our Lord and to You be the praise.\n[2] O Allah, our Lord and to You be the praise.",
-        "note": "After rukoo' one should stand straight for a while. It is obligatory upon all. If anyone goes to prostration before stand straight (for a while) then it will invalidate his salaah. In the state of rukoo' one should say one of these four duas. It is recommended to say these supplications alternatively."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        206
-      ],
-      "id": 206,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 206,
-        "groups": null,
-        "uthmani": "رَبَّنَا وَلَكَ الْحَمْدُ، حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ",
-        "indopak": "رَبَّنَا وَلَكَ الْحَمْدُ، حَمْدًا كَثِيرًا طَيِّبًا مُّبَارَكًا فِيْهِ",
-        "clean": "ربنا ولك الحمد حمدا كثيرا طيبا مباركا فيه",
-        "transliteration": "Rabbanaa wa lakal-hamd, hamdan katheeran tayyiban mubaarakan feeh",
-        "reference": "Bukhari: 799",
-        "audio": 206,
-        "cat_id": 13,
-        "subcat_id": 35
-      },
-      "source": {
-        "name": "Dua while in a state of rukoo #3",
-        "content": null,
-        "translation": "Our Lord, praise is Yours, abundant, holy and blessed praise.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        207
-      ],
-      "id": 207,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 207,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا بَيْنَهُمَا وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
-        "indopak": "اَللّٰهُمَّ رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْاَرْضِ وَمِلْءَ مَا بَيْنَهُمَا وَمِلْءَ مَا شِئْتَ مِنْ شَىْءٍۢ بَعْدُ",
-        "clean": "اللهم ربنا لك الحمد ملء السماوات وملء الارض وملء ما بينهما وملء ما شءت من شيء بعد",
-        "transliteration": "Alla-humma Rabbanaa lakal ‘hamdu mil-as samawaati wa mil-al ardi wa mil-aa maa baina humaa, wa mil-aa maa shi’ta min shayin ba’du",
-        "reference": "Muslim: 476",
-        "audio": null,
-        "cat_id": 13,
-        "subcat_id": 35
-      },
-      "source": {
-        "name": "Dua while in a state of rukoo #4",
-        "content": null,
-        "translation": "Praise be to You, O Allah, our Lord! Praise be to You, it fills the heavens, fills the earth, completes all that is in between them, and then it completes whatever You will.",
-        "note": "Ibn Abi Aufa (R), Ibn Abbas (RA), Ali (RA) and other Companions said that the Prophet (ﷺ) used to say these words when he stand up from rukoo'."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        208
-      ],
-      "id": 208,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 208,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَوَاتِ وَمِلْءَ الْأَرْضِ وَمَا بَيْنَهُمَا وَمِلْءَ مَا شِئْتَ مِنْ شَيءٍ بَعْدُ أَهْلَ الثَّنَاءِ وَالْمَجْدِ، لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
-        "indopak": "اَللّٰهُمَّ رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْاَرْضِ وَمَا بَيْنَهُمَا وَمِلْءَ مَا شِئْتَ مِنْ شَىْءٍۢ بَعْدُ اَهْلَ الثَّنَاءِ وَالْمَجْدِ، لَا مَانِعَ لِمَا اَعْطَيْتَ، وَلَا مُعْطِىَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
-        "clean": "اللهم ربنا لك الحمد ملء السماوات وملء الارض وما بينهما وملء ما شءت من شيء بعد اهل الثناء والمجد لا مانع لما اعطيت ولا معطي لما منعت ولا ينفع ذا الجد منك الجد",
-        "transliteration": "Allaahumma, rabbanaa lakal ‘hamdu, mil-as samawaati wa mil-al ardi wamaa bainahumaa, wa mil-aa maa shi’ta min shayin ba’du, ahlath thanaa’i wal majdi. Laa- maani'a limaa a'taita, walaa mut'ia limaa mana'ta, walaa yanfa'u dhal jaddi minkal jaddu",
-        "reference": "Muslim: 478",
-        "audio": 208,
-        "cat_id": 13,
-        "subcat_id": 35
-      },
-      "source": {
-        "name": "Dua while in a state of rukoo #5",
-        "content": null,
-        "translation": "Allah! our Lord, to Thee be the praise that would fill the heavens and the earth and that which is between them, and that which will please Thee besides (them). Worthy art Thou of all praise and glory. No one can withhold what Thou givest, or give what Thou withholdest. And the greatness O! the great availeth not against Thee.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        209
-      ],
-      "id": 209,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 209,
-        "groups": null,
-        "uthmani": "اَلْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ مُبَارَكًا عَلَيْهِ كَمَا يُحِبُّ رَبُّنَا وَيَرْضَى",
-        "indopak": "اَلْحَمْدُ لِلّٰهِ حَمْدًا كَثِيرًا طَيِّبًا مُّبَارَكًا فِيْهِ مُبَارَكًا عَلَيْهِ كَمَا يُحِبُّ رَبُّنَا وَيَرْضٰى",
-        "clean": "الحمد لله حمدا كثيرا طيبا مباركا فيه مباركا عليه كما يحب ربنا ويرضي",
-        "transliteration": "Alhamdu lillahi hamdan kathiran tayyiban mubarakan fihi mubarakan ‘alaihi kamaa yuhibbu rabbunaa wa yardaa",
-        "reference": "Hasan (Albani). Sunan Nasai: 931",
-        "audio": null,
-        "cat_id": 13,
-        "subcat_id": 35
-      },
-      "source": {
-        "name": "Dua while in a state of rukoo #6",
-        "content": null,
-        "translation": "Praise be to Allah, much good and blessed praise as our Lord loves and is pleased with",
-        "note": "Rifa'ah bin Rafi' (RA) said that: \"I prayed behind the Prophet (ﷺ) and I sneezed and said: (the dua is mentioned above) When he finished praying, the Messenger of Allah (ﷺ) said: 'Who is the one who spoke during the prayer?' But no one said anything. Then he said it a second time: 'Who is the one who spoke during the prayer?' So Rifa'ah bin Rafi bin Afrah (RA) said: 'It was me, O Messenger of Allah.' He said: 'I said: (the dua is mentioned above)' The Prophet (ﷺ) said: 'By the One in Whose hand is my soul, thirty-odd angels hastened to see which of them would take it up.'"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        210
-      ],
-      "id": 210,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 210,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Muslim: 482",
-        "audio": null,
-        "cat_id": 13,
-        "subcat_id": 36
-      },
-      "source": {
-        "name": "To do Dua more and more in the state of sijdaah",
-        "content": "Abu Hurairah (RA) said that the Prophet (ﷺ) said that man is most close to his Lord in prostration. Therefore, do dua more and more in sujood.",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
-      }
-    },
-    {
-      "key": [
-        211
-      ],
-      "id": 211,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 211,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Muslim: 479",
-        "audio": null,
-        "cat_id": 13,
-        "subcat_id": 36
-      },
-      "source": {
-        "name": "Forbidden to recite the Qur'an in the state of prostration",
-        "content": "Ibn 'Abbas (RA) said, the Prophet (ﷺ) said, I am forbidden to read the Qur'an in bowing and prostration. But in ruku 'you describe the greatness of Allah. And do more and more Dua in sujood. Sujood is a suitable place for accepting your Dua. [1]",
-        "translation": null,
-        "note": "It is evident from the above-mentioned hadiths that, one should supplicate more and more in the state of prostration. And in this state, the dua is answered. So, one can supplicate any dua mentioned in authentic hadiths except quranic duas. Cause it is prohibited to supplicate by quranic dua in the state of bowing down and prostration."
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        212
-      ],
-      "id": 212,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 212,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Sahih (Albani). Mishkat: 885",
-        "audio": null,
-        "cat_id": 13,
-        "subcat_id": 36
-      },
-      "source": {
-        "name": "The importance of slowly prostrating",
-        "content": "Qatadah (RA) said, the Prophet (ﷺ) said, the worst thief is the one who steals the prayer. The Companions said, how do you steal the prayer? The Prophet (ﷺ) said: He who does not complete his bowing and prostration.",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
+      "reference_bn": {
+        "name": "রুকুর পরে দণ্ডায়মান অবস্থার দোয়া #১",
+        "content": "বিভিন্ন সহীহ হাদীসে রুকুর দোয়াটি চারভাবে বর্ণিত হয়েছে -",
+        "translation": "(১) হে আমাদের প্রভু, আপনার জন্যই প্রশংসা।\n(২) হে আল্লাহ্‌, আমাদের প্রভু, আপনার জন্যই প্রশংসা।"
       }
     }
   ]

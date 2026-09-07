@@ -4,10 +4,231 @@
   "source_language": "en",
   "target_language": "ur",
   "status": "pending",
-  "rows": 13,
-  "id_range": "150-162",
-  "source_chars": 5776,
+  "rows": 14,
+  "id_range": "144-157",
+  "source_chars": 5560,
   "items": [
+    {
+      "key": [
+        144
+      ],
+      "id": 144,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 144,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "indopak": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اعوذ بالله من الشيطان الرجيم",
+        "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
+        "reference": "[1] Bukhari: 7044\n[2] Muslim: 6041\n[3] Sahih (Albani). Tirmidhi: 2280",
+        "audio": 144,
+        "cat_id": 6,
+        "subcat_id": 15
+      },
+      "source": {
+        "name": "Upon seeing a good or a bad dream",
+        "content": "If you have a bad dream in your sleep, you should spit three times on the left side, then say three times -",
+        "translation": "I seek refuge in Allah from Satan the outcast.",
+        "note": "One need to change sides in their sleep. It is forbidden to tell this dream in front of anyone. Even if you have good dreams, you don't have to tell anyone. But it can be said in front of a close friend or in front of wise people.\n\nNarrated Abu Qatadah (RA): The Prophet (ﷺ) said: A good dream is from Allah. And bad dreams are from the devil. So whoever has a good dream, let him reveal it to the one he loves. And if anyone has a bad dream, let him seek refuge in Allah from its harm and from the evil of Satan, and spit three times to the left. Don't reveal the dream to anyone. Then it will not be able to harm him. [1]\n\nJarir (RA)  said, Rasulullah (ﷺ) said, when one of you has a dream that he dislikes, he should spit three times to his left. And he seeks refuge in Allah from Satan three times and changes sides. [2]\n\nAbu Hurairah (RA)  said: The Messenger of Allah (ﷺ) said: If a person has a bad dream, he should get up and pray two rak'ahs. [3]"
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "নিদ্রাবস্থায় ভালো বা মন্দ স্বপ্ন দেখলে করণীয়",
+        "content": "ঘুমের মধ্যে মন্দ স্বপ্ন দেখলে বাম পার্শ্বে তিনবার থুথু ফেলতে হবে, এরপর তিনবার বলবে -",
+        "translation": "বিতাড়িত শয়তান থেকে আমি আল্লাহ্‌র কাছে আশ্রয় চাচ্ছি।",
+        "note": "পার্শ্ব পরিবর্তন করতে হবে। এ স্বপ্ন কারও সামনে বলা নিষিদ্ধ। ভালো স্বপ্ন দেখলেও কাউকে বলতে হয় না। তবে একান্ত অন্তরঙ্গ বন্ধুর সামনে অথবা জ্ঞানীদের সামনে বলা যেতে পারে।\n\nআবূ ক্বাতাদাহ্ (রাঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, ‘উত্তম স্বপ্ন আল্লাহ্‌র পক্ষ থেকে হয়। আর খারাপ স্বপ্ন শয়তানের পক্ষ থেকে হয়। কাজেই তোমাদের যে কেউ ভালো স্বপ্ন দেখে, সে যেন এমন ব্যক্তির নিকট প্রকাশ করে, যাকে সে ভালোবাসে। আর যদি কেউ মন্দ স্বপ্ন দেখে তাহলে সে যেন এর ক্ষতি এবং শয়তানের অনিষ্ট হতে আল্লাহ্‌র নিকট আশ্রয় চায় এবং বাম দিকে তিনবার থুথু ফেলে। স্বপ্নটি যেন কারো নিকট প্রকাশ না করে। তাহলে উহা তাঁর ক্ষতি করতে পারবে না। [১]\n\nজারির (রাঃ) বলেন, রসূলুল্লাহ্ (ﷺ) বলেছেন, যখন তোমাদের কেউ এমন স্বপ্ন দেখে, যা সে অপছন্দ করে, তখন সে যেন নিজের বাম দিকে তিন বার থুথু ফেলে। আর আল্লাহ্‌র নিকট তিন বার শয়তান হতে আশ্রয় চায় ও পার্শ্ব পরিবর্তন করে। [২]\n\nআবু হুরায়রা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, “কেউ যদি খারাপ স্বপ্ন দেখে, সে যেন উঠে দু’রাকা‘আত সালাত আদায় করে”। [৩]"
+      }
+    },
+    {
+      "key": [
+        145
+      ],
+      "id": 145,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 145,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 5747",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 15
+      },
+      "source": {
+        "name": "Dua related to dreams",
+        "content": "The Messenger of Allah (ﷺ) said - \"A good dream is from Allah, and a bad dream is from Satan. So if anyone of you sees (in a dream) something he dislikes, when he gets up he should blow thrice (on his left side) and seek refuge with Allah from its evil for then it will not harm him.\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      },
+      "reference_bn": {
+        "name": "স্বপ্ন বিষয়ক দোয়া",
+        "content": "রাসূলুল্লাহ্‌ (ﷺ) বলেছেন - \"ভালো স্বপ্ন আল্লাহ্‌র পক্ষ থেকে হয়, আর মন্দ স্বপ্ন শয়তানের তরফ থেকে। সুতরাং তোমাদের কেউ যদি এমন কিছু স্বপ্ন দেখে যা তার কাছে খারাপ লাগে, তা হলে সে যখন ঘুম থেকে জেগে ওঠে তখন সে যেন তিনবার থুথু ফেলে এবং এর ক্ষতি থেকে আশ্রয় চায়। কেননা, তা হলে এটা তার কোন ক্ষতি করতে পারবে না।\""
+      }
+    },
+    {
+      "key": [
+        146
+      ],
+      "id": 146,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 146,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِي كَسَانِيْ هَذَا الثَّوْبَ وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّيْ وَلَا قُوَّةٍ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ كَسَانِيْ هَذَا الثَّوْبَ وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِّنِّيْ وَلَا قُوَّةٍ",
+        "clean": "الحمد لله الذي كساني هذا الثوب ورزقنيه من غير حول مني ولا قوه",
+        "transliteration": "Alhamdu lillaahil-ladhee kasaanee haadhaa aththawba wa razaqaneehi min ghayri hawlim-minnee wa laa quwwah",
+        "reference": "Hasan (Albani). Abu Dawud: 4023",
+        "audio": 146,
+        "cat_id": 7,
+        "subcat_id": 16
+      },
+      "source": {
+        "name": "Dua when putting on a garment",
+        "content": null,
+        "translation": "All Praise is for Allah who has clothed me with this garment and provided it for me, with no power nor might from myself.",
+        "note": "The Prophet (ﷺ) said, \"If anyone says this while wearing clothes, his previous sins will be forgiven.\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "পোশাক পরিধানের দোয়া",
+        "translation": "প্রশংসা আল্লাহ্‌র, যিনি আমাকে এ পোশাক পরিধান করিয়েছেন এবং আমার কোনো অবলম্বন ও শক্তি ছাড়া-ই, আমাকে তা প্রদান করেছেন।",
+        "note": "রাসূলুল্লাহ্‌ (ﷺ) বলেন, “যদি কেউ পোশাক পরিধানের সময় এ কথা বলে তাহলে তার পূর্বের গোনাহ ক্ষমা করা হবে।”"
+      }
+    },
+    {
+      "key": [
+        147
+      ],
+      "id": 147,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 147,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ كَسَوْتَنِيْهِ أَسْأَلُكَ خَيْرَهُ وَخَيْرَ مَا صُنِعَ لَهُ وَأَعُوْذُ بِكَ مِنْ شَرِّهِ وَشَرِّ مَا صُنِعَ لَهُ",
+        "indopak": "اَللّٰهُمَّ لَكَ الْحَمْدُ اَنْتَ كَسَوْتَنِيْهِ اَسْاَلُكَ خَيْرَهٗ وَخَيْرَ مَا صُنِعَ لَهٗ  وَاَعُوْذُ بِكَ مِنْ شَرِّهٖ  وَشَرِّ مَا صُنِعَ لَهٗ",
+        "clean": "اللهم لك الحمد انت كسوتنيه اسالك خيره وخير ما صنع له  واعوذ بك من شره  وشر ما صنع له",
+        "transliteration": "Allaahumma lakal-hamdu 'Anta kasawtaneehi, 'as'aluka khayrahu wa khayra maa suni'a lahu, wa 'a'oodhu bika min sharrihi wa sharri ma suni'a lahu",
+        "reference": "Sahih (Albani). Tirmidhi: 1767",
+        "audio": 147,
+        "cat_id": 7,
+        "subcat_id": 16
+      },
+      "source": {
+        "name": "Dua when putting on a new garment",
+        "content": null,
+        "translation": "O Allah, for You is all praise, You have clothed me with it, I ask You for the good of it and the good for which it was made, and I seek refuge with You from the evil of it and the evil for which it was made.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "নতুন পোশাক পরিধানের দোয়া",
+        "translation": "হে আল্লাহ্‌, আপনারই সকল প্রশংসা। আপনি আমাকে এটি পরিধান করিয়েছেন। আমি আপনার নিকট প্রার্থনা করছি এর কল্যাণ এবং যে কল্যাণের জন্য তা উৎপাদিত। আমি আপনার আশ্রয় প্রার্থনা করছি এর অকল্যাণ এবং যে অকল্যাণের জন্য তা উৎপাদিত।"
+      }
+    },
+    {
+      "key": [
+        148
+      ],
+      "id": 148,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 148,
+        "groups": null,
+        "uthmani": "تُبْلَی وَيُخْلِفُ اللَّهُ تَعَالَی",
+        "indopak": "تُبْلٰی وَيُخْلِفُ اللّٰهُ تَعَالٰی",
+        "clean": "تبل ويخلف الله تعال",
+        "transliteration": "Tubla- wa yukhliful-laahu ta'aalaa",
+        "reference": "Sahih (Albani). Abu Dawud: 4020",
+        "audio": 148,
+        "cat_id": 7,
+        "subcat_id": 16
+      },
+      "source": {
+        "name": "Dua said to someone seen wearing a new garment",
+        "content": null,
+        "translation": "May you wear it out and Allah (Ta'aala) replace it [with another].",
+        "note": "The Companions used to make this dua when they saw someone wearing new clothes."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "নতুন পোশাক পরিধান কারীর জন্য দোয়া",
+        "translation": "এ কাপড় যেন তোমার দ্বারা পুরাতন হয় এবং মহান আল্লাহ্‌ যেন এর পরে তোমায় আরো কাপড় পরান।",
+        "note": "সাহাবীগণ কাউকে নতুন পোশাক পরতে দেখলে এ দোয়া করতেন।"
+      }
+    },
+    {
+      "key": [
+        149
+      ],
+      "id": 149,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 149,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّه",
+        "indopak": "بِسْمِ اللّٰهِ",
+        "clean": "بسم الله",
+        "transliteration": "Bismillaah",
+        "reference": "Sahih (Albani). Tirmidhi: 606",
+        "audio": 149,
+        "cat_id": 7,
+        "subcat_id": 16
+      },
+      "source": {
+        "name": "Dua before undressing",
+        "content": null,
+        "translation": "In the name of Allah.",
+        "note": "The Messenger of Allah (ﷺ) said: When one of you undresses or is uncovered, the veil between the human genitals and the eyes of the jinn is called 'Bismillah'."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "পরিধানের কাপড় খােলার দোয়া",
+        "translation": "আল্লাহ্‌র নামে।",
+        "note": "রাসূলুল্লাহ্‌ (ﷺ) বলেন, যখন তোমাদের কেউ কাপড় খুলবে বা অনাবৃত হবে তখন মানুষের গুপ্তাঙ্গ ও জিনদের দৃষ্টির মাঝে পর্দা ‘বিসমিল্লাহ’ বলা।"
+      }
+    },
     {
       "key": [
         150
@@ -38,6 +259,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "নতুন পোশাক পরিধানকারীর (মহিলা) জন্য দোয়া #১",
+        "translation": "তোমার কাপড় পুরোনো করো ও জীর্ণ করো।",
+        "note": "খালিদ ইবনু সাঈদ (রাঃ)-এর মেয়ে উম্মু খালিদ (রাঃ) বলেন, 'আল্লাহ্‌র রাসূল (ﷺ)-এর কাছে একটি পোশাক আনা হলো, যার উপর ছিল কালো রঙের নকশা। তখন তিনি বলেন, “এ পোশাকটি আমরা কাকে পরাতে পারি?” সাহাবীগণ নীরব থাকলে নবী (ﷺ) বলেন, “উম্মু খালিদকে নিয়ে আসো।” এরপর আমাকে নবী (ﷺ)-এর কাছে আনা হলে, তিনি নিজের হাতে ওই পোশাকটি আমাকে পরিয়ে দেন। তারপর দু'বার বলেন - (দোয়াটি উপরে উল্লেখিত হয়েছে)\n\nএটি ওই সময়ের ঘটনা, যখন উম্মু খালিদ তাঁর পিতার সঙ্গে ইথিওপিয়া থেকে হিজরত করে মদীনায় আসেন তখন তাঁর বয়স ছিল খুবই কম।"
       }
     },
     {
@@ -70,6 +296,10 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "নতুন পোশাক পরিধানকারীর (পুরুষ) জন্য দোয়া #২",
+        "translation": "তোমার কাপড় পুরোনো করো ও জীর্ণ করো।"
       }
     },
     {
@@ -102,6 +332,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "নতুন পোশাক পরিধানকারীর জন্য দোয়া #৩",
+        "translation": "তুমি নতুন পোশাক পরিধান করো, প্রশংসিত অবস্থায় বেঁচে থেকো, শহীদ হিসেবে মৃত্যুবরণ করো।",
+        "note": "ইবনু উমর (রাঃ) থেকে বর্ণিত, ‘উমর (রাঃ)-এর গায়ে একটি সাদা জামা দেখে নবী (ﷺ) বলেন, “তোমার এ জামাটি কি নতুন, নাকি ধোয়ার ফলে এমন দেখাচ্ছে?\" তিনি বলেন, “এটি বরং নতুন।” তখন নবী (ﷺ) বলেন -(দোয়াটি উপরে উল্লেখিত হয়েছে)\n\nউমর (রাঃ) বলেন, “হে আল্লাহ্‌র রাসূল! আপনার জন্যও একই দোয়া করছি।”"
       }
     },
     {
@@ -134,6 +369,10 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "নতুন পোশাক পরিধানকারীর জন্য দোয়া #৪",
+        "translation": "তুমি নতুন পোশাক পরিধান কোরো, প্রশংসিত অবস্থায় বেঁচে থেকো, শহীদ হিসেবে মৃত্যুবরণ কোরো আর আল্লাহ্‌ তা'আলা তোমাকে দুনিয়া ও আখিরাতে চক্ষু-শীতলকারী জিনিস দান করুন!"
       }
     },
     {
@@ -166,6 +405,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "বাড়ি থেকে বের হওয়ার যিক্‌র #১",
+        "translation": "আল্লাহ্‌র নামে, আমি আল্লাহ্‌র উপর নির্ভর করলাম। কোনো অবলম্বন নেই এবং কোনো শক্তি নেই আল্লাহ্‌র সাহায্য ছাড়া।",
+        "note": "আনাস (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, “যে ব্যক্তি তার বাড়ি থেকে বের হওয়ার সময় এ কথাগুলো বলবে, তাকে (আল্লাহ্‌র পক্ষ থেকে) বলা হবে: তোমার আর কোনো চিন্তা নেই, তোমার সকল দায়িত্ব গ্রহণ করা হলো, (তোমাকে সঠিক পথ দেখানো হলো) এবং তোমাকে হেফাযত করা হলো। আর শয়তান তার থেকে দূরে চলে যায়। অন্য বর্ণনায় : “এক শয়তান অন্য শয়তানের সাথে সাক্ষাৎ করে বলে, সে ব্যক্তির সকল দায়িত্ব গ্রহণ করা হয়েছে, হেফাযত করা হয়েছে এবং পথ দেখানো হয়েছে, কিভাবে আমরা তার ক্ষতি করতে পারি?”"
       }
     },
     {
@@ -198,6 +442,12 @@
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "বাড়ি থেকে বের হওয়ার যিক্‌র #২",
+        "content": "উম্মু সালামাহ (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বাড়ি থেকে বাহির হওয়ার সময় এ দোয়া পাঠ করতেন-",
+        "translation": "আল্লাহ্‌র নামে, আমি আল্লাহ্‌র উপর নির্ভর করছি। হে আল্লাহ্‌, আমরা আপনার আশ্রয় গ্রহণ করছি যে, আমরা পদস্খলিত হব বা বিভ্রান্ত হব, বা আমরা অত্যাচার করব বা অত্যাচারিত হব, বা আমরা কারো সাথে মূর্খতাসুলভ আচরণ করব বা কেউ আমাদের সাথে এরূপ মূর্খতাসুলভ আচরণ করবে।",
+        "note": "রাতদিন যে কোনো সময় বাড়ি থেকে বের হতে মুমিনের উচিত এ যিকিরগুলোর অর্থের দিকে লক্ষ্য রেখে অন্তরকে আল্লাহ্‌র দিকে রুজু করে পাঠ করা।"
       }
     },
     {
@@ -230,6 +480,11 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "বাড়ি থেকে বের হওয়ার সময়ের যিক্‌র #৩",
+        "content": "উম্মু সালামাহ্ (রাঃ) বলেন, রাসূল (ﷺ) যখনই আমার ঘর হতে বের হতেন, তখন আকাশের দিকে মাথা উঠিয়ে বলতেন -",
+        "translation": "হে আল্লাহ্‌! আমি আপনার নিকট আশ্রয় চাই যেন নিজেকে বা অন্যকে পথভ্রষ্ট না করি, অথবা অন্যের দ্বারা পথভ্রষ্ট না হই; আমার নিজের বা অন্যের পদস্খলন না করি, অথবা আমায় যেন পদস্খলন করানো না হয়; আমি যেন নিজের বা অন্যের উপর যুলম না করি অথবা আমার প্রতি যুলম না করা হয়; আমি যেন নিজে মুর্খতা না করি, অথবা আমার উপর মূর্খতা করা না হয়।"
       }
     },
     {
@@ -262,166 +517,11 @@
         "content": null,
         "translation": "",
         "note": ""
-      }
-    },
-    {
-      "key": [
-        158
-      ],
-      "id": 158,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 158,
-        "groups": null,
-        "uthmani": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
-        "indopak": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ",
-        "clean": "السلام عليكم ورحمه الله وبركاته",
-        "transliteration": "As-salaamu 'alaykum wara'hmatullaahi wa barakaatuh",
-        "reference": "Hasan (Ibn Hajar). MIshkat: 4/316",
-        "audio": 158,
-        "cat_id": 8,
-        "subcat_id": 18
       },
-      "source": {
-        "name": "Upon entering the home #2 (Salam)",
-        "content": null,
-        "translation": "Peace be upon you, and the Mercy of Allah and His Blessings.",
-        "note": "To give salaam upon all is sunnah. Giving salaam upon spouse and family members is additional sunnah. It is recommended and have special rewards and those who have this character, this below mentioned hadith give glad tidings. Abu umama (RA) said that, Rasoolullah (ﷺ) said, “Allah will give guarantee and protection for three kinds of people. If he live then all of his matter will be protected by Allah and if he die then he will enter into jannah. (First one is) He who give salaam before enter into the house, he will enter in the protection of Allah….”"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        159
-      ],
-      "id": 159,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 159,
-        "groups": null,
-        "uthmani": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا",
-        "indopak": "بِسْمِ اللّٰهِ وَلَجْنَا، وَبِسْمِ اللّٰهِ خَرَجْنَا، وَعَلَى اللّٰهِ رَبِّنَا تَوَكَّلْنَا",
-        "clean": "بسم الله ولجنا وبسم الله خرجنا وعلي الله ربنا توكلنا",
-        "transliteration": "Bismil-laahi walajna, wabismil-laahi kharajna, wa'alallaahi rabbina tawakkalna",
-        "reference": "[1] Hasan (Ibn Baz). Abu Dawud: 5096\n[2] Muslim: 2018",
-        "audio": 159,
-        "cat_id": 8,
-        "subcat_id": 18
-      },
-      "source": {
-        "name": "Upon entering the home #3",
-        "content": null,
-        "translation": "In the name of Allah we enter and in the name of Allah we leave, and upon our Lord we place our trust.",
-        "note": "Then give salaam to the people of the house. [1]\n\nWhen a person enters his house and mentions the name of Allah at the time of entering it and while eating the food, Satan says (addressing himself: You have no place to spend the night and no evening meal;[2]"
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        160
-      ],
-      "id": 160,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 160,
-        "groups": null,
-        "uthmani": "بِسْمِ اللَّهِ، اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
-        "indopak": "بِسْمِ اللّٰهِ، اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
-        "clean": "بسم الله اللهم اني اعوذ بك من الخبث والخباءث",
-        "transliteration": "Bismillaah, Allaahumma 'innee 'A'oodhu bika minal-khubuthi walkhabaa'ith",
-        "reference": "Bukhari: 142",
-        "audio": 160,
-        "cat_id": 9,
-        "subcat_id": 19
-      },
-      "source": {
-        "name": "Before entering the toilet",
-        "content": "Narrated Anas: The Prophet (ﷺ) used to say when he entered the toilet:",
-        "translation": "In the Name of Allah. O Allah, I seek protection in You from the male and female unclean spirits.",
-        "note": "Ali (RA) said, Rasoolullah (ﷺ) said: When one of you goes to a secluded place by the call of nature, the covering of the genitals of the children of Adam from the eyes of the jinn is to say \"Bismillah\"."
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        161
-      ],
-      "id": 161,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 161,
-        "groups": null,
-        "uthmani": "غُفْرَانَكَ",
-        "indopak": "غُفْرَانَكَ",
-        "clean": "غفرانك",
-        "transliteration": "Gufraanak",
-        "reference": "Sahih (Albani). Abu Dawud: 30",
-        "audio": 161,
-        "cat_id": 9,
-        "subcat_id": 19
-      },
-      "source": {
-        "name": "After leaving the toilet",
-        "content": "It is narrated on the authority of Aisha (RA) that the Messenger of Allah (ﷺ) used to say when he came out of the toilet:",
-        "translation": "I ask You (Allah) for forgiveness.",
-        "note": "Ayesha (RA) said that Rasoolullah (ﷺ) used to say this dua when he came out of the toilet."
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        162
-      ],
-      "id": 162,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 162,
-        "groups": null,
-        "uthmani": null,
-        "indopak": null,
-        "clean": "",
-        "transliteration": null,
-        "reference": "Muslim: 385",
-        "audio": null,
-        "cat_id": 10,
-        "subcat_id": 20
-      },
-      "source": {
-        "name": "Dua while hearing the adhaan #1",
-        "content": "Narrated by 'Umar ibn al-Khattab (RA), he said, The Messenger of Allah (ﷺ) said:\n \nWhen the muazzin says \"Allahu Akbar Allahu Akbar\",\nThen if any of you say “Allahu Akbar Allahu Akbar;\nWhen the muazzin says \"Ashhadu an laa ilaaha illallah\",\nIf he says \"Ashhadu an laa ilaaha illallah\";\nWhen Muazzin says “Ashhadu Anna Muhammadar Rasoolullah,\nIf he says \"Ashhadu Anna Muhammadar Rasoolullah\";\nWhen the muazzin says \"Haiya alas salah\",\nIf he says \"Laa hawla wala quwwata illa billah\";\nWhen the muazzin says \"Haiya alal falah\",\nIf he says \"Laa hawla wala quwwata illa billah\";\nWhen the muazzin says \"Allahu Akbar Allahu Akbar\",\nIf he says \"Allahu Akbar Allahu Akbar\",\nThen when the muazzin says \"Laa ilaaha illallah\",\nIf he says \"Laa ilaaha illallah\"\n\nIf he says these things from the heart, then he will go to Paradise.",
-        "translation": null,
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": null,
-        "note": null
+      "reference_bn": {
+        "name": "বাড়ি প্রবেশের যিক্‌র #১",
+        "translation": "হে আল্লাহ্‌, আমি আপনার কাছে প্রার্থনা করছি উত্তম প্রবেশস্থল ও উত্তম বহির্গমনস্থল। আল্লাহ্‌র নামে প্রবেশ করলাম এবং আল্লাহ্‌র নামে বাহির হলাম এবং আমাদের প্রভু আল্লাহ্‌র উপর নির্ভর করলাম।",
+        "note": "রাসূলুল্লাহ্‌ (ﷺ) বাড়িতে প্রবেশের সময় আল্লাহ্‌র যিক্‌র করতে নির্দেশ দিয়েছেন এবং জানিয়েছেন যে, আল্লাহ্‌র যিক্‌র করে বাড়িতে প্রবেশ করলে শয়তান সে বাড়িতে অবস্থান করতে পারে না। বাড়ি প্রবেশের মাসনূন মূল যিক্‌র হচ্ছে “সালাম”। আবু মালিক আশআরীর (রাঃ) সূত্রে বর্ণিত, রাসূলুল্লাহ্‌ (ﷺ) বলেন: তোমাদের কেউ যখন প্রবেশ করবে তখন যেন সে এ কথাগুলো বলে, এরপর তার স্ত্রী-পরিজনদেরকে সালাম দিবে।” হাদীসটির রাবীগণ সকলেই নির্ভরযোগ্য, কিন্তু হাদীসটি “মুরসাল হওয়ার সম্ভাবনা রয়েছে।"
       }
     }
   ]

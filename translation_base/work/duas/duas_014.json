@@ -4,10 +4,341 @@
   "source_language": "en",
   "target_language": "TARGET",
   "status": "pending",
-  "rows": 13,
-  "id_range": "181-193",
-  "source_chars": 5853,
+  "rows": 17,
+  "id_range": "172-188",
+  "source_chars": 5762,
   "items": [
+    {
+      "key": [
+        172
+      ],
+      "id": 172,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 172,
+        "groups": null,
+        "uthmani": "سُبْحَانَكَ اَللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلاَّ أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ",
+        "indopak": "سُبْحَانَكَ اَللّٰهُمَّ وَبِحَمْدِكَ، اَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اَنْتَ، اَسْتَغْفِرُكَ وَاَتُوْبُ اِلَيْكَ",
+        "clean": "سبحانك اللهم وبحمدك اشهد ان لا اله الا انت استغفرك واتوب اليك",
+        "transliteration": "Subhaanaka Allaahumma wa bihamdika, 'ash-hadu 'an laa 'ilaaha 'illaa 'Anta, 'astaghfiruka wa 'atoobu 'ilayk",
+        "reference": "An-Nasa'i, 'Amalul-Yawm wal-Laylah, p. 173. See also Al-Albani, 'Irwa'ul-Ghalil 1/135 and 2/94.",
+        "audio": 172,
+        "cat_id": 11,
+        "subcat_id": 25
+      },
+      "source": {
+        "name": "Upon completing the ablution #3",
+        "content": null,
+        "translation": "Glory is to You, O Allah, and praise; I bear witness that there is none worthy of worship but You. I seek Your forgiveness and turn to You in repentance.",
+        "note": "Abu Sayed (RA) said, Rasulullah (ﷺ) said, if someone says this dua after ablution, it will be written in a letter and sealed (under the throne). That seal will not be broken before the Resurrection."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "ওষুর পরের যিক্‌র #৩",
+        "translation": "আপনার পবিত্রতা ঘোষণা করছি, হে আল্লাহ্‌, এবং আপনার প্রশংসা জ্ঞাপন করছি। আমি সাক্ষ্য দিচ্ছি যে, একমাত্র আল্লাহ্‌ ছাড়া কোনও হক্ব ইলাহ নেই এবং আমি আপনার কাছে ক্ষমা প্রার্থনা করছি এবং আপনার কাছে তাওবা করছি।",
+        "note": "আবু সাঈদ (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেন, কেউ ওযূর পরে এ দোয়াটি বললে তা একটি পত্রে লিখে তা মোহরাঙ্কিত করে (আরশের নিচে) রাখা হবে। কিয়ামতের আগে সে মোহর ভাঙ্গা হবে না।"
+      }
+    },
+    {
+      "key": [
+        173
+      ],
+      "id": 173,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 173,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اجْعَلْ فِي قَلْبِيْ نُوْرًا وَّفِي لِسَانِىْ نُوْرًا وَّاجْعَلْ فِي سَمْعِىْ نُوْرًا وَّاجْعَلْ فِي بَصَرِىْ نُوْرًا وَّاجْعَلْ مِنْ خَلْفِي نُوْرًا وَّمِنْ أَمَامِيْ نُوْرًا وَّاجْعَلْ مِنْ فَوْقِىْ نُوْرًا وَّمِنْ تَحْتِىْ نُوْرًا اَللَّهُمَّ أَعْطِنِىْ نُوْرًا",
+        "indopak": "اَللّٰهُمَّ اجْعَلْ فِىْ قَلْبِىْ نُوْرًا وَّفِىْ لِسَانِىْ نُوْرًا وَّاجْعَلْ فِىْ سَمْعِىْ نُوْرًا وَّاجْعَلْ فِىْ بَصَرِىْ نُوْرًا وَّاجْعَلْ مِنْ خَلْفِىْ نُوْرًا وَّمِنْ اَمَامِىْ نُوْرًا وَّاجْعَلْ مِنْ فَوْقِىْ نُوْرًا وَّمِنْ تَحْتِىْ نُوْرًا اَللّٰهُمَّ اَعْطِنِىْ نُوْرًا",
+        "clean": "اللهم اجعل في قلبي نورا وفي لساني نورا واجعل في سمعي نورا واجعل في بصري نورا واجعل من خلفي نورا ومن امامي نورا واجعل من فوقي نورا ومن تحتي نورا اللهم اعطني نورا",
+        "transliteration": "Allaahumma-j‛al fee qalbee noor-an, wa fee lisaanee noor-an, waj‛al fee sam‛ee noor-an, waj‛al fee basaree noor-an, waj‛al min khalfee noor-an, wamin amaamee noor-an, waj‛al min fawqee noor-an, wa min t'ahtee noor-an, Allaahumma a‛tinee noor-an",
+        "reference": "Bukhari: 6316",
+        "audio": 173,
+        "cat_id": 12,
+        "subcat_id": 26
+      },
+      "source": {
+        "name": "Prayers while going to the mosque #1",
+        "content": "When the Mu'adhdhin gave the call to prayer, the Prophet (ﷺ) used to go out for the prayer while reciting this supplication -",
+        "translation": "O Allah, place within my heart light, and upon my tongue light, and within my ears light, and within my eyes light, and place behind me light, and in front of me light, and above me light, and beneath me light. O Allah, bestow upon me light.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মসজিদে যাওয়ার সময় দোয়া #১",
+        "content": "মুআযযিন আযান দিলে, নবী (ﷺ)-এ দোয়া পড়তে পড়তে সালাতের উদ্দেশে বেড়িয়ে পড়তেন -",
+        "translation": "হে আল্লাহ্‌! তুমি আমার অন্তরে, জিহ্বায়, কর্ণে ও চোখে নূর দান করো। আমার পিছনে ও সামনে নূর দান করো। নূর দান করো আমার উপরে ও নীচে। হে আল্লাহ্‌! তুমি আমাকে নূর দান করো।"
+      }
+    },
+    {
+      "key": [
+        174
+      ],
+      "id": 174,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 174,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا، وَفِي لِسَانِي نُورًا، وَفِي سَمْعِي نُورًا، وَفِي بَصَرِي نُورًا، وَمِنْ فَوْقِي نُورًا، وَمِنْ تَحْتِي نُورًا، وَعَنْ يَمِينِي نُورًا، وَعَنْ شِمَالِي نُورًا، وَمِنْ أَمَامِي نُورًا، وَمِنْ خَلْفِي نُورًا، وَاجْعَلْ فِي نَفْسِي نُورًا، وَأَعْظِمْ لِي نُورًا، وَعَظِّمْ لِي نُورًا، وَاجْعَلْ لِي نُورًا، وَاجْعَلْنِي نُورًا، اَللَّهُمَّ أَعْطِنِي نُورًا، وَاجْعَلْ فِي عَصَبِي نُورًا، وَفِي لَحْمِي نُورًا، وَفِي دَمِي نُورا، وَفِي شَعْرِي نُورًا، وَفِي بَشَرِي نُورًا",
+        "indopak": "اَللّٰهُمَّ اجْعَلْ فِي قَلْبِيْ نُوْرًا، وَفِيْ لِسَانِيْ نُوْرًا، وَفِيْ سَمْعِيْ نُوْرًا، وَفِيْ بَصَرِيْ نُوْرًا، وَمِنْ فَوْقِي نُوْرًا، وَمِنْ تَحْتِيْ نُوْرًا، وَعَنْ يَّمِيْنِيْ نُوْرًا، وَعَنْ شِمَالِيْ نُوْرًا، وَمِنْ اَمَامِيْ نُوْرًا، وَمِنْ خَلْفِيْ نُوْرًا، وَاجْعَلْ فِيْ نَفْسِيْ نُوْرًا، وَاَعْظِمْ لِيْ نُوْرًا، وَعَظِّمْ لِيْ نُوْرًا، وَاجْعَلْ لِيْ نُوْرًا، وَاجْعَلْنِيْ نُوْرًا، اَللّٰهُمَّ اَعْطِنِيْ نُوْرًا، وَاجْعَلْ فِيْ عَصَبِيْ نُوْرًا، وَفِيْ لَحْمِيْ نُوْرًا، وَفِيْ دَمِيْ نُوْرًا، وَفِي شَعْرِيْ نُورًا، وَفِيْ بَشَرِيْ نُوْرًا",
+        "clean": "اللهم اجعل في قلبي نورا وفي لساني نورا وفي سمعي نورا وفي بصري نورا ومن فوقي نورا ومن تحتي نورا وعن يميني نورا وعن شمالي نورا ومن امامي نورا ومن خلفي نورا واجعل في نفسي نورا واعظم لي نورا وعظم لي نورا واجعل لي نورا واجعلني نورا اللهم اعطني نورا واجعل في عصبي نورا وفي لحمي نورا وفي دمي نورا وفي شعري نورا وفي بشري نورا",
+        "transliteration": "Allaahummaj'al fee qalbee nooran, wa fee lisaaanee nooran, wa fee sam'ee nooran, wa fee basaree nooran, wa min fawqee nooran, wa min tahtee nooran, wa 'an yameenee nooran, wa 'an shimaalee nooran, wa min 'amaamee nooran, wa min khalfee nooran, waj'al fee nafsee nooran, wa 'a'dhim lee nooran, wa 'adhdhim lee nooran, waj'al lee nooran, waj'alnee nooran, Allaahumma 'a'tinee nooran, waj'al fee 'asabee nooran, wafee lahmee nooran, wafee damee nooran, wa fee sha'ree nooran, wa fee basharee nooran.",
+        "reference": "Bukhari: 6316",
+        "audio": 174,
+        "cat_id": 12,
+        "subcat_id": 26
+      },
+      "source": {
+        "name": "Prayers while going to the mosque #2",
+        "content": null,
+        "translation": "O Allah, place light in my heart, and on my tongue light, and in my ears light and in my sight light, and above me light, and below me light, and to my right light, and to my left light, and before me light and behind me light. Place in my soul light. Magnify for me light, and amplify for me light. Make for me light and make me a light. O Allah, grant me light, and place light in my nerves, and in my body light and in my blood light and in my hair light and in my skin light.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মসজিদে যাওয়ার সময় দোয়া #২",
+        "translation": "হে আল্লাহ্‌! আপনি আমার অন্তরে নূর (বা আলো) দান করুন, আমার যবানে নূর দান করুন, আমার শ্রবণশক্তিতে নূর দান করুন, আমার দর্শনশক্তিতে নূর দান করুন, আমার উপরে নূর দান করুন, আমার নীচে নূর দান করুন, আমার ডানে নূর দান করুন, আমার বামে নূর দান করুন, আমার সামনে নূর দান করুন, আমার পেছনে নূর দান করুন, আমার আত্মায় নূর দান করুন, আমার জন্য নূরকে বড় করে দিন, আমার জন্য নূর বাড়িয়ে দিন, আমার জন্য নূর নির্ধারণ করুন, আমাকে আলোকময় করুন। হে আল্লাহ্‌! আমাকে নূর দান করুন, আমার পেশীতে নূর প্রদান করুন, আমার গোশতে নূর দান করুন, আমার রক্তে নূর দান করুন, আমার চুলে নূর দান করুন ও আমার চামড়ায় নূর দান করুন।"
+      }
+    },
+    {
+      "key": [
+        175
+      ],
+      "id": 175,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 175,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُوْلِ اللَّهِ، اَللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+        "indopak": "بِسْمِ اللّٰهِ، وَالصَّلَاةُ وَالسَّلَامُ عَلٰى رَسُوْلِ اللّٰهِ، اَللّٰهُمَّ افْتَحْ لِيْ اَبْوَابَ رَحْمَتِكَ",
+        "clean": "بسم الله والصلاه والسلام علي رسول الله اللهم افتح لي ابواب رحمتك",
+        "transliteration": "Bismillaahi, Wassalaatu Wassalaamu 'alaa Rasoolillaah. Allahum-maftah lee 'abwaaba rahmatik.",
+        "reference": "Sahih (Albani). Abu Dawud: 465, Muslim: 713",
+        "audio": 175,
+        "cat_id": 12,
+        "subcat_id": 27
+      },
+      "source": {
+        "name": "Upon entering the mosque #1",
+        "content": null,
+        "translation": "In the Name of Allah, And blessings and peace be upon the Messenger of Allah (ﷺ). O Allah, open before me the doors of Your mercy.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মসজিদে প্রবেশের দোয়া #১",
+        "translation": "আল্লাহ্‌র নামে (প্রবেশ করছি), সালাত ও সালাম আল্লাহ্‌র রাসূল (ﷺ)-এর উপর, হে আল্লাহ্‌! আপনি আমার জন্য আপনার রহমতের দরজাসমূহ খুলে দিন।"
+      }
+    },
+    {
+      "key": [
+        176
+      ],
+      "id": 176,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 176,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، اَللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+        "indopak": "بِسْمِ اللّٰهِ اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ، اَللّٰهُمَّ افْتَحْ لِيْ اَبْوَابَ رَحْمَتِكَ",
+        "clean": "بسم الله اللهم صل علي محمد اللهم افتح لي ابواب رحمتك",
+        "transliteration": "Bismillaahi, Allaahumma salli 'ala muhammad, Allaahummaf ta'hlii abwaba ra'hmatik",
+        "reference": "Hasan (Albani). Ibn Sunni: 88, Muslim: 713",
+        "audio": 176,
+        "cat_id": 12,
+        "subcat_id": 27
+      },
+      "source": {
+        "name": "Upon entering the mosque #2",
+        "content": "The Messenger of Allah (ﷺ), used to say when he entered the mosque:",
+        "translation": "In the Name of Allah, Ya Allah please send  blessings and peace upon the Messenger of Allah (ﷺ). O Allah, open before me the doors of Your mercy.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মসজিদে প্রবেশের দোয়া #২",
+        "content": "আল্লাহ্‌র রাসূল (ﷺ) মসজিদে প্রবেশ করার সময় বলতেন -",
+        "translation": "আল্লাহ্‌র নামে (প্রবেশ করছি)। হে আল্লাহ্‌! মুহাম্মাদ (ﷺ)-এর উপর শান্তি বর্ষণ করো৷ হে আল্লাহ্‌! আমার জন্য তোমার রহমতের দরজাগুলো খুলে দাও!"
+      }
+    },
+    {
+      "key": [
+        177
+      ],
+      "id": 177,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 177,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي ذُنُوْبِي وَافْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِىْ ذُنُوْبِىْ وَافْتَحْ لِىْ اَبْوَابَ رَحْمَتِكَ",
+        "clean": "اللهم اغفر لي ذنوبي وافتح لي ابواب رحمتك",
+        "transliteration": "Rabbig-firli dhunubi waftah li abwaaba rahmatik",
+        "reference": "Sahih (Albani). Ibn Majah: 771",
+        "audio": 177,
+        "cat_id": 12,
+        "subcat_id": 27
+      },
+      "source": {
+        "name": "Upon entering the mosque #3",
+        "content": "Whenever the Messenger of Allah (ﷺ) entered the mosque he would say Durood. Then Say:",
+        "translation": "O Allah, forgive me my sins and open to me the gates of Your mercy.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মসজিদে প্রবেশের দোয়া #৩",
+        "content": "রাসূল (ﷺ) যখন মসজিদে প্রবেশ করতেন, দরূদ পাঠ করতেন। অতঃপর বলতেন -",
+        "translation": "হে আল্লাহ্‌! আমার পাপসমূহ ক্ষমা করে দাও এবং আমার জন্য তোমার রহমতের দরজাসমূহ খুলে দাও।"
+      }
+    },
+    {
+      "key": [
+        178
+      ],
+      "id": 178,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 178,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِاللَّهِ الْعَظِيمِ وَبِوَجْهِهِ الْكَرِيمِ وَسُلْطَانِهِ الْقَدِيْمِ مِنَ الشَّيْطَانِ الرَّجِيْمِ، بِسْمِ اللَّهِ وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُوْلِ اللَّهِ اَللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+        "indopak": "اَعُوْذُ بِاللّٰهِ الْعَظِيْمِ وَبِوَجْهِهِ الْكَرِيْمِ وَسُلْطَانِهِ الْقَدِيْمِ مِنَ الشَّيْطَانِ الرَّجِيْمِ، بِسْمِ اللّٰهِ وَالصَّلَاةُ وَالسَّلَامُ عَلٰى رَسُوْلِ اللّٰهِ اَللّٰهُمَّ افْتَحْ لِىْ اَبْوَابَ رَحْمَتِكَ",
+        "clean": "اعوذ بالله العظيم وبوجهه الكريم وسلطانه القديم من الشيطان الرجيم بسم الله والصلاه والسلام علي رسول الله اللهم افتح لي ابواب رحمتك",
+        "transliteration": "A'oodhu billahil-Aatheem wa bi wajhihil-kareem wa sultanihil-qadeem minash-shaytanir-rajeem, bismil-lahi, wassalatu wassalamu 'Aala rasoolil-lah, Allaahumma iftah lee abwaaba rahmatik",
+        "reference": "Sahih (Albani). Abu Dawud: 465, 466",
+        "audio": 178,
+        "cat_id": 12,
+        "subcat_id": 27
+      },
+      "source": {
+        "name": "Upon entering the mosque #4",
+        "content": "If some hadiths are combined, the Dua for entering the mosque will be as follows:",
+        "translation": "I take refuge with Allah, The Supreme and with His Noble Face, and His eternal authority from the accursed devil. In the name of Allah, and prayers and peace be upon the Messenger of Allah (ﷺ). O Allah, open the gates of Your mercy for me.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মসজিদে প্রবেশের দোয়া #৪",
+        "content": "কিছু হাদীস সমূহ একত্রিত করলে মসজিদে প্রবেশের দোয়া হবে নিম্নরূপ -",
+        "translation": "আমি মহান আল্লাহ্‌র নিকট বিতাড়িত শয়তান হতে আশ্রয় প্রার্থনা করছি, যিনি সর্বময় রাজত্বের এবং মর্যাদাপূর্ণ চেহারার অধিকারী। আল্লাহ্‌র নামে (প্রবেশ করছি), সালাত ও সালাম আল্লাহ্‌র রাসূলের উপর, হে আল্লাহ্‌! আপনি আমার জন্য আপনার রহমতের দরজাসমূহ খুলে দিন।"
+      }
+    },
+    {
+      "key": [
+        179
+      ],
+      "id": 179,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 179,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ",
+        "indopak": "بِسْمِ اللّٰهِ اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ، اَللّٰهُمّ َاِنِّيْ اَسْاَلُكَ مِنْ فَضْلِكَ",
+        "clean": "بسم الله اللهم صل علي محمد اللهم اني اسالك من فضلك",
+        "transliteration": "Bismillahi Allaahumma salli 'ala muhammad, Allaahumma inni as-aluka min fadlik",
+        "reference": "Hasan (Albani). Ibn Sunni: 88, Muslim: 713",
+        "audio": 179,
+        "cat_id": 12,
+        "subcat_id": 28
+      },
+      "source": {
+        "name": "Upon leaving the mosque #1",
+        "content": "If some hadiths are combined, the Dua for going out the mosque will be as follows:",
+        "translation": "In the name of Allah (I am going out).Oh Allah! Please send bessings and peace upon muhammad (ﷺ). Oh Allah! I want from your bounty.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মসজিদ থেকে বের হওয়ার দোয়া #১",
+        "content": "কিছু হাদীস সমূহ একত্রিত করলে মসজিদ থেকে বের হওয়ার দোয়া হবে নিম্নরূপ -",
+        "translation": "আল্লাহ্‌র নামে (বের হচ্ছি)। হে আল্লাহ্‌! মুহাম্মাদ (ﷺ)-এর উপর শান্তি বর্ষণ করো। হে আল্লাহ্‌! আমি তোমার কাছে তোমার করুণা চাই।"
+      }
+    },
+    {
+      "key": [
+        180
+      ],
+      "id": 180,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 180,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُوْلِ اللَّهِ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ، اَللَّهُمَّ اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "indopak": "بِسْمِ اللّٰهِ وَالصَّلَاةُ وَالسَّلَامُ عَلٰى رَسُوْلِ اللّٰهِ، اَللّٰهُمَّ اِنِّي اَسْاَلُكَ مِنْ فَضْلِكَ، اَللّٰهُمَّ اعْصِمْنِيْ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "بسم الله والصلاه والسلام علي رسول الله اللهم اني اسالك من فضلك اللهم اعصمني من الشيطان الرجيم",
+        "transliteration": "Bismillaahi wassalaatu wassalaamu 'alaa Rasoolillaah, Allaahumma 'innee 'as'aluka min fadhlik, Allaahumma'simnee minash-Shaytaanir-rajeem.",
+        "reference": "Sahih (Albani). Ibn Majah: 773",
+        "audio": 180,
+        "cat_id": 12,
+        "subcat_id": 28
+      },
+      "source": {
+        "name": "Upon leaving the mosque #2",
+        "content": "Start with the left foot and say-",
+        "translation": "In the Name of Allah, and peace and blessings be upon the Messenger of Allah (ﷺ). O Allah, I ask for Your favor, O Allah, protect me from Satan the outcast.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "মসজিদ থেকে বের হওয়ার দোয়া #২",
+        "content": "বাম পা দিয়ে শুরু করবে এবং বলবে -",
+        "translation": "আল্লাহ্‌র নামে (বের হচ্ছি)। আল্লাহ্‌র রাসূল (ﷺ)-এর উপর শান্তি বর্ষিত হোক। হে আল্লাহ্‌! আপনি আমার গুনাসমূহ মাফ করে দিন এবং আমার জন্য আপনার দয়ার দরজাগুলো খুলে দিন। হে আল্লাহ্‌, আমাকে বিতাড়িত শয়তান থেকে হেফাযত করুন।"
+      }
+    },
     {
       "key": [
         181
@@ -38,6 +369,11 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "মসজিদ থেকে বের হওয়ার দোয়া #৩",
+        "content": "রাসূলুল্লাহ্‌ (ﷺ) মসজিদ থেকে বের হওয়ার সময় এ যিক্‌র পাঠ করতে নির্দেশ দিয়েছেন -",
+        "translation": "হে আল্লাহ্‌ আমাকে বিতাড়িত শয়তান থেকে রক্ষা করুন"
       }
     },
     {
@@ -70,6 +406,11 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "মসজিদ থেকে বের হওয়ার দোয়া #৪",
+        "content": "মসজিদ থেকে কেউ বের হওয়ার সময় সে যেন নবী (ﷺ)-এর উপর সালাম প্রেরণ করে এবং বলে -",
+        "translation": "হে আল্লাহ্‌! আমাকে বিতাড়িত শয়তান থেকে সুরক্ষিত রাখুন"
       }
     },
     {
@@ -102,6 +443,11 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "মসজিদ থেকে বের হওয়ার দোয়া #৫",
+        "content": "মসজিদ থেকে কেউ বের হওয়ার সময় সে যেন নবী (ﷺ)-এর উপর দরূদ প্রেরণ করে এবং বলে -",
+        "translation": "হে আমার প্রতিপালক! আমার পাপ সমূহ ক্ষমা করে দাও এবং তোমার অনুগ্রহের দরজাসমূহ আমার জন্য খুলে দাও।"
       }
     },
     {
@@ -134,6 +480,12 @@
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "যে ব্যক্তি মসজিদে হারানো বিজ্ঞপ্তি দেয়, তার ব্যাপারে দোয়া",
+        "content": "আবু হুরায়রা (রাঃ) থেকে বর্ণিত, তিনি বলেন, আল্লাহ্‌র রাসূল (ﷺ) বলেছেন, “যে ব্যক্তি শুনতে পায় যে, কেউ মসজিদের ভেতর হারানো-বিজ্ঞপ্তি ঘোষণা করছে, তখন সে যেন বলে -",
+        "translation": "আল্লাহ্‌ তোমাকে এটি ফিরিয়ে না দিক!",
+        "note": "এর কারণ, মসজিদগুলো এ উদ্দেশ্যে বানানো হয়নি।"
       }
     },
     {
@@ -166,6 +518,12 @@
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "যে ব্যক্তি মসজিদে বেচাকেনা করে, তার ব্যাপারে দোয়া",
+        "content": "আবু হুরায়রা (রাঃ) থেকে বর্ণিত, আল্লাহ্‌র রাসূল (ﷺ) বলেন, 'যখন তোমরা মসজিদের ভেতর কাউকে বেচাকেনা করতে দেখবে, তখন বলবে -",
+        "translation": "আল্লাহ্‌ তোমার ব্যাবসাতে মুনাফা না দিক!",
+        "note": "এর কারণ, মসজিদগুলো এ উদ্দেশ্যে বানানো হয়নি।"
       }
     },
     {
@@ -198,6 +556,10 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "সানার দোয়া #২",
+        "translation": "যিনি আসমানসমূহ ও যমীন সৃষ্টি করেছেন আমি একনিষ্টভাবে আমার মুখমণ্ডল তাঁর দিকেই ফিরালাম, আর আমি মুশরিকদের অন্তর্ভুক্ত নই। নিশ্চয় আমার সালাত, আমার কুরবানী বা যাবতীয় ইবাদাত, আমার জীবন ও আমার মরণ সৃষ্টিকুলের রব্ব আল্লাহ্‌র জন্য। তাঁর কোনো শরীক নেই। আর আমি এরই আদেশ প্রাপ্ত হয়েছি এবং আমি মুসলিমদের অন্তর্ভুক্ত। হে আল্লাহ্‌! আপনিই অধিপতি, আপনি ব্যতীত আর কোনো হক্ব ইলাহ নেই। আপনি আমার রব্ব, আমি আপনার বান্দা। আমি আমার নিজের প্রতি অন্যায় করেছি এবং আমি আমার পাপসমূহ স্বীকার করছি। সুতরাং আপনি আমার সমুদয় গুনাহ মাফ করে দিন। নিশ্চয় আপনি ছাড়া আর কেউ গুনাহসমূহ মাফ করতে পারে না। আর আপনি আমাকে সর্বোত্তম চরিত্রের পথে পরিচালিত করুন, আপনি ছাড়া আর কেউ উত্তম চরিত্রের পথে পরিচালিত করতে পারে না। আর আপনি আমার থেকে আমার খারাপ চরিত্রগুলো দূরীভূত করুন, আপনি ব্যতীত আর কেউ সে খারাপ চরিত্রগুলো অপসারিত করতে পারে না। আমি আপনার হুকুম মানার জন্য সদা-সর্বদা হাজির, সকল কল্যাণই আপনার দু’ হাতে নিহিত। অকল্যাণ আপনার দিকে নয় (অর্থাৎ মন্দকে আপনার দিকে সম্পৃক্ত করা উচিত নয়, অথবা মন্দ দ্বারা আপনার নিকটবর্তী হওয়া যায় না, বা মন্দ আপনার দিকে উঠে না)। আমি আপনার দ্বারাই (প্রতিষ্ঠিত আছি, সহযোগিতা পেয়ে থাকি) এবং আপনার দিকেই (আমার সকল প্রবণতা, বা আমার প্রত্যাবর্তন)। আপনি বরকতময় এবং আপনি সুঊচ্চ। আমি আপনার নিকট ক্ষমা চাই এবং আপনার কাছে তাওবাহ্‌ করছি।"
       }
     },
     {
@@ -230,6 +592,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "সানার দোয়া #৩",
+        "translation": "হে আল্লাহ্‌, আপনি দূরত্ব সৃষ্টি করে দিন আমার ও আমার পাপের মধ্যে যেমন দূরত্ব আপনি রেখেছেন পূর্ব ও পশ্চিমের মধ্যে (আমাকে সকল প্রকার পাপ থেকে শত যোজন দূরে থাকার তাওফীক প্রদান করুন)। হে আল্লাহ্‌, আপনি আমাকে পরিচ্ছন্ন ও পবিত্র করুন পাপ থেকে, যেমনভাবে পরিচ্ছন্ন করা হয় ধবধবে সাদা কাপড়কে ময়লা থেকে। হে আল্লাহ্‌ আপনি ধৌত করুন আমার পাপরাশী পানি, বরফ এবং তুষার-শিলা দ্বারা (আমার হৃদয়কে পাপমুক্তি ও অনন্ত প্রশান্তি প্রদান করুন)।",
+        "note": "আবু হুরাইরা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) সালাতে দাঁড়িয়ে তাকবীরে তাহরীমার পরে কিরাআতের করার আগে অল্প সময় চুপ করে থাকতেন। আমি বললাম: হে আল্লাহ্‌র রাসূল (ﷺ), আমার পিতামাতা আপনার জন্য কুরবান হোক, আপনি তাকবীরে তাহরীমা ও কিরাআতের মধ্যবর্তী সময়ে নীরব থাকেন, এ সময়ে আপনি কী বলেন? তিনি (ﷺ) বললেন, আমি এ সময়ে বলি: (উপরের বাক্যগুলো)"
       }
     },
     {
@@ -262,166 +629,11 @@
         "content": null,
         "translation": "",
         "note": ""
-      }
-    },
-    {
-      "key": [
-        189
-      ],
-      "id": 189,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 189,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ قَيِّمُ السَّمَوَاتِ وَالْأَرْضِ وَمَنْ فِيهِنَّ وَلَكَ الْحَمْدُ، لَكَ مُلْكُ السَّمَوَاتِ وَالْأَرْضِ وَمَنْ فِيهِنَّ، وَلَكَ الْحَمْدُ أَنْتَ نُورُ السَّمَوَاتِ وَالْأَرْضِ، وَلَكَ الْحَمْدُ أَنْتَ الْحَقُّ، وَوَعْدُكَ الْحَقُّ، وَلِقَاؤُكَ حَقٌّ، وَقَوْلُكَ حَقٌّ، وَالْجَنَّةُ حَقٌّ، وَالنَّارُ حَقٌّ، وَالنَّبِيُّونَ حَقٌّ، وَمُحَمَّدٌ ﷺ حَقٌّ، وَالسَّاعَةُ حَقٌّ، اَللَّهُمَّ لَكَ أَسْلَمْتُ، وَبِكَ آمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ، وَإِلَيْكَ أَنَبْتُ، وَبِكَ خَاصَمْتُ، وَإِلَيْكَ حَاكَمْتُ، فَاغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ، أَنْتَ الْمُقَدِّمُ وَأَنْتَ الْمُؤَخِّرُ، لَا إِلَهَ إِلَّا أَنْتَ (لَا إِلَهَ غَيْرُكَ)",
-        "indopak": "اَللّٰهُمَّ لَكَ الْحَمْدُ اَنْتَ قَيِّمُ السَّمَاوَاتِ وَالْاَرْضِ وَمَنْ فِيْهِنَّ وَلَكَ الْحَمْدُ، لَكَ مُلْكُ السَّمَاوَاتِ وَالْاَرْضِ وَمَنْ فِيْهِنَّ، وَلَكَ الْحَمْدُ اَنْتَ نُوْرُ السَّمَاوَاتِ وَالْاَرْضِ، وَلَكَ الْحَمْدُ اَنْتَ الْحَقُّ، وَوَعْدُكَ الْحَقُّ، وَلِقَاؤُكَ حَقٌّ، وَقَوْلُكَ حَقٌّ، وَالْجَنَّةُ حَقٌّ، وَالنَّارُ حَقٌّ، وَالنَّبِيُّوْنَ حَقٌّ، وَمُحَمَّدٌ ﷺ حَقٌّ، وَالسَّاعَةُ حَقٌّ، اَللّٰهُمَّ لَكَ اَسْلَمْتُ، وَبِكَ اٰمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ، وَاِلَيْكَ اَنَبْتُ، وَبِكَ خَاصَمْتُ، وَاِلَيْكَ حَاكَمْتُ، فَاغْفِرْ لِيْ مَا قَدَّمْتُ وَمَا اَخَّرْتُ، وَمَا اَسْرَرْتُ وَمَا اَعْلَنْتُ، اَنْتَ الْمُقَدِّمُ وَاَنْتَ الْمُؤَخِّرُ، لَا اِلٰهَ اِلَّا اَنْتَ (لَا اِلٰهَ غَيْرُكَ)",
-        "clean": "اللهم لك الحمد انت قيم السماوات والارض ومن فيهن ولك الحمد لك ملك السماوات والارض ومن فيهن ولك الحمد انت نور السماوات والارض ولك الحمد انت الحق ووعدك الحق ولقاءك حق وقولك حق والجنه حق والنار حق والنبيون حق ومحمد  حق والساعه حق اللهم لك اسلمت وبك امنت وعليك توكلت واليك انبت وبك خاصمت واليك حاكمت فاغفر لي ما قدمت وما اخرت وما اسررت وما اعلنت انت المقدم وانت المءخر لا اله الا انت لا اله غيرك",
-        "transliteration": "Allaahumma lakal-hamdu. Anta qaiyyimus-samawaati wal-ardi wa man fihinna. Walakal-hamdu, Laka mulkus-samawaati wal-ardi wa man fihinna. Walakal-hamdu, anta nurus-samawaati wal-ardi. Walakal-hamdu, antal-haqqu wa wa'dukal-haqqu, wa liqaa'uka Haqqun, wa qauluka Haqqun, wal-jannatu Haqqun wan-naaru Haqqun wannabiyuna Haqqun. Wa Muhammadun (ﷺ) Haqqun, was-sa'atu Haqqun. Allaahumma Laka aslamtu wabika amantu, wa 'Alaika tawakkaltu, wa ilaika anabtu wa bika khaasamtu, wa ilaika ‘haakamtu faghfir li maa qaddamtu wamaa akh-khartu wamaa as-rartu wamaa a’lantu, antal-muqaddimu wa antal muakh-khiru, laa ilaaha illaa anta (in another narration there is laa ilaaha ghairuka instead of laa ilaaha illaa anta)",
-        "reference": "Bukhari: 1120",
-        "audio": null,
-        "cat_id": 13,
-        "subcat_id": 31
       },
-      "source": {
-        "name": "At the beginning of the prayer #5",
-        "content": "Ibn 'Abbas (RA) said: when The Prophet (ﷺ) was standing at night to pray Tahajjud, he used to recite:",
-        "translation": "O Allah! All the praises are for you, You are the Holder of the Heavens and the Earth, And whatever is in them. All the praises are for You; You have the possession of the Heavens and the Earth And whatever is in them. All the praises are for You; You are the Light of the Heavens and the Earth And all the praises are for You; You are the King of the Heavens and the Earth; And all the praises are for You; You are the Truth and Your Promise is the truth, And to meet You is true, Your Word is the truth And Paradise is true And Hell is true And all the Prophets (Peace be upon them) are true; And Muhammad (ﷺ) is true, And the Day of Resurrection is true. O Allah ! I surrender (my will) to You; I believe in You and depend on You. And repent to You, And with Your help I argue (with my opponents, the non-believers) And I take You as a judge (to judge between us). Please forgive me my previous And future sins; And whatever I concealed or revealed And You are the One who make (some people) forward And (some) backward. There is none to be worshipped but you.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        190
-      ],
-      "id": 190,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 190,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ أَنْتَ الْمَلِكُ لَا إِلَهَ إِلَّا أَنْتَ، أَنْتَ رَبِّي وَأَنَا عَبْدُكَ، ظَلَمْتُ نَفْسِي وَاعْتَرَفْتُ بِذَنْبِي فَاغْفِرْ لِي ذُنُوبِي جَمِيعًا إِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، وَاهْدِنِي لِأَحْسَنِ الْأَخْلَاقِ لَا يَهْدِي لِأَحْسَنِهَا إِلَّا أَنْتَ، وَاصْرِفْ عَنِّي سَيِّئَهَا، لَا يَصْرِفُ عَنِّي سَيِّئَهَا إِلاَّ أَنْتَ.",
-        "indopak": "اَللّٰهُمَّ اَنْتَ الْمَلِكُ لَا اِلٰهَ اِلَّا اَنْتَ، اَنْتَ رَبِّىْ وَاَنَا عَبْدُكَ، ظَلَمْتُ نَفْسِىْ وَاعْتَرَفْتُ بِذَنْۢبِىْ فَاغْفِرْ لِىْ ذُنُوبِىْ جَمِيْعًا اِنَّهٗ لَا يَغْفِرُ الذُّنُوبَ اِلَّا اَنْتَ، وَاهْدِنِىْ لِاَحْسَنِ الْاَخْلَاقِ لَا يَهْدِىْ لِاَحْسَنِهَا اِلَّا اَنْتَ، وَاصْرِفْ عَنِّىْ سَيِّئَهَا، لَا يَصْرِفُ عَنِّىْ سَيِّئَهَا اِلاَّ اَنْتَ",
-        "clean": "اللهم انت الملك لا اله الا انت انت ربي وانا عبدك ظلمت نفسي واعترفت بذنبي فاغفر لي ذنوبي جميعا انه لا يغفر الذنوب الا انت واهدني لاحسن الاخلاق لا يهدي لاحسنها الا انت واصرف عني سيءها لا يصرف عني سيءها الا انت",
-        "transliteration": "Allaahumma antal-maliku laa ilaaha illaa anta. anta rabbee wa-anaa ‘abduka, dhalamtu nafsee wa’taraftu bidhanbee faghfir lee dhunoobee jamee'aan innahu laa yaghfirudh-dhunooba illaa anta. wahdinee li-ahsanil-akhlaaqi laa yahdee li-ahsanihaa illaa anta, wasrif 'annee sayyi-ahaa laa yasrifu 'annee sayyi-ahaa illaa anta",
-        "reference": "Muslim: 771",
-        "audio": 190,
-        "cat_id": 13,
-        "subcat_id": 31
-      },
-      "source": {
-        "name": "At the beginning of the prayer #6",
-        "content": null,
-        "translation": "O Allah, You are the Sovereign, none has the right to be worshipped except You. You are my Lord and I am Your servant, I have wronged my own soul and have acknowledged my sin, so forgive me all my sins for no one forgives sins except You. Guide me to the best of characters for none can guide to it other than You, and deliver me from the worst of characters for none can deliver me from it other than You.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        191
-      ],
-      "id": 191,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 191,
-        "groups": null,
-        "uthmani": "لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ كُلُّهُ بِيَـدَيْكَ، وَالشَّـرُّ لَيْسَ إِلَيْـكَ، أَنَا بِكَ وَإِلَيْكَ، تَبَارَكْتَ وَتَعَالَيْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
-        "indopak": "لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ كُلُّهٗ بِيَدَيْكَ، وَالشَّرُّ لَيْسَ اِلَيْكَ، اَنَا بِكَ وَاِلَيْكَ، تَبَارَكْتَ وَتَعَالَيْتَ، اَسْتَغْفِرُكَ وَاَتُوْبُ اِلَيْكَ",
-        "clean": "لبيك وسعديك والخير كله بيديك والشر ليس اليك انا بك واليك تباركت وتعاليت استغفرك واتوب اليك",
-        "transliteration": "Labbayka wa sa'dayka, wal-khayru kulluhu biyadaika, washsharru laysa ilayka, anaa bika wa-ilayka, tabaarakta wa ta'Aalayta, astaghfiruka wa-atoobu ilayk",
-        "reference": "Muslim: 771",
-        "audio": 191,
-        "cat_id": 13,
-        "subcat_id": 31
-      },
-      "source": {
-        "name": "At the beginning of the prayer #7",
-        "content": null,
-        "translation": "Here I am, in answer to Your call, happy to serve you. All good is within Your hands and evil does not stem from You. I exist by your will and will return to you. Blessed and High are You, I seek Your forgiveness and repent unto You.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        192
-      ],
-      "id": 192,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 192,
-        "groups": "[{\"id\": 192, \"name\": null, \"cat_id\": 13, \"subcat_id\": 31, \"content\": \"Then say:\", \"uthmani\": \"\\u0623\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u0650 \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0634\\u0651\\u064e\\u064a\\u0652\\u0637\\u064e\\u0627\\u0646\\u0650 \\u0645\\u0650\\u0646\\u0652 \\u0646\\u064e\\u0641\\u0652\\u062e\\u0650\\u0647\\u0650\\u060c \\u0648\\u064e\\u0646\\u064e\\u0641\\u0652\\u062b\\u0650\\u0647\\u0650\\u060c \\u0648\\u064e\\u0647\\u064e\\u0645\\u0652\\u0632\\u0650\\u0647\\u0650\", \"indopak\": \"\\u0627\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650 \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0634\\u0651\\u064e\\u064a\\u0652\\u0637\\u064e\\u0627\\u0646\\u0650 \\u0645\\u0650\\u0646\\u0652 \\u0646\\u064e\\u0641\\u0652\\u062e\\u0650\\u0647\\u0656\\u060c \\u0648\\u064e\\u0646\\u064e\\u0641\\u0652\\u062b\\u0650\\u0647\\u0656\\u060c \\u0648\\u064e\\u0647\\u064e\\u0645\\u0652\\u0632\\u0650\\u0647\\u0656\", \"clean\": \"\\u0627\\u0639\\u0648\\u0630 \\u0628\\u0627\\u0644\\u0644\\u0647 \\u0645\\u0646 \\u0627\\u0644\\u0634\\u064a\\u0637\\u0627\\u0646 \\u0645\\u0646 \\u0646\\u0641\\u062e\\u0647 \\u0648\\u0646\\u0641\\u062b\\u0647 \\u0648\\u0647\\u0645\\u0632\\u0647\", \"transliteration\": \"A 'oodhu billaahi minash-Shaytaani min nafkhihi, wa nafthihi, wa hamzihi\", \"translation\": \"I seek refuge in Allah from Satan. From his breath and from his voice and from his whisper.\", \"note\": null, \"reference\": \"Hasan li gairihi (Shu'aib Al-Arnaut). Abu Dawud: 764\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
-        "uthmani": "اَللَّهُ أَكْبَرُ كَبِيرًا، اَللَّهُ أَكْبَرُ كَبِيرًا، اَللَّهُ أَكْبَرُ كَبِيرًا، وَالْحَمْدُ لِلَّهِ كَثِيرًا، وَالْحَمْدُ لِلَّهِ كَثِيرًا، وَالْحَمْدُ لِلَّهِ كَثِيرًا، وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلًا",
-        "indopak": "اَللّٰهُ اَكْبَرُ كَبِيْرًا، اَللّٰهُ اَكْبَرُ كَبِيْرًا، اَللّٰهُ اَكْبَرُ كَبِيْرًا، وَالْحَمْدُ لِلّٰهِ كَثِيْرًا، وَالْحَمْدُ لِلّٰهِ كَثِيْرًا، وَالْحَمْدُ لِلّٰهِ كَثِيْرًا، وَسُبْحَانَ اللّٰهِ بُكْرَةً وَّاَصِيْلًا",
-        "clean": "الله اكبر كبيرا الله اكبر كبيرا الله اكبر كبيرا والحمد لله كثيرا والحمد لله كثيرا والحمد لله كثيرا وسبحان الله بكره واصيلا",
-        "transliteration": "Allahu 'Akbar Kabeera, Allahu 'Akbar Kabeera, Allahu 'Akbar Kabeera, walhamdu lillaahi katheera, walhamdu lillaahi katheera, walhamdu lillaahi katheera, wa SubhaanAllahi bukratan wa'aseela",
-        "reference": null,
-        "audio": 192,
-        "cat_id": 13,
-        "subcat_id": 31
-      },
-      "source": {
-        "name": "At the beginning of the prayer #8",
-        "content": "Say three times:",
-        "translation": "Allah is the Greatest, Most Great. Allah is the Greatest, Most Great. Allah is the Greatest, Most Great. Praise is to Allah, abundantly. Praise is to Allah, abundantly. Praise is to Allah, abundantly. Glory is to Allah, at the break of day and at its end.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        193
-      ],
-      "id": 193,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 193,
-        "groups": null,
-        "uthmani": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
-        "indopak": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
-        "clean": "اعوذ بالله من الشيطان الرجيم",
-        "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
-        "reference": "Muslim: 2203",
-        "audio": 193,
-        "cat_id": 13,
-        "subcat_id": 32
-      },
-      "source": {
-        "name": "If afflicted by whisperings in prayer or recitation",
-        "content": null,
-        "translation": "I seek refuge in Allah from Satan the outcast.",
-        "note": "Uthman bin Abu al-'As reported that he came to Allah's Messenger (ﷺ) and said: Allah's Messenger (ﷺ), the Satan intervenes between me and my prayer and my reciting of the Qur'an and he confounds me. Thereupon Allah's Messenger (ﷺ) said:, That is (the doing of a) Satan (devil) who is known as Khinzab, and when you perceive its effect, seek refuge with Allah from it and spit three times to your left. Uthman (RA) said: I did that and Allah dispelled that from me."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
+      "reference_bn": {
+        "name": "সানার দোয়া #৪",
+        "translation": "হে আল্লাহ্‌, জিবরাঈল, মিকাঈল ও ইসরাফীলের প্রভু, আসমানসমূহ ও পৃথিবীর স্রষ্টা, দৃশ্য ও অদৃশ্যের জ্ঞানী, আপনার বান্দারা যে সকল বিষয় নিয়ে মতভেদ করত তাদের মধ্যে সে বিষয়ে আপনিই ফয়সালা প্রদান করবেন। যে সকল বিষয়ে সত্য বা হক্ক নির্ধারণে মতভেদ হয়েছে সে সকল বিষয়ে আপনি আপনার অনুমতিতে আমাকে সঠিক পথে পরিচালিত করুন। আপনি যাকে ইচ্ছা করেন তাকে সিরাতুল মুস্তাকিমে পরিচালিত করেন।",
+        "note": "আয়েশা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) রাতের (তাহাজ্জুদের) সালাতের শুরুতে এ দোয়াটি পাঠ করতেন।"
       }
     }
   ]

@@ -4,10 +4,196 @@
   "source_language": "en",
   "target_language": "ur",
   "status": "pending",
-  "rows": 18,
-  "id_range": "163-180",
-  "source_chars": 5929,
+  "rows": 14,
+  "id_range": "158-171",
+  "source_chars": 5800,
   "items": [
+    {
+      "key": [
+        158
+      ],
+      "id": 158,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 158,
+        "groups": null,
+        "uthmani": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
+        "indopak": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ",
+        "clean": "السلام عليكم ورحمه الله وبركاته",
+        "transliteration": "As-salaamu 'alaykum wara'hmatullaahi wa barakaatuh",
+        "reference": "Hasan (Ibn Hajar). MIshkat: 4/316",
+        "audio": 158,
+        "cat_id": 8,
+        "subcat_id": 18
+      },
+      "source": {
+        "name": "Upon entering the home #2 (Salam)",
+        "content": null,
+        "translation": "Peace be upon you, and the Mercy of Allah and His Blessings.",
+        "note": "To give salaam upon all is sunnah. Giving salaam upon spouse and family members is additional sunnah. It is recommended and have special rewards and those who have this character, this below mentioned hadith give glad tidings. Abu umama (RA) said that, Rasoolullah (ﷺ) said, “Allah will give guarantee and protection for three kinds of people. If he live then all of his matter will be protected by Allah and if he die then he will enter into jannah. (First one is) He who give salaam before enter into the house, he will enter in the protection of Allah….”"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "বাড়ি প্রবেশের যিক্‌র #২ (সালাম)",
+        "translation": "আপনার উপর আল্লাহ্‌র শান্তি, রহমত ও বরকত বর্ষিত হোক",
+        "note": "সবাইকেই সালাম প্রদান সুন্নাত। আর স্বামী, স্ত্রী ও পরিবারের সদস্যগণকে সালাম দেওয়া অতিরিক্ত গুরুত্বপূর্ণ সুন্নাত। হাদীসে বিশেষভাবে এর নির্দেশ দেওয়া হয়েছে। এজন্য বিশেষ সাওয়াব ও বরকতের সুসংবাদ প্রদান করা হয়েছে। আবু উমামা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেছেন: “আল্লাহ্‌ তিন ব্যক্তির প্রত্যেকের জামিন ও সংরক্ষক, যদি বেঁচে থাকে তবে তার সকল বিষয় আল্লাহ্‌র পক্ষ থেকে রক্ষা করা হবে এবং যদি মৃত্যুবরণ করে তাহলে সে জান্নাতে প্রবেশ করবে। এর মধ্যে একজন হলো সেই ব্যক্তি যে সালাম দিয়ে বাড়িতে প্রবেশ করল এবং আল্লাহ্‌র জামিনদারীতে চলে গেল ...।"
+      }
+    },
+    {
+      "key": [
+        159
+      ],
+      "id": 159,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 159,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا",
+        "indopak": "بِسْمِ اللّٰهِ وَلَجْنَا، وَبِسْمِ اللّٰهِ خَرَجْنَا، وَعَلَى اللّٰهِ رَبِّنَا تَوَكَّلْنَا",
+        "clean": "بسم الله ولجنا وبسم الله خرجنا وعلي الله ربنا توكلنا",
+        "transliteration": "Bismil-laahi walajna, wabismil-laahi kharajna, wa'alallaahi rabbina tawakkalna",
+        "reference": "[1] Hasan (Ibn Baz). Abu Dawud: 5096\n[2] Muslim: 2018",
+        "audio": 159,
+        "cat_id": 8,
+        "subcat_id": 18
+      },
+      "source": {
+        "name": "Upon entering the home #3",
+        "content": null,
+        "translation": "In the name of Allah we enter and in the name of Allah we leave, and upon our Lord we place our trust.",
+        "note": "Then give salaam to the people of the house. [1]\n\nWhen a person enters his house and mentions the name of Allah at the time of entering it and while eating the food, Satan says (addressing himself: You have no place to spend the night and no evening meal;[2]"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "বাড়ি প্রবেশের সময় যিক্‌র #৩",
+        "translation": "আল্লাহ্‌র নামে আমরা প্রবেশ করলাম, আল্লাহ্‌র নামেই আমরা বের হলাম এবং আমাদের রব আল্লাহ্‌র উপরই আমরা ভরসা করলাম",
+        "note": "উপরোক্ত দোয়াটি বলার পর ঘরের লোকজনকে সালাম দিবে। [১]\n\nতাছাড়া সহীহ হাদীসে এসেছে, “যখন তোমাদের কেউ ঘরে প্রবেশ করে, আর প্রবেশের সময় ও খাবারের সময় আল্লাহ্‌কে স্মরণ করে, তখন শয়তান (নিজ ব্যক্তিদের) বলে, তোমাদের কোনো বাসস্থান নেই, তোমাদের রাতের কোনো খাবার নেই।” [২]"
+      }
+    },
+    {
+      "key": [
+        160
+      ],
+      "id": 160,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 160,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ، اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+        "indopak": "بِسْمِ اللّٰهِ، اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+        "clean": "بسم الله اللهم اني اعوذ بك من الخبث والخباءث",
+        "transliteration": "Bismillaah, Allaahumma 'innee 'A'oodhu bika minal-khubuthi walkhabaa'ith",
+        "reference": "Bukhari: 142",
+        "audio": 160,
+        "cat_id": 9,
+        "subcat_id": 19
+      },
+      "source": {
+        "name": "Before entering the toilet",
+        "content": "Narrated Anas: The Prophet (ﷺ) used to say when he entered the toilet:",
+        "translation": "In the Name of Allah. O Allah, I seek protection in You from the male and female unclean spirits.",
+        "note": "Ali (RA) said, Rasoolullah (ﷺ) said: When one of you goes to a secluded place by the call of nature, the covering of the genitals of the children of Adam from the eyes of the jinn is to say \"Bismillah\"."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "টয়লেটে ঢুকার সময় দোয়া",
+        "content": "আনাস (রাঃ) থেকে বর্ণিত, তিনি বলেন, নবী (ﷺ) টয়লেটে ঢুকার সময় বলতেন -",
+        "translation": "আল্লাহ্‌র নামে। হে আল্লাহ্‌! আমি তোমার কাছে আশ্রয় চাই পুরুষ ও নারী শয়তান থেকে।",
+        "note": "আলী (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেনঃ তোমাদের কেউ যখন প্রকৃতির ডাকে নির্জনস্থানে গমন করে তখন জিনদের চক্ষু থেকে আদম-সন্তানদের গুপ্তাঙ্গের আবরণ হলো “বিসমিল্লাহ” বলা।"
+      }
+    },
+    {
+      "key": [
+        161
+      ],
+      "id": 161,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 161,
+        "groups": null,
+        "uthmani": "غُفْرَانَكَ",
+        "indopak": "غُفْرَانَكَ",
+        "clean": "غفرانك",
+        "transliteration": "Gufraanak",
+        "reference": "Sahih (Albani). Abu Dawud: 30",
+        "audio": 161,
+        "cat_id": 9,
+        "subcat_id": 19
+      },
+      "source": {
+        "name": "After leaving the toilet",
+        "content": "It is narrated on the authority of Aisha (RA) that the Messenger of Allah (ﷺ) used to say when he came out of the toilet:",
+        "translation": "I ask You (Allah) for forgiveness.",
+        "note": "Ayesha (RA) said that Rasoolullah (ﷺ) used to say this dua when he came out of the toilet."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "টয়লেট থেকে বের হওয়ার দোয়া",
+        "content": "আয়িশা (রাঃ) থেকে বর্ণিত, তিনি বলেন, আল্লাহ্‌র রাসূল (ﷺ) টয়লেট থেকে বের হওয়ার সময় বলতেন -",
+        "translation": "আপনার ক্ষমা প্রার্থনা করি।",
+        "note": "আয়েশা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) ইস্তিঞ্জা শেষে বেরিয়ে আসলে এ দোয়াটি বলতেন।"
+      }
+    },
+    {
+      "key": [
+        162
+      ],
+      "id": 162,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 162,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Muslim: 385",
+        "audio": null,
+        "cat_id": 10,
+        "subcat_id": 20
+      },
+      "source": {
+        "name": "Dua while hearing the adhaan #1",
+        "content": "Narrated by 'Umar ibn al-Khattab (RA), he said, The Messenger of Allah (ﷺ) said:\n \nWhen the muazzin says \"Allahu Akbar Allahu Akbar\",\nThen if any of you say “Allahu Akbar Allahu Akbar;\nWhen the muazzin says \"Ashhadu an laa ilaaha illallah\",\nIf he says \"Ashhadu an laa ilaaha illallah\";\nWhen Muazzin says “Ashhadu Anna Muhammadar Rasoolullah,\nIf he says \"Ashhadu Anna Muhammadar Rasoolullah\";\nWhen the muazzin says \"Haiya alas salah\",\nIf he says \"Laa hawla wala quwwata illa billah\";\nWhen the muazzin says \"Haiya alal falah\",\nIf he says \"Laa hawla wala quwwata illa billah\";\nWhen the muazzin says \"Allahu Akbar Allahu Akbar\",\nIf he says \"Allahu Akbar Allahu Akbar\",\nThen when the muazzin says \"Laa ilaaha illallah\",\nIf he says \"Laa ilaaha illallah\"\n\nIf he says these things from the heart, then he will go to Paradise.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      },
+      "reference_bn": {
+        "name": "আযানের সময় যা বলতে হবে #১",
+        "content": "উমর ইবনুল খাত্তাব (রাঃ) থেকে বর্ণিত, তিনি বলেন, আল্লাহ্‌র রাসূল (ﷺ) বলেছেন,\n\nযখন মুআযযিন বলে “আল্লাহু আকবার আল্লাহু আকবার”,\nতখন তোমাদের কেউ যদি বলে “আল্লাহু আকবার আল্লাহু আকবার;\nযখন মুআযযিন বলে “আশহাদু আল লা ইলাহা ইল্লাল্লাহ”,\nসে যদি বলে “আশহাদু আল লা ইলাহা ইল্লাল্লাহ”;\nযখন মুআযযিন বলে “আশহাদু আন্না মুহাম্মাদার রাসূলুল্লাহ্‌,\nসে যদি বলে “আশহাদু আন্না মুহাম্মাদার রাসূলুল্লাহ্‌”;\nযখন মুআযযিন বলে “'হাইয়া আলাস সলাহ্”,\nসে যদি বলে “লা হাওলা ওয়ালা ক্বুওয়্যাতা ইল্লা বিল্লাহ\";\nযখন মুআযযিন বলে “'হাইয়া আলাল ফালাহ”,\nসে যদি বলে “লা হাওলা ওয়ালা ক্বুওয়্যাতা ইল্লা বিল্লাহ”;\nযখন মুআযযিন বলে “আল্লাহু আকবার আল্লাহু আকবার”,\nসে যদি বলে “আল্লাহু আকবার আল্লাহু আকবার”, \nএরপর যখন মুআযযিন বলে “লা ইলাহা ইল্লাল্লাহ”,\nসে যদি বলে “লা ইলাহা ইল্লাল্লাহ”\n\nযদি সে হৃদয় থেকে এসব বলে, তা হলে সে জান্নাতে যাবে।"
+      }
+    },
     {
       "key": [
         163
@@ -38,6 +224,12 @@
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "আযানের সময় যা বলতে হবে #২",
+        "content": "মুয়াযযিন তাশাহুদ (তথা আশহাদু আন্না মুহাম্মাদার...) উচ্চারণ করার পরই শ্রোতারা এ যিক্‌রটি বলবে -",
+        "translation": "আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ্‌ ছাড়া কোনো প্রকৃত মাবুদ নেই, তিনি একক, তার কোনো শরীক নেই। এবং রাসূলুল্লাহ্‌ (ﷺ) তাঁর বান্দা ও রাসূল। আমি আল্লাহ্‌কে রব্ব, মুহাম্মাদ (ﷺ)-কে রাসূল এবং ইসলামকে দ্বীন হিসেবে গ্রহণ করে সন্তুষ্ট।",
+        "note": "সা’দ ইবনু আবী ওয়াক্কাস (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেন: “যে ব্যক্তি মুআযযিনকে শুনে এ বাক্যগুলো বলবে তার সকল পাপ ক্ষমা করা হবে।”"
       }
     },
     {
@@ -70,6 +262,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "আযানের পরে পঠিতব্য দোয়া #১",
+        "translation": "হে আল্লাহ্‌! আপনি মুহাম্মাদ (ﷺ)-এর উপর এবং মুহাম্মাদ (ﷺ)-এর বংশধরদের উপর রহমত বর্ষণ করুন, যেরূপ আপনি ইবরাহীম (‘আঃ) এবং তাঁর বংশধরদের উপর রহমত বর্ষণ করেছেন। নিশ্চয়ই আপনি অতি প্রশংসিত, অত্যন্ত মর্যাদার অধিকারী। হে আল্লাহ্‌! আপনি মুহাম্মাদ (ﷺ) ও তাঁর বংশধরদের উপর তেমনি বরকত দান করুন যেমনি বরকত দান করেছেন ইবরাহীম (‘আঃ) ও তাঁর বংশধরদের উপর। নিশ্চয়ই আপনি অতি প্রশংসিত, অতি মর্যাদার অধিকারী।",
+        "note": "আব্দুল্লাহ ইবনু আমর (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেছেন: “যখন তোমরা মুয়াযযিনকে আযান দিতে শুনবে, তখন সে যেরূপ বলে অনুরূপ বলবে। এরপর আমার উপর দুরুদ পাঠ করবে; কারণ যে ব্যক্তি আমার উপর একবার দুরুদ পাঠ করবে, আল্লাহ্‌ তাঁকে দশবার সালাত (রহমত) প্রদান করবেন। এরপর আমার জন্য ‘ওসীলা’ চাইবে; কারণ ‘ওসীলা’ জান্নাতের সর্বোচ্চ স্থান, আল্লাহ্‌র একজন  বান্দাই এ মর্যাদা লাভ করবেন এবং আমি আশা করি আমিই হব সেই বান্দা। যে ব্যক্তি আমার জন্য ‘ওসীলা’ প্রার্থনা করবে, তার জন্য শাফায়াত প্রাপ্য হয়ে যাবে।"
       }
     },
     {
@@ -102,6 +299,10 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "আযানের পরে পঠিতব্য দোয়া #২",
+        "translation": "হে আল্লাহ্‌, এ পরিপূর্ণ আহ্বান এবং প্রতিষ্ঠিত সালাতের মালিক, আপনি মুহাম্মাদ (ﷺ)-কে ওসীলা (নৈকট্য) এবং মহা মর্যাদা দান করুন এবং তাকে সম্মানিত অবস্থানে উন্নীত করুন, যার প্রতিশ্রুতি আপনি তাঁকে দিয়েছেন।"
       }
     },
     {
@@ -134,6 +335,10 @@
         "content": "",
         "translation": null,
         "note": null
+      },
+      "reference_bn": {
+        "name": "আযান ও ইক্বামতের মধ্যবর্তী সময় দোয়া করার মহত্ত্ব",
+        "content": "আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত, আল্লাহ্‌র রাসূল (ﷺ) বলেন, “আযান ও ইক্বামতের মধ্যবর্তী সময় দোয়া ফিরিয়ে দেওয়া হয় না।”"
       }
     },
     {
@@ -166,6 +371,11 @@
         "content": "",
         "translation": null,
         "note": ""
+      },
+      "reference_bn": {
+        "name": "ইকামতের জবাব",
+        "content": "ইকামত দেয়ার সময় মুস্বল্লীগণ মুআযযিনের সাথে সাথে ইকামতের শব্দগুলি বলবে। রাসূল (ﷺ) আযান ও ইকামত উভয়কেই আযান বলেছেন। [১]",
+        "note": "উল্লেখ্য যে, ‘কাদ্ ক্ব-মাতিস্ব্ স্বলা-হ্’ এর জবাবে ‘আক্বামাহাল্লাহু ওয়া আদামাহা’ বলার হাদীসটি যঈফ। [২]\n\nঅতএব ইকামতের শব্দগুলির জবাবে মুস্বল্লীদেরও আযানের অনুরূপই বলতে হবে।"
       }
     },
     {
@@ -198,6 +408,11 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "ইমাম ও মুআযযিনের জন্য দোয়া",
+        "content": "আবূ হুরায়রাহ্‌‌ (রাঃ) বলেন, রাসূল (ﷺ) বলেছেন, ইমাম যিম্মাদার এবং মুআযযিন আমানতদার।",
+        "translation": "হে আল্লাহ্‌! তুমি ইমামদের সঠিক পথ প্রদর্শন করো এবং মুআযযিনদের ক্ষমা করো।"
       }
     },
     {
@@ -230,6 +445,11 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "ওযূর পূর্বের যিক্‌র",
+        "content": "রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, ‘যে ব্যক্তি ‘বিস্‌মিল্লাহ্‌’ বলবে না তার ওযূ হবে না’।",
+        "translation": "আল্লাহ্‌র নামে"
       }
     },
     {
@@ -262,6 +482,12 @@
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "ওযূর পরের যিক্‌র #১",
+        "content": "ওযূ করে এবং যথাযথভাবে তা সম্পন্ন করে বলতে হবে -",
+        "translation": "আমি সাক্ষ্য দিচ্ছি যে, একমাত্র আল্লাহ্‌ ছাড়া কোনও হক্ব ইলাহ নেই, তাঁর কোনো শরীক নেই। আমি আরও সাক্ষ্য দিচ্ছি যে, মুহাম্মাদ (ﷺ) তাঁর বান্দা ও রাসূল।",
+        "note": "উকবা ইবনে আমর (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, “যদি কেউ সুন্দরভাবে এবং পরিপূর্ণভাবে ওযূ করে এরপর উক্ত যিক্‌র পাঠ করে তাহলে জান্নাতের আটটি দরজাই তার জন্য খুলে দেওয়া হবে, সে যে দরজা দিয়ে ইচ্ছা করবে জান্নাতে প্রবেশ করতে পারবে।"
       }
     },
     {
@@ -294,294 +520,11 @@
         "content": null,
         "translation": "",
         "note": ""
-      }
-    },
-    {
-      "key": [
-        172
-      ],
-      "id": 172,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 172,
-        "groups": null,
-        "uthmani": "سُبْحَانَكَ اَللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلاَّ أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ",
-        "indopak": "سُبْحَانَكَ اَللّٰهُمَّ وَبِحَمْدِكَ، اَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اَنْتَ، اَسْتَغْفِرُكَ وَاَتُوْبُ اِلَيْكَ",
-        "clean": "سبحانك اللهم وبحمدك اشهد ان لا اله الا انت استغفرك واتوب اليك",
-        "transliteration": "Subhaanaka Allaahumma wa bihamdika, 'ash-hadu 'an laa 'ilaaha 'illaa 'Anta, 'astaghfiruka wa 'atoobu 'ilayk",
-        "reference": "An-Nasa'i, 'Amalul-Yawm wal-Laylah, p. 173. See also Al-Albani, 'Irwa'ul-Ghalil 1/135 and 2/94.",
-        "audio": 172,
-        "cat_id": 11,
-        "subcat_id": 25
       },
-      "source": {
-        "name": "Upon completing the ablution #3",
-        "content": null,
-        "translation": "Glory is to You, O Allah, and praise; I bear witness that there is none worthy of worship but You. I seek Your forgiveness and turn to You in repentance.",
-        "note": "Abu Sayed (RA) said, Rasulullah (ﷺ) said, if someone says this dua after ablution, it will be written in a letter and sealed (under the throne). That seal will not be broken before the Resurrection."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        173
-      ],
-      "id": 173,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 173,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ اجْعَلْ فِي قَلْبِيْ نُوْرًا وَّفِي لِسَانِىْ نُوْرًا وَّاجْعَلْ فِي سَمْعِىْ نُوْرًا وَّاجْعَلْ فِي بَصَرِىْ نُوْرًا وَّاجْعَلْ مِنْ خَلْفِي نُوْرًا وَّمِنْ أَمَامِيْ نُوْرًا وَّاجْعَلْ مِنْ فَوْقِىْ نُوْرًا وَّمِنْ تَحْتِىْ نُوْرًا اَللَّهُمَّ أَعْطِنِىْ نُوْرًا",
-        "indopak": "اَللّٰهُمَّ اجْعَلْ فِىْ قَلْبِىْ نُوْرًا وَّفِىْ لِسَانِىْ نُوْرًا وَّاجْعَلْ فِىْ سَمْعِىْ نُوْرًا وَّاجْعَلْ فِىْ بَصَرِىْ نُوْرًا وَّاجْعَلْ مِنْ خَلْفِىْ نُوْرًا وَّمِنْ اَمَامِىْ نُوْرًا وَّاجْعَلْ مِنْ فَوْقِىْ نُوْرًا وَّمِنْ تَحْتِىْ نُوْرًا اَللّٰهُمَّ اَعْطِنِىْ نُوْرًا",
-        "clean": "اللهم اجعل في قلبي نورا وفي لساني نورا واجعل في سمعي نورا واجعل في بصري نورا واجعل من خلفي نورا ومن امامي نورا واجعل من فوقي نورا ومن تحتي نورا اللهم اعطني نورا",
-        "transliteration": "Allaahumma-j‛al fee qalbee noor-an, wa fee lisaanee noor-an, waj‛al fee sam‛ee noor-an, waj‛al fee basaree noor-an, waj‛al min khalfee noor-an, wamin amaamee noor-an, waj‛al min fawqee noor-an, wa min t'ahtee noor-an, Allaahumma a‛tinee noor-an",
-        "reference": "Bukhari: 6316",
-        "audio": 173,
-        "cat_id": 12,
-        "subcat_id": 26
-      },
-      "source": {
-        "name": "Prayers while going to the mosque #1",
-        "content": "When the Mu'adhdhin gave the call to prayer, the Prophet (ﷺ) used to go out for the prayer while reciting this supplication -",
-        "translation": "O Allah, place within my heart light, and upon my tongue light, and within my ears light, and within my eyes light, and place behind me light, and in front of me light, and above me light, and beneath me light. O Allah, bestow upon me light.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        174
-      ],
-      "id": 174,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 174,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا، وَفِي لِسَانِي نُورًا، وَفِي سَمْعِي نُورًا، وَفِي بَصَرِي نُورًا، وَمِنْ فَوْقِي نُورًا، وَمِنْ تَحْتِي نُورًا، وَعَنْ يَمِينِي نُورًا، وَعَنْ شِمَالِي نُورًا، وَمِنْ أَمَامِي نُورًا، وَمِنْ خَلْفِي نُورًا، وَاجْعَلْ فِي نَفْسِي نُورًا، وَأَعْظِمْ لِي نُورًا، وَعَظِّمْ لِي نُورًا، وَاجْعَلْ لِي نُورًا، وَاجْعَلْنِي نُورًا، اَللَّهُمَّ أَعْطِنِي نُورًا، وَاجْعَلْ فِي عَصَبِي نُورًا، وَفِي لَحْمِي نُورًا، وَفِي دَمِي نُورا، وَفِي شَعْرِي نُورًا، وَفِي بَشَرِي نُورًا",
-        "indopak": "اَللّٰهُمَّ اجْعَلْ فِي قَلْبِيْ نُوْرًا، وَفِيْ لِسَانِيْ نُوْرًا، وَفِيْ سَمْعِيْ نُوْرًا، وَفِيْ بَصَرِيْ نُوْرًا، وَمِنْ فَوْقِي نُوْرًا، وَمِنْ تَحْتِيْ نُوْرًا، وَعَنْ يَّمِيْنِيْ نُوْرًا، وَعَنْ شِمَالِيْ نُوْرًا، وَمِنْ اَمَامِيْ نُوْرًا، وَمِنْ خَلْفِيْ نُوْرًا، وَاجْعَلْ فِيْ نَفْسِيْ نُوْرًا، وَاَعْظِمْ لِيْ نُوْرًا، وَعَظِّمْ لِيْ نُوْرًا، وَاجْعَلْ لِيْ نُوْرًا، وَاجْعَلْنِيْ نُوْرًا، اَللّٰهُمَّ اَعْطِنِيْ نُوْرًا، وَاجْعَلْ فِيْ عَصَبِيْ نُوْرًا، وَفِيْ لَحْمِيْ نُوْرًا، وَفِيْ دَمِيْ نُوْرًا، وَفِي شَعْرِيْ نُورًا، وَفِيْ بَشَرِيْ نُوْرًا",
-        "clean": "اللهم اجعل في قلبي نورا وفي لساني نورا وفي سمعي نورا وفي بصري نورا ومن فوقي نورا ومن تحتي نورا وعن يميني نورا وعن شمالي نورا ومن امامي نورا ومن خلفي نورا واجعل في نفسي نورا واعظم لي نورا وعظم لي نورا واجعل لي نورا واجعلني نورا اللهم اعطني نورا واجعل في عصبي نورا وفي لحمي نورا وفي دمي نورا وفي شعري نورا وفي بشري نورا",
-        "transliteration": "Allaahummaj'al fee qalbee nooran, wa fee lisaaanee nooran, wa fee sam'ee nooran, wa fee basaree nooran, wa min fawqee nooran, wa min tahtee nooran, wa 'an yameenee nooran, wa 'an shimaalee nooran, wa min 'amaamee nooran, wa min khalfee nooran, waj'al fee nafsee nooran, wa 'a'dhim lee nooran, wa 'adhdhim lee nooran, waj'al lee nooran, waj'alnee nooran, Allaahumma 'a'tinee nooran, waj'al fee 'asabee nooran, wafee lahmee nooran, wafee damee nooran, wa fee sha'ree nooran, wa fee basharee nooran.",
-        "reference": "Bukhari: 6316",
-        "audio": 174,
-        "cat_id": 12,
-        "subcat_id": 26
-      },
-      "source": {
-        "name": "Prayers while going to the mosque #2",
-        "content": null,
-        "translation": "O Allah, place light in my heart, and on my tongue light, and in my ears light and in my sight light, and above me light, and below me light, and to my right light, and to my left light, and before me light and behind me light. Place in my soul light. Magnify for me light, and amplify for me light. Make for me light and make me a light. O Allah, grant me light, and place light in my nerves, and in my body light and in my blood light and in my hair light and in my skin light.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        175
-      ],
-      "id": 175,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 175,
-        "groups": null,
-        "uthmani": "بِسْمِ اللَّهِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُوْلِ اللَّهِ، اَللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
-        "indopak": "بِسْمِ اللّٰهِ، وَالصَّلَاةُ وَالسَّلَامُ عَلٰى رَسُوْلِ اللّٰهِ، اَللّٰهُمَّ افْتَحْ لِيْ اَبْوَابَ رَحْمَتِكَ",
-        "clean": "بسم الله والصلاه والسلام علي رسول الله اللهم افتح لي ابواب رحمتك",
-        "transliteration": "Bismillaahi, Wassalaatu Wassalaamu 'alaa Rasoolillaah. Allahum-maftah lee 'abwaaba rahmatik.",
-        "reference": "Sahih (Albani). Abu Dawud: 465, Muslim: 713",
-        "audio": 175,
-        "cat_id": 12,
-        "subcat_id": 27
-      },
-      "source": {
-        "name": "Upon entering the mosque #1",
-        "content": null,
-        "translation": "In the Name of Allah, And blessings and peace be upon the Messenger of Allah (ﷺ). O Allah, open before me the doors of Your mercy.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        176
-      ],
-      "id": 176,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 176,
-        "groups": null,
-        "uthmani": "بِسْمِ اللَّهِ اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، اَللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
-        "indopak": "بِسْمِ اللّٰهِ اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ، اَللّٰهُمَّ افْتَحْ لِيْ اَبْوَابَ رَحْمَتِكَ",
-        "clean": "بسم الله اللهم صل علي محمد اللهم افتح لي ابواب رحمتك",
-        "transliteration": "Bismillaahi, Allaahumma salli 'ala muhammad, Allaahummaf ta'hlii abwaba ra'hmatik",
-        "reference": "Hasan (Albani). Ibn Sunni: 88, Muslim: 713",
-        "audio": 176,
-        "cat_id": 12,
-        "subcat_id": 27
-      },
-      "source": {
-        "name": "Upon entering the mosque #2",
-        "content": "The Messenger of Allah (ﷺ), used to say when he entered the mosque:",
-        "translation": "In the Name of Allah, Ya Allah please send  blessings and peace upon the Messenger of Allah (ﷺ). O Allah, open before me the doors of Your mercy.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        177
-      ],
-      "id": 177,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 177,
-        "groups": null,
-        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي ذُنُوْبِي وَافْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
-        "indopak": "اَللّٰهُمَّ اغْفِرْ لِىْ ذُنُوْبِىْ وَافْتَحْ لِىْ اَبْوَابَ رَحْمَتِكَ",
-        "clean": "اللهم اغفر لي ذنوبي وافتح لي ابواب رحمتك",
-        "transliteration": "Rabbig-firli dhunubi waftah li abwaaba rahmatik",
-        "reference": "Sahih (Albani). Ibn Majah: 771",
-        "audio": 177,
-        "cat_id": 12,
-        "subcat_id": 27
-      },
-      "source": {
-        "name": "Upon entering the mosque #3",
-        "content": "Whenever the Messenger of Allah (ﷺ) entered the mosque he would say Durood. Then Say:",
-        "translation": "O Allah, forgive me my sins and open to me the gates of Your mercy.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        178
-      ],
-      "id": 178,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 178,
-        "groups": null,
-        "uthmani": "أَعُوْذُ بِاللَّهِ الْعَظِيمِ وَبِوَجْهِهِ الْكَرِيمِ وَسُلْطَانِهِ الْقَدِيْمِ مِنَ الشَّيْطَانِ الرَّجِيْمِ، بِسْمِ اللَّهِ وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُوْلِ اللَّهِ اَللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
-        "indopak": "اَعُوْذُ بِاللّٰهِ الْعَظِيْمِ وَبِوَجْهِهِ الْكَرِيْمِ وَسُلْطَانِهِ الْقَدِيْمِ مِنَ الشَّيْطَانِ الرَّجِيْمِ، بِسْمِ اللّٰهِ وَالصَّلَاةُ وَالسَّلَامُ عَلٰى رَسُوْلِ اللّٰهِ اَللّٰهُمَّ افْتَحْ لِىْ اَبْوَابَ رَحْمَتِكَ",
-        "clean": "اعوذ بالله العظيم وبوجهه الكريم وسلطانه القديم من الشيطان الرجيم بسم الله والصلاه والسلام علي رسول الله اللهم افتح لي ابواب رحمتك",
-        "transliteration": "A'oodhu billahil-Aatheem wa bi wajhihil-kareem wa sultanihil-qadeem minash-shaytanir-rajeem, bismil-lahi, wassalatu wassalamu 'Aala rasoolil-lah, Allaahumma iftah lee abwaaba rahmatik",
-        "reference": "Sahih (Albani). Abu Dawud: 465, 466",
-        "audio": 178,
-        "cat_id": 12,
-        "subcat_id": 27
-      },
-      "source": {
-        "name": "Upon entering the mosque #4",
-        "content": "If some hadiths are combined, the Dua for entering the mosque will be as follows:",
-        "translation": "I take refuge with Allah, The Supreme and with His Noble Face, and His eternal authority from the accursed devil. In the name of Allah, and prayers and peace be upon the Messenger of Allah (ﷺ). O Allah, open the gates of Your mercy for me.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        179
-      ],
-      "id": 179,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 179,
-        "groups": null,
-        "uthmani": "بِسْمِ اللَّهِ اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ",
-        "indopak": "بِسْمِ اللّٰهِ اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ، اَللّٰهُمّ َاِنِّيْ اَسْاَلُكَ مِنْ فَضْلِكَ",
-        "clean": "بسم الله اللهم صل علي محمد اللهم اني اسالك من فضلك",
-        "transliteration": "Bismillahi Allaahumma salli 'ala muhammad, Allaahumma inni as-aluka min fadlik",
-        "reference": "Hasan (Albani). Ibn Sunni: 88, Muslim: 713",
-        "audio": 179,
-        "cat_id": 12,
-        "subcat_id": 28
-      },
-      "source": {
-        "name": "Upon leaving the mosque #1",
-        "content": "If some hadiths are combined, the Dua for going out the mosque will be as follows:",
-        "translation": "In the name of Allah (I am going out).Oh Allah! Please send bessings and peace upon muhammad (ﷺ). Oh Allah! I want from your bounty.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        180
-      ],
-      "id": 180,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 180,
-        "groups": null,
-        "uthmani": "بِسْمِ اللَّهِ وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُوْلِ اللَّهِ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ، اَللَّهُمَّ اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيمِ",
-        "indopak": "بِسْمِ اللّٰهِ وَالصَّلَاةُ وَالسَّلَامُ عَلٰى رَسُوْلِ اللّٰهِ، اَللّٰهُمَّ اِنِّي اَسْاَلُكَ مِنْ فَضْلِكَ، اَللّٰهُمَّ اعْصِمْنِيْ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
-        "clean": "بسم الله والصلاه والسلام علي رسول الله اللهم اني اسالك من فضلك اللهم اعصمني من الشيطان الرجيم",
-        "transliteration": "Bismillaahi wassalaatu wassalaamu 'alaa Rasoolillaah, Allaahumma 'innee 'as'aluka min fadhlik, Allaahumma'simnee minash-Shaytaanir-rajeem.",
-        "reference": "Sahih (Albani). Ibn Majah: 773",
-        "audio": 180,
-        "cat_id": 12,
-        "subcat_id": 28
-      },
-      "source": {
-        "name": "Upon leaving the mosque #2",
-        "content": "Start with the left foot and say-",
-        "translation": "In the Name of Allah, and peace and blessings be upon the Messenger of Allah (ﷺ). O Allah, I ask for Your favor, O Allah, protect me from Satan the outcast.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
+      "reference_bn": {
+        "name": "ওযূর পরের যিক্‌র #২",
+        "translation": "হে আল্লাহ্‌ আপনি আমাকে তাওবাকারীগণের অন্তর্ভুক্ত করুন এবং যারা গুরুত্ব ও পূর্ণতা সহকারে পবিত্রতা অর্জন করেন আমাকে তাদের অন্তর্ভুক্ত করুন।",
+        "note": "দোয়াটি পূর্ববর্তী জিকিরের পরে পড়ার কথা সহীহ হাদীসে বর্ণিত হয়েছে। যে এদোয়া দুটি পড়বে তার জন্য জান্নাতের আটটি দরজা খুলে যাবে; যে-দরজা দিয়ে ইচ্ছা, সে (জান্নাতে) প্রবেশ করবে।"
       }
     }
   ]

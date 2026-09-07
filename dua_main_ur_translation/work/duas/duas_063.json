@@ -1,0 +1,992 @@
+{
+  "table": "duas",
+  "chunk": "duas_063.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 27,
+  "id_range": "953-979",
+  "source_chars": 5957,
+  "items": [
+    {
+      "key": [
+        953
+      ],
+      "id": 953,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 953,
+        "groups": null,
+        "uthmani": "رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ رَّحِيمٌ",
+        "indopak": "رَبَّنَا اغْفِرْ لَنَا وَلِاِخْوَانِنَا الَّذِيْنَ سَبَقُوْنَا بِالْاِيْمَانِ وَلَا تَجْعَلْ فِيْ قُلُوْبِنَا غِلًّا لِّلَّذِيْنَ اٰمَنُوْا رَبَّنَا اِنَّكَ رَءُوْفٌ رَّحِيْمٌ",
+        "clean": "ربنا اغفر لنا ولاخواننا الذين سبقونا بالايمان ولا تجعل في قلوبنا غلا للذين امنوا ربنا انك رءوف رحيم",
+        "transliteration": null,
+        "reference": "Surah Hashr 59:10",
+        "audio": 953,
+        "cat_id": 21,
+        "subcat_id": 117
+      },
+      "source": {
+        "name": "Seeking fogiveness for previous righteous generation and free hatred from heart for them",
+        "content": null,
+        "translation": "Our Lord, forgive us and our brothers who preceded us in faith and put not in our hearts [any] resentment toward those who have believed. Our Lord, indeed You are Kind and Merciful.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "পূর্ববর্তীদের জন্য ক্ষমা ও বিদ্বেষ মুক্তির দোয়া",
+        "translation": "হে আমাদের রব, আমাদেরকে ও আমাদের ভাই যারা ঈমান নিয়ে আমাদের পূর্বে অতিক্রান্ত হয়েছে তাদেরকে ক্ষমা করুন; এবং যারা ঈমান এনেছিল তাদের জন্য আমাদের অন্তরে কোন বিদ্বেষ রাখবেন না; হে আমাদের রব, নিশ্চয় আপনি দয়াবান, পরম দয়ালু।"
+      }
+    },
+    {
+      "key": [
+        954
+      ],
+      "id": 954,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 954,
+        "groups": null,
+        "uthmani": "رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
+        "indopak": "رَّبِّ اغْفِرْ لِيْ وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا وَّلِلْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِيْنَ اِلَّا تَبَارًا",
+        "clean": "رب اغفر لي ولوالدي ولمن دخل بيتي مءمنا وللمءمنين والمءمنات ولا تزد الظالمين الا تبارا",
+        "transliteration": null,
+        "reference": "Surah Nooh 71:28",
+        "audio": 954,
+        "cat_id": 21,
+        "subcat_id": 117
+      },
+      "source": {
+        "name": "Seeking forgiveness and destruction for the wrongdoers",
+        "content": null,
+        "translation": "My Lord, forgive me and my parents and whoever enters my house as a believer and the believing men and believing women. And do not increase the wrongdoers except in destruction.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "ক্ষমা ও জালিমদের ধ্বংসের প্রার্থনা",
+        "translation": "হে আমার রব! আমাকে, আমার পিতা-মাতাকে, যে আমার ঘরে ঈমানদার হয়ে প্রবেশ করবে তাকে এবং মুমিন নারী-পুরুষকে ক্ষমা করুন এবং ধ্বংস ছাড়া আপনি যালিমদের আর কিছুই বাড়িয়ে দেবেন না।"
+      }
+    },
+    {
+      "key": [
+        955
+      ],
+      "id": 955,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 955,
+        "groups": null,
+        "uthmani": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِن ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ ﴿٤٠﴾ رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ ﴿٤١﴾",
+        "indopak": "رَبِّ اجْعَلْنِىْ مُقِيْمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِىْ ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ ﴿٤٠﴾ رَبَّنَا اغْفِرْ لِىْ وَلِوَالِدَيَّ وَلِلْمُؤْمِنِيْنَ يَوْمَ يَقُوْمُ الْحِسَابُ ﴿٤١﴾",
+        "clean": "رب اجعلني مقيم الصلاه ومن ذريتي  ربنا وتقبل دعاء ٤٠ ربنا اغفر لي ولوالدي وللمءمنين يوم يقوم الحساب ٤١",
+        "transliteration": null,
+        "reference": "Surah Ibrahim 14:40-41",
+        "audio": 955,
+        "cat_id": 21,
+        "subcat_id": 117
+      },
+      "source": {
+        "name": "Dua for seeking forgiveness and establisher of prayer",
+        "content": null,
+        "translation": "My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication.(40) Our Lord, forgive me and my parents and the believers the Day the account is established.(41)",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সালাত কায়েমকারী ও ক্ষমা প্রার্থনা",
+        "translation": "হে আমার রব, আমাকে সালাত কায়েমকারী বানান এবং আমার বংশধরদের মধ্য থেকেও, হে আমাদের রব, আর আমার দোয়া কবূল করুন। হে আমাদের রব, যেদিন হিসাব কায়েম হবে, সেদিন আপনি আমাকে, আমার পিতামাতাকে ও মুমিনদেরকে ক্ষমা করে দিবেন।"
+      }
+    },
+    {
+      "key": [
+        956
+      ],
+      "id": 956,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 956,
+        "groups": null,
+        "uthmani": "سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ",
+        "indopak": "سَمِعْنَا وَاَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَاِلَيْكَ الْمَصِيْرُ",
+        "clean": "سمعنا واطعنا  غفرانك ربنا واليك المصير",
+        "transliteration": null,
+        "reference": "Surah Baqara 2:285",
+        "audio": 956,
+        "cat_id": 21,
+        "subcat_id": 117
+      },
+      "source": {
+        "name": "Recognition of faith and prayer for forgiveness",
+        "content": null,
+        "translation": "We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "ঈমানের স্বীকৃতি ও ক্ষমা প্রার্থনা",
+        "translation": "আমরা শুনলাম এবং মানলাম। হে আমাদের রব! আমরা আপনারই ক্ষমা প্রার্থনা করি, আর আপনার দিকেই প্রত্যাবর্তনস্থল।"
+      }
+    },
+    {
+      "key": [
+        957
+      ],
+      "id": 957,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 957,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيةَ فِي الدُّنْيَا وَالْآخِرَةَ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ الْعَفْوَ وَالْعَافِيْةَ فِىْ الدُّنْيَا وَالْاٰخِرَةَ",
+        "clean": "اللهم اني اسالك العفو والعافيه في الدنيا والاخره",
+        "transliteration": "Allaahumma 'innee 'as'alukal-'afwa wal 'aafiyah fid-dunyaa wal 'aakhirah",
+        "reference": "Sahih (Albani). Ibn Majah: 3871",
+        "audio": 957,
+        "cat_id": 21,
+        "subcat_id": 69
+      },
+      "source": {
+        "name": "Seeking forgiveness and security in this world and in the hereafter",
+        "content": null,
+        "translation": "O Allah, I ask You for forgiveness and well-being in this world and in the Hereafter.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "দুনিয়া ও আখিরাতে ক্ষমা ও নিরাপত্তা চাওয়া",
+        "translation": "হে আল্লাহ্‌! আমি তোমার নিকট ইহকাল ও পরকালের ক্ষমা ও নিরাপত্তা চাচ্ছি।"
+      }
+    },
+    {
+      "key": [
+        958
+      ],
+      "id": 958,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 958,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنَّكَ عَفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+        "indopak": "اَللّٰهُمَّ اِنَّكَ عَفُوٌّ كَرِيْمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّيْ",
+        "clean": "اللهم انك عفو كريم تحب العفو فاعف عني",
+        "transliteration": "Allaahumma innaka `Afuwwun Karimun, tuhibbul-`afwa fa`fu `anni",
+        "reference": "Sahih (Albani). Tirmidhi: 3513",
+        "audio": 958,
+        "cat_id": 21,
+        "subcat_id": 69
+      },
+      "source": {
+        "name": "Masnun Istegfar #6",
+        "content": null,
+        "translation": "O Allah, indeed You are Pardoning, [Generous,] You love pardon, so pardon me.",
+        "note": "Aishah (RA) narrated: “I said: ‘O Messenger of Allah (ﷺ), what is your view if I know when the Night of Al-Qadr is, then what should I say in it?” He (ﷺ) said: ‘Say: (The above dua has been mentioned)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "মাসনূন ইসতিগফার #৬",
+        "translation": "হে আল্লাহ্‌! তুমি ক্ষমাশীল, মহানুভব!, তুমি ক্ষমা করতে পছন্দ করো অতএব, আমাকে ক্ষমা করে দাও।",
+        "note": "আয়িশা (রাঃ) থেকে বর্ণিত, তিনি বলেন, “আমি বললাম “হে আল্লাহ্‌র রাসূল (ﷺ) আমি যদি বুঝতে পারি কোন রাতটি লাইলাতুল কদর, তা হলে ওই রাতে আমি কী বলব?” নবী (ﷺ) বলেন, তুমি বলো- (দোয়াটি উপরে উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        959
+      ],
+      "id": 959,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 959,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيْرًا وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ فَاغْفِرْ لِي مَغْفِرَةً مِّنْ عِنْدِكَ وَارْحَمْنِيْ إِنَّكَ أَنْتَ الْغَفُوْرُ الرَّحِيْمُ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ ظَلَمْتُ نَفْسِيْ ظُلْمًا كَثِيْرًا وَّلَا يَغْفِرُ الذُّنُوْبَ اِلَّا اَنْتَ فَاغْفِرْ لِيْ مَغْفِرَةً مِّنْ عِنْدِكَ وَارْحَمْنِيْ اِنَّكَ اَنْتَ الْغَفُوْرُ الرَّحِيْمُ",
+        "clean": "اللهم اني ظلمت نفسي ظلما كثيرا ولا يغفر الذنوب الا انت فاغفر لي مغفره من عندك وارحمني انك انت الغفور الرحيم",
+        "transliteration": "Allaahumma inni zalamtu nafsi zulman kathiran wa laa yaghfirudh-dhunuba illaa Anta, faghfir li maghfiratan min 'indika warhamni, innaka Antal-Ghafurur-Rahim",
+        "reference": "Bukhari: 834",
+        "audio": 959,
+        "cat_id": 21,
+        "subcat_id": 69
+      },
+      "source": {
+        "name": "Masnun Istegfar #7",
+        "content": null,
+        "translation": "O Allah! I have done great injustice to myself and none except You forgives sins, so bestow on me a forgiveness from You, and Have Mercy on me, You are the Forgiver, the Merciful.",
+        "note": "Narrated by Abu Bakr As-Siddiq (RA): I asked Allah's Messenger (ﷺ) to teach me an invocation so that I may invoke Allah with it in my prayer. He told me to say: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "মাসনূন ইসতিগফার #৭",
+        "translation": "হে আল্লাহ্‌! আমি আমার নিজের উপর অনেক জুলুম করেছি; তুমি ছাড়া আর কেউ গোনাহ ক্ষমা করতে পারে না; তোমার পক্ষ থেকে আমাকে পুরোপুরি ক্ষমা করে দাও; আমার উপর দয়া করো; তুমি তো ক্ষমাশীল, দয়ালু।",
+        "note": "আবু বকর (রাঃ) থেকে বর্ণিত, তিনি আল্লাহ্‌র রাসূল (ﷺ)-কে বলেন, “আমাকে এমন একটি দোয়া শিখিয়ে দিন, যা আমি সালাতে পাঠ করব।” নবী (ﷺ) বলেন, তুমি বলো - (দোয়াটি উপরে উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        960
+      ],
+      "id": 960,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 960,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي خَطِيْئَتِيْ وَجَهْلِيْ وَإِسْرَافِي فِي أَمْرِيْ وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي اَللَّهُمَّ اغْفِرْ لِي جِدِّيْ وَهَزَلِيْ وَخَطَئِيْ وَعَمْدِيْ وَكُلُّ ذَلِكَ عِنْدِيْ اَللَّهُمَ اغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي أَنْتَ الْمُقَدِّمُ وَأَنْتَ الْمُؤَخِّرُ وَأَنْتَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِيْ خَطِيْئَتِيْ وَجَهْلِيْ وَاِسْرَافِيْ فِيْ اَمْرِيْ وَمَا اَنْتَ اَعْلَمُ بِهٖ مِنِّيْ اَللّٰهُمَّ اغْفِرْ لِيْ جِدِّيْ وَهَزَلِيْ وَخَطَئِيْ وَعَمْدِيْ وَكُلُّ ذٰلِكَ عِنْدِيْ اَللّٰهُمَ اغْفِرْ لِيْ مَا قَدَّمْتُ وَمَا اَخَّرْتُ وَمَا اَسْرَرْتُ وَمَا اَعْلَنْتُ وَمَا اَنْتَ اَعْلَمُ بِهٖ مِنِّيْ اَنْتَ الْمُقَدِّمُ وَاَنْتَ الْمُؤَخِّرُ وَاَنْتَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
+        "clean": "اللهم اغفر لي خطيءتي وجهلي واسرافي في امري وما انت اعلم به مني اللهم اغفر لي جدي وهزلي وخطءي وعمدي وكل ذلك عندي اللهم اغفر لي ما قدمت وما اخرت وما اسررت وما اعلنت وما انت اعلم به مني انت المقدم وانت المءخر وانت علي كل شيء قدير",
+        "transliteration": "Allahumm-aghfir li khati'ati, wa jahli, wa israafi fi amri, wa maa Anta a'lamu bihi minni. Allahumm-aghfir li jiddi wa hazali, wa khata'i wa 'amdi, wa kullu dhalika 'indi. Allahumm-aghfir li maa qaddamtu wa maa akhkhartu, wa maa asrartu, wa maa a'lantu, wa maa Anta a'lamu bihi minni. Antal-Muqaddimu, wa Antal-Mu'akhkhiru; wa Anta 'alaa kulli shai'in Qadir",
+        "reference": "Muslim: 2719",
+        "audio": 960,
+        "cat_id": 21,
+        "subcat_id": 69
+      },
+      "source": {
+        "name": "To seek forgiveness for sins committed intentionally or unintentionally",
+        "content": "Narrated from Abu Musa Ashari (RA), the Prophet (ﷺ) used to recite this dua:",
+        "translation": "O Allah, forgive me my faults, my ignorance, my immoderation in my concerns. And Thou art better aware (of my affairs) than myself. O Allah, grant me forgiveness (of the faults which I committed) seriously or otherwise (and which I committed inadvertently and de- liberately. All these (failings) are in me. O Allah, grant me forgiveness from the fault which I did in haste or deferred, which I committed in privacy or in public and Thou art better aware of (them) than myself. Thou art the First and the Last and over all things Thou art Omnipotent.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "ইচ্ছায় অনিচ্ছায় সংঘটিত পাপ থেকে ক্ষমা চাওয়া",
+        "content": "আবূ মূসা আশআরি (রাঃ) থেকে বর্ণিত, নবী (ﷺ) এ দোয়া পড়তেন -",
+        "translation": "হে আল্লাহ্‌! আমার (এসব বিষয়) মাফ করে দাও আমার ভুলত্রুটি ও অজ্ঞতা (প্রসূত কাজ) এবং কাজ করতে গিয়ে আমি যেসব বাড়াবাড়ি করেছি যে-সকল (পাপের) বিষয়ে তুমি আমার চেয়ে ভালো জানো। হে আল্লাহ্‌! আমার (এসব বিষয়) মাফ করে দাও গুরুত্বের সঙ্গে অথবা তামাশা-বশত যেসব অন্যায় করেছি, এবং আমার ভুলত্রুটি ও ইচ্ছাকৃত অপরাধ; এ সবগুলোই আমার দ্বারা হয়েছে। হে আল্লাহ্‌! আমার (এসব বিষয়) মাফ করে দাও আগে-পরে আমি যেসব অন্যায় করেছি, যা-কিছু করেছি গোপনে ও প্রকাশ্যে, যেগুলো তুমি আমার চেয়ে ভালো জানো। আগ-পিছ করার ক্ষমতা কেবল তোমারই; তুমি সব কিছুর উপর ক্ষমতাবান৷"
+      }
+    },
+    {
+      "key": [
+        961
+      ],
+      "id": 961,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 961,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ طَهِّرْنِيْ مِنَ الذُّنُوبِ وَالْخَطَايَا اَللَّهُمَّ نَقِّنِيْ مِنْهَا كَمَا يُنَقَّى الثَّوْبُ الْأَبْيَضُ مِنَ الدَّنَسِ، اَللَّهُمَّ طَهِّرْنِيْ بِالثَّلْجِ وَالْبَرَدِ وَالْمَاءِ الْبَارِدِ",
+        "indopak": "اَللّٰهُمَّ طَهِّرْنِيْ مِنَ الذُّنُوْبِ وَالْخَطَايَا اَللّٰهُمَّ نَقِّنِيْ مِنْهَا كَمَا يُنَقَّى الثَّوْبُ الْاَبْيَضُ مِنْ الدَّنَسِ، اَللّٰهُمَّ طَهِّرْنِيْ بِالثَّلْجِ وَالْبَرَدِ وَالْمَاءِ الْبَارِدِ",
+        "clean": "اللهم طهرني من الذنوب والخطايا اللهم نقني منها كما ينقي الثوب الابيض من الدنس اللهم طهرني بالثلج والبرد والماء البارد",
+        "transliteration": "Allaahumma tahhirni minadh-dhunubi wal-khataayaa. Allaahumma naqqini minhaa kamaa yunaqqath thawbul-abyadu minad-danasi, Allaahumma tahhirni bith-thalji wal-barad wal-maa'i al-baarid",
+        "reference": "Sahih (Albani). An-Nasai: 402",
+        "audio": 961,
+        "cat_id": 21,
+        "subcat_id": 69
+      },
+      "source": {
+        "name": "To be cleansed from sin and error",
+        "content": "The Prophet (ﷺ) used to pray:",
+        "translation": "O Allah, purify me of sin and error, O Allah cleanse me of it as a white garment is cleansed of dirt, O Allah purify me with snow and hail and cold water.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "গুনাহ ও ভুলভ্রান্তি থেকে পবিত্র হওয়া",
+        "content": "নবী (ﷺ) দোয়া করতেন -",
+        "translation": "হে আল্লাহ্‌! আমাকে গোনাহ ও ভুলত্রুটি থেকে পবিত্র করে দাও; হে আল্লাহ্‌! আমাকে সেসব থেকে পরিচ্ছন্ন করো, যেভাবে সাদা কাপড় ময়লা থেকে পরিচ্ছন্ন করা হয়; হে আল্লাহ্‌! বরফ, শীতলতা ও ঠান্ডা পানি দিয়ে আমাকে পবিত্র করো।"
+      }
+    },
+    {
+      "key": [
+        962
+      ],
+      "id": 962,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 962,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي وَارْحَمْنِيْ وَعَافِنِيْ وَارْزُقْنِيْ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِيْ وَارْحَمْنِيْ وَعَافِنِيْ وَارْزُقْنِيْ",
+        "clean": "اللهم اغفر لي وارحمني وعافني وارزقني",
+        "transliteration": "Allaahumma-ghfir li warhamni wa 'aafini warzuqni",
+        "reference": "Sahih (Albani). Ibn Majah: 3845",
+        "audio": 962,
+        "cat_id": 21,
+        "subcat_id": 69
+      },
+      "source": {
+        "name": "Dua for seeking forgiveness, sustenance and healthy life",
+        "content": "A man had come to the Messenger of Allah (ﷺ), he heard him say: \"O Messenger of Allah (ﷺ), what should I say when I ask of Allah?\" He (ﷺ) said: \"Say:",
+        "translation": "O Allah, forgive me, have mercy on me, keep me safe and sound and grant me provision.",
+        "note": "And he held up his four fingers apart from the thumb and said: \"These will combine your religious and worldly affairs.\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "ক্ষমা, রিযিক ও সুস্থ জীবন লাভের দোয়া",
+        "content": "এক ব্যক্তি নবী (ﷺ)-এর কাছে এসে বলে, “হে আল্লাহ্‌র রাসূল (ﷺ) আমার রবের কাছে কিছু চাওয়ার সময়, কীভাবে (কী) বলব?” নবী (ﷺ) বলেন, তুমি বলো -",
+        "translation": "হে আল্লাহ্‌! আমাকে ক্ষমা করে দাও; আমার উপর দয়া করো; আমাকে সুস্থ রাখো এবং আমার জীবনোপকরণ জুগিয়ে দাও!",
+        "note": "এরপর তিনি বৃদ্ধাঙ্গুলি ছাড়া অন্য আঙুলসমূহ একসঙ্গে করে বলেন, “এসব (দোয়া) তোমার দুনিয়া ও আখিরাত একত্র করে দেবে।”"
+      }
+    },
+    {
+      "key": [
+        963
+      ],
+      "id": 963,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 963,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي مَا أَسْرَرْتُ وَمَا أَعْلَنْتُ وَمَا أَخْطَأْتُ وَمَا تَعَمَّدْتُ وَمَا عَلِمْتُ وَمَا جَهِلْتُ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِيْ مَا اَسْرَرْتُ وَمَا اَعْلَنْتُ وَمَا اَخْطَأْتُ وَمَا تَعَمَّدْتُ وَمَا عَلِمْتُ وَمَا جَهِلْتُ",
+        "clean": "اللهم اغفر لي ما اسررت وما اعلنت وما اخطات وما تعمدت وما علمت وما جهلت",
+        "transliteration": "Allaahummagfirli maa asrartu wa maa a’alantu wa maa akhtaa’-tu wa maa ta’ammadtu wa maa ‘alimtu wa maa jahiltu",
+        "reference": "Sahih (Ibn al-Qayyim). Al Wabilus Sayyib: P. 199",
+        "audio": null,
+        "cat_id": 21,
+        "subcat_id": 69
+      },
+      "source": {
+        "name": "Seeking forgiveness for sins committed in secret and in public",
+        "content": null,
+        "translation": "O Allah, grant me forgiveness from the fault which I committed in privacy or in public, which I mistakenly did, which I did deliberately, which I did knowingly and which I did unknowingly.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "গোপনে ও প্রকাশ্যে সংঘটিত পাপ থেকে ক্ষমা চাওয়া",
+        "translation": "হে আল্লাহ্‌! আমাকে মাফ করে দাও আমি যা গোপনে করেছি আর যা প্রকাশ্যে করেছি, যা ভুলে করেছি আর যা ইচ্ছা করে করেছি, যা না জেনে করেছি আর যা জেনে করেছি।"
+      }
+    },
+    {
+      "key": [
+        964
+      ],
+      "id": 964,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 964,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِيْ وَدُنْيَايَ وَأَهْلِيْ، وَمَالِيْ، اَللَّهُمَّ اسْتُرْ عَوْرَاتِيْ، وَآمِنْ رَوْعَاتِيْ، اَللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِيْنِيْ وَعَنْ شِمَالِي وَمِنْ فَوْقِيْ وَأَعُوْذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِيْ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْاٰخِرَةِ، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِيْ دِيْنِيْ وَدُنْيَايَ وَاَهْلِيْ، وَمَالِيْ، اَللّٰهُمَّ اسْتُرْ عَوْرَاتِيْ، وَاٰمِنْ رَوْعَاتِيْ، اَللّٰهُمَّ احْفَظْنِيْ مِنْۢ بَيْنِ يَدَيَّ وَمِنْ خَلْفِيْ وَعَنْ يَّمِيْنِيْ وَعَنْ شِمَالِيْ وَمِنْ فَوْقِيْ وَاَعُوْذُ بِعَظَمَتِكَ اَنْ اُغْتَالَ مِنْ تَحْتِيْ",
+        "clean": "اللهم اني اسالك العفو والعافيه في الدنيا والاخره اللهم اني اسالك العفو والعافيه في ديني ودنياي واهلي ومالي اللهم استر عوراتي وامن روعاتي اللهم احفظني من بين يدي ومن خلفي وعن يميني وعن شمالي ومن فوقي واعوذ بعظمتك ان اغتال من تحتي",
+        "transliteration": "Allaahumma 'innee 'as'alukal-'afwa wal'aafiyata fid-dunyaa wal'aakhirah, Allaahumma 'innee 'as'alukal-'afwa wal'aafiyata fee deenee wa dunyaaya wa 'ahlee, wa maalee, Allahum-mastur 'awraatee, wa 'aamin raw'aatee, Allahum-mahfadhnee mim bayni yadayya, wa min khalfee, wa 'an yameenee, wa 'an shimaalee, wa min fawqee, wa 'A'oodhu bi'adhamatika 'an 'ughtaala min tahtee.",
+        "reference": "Sahih (Albani). Abu Dawud: 5074",
+        "audio": 964,
+        "cat_id": 21,
+        "subcat_id": 69
+      },
+      "source": {
+        "name": "Asking for pardon, wellbeing and refuge from all sides",
+        "content": "In the morning (evening) say,",
+        "translation": "O Allah, I ask You for pardon and well-being in this life and the next. O Allah, I ask You for pardon and well-being in my religious and worldly affairs, and my family and my wealth. O Allah, veil my weaknesses and set at ease my dismay. O Allah, preserve me from the front and from behind and on my right and on my left and from above, and I take refuge with You lest I be swallowed up by the earth.",
+        "note": "Abdullah ibn Umar (RA) Said that, The Messenger of Allah (ﷺ) never forget to utter these supplications in the evening and in the morning."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "ক্ষমা, সুস্থতা এবং সর্বদিকের বিপদাপদ থেকে আশ্রয় চাওয়া",
+        "content": "সকালে (বা বিকালে) বলবে,",
+        "translation": "হে আল্লাহ্‌, আমি আপনার কাছে চাই ক্ষমা ও সার্বিক সুস্থতা-নিরাপত্তা দুনিয়াতে এবং আখেরাতে। হে আল্লাহ্‌, আমি আপনার কাছে চাই ক্ষমা ও সার্বিক সুস্থতা-নিরাপত্তা আমার দ্বীনের মধ্যে, আমার দুনিয়াবী বিষয়ের মধ্যে, আমার পরিবার পরিজনের মধ্যে ও আমার সম্পদের মধ্যে। হে আল্লাহ্‌, আমার দোষ-ত্রুটি গুলো গোপন করুন এবং আমার ভয়ভীতিকে নিরাপত্তা দান করুন। হে আল্লাহ্‌, আপনি আমাকে হেফাযত করুন আমার সামনে থেকে, আমার পিছন থেকে, আমার ডান থেকে, আমার বাম থেকে, আমার উপর থেকে এবং আমি আপনার মহত্ত্বের আশ্রয় গ্রহণ করছি যে, আমি আমার নিম্ন দিক থেকে আক্রান্ত হব।",
+        "note": "আব্দুল্লাহ ইবনু উমর (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) কখনোই সকাল হলে ও সন্ধ্যা হলে উপরের এ কথাগুলো বলতে ছাড়তেন না (সর্বদা তিনি সকালে ও সন্ধ্যায় এগুলো বলতেন)।"
+      }
+    },
+    {
+      "key": [
+        965
+      ],
+      "id": 965,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 965,
+        "groups": null,
+        "uthmani": "رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا",
+        "indopak": "رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا اِصْرًا كَمَا حَمَلْتَهٗ عَلَي الَّذِيْنَ مِن قَبْلِنَا",
+        "clean": "ربنا ولا تحمل علينا اصرا كما حملته علي الذين من قبلنا",
+        "transliteration": null,
+        "reference": "Surah Al-Baqara 2:286",
+        "audio": 965,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #6",
+        "content": null,
+        "translation": "Our Lord, and lay not upon us a burden like that which You laid upon those before us.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রাব্বানা দোয়া #৬",
+        "translation": "হে আমাদের রব, আমাদের উপর বোঝা চাপিয়ে দেবেন না, যেমন আমাদের পূর্ববর্তীদের উপর চাপিয়ে দিয়েছেন।"
+      }
+    },
+    {
+      "key": [
+        966
+      ],
+      "id": 966,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 966,
+        "groups": null,
+        "uthmani": "رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+        "indopak": "رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهٖ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ اَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَي الْقَوْمِ الْكَافِرِيْنَ",
+        "clean": "ربنا ولا تحملنا ما لا طاقه لنا به  واعف عنا واغفر لنا وارحمنا  انت مولانا فانصرنا علي القوم الكافرين",
+        "transliteration": null,
+        "reference": "Surah Al-Baqara 2:286",
+        "audio": 966,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #7",
+        "content": null,
+        "translation": "Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রাব্বানা দোয়া #৭",
+        "translation": "হে আমাদের রব, আপনি আমাদেরকে এমন কিছু বহন করাবেন না, যার সামর্থ্য আমাদের নেই। আর আপনি আমাদেরকে মার্জনা করুন এবং আমাদেরকে ক্ষমা করুন, আর আমাদের উপর দয়া করুন। আপনি আমাদের অভিভাবক। অতএব আপনি কাফির সম্প্রদায়ের বিরুদ্ধে আমাদেরকে সাহায্য করুন।"
+      }
+    },
+    {
+      "key": [
+        967
+      ],
+      "id": 967,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 967,
+        "groups": null,
+        "uthmani": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَّدُنْكَ رَحْمَةً ۚ إِنَّكَ أَنْتَ الْوَهَّابُ",
+        "indopak": "رَبَّنَا لَا تُزِغْ قُلُوْبَنَا بَعْدَ اِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَّدُنْكَ رَحْمَةً ۚ اِنَّكَ اَنْتَ الْوَهَّابُ",
+        "clean": "ربنا لا تزغ قلوبنا بعد اذ هديتنا وهب لنا من لدنك رحمه  انك انت الوهاب",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:8",
+        "audio": 967,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #8",
+        "content": null,
+        "translation": "Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রাব্বানা দোয়া #৮",
+        "translation": "হে আমাদের রব, আপনি হিদায়াত দেয়ার পর আমাদের অন্তরসমূহ বক্র করবেন না এবং আপনার পক্ষ থেকে আমাদেরকে রহমত দান করুন। নিশ্চয় আপনি মহাদাতা।"
+      }
+    },
+    {
+      "key": [
+        968
+      ],
+      "id": 968,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 968,
+        "groups": null,
+        "uthmani": "رَبَّنَا إِنَّكَ جَامِعُ النَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ اللَّهَ لَا يُخْلِفُ الْمِيعَادَ ‎﴿٩﴾‏",
+        "indopak": "رَبَّنَاۤ اِنَّکَ جَامِعُ النَّاسِ لِیَوۡمٍ لَّا رَیۡبَ فِیۡہِ ؕ اِنَّ اللّٰہَ لَا یُخۡلِفُ الۡمِیۡعَادَ ﴿٩﴾‏",
+        "clean": "ربنا ان جامع الناس لوم لا رب ف  ان الل لا خلف المعاد ٩",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:9",
+        "audio": null,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #9",
+        "content": null,
+        "translation": "Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allah does not fail in His promise.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রাব্বানা দোয়া #৯",
+        "translation": "হে আমাদের রব, নিশ্চয় আপনি মানুষকে সমবেত করবেন এমন একদিন, যাতে কোন সন্দেহ নেই। নিশ্চয় আল্লাহ প্রতিশ্রুতি ভঙ্গ করেন না।"
+      }
+    },
+    {
+      "key": [
+        969
+      ],
+      "id": 969,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 969,
+        "groups": null,
+        "uthmani": "رَبَّنَا إِنَّنَا آمَنَّا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِ",
+        "indopak": "رَبَّنَا اِنَّنَا اٰمَنَّا فَاغْفِرْ لَنَا ذُنُوْبَنَا وَقِنَا عَذَابَ النَّارِ",
+        "clean": "ربنا اننا امنا فاغفر لنا ذنوبنا وقنا عذاب النار",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:16",
+        "audio": 969,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #10",
+        "content": null,
+        "translation": "Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রাব্বানা দোয়া #১০",
+        "translation": "হে আমাদের রব, নিশ্চয় আমরা ঈমান আনলাম। অতএব, আমাদের পাপসমূহ ক্ষমা করুন এবং আমাদেরকে আগুনের আযাব থেকে রক্ষা করুন।"
+      }
+    },
+    {
+      "key": [
+        970
+      ],
+      "id": 970,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 970,
+        "groups": null,
+        "uthmani": "رَبَّنَا آمَنَّا بِمَا أَنزَلْتَ وَاتَّبَعْنَا الرَّسُولَ فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+        "indopak": "رَبَّنَا اٰمَنَّا بِمَا اَنزَلْتَ وَاتَّبَعْنَا الرَّسُوْلَ فَاكْتُبْنَا مَعَ الشَّاهِدِيْنَ",
+        "clean": "ربنا امنا بما انزلت واتبعنا الرسول فاكتبنا مع الشاهدين",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:53",
+        "audio": 970,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #11",
+        "content": null,
+        "translation": "Our Lord, we have believed in what You revealed and have followed the messenger, so register us among the witnesses [to truth].",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রাব্বানা দোয়া #১১",
+        "translation": "হে আমাদের রব, আপনি যা নাযিল করেছেন তার প্রতি আমরা ঈমান এনেছি এবং আমরা রাসূলের অনুসরণ করেছি। অতএব, আমাদেরকে সাক্ষ্যদাতাদের তালিকাভুক্ত করুন।"
+      }
+    },
+    {
+      "key": [
+        971
+      ],
+      "id": 971,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 971,
+        "groups": null,
+        "uthmani": "رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+        "indopak": "رَبَّنَا اغْفِرْ لَنَا ذُنُوْبَنَا وَاِسْرَافَنَا فِيْ اَمْرِنَا وَثَبِّتْ اَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِيْنَ",
+        "clean": "ربنا اغفر لنا ذنوبنا واسرافنا في امرنا وثبت اقدامنا وانصرنا علي القوم الكافرين",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:147",
+        "audio": 971,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #12",
+        "content": null,
+        "translation": "Our Lord, forgive us our sins and the excess [committed] in our affairs and plant firmly our feet and give us victory over the disbelieving people.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রাব্বানা দোয়া #১২",
+        "translation": "হে আমাদের রব, আমাদের পাপ ও আমাদের কর্মে আমাদের সীমালঙঘন ক্ষমা করুন এবং অবিচল রাখুন আমাদের পা-সমূহকে, আর কাফির কওমের উপর আমাদেরকে সাহায্য করুন।"
+      }
+    },
+    {
+      "key": [
+        972
+      ],
+      "id": 972,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 972,
+        "groups": null,
+        "uthmani": "رَبَّنَا مَا خَلَقْتَ هَـٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ ﴿١٩١﴾",
+        "indopak": "رَبَّنَا مَا خَلَقْتَ هٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ ﴿١٩١﴾",
+        "clean": "ربنا ما خلقت هذا باطلا سبحانك فقنا عذاب النار ١٩١",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:191",
+        "audio": 972,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #13",
+        "content": null,
+        "translation": "Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রাব্বানা দোয়া #১৩",
+        "translation": "হে আমাদের রব, তুমি এসব অনর্থক সৃষ্টি করনি। তুমি পবিত্র মহান। সুতরাং তুমি আমাদেরকে আগুনের আযাব থেকে রক্ষা কর’।"
+      }
+    },
+    {
+      "key": [
+        973
+      ],
+      "id": 973,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 973,
+        "groups": null,
+        "uthmani": "رَبَّنَا إِنَّكَ مَن تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ ۖ وَمَا لِلظَّالِمِينَ مِنْ أَنصَارٍ ﴿١٩٢﴾",
+        "indopak": "رَبَّنَا اِنَّكَ مَن تُدْخِلِ النَّارَ فَقَدْ اَخْزَيْتَهُ ۖ وَمَا لِلظَّالِمِيْنَ مِنْ اَنصَارٍ  ﴿١٩٢﴾",
+        "clean": "ربنا انك من تدخل النار فقد اخزيته  وما للظالمين من انصار  ١٩٢",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:192",
+        "audio": 973,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #14",
+        "content": null,
+        "translation": "Our Lord, indeed whoever You admit to the Fire - You have disgraced him, and for the wrongdoers there are no helpers.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রাব্বানা দোয়া #১৪",
+        "translation": "‘হে আমাদের রব, নিশ্চয় তুমি যাকে আগুনে প্রবেশ করাবে, অবশ্যই তাকে তুমি অপমান করবে। আর যালিমদের জন্য কোন সাহায্যকারী নেই’।"
+      }
+    },
+    {
+      "key": [
+        974
+      ],
+      "id": 974,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 974,
+        "groups": null,
+        "uthmani": "رَّبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ آمِنُوا بِرَبِّكُمْ فَآمَنَّا",
+        "indopak": "رَّبَّنَا اِنَّنَا سَمِعْنَا مُنَادِيًا يُّنَادِيْ لِلْاِيْمَانِ اَنْ اٰمِنُوْا بِرَبِّكُمْ فَاٰمَنَّا",
+        "clean": "ربنا اننا سمعنا مناديا ينادي للايمان ان امنوا بربكم فامنا",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:193",
+        "audio": 974,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #15",
+        "content": null,
+        "translation": "(193) Our Lord, indeed we have heard a caller calling to faith, [saying], 'Believe in your Lord,' and we have believed.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রাব্বানা দোয়া #১৫",
+        "translation": "‘হে আমাদের রব, নিশ্চয় আমরা শুনেছিলাম একজন আহবানকারীকে, যে ঈমানের দিকে আহবান করে যে, ‘তোমরা তোমাদের রবের প্রতি ঈমান আন’। তাই আমরা ঈমান এনেছি।"
+      }
+    },
+    {
+      "key": [
+        975
+      ],
+      "id": 975,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 975,
+        "groups": null,
+        "uthmani": "رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ ﴿١٩٣﴾",
+        "indopak": "رَبَّنَا فَاغْفِرْ لَنَا ذُنُوْبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْاَبْرَارِ ﴿١٩٣﴾",
+        "clean": "ربنا فاغفر لنا ذنوبنا وكفر عنا سيءاتنا وتوفنا مع الابرار ١٩٣",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:193",
+        "audio": 975,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #16",
+        "content": null,
+        "translation": "Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die with the righteous.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রাব্বানা দোয়া #১৬",
+        "translation": "হে আমাদের রব আমাদের গুনাহসমূহ ক্ষমা করুন এবং বিদূরিত করুন আমাদের ত্রুটি-বিচ্যুতি, আর আমাদেরকে মৃত্যু দিন নেককারদের সাথে’।"
+      }
+    },
+    {
+      "key": [
+        976
+      ],
+      "id": 976,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 976,
+        "groups": null,
+        "uthmani": "رَبَّنَا وَآتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ ۗ إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ ﴿١٩٤﴾",
+        "indopak": "رَبَّنَا وَاٰتِنَا مَا وَعَدْتَّنَا عَلٰي رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ ۗ اِنَّكَ لَا تُخْلِفُ الْمِيْعَادَ ﴿١٩٤﴾",
+        "clean": "ربنا واتنا ما وعدتنا علي رسلك ولا تخزنا يوم القيامه  انك لا تخلف الميعاد ١٩٤",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:194",
+        "audio": 976,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #17",
+        "content": null,
+        "translation": "Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise.\"",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রাব্বানা দোয়া #১৭",
+        "translation": "‘হে আমাদের রব, আর আপনি আমাদেরকে তা প্রদান করুন যার ওয়াদা আপনি আমাদেরকে দিয়েছেন আপনার রাসূলগণের মাধ্যমে। আর কিয়ামতের দিনে আপনি আমাদেরকে অপমান করবেন না। নিশ্চয় আপনি অঙ্গীকার ভঙ্গ করেন না’।"
+      }
+    },
+    {
+      "key": [
+        977
+      ],
+      "id": 977,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 977,
+        "groups": null,
+        "uthmani": "رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+        "indopak": "رَبَّنَا اٰمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِيْنَ",
+        "clean": "ربنا امنا فاكتبنا مع الشاهدين",
+        "transliteration": null,
+        "reference": "Surah Al-Maidah 5:83",
+        "audio": 977,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #18",
+        "content": null,
+        "translation": "Our Lord, we have believed, so register us among the witnesses.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রাব্বানা দোয়া #১৮",
+        "translation": "হে আমাদের রব, আমরা ঈমান এনেছি। সুতরাং আপনি আমাদেরকে সাক্ষ্য দানকারীদের সঙ্গে লিপিবদ্ধ করুন।"
+      }
+    },
+    {
+      "key": [
+        978
+      ],
+      "id": 978,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 978,
+        "groups": null,
+        "uthmani": "وَارْزُقْنَا وَأَنتَ خَيْرُ الرَّازِقِينَ",
+        "indopak": "وَارْزُقْنَا وَاَنْتَ خَيْرُ الرَّازِقِيْنَ",
+        "clean": "وارزقنا وانت خير الرازقين",
+        "transliteration": null,
+        "reference": "Surah Al-Maidah 5:114",
+        "audio": 978,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #19",
+        "content": null,
+        "translation": "And provide for us, and You are the best of providers.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রাব্বানা দোয়া #১৯",
+        "translation": "আমাদেরকে রিযিক দান করুন, আপনিই শ্রেষ্ঠ রিযিকদাতা।"
+      }
+    },
+    {
+      "key": [
+        979
+      ],
+      "id": 979,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 979,
+        "groups": null,
+        "uthmani": "رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+        "indopak": "رَبَّنَا ظَلَمْنَا اَنْفُسَنَا وَاِنْ لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُوْنَنَّ مِنَ الْخَاسِرِيْنَ",
+        "clean": "ربنا ظلمنا انفسنا وان لم تغفر لنا وترحمنا لنكونن من الخاسرين",
+        "transliteration": null,
+        "reference": "Surah A'raf 7:23",
+        "audio": 979,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #20",
+        "content": null,
+        "translation": "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রাব্বানা দোয়া #২০",
+        "translation": "হে আমাদের রব, আমরা নিজদের উপর যুলম করেছি। আর যদি আপনি আমাদেরকে ক্ষমা না করেন এবং আমাদেরকে দয়া না করেন তবে অবশ্যই আমরা ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হব।"
+      }
+    }
+  ]
+}

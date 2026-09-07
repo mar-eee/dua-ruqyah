@@ -40,7 +40,7 @@ SOURCE = {
     'ruqyah_categories': 'en', 'ruqyah_subcategories': 'en',
     'ruqyah_details': 'en', 'ruqyah_instants': 'en',
     'ruqyah_videos': 'bn',
-    'drawer_items': 'en',
+    'drawer_items': 'bn',
 }
 
 TRANSLATE = {
@@ -64,6 +64,17 @@ FROZEN_NOTE = [
     'link', 'link_id', 'book_id', 'section_id', 'display_order',
     'created_at', 'updated_at', 'item_type', 'type', 'dua_count', 'subcat_count',
 ]
+
+# Tables where the Bengali wording is the more accurate description and should
+# be shown next to the English while translating.
+SHOW_BN = {'categories', 'subcategories', 'sections', 'ruqyah_categories',
+           'ruqyah_subcategories', 'ruqyah_instants', 'duas'}
+
+# duas.groups is a JSON string holding whole nested dua records. Its inner
+# name/content/translation/note are user-visible text, not metadata, so they
+# have to be translated too. Shipping them untranslated is a real bug: the
+# Japanese and Indonesian databases both carry Bengali here.
+GROUP_FIELDS = ['name', 'content', 'translation', 'note']
 
 # Longest prose field per table, used when a row must be split into parts.
 SPLIT_FIELD = {'dua_infos': 'description', 'ruqyah_details': 'text',
@@ -106,6 +117,16 @@ def split_paragraphs(text, target=PART_SIZE):
     return parts
 
 
+def group_items(groups):
+    """duas.groups -> the translatable strings inside each nested record."""
+    out = []
+    for gi, rec in enumerate(json.loads(groups)):
+        for f in GROUP_FIELDS:
+            if rec.get(f):
+                out.append({'group': gi, 'key': f, 'source': rec[f], 'target': ''})
+    return out
+
+
 def drawer_sections(content):
     """drawer_items.content is a JSON string. Expose only the human strings."""
     doc = json.loads(content)
@@ -126,6 +147,12 @@ def build_units(table):
     src = SOURCE[table]
     data = rows_of(EN if src == 'en' else BN, table)
     fields = TRANSLATE[table]
+    # the other language, keyed the same way, for cross-reference
+    other = {}
+    if table in SHOW_BN:
+        okey = KEY.get(table, ('id',))
+        for r in rows_of(BN if src == 'en' else EN, table):
+            other[tuple(r[k] for k in okey)] = r
     units = []
     for r in data:
         frozen = {k: v for k, v in r.items() if k not in fields}
@@ -154,13 +181,21 @@ def build_units(table):
                 units.append(u)
             continue
 
-        if size <= BUDGET:
-            units.append({
+        gitems = group_items(r['groups']) if table == 'duas' and r.get('groups') else []
+        ref = other.get(keyof(table, r))
+        if size + sum(len(g['source']) for g in gitems) <= BUDGET:
+            u = {
                 'key': list(keyof(table, r)), 'id': r['id'], 'part': 1, 'of': 1, 'frozen': frozen,
                 'source': {f: r.get(f) for f in fields},
                 'target': {f: ('' if r.get(f) is not None else None) for f in fields},
-                'size': size,
-            })
+                'size': size + sum(len(g['source']) for g in gitems),
+            }
+            if ref:
+                u['reference_bn' if src == 'en' else 'reference_en'] = {
+                    f: ref.get(f) for f in fields if ref.get(f)}
+            if gitems:
+                u['group_items'] = gitems
+            units.append(u)
             continue
 
         # too big for one file: split the long prose field into parts

@@ -53,6 +53,7 @@ def main():
     # (table, key) -> {field: {part: text}}
     acc = collections.defaultdict(lambda: collections.defaultdict(dict))
     sections = collections.defaultdict(dict)   # (table,key) -> {(idx,key): text}
+    groups   = collections.defaultdict(dict)   # (table,key) -> {(group,key): text}
 
     for table, info in idx['tables'].items():
         keyf = info.get('key_fields', ['id'])
@@ -70,6 +71,12 @@ def main():
                         acc[k][field][it['part']] = src
                     else:
                         acc[k][field][it['part']] = tgt
+                for g in it.get('group_items', []):
+                    t = g.get('target', '')
+                    if g['source'] and not str(t).strip():
+                        missing.append((path, it['id'], it['part'], f"groups[{g['group']}].{g['key']}"))
+                        t = g['source']
+                    groups[k][(g['group'], g['key'])] = t
                 for s in it.get('content_sections', []):
                     t = s.get('target', '')
                     if s['source'] and not str(t).strip():
@@ -96,6 +103,12 @@ def main():
             else:
                 value = '\n\n'.join(parts[p] for p in sorted(parts) if parts[p] is not None)
             sets.append(f'"{field}"=?'); vals.append(value)
+        if groups.get((table, key)):
+            row = db.execute(f'select groups from "{table}" where {where}', key).fetchone()
+            doc = json.loads(row[0])
+            for (gi, gk), text in groups[(table, key)].items():
+                doc[gi][gk] = text
+            sets.append('"groups"=?'); vals.append(json.dumps(doc, ensure_ascii=False))
         if table == 'drawer_items' and sections.get((table, key)):
             row = db.execute(f'select content from drawer_items where {where}', key).fetchone()
             doc = json.loads(row[0])

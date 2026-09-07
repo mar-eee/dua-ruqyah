@@ -50,26 +50,54 @@ chunked small came out fine. Keep the files small.
 | `subcategories` | 3 | 118 | 3 531 | EN |
 | `sections` | 1 | 21 | 846 | EN |
 | `dua_infos` | 70 | 42 | 357 024 | **BN** |
-| `duas` | 61 | 1 001 | 349 211 | EN |
+| `duas` | 64 | 1 001 | 363 081 | EN |
 | `ruqyah_categories` | 1 | 15 | 312 | EN |
 | `ruqyah_subcategories` | 4 | 163 | 4 805 | EN |
 | `ruqyah_details` | 95 | 200 | 457 751 | EN |
 | `ruqyah_instants` | 20 | 308 | 112 037 | EN |
 | `ruqyah_videos` | 2 | 74 | 3 884 | **BN** |
-| `drawer_items` | 2 | 6 | 7 727 | EN |
-| **total** | **260** | **1 992** | **1 297 589** | |
+| `drawer_items` | 2 | 6 | 8 243 | **BN** |
+| **total** | **263** | **1 992** | **1 311 975** | |
 
 Excluded on purpose: `books` and `book_details` (book tables), `ids` and
 `drawer_item_actions` (no text).
 
-### Why two tables come from Bengali
+### Why three tables come from Bengali
 
 `dua_main_en.sqlite` is **not** a translation of `dua_main_bn.sqlite` for every table.
-For `dua_infos` and `ruqyah_videos` the English database holds a completely different
-dataset — English `dua_infos` id 1 is "Conditions of dua being accepted", Bengali id 1
-is "Meaning of dua". Translating those two tables against English by id produces text
-that does not belong to the row it is attached to. They are therefore taken from
-Bengali, and `build.py` swaps those tables in wholesale.
+
+- `dua_infos` — the English database holds a completely different dataset. English id 1
+  is "Conditions of dua being accepted", Bengali id 1 is "Meaning of dua". Translating
+  against English by id attaches text to the wrong row.
+- `ruqyah_videos` — English has 40 English-language videos, Bengali has the 74 whose
+  links the app actually uses.
+- `drawer_items` — **the ids differ**. English uses 1-6, Bengali (and the shipped app
+  databases) use 19-24. Building from English produces drawer items the app cannot find.
+
+`build.py` swaps these tables in wholesale.
+
+### Where the English wording is weaker
+
+For `categories` and `subcategories` the English names are sometimes less accurate than
+the Bengali. Category 2 is "Dua's Excellence" in English, but the subcategory it holds is
+"Excellence of doing Tasbeeh, Tahmid, Tahlil, Takbeer" — that is *dhikr*, and the Bengali
+name says so. Category 5 is "Morning & Evening" in English and "morning and evening
+*dhikr*" in Bengali, which matches its contents.
+
+These tables are still sourced from English, but every work item carries a
+`reference_bn` field with the Bengali reading. **Read both before deciding the wording.**
+The existing Japanese translation followed the Bengali here, and was right to.
+
+### duas.groups
+
+`duas.groups` is a JSON string holding whole nested dua records — 67 of them across 35
+rows, about 13 000 characters of `name`, `content`, `translation` and `note`. This is
+user-visible text, not metadata. It appears in the work files as `group_items` and must
+be translated.
+
+Both the Japanese and the Indonesian databases currently ship these 35 rows with the
+original **Bengali** inside `groups`, because earlier workspaces treated the field as
+frozen. Do not repeat that.
 
 ---
 
@@ -161,6 +189,9 @@ now checks for all of them.
 | Honorific attached to the wrong person | `children of Adam (PBUH)` |
 | Verb ending dropped | `ドゥアーます` instead of `ドゥアーします` |
 | Same name spelled three ways | `アーイシャ` / `アイシャ` / `アイーシャ` |
+| Bengali transliteration left in place | 42 Japanese and **686 Indonesian** `duas.transliteration` rows still read `আল্লা-হুম্মা…` instead of `Allaahumma…` |
+| Nested `groups` records never translated | 35 rows of Bengali shipped inside `duas.groups` in both languages |
+| Table built from the wrong database | `drawer_items` ids 1-6 (English) instead of 19-24 (app) |
 
 **Rule of thumb:** if a number or a proper noun changes shape between source and
 target, it is a bug until proven otherwise.

@@ -4,10 +4,124 @@
   "source_language": "en",
   "target_language": "ur",
   "status": "pending",
-  "rows": 13,
-  "id_range": "104-116",
-  "source_chars": 5817,
+  "rows": 12,
+  "id_range": "101-112",
+  "source_chars": 4931,
   "items": [
+    {
+      "key": [
+        101
+      ],
+      "id": 101,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 101,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِي، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوْءًا، أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ",
+        "indopak": "اَللّٰهُمَّ عَالِمَ الغَيْبِ وَالشَّهَادَةِ فَاطِرَ السَّمَاوَاتِ وَالْاَرْضِ، رَبَّ كُلِّ شَيْءٍ وَّمَلِيْكَهُ، اَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اَنْتَ، اَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِيْ، وَمِنْ شَرِّ الشَّيْطَانِ وَ شِرْكِهٖ ، وَاَنْ اَقْتَرِفَ عَلٰى نَفْسِيْ سُوْءًا، اَوْ اَجُرَّهٗ اِلٰى مُسْلِمٍ",
+        "clean": "اللهم عالم الغيب والشهاده فاطر السماوات والارض رب كل شيء ومليكه اشهد ان لا اله الا انت اعوذ بك من شر نفسي ومن شر الشيطان و شركه  وان اقترف علي نفسي سوءا او اجره الي مسلم",
+        "transliteration": "Allaahumma 'Aalimal-ghaybi wash-shahaadati faatiras-samaawaati wal'ardhi, Rabba kulli shay'in wa maleekahu, 'ash-hadu 'an laa 'ilaaha 'illaa 'Anta, 'A'oodhu bika min sharri nafsee, wa min sharrish-shaytaani wa shirkihi, wa 'an 'aqtarifa 'alaa nafsee soo'an, 'aw 'ajurrahu 'ilaa Muslim.",
+        "reference": "Sahih (Albani). Tirmidhi: 3529",
+        "audio": 101,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Ask Pardon from the evil of oneself and shaitan",
+        "content": "In the morning or evening, say -",
+        "translation": "O Allah, Knower of the unseen and the seen, Creator of the heavens and the Earth, Lord and Sovereign of all things, I bear witness that none has the right to be worshipped except You. I take refuge in You from the evil of my soul and from the evil and shirk of the devil, and from committing wrong against my soul or bringing such upon another Muslim.",
+        "note": "Abu Bakr As-Siddiq (RA) said: “O Messenger of Allah, teach me what to say at morning and afternoon.” He said: “O Abu Bakr, say (above dua)"
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "নাফস ও শয়তানের অনিষ্ট থেকে পানাহ চাওয়া",
+        "content": "সকালে (বা বিকালে) বলবে,",
+        "translation": "হে আল্লাহ্‌, আপনি গোপন (গায়েব) ও প্রকাশ্য সকল জ্ঞানের অধিকারী, আসমান ও জমিনের সৃষ্টিকর্তা, সকল কিছুর প্রভু ও মালিক, আমি সাক্ষ্য প্রদান করছি যে, আপনি ছাড়া কোনো প্রকৃত মাবুদ নেই। আমি আপনার আশ্রয় গ্রহণ করছি আমার নিজের অকল্যাণ থেকে এবং শয়তানের অকল্যাণ ও তার শিরক থেকে। আমি আপনার আশ্রয় চাচ্ছি, আমি এমন কোনো কর্ম যেন না করি যাতে আমার নিজের কোনো ক্ষতি বা অমঙ্গল হয়, অথবা কোনো মুসলমানের জীবনে ক্ষতি বা অমঙ্গল বয়ে আনে।",
+        "note": "আবু বকর (রাঃ) রাসূলুল্লাহ্‌ (ﷺ)-কে বলেন, আমাকে এমন কিছু শিখিয়ে দিন যা আমি সকালে ও সন্ধ্যায় বলব। তখন তিনি তাকে উপরের দোয়াটি সকালে, সন্ধ্যায় ও বিছানায় শোয়ার পরে বলতে নির্দেশ দেন।”"
+      }
+    },
+    {
+      "key": [
+        102
+      ],
+      "id": 102,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 102,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِيْ وَدُنْيَايَ وَأَهْلِيْ، وَمَالِيْ، اَللَّهُمَّ اسْتُرْ عَوْرَاتِيْ، وَآمِنْ رَوْعَاتِيْ، اَللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِيْنِيْ وَعَنْ شِمَالِي وَمِنْ فَوْقِيْ وَأَعُوْذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِيْ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْاٰخِرَةِ، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِيْ دِيْنِيْ وَدُنْيَايَ وَاَهْلِيْ، وَمَالِيْ، اَللّٰهُمَّ اسْتُرْ عَوْرَاتِيْ، وَاٰمِنْ رَوْعَاتِيْ، اَللّٰهُمَّ احْفَظْنِيْ مِنْۢ بَيْنِ يَدَيَّ وَمِنْ خَلْفِيْ وَعَنْ يَّمِيْنِيْ وَعَنْ شِمَالِيْ وَمِنْ فَوْقِيْ وَاَعُوْذُ بِعَظَمَتِكَ اَنْ اُغْتَالَ مِنْ تَحْتِيْ",
+        "clean": "اللهم اني اسالك العفو والعافيه في الدنيا والاخره اللهم اني اسالك العفو والعافيه في ديني ودنياي واهلي ومالي اللهم استر عوراتي وامن روعاتي اللهم احفظني من بين يدي ومن خلفي وعن يميني وعن شمالي ومن فوقي واعوذ بعظمتك ان اغتال من تحتي",
+        "transliteration": "Allaahumma 'innee 'as'alukal-'afwa wal'aafiyata fid-dunyaa wal'aakhirah, Allaahumma 'innee 'as'alukal-'afwa wal'aafiyata fee deenee wa dunyaaya wa 'ahlee, wa maalee, Allahum-mastur 'awraatee, wa 'aamin raw'aatee, Allahum-mahfadhnee mim bayni yadayya, wa min khalfee, wa 'an yameenee, wa 'an shimaalee, wa min fawqee, wa 'A'oodhu bi'adhamatika 'an 'ughtaala min tahtee.",
+        "reference": "Sahih (Albani). Abu Dawud: 5074",
+        "audio": 102,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Asking for pardon, wellbeing and refuge from all sides",
+        "content": "In the morning (evening) say,",
+        "translation": "O Allah, I ask You for pardon and well-being in this life and the next. O Allah, I ask You for pardon and well-being in my religious and worldly affairs, and my family and my wealth. O Allah, veil my weaknesses and set at ease my dismay. O Allah, preserve me from the front and from behind and on my right and on my left and from above, and I take refuge with You lest I be swallowed up by the earth.",
+        "note": "Abdullah ibn Umar (RA) Said that, The Messenger of Allah (ﷺ) never forget to utter these supplications in the evening and in the morning."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "ক্ষমা, সুস্থতা এবং সর্বদিকের বিপদাপদ থেকে আশ্রয় চাওয়া",
+        "content": "সকালে (বা বিকালে) বলবে,",
+        "translation": "হে আল্লাহ্‌, আমি আপনার কাছে চাই ক্ষমা ও সার্বিক সুস্থতা-নিরাপত্তা দুনিয়াতে এবং আখেরাতে। হে আল্লাহ্‌, আমি আপনার কাছে চাই ক্ষমা ও সার্বিক সুস্থতা-নিরাপত্তা আমার দ্বীনের মধ্যে, আমার দুনিয়াবী বিষয়ের মধ্যে, আমার পরিবার পরিজনের মধ্যে ও আমার সম্পদের মধ্যে। হে আল্লাহ্‌, আমার দোষ-ত্রুটি গুলো গোপন করুন এবং আমার ভয়ভীতিকে নিরাপত্তা দান করুন। হে আল্লাহ্‌, আপনি আমাকে হেফাযত করুন আমার সামনে থেকে, আমার পিছন থেকে, আমার ডান থেকে, আমার বাম থেকে, আমার উপর থেকে এবং আমি আপনার মহত্ত্বের আশ্রয় গ্রহণ করছি যে, আমি আমার নিম্ন দিক থেকে আক্রান্ত হব।",
+        "note": "আব্দুল্লাহ ইবনু উমর (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) কখনোই সকাল হলে ও সন্ধ্যা হলে উপরের এ কথাগুলো বলতে ছাড়তেন না (সর্বদা তিনি সকালে ও সন্ধ্যায় এগুলো বলতেন)।"
+      }
+    },
+    {
+      "key": [
+        103
+      ],
+      "id": 103,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 103,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
+        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد وهو علي كل شيء قدير",
+        "transliteration": "Laa 'ilaaha 'illAllahu wa'hdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu, wa Huwa 'alaa kulli shay'in Qadeer.",
+        "reference": "Bukhari: 3293",
+        "audio": 103,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Special Tahlil",
+        "content": "This Dua is regarded as a special dhikr of masnun dhikr-",
+        "translation": "None has the right to be worshipped except Allah, He is alone, without any partner, to Him belong all sovereignty and praise, and He is over all things omnipotent.",
+        "note": "Many hadiths are narrated about benefit of this dhikr. Many authentic reports commanded us to to recite this dua in every morning and evening 1 or 10 or 100 or 200 times, After every obligatory prayer, and generally without any time restriction."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "বিশেষ তাহলীল",
+        "content": "এই যিক্‌রটি মাসনূন যিক্‌রগুলোর মধ্যে অন্যতম-",
+        "translation": "আল্লাহ্‌ ছাড়া কোন প্রকৃত মাবুদ নেই, তিনি একক তার কোনো শরীক নেই, রাজত্ব তাঁরই এবং প্রশংসা তাঁরই এবং তিনি সকল কিছুর উপর ক্ষমতাবান।",
+        "note": "এ যিক্‌রটির ফযীলতে অগণিত হাদীস বর্ণিত হয়েছে। সকালে ও সন্ধ্যায় ১ বার, ১০ বার, ১০০ বার বা ২০০ বার, প্রতি ওয়াক্ত সালাতের পরে ও সাধারণভাবে এ যিক্‌রটি পড়তে নির্দেশ দিয়ে অনেক সহীহ হাদীস বিভিন্ন গ্রন্থে সংকলিত হয়েছে।"
+      }
+    },
     {
       "key": [
         104
@@ -38,6 +152,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "সাপ-বিচ্ছু থেকে আত্মরক্ষার দোয়া",
+        "translation": "আল্লাহ্‌র পরিপূর্ণ কালেমাসমূহের ওসিলায় আমি তাঁর নিকট তাঁর সৃষ্টির ক্ষতি থেকে আশ্রয় চাই।",
+        "note": "আবু হুরাইরা (রাঃ) বলেন, এক ব্যক্তি রাসূলুল্লাহ্‌ (ﷺ)-এর কাছে এসে বলে, হে আল্লাহ্‌র রাসূল (ﷺ), গত রাতে আমাকে একটি বিষাক্ত বিচ্ছু কামড় দিয়েছিল যাতে আমি খুব কষ্ট পেয়েছি। তিনি বলেন, “যদি তুমি সন্ধ্যার সময় এ কথা (উপরের দোয়াটি) বলতে তাহলে তা তোমার কোনো ক্ষতি করতে পারত না।”"
       }
     },
     {
@@ -70,6 +189,10 @@
         "content": "",
         "translation": null,
         "note": null
+      },
+      "reference_bn": {
+        "name": "সন্ধ্যায় উপনীত হলে করণীয়",
+        "content": "নবী (ﷺ) বলেন, “যখন রাত্রি অন্ধকার হবে” অথবা (বলেছেন) “সন্ধায় উপনীত হলে, তখন তোমরা তোমাদের শিশুদেরকে আগলে রাখবে; কারণ, তখন শয়তানরা ছড়িয়ে পড়তে থাকে। তারপর যখন রাতের একটা সময় অতিবাহিত হবে, তখন তাদের ছেড়ে দিবে। আর তোমরা দরজাগুলো বন্ধ করবে এবং আল্লাহ্‌র নাম নিবে; কেননা শয়তান কোনো বন্ধ দরজা খুলে না। আর তোমরা তোমাদের পানপাত্রসমূহ বেঁধে রাখবে এবং আল্লাহ্‌র নাম নিবে। আর তোমরা তোমাদের থালা-বাসন ঢেকে রাখবে এবং আল্লাহ্‌র নাম নিবে, যদিও সামান্য কিছু তার উপর রাখ। আর তোমরা তোমাদের ঘরের প্রদীপগুলো নিভিয়ে রাখবে।”"
       }
     },
     {
@@ -102,6 +225,11 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "সকালের যিক্‌র সমূহ #৫",
+        "content": "সকালে ৪ বার -",
+        "translation": "হে আল্লাহ্‌! আমি সকালে উপনীত হয়েছি। আপনাকে আমি সাক্ষী রাখছি, আরও সাক্ষী রাখছি আপনার ‘আরশ বহনকারীদেরকে, আপনার ফেরেশতাগণকে ও আপনার সকল সৃষ্টিকে, (এর উপর) যে- নিশ্চয় আপনিই আল্লাহ্‌, একমাত্র আপনি ছাড়া আর কোন হক্ব ইলাহ নেই, আপনার কোনো শরীক নেই; আর মুহাম্মাদ (ﷺ) আপনার বান্দা ও রাসূল।"
       }
     },
     {
@@ -134,6 +262,10 @@
         "content": null,
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "সকালের যিক্‌র সমূহ #৬",
+        "translation": "হে আল্লাহ্‌! যে নেয়ামত আমার সাথে সকালে উপনীত হয়েছে, অথবা আপনার সৃষ্টির অন্য কারও সাথে; এসব নেয়ামত কেবলমাত্র আপনার নিকট থেকেই; আপনার কোনো শরীক নেই। সুতরাং সকল প্রশংসা আপনারই। আর সকল কৃতজ্ঞতা আপনারই প্রাপ্য।"
       }
     },
     {
@@ -166,6 +298,11 @@
         "content": "",
         "translation": "",
         "note": null
+      },
+      "reference_bn": {
+        "name": "উপকারী জ্ঞান, পবিত্র রিযিক এবং কবুলযোগ্য আমলের দোয়া",
+        "content": "সকালে ৩ বার বলবে -",
+        "translation": "হে আল্লাহ্‌! আমি আপনার নিকট উপকারী জ্ঞান, পবিত্র রিযিক এবং কবুলযোগ্য আমল প্রার্থনা করি।"
       }
     },
     {
@@ -198,6 +335,12 @@
         "content": "",
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "বিকালের যিক্‌রসমূহ #৫",
+        "content": "বিকালে ৪ বার -",
+        "translation": "হে আল্লাহ্‌! আমি বিকালে উপনীত হয়েছি। আপনাকে আমি সাক্ষী রাখছি, আরও সাক্ষী রাখছি আপনার ‘আরশ বহনকারীদেরকে, আপনার ফেরেশতাগণকে ও আপনার সকল সৃষ্টিকে, (এর উপর) যে- নিশ্চয় আপনিই আল্লাহ্‌, একমাত্র আপনি ছাড়া আর কোন হক্ব ইলাহ নেই, আপনার কোনো শরীক নেই; আর মুহাম্মাদ (ﷺ) আপনার বান্দা ও রাসূল।",
+        "note": "যে ব্যক্তি সকালে অথবা বিকালে তা চারবার বলবে, আল্লাহ্‌ তাকে জাহান্নামের আগুন থেকে মুক্ত করবেন।"
       }
     },
     {
@@ -230,6 +373,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "দয়াময় আল্লাহ্‌র কাছে অতি প্রিয় দুটি কালেমা",
+        "translation": "আমরা আল্লাহ্‌ তা’আলার প্রশংসাসহ তাঁর পবিত্রতা ঘোষণা করছি, মহান আল্লাহ্‌ অতীব পবিত্র",
+        "note": "নবী (ﷺ) বলেছেনঃ দু’টি কলেমা (বাণী) রয়েছে, যেগুলো দয়াময় আল্লাহ্‌র কাছে অতি প্রিয়, উচ্চারনে খুবই সহজ (আমলের) পাল্লায় অত্যন্ত ভারী। (বাণী দু’টি হচ্ছে), সুব’হা-নাল্লা-হি ওয়াবি’হামদিহী, ওয়া সুব’হা-নাল্লা-হিল ‘আযীম’—আমরা আল্লাহ্‌ তা’আলার প্রশংসাসহ তাঁর পবিত্রতা ঘোষণা করছি, মহান আল্লাহ্‌ অতীব পবিত্র।"
       }
     },
     {
@@ -262,6 +410,11 @@
         "content": null,
         "translation": "",
         "note": ""
+      },
+      "reference_bn": {
+        "name": "সর্বদা পালনীয় একটি দোয়া",
+        "translation": "হে আল্লাহ্‌, আমাকে ক্ষমা করুন, আমাকে দয়া করুন, আমাকে সঠিক পথে পরিচালিত করুন, আমাকে সার্বিক নিরাপত্তা ও সুস্থতা দান করুন এবং আমাকে রিযিক দান করুন।",
+        "note": "আবু মালিক আশ'আরী (রাঃ) তাঁর পিতা আসিম (রাঃ) থেকে বর্ণনা করেছেন, কেউ ইসলাম গ্রহণ করলে রাসূলুল্লাহ্‌ (ﷺ) তাকে উপরের বাক্যগুলি দিয়ে বেশি বেশি দোয়া করতে শেখাতেন।"
       }
     },
     {
@@ -294,134 +447,11 @@
         "content": null,
         "translation": "",
         "note": ""
-      }
-    },
-    {
-      "key": [
-        113
-      ],
-      "id": 113,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 113,
-        "groups": null,
-        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\nاَلْحَمْدُ لِلَّـهِ الَّذِي أَنزَلَ عَلَىٰ عَبْدِهِ الْكِتَابَ وَلَمْ يَجْعَل لَّهُ عِوَجًا ۜ ﴿١﴾ قَيِّمًا لِّيُنذِرَ بَأْسًا شَدِيدًا مِّن لَّدُنْهُ وَيُبَشِّرَ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا حَسَنًا ﴿٢﴾ مَّاكِثِينَ فِيهِ أَبَدًا ﴿٣﴾ وَيُنذِرَ الَّذِينَ قَالُوا اتَّخَذَ اللَّـهُ وَلَدًا ﴿٤﴾ مَّا لَهُم بِهِ مِنْ عِلْمٍ وَلَا لِآبَائِهِمْ ۚ كَبُرَتْ كَلِمَةً تَخْرُجُ مِنْ أَفْوَاهِهِمْ ۚ إِن يَقُولُونَ إِلَّا كَذِبًا ﴿٥﴾ فَلَعَلَّكَ بَاخِعٌ نَّفْسَكَ عَلَىٰ آثَارِهِمْ إِن لَّمْ يُؤْمِنُوا بِهَـٰذَا الْحَدِيثِ أَسَفًا ﴿٦﴾ إِنَّا جَعَلْنَا مَا عَلَى الْأَرْضِ زِينَةً لَّهَا لِنَبْلُوَهُمْ أَيُّهُمْ أَحْسَنُ عَمَلًا ﴿٧﴾ وَإِنَّا لَجَاعِلُونَ مَا عَلَيْهَا صَعِيدًا جُرُزًا ﴿٨﴾ أَمْ حَسِبْتَ أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ كَانُوا مِنْ آيَاتِنَا عَجَبًا ﴿٩﴾ إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ فَقَالُوا رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا ﴿١٠﴾",
-        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ\nاَلْحَمْدُ لِلّٰهِ الَّذِیْۤ  اَنْزَلَ عَلٰی عَبْدِهِ الْكِتٰبَ وَلَمْ  یَجْعَلْ  لَّهٗ عِوَجًا ؕ﴿ٜ۱﴾قَیِّمًا  لِّیُنْذِرَ بَاْسًا شَدِیْدًا مِّنْ لَّدُنْهُ وَیُبَشِّرَ الْمُؤْمِنِیْنَ الَّذِیْنَ یَعْمَلُوْنَ الصّٰلِحٰتِ اَنَّ لَهُمْ اَجْرًا حَسَنًا ۙ﴿۲﴾ مَّاكِثِیْنَ فِیْهِ اَبَدًا ۙ﴿۳﴾ وَّیُنْذِرَ الَّذِیْنَ قَالُوا اتَّخَذَ اللّٰهُ وَلَدًا ٭﴿۴﴾ مَا لَهُمْ بِهٖ مِنْ عِلْمٍ وَّلَا لِاٰبَآئِهِمْ ؕ كَبُرَتْ كَلِمَةً  تَخْرُجُ مِنْ اَفْوَاهِهِمْ ؕ اِنْ یَّقُوْلُوْنَ اِلَّا كَذِبًا ﴿۵﴾ فَلَعَلَّكَ بَاخِعٌ نَّفْسَكَ عَلٰۤی اٰثَارِهِمْ اِنْ لَّمْ  یُؤْمِنُوْا بِهٰذَا  الْحَدِیْثِ اَسَفًا ﴿۶﴾ اِنَّا جَعَلْنَا مَا عَلَی الْاَرْضِ زِیْنَةً لَّهَا لِنَبْلُوَهُمْ  اَیُّهُمْ اَحْسَنُ عَمَلًا ﴿۷﴾وَ اِنَّا لَجٰعِلُوْنَ مَا عَلَیْهَا صَعِیْدًا جُرُزًا  ؕ﴿۸﴾اَمْ حَسِبْتَ اَنَّ اَصْحٰبَ الْكَهْفِ وَالرَّقِیْمِ ۙ كَانُوْا مِنْ اٰیٰتِنَا عَجَبًا ﴿۹﴾ اِذْ اَوَی الْفِتْیَةُ اِلَی الْكَهْفِ فَقَالُوْا رَبَّنَاۤ اٰتِنَا مِنْ لَّدُنْكَ رَحْمَةً وَّهَیِّئْ لَنَا مِنْ اَمْرِنَا رَشَدًا﴿۱۰﴾",
-        "clean": "بسم الله الرحمن الرحيمالحمد لله الذ  انزل عل عبده الكتب ولم  جعل  له عوجا قما  لنذر باسا شددا من لدنه وبشر المءمنن الذن عملون الصلحت ان لهم اجرا حسنا  ماكثن فه ابدا  ونذر الذن قالوا اتخذ الله ولدا  ما لهم به من علم ولا لاباءهم  كبرت كلمه  تخرج من افواههم  ان قولون الا كذبا  فلعلك باخع نفسك عل اثارهم ان لم  ءمنوا بهذا  الحدث اسفا  انا جعلنا ما عل الارض زنه لها لنبلوهم  اهم احسن عملا و انا لجعلون ما علها صعدا جرزا  ام حسبت ان اصحب الكهف والرقم  كانوا من اتنا عجبا  اذ او الفته ال الكهف فقالوا ربنا اتنا من لدنك رحمه وهء لنا من امرنا رشدا",
-        "transliteration": null,
-        "reference": "Muslim: 809",
-        "audio": 113,
-        "cat_id": 5,
-        "subcat_id": 13
       },
-      "source": {
-        "name": "Protection from punishment of Dajjal",
-        "content": "Allah's Messenger (ﷺ) said:",
-        "translation": "(1) [All] praise is [due] to Allah, who has sent down upon His Servant the Book and has not made therein any deviance. (2) [He has made it] straight, to warn of severe punishment from Him and to give good tidings to the believers who do righteous deeds that they will have a good reward (3) In which they will remain forever (4) And to warn those who say, \" Allah has taken a son.\" (5) They have no knowledge of it, nor had their fathers. Grave is the word that comes out of their mouths; they speak not except a lie. (6) Then perhaps you would kill yourself through grief over them, [O Muhammad], if they do not believe in this message, [and] out of sorrow. (7) Indeed, We have made that which is on the earth adornment for it that We may test them [as to] which of them is best in deed. (8) And indeed, We will make that which is upon it [into] a barren ground. (9) Or have you thought that the companions of the cave and the inscription were, among Our signs, a wonder? (10) [Mention] when the youths retreated to the cave and said, \"Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance. (Sura Kahf: 1-10)",
-        "note": "The Prophet (ﷺ) said, \"If anyone learns by heart the first ten verses of the Surah al-Kahf, he will be protected from the Dajjal.\""
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        114
-      ],
-      "id": 114,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 114,
-        "groups": null,
-        "uthmani": "أُعِيذُكُمَا [أَعُوْذُ] بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
-        "indopak": "اُعِيْذُكُمَا [اَعُوْذُ] بِكَلِمَاتِ اللّٰهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَّهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَّامَّةٍ",
-        "clean": "اعيذكما اعوذ بكلمات الله التامه من كل شيطان وهامه ومن كل عين لامه",
-        "transliteration": "Oo-'idhukumaa (For self: A'ooudhu) bi kalimaat-illaahit-taammati min kulli shaytaanin wa haammah, wa min kulli ‛aynin laammah",
-        "reference": "Bukhari: 3371",
-        "audio": 114,
-        "cat_id": 5,
-        "subcat_id": 13
-      },
-      "source": {
-        "name": "Dua of custody from evil eye and disease",
-        "content": null,
-        "translation": "I commend you to the protection of Allah’s perfect words from every devil, vermin, and every evil eye.",
-        "note": "The Prophet (ﷺ) used to seek Refuge with Allah for Al-Hasan and Al-Husain and say: \"Your forefather (i.e. Abraham) used to seek Refuge with Allah for Ishmael and Isaac by reciting.\""
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
-      }
-    },
-    {
-      "key": [
-        115
-      ],
-      "id": 115,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 115,
-        "groups": "[{\"id\": 115, \"name\": null, \"cat_id\": 6, \"subcat_id\": 14, \"content\": \"Alhamdu lillaah 33 times\", \"uthmani\": \"\\u0627\\u064e\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f \\u0644\\u0650\\u0644\\u0651\\u064e\\u0647\\u0650\", \"indopak\": \"\\u0627\\u064e\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f \\u0644\\u0650\\u0644\\u0651\\u0670\\u0647\\u0650\", \"clean\": \"\\u0627\\u0644\\u062d\\u0645\\u062f \\u0644\\u0644\\u0647\", \"transliteration\": \"Alhamdu lillaah\", \"translation\": \"All praise is for Allah.\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 115, \"name\": null, \"cat_id\": 6, \"subcat_id\": 14, \"content\": \"Allahu 'akbar 34 times\", \"uthmani\": \"\\u0627\\u064e\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0623\\u064e\\u0643\\u0652\\u0628\\u064e\\u0631\\u064f\", \"indopak\": \"\\u0627\\u064e\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0627\\u064e\\u0643\\u0652\\u0628\\u064e\\u0631\\u064f\", \"clean\": \"\\u0627\\u0644\\u0644\\u0647 \\u0627\\u0643\\u0628\\u0631\", \"transliteration\": \"Allahu 'akbar\", \"translation\": \"Allah is the greatest.\", \"note\": \"The Prophet (\\ufdfa) said to Ali (RA) and Fatima (RA): \\u201cShall I not tell you something that will be better for you than a servant? When you go to bed, the two of you say: (the dua is mentioned above)\", \"reference\": \"Al-Bukhari, Fathul Bari 7/71 no. 3705, Muslim 4/2091 no. 2726\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
-        "uthmani": "سُبْحَانَ اللَّهِ",
-        "indopak": "سُبْحَانَ اللّٰهِ",
-        "clean": "سبحان الله",
-        "transliteration": "SubhaanAllah",
-        "reference": null,
-        "audio": 115,
-        "cat_id": 6,
-        "subcat_id": 14
-      },
-      "source": {
-        "name": "One hundred times (Tasbih)",
-        "content": "Subhanallah 33 times",
-        "translation": "How Perfect Allah is.",
-        "note": null
-      },
-      "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": null
-      }
-    },
-    {
-      "key": [
-        116
-      ],
-      "id": 116,
-      "part": 1,
-      "of": 1,
-      "frozen": {
-        "id": 116,
-        "groups": null,
-        "uthmani": "اَللَّهُ لَآ إِلٰهَ إِلَّا هُوَ الْحَىُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى السَّمٰوٰتِ وَمَا فِى الْأَرْضِ ۗ مَنْ ذَا الَّذِى يَشْفَعُ عِنْدَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمٰوٰتِ وَالْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ الْعَلِىُّ الْعَظِيمُ",
-        "indopak": "اَللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ ۚ اَلْحَیُّ الْقَیُّوْمُ  ۚ لَا تَاْخُذُهٗ سِنَةٌ وَّلَا نَوْمٌ  ؕ لَهٗ مَا فِی السَّمٰوٰتِ وَمَا فِی الْاَرْضِ ؕ مَنْ ذَا الَّذِیْ یَشْفَعُ عِنْدَهٗۤ  اِلَّا بِاِذْنِهٖ ؕ یَعْلَمُ مَابَیْنَ اَیْدِیْهِمْ وَمَا خَلْفَهُمْ  ۚ وَلَا یُحِیْطُوْنَ بِشَیْءٍ مِّنْ عِلْمِهٖۤ اِلَّا بِمَا شَآءَ  ۚ وَسِعَ كُرْسِیُّهُ السَّمٰوٰتِ وَالْاَرْضَ ۚ وَلَا یَئُوْدُهٗ حِفْظُهُمَا ۚ وَهُوَ الْعَلِیُّ الْعَظِیْمُ ﴿۲۵۵﴾",
-        "clean": "الله لا اله الا هو  الح القوم   لا تاخذه سنه ولا نوم   له ما ف السموت وما ف الارض  من ذا الذ شفع عنده  الا باذنه  علم مابن ادهم وما خلفهم   ولا حطون بشء من علمه الا بما شاء   وسع كرسه السموت والارض  ولا ءوده حفظهما  وهو العل العظم ",
-        "transliteration": "Allahu laa 'ilaaha 'illaa Huwal-Hayyul-Qayyoom, laa ta'khudhuhu sinatun wa laa nawm, lahu maa fis-samaawaati wa maa fil-'ardh, man dhal-ladhee yashfa'u 'indahu 'illaa bi'idh nih, ya'lamu maa bayna 'aydeehim wa maa khalfahum, wa laa yuheetoona bishay'im-min 'ilmihi 'illaa bimaa shaa'a, wasi'a kursiyyuhus-samaawaati wal'ardh, wa laa ya'ooduhu hifdhuhumaa, wa Huwal-'Aliyyul- 'Adheem",
-        "reference": "Al-Bukhari, Fathul Bari 4/487, no. 2311",
-        "audio": 116,
-        "cat_id": 6,
-        "subcat_id": 14
-      },
-      "source": {
-        "name": "Ayatul Kursi",
-        "content": null,
-        "translation": "Allah! There is none worthy of worship but He, the Ever Living, the One Who sustains and protects all that exists. Neither slumber nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them in this world, and what will happen to them in the Hereafter. And they will never compass anything of His Knowledge except that which He wills. His Throne extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great. (Sura Baqarah 2:255)",
-        "note": "Whoever reads Ayatul Kursi when he lies down to sleep will have a guardian from Allah remain with him and Satan will not be able to come near him until he rises in the morning."
-      },
-      "target": {
-        "name": "",
-        "content": null,
-        "translation": "",
-        "note": ""
+      "reference_bn": {
+        "name": "বাজার, শহর বা কর্মস্থলের যিক্‌র",
+        "translation": "আল্লাহ্‌ ছাড়া কোনো প্রকৃত মাবুদ নেই, তিনি একক, তার কোনো শরীক নেই। রাজত্ব তারই এবং প্রশংসা তাঁরই। তিনিই জীবন দান করেন এবং মৃত্যু দান করেন। তাঁর হাতেই সকল কল্যাণ এবং তিনি সবকিছুর উপর ক্ষমতাবান।",
+        "note": "উমর ইবনুল খাত্তাব (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, “যে ব্যক্তি বাজারে (শহর, বন্দর বা কর্মস্থলে) প্রবেশ করে এ যিক্‌র গুলো বলবে, আল্লাহ্‌ তাঁর জন্য দশ লক্ষ সাওয়াব লিখবেন, তাঁর দশ লাখ (সাধারণ ছোট-খাট) গোনাহ মুছে দিবেন, তাঁর দশ লাখ মর্যাদা বৃদ্ধি করবেন এবং তার জন্য জান্নাতে একটি বাড়ি তৈরি করবেন।”"
       }
     }
   ]
