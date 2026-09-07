@@ -1314,6 +1314,61 @@
         "verification": "Every translated field independently reviewed against exact English row. JSON, row/key order, nulls, all protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs and Bengali checks passed. Equivalent Node.js rebuild passed; integrity ok; all 15 tables / 3082 rows verified against JSON.",
         "note": "Previously documented source quirks preserved. Protected groups, including nested Bengali, unchanged. Python unavailable; Node.js SQLite rebuild used unchanged Indonesian schema metadata."
       }
+    },
+    "dua_main_id_planned_json/tables/duas/duas_017.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "English, not translated; copied from dua_main_en.sqlite with ASCII apostrophe and spacing normalization at IDs 556, 558, 569; all numbers preserved.",
+      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "545-578",
+      "updated_at": "2026-09-07",
+      "verification": "All 34 exact English IDs matched; every translated field rechecked for meaning, completeness, natural Indonesian, spelling and grammar. JSON valid, UTF-8, 2-space indent, trailing newline; row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML and URLs preserved; no Bengali in editable fields; references ASCII English. Equivalent Node.js rebuild passed; integrity ok; all 15 tables / 3082 rows verified against JSON; schema, sequences and pragmas verified. Hashes confirm no other translation file changed.",
+      "note": "English source wording retained at IDs 553 (prayer for another person and note referring to verses), 563 (temporal wording), 566 (night/day wording), 574 (Bestower of Faith), and 575 (sending a messenger). Bengali consulted only to review ambiguities at these IDs. Python unavailable; Node.js SQLite rebuild used unchanged Indonesian schema metadata. Protected groups retained verbatim.",
+      "independent_recheck": {
+        "status": "complete",
+        "reviewed_at": "2026-09-07",
+        "id_range": "545-578",
+        "rows": 34,
+        "reviewed_fields": [
+          "name",
+          "content",
+          "translation",
+          "note"
+        ],
+        "corrected_ids": [
+          547,
+          551,
+          552,
+          557,
+          559,
+          560,
+          562,
+          565,
+          568,
+          573,
+          576
+        ],
+        "reference_status": "English, not translated; unchanged from review backup; existing normalization at IDs 556, 558, 569 retained. Transliteration unchanged and matched verbatim.",
+        "verification": "Every translated field reviewed against its exact English row. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nulls, all protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, verse numbering and Bengali checks passed. References and transliteration unchanged from review backup and matched English with existing reference formatting normalization. Equivalent Node.js SQLite rebuild passed; reopened database integrity ok; all 15 tables / 3082 rows, schema, sequences and pragmas verified.",
+        "note": "Improved death and grave wording, scope of admiration, worship grammar, certainty about the Book, ship description, envy and hostility, success wording, address to jin and humans, and sentence flow. Previously documented English source quirks retained. Python unavailable; Node.js SQLite rebuild used unchanged Indonesian schema metadata."
+      }
     }
   }
 }
