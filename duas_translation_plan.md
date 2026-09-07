@@ -660,3 +660,64 @@ python3 rebuild_japanese_from_json.py
 
 Every other table in the Japanese workspace is fully translated. `tables/ids` holds only numeric
 ID pairs and `tables/drawer_item_actions` is empty, so neither has anything to translate.
+
+## QA Pass — 2026-09-08
+
+A full-database audit was run after the tables above were completed. It found defects in
+work that had already been marked `complete`, so those were repaired and re-verified.
+
+### `dua_infos` (42 rows) — machine-translation damage repaired
+
+This table has **no English source**: `dua_main_en.sqlite` holds a different 16-row set
+(EN id 1 is "Conditions of dua being accepted", BN id 1 is "Meaning of dua"). Every repair
+below was therefore checked against the Bengali source row by row.
+
+Factual corruptions found and fixed:
+
+- 14 hadith numbers rendered as dates or years — `[Abu Dawud, 1481年]` (a hadith number, not a year);
+  volume/page refs like `4/39` turned into `4 月 39 日`; `4/1882` into `1882 年 4 月`.
+- A Qur'an verse number rendered as an age: `スーラ・ユヌス：18歳` for Yunus 18.
+- A page number rendered as an age: `36歳` for p. 36 of `Al-Jawabul Kafi`.
+- Bengali `হাতের কর` (knuckles) mistranslated as `税金` (tax).
+- `قلب` (qalb, heart) rendered as `腸` (intestine); `(PBUH)` misapplied to the children of Adam
+  instead of Adam himself.
+- Surah `যুমার` (Zumar) rendered as `年齢` (age).
+- 17 citation blocks rebuilt from the Bengali source.
+
+Language defects fixed: 42 missing `する` verb endings (`ドゥアーます` → `ドゥアーします`),
+21 duplicated-word artifacts, untranslated English left in running prose, and 7 surah
+citations put into the README reference format.
+
+Legitimate text that was checked and deliberately left alone: the hadith repetition
+`完全、完全、完全` (تامة تامة تامة), the hijri lifespan `152年〜227年`, and romaji
+transliteration blocks.
+
+### `ruqyah_details` (200 rows) — corrections
+
+- `詩` (poem) corrected to `節` (verse) throughout, including `詩篇72:1-7`, which rendered a
+  Qur'an reference as the Biblical **Psalms**.
+- `sahara` (سحرة, sorcerers) had been mistranslated as `砂漠` (desert).
+- Broken quotations, a misplaced `ﷻ`, a dangling sentence fragment and a garbled condition
+  repaired in id 1; `(’alayhis-salam)` put into Japanese.
+
+### Terminology normalised database-wide
+
+`アーイシャ`, `アブー・フライラ`, `ルキヤ`, `邪視`, `ハディース`, `イフラース`, `ドゥアー`,
+and fullwidth honorifics `（RA）`/`（R）`/`（ﷺ）`.
+
+One apparent match was **verified and left unchanged**: `ruqyah_instants` id 225 uses
+`善い目／悪い目に遭う`, which is the idiom "to experience", not the evil eye — the row is
+Qur'an 4:78.
+
+### Verification
+
+- Frozen fields, row counts, key order and null-ness identical to the pre-QA backup for all 63 files.
+- Rebuild passes; `PRAGMA integrity_check` = `ok`.
+- Final scan: 0 hits for every defect class, and 0 Bengali characters outside the book tables.
+
+### Known issue left open (by instruction)
+
+`ruqyah_videos.subcat_id` values (105-117) come from the Bengali subcategory table, while the
+workspace uses the 163-row English `ruqyah_subcategories` whose VIDEO entries are 150-163.
+None of the 74 videos therefore reaches a video subcategory. Not fixed: the user does not use
+the ruqyah video feature.

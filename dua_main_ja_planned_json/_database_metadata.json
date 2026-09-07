@@ -1240,8 +1240,9 @@
       ],
       "rows": 21,
       "id_range": "1-21",
-      "updated_at": "2026-08-28",
-      "note": "Translated dua_infos_001.json top-level human-readable fields. Row count, IDs, key order, nullness, and Arabic blocks were preserved."
+      "updated_at": "2026-09-08",
+      "note": "QA pass 2026-09-08: repaired machine-translation damage - hadith numbers wrongly rendered as dates/years/ages, page number read as an age, knuckles read as tax, qalb (heart) read as intestine, PBUH misapplied, 42 missing -suru verb endings, duplicated-word artifacts, untranslated English left in prose, and citation blocks rebuilt from the Bengali source. Terminology aligned with the rest of the database.",
+      "reference_rule": "References are not translated and are kept in English."
     },
     "tables/categories/categories_001.json": {
       "language": "Japanese",
@@ -1305,7 +1306,7 @@
     },
     "tables/dua_infos/dua_infos_002.json": {
       "language": "Japanese",
-      "status": "translated_quality_reviewed",
+      "status": "translated",
       "translated_fields": [
         "name",
         "description"
@@ -1320,9 +1321,10 @@
       ],
       "rows": 21,
       "id_range": "22-42",
-      "updated_at": "2026-08-28",
-      "note": "Translated dua_infos_002.json into Japanese, then quality-reviewed and polished the wording for naturalness/readability. Row count, IDs, key order, nullness, HTML tag counts, and Arabic blocks were preserved; rebuild and SQLite integrity checks passed.",
-      "quality_reviewed_at": "2026-08-28"
+      "updated_at": "2026-09-08",
+      "note": "QA pass 2026-09-08: repaired machine-translation damage - hadith numbers wrongly rendered as dates/years/ages, page number read as an age, knuckles read as tax, qalb (heart) read as intestine, PBUH misapplied, 42 missing -suru verb endings, duplicated-word artifacts, untranslated English left in prose, and citation blocks rebuilt from the Bengali source. Terminology aligned with the rest of the database.",
+      "quality_reviewed_at": "2026-08-28",
+      "reference_rule": "References are not translated and are kept in English."
     },
     "tables/ruqyah_instants/ruqyah_instants_001.json": {
       "language": "Japanese",
@@ -1619,7 +1621,7 @@
       "rows": 20,
       "id_range": "1-20",
       "updated_at": "2026-09-08",
-      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched. QA pass 2026-09-08: normalised terminology and honorifics; corrected 'verse' rendered as 詩 (poem) incl. a Qur'an reference wrongly rendered as 詩篇 (Psalms); corrected 'sahara' (sorcerers) mistranslated as 砂漠 (desert); repaired broken quotations and a misplaced ﷻ in id 1."
     },
     "tables/ruqyah_details/ruqyah_details_002.json": {
       "language": "Japanese",
@@ -1646,7 +1648,7 @@
       "rows": 20,
       "id_range": "21-40",
       "updated_at": "2026-09-08",
-      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched. QA pass 2026-09-08: normalised terminology and honorifics; corrected 'verse' rendered as 詩 (poem) incl. a Qur'an reference wrongly rendered as 詩篇 (Psalms); corrected 'sahara' (sorcerers) mistranslated as 砂漠 (desert); repaired broken quotations and a misplaced ﷻ in id 1."
     },
     "tables/ruqyah_details/ruqyah_details_003.json": {
       "language": "Japanese",
@@ -1673,7 +1675,7 @@
       "rows": 20,
       "id_range": "41-60",
       "updated_at": "2026-09-08",
-      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched. QA pass 2026-09-08: normalised terminology and honorifics; corrected 'verse' rendered as 詩 (poem) incl. a Qur'an reference wrongly rendered as 詩篇 (Psalms); corrected 'sahara' (sorcerers) mistranslated as 砂漠 (desert); repaired broken quotations and a misplaced ﷻ in id 1."
     },
     "tables/ruqyah_details/ruqyah_details_004.json": {
       "language": "Japanese",
@@ -1700,7 +1702,7 @@
       "rows": 20,
       "id_range": "61-80",
       "updated_at": "2026-09-08",
-      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched. QA pass 2026-09-08: normalised terminology and honorifics; corrected 'verse' rendered as 詩 (poem) incl. a Qur'an reference wrongly rendered as 詩篇 (Psalms); corrected 'sahara' (sorcerers) mistranslated as 砂漠 (desert); repaired broken quotations and a misplaced ﷻ in id 1."
     },
     "tables/ruqyah_details/ruqyah_details_005.json": {
       "language": "Japanese",
@@ -1727,7 +1729,7 @@
       "rows": 20,
       "id_range": "81-100",
       "updated_at": "2026-09-08",
-      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched. QA pass 2026-09-08: normalised terminology and honorifics; corrected 'verse' rendered as 詩 (poem) incl. a Qur'an reference wrongly rendered as 詩篇 (Psalms); corrected 'sahara' (sorcerers) mistranslated as 砂漠 (desert); repaired broken quotations and a misplaced ﷻ in id 1."
     },
     "tables/ruqyah_details/ruqyah_details_006.json": {
       "language": "Japanese",
@@ -1754,7 +1756,7 @@
       "rows": 20,
       "id_range": "101-120",
       "updated_at": "2026-09-08",
-      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched. QA pass 2026-09-08: normalised terminology and honorifics; corrected 'verse' rendered as 詩 (poem) incl. a Qur'an reference wrongly rendered as 詩篇 (Psalms); corrected 'sahara' (sorcerers) mistranslated as 砂漠 (desert); repaired broken quotations and a misplaced ﷻ in id 1."
     },
     "tables/ruqyah_details/ruqyah_details_007.json": {
       "language": "Japanese",
@@ -1781,7 +1783,7 @@
       "rows": 20,
       "id_range": "121-140",
       "updated_at": "2026-09-08",
-      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched. QA pass 2026-09-08: normalised terminology and honorifics; corrected 'verse' rendered as 詩 (poem) incl. a Qur'an reference wrongly rendered as 詩篇 (Psalms); corrected 'sahara' (sorcerers) mistranslated as 砂漠 (desert); repaired broken quotations and a misplaced ﷻ in id 1."
     },
     "tables/ruqyah_details/ruqyah_details_008.json": {
       "language": "Japanese",
@@ -1808,7 +1810,7 @@
       "rows": 20,
       "id_range": "141-160",
       "updated_at": "2026-09-08",
-      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched. QA pass 2026-09-08: normalised terminology and honorifics; corrected 'verse' rendered as 詩 (poem) incl. a Qur'an reference wrongly rendered as 詩篇 (Psalms); corrected 'sahara' (sorcerers) mistranslated as 砂漠 (desert); repaired broken quotations and a misplaced ﷻ in id 1."
     },
     "tables/ruqyah_details/ruqyah_details_009.json": {
       "language": "Japanese",
@@ -1835,7 +1837,7 @@
       "rows": 20,
       "id_range": "161-180",
       "updated_at": "2026-09-08",
-      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched. QA pass 2026-09-08: normalised terminology and honorifics; corrected 'verse' rendered as 詩 (poem) incl. a Qur'an reference wrongly rendered as 詩篇 (Psalms); corrected 'sahara' (sorcerers) mistranslated as 砂漠 (desert); repaired broken quotations and a misplaced ﷻ in id 1."
     },
     "tables/ruqyah_details/ruqyah_details_010.json": {
       "language": "Japanese",
@@ -1862,7 +1864,7 @@
       "rows": 20,
       "id_range": "181-200",
       "updated_at": "2026-09-08",
-      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched. QA pass 2026-09-08: normalised terminology and honorifics; corrected 'verse' rendered as 詩 (poem) incl. a Qur'an reference wrongly rendered as 詩篇 (Psalms); corrected 'sahara' (sorcerers) mistranslated as 砂漠 (desert); repaired broken quotations and a misplaced ﷻ in id 1."
     },
     "tables/ruqyah_subcategories/ruqyah_subcategories_001.json": {
       "language": "Japanese",
