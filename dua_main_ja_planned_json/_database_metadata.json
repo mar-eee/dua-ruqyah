@@ -255,13 +255,18 @@
         "subcat_id"
       ],
       "row_count": 200,
-      "chunk_count": 5,
+      "chunk_count": 10,
       "chunk_files": [
         "tables/ruqyah_details/ruqyah_details_001.json",
         "tables/ruqyah_details/ruqyah_details_002.json",
         "tables/ruqyah_details/ruqyah_details_003.json",
         "tables/ruqyah_details/ruqyah_details_004.json",
-        "tables/ruqyah_details/ruqyah_details_005.json"
+        "tables/ruqyah_details/ruqyah_details_005.json",
+        "tables/ruqyah_details/ruqyah_details_006.json",
+        "tables/ruqyah_details/ruqyah_details_007.json",
+        "tables/ruqyah_details/ruqyah_details_008.json",
+        "tables/ruqyah_details/ruqyah_details_009.json",
+        "tables/ruqyah_details/ruqyah_details_010.json"
       ]
     },
     "ruqyah_instants": {
@@ -750,8 +755,8 @@
       "note": "Translated top-level human-readable fields following README.md. Arabic and groups fields were kept unchanged. References are English.",
       "id_range": "375-408"
     },
-    "dua_main_id_planned_json/tables/duas/duas_001.json": {
-      "language": "Indonesian",
+    "tables/duas/duas_013.json": {
+      "language": "Japanese",
       "status": "translated",
       "translated_fields": [
         "name",
@@ -759,7 +764,85 @@
         "translation",
         "note"
       ],
-      "reference_rule": "References were copied from dua_main_en.sqlite, kept in English, and normalized to README.md formatting.",
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "409-442",
+      "updated_at": "2026-08-27",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB."
+    },
+    "tables/duas/duas_014.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "443-476",
+      "updated_at": "2026-08-27",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB."
+    },
+    "tables/duas/duas_015.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "477-510",
+      "updated_at": "2026-08-27",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB. Exception: id 497 content is garbled in the English row, so the intact Bengali hadith was used to resolve it."
+    },
+    "tables/duas/duas_016.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
       "transliteration_rule": "Top-level transliteration values were copied from dua_main_en.sqlite.",
       "unchanged_fields_by_instruction": [
         "id",
@@ -772,9 +855,501 @@
         "subcat_id"
       ],
       "rows": 34,
-      "id_range": "1-34",
       "updated_at": "2026-08-28",
-      "note": "Translated all top-level human-readable fields into Indonesian following README.md; Arabic and groups were preserved."
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB.",
+      "id_range": "511-544"
+    },
+    "tables/duas/duas_017.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "transliteration_rule": "Top-level transliteration values were copied from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "updated_at": "2026-08-28",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB.",
+      "id_range": "545-578"
+    },
+    "tables/duas/duas_018.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "transliteration_rule": "Top-level transliteration values were copied from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "updated_at": "2026-08-28",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB.",
+      "id_range": "579-612"
+    },
+    "tables/duas/duas_019.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "613-646",
+      "updated_at": "2026-08-28",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB. All rows are Qur'anic supplications; surah names in the translation match the reference."
+    },
+    "tables/duas/duas_020.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "647-680",
+      "updated_at": "2026-08-28",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB. 647-676 Qur'anic; 677-680 hadith rows aligned with the same duas in duas_008/013."
+    },
+    "tables/duas/duas_021.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "transliteration_rule": "Top-level transliteration values were copied from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "updated_at": "2026-08-28",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB.",
+      "id_range": "681-714"
+    },
+    "tables/duas/duas_022.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "transliteration_rule": "Top-level transliteration values were copied from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "updated_at": "2026-08-28",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB.",
+      "id_range": "715-748"
+    },
+    "tables/duas/duas_023.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "transliteration_rule": "Top-level transliteration values were copied from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "updated_at": "2026-08-28",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB.",
+      "id_range": "749-782"
+    },
+    "tables/duas/duas_024.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "783-816",
+      "updated_at": "2026-08-28",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB. Exception: id 789 has no reference in the English DB; the Bengali citation (Muslim: 2491) was converted to English rather than left non-English or dropped."
+    },
+    "tables/duas/duas_025.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "817-850",
+      "updated_at": "2026-08-28",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB."
+    },
+    "tables/duas/duas_026.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "851-884",
+      "updated_at": "2026-08-28",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB."
+    },
+    "tables/duas/duas_027.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "885-918",
+      "updated_at": "2026-08-28",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB."
+    },
+    "tables/duas/duas_028.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "919-952",
+      "updated_at": "2026-08-28",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB. Many rows repeat Rabbana verses / greatest-name duas from earlier chunks; wording reused verbatim."
+    },
+    "tables/duas/duas_029.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "953-986",
+      "updated_at": "2026-08-28",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB. Almost all Qur'anic supplications; verses already translated in earlier chunks reuse the same wording."
+    },
+    "tables/duas/duas_030.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "transliteration",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 15,
+      "id_range": "987-1001",
+      "updated_at": "2026-08-28",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB. Qur'anic Rabbana verses; wording reused from earlier chunks where the verse already appeared."
+    },
+    "tables/dua_infos/dua_infos_001.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "description"
+      ],
+      "source_rule": "Translated from Bengali source because table_plan marks dua_infos source as BN; dua_main_en.sqlite has a different 16-row dua_infos table.",
+      "unchanged_fields_by_instruction": [
+        "id"
+      ],
+      "preserved_fields": [
+        "HTML tags",
+        "Arabic blocks inside <ar> and <ar1>"
+      ],
+      "rows": 21,
+      "id_range": "1-21",
+      "updated_at": "2026-08-28",
+      "note": "Translated dua_infos_001.json top-level human-readable fields. Row count, IDs, key order, nullness, and Arabic blocks were preserved."
+    },
+    "tables/categories/categories_001.json": {
+      "language": "Japanese",
+      "status": "title_improved",
+      "translated_fields": [
+        "name"
+      ],
+      "source_rule": "Titles improved using the existing Japanese, English DB, and Bengali source meaning where useful.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "icon",
+        "type",
+        "book_id",
+        "dua_count",
+        "subcat_count"
+      ],
+      "updated_at": "2026-08-28",
+      "rows": 44,
+      "id_range": "1-44",
+      "note": "Improved all main dua category titles for clearer, more natural Japanese. IDs, icons, counts, and structure unchanged."
+    },
+    "tables/ruqyah_categories/ruqyah_categories_001.json": {
+      "language": "Japanese",
+      "status": "title_improved",
+      "translated_fields": [
+        "name"
+      ],
+      "source_rule": "Titles improved using the existing Japanese, English DB, and Bengali source meaning where useful.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "icon",
+        "type",
+        "book_id",
+        "dua_count",
+        "subcat_count"
+      ],
+      "updated_at": "2026-08-28",
+      "rows": 15,
+      "id_range": "1-15",
+      "note": "Translated and improved all ruqyah category titles into natural Japanese. IDs, type, icons, and structure unchanged."
+    },
+    "tables/sections/sections_001.json": {
+      "language": "Japanese",
+      "status": "title_improved",
+      "translated_fields": [
+        "name"
+      ],
+      "source_rule": "Titles improved using the existing Japanese, English DB, and Bengali source meaning where useful.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "icon",
+        "type",
+        "book_id",
+        "dua_count",
+        "subcat_count"
+      ],
+      "updated_at": "2026-08-28",
+      "rows": 21,
+      "id_range": "book_id/id composite",
+      "note": "Translated and improved all section titles into clearer Japanese. IDs, book_id links, and structure unchanged."
+    },
+    "tables/dua_infos/dua_infos_002.json": {
+      "language": "Japanese",
+      "status": "translated_quality_reviewed",
+      "translated_fields": [
+        "name",
+        "description"
+      ],
+      "source_rule": "Translated from Bengali source because dua_main_en.sqlite has no matching dua_infos rows for IDs 22-42.",
+      "unchanged_fields_by_instruction": [
+        "id"
+      ],
+      "preserved_fields": [
+        "HTML tags",
+        "Arabic blocks inside <ar> and <ar1>"
+      ],
+      "rows": 21,
+      "id_range": "22-42",
+      "updated_at": "2026-08-28",
+      "note": "Translated dua_infos_002.json into Japanese, then quality-reviewed and polished the wording for naturalness/readability. Row count, IDs, key order, nullness, HTML tag counts, and Arabic blocks were preserved; rebuild and SQLite integrity checks passed.",
+      "quality_reviewed_at": "2026-08-28"
+    },
+    "tables/ruqyah_instants/ruqyah_instants_001.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "name",
+        "content",
+        "translation"
+      ],
+      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_instants, ids 1-31). Bengali used only to resolve ambiguity.",
+      "reference_rule": "References are not translated. Top-level reference values were kept in English exactly as in dua_main_en.sqlite.",
+      "transliteration_rule": "Top-level transliteration values were kept exactly as in dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "uthmani",
+        "transliteration",
+        "reference",
+        "cat_id",
+        "subcat_id",
+        "audio"
+      ],
+      "updated_at": "2026-08-30",
+      "rows": 31,
+      "id_range": "1-31",
+      "note": "Source labels localised in katakana with ASCII numerals (Al-Fatiha 1:1-7 -> アル・ファーティハ 1:1-7, Abu Dawud : 775 -> アブー・ダーウード: 775). Topic names: From Quran -> クルアーンより, From Sunnah -> スンナより. Wording for shared ayat and hadith matches the already translated duas table (ルキヤ, 完全なる御言葉, 呪われた悪魔, 邪視). Verified: row count 31, frozen fields intact, references ASCII English, rebuild passed, integrity ok."
     },
     "tables/ruqyah_instants/ruqyah_instants_002.json": {
       "language": "Japanese",
@@ -1026,18 +1601,25 @@
         "topic_name",
         "text"
       ],
-      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_details, ids 1-40).",
-      "reference_rule": "Inline citations were kept in English and their numbers were not changed.",
+      "reference_rule": "References are not translated and are kept in English.",
       "unchanged_fields_by_instruction": [
         "id",
         "topic_id",
         "cat_id",
-        "subcat_id"
+        "subcat_id",
+        "link_id",
+        "link",
+        "audio",
+        "display_order",
+        "created_at",
+        "updated_at",
+        "item_type",
+        "type"
       ],
-      "updated_at": "2026-09-05",
-      "rows": 40,
-      "id_range": "1-40",
-      "note": "Translated and editorially polished in a calm, respectful Japanese style. Arabic passages, HTML structure, identifiers, links, and nullness were preserved. Rebuild and integrity checks passed."
+      "rows": 20,
+      "id_range": "1-20",
+      "updated_at": "2026-09-08",
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
     },
     "tables/ruqyah_details/ruqyah_details_002.json": {
       "language": "Japanese",
@@ -1046,18 +1628,25 @@
         "topic_name",
         "text"
       ],
-      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_details, ids 41-80).",
-      "reference_rule": "Inline citation details and numbers were preserved; names were transliterated where needed for natural Japanese.",
+      "reference_rule": "References are not translated and are kept in English.",
       "unchanged_fields_by_instruction": [
         "id",
         "topic_id",
         "cat_id",
-        "subcat_id"
+        "subcat_id",
+        "link_id",
+        "link",
+        "audio",
+        "display_order",
+        "created_at",
+        "updated_at",
+        "item_type",
+        "type"
       ],
-      "updated_at": "2026-09-05",
-      "rows": 40,
-      "id_range": "41-80",
-      "note": "Translated and editorially polished in professional, calm Japanese. Arabic passages, HTML structure, identifiers, links, and nullness were preserved. Rebuild and integrity checks passed."
+      "rows": 20,
+      "id_range": "21-40",
+      "updated_at": "2026-09-08",
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
     },
     "tables/ruqyah_details/ruqyah_details_003.json": {
       "language": "Japanese",
@@ -1066,18 +1655,25 @@
         "topic_name",
         "text"
       ],
-      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_details, ids 81-120).",
-      "reference_rule": "Inline citation details and numbers were preserved; names were transliterated where needed for natural Japanese.",
+      "reference_rule": "References are not translated and are kept in English.",
       "unchanged_fields_by_instruction": [
         "id",
         "topic_id",
         "cat_id",
-        "subcat_id"
+        "subcat_id",
+        "link_id",
+        "link",
+        "audio",
+        "display_order",
+        "created_at",
+        "updated_at",
+        "item_type",
+        "type"
       ],
-      "updated_at": "2026-09-05",
-      "rows": 40,
-      "id_range": "81-120",
-      "note": "Translated and editorially polished in professional, calm Japanese. Arabic passages, HTML structure, identifiers, links, and nullness were preserved. Rebuild and integrity checks passed."
+      "rows": 20,
+      "id_range": "41-60",
+      "updated_at": "2026-09-08",
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
     },
     "tables/ruqyah_details/ruqyah_details_004.json": {
       "language": "Japanese",
@@ -1086,18 +1682,25 @@
         "topic_name",
         "text"
       ],
-      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_details, ids 121-160).",
-      "reference_rule": "Inline citation details and numbers were preserved; names were transliterated where needed for natural Japanese.",
+      "reference_rule": "References are not translated and are kept in English.",
       "unchanged_fields_by_instruction": [
         "id",
         "topic_id",
         "cat_id",
-        "subcat_id"
+        "subcat_id",
+        "link_id",
+        "link",
+        "audio",
+        "display_order",
+        "created_at",
+        "updated_at",
+        "item_type",
+        "type"
       ],
-      "updated_at": "2026-09-05",
-      "rows": 40,
-      "id_range": "121-160",
-      "note": "Translated and editorially polished in professional, calm Japanese. Arabic passages, HTML structure, identifiers, links, and nullness were preserved. Rebuild and integrity checks passed."
+      "rows": 20,
+      "id_range": "61-80",
+      "updated_at": "2026-09-08",
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
     },
     "tables/ruqyah_details/ruqyah_details_005.json": {
       "language": "Japanese",
@@ -1106,18 +1709,242 @@
         "topic_name",
         "text"
       ],
-      "source_rule": "Translated from dua_main_en.sqlite (ruqyah_details, ids 161-200).",
-      "reference_rule": "Inline citation details and numbers were preserved; names were transliterated where needed for natural Japanese.",
+      "reference_rule": "References are not translated and are kept in English.",
       "unchanged_fields_by_instruction": [
         "id",
         "topic_id",
         "cat_id",
-        "subcat_id"
+        "subcat_id",
+        "link_id",
+        "link",
+        "audio",
+        "display_order",
+        "created_at",
+        "updated_at",
+        "item_type",
+        "type"
       ],
-      "updated_at": "2026-09-05",
-      "rows": 40,
-      "id_range": "161-200",
-      "note": "Translated and editorially polished in professional, calm Japanese. Arabic passages, HTML structure, identifiers, links, and nullness were preserved. Rebuild and integrity checks passed."
+      "rows": 20,
+      "id_range": "81-100",
+      "updated_at": "2026-09-08",
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+    },
+    "tables/ruqyah_details/ruqyah_details_006.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "text"
+      ],
+      "reference_rule": "References are not translated and are kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "cat_id",
+        "subcat_id",
+        "link_id",
+        "link",
+        "audio",
+        "display_order",
+        "created_at",
+        "updated_at",
+        "item_type",
+        "type"
+      ],
+      "rows": 20,
+      "id_range": "101-120",
+      "updated_at": "2026-09-08",
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+    },
+    "tables/ruqyah_details/ruqyah_details_007.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "text"
+      ],
+      "reference_rule": "References are not translated and are kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "cat_id",
+        "subcat_id",
+        "link_id",
+        "link",
+        "audio",
+        "display_order",
+        "created_at",
+        "updated_at",
+        "item_type",
+        "type"
+      ],
+      "rows": 20,
+      "id_range": "121-140",
+      "updated_at": "2026-09-08",
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+    },
+    "tables/ruqyah_details/ruqyah_details_008.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "text"
+      ],
+      "reference_rule": "References are not translated and are kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "cat_id",
+        "subcat_id",
+        "link_id",
+        "link",
+        "audio",
+        "display_order",
+        "created_at",
+        "updated_at",
+        "item_type",
+        "type"
+      ],
+      "rows": 20,
+      "id_range": "141-160",
+      "updated_at": "2026-09-08",
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+    },
+    "tables/ruqyah_details/ruqyah_details_009.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "text"
+      ],
+      "reference_rule": "References are not translated and are kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "cat_id",
+        "subcat_id",
+        "link_id",
+        "link",
+        "audio",
+        "display_order",
+        "created_at",
+        "updated_at",
+        "item_type",
+        "type"
+      ],
+      "rows": 20,
+      "id_range": "161-180",
+      "updated_at": "2026-09-08",
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+    },
+    "tables/ruqyah_details/ruqyah_details_010.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "topic_name",
+        "text"
+      ],
+      "reference_rule": "References are not translated and are kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "cat_id",
+        "subcat_id",
+        "link_id",
+        "link",
+        "audio",
+        "display_order",
+        "created_at",
+        "updated_at",
+        "item_type",
+        "type"
+      ],
+      "rows": 20,
+      "id_range": "181-200",
+      "updated_at": "2026-09-08",
+      "note": "Restored the completed Japanese translation into the 20-row chunk layout; Arabic <ar> blocks, HTML tags and hadith numbers left untouched."
+    },
+    "tables/ruqyah_subcategories/ruqyah_subcategories_001.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name"
+      ],
+      "reference_rule": "References are not translated and are kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "cat_id",
+        "subcat_id",
+        "link_id",
+        "link",
+        "audio",
+        "display_order",
+        "created_at",
+        "updated_at",
+        "item_type",
+        "type"
+      ],
+      "rows": 163,
+      "id_range": "1-163",
+      "updated_at": "2026-09-08",
+      "note": "Translated from the English source; terminology aligned with ruqyah_categories (ルキヤ, ジン, シフル, 邪視, ラーキー, ヒジャーマ)."
+    },
+    "tables/ruqyah_videos/ruqyah_videos_001.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "author"
+      ],
+      "reference_rule": "References are not translated and are kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "cat_id",
+        "subcat_id",
+        "link_id",
+        "link",
+        "audio",
+        "display_order",
+        "created_at",
+        "updated_at",
+        "item_type",
+        "type"
+      ],
+      "rows": 74,
+      "id_range": "1-74",
+      "updated_at": "2026-09-08",
+      "note": "No matching rows in dua_main_en.sqlite (EN holds a different 40-row video set), so translated from the Bengali source; author names transliterated to katakana; links and IDs untouched."
+    },
+    "tables/drawer_items/drawer_items_001.json": {
+      "language": "Japanese",
+      "status": "translated",
+      "translated_fields": [
+        "title",
+        "hero_title1",
+        "hero_title2",
+        "content"
+      ],
+      "reference_rule": "References are not translated and are kept in English.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "cat_id",
+        "subcat_id",
+        "link_id",
+        "link",
+        "audio",
+        "display_order",
+        "created_at",
+        "updated_at",
+        "item_type",
+        "type"
+      ],
+      "rows": 6,
+      "id_range": "19-24",
+      "updated_at": "2026-09-08",
+      "note": "Translated from the English drawer_items rows matched by item_type; the content JSON string keeps its section order, types and spacer heights unchanged."
     }
   }
 }

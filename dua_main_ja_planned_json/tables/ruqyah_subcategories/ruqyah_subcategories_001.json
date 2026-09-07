@@ -2,979 +2,979 @@
   {
     "id": 1,
     "type": "RUQYAH",
-    "name": "What is Ruqyah ?",
+    "name": "ルキヤとは何か",
     "cat_id": 1
   },
   {
     "id": 2,
     "type": "RUQYAH",
-    "name": "The Method Of Ruqyah",
+    "name": "ルキヤの行い方",
     "cat_id": 1
   },
   {
     "id": 3,
     "type": "RUQYAH",
-    "name": "Conditions for Ruqyah to be successful",
+    "name": "ルキヤが効果を得るための条件",
     "cat_id": 1
   },
   {
     "id": 4,
     "type": "RUQYAH",
-    "name": "Before Ruqyah",
+    "name": "ルキヤを行う前に",
     "cat_id": 1
   },
   {
     "id": 5,
     "type": "RUQYAH",
-    "name": "During Ruqyah",
+    "name": "ルキヤの最中に",
     "cat_id": 1
   },
   {
     "id": 6,
     "type": "RUQYAH",
-    "name": "Why Blow with Your Saliva?",
+    "name": "なぜ唾を伴って吹きかけるのか",
     "cat_id": 1
   },
   {
     "id": 7,
     "type": "RUQYAH",
-    "name": "Blowing in Water",
+    "name": "水に吹きかける",
     "cat_id": 1
   },
   {
     "id": 8,
     "type": "RUQYAH",
-    "name": "FAQ's About Ruqya",
+    "name": "ルキヤについてよくある質問",
     "cat_id": 1
   },
   {
     "id": 9,
     "type": "RUQYAH",
-    "name": "Prerequisites of writing Ruqyah and drinking it’s water",
+    "name": "ルキヤを書き記し、その水を飲む際の心得",
     "cat_id": 1
   },
   {
     "id": 10,
     "type": "RUQYAH",
-    "name": "The correct way to perform Ruqyah for a small child",
+    "name": "幼い子どもへの正しいルキヤの行い方",
     "cat_id": 1
   },
   {
     "id": 11,
     "type": "RUQYAH",
-    "name": "Are physical medicines better, or Ruqyah and spiritual medicine?",
+    "name": "薬による治療と、ルキヤによる癒やしはどちらが優れているか",
     "cat_id": 1
   },
   {
     "id": 12,
     "type": "INSTANT",
-    "name": "Brief Ruqya",
+    "name": "短いルキヤ",
     "cat_id": 2
   },
   {
     "id": 13,
     "type": "INSTANT",
-    "name": "A Medium Ruqya",
+    "name": "中ほどの長さのルキヤ",
     "cat_id": 2
   },
   {
     "id": 14,
     "type": "INSTANT",
-    "name": "A Long Ruqya",
+    "name": "長いルキヤ",
     "cat_id": 2
   },
   {
     "id": 15,
     "type": "RUQYAH",
-    "name": "Existence",
+    "name": "ジンの存在",
     "cat_id": 3
   },
   {
     "id": 16,
     "type": "RUQYAH",
-    "name": "Jinn's fear of humans",
+    "name": "ジンが人間を恐れること",
     "cat_id": 3
   },
   {
     "id": 17,
     "type": "RUQYAH",
-    "name": "Jinn envy humans",
+    "name": "ジンが人間を妬むこと",
     "cat_id": 3
   },
   {
     "id": 18,
     "type": "RUQYAH",
-    "name": "When do demons spread out?",
+    "name": "悪魔が広がり出るのはいつか",
     "cat_id": 3
   },
   {
     "id": 19,
     "type": "RUQYAH",
-    "name": "It is prohibited to sacrifice animals for Jinn",
+    "name": "ジンのために動物を犠牲に捧げてはならない",
     "cat_id": 3
   },
   {
     "id": 20,
     "type": "RUQYAH",
-    "name": "It is haram to seek refuge with Jinn",
+    "name": "ジンに加護を求めることはハラームである",
     "cat_id": 3
   },
   {
     "id": 21,
     "type": "RUQYAH",
-    "name": "Do Jinn inhabit people's houses?",
+    "name": "ジンは人の家に住みつくのか",
     "cat_id": 3
   },
   {
     "id": 22,
     "type": "RUQYAH",
-    "name": "How to chase Jinn away from a house?",
+    "name": "家からジンを退ける方法",
     "cat_id": 3
   },
   {
     "id": 23,
     "type": "RUQYAH",
-    "name": "Jinn are less dignified than mankind",
+    "name": "ジンは人間より低い位にある",
     "cat_id": 3
   },
   {
     "id": 24,
     "type": "RUQYAH",
-    "name": "Reasons of Jinn's possession of humans",
+    "name": "ジンが人に憑く理由",
     "cat_id": 3
   },
   {
     "id": 25,
     "type": "RUQYAH",
-    "name": "How does a Jinn enter the body of a human, and where does he/she settle?",
+    "name": "ジンはどのように人の体に入り、どこに留まるのか",
     "cat_id": 3
   },
   {
     "id": 26,
     "type": "RUQYAH",
-    "name": "Symptoms of the Jinn's possession of humans",
+    "name": "ジンに憑かれたときの兆候",
     "cat_id": 3
   },
   {
     "id": 27,
     "type": "RUQYAH",
-    "name": "Characteristics of a healer (exorcist)",
+    "name": "治療者（ルキヤを行う者）に求められる資質",
     "cat_id": 3
   },
   {
     "id": 28,
     "type": "RUQYAH",
-    "name": "The method of healing",
+    "name": "治療の進め方",
     "cat_id": 3
   },
   {
     "id": 29,
     "type": "RUQYAH",
-    "name": "How to Conduct a Ruqyah with a Muslim Jinn?",
+    "name": "ムスリムのジンに対するルキヤの行い方",
     "cat_id": 3
   },
   {
     "id": 30,
     "type": "RUQYAH",
-    "name": "How to Conduct Ruqyah with a non-Muslim Jinn?",
+    "name": "非ムスリムのジンに対するルキヤの行い方",
     "cat_id": 3
   },
   {
     "id": 31,
     "type": "RUQYAH",
-    "name": "Some notes for the exorcist",
+    "name": "治療を行う者への心得",
     "cat_id": 3
   },
   {
     "id": 32,
     "type": "RUQYAH",
-    "name": "If the patient does not have a seizure",
+    "name": "患者に発作が現れない場合",
     "cat_id": 3
   },
   {
     "id": 33,
     "type": "RUQYAH",
-    "name": "What should be recited over the jinn if he breaks his promise and comes back",
+    "name": "ジンが約束を破って戻ってきたときに唱えるもの",
     "cat_id": 3
   },
   {
     "id": 34,
     "type": "RUQYAH",
-    "name": "Treating a case of love between a jinn and a human",
+    "name": "ジンと人との間に生じた愛情への対処",
     "cat_id": 3
   },
   {
     "id": 35,
     "type": "RUQYAH",
-    "name": "Some Practical Examples",
+    "name": "実際の事例から",
     "cat_id": 3
   },
   {
     "id": 36,
     "type": "RUQYAH",
-    "name": "Guidance for the protection from Sar' (Possesion)",
+    "name": "憑依（サルウ）から身を守るための導き",
     "cat_id": 3
   },
   {
     "id": 37,
     "type": "RUQYAH",
-    "name": "Waswasah in Salat",
+    "name": "礼拝中のワスワス（ささやき）",
     "cat_id": 3
   },
   {
     "id": 38,
     "type": "RUQYAH",
-    "name": "Satan's Musical instruments",
+    "name": "シャイターンの楽器",
     "cat_id": 3
   },
   {
     "id": 39,
     "type": "RUQYAH",
-    "name": "Satan's approach to one's meal",
+    "name": "シャイターンが食事に近づくとき",
     "cat_id": 3
   },
   {
     "id": 40,
     "type": "RUQYAH",
-    "name": "The levels of temptation",
+    "name": "誘惑の段階",
     "cat_id": 3
   },
   {
     "id": 41,
     "type": "RUQYAH",
-    "name": "As well as adhering to the Ruqyah program, what else should the patient do?",
+    "name": "ルキヤの実践に加えて、患者が心がけるべきこと",
     "cat_id": 3
   },
   {
     "id": 42,
     "type": "RUQYAH",
-    "name": "Ten ways of avoiding the harm of the Jinn and protecting oneself against the devils",
+    "name": "ジンの害を避け、悪魔から身を守る十の方法",
     "cat_id": 3
   },
   {
     "id": 43,
     "type": "RUQYAH",
-    "name": "Evidence of the Existence of Jinn and Demons",
+    "name": "ジンと悪魔の存在を示す証拠",
     "cat_id": 4
   },
   {
     "id": 44,
     "type": "RUQYAH",
-    "name": "Evidence on the Existence of Sihr",
+    "name": "シフル（魔術）の存在を示す証拠",
     "cat_id": 4
   },
   {
     "id": 45,
     "type": "RUQYAH",
-    "name": "1. Sihr of Separation",
+    "name": "一、離別のシフル",
     "cat_id": 4
   },
   {
     "id": 46,
     "type": "RUQYAH",
-    "name": "Definition of Sihr of Separation",
+    "name": "離別のシフルとは",
     "cat_id": 4
   },
   {
     "id": 47,
     "type": "RUQYAH",
-    "name": "Treatment Of The Sihr Of Separation",
+    "name": "離別のシフルへの治療",
     "cat_id": 4
   },
   {
     "id": 48,
     "type": "RUQYAH",
-    "name": "2. Sihr Al-Mahabba / At-Tiwala (Love)",
+    "name": "二、シフル・アル＝マハッバ／アッ＝ティワラ（愛情の魔術）",
     "cat_id": 4
   },
   {
     "id": 49,
     "type": "RUQYAH",
-    "name": "Lawful Sihr",
+    "name": "許される手立て",
     "cat_id": 4
   },
   {
     "id": 50,
     "type": "RUQYAH",
-    "name": "Treatment of Sihr of Love",
+    "name": "愛情のシフルへの治療",
     "cat_id": 4
   },
   {
     "id": 51,
     "type": "RUQYAH",
-    "name": "3: Sihr At-Takhyil (False Appearance of Objects)",
+    "name": "三、シフル・アッ＝タフイール（物が偽って見える魔術）",
     "cat_id": 4
   },
   {
     "id": 52,
     "type": "RUQYAH",
-    "name": "4: Sihr Al-Junun (Lunacy)",
+    "name": "四、シフル・アル＝ジュヌーン（狂気の魔術）",
     "cat_id": 4
   },
   {
     "id": 53,
     "type": "RUQYAH",
-    "name": "5: Sihr Al-Khumül (Lethargy)",
+    "name": "五、シフル・アル＝フムール（無気力の魔術）",
     "cat_id": 4
   },
   {
     "id": 54,
     "type": "RUQYAH",
-    "name": "6: Sihr Al-Hawatif (Bad Dreams & Hearing Voices)",
+    "name": "六、シフル・アル＝ハワーティフ（悪夢と幻聴の魔術）",
     "cat_id": 4
   },
   {
     "id": 55,
     "type": "RUQYAH",
-    "name": "7: Sihr Al-Maradh (Illness)",
+    "name": "七、シフル・アル＝マラド（病の魔術）",
     "cat_id": 4
   },
   {
     "id": 56,
     "type": "RUQYAH",
-    "name": "8: Sihr An-Nazif (Bleeding Following Menses)",
+    "name": "八、シフル・アン＝ナーズィフ（月経後の出血の魔術）",
     "cat_id": 4
   },
   {
     "id": 57,
     "type": "RUQYAH",
-    "name": "Definition of Sihr An-Nazif",
+    "name": "シフル・アン＝ナーズィフとは",
     "cat_id": 4
   },
   {
     "id": 58,
     "type": "RUQYAH",
-    "name": "9: Sihr of Impeding Marriage",
+    "name": "九、結婚を妨げるシフル",
     "cat_id": 4
   },
   {
     "id": 59,
     "type": "RUQYAH",
-    "name": "Important Facts on Sihr",
+    "name": "シフルについて知っておくべきこと",
     "cat_id": 4
   },
   {
     "id": 60,
     "type": "RUQYAH",
-    "name": "Sihr Ar-Rabt (Penile Erection Problems During Sexual Intercourse)",
+    "name": "シフル・アッ＝ラブト（夫婦の営みにおける勃起の障害）",
     "cat_id": 4
   },
   {
     "id": 61,
     "type": "RUQYAH",
-    "name": "Ar-Rabt in Women (sexual frigidity)",
+    "name": "女性におけるラブト（性的不感）",
     "cat_id": 4
   },
   {
     "id": 62,
     "type": "RUQYAH",
-    "name": "Treatment of Rabt in Men",
+    "name": "男性のラブトへの治療",
     "cat_id": 4
   },
   {
     "id": 63,
     "type": "RUQYAH",
-    "name": "Difference between Ar-rabt, Al-'ajz al-jinsi (impotence) and Adh-dhu'f al-jinsi (sexual weakness)",
+    "name": "ラブト、アル＝アジュズ・アル＝ジンスィー（不能）、アッ＝ドゥアフ・アル＝ジンスィー（性的な衰え）の違い",
     "cat_id": 4
   },
   {
     "id": 64,
     "type": "RUQYAH",
-    "name": "Treatment of Ar-rabt, Al-'ajz al-jinsi (impotence) and Adh-dhu'f al-jinsi (sexual weakness)",
+    "name": "ラブト、アル＝アジュズ・アル＝ジンスィー（不能）、アッ＝ドゥアフ・アル＝ジンスィー（性的な衰え）への治療",
     "cat_id": 4
   },
   {
     "id": 65,
     "type": "RUQYAH",
-    "name": "Difference between Natural Sterility and Sterility caused by Sihr",
+    "name": "自然な不妊と、シフルによる不妊の違い",
     "cat_id": 4
   },
   {
     "id": 66,
     "type": "RUQYAH",
-    "name": "Sterility in Women",
+    "name": "女性の不妊",
     "cat_id": 4
   },
   {
     "id": 67,
     "type": "RUQYAH",
-    "name": "Treatment of Premature Ejaculation",
+    "name": "早漏への治療",
     "cat_id": 4
   },
   {
     "id": 68,
     "type": "RUQYAH",
-    "name": "Protective Measures against Sihr in General",
+    "name": "シフル全般から身を守る方法",
     "cat_id": 4
   },
   {
     "id": 69,
     "type": "RUQYAH",
-    "name": "The Concept of the Evil Eye (ayn)",
+    "name": "邪視（アイン）とは",
     "cat_id": 5
   },
   {
     "id": 70,
     "type": "RUQYAH",
-    "name": "The Different Types Of Evil Eye (ayn)",
+    "name": "邪視（アイン）の種類",
     "cat_id": 5
   },
   {
     "id": 71,
     "type": "RUQYAH",
-    "name": "Evidence for the different types of Evil Eye",
+    "name": "邪視の種類を示す証拠",
     "cat_id": 5
   },
   {
     "id": 72,
     "type": "RUQYAH",
-    "name": "Evidence For The Existance Of Envy",
+    "name": "嫉妬（ハサド）の存在を示す証拠",
     "cat_id": 5
   },
   {
     "id": 73,
     "type": "RUQYAH",
-    "name": "The Similarities And Differences Between The Evil Eye And Envy",
+    "name": "邪視と嫉妬の共通点と違い",
     "cat_id": 5
   },
   {
     "id": 74,
     "type": "RUQYAH",
-    "name": "Evidence in the qur'an",
+    "name": "クルアーンにおける証拠",
     "cat_id": 5
   },
   {
     "id": 75,
     "type": "RUQYAH",
-    "name": "Envy is of varying degrees",
+    "name": "嫉妬にはさまざまな程度がある",
     "cat_id": 5
   },
   {
     "id": 76,
     "type": "RUQYAH",
-    "name": "Hadiths Related To The Evil Eye",
+    "name": "邪視に関するハディース",
     "cat_id": 5
   },
   {
     "id": 77,
     "type": "RUQYAH",
-    "name": "The effects of the evil eye",
+    "name": "邪視がもたらす影響",
     "cat_id": 5
   },
   {
     "id": 78,
     "type": "RUQYAH",
-    "name": "Signs And Symptoms",
+    "name": "兆候と症状",
     "cat_id": 5
   },
   {
     "id": 79,
     "type": "RUQYAH",
-    "name": "Self-Ruqyah Treatment",
+    "name": "自分自身へのルキヤ",
     "cat_id": 5
   },
   {
     "id": 80,
     "type": "RUQYAH",
-    "name": "Treatment Of Al-'Ayn (Evil Eye)",
+    "name": "アル＝アイン（邪視）への治療",
     "cat_id": 5
   },
   {
     "id": 81,
     "type": "RUQYAH",
-    "name": "Evidence From The Hadith on The Effect of Al-Ayn",
+    "name": "アル＝アインの影響を示すハディースの証拠",
     "cat_id": 5
   },
   {
     "id": 82,
     "type": "RUQYAH",
-    "name": "Views of Scholars on the Reality of Al-'Ayn",
+    "name": "アル＝アインの実在についての学者たちの見解",
     "cat_id": 5
   },
   {
     "id": 83,
     "type": "RUQYAH",
-    "name": "The Difference between the Evil Eye and Jealousy",
+    "name": "邪視と嫉妬の違い",
     "cat_id": 5
   },
   {
     "id": 84,
     "type": "RUQYAH",
-    "name": "A Jinn May Affect Man with its Evil Eye",
+    "name": "ジンもまた邪視によって人に害を及ぼしうる",
     "cat_id": 5
   },
   {
     "id": 85,
     "type": "RUQYAH",
-    "name": "Treatment of the Evil Eye",
+    "name": "邪視への治療",
     "cat_id": 5
   },
   {
     "id": 86,
     "type": "RUQYAH",
-    "name": "Practical Examples of the Treatment of the Evil Eye",
+    "name": "邪視の治療の実例",
     "cat_id": 5
   },
   {
     "id": 87,
     "type": "RUQYAH",
-    "name": "Meaning of Raaqi",
+    "name": "ラーキーとは",
     "cat_id": 6
   },
   {
     "id": 88,
     "type": "RUQYAH",
-    "name": "Signs of a Genuine Raqi (One who is treating Patient)",
+    "name": "信頼できるラーキー（治療を行う者）の見分け方",
     "cat_id": 6
   },
   {
     "id": 89,
     "type": "RUQYAH",
-    "name": "The Minimum Requirement",
+    "name": "最低限求められること",
     "cat_id": 6
   },
   {
     "id": 90,
     "type": "RUQYAH",
-    "name": "The Risk",
+    "name": "伴う危険",
     "cat_id": 6
   },
   {
     "id": 91,
     "type": "RUQYAH",
-    "name": "The Non-Risk",
+    "name": "危険ではないこと",
     "cat_id": 6
   },
   {
     "id": 92,
     "type": "RUQYAH",
-    "name": "The Commitment",
+    "name": "求められる覚悟",
     "cat_id": 6
   },
   {
     "id": 93,
     "type": "RUQYAH",
-    "name": "The Main Intention For Becoming A Raqi",
+    "name": "ラーキーとなる目的（ニーヤ）",
     "cat_id": 6
   },
   {
     "id": 94,
     "type": "RUQYAH",
-    "name": "The Benefits Of Not Taking Money",
+    "name": "報酬を受け取らないことの益",
     "cat_id": 6
   },
   {
     "id": 95,
     "type": "RUQYAH",
-    "name": "Being Patient And Keeping Calm With Patients",
+    "name": "患者に対して忍耐強く、穏やかであること",
     "cat_id": 6
   },
   {
     "id": 96,
     "type": "RUQYAH",
-    "name": "Your Studies Of The Science Of Ruqya",
+    "name": "ルキヤの学びを深める",
     "cat_id": 6
   },
   {
     "id": 97,
     "type": "RUQYAH",
-    "name": "Your Protection Adhkar",
+    "name": "自らを守るアズカール",
     "cat_id": 6
   },
   {
     "id": 98,
     "type": "RUQYAH",
-    "name": "Acts Of Worship & Things To Avoid For A Raqi",
+    "name": "ラーキーが努めるべき崇拝と、避けるべきこと",
     "cat_id": 6
   },
   {
     "id": 99,
     "type": "RUQYAH",
-    "name": "Things To Be Stopped Or Avoided",
+    "name": "やめるべきこと、避けるべきこと",
     "cat_id": 6
   },
   {
     "id": 100,
     "type": "RUQYAH",
-    "name": "Gaining Practical Ruqyah Experience",
+    "name": "ルキヤの実践経験を積む",
     "cat_id": 6
   },
   {
     "id": 101,
     "type": "RUQYAH",
-    "name": "Extreme Possessing Jinn Cases",
+    "name": "重い憑依の事例",
     "cat_id": 6
   },
   {
     "id": 102,
     "type": "RUQYAH",
-    "name": "Conclusion",
+    "name": "むすび",
     "cat_id": 6
   },
   {
     "id": 103,
     "type": "RUQYAH",
-    "name": "Using the Sidr Leaves",
+    "name": "シドルの葉を用いる",
     "cat_id": 7
   },
   {
     "id": 104,
     "type": "RUQYAH",
-    "name": "Senna",
+    "name": "センナ",
     "cat_id": 7
   },
   {
     "id": 105,
     "type": "RUQYAH",
-    "name": "Olive Oil",
+    "name": "オリーブ油",
     "cat_id": 7
   },
   {
     "id": 106,
     "type": "RUQYAH",
-    "name": "Ajwa dates of Madina",
+    "name": "マディーナのアジュワ・ナツメヤシ",
     "cat_id": 7
   },
   {
     "id": 107,
     "type": "RUQYAH",
-    "name": "Black Seed",
+    "name": "ブラックシード（ニゲラ）",
     "cat_id": 7
   },
   {
     "id": 108,
     "type": "RUQYAH",
-    "name": "Honey",
+    "name": "ハチミツ",
     "cat_id": 7
   },
   {
     "id": 109,
     "type": "RUQYAH",
-    "name": "Saussurea costus",
+    "name": "クスト（コスタス）",
     "cat_id": 7
   },
   {
     "id": 110,
     "type": "RUQYAH",
-    "name": "How to make Ruqyah water, oil and honey etc",
+    "name": "ルキヤの水・油・ハチミツなどの作り方",
     "cat_id": 7
   },
   {
     "id": 111,
     "type": "RUQYAH",
-    "name": "Hijamah",
+    "name": "ヒジャーマ（瀉血療法）",
     "cat_id": 7
   },
   {
     "id": 112,
     "type": "RUQYAH",
-    "name": "Introduction",
+    "name": "はじめに",
     "cat_id": 8
   },
   {
     "id": 113,
     "type": "RUQYAH",
-    "name": "Before beginning",
+    "name": "始める前に",
     "cat_id": 8
   },
   {
     "id": 114,
     "type": "RUQYAH",
-    "name": "The following things should be kept ready",
+    "name": "あらかじめ用意しておくもの",
     "cat_id": 8
   },
   {
     "id": 115,
     "type": "RUQYAH",
-    "name": "Which Surahs should be recited",
+    "name": "読誦するスーラ",
     "cat_id": 8
   },
   {
     "id": 116,
     "type": "RUQYAH",
-    "name": "On the first three days",
+    "name": "最初の三日間",
     "cat_id": 8
   },
   {
     "id": 117,
     "type": "RUQYAH",
-    "name": "On the fourth to seventh day",
+    "name": "四日目から七日目まで",
     "cat_id": 8
   },
   {
     "id": 118,
     "type": "RUQYAH",
-    "name": "What to expect",
+    "name": "起こりうること",
     "cat_id": 8
   },
   {
     "id": 119,
     "type": "RUQYAH",
-    "name": "Introduction",
+    "name": "はじめに",
     "cat_id": 9
   },
   {
     "id": 120,
     "type": "RUQYAH",
-    "name": "Ingredients",
+    "name": "用意するもの",
     "cat_id": 9
   },
   {
     "id": 121,
     "type": "RUQYAH",
-    "name": "Method",
+    "name": "手順",
     "cat_id": 9
   },
   {
     "id": 122,
     "type": "RUQYAH",
-    "name": "Important",
+    "name": "大切な注意",
     "cat_id": 9
   },
   {
     "id": 123,
     "type": "RUQYAH",
-    "name": "Variant of the Ruqyah bath and cleaning of the house of Jinn or Sihr",
+    "name": "ルキヤ入浴の別法と、ジンやシフルからの家の清め",
     "cat_id": 9
   },
   {
     "id": 124,
     "type": "RUQYAH",
-    "name": "Introduction",
+    "name": "はじめに",
     "cat_id": 10
   },
   {
     "id": 125,
     "type": "RUQYAH",
-    "name": "Introduction",
+    "name": "はじめに",
     "cat_id": 11
   },
   {
     "id": 126,
     "type": "RUQYAH",
-    "name": "The thoughts come from Shaitan",
+    "name": "その思いはシャイターンから来る",
     "cat_id": 11
   },
   {
     "id": 127,
     "type": "RUQYAH",
-    "name": "Such thoughts have plagued even some of the Sahabas",
+    "name": "サハーバたちでさえこの思いに悩まされた",
     "cat_id": 11
   },
   {
     "id": 128,
     "type": "RUQYAH",
-    "name": "Reject these thoughts",
+    "name": "その思いを退ける",
     "cat_id": 11
   },
   {
     "id": 129,
     "type": "RUQYAH",
-    "name": "Other means",
+    "name": "そのほかの手立て",
     "cat_id": 11
   },
   {
     "id": 130,
     "type": "RUQYAH",
-    "name": "Overcoming addiction to pornography and \"similar addictions",
+    "name": "性的な映像への依存や、それに類する依存から抜け出す",
     "cat_id": 12
   },
   {
     "id": 131,
     "type": "RUQYAH",
-    "name": "Jinn attacks at night",
+    "name": "夜間のジンによる襲来",
     "cat_id": 12
   },
   {
     "id": 132,
     "type": "RUQYAH",
-    "name": "Psoriasis, eczema and other ailments",
+    "name": "乾癬・湿疹などの疾患",
     "cat_id": 12
   },
   {
     "id": 133,
     "type": "RUQYAH",
-    "name": "Magic and the stomach",
+    "name": "シフルと胃腸の不調",
     "cat_id": 12
   },
   {
     "id": 134,
     "type": "RUQYAH",
-    "name": "Unfulfilled baby desire",
+    "name": "子を望みながら授からないとき",
     "cat_id": 12
   },
   {
     "id": 135,
     "type": "RUQYAH",
-    "name": "Introduction",
+    "name": "はじめに",
     "cat_id": 13
   },
   {
     "id": 136,
     "type": "RUQYAH",
-    "name": "Ruqyah for children",
+    "name": "子どもへのルキヤ",
     "cat_id": 13
   },
   {
     "id": 137,
     "type": "RUQYAH",
-    "name": "Ruqyah for non-Muslims",
+    "name": "非ムスリムへのルキヤ",
     "cat_id": 13
   },
   {
     "id": 138,
     "type": "RUQYAH",
-    "name": "The necessary patience",
+    "name": "必要とされる忍耐",
     "cat_id": 13
   },
   {
     "id": 139,
     "type": "RUQYAH",
-    "name": "Introduction",
+    "name": "はじめに",
     "cat_id": 14
   },
   {
     "id": 140,
     "type": "RUQYAH",
-    "name": "Benefits of Hijama (Cupping)",
+    "name": "ヒジャーマ（吸角・瀉血）の効能",
     "cat_id": 14
   },
   {
     "id": 141,
     "type": "RUQYAH",
-    "name": "Importance of Hijama in the Divine Guidance",
+    "name": "啓示の導きにおけるヒジャーマの意義",
     "cat_id": 14
   },
   {
     "id": 142,
     "type": "RUQYAH",
-    "name": "Hijamah in the condition of strength",
+    "name": "健やかなときのヒジャーマ",
     "cat_id": 14
   },
   {
     "id": 143,
     "type": "RUQYAH",
-    "name": "Hijamah in illness",
+    "name": "病のときのヒジャーマ",
     "cat_id": 14
   },
   {
     "id": 144,
     "type": "RUQYAH",
-    "name": "Phlebotomy vs Hijamah",
+    "name": "瀉血とヒジャーマの違い",
     "cat_id": 14
   },
   {
     "id": 145,
     "type": "RUQYAH",
-    "name": "Guidelines for performing Hijamah",
+    "name": "ヒジャーマを行う際の指針",
     "cat_id": 14
   },
   {
     "id": 146,
     "type": "RUQYAH",
-    "name": "General contraindications and precautions",
+    "name": "一般的な禁忌と注意",
     "cat_id": 14
   },
   {
     "id": 147,
     "type": "RUQYAH",
-    "name": "Constitutions or body types",
+    "name": "体質と体格",
     "cat_id": 14
   },
   {
     "id": 148,
     "type": "RUQYAH",
-    "name": "8 patterns of illness",
+    "name": "病の八つの型",
     "cat_id": 14
   },
   {
     "id": 149,
     "type": "RUQYAH",
-    "name": "The condition of the person having Hijamah",
+    "name": "ヒジャーマを受ける人の状態",
     "cat_id": 14
   },
   {
     "id": 150,
     "type": "VIDEO",
-    "name": "Ruqyah Full Course (Workshop)",
+    "name": "ルキヤ総合講座（ワークショップ）",
     "cat_id": 15
   },
   {
     "id": 151,
     "type": "VIDEO",
-    "name": "Jinn",
+    "name": "ジン",
     "cat_id": 15
   },
   {
     "id": 152,
     "type": "VIDEO",
-    "name": "Magic",
+    "name": "シフル（魔術）",
     "cat_id": 15
   },
   {
     "id": 153,
     "type": "VIDEO",
-    "name": "Evil Eye",
+    "name": "邪視（アイン）",
     "cat_id": 15
   },
   {
     "id": 154,
     "type": "VIDEO",
-    "name": "About Raqi",
+    "name": "ラーキーについて",
     "cat_id": 15
   },
   {
     "id": 155,
     "type": "VIDEO",
-    "name": "About Ruqyah",
+    "name": "ルキヤについて",
     "cat_id": 15
   },
   {
     "id": 156,
     "type": "VIDEO",
-    "name": "Self Ruqyah",
+    "name": "自分で行うルキヤ",
     "cat_id": 15
   },
   {
     "id": 157,
     "type": "VIDEO",
-    "name": "Destroy Taweez",
+    "name": "タウィーズ（護符）を処分する",
     "cat_id": 15
   },
   {
     "id": 158,
     "type": "VIDEO",
-    "name": "Ruqya Info",
+    "name": "ルキヤの基礎知識",
     "cat_id": 15
   },
   {
     "id": 159,
     "type": "VIDEO",
-    "name": "Waswasa",
+    "name": "ワスワス（ささやき）",
     "cat_id": 15
   },
   {
     "id": 160,
     "type": "VIDEO",
-    "name": "Ruqyah Q&A",
+    "name": "ルキヤ 質疑応答",
     "cat_id": 15
   },
   {
     "id": 161,
     "type": "VIDEO",
-    "name": "Ruqyah Audios",
+    "name": "ルキヤ音源",
     "cat_id": 15
   },
   {
     "id": 162,
     "type": "VIDEO",
-    "name": "Diaries of an Exorcist",
+    "name": "ルキヤ治療者の記録",
     "cat_id": 15
   },
   {
     "id": 163,
     "type": "VIDEO",
-    "name": "Mixed Videos",
+    "name": "その他の動画",
     "cat_id": 15
   }
 ]

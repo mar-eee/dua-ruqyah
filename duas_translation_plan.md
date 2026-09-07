@@ -79,8 +79,13 @@ For metadata, use this meaning:
 
 | File | Rows | Status |
 |------|------|--------|
-| `tables/categories/categories_001.json` | 44 | complete |
+| `tables/categories/categories_001.json` | 44 | complete; titles improved |
 | `tables/subcategories/subcategories_001.json` | 118 | complete |
+| `tables/dua_infos/dua_infos_001.json` | 21 | complete |
+| `tables/dua_infos/dua_infos_002.json` | 21 | complete |
+| `tables/ruqyah_categories/ruqyah_categories_001.json` | 15 | complete; titles improved |
+| `tables/sections/sections_001.json` | 21 | complete; titles improved |
+| `tables/ruqyah_instants/ruqyah_instants_001.json` | 31 | complete; translated, references kept English |
 | `tables/ruqyah_instants/ruqyah_instants_002.json` | 31 | complete; translated, references kept English |
 | `tables/ruqyah_instants/ruqyah_instants_003.json` | 31 | complete; translated, references kept English |
 | `tables/ruqyah_instants/ruqyah_instants_004.json` | 31 | complete; translated, references kept English |
@@ -90,30 +95,23 @@ For metadata, use this meaning:
 | `tables/ruqyah_instants/ruqyah_instants_008.json` | 31 | complete; translated, references kept English |
 | `tables/ruqyah_instants/ruqyah_instants_009.json` | 31 | complete; translated, references kept English |
 | `tables/ruqyah_instants/ruqyah_instants_010.json` | 29 | complete; translated, references kept English |
-| `tables/ruqyah_details/ruqyah_details_001.json` | 40 | complete; translated, inline references kept English |
-| `tables/ruqyah_details/ruqyah_details_002.json` | 40 | complete; translated, citation details preserved |
-| `tables/ruqyah_details/ruqyah_details_003.json` | 40 | complete; translated, citation details preserved |
-| `tables/ruqyah_details/ruqyah_details_004.json` | 40 | complete; translated, citation details preserved |
-| `tables/ruqyah_details/ruqyah_details_005.json` | 40 | complete; translated, citation details preserved |
-
-### Indonesian completed: `tables/subcategories/subcategories_001.json`
-
-- ID range: `1-118`
-- Rows: `118`
-- Completed on: `2026-08-28`
-- Translated fields: `name`
-- Source: English names from `dua_main_en.sqlite`; Bengali consulted only to resolve ambiguous English wording
-- References: not applicable to this table
-- Verification: second line-by-line editorial review completed; JSON valid, frozen fields unchanged, no Bengali remains, rebuild passed, SQLite integrity `ok`
-
-### Indonesian completed: `tables/categories/categories_001.json`
-
-- ID range: `1-44`
-- Rows: `44`
-- Completed on: `2026-08-28`
-- Translated fields: `name`
-- Source: English names from `dua_main_en.sqlite`
-- Verification: editorial review against English categories and related subcategories passed; JSON valid, frozen fields unchanged, 44 Indonesian names present, rebuild passed, SQLite integrity `ok`
+| `tables/ruqyah_details/ruqyah_details_001.json` | 20 | complete; translated, references kept English |
+| `tables/ruqyah_details/ruqyah_details_002.json` | 20 | complete; translated, references kept English |
+| `tables/ruqyah_details/ruqyah_details_003.json` | 20 | complete; translated, references kept English |
+| `tables/ruqyah_details/ruqyah_details_004.json` | 20 | complete; translated, references kept English |
+| `tables/ruqyah_details/ruqyah_details_005.json` | 20 | complete; translated, references kept English |
+| `tables/ruqyah_details/ruqyah_details_006.json` | 20 | complete; translated, references kept English |
+| `tables/ruqyah_details/ruqyah_details_007.json` | 20 | complete; translated, references kept English |
+| `tables/ruqyah_details/ruqyah_details_008.json` | 20 | complete; translated, references kept English |
+| `tables/ruqyah_details/ruqyah_details_009.json` | 20 | complete; translated, references kept English |
+| `tables/ruqyah_details/ruqyah_details_010.json` | 20 | complete; translated, references kept English |
+| `tables/ruqyah_subcategories/ruqyah_subcategories_001.json` | 163 | complete; titles translated, terms aligned with categories |
+| `tables/ruqyah_videos/ruqyah_videos_001.json` | 74 | complete; translated from Bengali (no EN rows), authors in katakana |
+| `tables/drawer_items/drawer_items_001.json` | 6 | complete; titles, hero lines and content JSON translated |
+| `tables/ids/ids_001.json` | 1001 | n/a; numeric only, nothing to translate |
+| `tables/drawer_item_actions/drawer_item_actions_001.json` | 0 | n/a; table is empty |
+| `tables/books/books_001.json` | 3 | skipped by instruction (book tables excluded) |
+| `tables/book_details/book_details_001.json` | 86 | skipped by instruction (book tables excluded) |
 
 ## Dua Chunk Status
 
@@ -131,37 +129,26 @@ For metadata, use this meaning:
 | `duas_010.json` | 307-340 | 34 | complete | translated; references kept English; transliteration copied from EN |
 | `duas_011.json` | 341-374 | 34 | complete | translated; references kept English; transliteration copied from EN |
 | `duas_012.json` | 375-408 | 34 | complete | translated; references kept English; transliteration copied from EN |
-| `duas_013.json` | 409-442 | 34 | pending |  |
-| `duas_014.json` | 443-476 | 34 | pending |  |
-| `duas_015.json` | 477-510 | 34 | pending |  |
-| `duas_016.json` | 511-544 | 34 | pending |  |
-| `duas_017.json` | 545-578 | 34 | pending |  |
-| `duas_018.json` | 579-612 | 34 | pending |  |
-| `duas_019.json` | 613-646 | 34 | pending |  |
-| `duas_020.json` | 647-680 | 34 | pending |  |
-| `duas_021.json` | 681-714 | 34 | pending |  |
-| `duas_022.json` | 715-748 | 34 | pending |  |
-| `duas_023.json` | 749-782 | 34 | pending |  |
-| `duas_024.json` | 783-816 | 34 | pending |  |
-| `duas_025.json` | 817-850 | 34 | pending |  |
-| `duas_026.json` | 851-884 | 34 | pending |  |
-| `duas_027.json` | 885-918 | 34 | pending |  |
-| `duas_028.json` | 919-952 | 34 | pending |  |
-| `duas_029.json` | 953-986 | 34 | pending |  |
-| `duas_030.json` | 987-1001 | 15 | pending |  |
+| `duas_013.json` | 409-442 | 34 | complete | translated; references kept English |
+| `duas_014.json` | 443-476 | 34 | complete | translated; references kept English |
+| `duas_015.json` | 477-510 | 34 | complete | translated; references kept English |
+| `duas_016.json` | 511-544 | 34 | complete | translated; references kept English; transliteration copied from EN |
+| `duas_017.json` | 545-578 | 34 | complete | translated; references kept English; transliteration copied from EN |
+| `duas_018.json` | 579-612 | 34 | complete | translated; references kept English; transliteration copied from EN |
+| `duas_019.json` | 613-646 | 34 | complete | translated; references kept English |
+| `duas_020.json` | 647-680 | 34 | complete | translated; references kept English |
+| `duas_021.json` | 681-714 | 34 | complete | translated; references kept English; transliteration copied from EN |
+| `duas_022.json` | 715-748 | 34 | complete | translated; references kept English; transliteration copied from EN |
+| `duas_023.json` | 749-782 | 34 | complete | translated; references kept English; transliteration copied from EN |
+| `duas_024.json` | 783-816 | 34 | complete | translated; references kept English |
+| `duas_025.json` | 817-850 | 34 | complete | translated; references kept English |
+| `duas_026.json` | 851-884 | 34 | complete | translated; references kept English |
+| `duas_027.json` | 885-918 | 34 | complete | translated; references kept English |
+| `duas_028.json` | 919-952 | 34 | complete | translated; references kept English |
+| `duas_029.json` | 953-986 | 34 | complete | translated; references kept English |
+| `duas_030.json` | 987-1001 | 15 | complete | translated; references kept English |
 
 ## Work Status Details
-
-### Indonesian completed: `dua_main_id_planned_json/tables/duas/duas_001.json`
-
-- ID range: `1-34`
-- Rows: `34`
-- Completed on: `2026-08-28`
-- Translated fields: `name`, `content`, `translation`, `note`
-- Transliteration: copied from `dua_main_en.sqlite`
-- References: copied from `dua_main_en.sqlite`, kept in English, and normalized to the README format
-- Verification: JSON valid, no Bengali in translated top-level fields, English transliterations verified, frozen fields unchanged, rebuild passed, SQLite integrity `ok`
-- Editorial recheck: all 34 rows reread against the English source; quotation flow, narrator spelling, and devotional phrasing corrected where needed
 
 ### Completed: `duas_001.json`
 
@@ -250,7 +237,291 @@ For metadata, use this meaning:
 - Transliteration: copied from `dua_main_en.sqlite`
 - Verification: JSON valid, no Bengali in translated top-level fields, references/transliteration matched English DB, frozen fields unchanged
 
+### Completed: `duas_016.json`
+
+- ID range: `511-544`
+- Rows: `34`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: copied exactly from `dua_main_en.sqlite` and kept in English
+- Transliteration: copied from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, references/transliteration matched English DB, frozen fields unchanged
+
+### Completed: `duas_017.json`
+
+- ID range: `545-578`
+- Rows: `34`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: copied exactly from `dua_main_en.sqlite` and kept in English
+- Transliteration: copied from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, references/transliteration matched English DB, frozen fields unchanged
+
+### Completed: `duas_018.json`
+
+- ID range: `579-612`
+- Rows: `34`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: copied exactly from `dua_main_en.sqlite` and kept in English
+- Transliteration: copied from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, references/transliteration matched English DB, frozen fields unchanged
+
+### Completed: `duas_021.json`
+
+- ID range: `681-714`
+- Rows: `34`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: copied exactly from `dua_main_en.sqlite` and kept in English
+- Transliteration: copied from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, references/transliteration matched English DB, frozen fields unchanged
+
+### Completed: `duas_022.json`
+
+- ID range: `715-748`
+- Rows: `34`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: copied exactly from `dua_main_en.sqlite` and kept in English
+- Transliteration: copied from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, references/transliteration matched English DB, frozen fields unchanged
+
+### Completed: `duas_023.json`
+
+- ID range: `749-782`
+- Rows: `34`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: copied exactly from `dua_main_en.sqlite` and kept in English
+- Transliteration: copied from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, references/transliteration matched English DB, frozen fields unchanged
+
+### Completed: `dua_infos_001.json`
+
+- ID range: `1-21`
+- Rows: `21`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `description`
+- Source: translated from Bengali source because metadata marks `dua_infos` source as `BN`; the English DB has a different 16-row `dua_infos` table
+- Arabic blocks: preserved exactly from backup
+- Verification: JSON valid, no Bengali in translated top-level fields, IDs/key order/nullness unchanged
+
+### Completed: `dua_infos_002.json`
+
+- ID range: `22-42`
+- Rows: `21`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `description`
+- Source: translated from Bengali source because `dua_main_en.sqlite` has no matching `dua_infos` rows for IDs `22-42`
+- Arabic blocks: preserved exactly from backup
+- Quality review: polished machine-style wording and fixed awkward terms in difficult rows, including `22`, `30`, `38`, `40`, `41`, and `42`
+- Verification: JSON valid, no Bengali in translated top-level fields, known machine-translation artifacts removed, IDs/key order/nullness unchanged, HTML tag counts unchanged, rebuild passed, SQLite integrity `ok`
+
 ## Rebuild Command
+
+Run this after each completed chunk:
+
+```bash
+cd /Users/mdabdurrahman/Desktop/Database/Dua/dua_main_ja_planned_json
+python3 rebuild_japanese_from_json.py
+```
+
+## Final Verification Checklist
+
+- JSON file is valid.
+- No Bengali remains in translated top-level fields.
+- `reference` is English.
+- Arabic fields are unchanged.
+- `groups` is unchanged.
+- IDs and category links are unchanged.
+- Rebuild script runs without error.
+- SQLite integrity check returns `ok`.
+
+### Completed: `duas_004.json`
+
+- ID range: `103-136`
+- Rows: `34`
+- Completed on: `2026-08-27`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_007.json`
+
+- ID range: `205-238`
+- Rows: `34`
+- Completed on: `2026-08-27`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_008.json`
+
+- ID range: `239-272`
+- Rows: `34`
+- Completed on: `2026-08-27`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_013.json`
+
+- ID range: `409-442`
+- Rows: `34`
+- Completed on: `2026-08-27`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_014.json`
+
+- ID range: `443-476`
+- Rows: `34`
+- Completed on: `2026-08-27`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_015.json`
+
+- ID range: `477-510`
+- Rows: `34`
+- Completed on: `2026-08-27`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_019.json`
+
+- ID range: `613-646`
+- Rows: `34`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_020.json`
+
+- ID range: `647-680`
+- Rows: `34`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_024.json`
+
+- ID range: `783-816`
+- Rows: `34`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_025.json`
+
+- ID range: `817-850`
+- Rows: `34`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_026.json`
+
+- ID range: `851-884`
+- Rows: `34`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_027.json`
+
+- ID range: `885-918`
+- Rows: `34`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_028.json`
+
+- ID range: `919-952`
+- Rows: `34`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_029.json`
+
+- ID range: `953-986`
+- Rows: `34`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Completed: `duas_030.json`
+
+- ID range: `987-1001`
+- Rows: `15`
+- Completed on: `2026-08-28`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: kept in English from `dua_main_en.sqlite`
+- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+
+### Review: categories & subcategories (2026-08-28)
+
+- Checked all 44 category names and 118 subcategory names against `dua_main_en.sqlite` and the Bengali source.
+- Frozen fields intact: `icon`, `dua_count`, `subcat_count`, `id`, `cat_id` unchanged.
+- Term consistency with the translated duas — fixed:
+  - `シャイターン` -> `悪魔` (cat 20, subcat 63): the duas use `悪魔` for Satan.
+  - `ルクー` -> `ルクーゥ` (subcats 33-35): the duas use `ルクーゥ（立礼）`.
+  - `サジダ` -> `スジュード` for the act of prostration (subcats 36-37); `サジダの節` kept as the verse term (subcat 38, act -> `平伏`).
+  - dua id 646 name `業火からの救い` -> `地獄からの救い` (its body and the Arabic are جهنم / Jahannam).
+- Wording clarified:
+  - cat 19 `犠牲祭の供犠` -> `犠牲の供物（クルバーニー）` (removed the doubled 犠牲).
+  - cat 27 `非難と善意の祈り` -> `非難・称賛と幸いを願う祈り` (the old label did not parse).
+- Note: cat 2 `ズィクルの徳` correctly follows the Bengali (`যিকিরের ফযীলত`); the English label "Dua's Excellence" is a source error and was not copied.
+- Verification: JSON valid, rebuild passed, SQLite integrity `ok`, row counts unchanged (44 / 118 / 1001).
+
+### Review: main category titles (2026-08-28)
+
+- Improved all titles in `categories_001.json`, `ruqyah_categories_001.json`, and `sections_001.json`.
+- Translated/improved field: `name`
+- Frozen fields intact:
+  - `categories`: `id`, `icon`, `dua_count`, `subcat_count`
+  - `ruqyah_categories`: `id`, `type`, `icon`
+  - `sections`: `id`, `book_id`
+- Verification: JSON valid, no Bengali in title fields, row counts unchanged (44 / 15 / 21), rebuild passed, SQLite integrity `ok`.
+
+### Completed: `ruqyah_instants_001.json`
+
+- Path: `dua_main_ja_planned_json/tables/ruqyah_instants/ruqyah_instants_001.json`
+- ID range: `1-31`
+- Rows: `31`
+- Completed on: `2026-08-30`
+- Status: `pending` -> `complete`
+- Translated fields: `topic_name`, `name`, `content`, `translation`
+- Source: translated from `dua_main_en.sqlite` (`ruqyah_instants`, ids 1-31); Bengali used only to resolve ambiguity
+- References: not translated; English values kept as-is from `dua_main_en.sqlite`
+- Transliteration: unchanged (matches `dua_main_en.sqlite` exactly)
+- Frozen fields intact: `id`, `topic_id`, `uthmani`, `transliteration`, `reference`, `cat_id`, `subcat_id`, `audio`
+- Naming convention set for this table: source labels localised in katakana with ASCII numerals
+  (`Al-Fatiha 1:1-7` -> `アル・ファーティハ 1:1-7`, `Abu Dawud : 775` -> `アブー・ダーウード: 775`),
+  matching how the Bengali edition localises the same field
+- Topic names: `From Quran` -> `クルアーンより`, `From Sunnah` -> `スンナより`
+- Term consistency with the translated duas:
+  - `ルキヤ` for ruqyah, `アッラー` / `クルアーン` in katakana
+  - `完全なる御言葉` for Allah's perfect words
+  - `呪われた悪魔` for Satan the outcast, `邪視` for the envious eye
+  - Quran passages reuse the wording already used in `duas` for the same ayat
+    (Al-Fatiha, Al-Baqarah 2:1-5, 2:163-164, 2:255, 2:284-286, Yusuf 12:64, Al-Kafirun)
+- Verification: structure check passed (row count 31, key order, frozen fields, nullness),
+  every `reference` ASCII English, rebuild passed, SQLite integrity `ok`
 
 ### Completed: `ruqyah_instants_002.json`
 
@@ -335,72 +606,57 @@ For metadata, use this meaning:
 
 ### Review note: `ruqyah_instants_002-010.json`
 
-- Qur'anic wording was checked against Saeed Sato's modern Japanese rendering and polished to match the database's calm, readable devotional style.
-- Exact Arabic passages already translated in the Japanese workspace reuse the established wording.
-- Source inconsistencies were resolved from the Arabic and verse title: ID `98` is Al-Mulk 67:1-4, and ID `184` is Al-Ahzab 33:70-71.
+- Qur'anic wording was checked against Saeed Sato's modern Japanese rendering and polished to match this database's calm, readable devotional style.
+- Exact Arabic passages already translated elsewhere in the Japanese workspace reuse the established wording.
+- Source inconsistencies were resolved by following each row's Arabic text and verse title: ID `98` contains Al-Mulk 67:1-4 (not the extra verse present in the English translation), and ID `184` contains Al-Ahzab 33:70-71 (not the unrelated English translation text).
 
-### Completed: `ruqyah_details_001.json`
+### Completed: `tables/ruqyah_details/ruqyah_details_001.json` – `ruqyah_details_010.json`
 
-- ID range: `1-40`
-- Rows: `40`
-- Completed on: `2026-09-05`
+- ID range: `1-200` (10 chunks of 20 rows)
+- Rows: `200`
+- Completed on: `2026-09-08`
 - Translated fields: `topic_name`, `text`
-- Source: English rows from `dua_main_en.sqlite`
-- References: inline citations kept in English; numbers unchanged
-- Verification: JSON valid, Arabic and HTML structure unchanged, frozen fields and nullness intact, no Bengali in translated fields, rebuild passed, SQLite integrity `ok`
+- References: kept in English; inline hadith citations left in ASCII English form
+- Note: the completed Japanese text had been overwritten when `rechunk_planned_json.py` regenerated these chunks from English on `2026-08-30`. It was restored from the committed 40-row chunks and re-laid out into the current 20-row chunk layout. Arabic `<ar>` blocks, HTML tags and hadith numbers untouched.
+- Verification: JSON valid, 200/200 rows contain Japanese, frozen fields unchanged, rebuild passed, SQLite integrity `ok`
 
-### Completed: `ruqyah_details_002-005.json`
+### Completed: `tables/ruqyah_subcategories/ruqyah_subcategories_001.json`
 
-- ID range: `41-200`
-- Rows: `160` (`40` per file)
-- Completed on: `2026-09-05`
-- Translated fields: `topic_name`, `text`
-- Source: English rows from `dua_main_en.sqlite`
-- References: inline citation details and numbers preserved; names transliterated where needed for natural Japanese
-- Editorial standard: professionally polished, calm and respectful literary Japanese; Islamic terminology standardized throughout
-- Verification: JSON valid, every HTML tag sequence and Arabic passage exactly preserved, frozen fields and nullness intact, Japanese present in every non-null translated field, no Bengali remains, rebuild passed, SQLite integrity `ok`
+- ID range: `1-163`
+- Rows: `163`
+- Completed on: `2026-09-08`
+- Translated fields: `name`
+- References: none in this table
+- Note: translated from the English source. Terminology aligned with `ruqyah_categories`: ルキヤ, ジン, シフル（魔術）, 邪視（アイン）, ラーキー, ワスワス, ヒジャーマ, タウィーズ.
+- Verification: JSON valid, 163/163 rows in Japanese, `id`/`type`/`cat_id` unchanged, rebuild passed, SQLite integrity `ok`
 
-Run this after each completed chunk:
+### Completed: `tables/ruqyah_videos/ruqyah_videos_001.json`
 
-```bash
-cd /Users/mdabdurrahman/Desktop/Database/Dua/dua_main_ja_planned_json
-python3 rebuild_japanese_from_json.py
-```
+- ID range: `1-74`
+- Rows: `74`
+- Completed on: `2026-09-08`
+- Translated fields: `name`, `author`
+- References: none in this table
+- Note: `dua_main_en.sqlite` has no matching rows for this table — it holds a different 40-row set of English-language videos, while these 74 rows are the Bengali-language videos whose links are in the workspace. Per the README rule, these were translated from the Bengali source. Author names are transliterated to katakana. `link`, `link_id`, `cat_id`, `subcat_id` untouched.
+- Open data issue (not a translation issue): `subcat_id` values here are `105-117`, which come from the Bengali `ruqyah_subcategories` table. The workspace's `ruqyah_subcategories` is the 163-row English set, whose VIDEO subcategories are `150-163`. These video rows therefore do not link to a matching subcategory. Left as-is because `subcat_id` is a frozen field.
+- Verification: JSON valid, 74/74 rows in Japanese, frozen fields unchanged, rebuild passed, SQLite integrity `ok`
 
-## Final Verification Checklist
+### Completed: `tables/drawer_items/drawer_items_001.json`
 
-- JSON file is valid.
-- No Bengali remains in translated top-level fields.
-- `reference` is English.
-- Arabic fields are unchanged.
-- `groups` is unchanged.
-- IDs and category links are unchanged.
-- Rebuild script runs without error.
-- SQLite integrity check returns `ok`.
+- ID range: `19-24`
+- Rows: `6`
+- Completed on: `2026-09-08`
+- Translated fields: `title`, `hero_title1`, `hero_title2`, `content`
+- References: none in this table
+- Note: translated from the English `drawer_items` rows, matched by `item_type` (English IDs are `1-6`, these are `19-24`). The `content` field is a JSON string; its `sections` array keeps the original order, section types and `spacer` heights — only `text`, `title`, `header` and `details` values were translated. Sections present only in the Bengali source (the Arabic-titled reference works in the credits list) were translated from the Bengali. Arabic book titles left in Arabic script.
+- Verification: JSON valid, 6/6 rows in Japanese, `item_type`/`display_order`/timestamps unchanged, content JSON re-parses with identical section structure, rebuild passed, SQLite integrity `ok`
 
-### Completed: `duas_004.json`
+## Remaining Work
 
-- ID range: `103-136`
-- Rows: `34`
-- Completed on: `2026-08-27`
-- Translated fields: `name`, `content`, `translation`, `note`
-- References: kept in English from `dua_main_en.sqlite`
-- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+| Table | Rows | Status |
+|---|---|---|
+| `tables/books/books_001.json` | 3 | not translated — book tables excluded by instruction |
+| `tables/book_details/book_details_001.json` | 86 | not translated — book tables excluded by instruction |
 
-### Completed: `duas_007.json`
-
-- ID range: `205-238`
-- Rows: `34`
-- Completed on: `2026-08-27`
-- Translated fields: `name`, `content`, `translation`, `note`
-- References: kept in English from `dua_main_en.sqlite`
-- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
-
-### Completed: `duas_008.json`
-
-- ID range: `239-272`
-- Rows: `34`
-- Completed on: `2026-08-27`
-- Translated fields: `name`, `content`, `translation`, `note`
-- References: kept in English from `dua_main_en.sqlite`
-- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+Every other table in the Japanese workspace is fully translated. `tables/ids` holds only numeric
+ID pairs and `tables/drawer_item_actions` is empty, so neither has anything to translate.
