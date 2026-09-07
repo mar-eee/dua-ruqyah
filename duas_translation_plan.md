@@ -433,3 +433,25 @@ python3 rebuild_japanese_from_json.py
 - References: English, not translated; unchanged from review backup and matched English with existing README normalization; transliteration unchanged and matched verbatim
 - Validation: JSON valid; row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML and URLs unchanged; no Bengali in editable fields; protected `groups` retained verbatim; previously documented source anomalies preserved
 - Rebuild: equivalent Node.js SQLite rebuild (Python unavailable); integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON
+
+### Indonesian completed: `dua_main_id_planned_json/tables/duas/duas_016.json`
+
+- Status: `pending` → `complete` (Indonesian)
+- ID range: `511-544`; rows: `34`; completed on: `2026-09-07`
+- Translated fields: `name`, `content`, `translation`, `note`
+- Source matching: all 34 exact English IDs matched; no missing rows; Bengali consulted only for ambiguities at IDs `516`, `519`
+- References: English, not translated; copied from English DB with README spacing/punctuation normalization at IDs `511`, `516`, `535`, `543`; all numbers preserved
+- Transliteration: copied verbatim from English DB
+- Review: every translated field checked for meaning, completeness, natural Indonesian and terminology; source quirks retained at IDs `511` (title/content), `520` (clouds wording), `535` (healing statement), `544` (incomplete introduction)
+- Validation: JSON valid, UTF-8, 2-space indentation, trailing newline; row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML and URLs unchanged; no Bengali in editable fields; protected `groups` retained verbatim
+- Rebuild: equivalent Node.js SQLite rebuild (Python unavailable), using unchanged Indonesian schema metadata; integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON
+
+### Indonesian independent recheck: `dua_main_id_planned_json/tables/duas/duas_016.json`
+
+- Status: `complete` (independent recheck complete)
+- ID range: `511-544`; rows: `34`; reviewed on: `2026-09-07`
+- Every translated field (`name`, `content`, `translation`, `note`) reviewed record by record against its exact English row
+- Corrected IDs: `511`, `533`, `535`, `538`, `541`, `543`, `544`; improved action descriptions, sentence flow, conditional assurance and survival wording
+- References: English, not translated; unchanged from review backup and matched English with existing README normalization; transliteration unchanged and matched verbatim
+- Validation: JSON valid; row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML and URLs unchanged; no Bengali in editable fields; protected `groups` retained verbatim; previously documented source quirks preserved
+- Rebuild: equivalent Node.js SQLite rebuild (Python unavailable); integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON
