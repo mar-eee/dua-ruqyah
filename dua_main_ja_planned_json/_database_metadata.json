@@ -958,6 +958,60 @@
       "updated_at": "2026-09-07",
       "verification": "Second-pass review completed; all exact English IDs matched; JSON structure, key order, nullness, protected fields and HTML preserved; no Bengali in translated top-level fields; Node.js equivalent of Python rebuild passed; SQLite integrity ok; all 15 tables / 3082 rows matched workspace JSON.",
       "note": "Only the Indonesian duas_009.json translation chunk was edited. Protected groups remain verbatim, including nested Bengali. Python executable unavailable; rebuild used Node.js built-in SQLite with the existing schema metadata."
+    },
+    "dua_main_id_planned_json/tables/duas/duas_010.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "Copied from dua_main_en.sqlite and kept in English; README formatting normalized at IDs 332, 336, 338, 339; honorific rendered in ASCII English at ID 340. All reference numbers preserved.",
+      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "307-340",
+      "updated_at": "2026-09-07",
+      "verification": "Second-pass language review completed; all exact English IDs matched; JSON structure, key order, nullness, protected fields and HTML preserved; no Bengali in translated top-level fields; Node.js equivalent of Python rebuild passed; SQLite integrity ok; all 15 tables / 3082 rows matched workspace JSON.",
+      "note": "Only the Indonesian duas_010.json translation chunk was edited. Protected groups remain verbatim, including nested Bengali. ID 339 note remains null as required despite a non-null English note. Source titles retained, including travel-title/content inconsistencies at IDs 319, 323 and 324. Python executable unavailable; rebuild used Node.js built-in SQLite with unchanged Indonesian schema metadata.",
+      "reviewed_at": "2026-09-07",
+      "independent_recheck": {
+        "status": "complete",
+        "rows": 34,
+        "id_range": "307-340",
+        "fields": [
+          "name",
+          "content",
+          "translation",
+          "note"
+        ],
+        "corrected_ids": [
+          310,
+          311,
+          315,
+          321,
+          327,
+          328,
+          329,
+          338,
+          339,
+          340
+        ],
+        "reference_status": "English, not translated; references and transliteration unchanged from pre-review backup; transliteration matched verbatim to English DB; reference numbers matched English DB.",
+        "verification": "Every translated field reviewed against the exact English row. Structure, field order, nullness, all protected fields, HTML and ASCII references passed; no Bengali in editable fields. Equivalent Node.js rebuild passed; integrity ok; all 15 tables / 3082 rows verified against workspace JSON.",
+        "source_notes": "Followed the mandated English meanings at IDs 315 (adultery), 321 (safety), and 329 (hearing praise). Existing source title/content inconsistencies retained. ID 339 note remains null. Protected groups, including nested Bengali, unchanged."
+      }
     }
   }
 }

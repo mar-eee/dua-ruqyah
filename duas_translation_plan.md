@@ -298,3 +298,28 @@ python3 rebuild_japanese_from_json.py
 - Source matching: all 34 IDs matched; no missing English rows
 - Verification: second-pass language review completed; JSON valid; record and key order, null values, protected fields and HTML unchanged; no Bengali in translated top-level fields; protected `groups` retained verbatim, including nested Bengali
 - Rebuild: Python executable unavailable; equivalent Node.js SQLite rebuild completed using unchanged Indonesian schema metadata; integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON
+
+### Indonesian completed: `dua_main_id_planned_json/tables/duas/duas_010.json`
+
+- Status: `pending` → `complete` (Indonesian; existing Japanese completion preserved)
+- ID range: `307-340`
+- Rows: `34`
+- Completed on: `2026-09-07`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: English, not translated; copied from `dua_main_en.sqlite`, with README formatting normalization at IDs `332`, `336`, `338`, `339` and ASCII English honorific at ID `340`; all numbers preserved
+- Transliteration: copied verbatim from `dua_main_en.sqlite`
+- Source matching: all 34 IDs matched; no missing English rows; ID `339` note kept `null` as required despite a non-null English note
+- Source review: corrected awkward English meanings in Indonesian, including IDs `315`, `321`, `329`; retained source titles, including travel-title/content inconsistencies at IDs `319`, `323`, `324`
+- Verification: second-pass language review completed; JSON valid with 2-space indentation and trailing newline; record and key order, null values, protected fields and HTML unchanged; no Bengali in translated top-level fields; protected `groups` retained verbatim, including nested Bengali
+- Rebuild: Python executable unavailable; equivalent Node.js SQLite rebuild completed using unchanged Indonesian schema metadata; integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON
+
+### Indonesian independent recheck: `dua_main_id_planned_json/tables/duas/duas_010.json`
+
+- Status: `complete` (independent recheck complete)
+- ID range: `307-340`; rows: `34`; reviewed on: `2026-09-07`
+- Every translated field (`name`, `content`, `translation`, `note`) reviewed record by record against the exact matching English database row
+- Corrected IDs: `310`, `311`, `315`, `321`, `327`, `328`, `329`, `338`, `339`, `340`; improved source fidelity, wording, completeness and quotation punctuation
+- Source fidelity: English meanings retained for ID `315` (adultery), ID `321` (safety) and ID `329` (hearing praise), superseding the prior interpretations; existing source title/content inconsistencies retained
+- References: English, not translated; unchanged from pre-review backup; all reference numbers matched the English database; transliterations unchanged and matched verbatim
+- Validation: JSON valid; record/key order, null values, protected fields, Arabic, audio, category/subcategory IDs and HTML unchanged; no Bengali in editable fields; protected `groups` retained verbatim; ID `339` note remains `null`
+- Rebuild: equivalent Node.js SQLite rebuild (Python unavailable); integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON; temporary files removed after verification
