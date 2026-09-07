@@ -122,7 +122,7 @@ For metadata, use this meaning:
 | `duas_015.json` | 477-510 | 34 | pending |  |
 | `duas_016.json` | 511-544 | 34 | pending |  |
 | `duas_017.json` | 545-578 | 34 | complete | Indonesian complete; references kept English |
-| `duas_018.json` | 579-612 | 34 | pending |  |
+| `duas_018.json` | 579-612 | 34 | complete | Indonesian complete; references kept English |
 | `duas_019.json` | 613-646 | 34 | pending |  |
 | `duas_020.json` | 647-680 | 34 | pending |  |
 | `duas_021.json` | 681-714 | 34 | pending |  |
@@ -476,3 +476,25 @@ python3 rebuild_japanese_from_json.py
 - References: English, not translated; unchanged from review backup with existing README normalization at IDs `556`, `558`, `569`; transliteration unchanged and matched verbatim
 - Validation and rebuild: Every translated field reviewed against its exact English row. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nulls, all protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, verse numbering and Bengali checks passed. References and transliteration unchanged from review backup and matched English with existing reference formatting normalization. Equivalent Node.js SQLite rebuild passed; reopened database integrity ok; all 15 tables / 3082 rows, schema, sequences and pragmas verified.
 - Previously documented English source quirks retained; no other translation file changed; Python unavailable, so the equivalent Node.js SQLite rebuild used unchanged Indonesian schema metadata
+
+### Indonesian completed: `dua_main_id_planned_json/tables/duas/duas_018.json`
+
+- Status: `pending` → `complete` (Indonesian)
+- ID range: `579-612`; rows: `34`; completed on: `2026-09-07`
+- Translated fields: `name`, `translation`; `content` and `note` remain null throughout
+- Source matching: all 34 exact English IDs matched; no missing English rows
+- References: English, not translated; copied from dua_main_en.sqlite with colon-spacing normalization where needed and removal of the extra colon after Surah Nisa at ID 579; all numbers preserved. Normalized IDs: 579, 581, 584, 586, 587, 588, 589, 590, 594, 595, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612.
+- Transliteration: copied verbatim from English DB
+- Review: Bengali and protected Arabic consulted only to check ambiguities at IDs 579, 586, 590, 596 and 607; English remained the translation source. Retained English source wording for great stars (582), lowland (586), and place for rites (607). Protected groups retained verbatim. Python unavailable; equivalent Node.js SQLite rebuild used unchanged Indonesian schema metadata.
+- Validation and rebuild: All 34 exact English IDs matched; every name and translation reviewed record by record for meaning, completeness, natural Indonesian, spelling, grammar and consistent terminology. Content and note remain null. JSON valid, UTF-8, 2-space indent, trailing newline; row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs and verse numbers preserved; no Bengali in editable fields; references ASCII English. Equivalent Node.js rebuild passed; reopened database integrity ok; all 15 tables / 3082 rows verified against JSON; schema, sequences and pragmas verified. Hashes confirm no other translation file changed.
+
+### Indonesian independent recheck: `dua_main_id_planned_json/tables/duas/duas_018.json`
+
+- Status: `complete` (independent recheck complete)
+- ID range: `579-612`; rows: `34`; reviewed on: `2026-09-07`
+- Reviewed fields: `name`, `translation`; verified `content` and `note` remain null
+- Corrected IDs: `579`, `583`, `589`, `593`, `605`
+- References: English, not translated; unchanged from review backup with existing README normalization; transliteration unchanged and matched verbatim
+- Review: Corrected disdain wording (579), independence from a protector (583), complete loss (589), graciously overlooking faults (593), and descendants establishing prayer (605). Previously documented English source quirks retained. Python unavailable; Node.js SQLite rebuild used unchanged Indonesian schema metadata.
+- Validation and rebuild: Every translated name and translation reviewed record by record against its exact English row; content and note remain null. JSON valid, UTF-8, 2-space indent, trailing newline; row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs and verse numbering preserved; no Bengali in editable fields. References unchanged from review backup and matched English with existing README normalization; transliteration unchanged and matched verbatim. Equivalent Node.js SQLite rebuild passed; reopened integrity ok; all 15 tables / 3082 rows, schema, sequences and pragmas verified.
+- Scope: hashes confirm no other translation file changed
