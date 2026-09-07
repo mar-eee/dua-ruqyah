@@ -931,6 +931,33 @@
       "id_range": "1-34",
       "updated_at": "2026-08-28",
       "note": "Translated all top-level human-readable fields into Indonesian following README.md; Arabic and groups were preserved."
+    },
+    "dua_main_id_planned_json/tables/duas/duas_009.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "Copied from dua_main_en.sqlite, kept in English, with README spacing normalization and ASCII apostrophe at ID 304; all reference numbers preserved.",
+      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "273-306",
+      "updated_at": "2026-09-07",
+      "verification": "Second-pass review completed; all exact English IDs matched; JSON structure, key order, nullness, protected fields and HTML preserved; no Bengali in translated top-level fields; Node.js equivalent of Python rebuild passed; SQLite integrity ok; all 15 tables / 3082 rows matched workspace JSON.",
+      "note": "Only the Indonesian duas_009.json translation chunk was edited. Protected groups remain verbatim, including nested Bengali. Python executable unavailable; rebuild used Node.js built-in SQLite with the existing schema metadata."
     }
   }
 }

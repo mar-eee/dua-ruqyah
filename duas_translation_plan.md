@@ -113,7 +113,7 @@ For metadata, use this meaning:
 | `duas_006.json` | 171-204 | 34 | complete | translated; references kept English; transliteration copied from EN |
 | `duas_007.json` | 205-238 | 34 | complete | translated; references kept English |
 | `duas_008.json` | 239-272 | 34 | complete | translated; references kept English |
-| `duas_009.json` | 273-306 | 34 | complete | translated; references kept English; transliteration copied from EN |
+| `duas_009.json` | 273-306 | 34 | complete | Japanese complete; Indonesian complete 2026-09-07; references kept English; transliteration copied from EN |
 | `duas_010.json` | 307-340 | 34 | complete | translated; references kept English; transliteration copied from EN |
 | `duas_011.json` | 341-374 | 34 | complete | translated; references kept English; transliteration copied from EN |
 | `duas_012.json` | 375-408 | 34 | complete | translated; references kept English; transliteration copied from EN |
@@ -285,3 +285,16 @@ python3 rebuild_japanese_from_json.py
 - Transliteration: copied verbatim from `dua_main_en.sqlite`
 - Source exception: ID `268` has `null` English `content` and `note`; the existing non-null Bengali values were translated to preserve nullness and complete the record
 - Verification: second-pass review completed; JSON valid, all IDs matched exactly, no Bengali in translated top-level fields, protected fields and record order unchanged, Node.js rebuild passed, SQLite integrity `ok`
+
+### Indonesian completed: `dua_main_id_planned_json/tables/duas/duas_009.json`
+
+- Status: `pending` → `complete` (Indonesian; existing Japanese completion preserved)
+- ID range: `273-306`
+- Rows: `34`
+- Completed on: `2026-09-07`
+- Translated fields: `name`, `content`, `translation`, `note`
+- References: English, not translated; copied from `dua_main_en.sqlite`, with README spacing normalization and ASCII apostrophe at ID `304`; all numbers preserved
+- Transliteration: copied verbatim from `dua_main_en.sqlite`
+- Source matching: all 34 IDs matched; no missing English rows
+- Verification: second-pass language review completed; JSON valid; record and key order, null values, protected fields and HTML unchanged; no Bengali in translated top-level fields; protected `groups` retained verbatim, including nested Bengali
+- Rebuild: Python executable unavailable; equivalent Node.js SQLite rebuild completed using unchanged Indonesian schema metadata; integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON
