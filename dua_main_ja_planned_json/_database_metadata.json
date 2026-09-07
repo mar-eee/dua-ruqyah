@@ -1215,6 +1215,54 @@
         "verification": "Every translated field independently reviewed against exact English row. JSON, row/key order, nulls, all protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs and Bengali checks passed. Equivalent Node.js rebuild passed; integrity ok; all 15 tables / 3082 rows verified against JSON.",
         "note": "Previously documented source quirks preserved. Protected groups, including nested Bengali, unchanged. Python unavailable; Node.js SQLite rebuild used unchanged Indonesian schema metadata."
       }
+    },
+    "dua_main_id_planned_json/tables/duas/duas_015.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "Copied from dua_main_en.sqlite and kept in English; README formatting normalized at IDs 480, 498, 505, 506; all numbers preserved.",
+      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "477-510",
+      "updated_at": "2026-09-07",
+      "verification": "All exact English IDs matched; every translated field reviewed; JSON valid, UTF-8, 2-space indent, trailing newline; row/key order, nulls, protected fields, HTML and URLs preserved; no Bengali in editable fields; references ASCII English. Equivalent Node.js rebuild passed; integrity ok; all 15 tables / 3082 rows verified against JSON.",
+      "note": "Only Indonesian duas_015.json translated. Protected groups retained verbatim, including nested Bengali. Bengali consulted for ambiguities at IDs 486, 497, 505, 509. English anomalies retained: ID 479 title says praiser, ID 483 sacrificial reward, ID 494 after-meeting timing, ID 502 repeated drinking wording. Long note at ID 496 translated in full, including inline English citations. Python unavailable; Node.js SQLite rebuild used unchanged Indonesian schema metadata.",
+      "independent_recheck": {
+        "status": "complete",
+        "reviewed_at": "2026-09-07",
+        "id_range": "477-510",
+        "rows": 34,
+        "reviewed_fields": [
+          "name",
+          "content",
+          "translation",
+          "note"
+        ],
+        "corrected_ids": [
+          485,
+          491,
+          496,
+          504
+        ],
+        "reference_status": "English, not translated; references unchanged from review backup and matched English with existing README normalization; transliteration unchanged and matched verbatim.",
+        "verification": "Every translated field independently reviewed against exact English row, including the full note at ID 496. JSON, row/key order, nulls, all protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs and Bengali checks passed. Equivalent Node.js rebuild passed; integrity ok; all 15 tables / 3082 rows verified against JSON.",
+        "note": "Previously documented source anomalies retained. Protected groups, including nested Bengali, unchanged. Python unavailable; Node.js SQLite rebuild used unchanged Indonesian schema metadata."
+      }
     }
   }
 }

@@ -411,3 +411,25 @@ python3 rebuild_japanese_from_json.py
 - References: English, not translated; unchanged from review backup and matched English with existing colon normalization at ID `475`; transliteration unchanged and matched verbatim
 - Validation: JSON valid; row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML and URLs unchanged; no Bengali in editable fields; protected `groups` retained verbatim; previously documented source quirks preserved
 - Rebuild: equivalent Node.js SQLite rebuild (Python unavailable); integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON
+
+### Indonesian completed: `dua_main_id_planned_json/tables/duas/duas_015.json`
+
+- Status: `pending` → `complete` (Indonesian)
+- ID range: `477-510`; rows: `34`; completed on: `2026-09-07`
+- Translated fields: `name`, `content`, `translation`, `note`
+- Source matching: all 34 exact English IDs matched; no missing rows; Bengali consulted only for ambiguities at IDs `486`, `497`, `505`, `509`
+- References: English, not translated; copied from English DB with README formatting normalization at IDs `480`, `498`, `505`, `506`; all numbers preserved; inline citations in ID `496` kept English
+- Transliteration: copied verbatim from English DB
+- Review: every translated field checked for meaning, completeness, natural Indonesian and terminology; ID `496` long note translated in full; English anomalies retained at IDs `479` (praiser title), `483` (sacrificial reward), `494` (after-meeting timing), `502` (repeated drinking wording)
+- Validation: JSON valid, UTF-8, 2-space indentation, trailing newline; row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML and URLs unchanged; no Bengali in editable fields; protected `groups` retained verbatim
+- Rebuild: equivalent Node.js SQLite rebuild (Python unavailable), using unchanged Indonesian schema metadata; integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON
+
+### Indonesian independent recheck: `dua_main_id_planned_json/tables/duas/duas_015.json`
+
+- Status: `complete` (independent recheck complete)
+- ID range: `477-510`; rows: `34`; reviewed on: `2026-09-07`
+- Every translated field (`name`, `content`, `translation`, `note`) reviewed record by record against its exact English row, including the complete note at ID `496`
+- Corrected IDs: `485`, `491`, `496`, `504`; clarified the angels description, release from a burden, bearing calamities, and the request for more milk
+- References: English, not translated; unchanged from review backup and matched English with existing README normalization; transliteration unchanged and matched verbatim
+- Validation: JSON valid; row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML and URLs unchanged; no Bengali in editable fields; protected `groups` retained verbatim; previously documented source anomalies preserved
+- Rebuild: equivalent Node.js SQLite rebuild (Python unavailable); integrity `ok`; all 15 tables / 3082 rows verified against workspace JSON
