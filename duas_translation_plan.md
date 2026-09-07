@@ -279,7 +279,9 @@ python3 rebuild_japanese_from_json.py
 
 - ID range: `239-272`
 - Rows: `34`
-- Completed on: `2026-08-27`
+- Completed on: `2026-09-07`
 - Translated fields: `name`, `content`, `translation`, `note`
-- References: kept in English from `dua_main_en.sqlite`
-- Verification: JSON valid, no Bengali in translated top-level fields, rebuild passed, SQLite integrity `ok`
+- References: copied from `dua_main_en.sqlite`, kept in English, and normalized to README formatting
+- Transliteration: copied verbatim from `dua_main_en.sqlite`
+- Source exception: ID `268` has `null` English `content` and `note`; the existing non-null Bengali values were translated to preserve nullness and complete the record
+- Verification: second-pass review completed; JSON valid, all IDs matched exactly, no Bengali in translated top-level fields, protected fields and record order unchanged, Node.js rebuild passed, SQLite integrity `ok`
