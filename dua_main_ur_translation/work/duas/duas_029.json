@@ -1,0 +1,620 @@
+{
+  "table": "duas",
+  "chunk": "duas_029.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 19,
+  "id_range": "398-416",
+  "source_chars": 5975,
+  "items": [
+    {
+      "key": [
+        398
+      ],
+      "id": 398,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 398,
+        "groups": null,
+        "uthmani": "رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ ﴿١٢٧﴾ رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَا أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا ۖ إِنَّكَ أَنتَ التَّوَّابُ الرَّحِيمُ ﴿١٢٨﴾",
+        "indopak": "رَبَّنَا تَقَبَّلْ مِنَّا ۖ اِنَّكَ اَنْتَ السَّمِيْعُ الْعَلِيْمُ ﴿١٢٧﴾ رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَا اُمَّةً مُّسْلِمَةً لَّكَ وَاَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا ۖ اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِيْمُ ﴿١٢٨﴾",
+        "clean": "ربنا تقبل منا  انك انت السميع العليم ١٢٧ ربنا واجعلنا مسلمين لك ومن ذريتنا امه مسلمه لك وارنا مناسكنا وتب علينا  انك انت التواب الرحيم ١٢٨",
+        "transliteration": null,
+        "reference": "Surah Al-Baqarah 2:127-128",
+        "audio": 398,
+        "cat_id": 23,
+        "subcat_id": 75
+      },
+      "source": {
+        "name": "Prayers for forgiveness, loyalty and acceptance of deeds",
+        "content": null,
+        "translation": "(127) Our Lord, accept [this] from us. Indeed You are the Hearing, the Knowing.(128) Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites and accept our repentance. Indeed, You are the Accepting of repentance, the Merciful.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        399
+      ],
+      "id": 399,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 399,
+        "groups": null,
+        "uthmani": "رَبِّ هَبْ لِي مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ الدُّعَاءِ",
+        "indopak": "رَبِّ هَبْ لِىْ مِن لَّدُنْكَ ذُرِّيَّةً طَيِّبَةً ۖ اِنَّكَ سَمِيْعُ الدُّعَاءِ",
+        "clean": "رب هب لي من لدنك ذريه طيبه  انك سميع الدعاء",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:38",
+        "audio": 399,
+        "cat_id": 23,
+        "subcat_id": 75
+      },
+      "source": {
+        "name": "Dua of child gain",
+        "content": null,
+        "translation": "My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        400
+      ],
+      "id": 400,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 400,
+        "groups": null,
+        "uthmani": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِن ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ ﴿٤٠﴾ رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ ﴿٤١﴾",
+        "indopak": "رَبِّ اجْعَلْنِىْ مُقِيْمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِىْ ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ ﴿٤٠﴾ رَبَّنَا اغْفِرْ لِىْ وَلِوَالِدَيَّ وَلِلْمُؤْمِنِيْنَ يَوْمَ يَقُوْمُ الْحِسَابُ ﴿٤١﴾",
+        "clean": "رب اجعلني مقيم الصلاه ومن ذريتي  ربنا وتقبل دعاء ٤٠ ربنا اغفر لي ولوالدي وللمءمنين يوم يقوم الحساب ٤١",
+        "transliteration": null,
+        "reference": "Surah Ibrahim 14:40-41",
+        "audio": 400,
+        "cat_id": 23,
+        "subcat_id": 75
+      },
+      "source": {
+        "name": "Dua for seeking forgiveness and establisher of prayer",
+        "content": null,
+        "translation": "My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication.(40) Our Lord, forgive me and my parents and the believers the Day the account is established.(41)",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        401
+      ],
+      "id": 401,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 401,
+        "groups": null,
+        "uthmani": "رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+        "indopak": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِىْ صَغِيْرًا",
+        "clean": "رب ارحمهما كما ربياني صغيرا",
+        "transliteration": null,
+        "reference": "Sura Isra 17:24",
+        "audio": 401,
+        "cat_id": 23,
+        "subcat_id": 75
+      },
+      "source": {
+        "name": "Dua for parents",
+        "content": null,
+        "translation": "My Lord, have mercy upon them as they brought me up [when I was] small.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        402
+      ],
+      "id": 402,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 402,
+        "groups": null,
+        "uthmani": "رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+        "indopak": "رَبَّنَا اٰتِنَا مِنْ لَّدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ اَمْرِنَا رَشَدًا",
+        "clean": "ربنا اتنا من لدنك رحمه وهيء لنا من امرنا رشدا",
+        "transliteration": null,
+        "reference": "Surah Kahf 18:10",
+        "audio": 402,
+        "cat_id": 23,
+        "subcat_id": 75
+      },
+      "source": {
+        "name": "Asking for correcting affairs and mercy",
+        "content": null,
+        "translation": "Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        403
+      ],
+      "id": 403,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 403,
+        "groups": null,
+        "uthmani": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+        "indopak": "رَبَّنَا هَبْ لَنَا مِنْ اَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ اَعْيُنٍ وَّاجْعَلْنَا لِلْمُتَّقِيْنَ اِمَامًا",
+        "clean": "ربنا هب لنا من ازواجنا وذرياتنا قره اعين واجعلنا للمتقين اماما",
+        "transliteration": null,
+        "reference": "Surah Furqan 25:74",
+        "audio": 403,
+        "cat_id": 23,
+        "subcat_id": 75
+      },
+      "source": {
+        "name": "Asking coolness of eyes from family and becoming example for the righteous",
+        "content": null,
+        "translation": "Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        404
+      ],
+      "id": 404,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 404,
+        "groups": null,
+        "uthmani": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ",
+        "indopak": "رَبِّ اَوْزِعْنِىْ اَنْ اَشْكُرَ نِعْمَتَكَ الَّتِىْ اَنْعَمْتَ عَلَيَّ وَعَلٰى وَالِدَيَّ وَاَنْ اَعْمَلَ صَالِحًا تَرْضَاهُ وَاَدْخِلْنِىْ بِرَحْمَتِكَ فِىْ عِبَادِكَ الصَّالِحِيْنَ",
+        "clean": "رب اوزعني ان اشكر نعمتك التي انعمت علي وعلي والدي وان اعمل صالحا ترضاه وادخلني برحمتك في عبادك الصالحين",
+        "transliteration": null,
+        "reference": "Surah Naml 27:19",
+        "audio": 404,
+        "cat_id": 23,
+        "subcat_id": 75
+      },
+      "source": {
+        "name": "Manifestation of gratitude and supplication for acceptance of deeds",
+        "content": null,
+        "translation": "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And admit me by Your mercy into [the ranks of] Your righteous servants.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        405
+      ],
+      "id": 405,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 405,
+        "groups": null,
+        "uthmani": "رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ",
+        "indopak": "رَبِّ هَبْ لِىْ مِنَ الصَّالِحِيْنَ",
+        "clean": "رب هب لي من الصالحين",
+        "transliteration": null,
+        "reference": "Surah As-Saffat 37:100",
+        "audio": 405,
+        "cat_id": 23,
+        "subcat_id": 75
+      },
+      "source": {
+        "name": "Dua of child gain",
+        "content": null,
+        "translation": "My Lord, grant me [a child] from among the righteous.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        406
+      ],
+      "id": 406,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 406,
+        "groups": null,
+        "uthmani": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي فِي ذُرِّيَّتِي ۖ إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ",
+        "indopak": "رَبِّ اَوْزِعْنِىْ اَنْ اَشْكُرَ نِعْمَتَكَ الَّتِىْ اَنْعَمْتَ عَلَيَّ وَعَلٰى وَالِدَيَّ وَاَنْ اَعْمَلَ صَالِحًا تَرْضَاهُ وَاَصْلِحْ لِىْ فِىْ ذُرِّيَّتِىْ ۖ اِنِّىْ تُبْتُ اِلَيْكَ وَاِنِّىْ مِنَ الْمُسْلِمِيْنَ",
+        "clean": "رب اوزعني ان اشكر نعمتك التي انعمت علي وعلي والدي وان اعمل صالحا ترضاه واصلح لي في ذريتي  اني تبت اليك واني من المسلمين",
+        "transliteration": null,
+        "reference": "Surah Al-Ahqaf 46:15",
+        "audio": 406,
+        "cat_id": 23,
+        "subcat_id": 75
+      },
+      "source": {
+        "name": "Manifestation of gratitude, supplication for acceptance of deeds and seeking righteous child",
+        "content": null,
+        "translation": "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to work righteousness of which You will approve and make righteous for me my offspring. Indeed, I have repented to You, and indeed, I am of the Muslims.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        407
+      ],
+      "id": 407,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 407,
+        "groups": null,
+        "uthmani": "رَبِّ اجْعَلْ هَـٰذَا الْبَلَدَ آمِنًا وَاجْنُبْنِي وَبَنِيَّ أَن نَّعْبُدَ الْأَصْنَامَ",
+        "indopak": "رَبِّ اجْعَلْ هٰذَا الْبَلَدَ اٰمِنًا وَّاجْنُبْنِىْ وَبَنِيَّ اَن نَّعْبُدَ الْاَصْنَامَ",
+        "clean": "رب اجعل هذا البلد امنا واجنبني وبني ان نعبد الاصنام",
+        "transliteration": null,
+        "reference": "Surah Ibrahim 14:35",
+        "audio": 407,
+        "cat_id": 23,
+        "subcat_id": 75
+      },
+      "source": {
+        "name": "Dua for family security and protection from shirk",
+        "content": null,
+        "translation": "My Lord, make this city [Makkah] secure and keep me and my sons away from worshipping idols.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        408
+      ],
+      "id": 408,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 408,
+        "groups": null,
+        "uthmani": "وَإِنِّي خِفْتُ الْمَوَالِيَ مِن وَرَائِي وَكَانَتِ امْرَأَتِي عَاقِرًا فَهَبْ لِي مِن لَّدُنكَ وَلِيًّا ﴿٥﴾",
+        "indopak": "وَاِنِّىْ خِفْتُ الْمَوَالِيَ مِنْ وَّرَائِىْ وَكَانَتِ امْرَاَتِىْ عَاقِرًا فَهَبْ لِىْ مِنْ لَّدُنْكَ وَلِيًّا ﴿٥﴾",
+        "clean": "واني خفت الموالي من وراءي وكانت امراتي عاقرا فهب لي من لدنك وليا ٥",
+        "transliteration": null,
+        "reference": "Surah Maryam 19:5",
+        "audio": 408,
+        "cat_id": 23,
+        "subcat_id": 75
+      },
+      "source": {
+        "name": "Dua of Infertile Person",
+        "content": null,
+        "translation": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        409
+      ],
+      "id": 409,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 409,
+        "groups": null,
+        "uthmani": "رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ ﴿٧﴾ رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ ۚ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ ﴿٨﴾ وَقِهِمُ السَّيِّئَاتِ ۚ وَمَن تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُ ۚ وَذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ ﴿٩﴾",
+        "indopak": "رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَّعِلْمًا فَاغْفِرْ لِلَّذِيْنَ تَابُوْا وَاتَّبَعُوْا سَبِيْلَكَ وَقِهِمْ عَذَابَ الْجَحِيْمِ ﴿٧﴾ رَبَّنَا وَاَدْخِلْهُمْ جَنَّاتِ عَدْنِ ࣘ  الَّتِىْ وَعَدْتَّهُمْ وَمَنْ صَلَحَ مِنْ اٰبَائِهِمْ وَاَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ ۚ اِنَّكَ اَنْتَ الْعَزِيْزُ الْحَكِيْمُ ﴿٨﴾ وَقِهِمُ السَّيِّئَاتِ ۚ وَمَنْ تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُ ۚ وَذٰلِكَ هُوَ الْفَوْزُ الْعَظِيْمُ ﴿٩﴾",
+        "clean": "ربنا وسعت كل شيء رحمه وعلما فاغفر للذين تابوا واتبعوا سبيلك وقهم عذاب الجحيم ٧ ربنا وادخلهم جنات عدن   التي وعدتهم ومن صلح من اباءهم وازواجهم وذرياتهم  انك انت العزيز الحكيم ٨ وقهم السيءات  ومن تق السيءات يومءذ فقد رحمته  وذلك هو الفوز العظيم ٩",
+        "transliteration": null,
+        "reference": "Surah Ghafir 40:7-9",
+        "audio": 409,
+        "cat_id": 23,
+        "subcat_id": 75
+      },
+      "source": {
+        "name": "Ask for paradise & protection from fire",
+        "content": null,
+        "translation": "Our Lord, You have encompassed all things in mercy and knowledge, so forgive those who have repented and followed Your way and protect them from the punishment of Hellfire.(7) Our Lord, and admit them to gardens of perpetual residence which You have promised them and whoever was righteous among their fathers, their spouses and their offspring. Indeed, it is You who is the Exalted in Might, the Wise.(8) And protect them from the evil consequences [of their deeds]. And he whom You protect from evil consequences that Day - You will have given him mercy. And that is the great attainment.\" (9)",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        410
+      ],
+      "id": 410,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 410,
+        "groups": null,
+        "uthmani": "رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
+        "indopak": "رَبِّ اغْفِرْ لِىْ وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا وَّلِلْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِيْنَ اِلَّا تَبَارًا",
+        "clean": "رب اغفر لي ولوالدي ولمن دخل بيتي مءمنا وللمءمنين والمءمنات ولا تزد الظالمين الا تبارا",
+        "transliteration": null,
+        "reference": "Surah Nooh 71:28",
+        "audio": 410,
+        "cat_id": 23,
+        "subcat_id": 75
+      },
+      "source": {
+        "name": "Dua for parents",
+        "content": null,
+        "translation": "My Lord, forgive me and my parents and whoever enters my house a believer and the believing men and believing women. And do not increase the wrongdoers except in destruction.\"",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        411
+      ],
+      "id": 411,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 411,
+        "groups": null,
+        "uthmani": "رَبَّنَا لِيُقِيمُوا الصَّلاةَ فَاجْعَلْ أَفْئِدَةً مِنَ النَّاسِ تَهْوِي إِلَيْهِمْ وَارْزُقْهُمْ مِنَ الثَّمَرَاتِ لَعَلَّهُمْ يَشْكُرُونَ",
+        "indopak": "رَبَّنَا لِيُقِيْمُوْا الصَّلَاةَ فَاجْعَلْ اَفْئِدَةً مِّنَ النَّاسِ تَهْوِيْ اِلَيْهِمْ وَارْزُقْهُمْ مِنَ الثَّمَرَاتِ لَعَلَّهُمْ يَشْكُرُوْنَ",
+        "clean": "ربنا ليقيموا الصلاه فاجعل افءده من الناس تهوي اليهم وارزقهم من الثمرات لعلهم يشكرون",
+        "transliteration": null,
+        "reference": "Sura Ibrahim 14:37",
+        "audio": 411,
+        "cat_id": 23,
+        "subcat_id": 75
+      },
+      "source": {
+        "name": "Dua for increasing ibaadah and provision",
+        "content": "Ibrahim (AS) prayed the following Dua for his children and family:",
+        "translation": "Our Lord, I have settled some of my descendants in an uncultivated valley near Your sacred House, our Lord, that they may establish prayer. So make hearts among the people incline toward them and provide for them from the fruits that they might be grateful.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        412
+      ],
+      "id": 412,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 412,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اكْفِنِيْ بِحَلَالِكَ عَنْ حَرَامِكَ وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+        "indopak": "اَللّٰهُمَّ اكْفِنِيْ بِحَلَالِكَ عَنْ حَرَامِكَ وَاَغْنِنِيْ بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+        "clean": "اللهم اكفني بحلالك عن حرامك واغنني بفضلك عمن سواك",
+        "transliteration": "Allaahummak-finee bihalaalika 'an haraamika wa 'aghninee bifadhlika 'amman siwaak",
+        "reference": "Hasan (Albani). Tirmidhi: 3563",
+        "audio": 412,
+        "cat_id": 24,
+        "subcat_id": 76
+      },
+      "source": {
+        "name": "Dua for settling debt #1",
+        "content": null,
+        "translation": "O Allah, suffice me with what You have allowed instead of what You have forbidden, and make me independent of all others besides You.",
+        "note": "Ali (RA) narrated: That a Mukatib came to him and said: “Indeed I am not capable of my Kitabah so aid me.” He said: “Should I not teach you words that the Messenger of Allah (ﷺ) taught me? If you had a debt upon you similar to the mountain of Sir, Allah would fulfill it for you. He said: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        413
+      ],
+      "id": 413,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 413,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ وَالْعَجْزِ وَالْكَسَلِ وَالْبُخْلِ وَالْجُبْنِ وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ وَالْعَجْزِ وَالْكَسَلِ وَالْبُخْلِ وَالْجُبْنِ وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+        "clean": "اللهم اني اعوذ بك من الهم والحزن والعجز والكسل والبخل والجبن وضلع الدين وغلبه الرجال",
+        "transliteration": "Allaahumma 'innee 'A'oodhu bika minal-hammi wal-hazani, wal'ajzi wal-kasali, wal-bukhli wal-jubni, wa dhala'id-dayni wa ghalabatir-rijaal",
+        "reference": "Bukhari: 2893",
+        "audio": 413,
+        "cat_id": 24,
+        "subcat_id": 76
+      },
+      "source": {
+        "name": "Dua for settling debt #2",
+        "content": "Prophet (ﷺ) used to say these Dua more and more:",
+        "translation": "O Allah, I seek refuge in You from grief and sadness, from weakness and from laziness, from miserliness and from cowardice, from being overcome by debt and from being overpowered by men (i.e. other people).",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        414
+      ],
+      "id": 414,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 414,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ مٰلِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَنْ تَشَاءُ وَتَنْزِعُ الْمُلْكَ مِمَّنْ تَشَاءُ وَتُعِزُّ مَنْ تَشَاءُ وَتُذِلُّ مَنْ تَشَاءُ بِيَدِكَ الْخَيْرُ إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ رَحْمَانُ الدُّنْيَا وَالْآخِرَةِ وَرَحِيْمَهُمَا تُعْطِيْهِمَا مَنْ تَشَاءُ وَتَمْنَعُ مِنْهُمَا مَنْ تَشَاءُ ارْحَمْنِيْ رَحْمَةً تُغْنِيْنِيْ بِهَا عَنْ رَحْمَةِ مَنْ سِوَاكَ",
+        "indopak": "اَللّٰهُمَّ مٰلِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَنْ تَشَاءُ وَتَنْزِعُ الْمُلْكَ مِمَّنْ تَشَاءُ وَتُعِزُّ مَنْ تَشَاءُ وَتُذِلُّ مَنْ تَشَاءُ بِيَدِكَ الْخَيْرُ اِنَّكَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ رَحْمَانُ الدُّنْيَا وَالْاٰخِرَةِ وَرَحِيْمَهُمَا تُعْطِيْهِمَا مَنْ تَشَاءُ وَتَمْنَعُ مِنْهُمَا مَنْ تَشَاءُ اِرْحَمْنِيْ رَحْمَةً تُغْنِيْنِيْ بِهَا عَنْ رَّحْمَةِ مَنْ سِوَاكَ",
+        "clean": "اللهم ملك الملك تءتي الملك من تشاء وتنزع الملك ممن تشاء وتعز من تشاء وتذل من تشاء بيدك الخير انك علي كل شيء قدير رحمان الدنيا والاخره ورحيمهما تعطيهما من تشاء وتمنع منهما من تشاء ارحمني رحمه تغنيني بها عن رحمه من سواك",
+        "transliteration": "Allaahumma maalik-al-mulki tu’til-mulka man tashaa’u, wa tanzi‛-ul-mulka mimman tashaa’u, wa tu‛izzu man tashaa’u wa tudhillu man tashaa’u, bi yadik-al-khayru innaka ‛alaa kulli shay’in qadeer, ra'hmaanud-dunyaa wal-aakhirati wa ra'heemahumaa, tu‛teehimaa man tashaa’u, wa tamna‛u minhumaa man tashaa’-ur'hamnee ra'hmatan tughneenee bihaa ‛an ra'hmati man siwaak",
+        "reference": "Hasan (Albani). Sahihut Targib: 1821",
+        "audio": 414,
+        "cat_id": 24,
+        "subcat_id": 76
+      },
+      "source": {
+        "name": "Dua for settling debt #3",
+        "content": null,
+        "translation": "O Allah, Master (and owner) of the Dominion (or Kingdom), You give the dominion to whom You will, and You take the dominion from whom You will, and You exalt whom You will, and You humiliate whom You will. In Your Hand is all goodness. Verily, You are Able to do all things. The Beneficent and the Merciful of this world and the hereafter, You bestow them on whomever You will and withhold them from whomever You will. Have mercy on me, (such) Mercy that would not make me in need of the mercy of others (than you).",
+        "note": "The Messenger of Allah (ﷺ) said to Mu'adh (RA), 'If you pray this Dua, Allah will repay you even if you have a mountain of debt."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        415
+      ],
+      "id": 415,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 415,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَحْـيَا وَالْمَمَاتِ. اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَاَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ، وَاَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ. اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ",
+        "clean": "اللهم اني اعوذ بك من عذاب القبر واعوذ بك من فتنه المسيح الدجال واعوذ بك من فتنه المحيا والممات اللهم اني اعوذ بك من الماثم والمغرم",
+        "transliteration": "Allaahumma 'innee 'a'oodhu bika min 'adhaabil-qabr, wa 'a'oodhu bika min fitnatil-maseehid-dajjaal, wa 'a'oodhu bika min fitnatil-mahyaa wal-mamaat. Allaahumma 'innee 'a'oodhu bika minal-ma'thami wal-maghram",
+        "reference": "Bukhari: 832",
+        "audio": 415,
+        "cat_id": 24,
+        "subcat_id": 76
+      },
+      "source": {
+        "name": "Dua for settling debt #4",
+        "content": "The Messenger of Allah (ﷺ) used to recite this supplication in the prayer:",
+        "translation": "O Allah, I seek refuge in You from the punishment of the grave, and I seek refuge in You from the trial of the False Messiah, and I seek refuge in You from the trials of life and death. O Allah, I seek refuge in You from sin and from debt.",
+        "note": "One asks him (the Prophet [ﷺ]), \"Why do you seek so much refuge (from Allah) in debt?\" In reply, the Prophet (ﷺ) said, \"When a person is in debt, he lies when he speaks and breaks his promise."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        416
+      ],
+      "id": 416,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 416,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ فِتْنَةِ النَّارِ وَعَذَابِ النَّارِ، وَفِتْنَةِ الْقَبْرِ، وَعَذَابِ الْقَبْرِ، وَشَرِّ فِتْنَةِ الْغِنَى، وَشَرِّ فِتْنَةِ الْفَقْرِ، اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ، اَللَّهُمَّ اغْسِلْ قَلْبِي بِمَاءِ الثَّلْجِ وَالْبَرَدِ، وَنَقِّ قَلْبِي مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ، وَبَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ. اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكَسَلِ وَالْهَرَمِ وَالْمَأْثَمِ وَالْمَغْرَمِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنْ فِتْنَةِ النَّارِ وَعَذَابِ النَّارِ، وَفِتْنَةِ الْقَبْرِ، وَعَذَابِ الْقَبْرِ، وَشَرِّ فِتْنَةِ الْغِنٰى، وَشَرِّ فِتْنَةِ الْفَقْرِ، اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ، اَللّٰهُمَّ اغْسِلْ قَلْبِيْ بِمَاءِ الثَّلْجِ وَالْبَرَدِ، وَنَقِّ قَلْبِيْ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْاَبْيَضَ مِنْ الدَّنَسِ، وَبَاعِدْ بَيْنِيْ وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ. اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنْ الْكَسَلِ وَالْهَرَمِ وَالْمَأْثَمِ وَالْمَغْرَمِ",
+        "clean": "اللهم اني اعوذ بك من فتنه النار وعذاب النار وفتنه القبر وعذاب القبر وشر فتنه الغني وشر فتنه الفقر اللهم اني اعوذ بك من فتنه المسيح الدجال اللهم اغسل قلبي بماء الثلج والبرد ونق قلبي من الخطايا كما نقيت الثوب الابيض من الدنس وباعد بيني وبين خطاياي كما باعدت بين المشرق والمغرب اللهم اني اعوذ بك من الكسل والهرم والماثم والمغرم",
+        "transliteration": "Allaahumma inni a`udhu bika min fitnatin-nar, wa `adhabin-nar, wa fitnatil-qabr, wa `adhabil-qabr, wa sharri fitnatil-ghina, wa sharri fitnatil-faqr, Allaahumma inni a`udhu bika min fitnatil- masihid-dajjal. Allaahummaghsil qalbi bi-ma’ith-thalji wal-barad, wa naqqi qalbi minal-khataaya kamaa naqqaitath-thawbal-abyada minad-danas, wa ba`id baini wa baina khaatayaaya kamaa ba`adta bainal-mashriqi wal maghrib, Allaahumma inni a`udhu bika min al-kasali wal-harami wal-ma’thami wal-maghram",
+        "reference": "Sahih (Albani). Tirmidhi: 3495",
+        "audio": 416,
+        "cat_id": 24,
+        "subcat_id": 76
+      },
+      "source": {
+        "name": "Dua for settling debt #5",
+        "content": "Aishah narrated that the Messenger of Allah (ﷺ) used to supplicate with these words:",
+        "translation": "O Allah, indeed, I seek refuge in You from the trial of the Fire, and the punishment of the Fire, and the punishment of the grave, and the trial of the grave, and from the evil of the trial of the grave, and from the evil of the trials of wealth, and from the evils of the trials of poverty, and from the evil of the trial of the false Masih. O Allah, wash my sins with water of ice and hail, and cleanse my heart of sins, as You cleansed a white garment of filth, and distance me and my sins as You distanced between the east and the west. O Allah, indeed, I seek refuge in You from laziness, senility, sin and debt.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_070.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 4,
+  "id_range": "138-141",
+  "source_chars": 5329,
+  "items": [
+    {
+      "key": [
+        138
+      ],
+      "id": 138,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 138,
+        "topic_id": 2,
+        "cat_id": 7,
+        "subcat_id": 111
+      },
+      "source": {
+        "topic_name": "Benefits of Hijama (Cupping)",
+        "text": "Hijama has been in use in many countries to treat certain diseases or bodily disorders. While the Chinese seem to have played a leading role in using this technique to treat certain diseases, Arabs and others have also adopted it since it was recognized as beneficial by the Prophet (Allah’s peace be upon him). The Europeans were also doing cupping to treat many diseases. The difference between the Arabs or Muslims and others in doing hijama was not hidden since while believers were more interested to do hijama as the Sunnah of the Prophet (peace and blessings of Allah be upon him) (without questioning anything), others were doing it purely for medical benefit.\n\nThe first and top-level benefit of hijama for a believer is the reward he or she will get, both heavenly and worldly, for following a stressed Sunnah of the Prophet (peace and blessings of Allah be upon him). Not only the believers but also anyone can openly observe or experience the benefits that are bestowed on the followers of the commands of Allah Most High and His Prophet (peace and blessings of Allah be upon him). On the other hand, when we look at this technique from a worldly perspective, we can find hijama has many benefits.\n\nIt is noted that hijama promotes the flow of energy in the blood. It removes toxins and other waste material from the blood. It helps hasten recovery time for people recovering from certain diseases. Hijama is known to prevent many diseases and, therefore, can be considered one of the best preventive measures against many diseases. Moreover, in many cultures, hijama is thought to help those who are under some magic spell or who are under the influence of some evil beings.\n\nHijama has no side effects as long as performed properly. It is also worth noting that many diseases and disorders are associated with failure of blood to circulate properly in the body. Furthermore, we get sick or our body organs fail to perform healthily when our blood keep circulating loaded with toxins and other impurities. Unless the toxic waste is removed from the body or from the blood, not only we do not recover quickly from disease but also we become victims to other diseases. Hijama is an excellent way to remove the toxic waste from the blood stream, and the results will obviously be a healthy and properly functioning body. We should never forget that this highly useful and recommended Sunnah of the Prophet SAW helps us in controlling many diseases such as infections, hypertension, circulatory diseases, pains, infertility, cancer, etc."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        139
+      ],
+      "id": 139,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 139,
+        "topic_id": 3,
+        "cat_id": 7,
+        "subcat_id": 111
+      },
+      "source": {
+        "topic_name": "Importance of Hijama in the Divine Guidance",
+        "text": "Instead of depending on our own opinions in favor of cupping, we must see the following ahadith that are enough to explain its importance.\n\n“Indeed in hijama (cupping) there is a cure”. – Saheeh Muslim.\n\n“Indeed, the best of remedies you have is hijama (cupping)”. – Saheeh Al Bukhari.\n\n“Hijama is the most helpful procedure for human beings to cure themselves”. – Saheeh Al Bukhari and Saheel Muslim.\n\nThe importance of hijama in the divine guidance can further be stressed by the following words which were related to the Prophet SAW on the night of Israa (ascension to the heaven) by angles: “O Mohammed, encourage your ummah (people) to do hijama (cupping)”. – Saheeh, Sunan Tirmidhi.\n\nThe Prophet Muhammad (Allah’s peace be upon him) is reported to have had hijama performed on his head for a headache [Bukhari], on his foot after a sprain [Ibn Majah], on his neck [Abu Dawud], on his hip for hip pain [Abu Dawud] and between his shoulders for detoxification [Ahmed].\n\nAbdullah ibn Abbas (RA) reported that the Prophet (Allah’s peace be upon him) said: “I did not pass by an angel from the angels on the night journey except that they all said to me: Upon you is cupping (hijama), O Muhammad.” [Saheeh, Sunan ibn Majah]\n\n“The best medicine with which you treat yourselves is cupping, or it is one of the best of your medicines.” Or “The treatment for you is cupping.” [Bukhari: 5371]\n\n“Cupping is the most helpful procedure for human beings to cure themselves.” [Bukhari and Muslim]\n\nAbu Hurairah (RA) reported that the Messenger (Allah’s peace be upon him) said, “If there was something excellent to be used as a remedy then it is cupping (hijama).” [Sunan Abu Dawud, Sunan Ibn Majah]"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        140
+      ],
+      "id": 140,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 140,
+        "topic_id": null,
+        "cat_id": 8,
+        "subcat_id": 112
+      },
+      "source": {
+        "topic_name": null,
+        "text": "This program is recommended by Shaykh 'Adil ibn Tahir Al-Muqbil for all those who complain about problems related to Jinn, magic, and the evil eye. The Shaykh said he has been using it with great success for many years, and it is especially important for those who have not yet found a healer (Raqi). The Shaykh calls it \"The Collection of Cures\" because it consists of a series of things that are mentioned in Qur'an and Sunnah as a healing (Shifaa).\n\nSince the program is not cited as a whole in the Sunnah, it is not necessary to carry out each part without modification. Thus, when e.g. a diabetic can not eat honey, he can omit it, although it is nevertheless recommended to make the program the same as mentioned."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        141
+      ],
+      "id": 141,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 141,
+        "topic_id": null,
+        "cat_id": 8,
+        "subcat_id": 113
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>1.</b> One should humble oneself before Allah <ar1>سبحانه و تعالى</ar1>\n\n<b>2.</b> One should make du'a at the times when du'a is best accepted as between the Adzan and the Iqamah, the last third of the night, between the Asr prayer and the Maghrib prayer, the two sermons on Friday, during rain etc."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

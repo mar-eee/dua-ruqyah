@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_036.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "61-62",
+  "source_chars": 4370,
+  "items": [
+    {
+      "key": [
+        61
+      ],
+      "id": 61,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 61,
+        "topic_id": null,
+        "cat_id": 4,
+        "subcat_id": 57
+      },
+      "source": {
+        "topic_name": null,
+        "text": "According to scholars of Fiqh (jurisprudence), an-nazif refers to al-istihadha (continuous menstruation), and according to doctors, it refers to bleeding .\n\nAccording to Ibn Al-Athir (R), al-istihadha means bleeding following a normal menses. [An-Nihaya : 1/469]\n\n\nThis bleeding may last for months, and the amount of blood could be little or large\n\n\n<b><h3>Treatment</h3></b>\n\n\nThe healer should recite the Ruqyah over some water and advise the patient to wash her body for three days, then the bleeding should, by Allah's Leave, cease."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        62
+      ],
+      "id": 62,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 62,
+        "topic_id": null,
+        "cat_id": 4,
+        "subcat_id": 58
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>How This is Done</b>\n\n\nA grudging person would go to a wicked sorcerer and request that a sihr be done to a certain person's daughter to thwart her marriage The sahir would request her name, her mother's name and a trace of her hair or smell (on a piece of garment). Once these are provided, the sorcerer would work out the appropriate sini and instruct one Jinn, or more, to stalk the girl until the opportunity comes to enter her, which is often during one of the four occasions:\n\n<b>1.</b> Extreme fear.\n\n<b>2.</b> Extreme anger.\n\n<b>3.</b> Extreme unawareness.\n\n<b>4.</b> Indulgence in pleasure.\n\n<b>The Jinn has Two Options</b>\n\n\n<b>1.</b> If he can enter the girl, then he would cause her to feel uncomfortable with any prospective husband and; thus, turn him down.\n\n<b>2.</b> If he cannot enter the girl, then he would use the sihr of imagination, from outside. As a result, a suitor would see the girl in an ugly image under the effect of the Jinn's whispering, and so would the girl.\n\nUnder the effect of this sihr and under the Jin’s whispering, a suitor, who would have initially agreed to the marriage, would decline after a few days, without any valid reason.\n\nIn cases of a strong sihr, a suitor would, upon entering the house of his prospective wife, feel very uncomfortable and see darkness before him as if he were in prison, and so would never return.\n\nDuring the period of this sihr, the Jinn may cause the girl to experience occasional headaches.\n\n<b>Symptoms</b>\n\n\n<b>1.</b> Occasional headaches, which persist despite medication.\n\n<b>2.</b> Severe tightness in the chest, especially between al-'așr and midnight.\n\n<b>3.</b> The patient sees the suitor in an ugly image.\n\n<b>4.</b> Absentmindedness.\n\n<b>5.</b> Anxiety during sleep.\n\n<b>6.</b> Occasional constant stomach-aches.\n\n<b>7.</b> Pain in the lower part of the back.\n\n<b>Treatment</b>\n\n\n<b>a)</b> The healer should recite the Ruqyah specified above. If the patient becomes epileptic and the Jinn speaks through her person, follow the same treatment as set out above. \n\n<b>b)</b> If the patient does not become epileptic, but feels a change in her body, advise her to do the following:\n\n<b>1.</b> To wear a hijab.\n\n<b>2.</b> To observe salat on time.\n\n<b>3.</b> Not to listen to songs or music.\n\n<b>4.</b> To do wudhu' before going to bed, and to read ayatul kursi.\n\n<b>5.</b> To join both arms closer to the face, reciting al-mu'awwizat (Qur'an: 113 and 114), spitting onto the hands, and rubbing the body three times before going to bed.\n\n<b>6.</b> To listen once a day to the recitation of ayatul kursi repeatedly recorded on a sixty-minute audiotape.\n\n<b>7.</b> To listen once a day to the recitation of al-mu'awwizat (Chapters 112, 113 and 114) repeatedly recorded on a sixty-minute audiotape.\n\n<b>8.</b> To drink and wash once, every three days, from water on which the Ruqyah has been recited by the healer.\n\n<b>9.</b> To recite 100 times after salatul fajr.:\n\n<ar>لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ</ar>\n\n<i><b>Transliteration:</b> Laa ilahaa illAllahu wahdahu laa sharika lahu, lahul-mulku wa lahul-hamdu wa huwa 'alaa kulli shay'in qadir</i>\n\n<b>Translation:</b>None has the right to be worshipped but Allah alone, Who has no partner. His is the dominion and His is the praise, and He is Able to do all things.\n\n<b>These instructions must be followed for a whole month, after which period:</b>\n\n\n<b>a)</b> the symptoms might - with Allah's Leave - cease, since the illness may have been cured by the cancellation of sihr, or\n\n<b>b)</b> The pain might grow and the symptoms might intensify. In this case, recite the Ruqyah specified above. The patient would then - with Allah's Leave- become epileptic. So, the treatment specified above should be followed."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

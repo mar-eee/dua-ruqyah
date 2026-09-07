@@ -1,0 +1,732 @@
+{
+  "table": "ruqyah_instants",
+  "chunk": "ruqyah_instants_018.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 24,
+  "id_range": "245-268",
+  "source_chars": 5777,
+  "items": [
+    {
+      "key": [
+        245
+      ],
+      "id": 245,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 245,
+        "topic_id": 1,
+        "uthmani": "وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَّنثُورًا ﴿٢٣﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/108.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Furqan 25:23",
+        "content": null,
+        "translation": "(23) And We will regard what they have done of deeds and make them as dust dispersed."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        246
+      ],
+      "id": 246,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 246,
+        "topic_id": 1,
+        "uthmani": "قُلْ إِنَّ رَبِّي يَقْذِفُ بِالْحَقِّ عَلَّامُ الْغُيُوبِ ﴿٤٨﴾ قُلْ جَاءَ الْحَقُّ وَمَا يُبْدِئُ الْبَاطِلُ وَمَا يُعِيدُ ﴿٤٩﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/109.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Saba 34:48-49",
+        "content": null,
+        "translation": "(48) Say, \"Indeed, my Lord projects the truth. Knower of the unseen.\" (49) Say, \"The truth has come, and falsehood can neither begin [anything] nor repeat [it].\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        247
+      ],
+      "id": 247,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 247,
+        "topic_id": 1,
+        "uthmani": "أَمْ يَقُولُونَ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا ۖ فَإِن يَشَإِ اللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ اللَّهُ الْبَاطِلَ وَيُحِقُّ الْحَقَّ بِكَلِمَاتِهِ ۚ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ ﴿٢٤﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/110.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ash-Shu'ara 42:24",
+        "content": null,
+        "translation": "(24) Or do they say, \"He has invented about Allah a lie\"? But if Allah willed, He could seal over your heart. And Allah eliminates falsehood and establishes the truth by His words. Indeed, He is Knowing of that within the breasts."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        248
+      ],
+      "id": 248,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 248,
+        "topic_id": 1,
+        "uthmani": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا ﴿١﴾ وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا ﴿٢﴾ وَقَالَ الْإِنسَانُ مَا لَهَا ﴿٣﴾ يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا ﴿٤﴾ بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا ﴿٥﴾ يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ ﴿٦﴾ فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ ﴿٧﴾ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ ﴿٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/111.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Az-Zalzalah 99:1-8",
+        "content": null,
+        "translation": "(1) When the earth is shaken with its [final] earthquake (2) And the earth discharges its burdens (3) And man says, \"What is [wrong] with it?\" - (4) That Day, it will report its news (5) Because your Lord has commanded it. (6) That Day, the people will depart separated [into categories] to be shown [the result of] their deeds. (7) So whoever does an atom's weight of good will see it, (8) And whoever does an atom's weight of evil will see it."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        249
+      ],
+      "id": 249,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 249,
+        "topic_id": 1,
+        "uthmani": "قُلْنَا اهْبِطُوا مِنْهَا جَمِيعًا ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّي هُدًى فَمَن تَبِعَ هُدَايَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ ﴿٣٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/112.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:38",
+        "content": null,
+        "translation": "(38) We said, \"Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance - there will be no fear concerning them, nor will they grieve."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        250
+      ],
+      "id": 250,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 250,
+        "topic_id": 1,
+        "uthmani": "وَإِذْ قَتَلْتُمْ نَفْسًا فَادَّارَأْتُمْ فِيهَا ۖ وَاللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ ﴿٧٢﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/113.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:72",
+        "content": null,
+        "translation": "(72) And [recall] when you slew a man and disputed over it, but Allah was to bring out that which you were concealing."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        251
+      ],
+      "id": 251,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 251,
+        "topic_id": 1,
+        "uthmani": "قَالَ فَاخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ ﴿٣٤﴾ وَإِنَّ عَلَيْكَ اللَّعْنَةَ إِلَىٰ يَوْمِ الدِّينِ ﴿٣٥﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/114.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Hijr 15:34-35",
+        "content": null,
+        "translation": "(34) [ Allah ] said, \"Then get out of it, for indeed, you are expelled. (35) And indeed, upon you is the curse until the Day of Recompense.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        252
+      ],
+      "id": 252,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 252,
+        "topic_id": 1,
+        "uthmani": "وَجَاءَ رَجُلٌ مِّنْ أَقْصَى الْمَدِينَةِ يَسْعَىٰ قَالَ يَا مُوسَىٰ إِنَّ الْمَلَأَ يَأْتَمِرُونَ بِكَ لِيَقْتُلُوكَ فَاخْرُجْ إِنِّي لَكَ مِنَ النَّاصِحِينَ ﴿٢٠﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/115.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Qasas 28:20",
+        "content": null,
+        "translation": "(20) And a man came from the farthest end of the city, running. He said, \"O Moses, indeed the eminent ones are conferring over you [intending] to kill you, so leave [the city]; indeed, I am to you of the sincere advisors.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        253
+      ],
+      "id": 253,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 253,
+        "topic_id": 1,
+        "uthmani": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا ذَوَيْ عَدْلٍ مِّنكُمْ وَأَقِيمُوا الشَّهَادَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِ مَن كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا ﴿٢﴾ وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ ۚ إِنَّ اللَّهَ بَالِغُ أَمْرِهِ ۚ قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا ﴿٣﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/116.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "At-Talaq 65:2-3",
+        "content": null,
+        "translation": "(2) And when they have [nearly] fulfilled their term, either retain them according to acceptable terms or part with them according to acceptable terms. And bring to witness two just men from among you and establish the testimony for [the acceptance of] Allah . That is instructed to whoever should believe in Allah and the Last day. And whoever fears Allah - He will make for him a way out (3) And will provide for him from where he does not expect. And whoever relies upon Allah - then He is sufficient for him. Indeed, Allah will accomplish His purpose. Allah has already set for everything a [decreed] extent."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        254
+      ],
+      "id": 254,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 254,
+        "topic_id": 1,
+        "uthmani": "فَخَرَجَ مِنْهَا خَائِفًا يَتَرَقَّبُ ۖ قَالَ رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ ﴿٢١﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/117.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Qasas 28:21",
+        "content": null,
+        "translation": "(21) So he left it, fearful and anticipating [apprehension]. He said, \"My Lord, save me from the wrongdoing people.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        255
+      ],
+      "id": 255,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 255,
+        "topic_id": 1,
+        "uthmani": "إِنَّ اللَّهَ لَا يَسْتَحْيِي أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً فَمَا فَوْقَهَا ۚ فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ ۖ وَأَمَّا الَّذِينَ كَفَرُوا فَيَقُولُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلًا ۘ يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا ۚ وَمَا يُضِلُّ بِهِ إِلَّا الْفَاسِقِينَ ﴿٢٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/118.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:26",
+        "content": null,
+        "translation": "(26) Indeed, Allah is not timid to present an example - that of a mosquito or what is smaller than it. And those who have believed know that it is the truth from their Lord. But as for those who disbelieve, they say, \"What did Allah intend by this as an example?\" He misleads many thereby and guides many thereby. And He misleads not except the defiantly disobedient,"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        256
+      ],
+      "id": 256,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 256,
+        "topic_id": 1,
+        "uthmani": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ آيَةَ مُلْكِهِ أَن يَأْتِيَكُمُ التَّابُوتُ فِيهِ سَكِينَةٌ مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ آلُ مُوسَىٰ وَآلُ هَارُونَ تَحْمِلُهُ الْمَلَائِكَةُ ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ ﴿٢٤٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/119.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:248",
+        "content": null,
+        "translation": "(248) And their prophet said to them, \"Indeed, a sign of his kingship is that the chest will come to you in which is assurance from your Lord and a remnant of what the family of Moses and the family of Aaron had left, carried by the angels. Indeed in that is a sign for you, if you are believers.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        257
+      ],
+      "id": 257,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 257,
+        "topic_id": 1,
+        "uthmani": "وَلَمَّا بَرَزُوا لِجَالُوتَ وَجُنُودِهِ قَالُوا رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ ﴿٢٥٠﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/120.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:250",
+        "content": null,
+        "translation": "(250) And when they went forth to [face] Goliath and his soldiers, they said, \"Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        258
+      ],
+      "id": 258,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 258,
+        "topic_id": 1,
+        "uthmani": "وَمَا جَعَلَهُ اللَّهُ إِلَّا بُشْرَىٰ لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُم بِهِ ۗ وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّهِ الْعَزِيزِ الْحَكِيمِ ﴿١٢٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/122.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ali 'Imran 3:126",
+        "content": null,
+        "translation": "(126) And Allah made it not except as [a sign of] good tidings for you and to reassure your hearts thereby. And victory is not except from Allah, the Exalted in Might, the Wise -"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        259
+      ],
+      "id": 259,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 259,
+        "topic_id": 1,
+        "uthmani": "وَمَا جَعَلَهُ اللَّهُ إِلَّا بُشْرَىٰ لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُم بِهِ ۗ وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّهِ الْعَزِيزِ الْحَكِيمِ ﴿١٢٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/122.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ali 'Imran 3:126",
+        "content": null,
+        "translation": "(126) And Allah made it not except as [a sign of] good tidings for you and to reassure your hearts thereby. And victory is not except from Allah, the Exalted in Might, the Wise -"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        260
+      ],
+      "id": 260,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 260,
+        "topic_id": 1,
+        "uthmani": "وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ ﴿١٣﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/123.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-An'am 6:13",
+        "content": null,
+        "translation": "(13) And to Him belongs that which reposes by night and by day, and He is the Hearing, the Knowing."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        261
+      ],
+      "id": 261,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 261,
+        "topic_id": 1,
+        "uthmani": "وَمَا جَعَلَهُ اللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِ قُلُوبُكُمْ ۚ وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّهِ ۚ إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ ﴿١٠﴾ إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ السَّمَاءِ مَاءً لِّيُطَهِّرَكُم بِهِ وَيُذْهِبَ عَنكُمْ رِجْزَ الشَّيْطَانِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ الْأَقْدَامَ ﴿١١﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/124.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Anfal 8:10-11",
+        "content": null,
+        "translation": "(10) And Allah made it not but good tidings and so that your hearts would be assured thereby. And victory is not but from Allah . Indeed, Allah is Exalted in Might and Wise. (11) [Remember] when He overwhelmed you with drowsiness [giving] security from Him and sent down upon you from the sky, rain by which to purify you and remove from you the evil [suggestions] of Satan and to make steadfast your hearts and plant firmly thereby your feet."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        262
+      ],
+      "id": 262,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 262,
+        "topic_id": 1,
+        "uthmani": "وَكُلًّا نَّقُصُّ عَلَيْكَ مِنْ أَنبَاءِ الرُّسُلِ مَا نُثَبِّتُ بِهِ فُؤَادَكَ ۚ وَجَاءَكَ فِي هَٰذِهِ الْحَقُّ وَمَوْعِظَةٌ وَذِكْرَىٰ لِلْمُؤْمِنِينَ ﴿١٢٠﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/125.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Hud 11:120",
+        "content": null,
+        "translation": "(120) And each [story] We relate to you from the news of the messengers is that by which We make firm your heart. And there has come to you, in this, the truth and an instruction and a reminder for the believers."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        263
+      ],
+      "id": 263,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 263,
+        "topic_id": 1,
+        "uthmani": "الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ ﴿٢٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/126.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ar-Ra'd 13:28",
+        "content": null,
+        "translation": "(28) Those who have believed and whose hearts are assured by the remembrance of Allah . Unquestionably, by the remembrance of Allah hearts are assured.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        264
+      ],
+      "id": 264,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 264,
+        "topic_id": 1,
+        "uthmani": "أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ ﴿٢٤﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/127.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ibrahim 14:24",
+        "content": null,
+        "translation": "(24) Have you not considered how Allah presents an example, [making] a good word like a good tree, whose root is firmly fixed and its branches [high] in the sky?"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        265
+      ],
+      "id": 265,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 265,
+        "topic_id": 1,
+        "uthmani": "يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ ۖ وَيُضِلُّ اللَّهُ الظَّالِمِينَ ۚ وَيَفْعَلُ اللَّهُ مَا يَشَاءُ ﴿٢٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/128.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ibrahim 14:27",
+        "content": null,
+        "translation": "(27) Allah keeps firm those who believe, with the firm word, in worldly life and in the Hereafter. And Allah sends astray the wrongdoers. And Allah does what He wills."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        266
+      ],
+      "id": 266,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 266,
+        "topic_id": 1,
+        "uthmani": "قُلْ نَزَّلَهُ رُوحُ الْقُدُسِ مِن رَّبِّكَ بِالْحَقِّ لِيُثَبِّتَ الَّذِينَ آمَنُوا وَهُدًى وَبُشْرَىٰ لِلْمُسْلِمِينَ ﴿١٠٢﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/129.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "An-Nahl 16:102",
+        "content": null,
+        "translation": "(102) Say, [O Muhammad], \"The Pure Spirit has brought it down from your Lord in truth to make firm those who believe and as guidance and good tidings to the Muslims.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        267
+      ],
+      "id": 267,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 267,
+        "topic_id": 1,
+        "uthmani": "وَقَالَ الَّذِينَ كَفَرُوا لَوْلَا نُزِّلَ عَلَيْهِ الْقُرْآنُ جُمْلَةً وَاحِدَةً ۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِ فُؤَادَكَ ۖ وَرَتَّلْنَاهُ تَرْتِيلًا ﴿٣٢﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/130.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Furqan 25:32",
+        "content": null,
+        "translation": "(32) And those who disbelieve say, \"Why was the Qur'an not revealed to him all at once?\" Thus [it is] that We may strengthen thereby your heart. And We have spaced it distinctly."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        268
+      ],
+      "id": 268,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 268,
+        "topic_id": 1,
+        "uthmani": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ ﴿٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/131.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Muhammad 47:7",
+        "content": null,
+        "translation": "(7) O you who have believed, if you support Allah, He will support you and plant firmly your feet."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    }
+  ]
+}

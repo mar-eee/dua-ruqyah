@@ -1,0 +1,620 @@
+{
+  "table": "duas",
+  "chunk": "duas_032.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 19,
+  "id_range": "449-467",
+  "source_chars": 5957,
+  "items": [
+    {
+      "key": [
+        449
+      ],
+      "id": 449,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 449,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ",
+        "clean": "لا اله الا الله",
+        "transliteration": "Laa Ilaaha Illaallah",
+        "reference": "Bukhari: 3346",
+        "audio": 449,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "When Panicked",
+        "content": "Narrated Zainab bint Jahsh (RA): That the Prophet (ﷺ) once came to her in a state of fear and said:",
+        "translation": "None has the right to be worshipped but Allah.",
+        "note": "Woe unto the Arabs from a danger that has come near. An opening has been made in the wall of Gog and Magog like this,\" making a circle with his thumb and index finger. Zainab bint Jahsh (RA) said, \"O Allah's Messenger (ﷺ)! Shall we be destroyed even though there are pious persons among us?\" He said, \"Yes, when the evil person will increase.\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        450
+      ],
+      "id": 450,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 450,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ فَأَيُّمَا مُؤْمِنٍ سَبَبْتُهُ فَاجْعَلْ ذَلِكَ لَهُ قُرْبَةً إِلَيْكَ يَوْمَ الْقِيَامَةِ",
+        "indopak": "اَللّٰهُمَّ فَاَيُّمَا مُؤْمِنٍ سَبَبْتُهٗ فَاجْعَلْ ذٰلِكَ لَهٗ قُرْبَةً اِلَيْكَ يَوْمَ الْقِيَامَةِ",
+        "clean": "اللهم فايما مءمن سببته فاجعل ذلك له قربه اليك يوم القيامه",
+        "transliteration": "Allaahumma fa'ayyumaa mu'minin sababtuhu faj'al dhaalika lahu qurbatan 'ilayka yawmal-qiyaamah",
+        "reference": "Bukhari: 6361",
+        "audio": 450,
+        "cat_id": 27,
+        "subcat_id": 81
+      },
+      "source": {
+        "name": "For one you have insulted",
+        "content": "Narrated by Abu Huraira (RA), He heard the Prophet (ﷺ) say:",
+        "translation": "O Allah, whomever of the believers I have abused, make it a means of gaining nearness to you on the Day of Resurrection.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        451
+      ],
+      "id": 451,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 451,
+        "groups": null,
+        "uthmani": "أَحْسِبُ فُلَانًا وَاللَّهُ حَسِيبُهُ وَلَا أُزَكِّي عَلَى اللَّهِ أَحَدًا أَحْسِبُهُ كَذَا وَكَذَا",
+        "indopak": "اَحْسِبُ فُلَانًا وَاللّٰهُ حَسِيْبُهٗ وَلَا اُزَكِّيْ عَلَى اللّٰهِ اَحَدًا اَحْسِبُهٗ كَذَا وَكَذَا",
+        "clean": "احسب فلانا والله حسيبه ولا ازكي علي الله احدا احسبه كذا وكذا",
+        "transliteration": "Ahsibu fulaanan wAllaahu haseebuhu wa laa 'uzakkee 'alAllaahi 'ahadan ahsibuhu kadha wa kadha",
+        "reference": "Bukhari: 2662",
+        "audio": 451,
+        "cat_id": 27,
+        "subcat_id": 81
+      },
+      "source": {
+        "name": "Etiquette of praising a fellow Muslim",
+        "content": "The Prophet (ﷺ) said: \"Whoever amongst you has to praise his brother should say:",
+        "translation": "I think that he is so and so, and Allah knows exactly the truth, and I do not confirm anybody's good conduct before Allah, but I think him so and so.",
+        "note": "It is to be said when you must ensure you have knowledge that the certain characteristic is present in that person."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        452
+      ],
+      "id": 452,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 452,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ لَا تُؤَاخِذْنِي بِمَا يَقُولُونَ، وَاغْفِرْ لِي مَا لَا يَعْلَمُونَ، وَاجْعَلْنِي خَيْرًا مِمَّا يَظُّنُّونَ",
+        "indopak": "اَللّٰهُمَّ لَا تُؤَاخِذْنِيْ بِمَا يَقُوْلُوْنَ، وَاغْفِرْ لِيْ مَا لَا يَعْلَمُوْنَ، وَاجْعَلْنِيْ خَيْرًا مِّمَّا يَظُّنُّوْنَ",
+        "clean": "اللهم لا تءاخذني بما يقولون واغفر لي ما لا يعلمون واجعلني خيرا مما يظنون",
+        "transliteration": "Allaahumma laa tu'aakhidhnee bimaa yaqooloon, waghfir lee maa laa ya'lamoon waj'alnee khayram-mimmaa yadhunnoon",
+        "reference": "Sahih (Albani). Adabul Mufrad: 589",
+        "audio": 452,
+        "cat_id": 27,
+        "subcat_id": 81
+      },
+      "source": {
+        "name": "For the one that have been praised",
+        "content": "One of Companions of The Prophet (ﷺ) had a characteristic that if he was praised, he would say:",
+        "translation": "O Allah, do not call me to account for what they say and forgive me for what they have no knowledge of and make me better than they imagine.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        453
+      ],
+      "id": 453,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 453,
+        "groups": "[{\"id\": 453, \"name\": null, \"cat_id\": 27, \"subcat_id\": 82, \"content\": \"In response, The Messenger of Allah (\\ufdfa) said:\", \"uthmani\": \"\\u0648\\u064e\\u0644\\u064e\\u0643\\u064e\", \"indopak\": \"\\u0648\\u064e\\u0644\\u064e\\u0643\\u064e\", \"clean\": \"\\u0648\\u0644\\u0643\", \"transliteration\": \"Wa lak\", \"translation\": \"May Allah forgive you too. [1]\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 453, \"name\": null, \"cat_id\": 27, \"subcat_id\": 82, \"content\": \"When the people heard this, they said, Allah's Apostle (\\ufdfa) seek forgiveness for you? He said: Yes, and also for you all. Then he then recited this verse\\u0964 [2]\", \"uthmani\": \"\\u0648\\u064e\\u0627\\u0633\\u0652\\u062a\\u064e\\u063a\\u0652\\u0641\\u0650\\u0631\\u0652 \\u0644\\u0650\\u0630\\u064e\\u0646\\u0652\\u0628\\u0650\\u0643\\u064e \\u0648\\u064e\\u0644\\u0650\\u0644\\u0652\\u0645\\u064f\\u0624\\u0652\\u0645\\u0650\\u0646\\u0650\\u064a\\u0646\\u064e \\u0648\\u064e\\u0627\\u0644\\u0652\\u0645\\u064f\\u0624\\u0652\\u0645\\u0650\\u0646\\u064e\\u0627\\u062a\\u0650\", \"indopak\": \"\\u0648\\u064e\\u0627\\u0633\\u0652\\u062a\\u064e\\u063a\\u0652\\u0641\\u0650\\u0631\\u0652 \\u0644\\u0650\\u0630\\u064e\\u0646\\u0652\\u0628\\u0650\\u0643\\u064e \\u0648\\u064e\\u0644\\u0650\\u0644\\u0652\\u0645\\u064f\\u0624\\u0652\\u0645\\u0650\\u0646\\u0650\\u064a\\u0652\\u0646\\u064e \\u0648\\u064e\\u0627\\u0644\\u0652\\u0645\\u064f\\u0624\\u0652\\u0645\\u0650\\u0646\\u064e\\u0627\\u062a\\u0650\", \"clean\": \"\\u0648\\u0627\\u0633\\u062a\\u063a\\u0641\\u0631 \\u0644\\u0630\\u0646\\u0628\\u0643 \\u0648\\u0644\\u0644\\u0645\\u0621\\u0645\\u0646\\u064a\\u0646 \\u0648\\u0627\\u0644\\u0645\\u0621\\u0645\\u0646\\u0627\\u062a\", \"transliteration\": null, \"translation\": \"Ask forgiveness for your sin and for the believing men and believing women. (Surah Muhammad 47:19)\", \"note\": null, \"reference\": \"[1] Riyadus Salehin: 1843\\n[2] Muslim: 2346\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "غَفَرَ اللَّهُ لَكَ",
+        "indopak": "غَفَرَ اللّٰهُ لَكَ",
+        "clean": "غفر الله لك",
+        "transliteration": "Ghafar-Allahu lak",
+        "reference": null,
+        "audio": 453,
+        "cat_id": 27,
+        "subcat_id": 82
+      },
+      "source": {
+        "name": "For the one who asks Allah to forgive your sins",
+        "content": "Abdullah bin Sarjis (RA) said to the Messenger of Allah (ﷺ): \"O Messenger of Allah! -",
+        "translation": "May Allah forgive you.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        454
+      ],
+      "id": 454,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 454,
+        "groups": null,
+        "uthmani": "جَزَاكَ اللَّهُ خَيْرًا",
+        "indopak": "جَزَاكَ اللّٰهُ خَيْرًا",
+        "clean": "جزاك الله خيرا",
+        "transliteration": "JazaakAllahu khayran",
+        "reference": "Sahih (Albani). Tirmidhi: 2035",
+        "audio": 454,
+        "cat_id": 27,
+        "subcat_id": 82
+      },
+      "source": {
+        "name": "If someone does a good job for you",
+        "content": "The Messenger of Allah (ﷺ) said: Whoever some good was done to him, and he says:",
+        "translation": "May Allah reward you with good.",
+        "note": "Then he has done the most that he can of praise."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        455
+      ],
+      "id": 455,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 455,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Muslim: 809",
+        "audio": null,
+        "cat_id": 27,
+        "subcat_id": 82
+      },
+      "source": {
+        "name": "Protection from the Dajjal",
+        "content": "Allah's Apostle (ﷺ) as saying: If anyone learns by heart the first ten verses of the Surah al-Kahf, he will be protected from the Dajjal.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        456
+      ],
+      "id": 456,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 456,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Sahih (Albani). Abu Dawud: 983",
+        "audio": null,
+        "cat_id": 27,
+        "subcat_id": 82
+      },
+      "source": {
+        "name": "Seeking refuge from four things",
+        "content": "Abu Hurairah (RA) reported that the Messenger of Allah (ﷺ) as saying: When one of you finishes the last tashahhud, he should seek refuge in Allah from four things: the punishment in Hell, the punishment in the grave, the trail of life and death, and the evil of Antichrist.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        457
+      ],
+      "id": 457,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 457,
+        "groups": "[{\"id\": 457, \"name\": null, \"cat_id\": 27, \"subcat_id\": 82, \"content\": \"He will respond by saying:\", \"uthmani\": \"\\u0623\\u064e\\u062d\\u064e\\u0628\\u0651\\u064e\\u0643\\u064e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a \\u0623\\u064e\\u062d\\u0652\\u0628\\u064e\\u0628\\u0652\\u062a\\u064e\\u0646\\u0650\\u064a\\u0652 \\u0644\\u064e\\u0647\\u064f\", \"indopak\": \"\\u0627\\u064e\\u062d\\u064e\\u0628\\u0651\\u064e\\u0643\\u064e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0652 \\u0627\\u064e\\u062d\\u0652\\u0628\\u064e\\u0628\\u0652\\u062a\\u064e\\u0646\\u0650\\u064a\\u0652 \\u0644\\u064e\\u0647\\u0657\", \"clean\": \"\\u0627\\u062d\\u0628\\u0643 \\u0627\\u0644\\u0630\\u064a \\u0627\\u062d\\u0628\\u0628\\u062a\\u0646\\u064a \\u0644\\u0647\", \"transliteration\": \"Ahabbakal-ladhee 'ahbabtanee lahu\", \"translation\": \"May He for Whose sake you love me, love you.\", \"note\": null, \"reference\": \"Hasan (Albani). Abu Dawud: 5125\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "أُحِبُّكَ فِي اللَّهِ",
+        "indopak": "اُحِبُّكَ فِيْ اللّٰهِ",
+        "clean": "احبك في الله",
+        "transliteration": "U'hibbuka fill-aah",
+        "reference": null,
+        "audio": 457,
+        "cat_id": 27,
+        "subcat_id": 82
+      },
+      "source": {
+        "name": "If anyone likes you for the sake of Allah",
+        "content": "If a Muslim brother want to tell him that he loves him, he should say:",
+        "translation": "I love you for the sake of Allah.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        458
+      ],
+      "id": 458,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 458,
+        "groups": null,
+        "uthmani": "بَارَكَ اللَّهُ لَكَ فِي أَهْلِكَ وَمَالِكَ",
+        "indopak": "بَارَكَ اللّٰهُ لَكَ فِيْ اَهْلِكَ وَمَالِكَ",
+        "clean": "بارك الله لك في اهلك ومالك",
+        "transliteration": "BaarakAllahu laka fee 'ahlika wa maalika",
+        "reference": "Bukhari: 3780, 5167",
+        "audio": 458,
+        "cat_id": 24,
+        "subcat_id": 76
+      },
+      "source": {
+        "name": "To one who has offered you some of his wealth",
+        "content": "When Saad (RA) wanted to give half of his family and wealth, Abdur Rahman (RA) said -",
+        "translation": "May Allah bless you in your family and your property.",
+        "note": "`Abdur-Rahman (RA) then said, \"Where is your market?\" So they showed him the Qainuqa' market. (He went there and) returned with a profit in the form of dried yogurt and butter. He continued going (to the market) till one day he came, bearing the traces of yellow scent. The Prophet (ﷺ) asked, \"What is this (scent)?\" He replied, \"I got married.\" The Prophet (ﷺ) asked, \"How much Mahr did you give her?\" He replied, \"I gave her a datestone of gold or a gold piece equal to the weight of a date-stone.\" The Prophet (ﷺ) said, \"Arrange a marriage banquet even with a sheep."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        459
+      ],
+      "id": 459,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 459,
+        "groups": null,
+        "uthmani": "بَارَكَ اللَّهُ لَكَ فِي أَهْلِكَ وَمَالِكَ، إِنَّمَا جَزَاءُ السَّلَفِ الْحَمْدُ وَالْأَدَاءُ",
+        "indopak": "بارَكَ اللّٰهُ لَكَ فِىْ اَهْلِكَ وَمَالِكَ، اِنَّمَا جَزَاءُ السَّلَفِ الْحَمْدُ وَالْاَدَاءُ",
+        "clean": "بارك الله لك في اهلك ومالك انما جزاء السلف الحمد والاداء",
+        "transliteration": "BaarakAllahu laka fee 'ahlika wa maalika, 'innamaa jazaa'us-salafil-hamdu wal'adaa'",
+        "reference": "Sahih (Albani). An-Nasai: 4683",
+        "audio": null,
+        "cat_id": 24,
+        "subcat_id": 76
+      },
+      "source": {
+        "name": "To the debtor when his debt is settled",
+        "content": "When repaying the loan, the Prophet (ﷺ) said:",
+        "translation": "May Allah bless you in your family and your wealth, surely the reward for a loan is praise and returning (what was borrowed).",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        460
+      ],
+      "id": 460,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 460,
+        "groups": "[{\"id\": 460, \"name\": null, \"cat_id\": 27, \"subcat_id\": 82, \"content\": \"Aaishah (RA) then said:\", \"uthmani\": \"\\u0648\\u064e\\u0641\\u0650\\u064a\\u0647\\u0650\\u0645\\u0652 \\u0628\\u064e\\u0627\\u0631\\u064e\\u0643\\u064e \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f\", \"indopak\": \"\\u0648\\u064e\\u0641\\u0650\\u064a\\u0652\\u0647\\u0650\\u0645\\u0652 \\u0628\\u064e\\u0627\\u0631\\u064e\\u0643\\u064e \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f\", \"clean\": \"\\u0648\\u0641\\u064a\\u0647\\u0645 \\u0628\\u0627\\u0631\\u0643 \\u0627\\u0644\\u0644\\u0647\", \"transliteration\": \"Wa feehim baarakAllah\", \"translation\": \"And may Allah bless them.\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 460, \"name\": null, \"cat_id\": 27, \"subcat_id\": 82, \"content\": \"So we return their supplication in a similar way and our reward will remain with us:\", \"uthmani\": \"\\u0648\\u064e\\u0641\\u0650\\u064a\\u0643\\u064e \\u0628\\u064e\\u0627\\u0631\\u064e\\u0643\\u064e \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f\", \"indopak\": \"\\u0648\\u064e\\u0641\\u0650\\u064a\\u0652\\u0643\\u064e \\u0628\\u064e\\u0627\\u0631\\u064e\\u0643\\u064e \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f\", \"clean\": \"\\u0648\\u0641\\u064a\\u0643 \\u0628\\u0627\\u0631\\u0643 \\u0627\\u0644\\u0644\\u0647\", \"transliteration\": \"Wa feeka baarakAllah\", \"translation\": \"And May Allah bless you.\", \"note\": null, \"reference\": \"Ibn As-Sunni (Page 138 , Hadith no. 278). Also see, Ibnul Qaiyyum's Al Wabilus Sayyeb Page 304. Tahkeek, Bashir Muhammad Uyun\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "بَارَكَ اللَّهُ فِيكُمْ",
+        "indopak": "بَارَكَ اللّٰهُ فِيْكُمْ",
+        "clean": "بارك الله فيكم",
+        "transliteration": "BaarakAllahu feekum",
+        "reference": null,
+        "audio": 460,
+        "cat_id": 27,
+        "subcat_id": 82
+      },
+      "source": {
+        "name": "Dua to one who says 'May Allah bless you'",
+        "content": "Aaishah (RA) reported that the Messenger of Allah (ﷺ) was given a sheep and he ordered for its distribution. When the servant would come back [from distributing it], 'Aaishah (RA) asked, \"What did they say?\", he replied, \"They supplicated:",
+        "translation": "May Allah bless you all.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        461
+      ],
+      "id": 461,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 461,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ لَا طَيْرَ إِلَّا طَيْرُكَ وَلَا خَيْرَ إِلَّا خَيْرُكَ وَلَا إِلَهَ غَيْرُكَ",
+        "indopak": "اَللّٰهُمَّ لَا طَيْرَ اِلَّا طَيْرُكَ وَلَا خَيْرَ اِلَّا خَيْرُكَ وَلَا اِلٰهَ غَيْرُكَ",
+        "clean": "اللهم لا طير الا طيرك ولا خير الا خيرك ولا اله غيرك",
+        "transliteration": "Allaahumma laa tayra 'illaa tayruka, wa laa khayra 'illaa khayruka, wa laa 'ilaaha ghayruk",
+        "reference": "Sahih (Albani). Silsila Sahiha: 1065, Musnad Ahmad: 7045",
+        "audio": 461,
+        "cat_id": 27,
+        "subcat_id": 82
+      },
+      "source": {
+        "name": "Forbiddance of ascribing things to omens",
+        "content": null,
+        "translation": "O Allah there is no portent other than Your portent, no goodness other than Your goodness, and none worthy of worship other than You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        462
+      ],
+      "id": 462,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 462,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 1239",
+        "audio": null,
+        "cat_id": 28,
+        "subcat_id": 83
+      },
+      "source": {
+        "name": "In the case of sneezing Prophet (ﷺ)'s order #1",
+        "content": "Narrated Al-Bara' bin `Azib (RA): Allah's Messenger (ﷺ) ordered us to do seven things and forbade us to do other seven. He ordered us: to follow the funeral procession. to visit the sick, to accept invitations, to help the oppressed, to fulfill the oaths, to return the greeting and to reply to the sneezer: (saying, \"May Allah be merciful on you,\" provided the sneezer says, \"All the praises are for Allah,\"). He forbade us to use silver utensils and dishes and to wear golden rings, silk (clothes), Dibaj (pure silk cloth), Qissi and Istabraq (two kinds of silk cloths).",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        463
+      ],
+      "id": 463,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 463,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 1240",
+        "audio": null,
+        "cat_id": 28,
+        "subcat_id": 83
+      },
+      "source": {
+        "name": "In the case of sneezing Prophet (ﷺ)'s order #2",
+        "content": "Narrated Abu Huraira: I heard Allah's Messenger (ﷺ) saying, \"The rights of a Muslim on the Muslims are five: to respond to the salaam, visiting the sick, to follow the funeral processions, to accept an invitation, and to return the greeting and to reply to the sneezer: (saying, \"May Allah be merciful on you,\" provided the sneezer says, \"All the praises are for Allah,\").",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        464
+      ],
+      "id": 464,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 464,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 3289",
+        "audio": null,
+        "cat_id": 28,
+        "subcat_id": 83
+      },
+      "source": {
+        "name": "In the case of sneezing Prophet (ﷺ)'s order #3",
+        "content": "Narrated by Abu Hurairah (RA), that the Messenger of Allah (ﷺ) said: \"Indeed Allah loves sneezing and He dislikes the yawn. So when one of you sneezes and says 'Al-Hamdulillah (All praise is due to Allah),' then it is a right due from every one who hears him to say: 'Yarhamukallah (May Allah have mercy upon you)' As for yawning then when one of you yawns let him suppress it as much as possible and not say: \"Hah Hah' for that is only from Ash-Shaitan laughing at him.\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        465
+      ],
+      "id": 465,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 465,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Sahih (Albani). Silsilah Sahihah: 1330",
+        "audio": null,
+        "cat_id": 28,
+        "subcat_id": 83
+      },
+      "source": {
+        "name": "How many times do you have to respond to sneezing?",
+        "content": "Narrated Abu Huraira (RA): I heard the Messenger of Allah (ﷺ), say, \"If one of you sneezes, the person next to him should say, 'Yarhamukallah'; \"If you sneeze more than three times, you will understand that he has a cold. So you don't have to say 'Yarhamukallah' after three times.”",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        466
+      ],
+      "id": 466,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 466,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Hasan Sahih (Albani). Abu Dawud: 5029",
+        "audio": null,
+        "cat_id": 28,
+        "subcat_id": 83
+      },
+      "source": {
+        "name": "Manners in sneezing",
+        "content": "Narrated Abu Hurayrah (RA): When the Messenger of Allah (ﷺ) sneezed, he placed his hand or a garment on his mouth, and lessened the noise.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        467
+      ],
+      "id": 467,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 467,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Muslim: 2995",
+        "audio": null,
+        "cat_id": 28,
+        "subcat_id": 83
+      },
+      "source": {
+        "name": "Etiquette in yawn",
+        "content": "Allah's Messenger (ﷺ) said: When one of you yawns, he should keep his mouth shut with the help of his hand, for it is the devil that enters therein.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    }
+  ]
+}

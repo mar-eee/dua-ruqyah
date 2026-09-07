@@ -1,0 +1,223 @@
+{
+  "table": "drawer_items",
+  "chunk": "drawer_items_002.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 3,
+  "id_range": "4-6",
+  "source_chars": 1748,
+  "items": [
+    {
+      "key": [
+        4
+      ],
+      "id": 4,
+      "part": 2,
+      "of": 2,
+      "frozen": {
+        "id": 4,
+        "item_type": "about_this_app",
+        "display_order": 4,
+        "created_at": 0,
+        "updated_at": 0
+      },
+      "source": {},
+      "target": {},
+      "content_sections": [
+        {
+          "index": 40,
+          "key": "text",
+          "source": "This app was made possible by the dedication of Islamic scholars, developers, and the generous support of the Muslim community. We extend our deepest gratitude to all who have helped make this spiritual resource available.",
+          "target": ""
+        },
+        {
+          "index": 42,
+          "key": "text",
+          "source": "May Allah accept our humble efforts and make this app a source of continuous benefit (Sadaqah Jariyah) for everyone involved in its creation and use. Ameen.",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        5
+      ],
+      "id": 5,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 5,
+        "item_type": "thanks_and_credit",
+        "display_order": 5,
+        "created_at": 0,
+        "updated_at": 0
+      },
+      "source": {
+        "title": "Acknowledgements & Credits",
+        "hero_title1": "In Gratitude to Allah",
+        "hero_title2": "and All Who Contributed"
+      },
+      "target": {
+        "title": "",
+        "hero_title1": "",
+        "hero_title2": ""
+      },
+      "content_sections": [
+        {
+          "index": 0,
+          "key": "text",
+          "source": "Alhamdulillah. All praise is for Allah, who granted us the ability (tawfiq) to accomplish this work. May countless blessings and peace be upon our beloved Prophet Muhammad (ﷺ), his family, his noble Companions, and all the righteous servants of Allah.",
+          "target": ""
+        },
+        {
+          "index": 2,
+          "key": "text",
+          "source": "Many individuals have assisted us in this project, and we are deeply grateful to each of them. May Allah the Almighty reward them all abundantly. Ameen.",
+          "target": ""
+        },
+        {
+          "index": 4,
+          "key": "text",
+          "source": "Contributors & Sources",
+          "target": ""
+        },
+        {
+          "index": 6,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 6,
+          "key": "details",
+          "source": "The Holy Quran",
+          "target": ""
+        },
+        {
+          "index": 8,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 8,
+          "key": "details",
+          "source": "Various Hadith books including the Kutub as-Sittah",
+          "target": ""
+        },
+        {
+          "index": 10,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 10,
+          "key": "details",
+          "source": "Hisnul Muslim (Sa'id ibn Ali al-Qahtani)",
+          "target": ""
+        },
+        {
+          "index": 12,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 12,
+          "key": "details",
+          "source": "Rahe Belayat (Dr. Khondokar Abdullah Jahangir)",
+          "target": ""
+        },
+        {
+          "index": 14,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 14,
+          "key": "details",
+          "source": "Various books by Sheikh Wahid bin Abdus Salam Bali, Dr. Khalid Al-Juraisi, and Omar Suleiman Al-Ashqar.",
+          "target": ""
+        },
+        {
+          "index": 16,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 16,
+          "key": "details",
+          "source": "The IRD App & Website Developer Teams",
+          "target": ""
+        },
+        {
+          "index": 18,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 18,
+          "key": "details",
+          "source": "Financial contributors to IRD projects",
+          "target": ""
+        },
+        {
+          "index": 20,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 20,
+          "key": "details",
+          "source": "Every member of the IRD Team",
+          "target": ""
+        },
+        {
+          "index": 22,
+          "key": "text",
+          "source": "We also extend our heartfelt gratitude to everyone who has been involved with the Dua & Ruqyah app, whether directly or indirectly.",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        6
+      ],
+      "id": 6,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 6,
+        "item_type": "contact_us",
+        "display_order": 6,
+        "created_at": 0,
+        "updated_at": 0
+      },
+      "source": {
+        "title": "Contact Us",
+        "hero_title1": "We Welcome Your Feedback",
+        "hero_title2": "and Suggestions"
+      },
+      "target": {
+        "title": "",
+        "hero_title1": "",
+        "hero_title2": ""
+      },
+      "content_sections": [
+        {
+          "index": 0,
+          "key": "text",
+          "source": "We are building a platform to empower the Muslim Ummah and foster connections within our global community. We value your feedback and would love to hear from you. Please feel free to reach out using the methods below, and we will get back to you as soon as possible, insha'Allah.",
+          "target": ""
+        }
+      ]
+    }
+  ]
+}

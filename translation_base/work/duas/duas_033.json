@@ -1,0 +1,588 @@
+{
+  "table": "duas",
+  "chunk": "duas_033.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 18,
+  "id_range": "468-485",
+  "source_chars": 5865,
+  "items": [
+    {
+      "key": [
+        468
+      ],
+      "id": 468,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 468,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ",
+        "clean": "الحمد لله",
+        "transliteration": "Alhamdu lillaah",
+        "reference": "Bukhari: 6224",
+        "audio": 468,
+        "cat_id": 28,
+        "subcat_id": 84
+      },
+      "source": {
+        "name": "Dua upon sneezing #1",
+        "content": "The Prophet (ﷺ) said, If one of you sneezes, let him say:",
+        "translation": "All praise is for Allah.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        469
+      ],
+      "id": 469,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 469,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ (عَلَى كُلِّ حَالٍ)",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ (عَلٰى كُلِّ حَالٍ)",
+        "clean": "الحمد لله علي كل حال",
+        "transliteration": "Alhamdu lillaahi ('alaa kulli haal)",
+        "reference": "Sahih (Albani). Tirmidhi: 2741",
+        "audio": 469,
+        "cat_id": 28,
+        "subcat_id": 84
+      },
+      "source": {
+        "name": "Dua upon sneezing #2",
+        "content": "Or If anyone sneeze, you will say -",
+        "translation": "Praise is to Allah in all circumstances.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        470
+      ],
+      "id": 470,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 470,
+        "groups": null,
+        "uthmani": "يَرْحَمُكَ اللَّهُ",
+        "indopak": "يَرْحَمُكَ اللّٰهُ",
+        "clean": "يرحمك الله",
+        "transliteration": "Yarhamuk-Allah",
+        "reference": "Bukhari: 1240, 6224",
+        "audio": 470,
+        "cat_id": 28,
+        "subcat_id": 84
+      },
+      "source": {
+        "name": "Dua upon sneezing #3",
+        "content": "If you hear the sneezer say (Alhamdulillah), the listener will say -",
+        "translation": "May Allah have mercy upon you.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        471
+      ],
+      "id": 471,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 471,
+        "groups": null,
+        "uthmani": "يَهْدِيْكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ",
+        "indopak": "يَهْدِيْكُمُ اللّٰهُ وَيُصْلِحُ بَالَكُمْ",
+        "clean": "يهديكم الله ويصلح بالكم",
+        "transliteration": "Yahdeekum-ullaahu wa yuslihu baalakum",
+        "reference": "Sahih (Albani). Tirmidhi: 2741",
+        "audio": 471,
+        "cat_id": 28,
+        "subcat_id": 84
+      },
+      "source": {
+        "name": "Dua upon sneezing #4",
+        "content": "When the sneezer (Yarhamukallah) said, he replied -",
+        "translation": "May Allah guide you and set your affairs in order.",
+        "note": "Special instructions have been given in the hadith to answer the sneeze dua like answering the salutation. These Sunnahs are neglected in our society."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        472
+      ],
+      "id": 472,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 472,
+        "groups": null,
+        "uthmani": "يَرْحَمُنَا اللَّهُ وَإِيَّاكُمْ، وَيَغْفِرُ لَنَا وَلَكُمْ",
+        "indopak": "يَرْحَمُنَا اللّٰهُ وَاِيَّاكُمْ، وَيَغْفِرُ لَنَا وَلَكُمْ",
+        "clean": "يرحمنا الله واياكم ويغفر لنا ولكم",
+        "transliteration": "yar'hamunallahu wa iyyakum wa yaghfiru lanaa walakum",
+        "reference": "Adabul Mufrad: 941",
+        "audio": 472,
+        "cat_id": 28,
+        "subcat_id": 84
+      },
+      "source": {
+        "name": "Dua upon sneezing #5",
+        "content": "The person who responds to someone's sneeze should say, Yarhamukallah. Then the sneezer will say again -",
+        "translation": "May Allah shower his mercy upon you and us and forgive you and us.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        473
+      ],
+      "id": 473,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 473,
+        "groups": null,
+        "uthmani": "يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُم",
+        "indopak": "يَهْدِيْكُمُ اللّٰهُ وَيُصْلِحُ بَالَكُمْ",
+        "clean": "يهديكم الله ويصلح بالكم",
+        "transliteration": "Yahdeekum-ullaahu wa yuslihu baalakum",
+        "reference": "Sahih (Albani). Tirmidhi: 2739",
+        "audio": 473,
+        "cat_id": 28,
+        "subcat_id": 84
+      },
+      "source": {
+        "name": "What is said to a kaafir when he sneezes",
+        "content": null,
+        "translation": "May Allah guide you and set your affairs in order.",
+        "note": "Narrated Abu Musa Ashari (RA): The Jews used to come to the Prophet (ﷺ) and sneeze. They hoped that the Prophet (ﷺ) would say for them ‘Yar’ hamukalla-hu (may Allah have mercy on you!) But the Prophet (ﷺ) would say- (the above prayer)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        474
+      ],
+      "id": 474,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 474,
+        "groups": null,
+        "uthmani": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الْغَفُورُ",
+        "indopak": "رَبِّ اغْفِرْ لِيْ وَتُبْ عَلٰىَّ اِنَّكَ اَنْتَ التَّوَّابُ الْغَفُوْرُ",
+        "clean": "رب اغفر لي وتب علي انك انت التواب الغفور",
+        "transliteration": "Rabbighfir lee watub 'alayya 'innaka 'Antat-Tawwaabul-Ghafoor",
+        "reference": "Sahih (Albani). Tirmidhi: 3434",
+        "audio": 474,
+        "cat_id": 28,
+        "subcat_id": 85
+      },
+      "source": {
+        "name": "Dua said at a sitting or gathering etc",
+        "content": null,
+        "translation": "My Lord, forgive me and accept my repentance, You are the Ever-Relenting, the All-Forgiving.",
+        "note": "Ibn 'Umar (RA) said: It would be counted that at any one sitting, the Messenger of Allah (ﷺ) before getting up would say one hundred times:(The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        475
+      ],
+      "id": 475,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 475,
+        "groups": null,
+        "uthmani": "سُبْحَانَكَ اَللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+        "indopak": "سُبْحَانَكَ اللّٰهُمَّ وَبِحَمْدِكَ، اَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اَنْتَ، اَسْتَغْفِرُكَ وَاَتُوْبُ اِلَيْكَ",
+        "clean": "سبحانك اللهم وبحمدك اشهد ان لا اله الا انت استغفرك واتوب اليك",
+        "transliteration": "Subhaanaka Allaahumma wa bihamdika, 'ash-hadu 'an laa 'ilaaha 'illaa 'Anta, 'astaghfiruka wa 'atoobu 'ilayka",
+        "reference": "Hasan Sahih (Albani). Abu Daud:4859",
+        "audio": 475,
+        "cat_id": 28,
+        "subcat_id": 85
+      },
+      "source": {
+        "name": "Dua at the end of a sitting/gathering [Kaffaratul Majlis]",
+        "content": null,
+        "translation": "Glory is to You, O Allah, and praise is to You. I bear witness that there is none worthy of worship but You. I seek Your forgiveness and repent to You.",
+        "note": "Aishah (RA) said: 'Allah's Messenger (ﷺ) did not sit in a gathering, and did not recite the Qur'an, and did not perform any prayer without concluding by saying: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        476
+      ],
+      "id": 476,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 476,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِيْ بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ بِنِعْمَتِهٖ تَتِمُّ الصَّالِحَاتُ",
+        "clean": "الحمد لله الذي بنعمته تتم الصالحات",
+        "transliteration": "Alhamdu lillaahil-lathee bini'matihi tatimmus-saalihaat",
+        "reference": "Hasan (Albani). Ibn Majah: 3803",
+        "audio": 476,
+        "cat_id": 28,
+        "subcat_id": 86
+      },
+      "source": {
+        "name": "Upon receiving pleasing news",
+        "content": "When He (ﷺ) used to receive pleasant news, He (ﷺ) would say:",
+        "translation": "Praise is to Allah Who by His blessings all good things are perfected.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        477
+      ],
+      "id": 477,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 477,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ عَلٰى كُلِّ حَالٍ",
+        "clean": "الحمد لله علي كل حال",
+        "transliteration": "Alhamdu lillaahi 'alaa kulli haal",
+        "reference": "Hasan (Albani). Ibn Majah: 3803",
+        "audio": 477,
+        "cat_id": 28,
+        "subcat_id": 86
+      },
+      "source": {
+        "name": "Upon receiving displeasing news",
+        "content": "And if something happened that displeased him, he used to say:",
+        "translation": "Praise is to Allah in all circumstances.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        478
+      ],
+      "id": 478,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 478,
+        "groups": null,
+        "uthmani": "أَحْسِبُ فُلَانًا وَاللَّهُ حَسِيْبُهُ وَلَا أُزَكِّيْ عَلَى اللَّهِ أَحَدًا أَحْسِبُهُ كَذَا وَكَذَا",
+        "indopak": "اَحْسِبُ فُلَانًا وَاللّٰهُ حَسِيْبُهٗ وَلَا اُزَكِّيْ عَلَى اللّٰهِ اَحَدًا اَحْسِبُهٗ كَذَا وَكَذَا",
+        "clean": "احسب فلانا والله حسيبه ولا ازكي علي الله احدا احسبه كذا وكذا",
+        "transliteration": "A’hsibu fulanan wallahu ‘hasiibuhu wa laa ‘uzakkii ‘alAllahi a’hadan a’hsibuhu kaza wa kaza",
+        "reference": "Bukhari: 2662",
+        "audio": 478,
+        "cat_id": 28,
+        "subcat_id": 87
+      },
+      "source": {
+        "name": "Masnun zikr to praise someone",
+        "content": "The Prophet (ﷺ) said: If you ever have to praise someone, say:",
+        "translation": "I think that he is so and so, and Allah knows exactly the truth, and I do not confirm anybody's good conduct before Allah, but I think him so and so.",
+        "note": "It is a crime to slander a person from behind and praise him from the front. In the case of praise, one's special nature or quality can be praised. It is forbidden in the Hadith to praise someone or to say that someone is good. In the case of praise, I have to say: I think such a person is good; Confirmation cannot be expressed."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        479
+      ],
+      "id": 479,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 479,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ لَا تُؤَاخِذْنِيْ بِمَا يَقُوْلُوْنَ وَاغْفِرْ لِي مَا لَا يَعْلَمُوْنَ (وَاجْعَلْنِيْ خَيْرًا مِمَّا يَظُنُّوْنَ)",
+        "indopak": "اَللّٰهُمَّ لَا تُؤَاخِذْنِيْ بِمَا يَقُوْلُوْنَ وَاغْفِرْ لِيْ مَا لَا يَعْلَمُوْنَ (وَاجْعَلْنِيْ خَيْرًا مِمَّا يَظُنُّوْنَ)",
+        "clean": "اللهم لا تءاخذني بما يقولون واغفر لي ما لا يعلمون واجعلني خيرا مما يظنون",
+        "transliteration": "Allaahumma laa tu'aakhidhnee bimaa yaqooloona, waghfir lee maa laa ya'lamoona [waj'alnee khayram-mimmaa yadhunnoon]",
+        "reference": "Sahih (Albani). Adabul Mufrad: 761",
+        "audio": 479,
+        "cat_id": 28,
+        "subcat_id": 87
+      },
+      "source": {
+        "name": "Dua for the praiser",
+        "content": null,
+        "translation": "Oh Allah, do not call me to account for what they say and forgive me for what they have no knowledge of [and make me better than they imagine].",
+        "note": "It was the custom of the Companions that they would feel discomfort if anyone called them righteous or praised them. If someone praise them, they would say- (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        480
+      ],
+      "id": 480,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 480,
+        "groups": null,
+        "uthmani": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
+        "indopak": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ",
+        "clean": "السلام عليكم ورحمه الله وبركاته",
+        "transliteration": "As-salaamu 'alaykum wara'hmatullaahi wa barakaatuh",
+        "reference": "[1] Musnad Ahmad 1430\n[2] Sahih Bukhari (With Fathul Baari) 1/82\n[3] Sahih Bukhari (With Fathul Baari) 1/55",
+        "audio": 480,
+        "cat_id": 28,
+        "subcat_id": 88
+      },
+      "source": {
+        "name": "Spread of salutations",
+        "content": null,
+        "translation": "Peace be upon you, and the Mercy of Allah and His Blessings.",
+        "note": "By the One in Whose Hand is the soul of Muhammad, you will not enter Paradise until you believe, and you will not believe until you love one another. Shall I not tell you of something that will help you to achieve that? Spread (the greeting of) salaam amongst yourselves.` [1]\n\nThe person who can combine three things, can combines faith-\n1. Justice for oneself,\n2. Give salaam to everyone in the world, and\n3. Give charity despite having few wealth [2]\n\nOnce a man asked prophet (ﷺ) which deed is best in islam ? prophet (ﷺ) replied that, “To feed people and give salaam to the persons who are known or unknown to you. [3]"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        481
+      ],
+      "id": 481,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 481,
+        "groups": null,
+        "uthmani": "وَعَلَيْكُمْ",
+        "indopak": "وَعَلَيْكُمْ",
+        "clean": "وعليكم",
+        "transliteration": "Wa 'alaykum",
+        "reference": "Bukhari: 6258",
+        "audio": 481,
+        "cat_id": 28,
+        "subcat_id": 88
+      },
+      "source": {
+        "name": "Returning a greeting to a kaafir",
+        "content": "When the people of the Book greet you, reply by saying:",
+        "translation": "And upon you",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        482
+      ],
+      "id": 482,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 482,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "indopak": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اعوذ بالله من الشيطان الرجيم",
+        "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
+        "reference": "Bukhari: 3282",
+        "audio": 482,
+        "cat_id": 28,
+        "subcat_id": 89
+      },
+      "source": {
+        "name": "Blessings of anger control",
+        "content": null,
+        "translation": "I seek refuge in Allah from Satan the outcast.",
+        "note": "Sulaiman ibn Surad (RA) said: The Messenger of Allah (ﷺ) said: Saying these words will remove the anger of the angry person.\n\nWe have seen that suppressing anger and forgiving those who are angry is one of the ways to gain Allah's mercy. Therefore, when a believer feels anger, he should say this sentence again and again, looking at the meaning."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        483
+      ],
+      "id": 483,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 483,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ فَأَيُّمَا مُؤْمِنٍ سَبَبْتُهُ فَاجْعَلْ ذَلِكَ لَهُ قُرْبَةً إِلَيْكَ يَوْمَ الْقِيَامَةِ",
+        "indopak": "اَللّٰهُمَّ فَاَيُّمَا مُؤْمِنٍ سَبَبْتُهٗ فَاجْعَلْ ذٰلِكَ لَهٗ قُرْبَةً اِلَيْكَ يَوْمَ الْقِيَامَةِ",
+        "clean": "اللهم فايما مءمن سببته فاجعل ذلك له قربه اليك يوم القيامه",
+        "transliteration": "Allaahumma fa'ayyumaa mu'minin sababtuhu faj'al thaalika lahu qurbatan 'ilayka yawmal-qiyaamah",
+        "reference": "Bukhari: 6361",
+        "audio": 483,
+        "cat_id": 28,
+        "subcat_id": 89
+      },
+      "source": {
+        "name": "For one you have insulted",
+        "content": null,
+        "translation": "O Allah, whomever of the believers I have abused, give him the reward of a sacrificial slaughter for it on the Day of Resurrection.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        484
+      ],
+      "id": 484,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 484,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَا إِلَهَ إِلَّا اللَّهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، لَا إِلَهَ إِلَّا اللَّهُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَاللّٰهُ اَكْبَرُ، لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ، لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَا اِلٰهَ اِلَّا اللّٰهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، لَا اِلٰهَ اِلَّا اللّٰهُ وَلَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ",
+        "clean": "لا اله الا الله والله اكبر لا اله الا الله وحده لا اله الا الله وحده لا شريك له لا اله الا الله له الملك وله الحمد لا اله الا الله ولا حول ولا قوه الا بالله",
+        "transliteration": "Laa 'ilaaha 'illAllahu wAllahu 'Akbar, laa 'ilaaha 'illAllahu wahdahu, laa 'ilaaha 'illAllahu wahdahu laa shareeka lahu, laa 'ilaaha 'illAllahu lahul-mulku wa lahul-hamdu, laa 'ilaaha 'illAllahu wa laa hawla wa laa quwwata 'illaa billaah",
+        "reference": "Sahih (Albani). Tirmidhi: 3430",
+        "audio": 484,
+        "cat_id": 28,
+        "subcat_id": 89
+      },
+      "source": {
+        "name": "Dua for Allah's response and forgiveness",
+        "content": null,
+        "translation": "There is none worthy of worship but Allah, Allah is the Most Great. None has the right to be worshipped but Allah alone. None has the right to be worshipped but Allah alone, Who has no partner. There is none worthy of worship but Allah, His is the dominion and His is the praise. There is none worthy of worship but Allah, there is no power and no might but by Allah.",
+        "note": "Abu Saeed Khudri (RA) and Abu Hurairah (RA) said that the Messenger of Allah (ﷺ) said that when a servant says these words, Allah responds to him and if someone says these words while he is ill and then dies, the fire will not touch him."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        485
+      ],
+      "id": 485,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 485,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَبَّ جِبْرَائِيْلَ وَمِيْكَائِيْلَ وَإِسْرَافِيلَ فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ اهْدِنِيْ لِمَا اخْتُلِفَ فِيهِ مِنَ الْحَقِّ بِإِذْنِكَ إِنَّكَ تَهْدِيْ مَنْ تَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيْمٍ",
+        "indopak": "اَللّٰهُمَّ رَبَّ جِبْرَائِيْلَ وَمِيْكَائِيْلَ وَاِسْرَافِيْلَ فَاطِرَ السَّمَاوَاتِ وَالْاَرْضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ اَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيْمَا كَانُوْا فِيْهِ يَخْتَلِفُوْنَ اهْدِنِيْ لِمَا اخْتُلِفَ فِيْهِ مِنَ الْحَقِّ بِاِذْنِكَ اِنَّكَ تَهْدِيْ مَنْ تَشَآءُ اِلٰى صِرَاطٍ مُّسْتَقِيْمٍ",
+        "clean": "اللهم رب جبراءيل وميكاءيل واسرافيل فاطر السماوات والارض عالم الغيب والشهاده انت تحكم بين عبادك فيما كانوا فيه يختلفون اهدني لما اختلف فيه من الحق باذنك انك تهدي من تشاء الي صراط مستقيم",
+        "transliteration": "Allaahumma rabba jibra-eel, wameeka-eel, wa-israafeel faatiras-samawaati wal-ardi, AAalimal-ghaybi washshahaadah, anta tahkumu bayna ibaadika feemaa kanoo feehi yakhtalifoon ihdinee limakh-tulifa feehi minal-haqqi bi-idhnika, innaka tahdee man tashaa-o ilaa siraatin mustaqeem",
+        "reference": "Muslim: 770",
+        "audio": 485,
+        "cat_id": 28,
+        "subcat_id": 89
+      },
+      "source": {
+        "name": "Dua of researcher, mufti and truth seeker",
+        "content": null,
+        "translation": "O Allah, Lord of Jibra-eel, Meeka-eel and Israfeel (great angles), Creator of the heavens and the Earth, Knower of the seen and the unseen. You are the arbitrator between Your servants in that which they have disputed. Guide me to the truth by Your leave, in that which they have differed, for verily You guide whom You will to a straight path.",
+        "note": "Ayesha said, \"The Messenger of Allah (ﷺ), used to recite this du'a at the beginning of the night (tahajjud) prayer.\"\n\nIt should be noted that every researcher, scholar, mufti and truth-seeking believer should recite this dua more and more at the beginning of tahajjud, in prostration and at all other times. It is very important to seek guidance from Allah Almighty through this dua without relying entirely on one's own research, knowledge or anything else."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    }
+  ]
+}

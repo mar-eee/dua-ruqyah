@@ -1,0 +1,100 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_043.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 4,
+  "id_range": "88-91",
+  "source_chars": 5716,
+  "items": [
+    {
+      "key": [
+        88
+      ],
+      "id": 88,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 88,
+        "topic_id": null,
+        "cat_id": 5,
+        "subcat_id": 69
+      },
+      "source": {
+        "topic_name": null,
+        "text": "A person who afflicts others by the evil eye is known as “Al-A’in” and a person affected by the evil eye is called “Al-Ma’yoon”. Ibn Al Qayyim (R) said in his book Zaad al Ma’ad: “It is the arrow that is taken out from the soul of the envious individual, the one whom causes the affliction of the evil eye, and then it is fired upon the subject of the evil eye. This individual can be affected sometimes and manage to escape it at other times. If one encounters this and is exposed to it then there will be no protection from its effect, however it then becomes imperative if one encounters this to take care and prepare themselves with the best defence and not allow it to be implanted upon them. It is in this manner that a person can protect themselves from the envious individual and not be affected by them. Sometimes these arrows return to the one whom they belong and this archery makes the envious individual feel the same negativity in his life like the negatively he tried to push on the subject.\n\nAllah (ﷻ) says:\n\n<ar> وَإِن يَكَادُ الَّذِينَ كَفَرُوا لَيُزْلِقُونَكَ بِأَبْصَارِهِمْ لَمَّا سَمِعُوا الذِّكْرَ وَيَقُولُونَ إِنَّهُ لَمَجْنُونٌ ﴿٥١﴾ </ar>\n\n<b>Translation:</b> “And indeed, those who disbelieve would almost make you slip with their eyes when they hear the message and they say, \"Indeed, he is mad.’” (Al-Qalam: 51)\n\nIbn Katheer (R) uses this verse as evidence to show that the evil eye is real and that it has the ability to affect people since Allah (ﷻ) mentions ‘those who disbelieve would almost make you slip with their eyes when they hear the message’.\n\nAn incident which is narrated from the time of Prophet Muhammad (ﷺ) saw Quraish ask some people who were known to give the evil eye to another person which could cause illness, death or some other effect to put it on the Prophet (ﷺ). However, Allah (ﷻ) protected the Prophet Muhammad (ﷺ) from those who were intent on destroying him with Ayn.\n\nIbnul Qayyim (R) mentioned in his book Zaad al Ma’ad that some people have denied the effects of Ayn; and he describes these people as arrogant with no knowledge.\n\nAccording to some scholars the concept of effecting a person with the evil eye (Ayn) can be likened to the effect of when a person walks into a room and they feel embarrassment or shyness due to people looking at them, perhaps causing the face to change colour. Another example could be where someone sees someone they fear and they become pale in the face.\n\nIbnul Qayyim (R) describes it as a physical or spiritual effect that leaves the eye and affects the human being."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        89
+      ],
+      "id": 89,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 89,
+        "topic_id": null,
+        "cat_id": 5,
+        "subcat_id": 70
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>There are different types of Evil Eye which a person can become afflicted with. They are:</b>\n\n\n<ar1>(العين)</ar1> Ayn - The eye from someone who may love or know you and not have evil intentions towards you.\n\n<ar1>(الحســـد)</ar1> Hasad - The envious eye from someone who hates or dislikes you or something you have but wants it removed from you.\n.\n<ar1>(النفس)</ar1> Nafs - The admiring eye which a person can put on themself.\n\n<ar1>(النظرة)</ar1> Nathara - The evil eye which comes from the Jinn."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        90
+      ],
+      "id": 90,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 90,
+        "topic_id": null,
+        "cat_id": 5,
+        "subcat_id": 71
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>Ayn</b>\n\nThe Prophet (ﷺ) said: “The evil eye is real and if anything were to overtake Qadr (divine decree), it would have been the evil eye…”. This alludes to the speed of the evil eye and expresses that if anything was to overtake the decree of Allah it would have been the evil eye, i.e. in its speed.\n\n<b>Hasad</b>\n\nIblees envied Adam (AS) as he disliked his creation and the fact he was ordered to prostrate to him. He thought he was better because he was made from fire and Adam (AS) was created from clay. Therefore it was only envy which pushed iblees to transgress and disobey the order of Allah (ﷻ).\n\n<b>Nafs</b>\n\nThe Prophet (ﷺ) “Whoever among you sees something in himself or in his possessions or in his brother that he likes, let him pray for blessings for it because the evil eye is real.”\n\nNarrated by Ibn al-Sunni, Al-Haakim and classed as saheeh by Al-Albaani 243.\n\n<b>Nathara</b>\n\nThis originates from the evil eye of a Jinn. The evidence for this is the narration of Umm Salamah (RA) who said the Prophet (ﷺ) saw in her house a slave girl with a discolouration on her face so he said: “Perform Ruqyah for her, for she has been afflicted by the eye of a Jinn.”\n\nFrom the above, we see that the evil eye can be given by a human or by a Jinn. It is also known that animals can give the evil eye too when they look at something. There are many stories and encounters concerning this and Allah knows best."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        91
+      ],
+      "id": 91,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 91,
+        "topic_id": null,
+        "cat_id": 5,
+        "subcat_id": 72
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Allah (ﷻ) says:\n\n<ar> وَدَّ كَثِيرٌ مِّنْ أَهْلِ الْكِتَابِ لَوْ يَرُدُّونَكُم مِّن بَعْدِ إِيمَانِكُمْ كُفَّارًا حَسَدًا مِّنْ عِندِ أَنفُسِهِم مِّن بَعْدِ مَا تَبَيَّنَ لَهُمُ الْحَقُّ ۖ فَاعْفُوا وَاصْفَحُوا حَتَّىٰ يَأْتِيَ اللَّـهُ بِأَمْرِهِ ۗ إِنَّ اللَّـهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿١٠٩﴾ </ar>\n\n<b>Translation:</b> “Many of the people of the Scripture (Jews and Christians) wish if they could turn you away as disbelievers after you have believed out of envy from their own selves, even after the truth has become manifest unto them (i.e that Muhammad (ﷺ) is Allah’s Messenger).” (Al-Baqarah: 109) \n\nAllah (ﷻ) also says:\n\n<ar> أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ اللَّـهُ مِن فَضْلِهِ ۖ فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ وَآتَيْنَاهُم مُّلْكًا عَظِيمًا ﴿٥٤﴾ </ar>\n\n<b>Translation:</b> “Or do they envy people (i.e. Prophet Muhammad (ﷺ) and his followers) for what Allah has given them of His bounty? But we had already given the family of Ibraheem the Scripture and wisdom and conferred upon them a great kingdom (An-Nisa: 54) \n\nAllah (ﷻ) also says:\n\n<ar> وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾ </ar>\n\n<b>Translation:</b> “And from the evil of the envier when he envies.” (Al-Falaq: 5)"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

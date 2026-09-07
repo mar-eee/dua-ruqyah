@@ -1,0 +1,2281 @@
+{
+  "budget_chars": 6000,
+  "max_rows_per_file": 50,
+  "part_size_chars": 2000,
+  "excluded_tables": [
+    "book_details",
+    "books"
+  ],
+  "tables_without_text": [
+    "drawer_item_actions",
+    "ids"
+  ],
+  "frozen_fields": [
+    "id",
+    "groups",
+    "uthmani",
+    "indopak",
+    "clean",
+    "transliteration",
+    "reference",
+    "audio",
+    "cat_id",
+    "subcat_id",
+    "topic_id",
+    "icon",
+    "link",
+    "link_id",
+    "book_id",
+    "section_id",
+    "display_order",
+    "created_at",
+    "updated_at",
+    "item_type",
+    "type",
+    "dua_count",
+    "subcat_count"
+  ],
+  "totals": {
+    "files": 260,
+    "chars": 1297589,
+    "rows": 1992
+  },
+  "tables": {
+    "categories": {
+      "source": "en",
+      "translate_fields": [
+        "name"
+      ],
+      "key_fields": [
+        "id"
+      ],
+      "total_rows": 44,
+      "total_source_chars": 461,
+      "files": [
+        {
+          "file": "work/categories/categories_001.json",
+          "rows": 44,
+          "id_range": "1-44",
+          "source_chars": 461,
+          "items": 44,
+          "status": "pending"
+        }
+      ]
+    },
+    "subcategories": {
+      "source": "en",
+      "translate_fields": [
+        "name"
+      ],
+      "key_fields": [
+        "id"
+      ],
+      "total_rows": 118,
+      "total_source_chars": 3531,
+      "files": [
+        {
+          "file": "work/subcategories/subcategories_001.json",
+          "rows": 50,
+          "id_range": "1-50",
+          "source_chars": 1514,
+          "items": 50,
+          "status": "pending"
+        },
+        {
+          "file": "work/subcategories/subcategories_002.json",
+          "rows": 50,
+          "id_range": "51-100",
+          "source_chars": 1471,
+          "items": 50,
+          "status": "pending"
+        },
+        {
+          "file": "work/subcategories/subcategories_003.json",
+          "rows": 18,
+          "id_range": "101-118",
+          "source_chars": 546,
+          "items": 18,
+          "status": "pending"
+        }
+      ]
+    },
+    "sections": {
+      "source": "en",
+      "translate_fields": [
+        "name"
+      ],
+      "key_fields": [
+        "id",
+        "book_id"
+      ],
+      "total_rows": 21,
+      "total_source_chars": 846,
+      "files": [
+        {
+          "file": "work/sections/sections_001.json",
+          "rows": 21,
+          "id_range": "1-12",
+          "source_chars": 846,
+          "items": 21,
+          "status": "pending"
+        }
+      ]
+    },
+    "dua_infos": {
+      "source": "bn",
+      "translate_fields": [
+        "name",
+        "description"
+      ],
+      "key_fields": [
+        "id"
+      ],
+      "total_rows": 42,
+      "total_source_chars": 357024,
+      "files": [
+        {
+          "file": "work/dua_infos/dua_infos_001.json",
+          "rows": 2,
+          "id_range": "1-2",
+          "source_chars": 5764,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_002.json",
+          "rows": 2,
+          "id_range": "2-3",
+          "source_chars": 4478,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_003.json",
+          "rows": 1,
+          "id_range": "3-3",
+          "source_chars": 5444,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_004.json",
+          "rows": 2,
+          "id_range": "3-4",
+          "source_chars": 4269,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_005.json",
+          "rows": 1,
+          "id_range": "4-4",
+          "source_chars": 5104,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_006.json",
+          "rows": 1,
+          "id_range": "5-5",
+          "source_chars": 4920,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_007.json",
+          "rows": 1,
+          "id_range": "5-5",
+          "source_chars": 5952,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_008.json",
+          "rows": 1,
+          "id_range": "6-6",
+          "source_chars": 5037,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_009.json",
+          "rows": 1,
+          "id_range": "7-7",
+          "source_chars": 5050,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_010.json",
+          "rows": 1,
+          "id_range": "7-7",
+          "source_chars": 4641,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_011.json",
+          "rows": 1,
+          "id_range": "8-8",
+          "source_chars": 5735,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_012.json",
+          "rows": 1,
+          "id_range": "8-8",
+          "source_chars": 5662,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_013.json",
+          "rows": 1,
+          "id_range": "8-8",
+          "source_chars": 5740,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_014.json",
+          "rows": 1,
+          "id_range": "8-8",
+          "source_chars": 5668,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_015.json",
+          "rows": 1,
+          "id_range": "8-8",
+          "source_chars": 5152,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_016.json",
+          "rows": 1,
+          "id_range": "8-8",
+          "source_chars": 4508,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_017.json",
+          "rows": 1,
+          "id_range": "9-9",
+          "source_chars": 5315,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_018.json",
+          "rows": 1,
+          "id_range": "9-9",
+          "source_chars": 5495,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_019.json",
+          "rows": 1,
+          "id_range": "9-9",
+          "source_chars": 5164,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_020.json",
+          "rows": 2,
+          "id_range": "9-10",
+          "source_chars": 4910,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_021.json",
+          "rows": 2,
+          "id_range": "11-12",
+          "source_chars": 5623,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_022.json",
+          "rows": 1,
+          "id_range": "12-12",
+          "source_chars": 5427,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_023.json",
+          "rows": 2,
+          "id_range": "13-14",
+          "source_chars": 5951,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_024.json",
+          "rows": 1,
+          "id_range": "15-15",
+          "source_chars": 4842,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_025.json",
+          "rows": 1,
+          "id_range": "15-15",
+          "source_chars": 5405,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_026.json",
+          "rows": 1,
+          "id_range": "16-16",
+          "source_chars": 2741,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_027.json",
+          "rows": 1,
+          "id_range": "17-17",
+          "source_chars": 4939,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_028.json",
+          "rows": 1,
+          "id_range": "18-18",
+          "source_chars": 5461,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_029.json",
+          "rows": 1,
+          "id_range": "18-18",
+          "source_chars": 5533,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_030.json",
+          "rows": 1,
+          "id_range": "18-18",
+          "source_chars": 5314,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_031.json",
+          "rows": 2,
+          "id_range": "18-19",
+          "source_chars": 4993,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_032.json",
+          "rows": 1,
+          "id_range": "20-20",
+          "source_chars": 5409,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_033.json",
+          "rows": 1,
+          "id_range": "20-20",
+          "source_chars": 5179,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_034.json",
+          "rows": 1,
+          "id_range": "21-21",
+          "source_chars": 5213,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_035.json",
+          "rows": 2,
+          "id_range": "22-23",
+          "source_chars": 5492,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_036.json",
+          "rows": 1,
+          "id_range": "24-24",
+          "source_chars": 5336,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_037.json",
+          "rows": 2,
+          "id_range": "24-25",
+          "source_chars": 5364,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_038.json",
+          "rows": 1,
+          "id_range": "25-25",
+          "source_chars": 5423,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_039.json",
+          "rows": 1,
+          "id_range": "25-25",
+          "source_chars": 2134,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_040.json",
+          "rows": 2,
+          "id_range": "26-27",
+          "source_chars": 5788,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_041.json",
+          "rows": 1,
+          "id_range": "27-27",
+          "source_chars": 5431,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_042.json",
+          "rows": 2,
+          "id_range": "27-28",
+          "source_chars": 5620,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_043.json",
+          "rows": 1,
+          "id_range": "28-28",
+          "source_chars": 4610,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_044.json",
+          "rows": 3,
+          "id_range": "28-30",
+          "source_chars": 5947,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_045.json",
+          "rows": 2,
+          "id_range": "31-32",
+          "source_chars": 4763,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_046.json",
+          "rows": 1,
+          "id_range": "32-32",
+          "source_chars": 4564,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_047.json",
+          "rows": 1,
+          "id_range": "32-32",
+          "source_chars": 4873,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_048.json",
+          "rows": 1,
+          "id_range": "32-32",
+          "source_chars": 5516,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_049.json",
+          "rows": 2,
+          "id_range": "32-33",
+          "source_chars": 5972,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_050.json",
+          "rows": 1,
+          "id_range": "33-33",
+          "source_chars": 5489,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_051.json",
+          "rows": 1,
+          "id_range": "33-33",
+          "source_chars": 5644,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_052.json",
+          "rows": 1,
+          "id_range": "33-33",
+          "source_chars": 4741,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_053.json",
+          "rows": 1,
+          "id_range": "33-33",
+          "source_chars": 4883,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_054.json",
+          "rows": 1,
+          "id_range": "33-33",
+          "source_chars": 5455,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_055.json",
+          "rows": 2,
+          "id_range": "33-34",
+          "source_chars": 5805,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_056.json",
+          "rows": 1,
+          "id_range": "34-34",
+          "source_chars": 5455,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_057.json",
+          "rows": 2,
+          "id_range": "34-35",
+          "source_chars": 5547,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_058.json",
+          "rows": 1,
+          "id_range": "35-35",
+          "source_chars": 4695,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_059.json",
+          "rows": 1,
+          "id_range": "35-35",
+          "source_chars": 5053,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_060.json",
+          "rows": 1,
+          "id_range": "35-35",
+          "source_chars": 5535,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_061.json",
+          "rows": 1,
+          "id_range": "35-35",
+          "source_chars": 5748,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_062.json",
+          "rows": 2,
+          "id_range": "35-36",
+          "source_chars": 5049,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_063.json",
+          "rows": 1,
+          "id_range": "37-37",
+          "source_chars": 5670,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_064.json",
+          "rows": 1,
+          "id_range": "37-37",
+          "source_chars": 4704,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_065.json",
+          "rows": 1,
+          "id_range": "37-37",
+          "source_chars": 2549,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_066.json",
+          "rows": 1,
+          "id_range": "38-38",
+          "source_chars": 5474,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_067.json",
+          "rows": 1,
+          "id_range": "39-39",
+          "source_chars": 3459,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_068.json",
+          "rows": 1,
+          "id_range": "40-40",
+          "source_chars": 4764,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_069.json",
+          "rows": 2,
+          "id_range": "41-42",
+          "source_chars": 5331,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/dua_infos/dua_infos_070.json",
+          "rows": 1,
+          "id_range": "42-42",
+          "source_chars": 3103,
+          "items": 2,
+          "status": "pending"
+        }
+      ]
+    },
+    "duas": {
+      "source": "en",
+      "translate_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "key_fields": [
+        "id"
+      ],
+      "total_rows": 1001,
+      "total_source_chars": 349211,
+      "files": [
+        {
+          "file": "work/duas/duas_001.json",
+          "rows": 15,
+          "id_range": "1-15",
+          "source_chars": 5906,
+          "items": 15,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_002.json",
+          "rows": 18,
+          "id_range": "16-33",
+          "source_chars": 5847,
+          "items": 18,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_003.json",
+          "rows": 17,
+          "id_range": "34-50",
+          "source_chars": 5358,
+          "items": 17,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_004.json",
+          "rows": 12,
+          "id_range": "51-62",
+          "source_chars": 5991,
+          "items": 12,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_005.json",
+          "rows": 14,
+          "id_range": "63-76",
+          "source_chars": 5636,
+          "items": 14,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_006.json",
+          "rows": 14,
+          "id_range": "77-90",
+          "source_chars": 5695,
+          "items": 14,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_007.json",
+          "rows": 13,
+          "id_range": "91-103",
+          "source_chars": 5978,
+          "items": 13,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_008.json",
+          "rows": 13,
+          "id_range": "104-116",
+          "source_chars": 5817,
+          "items": 13,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_009.json",
+          "rows": 14,
+          "id_range": "117-130",
+          "source_chars": 5818,
+          "items": 14,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_010.json",
+          "rows": 9,
+          "id_range": "131-139",
+          "source_chars": 4193,
+          "items": 9,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_011.json",
+          "rows": 10,
+          "id_range": "140-149",
+          "source_chars": 5698,
+          "items": 10,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_012.json",
+          "rows": 13,
+          "id_range": "150-162",
+          "source_chars": 5776,
+          "items": 13,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_013.json",
+          "rows": 18,
+          "id_range": "163-180",
+          "source_chars": 5929,
+          "items": 18,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_014.json",
+          "rows": 13,
+          "id_range": "181-193",
+          "source_chars": 5853,
+          "items": 13,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_015.json",
+          "rows": 19,
+          "id_range": "194-212",
+          "source_chars": 5762,
+          "items": 19,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_016.json",
+          "rows": 16,
+          "id_range": "213-228",
+          "source_chars": 5592,
+          "items": 16,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_017.json",
+          "rows": 10,
+          "id_range": "229-238",
+          "source_chars": 5840,
+          "items": 10,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_018.json",
+          "rows": 14,
+          "id_range": "239-252",
+          "source_chars": 5876,
+          "items": 14,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_019.json",
+          "rows": 16,
+          "id_range": "253-268",
+          "source_chars": 5813,
+          "items": 16,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_020.json",
+          "rows": 10,
+          "id_range": "269-278",
+          "source_chars": 5340,
+          "items": 10,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_021.json",
+          "rows": 6,
+          "id_range": "279-284",
+          "source_chars": 5673,
+          "items": 6,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_022.json",
+          "rows": 14,
+          "id_range": "285-298",
+          "source_chars": 5601,
+          "items": 14,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_023.json",
+          "rows": 19,
+          "id_range": "299-317",
+          "source_chars": 5998,
+          "items": 19,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_024.json",
+          "rows": 13,
+          "id_range": "318-330",
+          "source_chars": 5722,
+          "items": 13,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_025.json",
+          "rows": 15,
+          "id_range": "331-345",
+          "source_chars": 5928,
+          "items": 15,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_026.json",
+          "rows": 20,
+          "id_range": "346-365",
+          "source_chars": 5979,
+          "items": 20,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_027.json",
+          "rows": 14,
+          "id_range": "366-379",
+          "source_chars": 5491,
+          "items": 14,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_028.json",
+          "rows": 18,
+          "id_range": "380-397",
+          "source_chars": 5997,
+          "items": 18,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_029.json",
+          "rows": 19,
+          "id_range": "398-416",
+          "source_chars": 5975,
+          "items": 19,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_030.json",
+          "rows": 16,
+          "id_range": "417-432",
+          "source_chars": 5932,
+          "items": 16,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_031.json",
+          "rows": 16,
+          "id_range": "433-448",
+          "source_chars": 5540,
+          "items": 16,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_032.json",
+          "rows": 19,
+          "id_range": "449-467",
+          "source_chars": 5957,
+          "items": 19,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_033.json",
+          "rows": 18,
+          "id_range": "468-485",
+          "source_chars": 5865,
+          "items": 18,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_034.json",
+          "rows": 12,
+          "id_range": "486-497",
+          "source_chars": 5700,
+          "items": 12,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_035.json",
+          "rows": 20,
+          "id_range": "498-517",
+          "source_chars": 5452,
+          "items": 20,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_036.json",
+          "rows": 16,
+          "id_range": "518-533",
+          "source_chars": 5983,
+          "items": 16,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_037.json",
+          "rows": 18,
+          "id_range": "534-551",
+          "source_chars": 5756,
+          "items": 18,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_038.json",
+          "rows": 12,
+          "id_range": "552-563",
+          "source_chars": 5886,
+          "items": 12,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_039.json",
+          "rows": 9,
+          "id_range": "564-572",
+          "source_chars": 5564,
+          "items": 9,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_040.json",
+          "rows": 10,
+          "id_range": "573-582",
+          "source_chars": 5982,
+          "items": 10,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_041.json",
+          "rows": 26,
+          "id_range": "583-608",
+          "source_chars": 5957,
+          "items": 26,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_042.json",
+          "rows": 27,
+          "id_range": "609-635",
+          "source_chars": 5886,
+          "items": 27,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_043.json",
+          "rows": 41,
+          "id_range": "636-676",
+          "source_chars": 5467,
+          "items": 41,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_044.json",
+          "rows": 19,
+          "id_range": "677-695",
+          "source_chars": 5782,
+          "items": 19,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_045.json",
+          "rows": 16,
+          "id_range": "696-711",
+          "source_chars": 5168,
+          "items": 16,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_046.json",
+          "rows": 11,
+          "id_range": "712-722",
+          "source_chars": 5729,
+          "items": 11,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_047.json",
+          "rows": 8,
+          "id_range": "723-730",
+          "source_chars": 5922,
+          "items": 8,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_048.json",
+          "rows": 18,
+          "id_range": "731-748",
+          "source_chars": 5989,
+          "items": 18,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_049.json",
+          "rows": 11,
+          "id_range": "749-759",
+          "source_chars": 5058,
+          "items": 11,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_050.json",
+          "rows": 10,
+          "id_range": "760-769",
+          "source_chars": 5701,
+          "items": 10,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_051.json",
+          "rows": 14,
+          "id_range": "770-783",
+          "source_chars": 5909,
+          "items": 14,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_052.json",
+          "rows": 10,
+          "id_range": "784-793",
+          "source_chars": 5842,
+          "items": 10,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_053.json",
+          "rows": 9,
+          "id_range": "794-802",
+          "source_chars": 5932,
+          "items": 9,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_054.json",
+          "rows": 22,
+          "id_range": "803-824",
+          "source_chars": 5849,
+          "items": 22,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_055.json",
+          "rows": 18,
+          "id_range": "825-842",
+          "source_chars": 5988,
+          "items": 18,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_056.json",
+          "rows": 34,
+          "id_range": "843-876",
+          "source_chars": 5965,
+          "items": 34,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_057.json",
+          "rows": 28,
+          "id_range": "877-904",
+          "source_chars": 5674,
+          "items": 28,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_058.json",
+          "rows": 23,
+          "id_range": "905-927",
+          "source_chars": 5094,
+          "items": 23,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_059.json",
+          "rows": 15,
+          "id_range": "928-942",
+          "source_chars": 5948,
+          "items": 15,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_060.json",
+          "rows": 25,
+          "id_range": "943-967",
+          "source_chars": 5886,
+          "items": 25,
+          "status": "pending"
+        },
+        {
+          "file": "work/duas/duas_061.json",
+          "rows": 34,
+          "id_range": "968-1001",
+          "source_chars": 4766,
+          "items": 34,
+          "status": "pending"
+        }
+      ]
+    },
+    "ruqyah_categories": {
+      "source": "en",
+      "translate_fields": [
+        "name"
+      ],
+      "key_fields": [
+        "id"
+      ],
+      "total_rows": 15,
+      "total_source_chars": 312,
+      "files": [
+        {
+          "file": "work/ruqyah_categories/ruqyah_categories_001.json",
+          "rows": 15,
+          "id_range": "1-15",
+          "source_chars": 312,
+          "items": 15,
+          "status": "pending"
+        }
+      ]
+    },
+    "ruqyah_subcategories": {
+      "source": "en",
+      "translate_fields": [
+        "name"
+      ],
+      "key_fields": [
+        "id"
+      ],
+      "total_rows": 163,
+      "total_source_chars": 4805,
+      "files": [
+        {
+          "file": "work/ruqyah_subcategories/ruqyah_subcategories_001.json",
+          "rows": 50,
+          "id_range": "1-50",
+          "source_chars": 1681,
+          "items": 50,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_subcategories/ruqyah_subcategories_002.json",
+          "rows": 50,
+          "id_range": "51-100",
+          "source_chars": 1818,
+          "items": 50,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_subcategories/ruqyah_subcategories_003.json",
+          "rows": 50,
+          "id_range": "101-150",
+          "source_chars": 1168,
+          "items": 50,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_subcategories/ruqyah_subcategories_004.json",
+          "rows": 13,
+          "id_range": "151-163",
+          "source_chars": 138,
+          "items": 13,
+          "status": "pending"
+        }
+      ]
+    },
+    "ruqyah_details": {
+      "source": "en",
+      "translate_fields": [
+        "topic_name",
+        "text"
+      ],
+      "key_fields": [
+        "id"
+      ],
+      "total_rows": 200,
+      "total_source_chars": 457751,
+      "files": [
+        {
+          "file": "work/ruqyah_details/ruqyah_details_001.json",
+          "rows": 5,
+          "id_range": "1-5",
+          "source_chars": 5797,
+          "items": 5,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_002.json",
+          "rows": 2,
+          "id_range": "6-7",
+          "source_chars": 1715,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_003.json",
+          "rows": 1,
+          "id_range": "8-8",
+          "source_chars": 4682,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_004.json",
+          "rows": 1,
+          "id_range": "9-9",
+          "source_chars": 4856,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_005.json",
+          "rows": 2,
+          "id_range": "9-10",
+          "source_chars": 4697,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_006.json",
+          "rows": 1,
+          "id_range": "11-11",
+          "source_chars": 4713,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_007.json",
+          "rows": 4,
+          "id_range": "12-15",
+          "source_chars": 5973,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_008.json",
+          "rows": 2,
+          "id_range": "16-17",
+          "source_chars": 2805,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_009.json",
+          "rows": 1,
+          "id_range": "18-18",
+          "source_chars": 4409,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_010.json",
+          "rows": 1,
+          "id_range": "19-19",
+          "source_chars": 4207,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_011.json",
+          "rows": 3,
+          "id_range": "20-22",
+          "source_chars": 3925,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_012.json",
+          "rows": 2,
+          "id_range": "23-24",
+          "source_chars": 4685,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_013.json",
+          "rows": 2,
+          "id_range": "25-26",
+          "source_chars": 4367,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_014.json",
+          "rows": 1,
+          "id_range": "26-26",
+          "source_chars": 4963,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_015.json",
+          "rows": 1,
+          "id_range": "26-26",
+          "source_chars": 4889,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_016.json",
+          "rows": 1,
+          "id_range": "26-26",
+          "source_chars": 5011,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_017.json",
+          "rows": 2,
+          "id_range": "26-27",
+          "source_chars": 4280,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_018.json",
+          "rows": 2,
+          "id_range": "28-29",
+          "source_chars": 4484,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_019.json",
+          "rows": 1,
+          "id_range": "30-30",
+          "source_chars": 5691,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_020.json",
+          "rows": 2,
+          "id_range": "30-31",
+          "source_chars": 5777,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_021.json",
+          "rows": 2,
+          "id_range": "32-33",
+          "source_chars": 5215,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_022.json",
+          "rows": 2,
+          "id_range": "34-35",
+          "source_chars": 5764,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_023.json",
+          "rows": 3,
+          "id_range": "36-38",
+          "source_chars": 3508,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_024.json",
+          "rows": 1,
+          "id_range": "39-39",
+          "source_chars": 5534,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_025.json",
+          "rows": 2,
+          "id_range": "40-41",
+          "source_chars": 5424,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_026.json",
+          "rows": 2,
+          "id_range": "42-43",
+          "source_chars": 5850,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_027.json",
+          "rows": 3,
+          "id_range": "44-46",
+          "source_chars": 5933,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_028.json",
+          "rows": 3,
+          "id_range": "47-49",
+          "source_chars": 5995,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_029.json",
+          "rows": 1,
+          "id_range": "50-50",
+          "source_chars": 4230,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_030.json",
+          "rows": 2,
+          "id_range": "51-52",
+          "source_chars": 5995,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_031.json",
+          "rows": 1,
+          "id_range": "53-53",
+          "source_chars": 1857,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_032.json",
+          "rows": 1,
+          "id_range": "54-54",
+          "source_chars": 4712,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_033.json",
+          "rows": 2,
+          "id_range": "55-56",
+          "source_chars": 4271,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_034.json",
+          "rows": 2,
+          "id_range": "57-58",
+          "source_chars": 4487,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_035.json",
+          "rows": 2,
+          "id_range": "59-60",
+          "source_chars": 5864,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_036.json",
+          "rows": 2,
+          "id_range": "61-62",
+          "source_chars": 4370,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_037.json",
+          "rows": 3,
+          "id_range": "63-65",
+          "source_chars": 5867,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_038.json",
+          "rows": 1,
+          "id_range": "66-66",
+          "source_chars": 5751,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_039.json",
+          "rows": 5,
+          "id_range": "66-70",
+          "source_chars": 5642,
+          "items": 5,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_040.json",
+          "rows": 3,
+          "id_range": "71-73",
+          "source_chars": 5942,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_041.json",
+          "rows": 6,
+          "id_range": "74-79",
+          "source_chars": 5382,
+          "items": 6,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_042.json",
+          "rows": 8,
+          "id_range": "80-87",
+          "source_chars": 5486,
+          "items": 8,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_043.json",
+          "rows": 4,
+          "id_range": "88-91",
+          "source_chars": 5716,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_044.json",
+          "rows": 2,
+          "id_range": "92-93",
+          "source_chars": 5012,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_045.json",
+          "rows": 1,
+          "id_range": "94-94",
+          "source_chars": 4592,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_046.json",
+          "rows": 1,
+          "id_range": "95-95",
+          "source_chars": 4174,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_047.json",
+          "rows": 3,
+          "id_range": "96-98",
+          "source_chars": 5437,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_048.json",
+          "rows": 1,
+          "id_range": "99-99",
+          "source_chars": 2861,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_049.json",
+          "rows": 1,
+          "id_range": "100-100",
+          "source_chars": 3465,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_050.json",
+          "rows": 1,
+          "id_range": "101-101",
+          "source_chars": 3698,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_051.json",
+          "rows": 2,
+          "id_range": "102-103",
+          "source_chars": 3202,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_052.json",
+          "rows": 1,
+          "id_range": "104-104",
+          "source_chars": 5509,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_053.json",
+          "rows": 2,
+          "id_range": "105-106",
+          "source_chars": 5898,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_054.json",
+          "rows": 1,
+          "id_range": "107-107",
+          "source_chars": 2073,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_055.json",
+          "rows": 2,
+          "id_range": "108-109",
+          "source_chars": 5169,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_056.json",
+          "rows": 1,
+          "id_range": "109-109",
+          "source_chars": 5598,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_057.json",
+          "rows": 2,
+          "id_range": "110-111",
+          "source_chars": 3697,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_058.json",
+          "rows": 1,
+          "id_range": "112-112",
+          "source_chars": 2322,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_059.json",
+          "rows": 2,
+          "id_range": "113-114",
+          "source_chars": 4888,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_060.json",
+          "rows": 2,
+          "id_range": "115-116",
+          "source_chars": 4248,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_061.json",
+          "rows": 3,
+          "id_range": "117-119",
+          "source_chars": 5594,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_062.json",
+          "rows": 2,
+          "id_range": "120-121",
+          "source_chars": 2207,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_063.json",
+          "rows": 1,
+          "id_range": "122-122",
+          "source_chars": 4423,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_064.json",
+          "rows": 2,
+          "id_range": "123-124",
+          "source_chars": 5396,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_065.json",
+          "rows": 3,
+          "id_range": "125-127",
+          "source_chars": 5810,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_066.json",
+          "rows": 2,
+          "id_range": "128-129",
+          "source_chars": 4853,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_067.json",
+          "rows": 2,
+          "id_range": "129-130",
+          "source_chars": 5841,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_068.json",
+          "rows": 2,
+          "id_range": "131-132",
+          "source_chars": 5419,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_069.json",
+          "rows": 5,
+          "id_range": "133-137",
+          "source_chars": 5956,
+          "items": 5,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_070.json",
+          "rows": 4,
+          "id_range": "138-141",
+          "source_chars": 5329,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_071.json",
+          "rows": 6,
+          "id_range": "142-147",
+          "source_chars": 5638,
+          "items": 6,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_072.json",
+          "rows": 2,
+          "id_range": "148-149",
+          "source_chars": 5899,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_073.json",
+          "rows": 1,
+          "id_range": "149-149",
+          "source_chars": 5264,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_074.json",
+          "rows": 3,
+          "id_range": "149-151",
+          "source_chars": 5430,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_075.json",
+          "rows": 4,
+          "id_range": "152-155",
+          "source_chars": 5334,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_076.json",
+          "rows": 2,
+          "id_range": "156-157",
+          "source_chars": 3978,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_077.json",
+          "rows": 1,
+          "id_range": "158-158",
+          "source_chars": 4802,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_078.json",
+          "rows": 1,
+          "id_range": "159-159",
+          "source_chars": 3285,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_079.json",
+          "rows": 2,
+          "id_range": "160-161",
+          "source_chars": 5440,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_080.json",
+          "rows": 2,
+          "id_range": "162-163",
+          "source_chars": 5882,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_081.json",
+          "rows": 1,
+          "id_range": "164-164",
+          "source_chars": 4281,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_082.json",
+          "rows": 2,
+          "id_range": "165-166",
+          "source_chars": 5658,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_083.json",
+          "rows": 1,
+          "id_range": "166-166",
+          "source_chars": 4026,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_084.json",
+          "rows": 2,
+          "id_range": "167-168",
+          "source_chars": 5592,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_085.json",
+          "rows": 2,
+          "id_range": "169-170",
+          "source_chars": 4637,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_086.json",
+          "rows": 2,
+          "id_range": "171-172",
+          "source_chars": 5974,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_087.json",
+          "rows": 2,
+          "id_range": "173-174",
+          "source_chars": 2993,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_088.json",
+          "rows": 1,
+          "id_range": "175-175",
+          "source_chars": 5734,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_089.json",
+          "rows": 3,
+          "id_range": "176-178",
+          "source_chars": 3895,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_090.json",
+          "rows": 3,
+          "id_range": "179-181",
+          "source_chars": 5376,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_091.json",
+          "rows": 3,
+          "id_range": "182-184",
+          "source_chars": 4870,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_092.json",
+          "rows": 5,
+          "id_range": "185-189",
+          "source_chars": 5314,
+          "items": 5,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_093.json",
+          "rows": 4,
+          "id_range": "190-193",
+          "source_chars": 5157,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_094.json",
+          "rows": 4,
+          "id_range": "194-197",
+          "source_chars": 5296,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_details/ruqyah_details_095.json",
+          "rows": 3,
+          "id_range": "198-200",
+          "source_chars": 4604,
+          "items": 3,
+          "status": "pending"
+        }
+      ]
+    },
+    "ruqyah_instants": {
+      "source": "en",
+      "translate_fields": [
+        "topic_name",
+        "name",
+        "content",
+        "translation"
+      ],
+      "key_fields": [
+        "id"
+      ],
+      "total_rows": 308,
+      "total_source_chars": 112037,
+      "files": [
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_001.json",
+          "rows": 18,
+          "id_range": "1-18",
+          "source_chars": 5463,
+          "items": 18,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_002.json",
+          "rows": 14,
+          "id_range": "19-32",
+          "source_chars": 5222,
+          "items": 14,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_003.json",
+          "rows": 8,
+          "id_range": "33-40",
+          "source_chars": 4922,
+          "items": 8,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_004.json",
+          "rows": 12,
+          "id_range": "41-52",
+          "source_chars": 5396,
+          "items": 12,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_005.json",
+          "rows": 17,
+          "id_range": "53-69",
+          "source_chars": 5786,
+          "items": 17,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_006.json",
+          "rows": 19,
+          "id_range": "70-88",
+          "source_chars": 5941,
+          "items": 19,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_007.json",
+          "rows": 16,
+          "id_range": "89-104",
+          "source_chars": 5723,
+          "items": 16,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_008.json",
+          "rows": 21,
+          "id_range": "105-125",
+          "source_chars": 5791,
+          "items": 21,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_009.json",
+          "rows": 18,
+          "id_range": "126-143",
+          "source_chars": 5982,
+          "items": 18,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_010.json",
+          "rows": 14,
+          "id_range": "144-157",
+          "source_chars": 5580,
+          "items": 14,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_011.json",
+          "rows": 16,
+          "id_range": "158-173",
+          "source_chars": 5835,
+          "items": 16,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_012.json",
+          "rows": 16,
+          "id_range": "174-189",
+          "source_chars": 5735,
+          "items": 16,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_013.json",
+          "rows": 11,
+          "id_range": "190-200",
+          "source_chars": 5565,
+          "items": 11,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_014.json",
+          "rows": 11,
+          "id_range": "201-211",
+          "source_chars": 5633,
+          "items": 11,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_015.json",
+          "rows": 4,
+          "id_range": "212-215",
+          "source_chars": 5918,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_016.json",
+          "rows": 8,
+          "id_range": "216-223",
+          "source_chars": 5720,
+          "items": 8,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_017.json",
+          "rows": 21,
+          "id_range": "224-244",
+          "source_chars": 5946,
+          "items": 21,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_018.json",
+          "rows": 24,
+          "id_range": "245-268",
+          "source_chars": 5777,
+          "items": 24,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_019.json",
+          "rows": 22,
+          "id_range": "269-290",
+          "source_chars": 5866,
+          "items": 22,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_instants/ruqyah_instants_020.json",
+          "rows": 18,
+          "id_range": "291-308",
+          "source_chars": 4236,
+          "items": 18,
+          "status": "pending"
+        }
+      ]
+    },
+    "ruqyah_videos": {
+      "source": "bn",
+      "translate_fields": [
+        "name",
+        "author"
+      ],
+      "key_fields": [
+        "id"
+      ],
+      "total_rows": 74,
+      "total_source_chars": 3884,
+      "files": [
+        {
+          "file": "work/ruqyah_videos/ruqyah_videos_001.json",
+          "rows": 50,
+          "id_range": "1-50",
+          "source_chars": 2511,
+          "items": 50,
+          "status": "pending"
+        },
+        {
+          "file": "work/ruqyah_videos/ruqyah_videos_002.json",
+          "rows": 24,
+          "id_range": "51-74",
+          "source_chars": 1373,
+          "items": 24,
+          "status": "pending"
+        }
+      ]
+    },
+    "drawer_items": {
+      "source": "en",
+      "translate_fields": [
+        "title",
+        "hero_title1",
+        "hero_title2",
+        "content"
+      ],
+      "key_fields": [
+        "id"
+      ],
+      "total_rows": 6,
+      "total_source_chars": 7727,
+      "files": [
+        {
+          "file": "work/drawer_items/drawer_items_001.json",
+          "rows": 4,
+          "id_range": "1-4",
+          "source_chars": 5979,
+          "items": 5,
+          "status": "pending"
+        },
+        {
+          "file": "work/drawer_items/drawer_items_002.json",
+          "rows": 3,
+          "id_range": "4-6",
+          "source_chars": 1748,
+          "items": 3,
+          "status": "pending"
+        }
+      ]
+    }
+  }
+}

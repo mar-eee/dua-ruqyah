@@ -1,0 +1,962 @@
+{
+  "table": "ruqyah_subcategories",
+  "chunk": "ruqyah_subcategories_002.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 50,
+  "id_range": "51-100",
+  "source_chars": 1818,
+  "items": [
+    {
+      "key": [
+        51
+      ],
+      "id": 51,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 51,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "3: Sihr At-Takhyil (False Appearance of Objects)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        52
+      ],
+      "id": 52,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 52,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "4: Sihr Al-Junun (Lunacy)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        53
+      ],
+      "id": 53,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 53,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "5: Sihr Al-Khumül (Lethargy)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        54
+      ],
+      "id": 54,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 54,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "6: Sihr Al-Hawatif (Bad Dreams & Hearing Voices)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        55
+      ],
+      "id": 55,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 55,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "7: Sihr Al-Maradh (Illness)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        56
+      ],
+      "id": 56,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 56,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "8: Sihr An-Nazif (Bleeding Following Menses)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        57
+      ],
+      "id": 57,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 57,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Definition of Sihr An-Nazif"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        58
+      ],
+      "id": 58,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 58,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "9: Sihr of Impeding Marriage"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        59
+      ],
+      "id": 59,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 59,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Important Facts on Sihr"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        60
+      ],
+      "id": 60,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 60,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Sihr Ar-Rabt (Penile Erection Problems During Sexual Intercourse)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        61
+      ],
+      "id": 61,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 61,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Ar-Rabt in Women (sexual frigidity)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        62
+      ],
+      "id": 62,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 62,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Treatment of Rabt in Men"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        63
+      ],
+      "id": 63,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 63,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Difference between Ar-rabt, Al-'ajz al-jinsi (impotence) and Adh-dhu'f al-jinsi (sexual weakness)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        64
+      ],
+      "id": 64,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 64,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Treatment of Ar-rabt, Al-'ajz al-jinsi (impotence) and Adh-dhu'f al-jinsi (sexual weakness)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        65
+      ],
+      "id": 65,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 65,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Difference between Natural Sterility and Sterility caused by Sihr"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        66
+      ],
+      "id": 66,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 66,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Sterility in Women"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        67
+      ],
+      "id": 67,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 67,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Treatment of Premature Ejaculation"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        68
+      ],
+      "id": 68,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 68,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Protective Measures against Sihr in General"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        69
+      ],
+      "id": 69,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 69,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "The Concept of the Evil Eye (ayn)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        70
+      ],
+      "id": 70,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 70,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "The Different Types Of Evil Eye (ayn)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        71
+      ],
+      "id": 71,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 71,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "Evidence for the different types of Evil Eye"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        72
+      ],
+      "id": 72,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 72,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "Evidence For The Existance Of Envy"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        73
+      ],
+      "id": 73,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 73,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "The Similarities And Differences Between The Evil Eye And Envy"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        74
+      ],
+      "id": 74,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 74,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "Evidence in the qur'an"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        75
+      ],
+      "id": 75,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 75,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "Envy is of varying degrees"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        76
+      ],
+      "id": 76,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 76,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "Hadiths Related To The Evil Eye"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        77
+      ],
+      "id": 77,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 77,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "The effects of the evil eye"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        78
+      ],
+      "id": 78,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 78,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "Signs And Symptoms"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        79
+      ],
+      "id": 79,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 79,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "Self-Ruqyah Treatment"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        80
+      ],
+      "id": 80,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 80,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "Treatment Of Al-'Ayn (Evil Eye)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        81
+      ],
+      "id": 81,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 81,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "Evidence From The Hadith on The Effect of Al-Ayn"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        82
+      ],
+      "id": 82,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 82,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "Views of Scholars on the Reality of Al-'Ayn"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        83
+      ],
+      "id": 83,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 83,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "The Difference between the Evil Eye and Jealousy"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        84
+      ],
+      "id": 84,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 84,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "A Jinn May Affect Man with its Evil Eye"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        85
+      ],
+      "id": 85,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 85,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "Treatment of the Evil Eye"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        86
+      ],
+      "id": 86,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 86,
+        "type": "RUQYAH",
+        "cat_id": 5
+      },
+      "source": {
+        "name": "Practical Examples of the Treatment of the Evil Eye"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        87
+      ],
+      "id": 87,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 87,
+        "type": "RUQYAH",
+        "cat_id": 6
+      },
+      "source": {
+        "name": "Meaning of Raaqi"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        88
+      ],
+      "id": 88,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 88,
+        "type": "RUQYAH",
+        "cat_id": 6
+      },
+      "source": {
+        "name": "Signs of a Genuine Raqi (One who is treating Patient)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        89
+      ],
+      "id": 89,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 89,
+        "type": "RUQYAH",
+        "cat_id": 6
+      },
+      "source": {
+        "name": "The Minimum Requirement"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        90
+      ],
+      "id": 90,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 90,
+        "type": "RUQYAH",
+        "cat_id": 6
+      },
+      "source": {
+        "name": "The Risk"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        91
+      ],
+      "id": 91,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 91,
+        "type": "RUQYAH",
+        "cat_id": 6
+      },
+      "source": {
+        "name": "The Non-Risk"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        92
+      ],
+      "id": 92,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 92,
+        "type": "RUQYAH",
+        "cat_id": 6
+      },
+      "source": {
+        "name": "The Commitment"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        93
+      ],
+      "id": 93,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 93,
+        "type": "RUQYAH",
+        "cat_id": 6
+      },
+      "source": {
+        "name": "The Main Intention For Becoming A Raqi"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        94
+      ],
+      "id": 94,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 94,
+        "type": "RUQYAH",
+        "cat_id": 6
+      },
+      "source": {
+        "name": "The Benefits Of Not Taking Money"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        95
+      ],
+      "id": 95,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 95,
+        "type": "RUQYAH",
+        "cat_id": 6
+      },
+      "source": {
+        "name": "Being Patient And Keeping Calm With Patients"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        96
+      ],
+      "id": 96,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 96,
+        "type": "RUQYAH",
+        "cat_id": 6
+      },
+      "source": {
+        "name": "Your Studies Of The Science Of Ruqya"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        97
+      ],
+      "id": 97,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 97,
+        "type": "RUQYAH",
+        "cat_id": 6
+      },
+      "source": {
+        "name": "Your Protection Adhkar"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        98
+      ],
+      "id": 98,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 98,
+        "type": "RUQYAH",
+        "cat_id": 6
+      },
+      "source": {
+        "name": "Acts Of Worship & Things To Avoid For A Raqi"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        99
+      ],
+      "id": 99,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 99,
+        "type": "RUQYAH",
+        "cat_id": 6
+      },
+      "source": {
+        "name": "Things To Be Stopped Or Avoided"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        100
+      ],
+      "id": 100,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 100,
+        "type": "RUQYAH",
+        "cat_id": 6
+      },
+      "source": {
+        "name": "Gaining Practical Ruqyah Experience"
+      },
+      "target": {
+        "name": ""
+      }
+    }
+  ]
+}

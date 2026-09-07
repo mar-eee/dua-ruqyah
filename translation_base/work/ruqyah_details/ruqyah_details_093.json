@@ -1,0 +1,100 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_093.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 4,
+  "id_range": "190-193",
+  "source_chars": 5157,
+  "items": [
+    {
+      "key": [
+        190
+      ],
+      "id": 190,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 190,
+        "topic_id": 7,
+        "cat_id": 14,
+        "subcat_id": 147
+      },
+      "source": {
+        "topic_name": "Constitutions suited to Hijamah",
+        "text": "Of these only the Fire, Wood and to a lesser extent Earth constitutions are suited to regular Hijamah. These constitutions display an excess of either (liver/ heart) heat and blood in the case of the fire type, (liver) heat and stagnation in the case of the wood type, or stagnation and (stomach) heat in the case of the Earth type. They therefore benefit tremendously from Hijamah done as a general health preservation modality.\n\nFor the other constitutions, Hijamah is not generally indicated and if done must be done keeping in mind the principles of Hijamah done in illness. Too much blood must also not be removed as these individuals are already either deficient in blood (metal type) or deficient in heat (water type). There are times however when Hijamah applied in specific areas and for specific illnesses can be beneficial."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        191
+      ],
+      "id": 191,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 191,
+        "topic_id": 1,
+        "cat_id": 14,
+        "subcat_id": 148
+      },
+      "source": {
+        "topic_name": "Introduction",
+        "text": "In TCM, one method of understanding the basic nature of an illness is to assess the ailment in terms of the \"8 patterns\". These are in fact 4 sets of opposing concepts viz.\n\nHot / Cold\nInternal / External \nExcess / Deficiency\nYin / Yang\n\nWhen determining if an illness is suited to treatment by Hijamah we are mostly concerned with 2 of these sets, viz. hot/cold and excess/deficiency. There are a number of ways to determine and differentiate how the ailment relates to these concepts such as through asking about the presenting symptoms, as well as looking at the tongue and feeling the pulse.\n\nPulse and tongue diagnosis are specialist fields that require practical training and therefore full detail is not provided on these aspects of diagnosis. Briefly, for Hijamah to be suitable for the ailment, the pulse should be rapid, floating or surging, not slow, deep or weak, it also should not be floating and hollow in the center.\n\nAsking about the symptoms in order to determine the nature of the illness is a method that is accessible to most and can provide enough information in the majority of cases to come to a diagnosis vis. a vie the pattern of illness.\n\nWhen determining heat we differentiate between excess heat or deficient heat.\n\nExcess heat has the following characteristics: Main Signs: Fever (sometimes), thirst, red face, red eyes, constipation. Urine is scanty and dark.\n\nPulse: Rapid and Full\nTongue: Red with a yellow coating\n\nThe following are some general signs of an Excess Heat pattern though the exact symptoms depend on the organ(s) affected.\n\n<b>1.</b> Raised, red skin eruption that feels hot e.g. acute urticaria \n\n<b>2.</b> Any burning painful sensation e.g. urine or stomach pain \n\n<b>3.</b> Loss of blood with large quantities of bright red blood indicates Heat in the Blood\n\n<b>4.</b> Extreme mental restlessness/manic behavior (Heat in the Heart) \n\n<b>5.</b> Thick, yellow, sticky, malodorous secretions/ excretions\n\nExcess Heat patterns are caused by excess of energy and blood in the body and individuals presenting with this type of pattern will respond very well to Hijamah."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        192
+      ],
+      "id": 192,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 192,
+        "topic_id": 2,
+        "cat_id": 14,
+        "subcat_id": 148
+      },
+      "source": {
+        "topic_name": "Deficient heat has the following characteristics",
+        "text": "Main Signs: Afternoon fever or feeling of heat in afternoon, dry mouth, dry throat at night, night sweats, fever in 5 hearts, dry stools, scanty-dark urine, mental restlessness and fidgeting, vague anxiety. (More specific signs depend on Organ involved)\n\nPulse: Floating-Empty and Rapid or Thin and Rapid Tongue: Red, in severe cases peeled. No Coating.\n\n<b>Other signs that may be present:</b>\n\n\nDeficiency heat affecting the Lung - Malar flush, dry cough.\n\nDeficiency heat affecting the Liver - Headaches, dry eyes, irritability.\n\nDeficiency heat affecting the Heart - palpitations, insomnia and feelings of restlessness.\n\nDeficiency heat can be caused by many factors, stress being a major one. Excessive sexual indulgence, overwork, smoking, alcohol and drug abuse, all deplete the fluids and give rise to this type of heat as well. Long-standing emotional distress can also cause this pattern.\n\nSuch patients are suited to Hijamah but only with small quantities of blood removed. If the patient is suffering from excessive sweating then Hijamah is contraindicated."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        193
+      ],
+      "id": 193,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 193,
+        "topic_id": 3,
+        "cat_id": 14,
+        "subcat_id": 148
+      },
+      "source": {
+        "topic_name": "Circulation issues",
+        "text": "Irrespective of the constitution, circulation problems are well treated by Hijamah provided that the area affected is treated directly. In order to determine if the circulation is affected in a particular area of the body, the practitioner will have to take a thorough history and examine the area. Though full detail is beyond the scope of this book and must be learned through a course in clinical diagnostic skills in addition to other subjects, there are some signs that indicate poor circulation, viz:\n\n<b>1.</b> The are feels cold to the touch when compared to other areas.\n\n<b>2.</b> There are prominent spider veins which appear purplish in nature.\n\n<b>3.</b> The patient experiences pain of a sharp and stabbing nature in the area.\n\n<b>4.</b> There are purple spots on the tongue corresponding with the affected body area.\n\nIn these cases Hijamah may be beneficial though some special techniques must be employed such as bleeding of the spider veins etc. (This is detailed in the Hijamah Treatment Guide for Practitioners)"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    }
+  ]
+}

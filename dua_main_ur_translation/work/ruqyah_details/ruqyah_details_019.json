@@ -1,0 +1,77 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_019.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 1,
+  "id_range": "30-30",
+  "source_chars": 5691,
+  "items": [
+    {
+      "key": [
+        30
+      ],
+      "id": 30,
+      "part": 1,
+      "of": 6,
+      "frozen": {
+        "id": 30,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 31
+      },
+      "source": {
+        "text": "<b>First:</b> Sometimes when you recite the Ruqyah over the patient and may notice him/her feeling dizzy, suffocating or shivering in his/her body, without any evocation of the Jinn taking place. Repeat the task three times, but if nothing happens, then advice him/her using following instructions:\n\n<b>1.</b> To observe Salat in jama'a (in group).\n\n<b>2.</b> Not to listen to songs or music or watch television.\n\n<b>3.</b> To make ablution before going to bed, and to recite ayat alKursi.\n\n<b>4.</b> Not to hang any picture with a soul (people or animals) in their house.\n\n<b>5.</b> To say Bismillah before starting anything.\n\n<b>6.</b> To say “la ilaha illa lah” frequently.\n\n<b>7.</b> To recite Surah al-Sāffāt, al-Dukhan, al-Jinn, or listen to them, before retiring to bed.\n\n<b>8.</b> To recite Surah Ya-Sin, al-Rahman and al-Ma'arij in the morning.\n\n<b>9.</b> Not to sleep alone in a room.\n\n<b>10.</b> To observe saying the du'a (supplications) of the day and evening, or to listen to them.\n\n<b>11.</b> In the case of a woman patient, she has to wear the Hijab (as commanded in Islam) and not to go out of the house wearing perfume.\n\n<b>12.</b> To record the following Surahs in tapes, according to their order in the Qur'an, and to listen every day of the week to a tape between 4-6 times, the Surahs are:\n\nal-Fatiha, al-Baqara, al-'Imran, al-An'am, Hud, al-Kahf, alHijr, al-Sajda, al-Ahzāb, Ya-Sin, al-Saffāt, Fussilat, alDukhān, al-Fath, al-Hujurāt, Qāf, al-Dhariyāt, al-Rahmān, alHashr, al-Saff, al-Jumu'a, al-Munāfiqun, al-Mulk, al-Ma'ārij, al-Jinn, at-Takweer, al-Infitar, al-Buruj, al-Tariq, al-A'la, alGhashiya, al-Fajr, al-Balad, al-Zalzala, al-Qāri'a, al-Humaza, al-Kafirun, al-Masad, al-Ikhlas, al-Falaq, al-Nas.\n\nAfter a month you should recite the Ruqyah over him/her again, so either you would find that the Jinn had been chased out of the body or is still present.",
+        "topic_name": null
+      },
+      "target": {
+        "text": "",
+        "topic_name": null
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        30
+      ],
+      "id": 30,
+      "part": 2,
+      "of": 6,
+      "frozen": {
+        "id": 30,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 31
+      },
+      "source": {
+        "text": "Allah (SWT) has spared you the Jinn's evil if the Jinn has left the body. You would see the evidence in the absence of body pain in the patient; he/she would cease to have those bad dreams, and any ill effects from ruqya.\n\n<b>Second:</b> Sometimes the Jinn, possessing the body, is evoked yet refuses to leave the body. You should recite the Surahs that harm and hurt him/her. If he/she resists them, it is possible to beat him/her, but if he/she insists on staying in the body, then you should give the patient the previous instructions to implement for a whole month.\n\n<b>Third:</b> Sometimes when you recite the Ruqyah over the patient, it only intensifies his/her crying, even though he/she remains conscious and in good mental health. When you ask about the reason for his/her crying; he/she would reply that he/she cannot help crying, that he/she is unable to control himself/herself. This case is probably that of sorcery, and Allah knows best. If you want to be certain about such a case, then recite the following verses in his/her ear:\n\n<b>1. Yunus: 81-82</b>\n\n<ar> فَلَمَّا أَلْقَوْا قَالَ مُوسَىٰ مَا جِئْتُم بِهِ السِّحْرُ ۖ إِنَّ اللَّهَ سَيُبْطِلُهُ ۖ إِنَّ اللَّهَ لَا يُصْلِحُ عَمَلَ الْمُفْسِدِينَ ﴿٨١﴾ وَيُحِقُّ اللَّهُ الْحَقَّ بِكَلِمَاتِهِ وَلَوْ كَرِهَ الْمُجْرِمُونَ ﴿٨٢﴾ </ar>\n\n<b>Translation:</b> (81) And when they had thrown, Moses said, \"What you have brought is [only] magic. Indeed, Allah will expose its worthlessness. Indeed, Allah does not amend the work of corrupters. (82) And Allah will establish the truth by His words, even if the criminals dislike it.\"\n\n<b>2. Al-Araf: 117-122</b>\n\n<ar> وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنْ أَلْقِ عَصَاكَ ۖ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ ﴿١١٧﴾ فَوَقَعَ الْحَقُّ وَبَطَلَ مَا كَانُوا يَعْمَلُونَ ﴿١١٨﴾ فَغُلِبُوا هُنَالِكَ وَانقَلَبُوا صَاغِرِينَ ﴿١١٩﴾ وَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ ﴿١٢٠﴾ قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ ﴿١٢١﴾ رَبِّ مُوسَىٰ وَهَارُونَ ﴿١٢٢﴾ </ar>"
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        30
+      ],
+      "id": 30,
+      "part": 3,
+      "of": 6,
+      "frozen": {
+        "id": 30,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 31
+      },
+      "source": {
+        "text": "<b>Translation:</b> (117) And We inspired Moses, \"Throw your staff,\" and at once it devoured what they were falsifying. (118) So the truth was established, and abolished was what they were doing. (119) And Pharaoh and his people were overcome right there and became debased. (120) And the magicians fell down in prostration [to Allah]. (121) They said, \"We have believed in the Lord of the worlds, (122) The Lord of Moses and Aaron.\"\n\n<b>3. Ta-Ha: 69</b>\n\n<ar> وَأَلْقِ مَا فِي يَمِينِكَ تَلْقَفْ مَا صَنَعُوا ۖ إِنَّمَا صَنَعُوا كَيْدُ سَاحِرٍ ۖ وَلَا يُفْلِحُ السَّاحِرُ حَيْثُ أَتَىٰ ﴿٦٩﴾ </ar>\n\n<b>Translation:</b> (69) And throw what is in your right hand; it will swallow up what they have crafted. What they have crafted is but the trick of a magician, and the magician will not succeed wherever he is.\"\n\nYou should recite each of these Verses in his/her ear seven times; if he or she increases his or her crying then it is certainly a case of him or her being a victim of sorcery. I will, insha Allah, explain all the different kinds of sorcery in my next book.\n\n<b>Fourth:</b> Sometimes, when the Jinn is evoked, he/she starts screaming, shouting, and being threatening, but do not show any fear from him/her; you may beat him/her, so he/she will calm down, by the Will of Allah , then recite over him Verse 76 of Surah al-Nisa':\n\n<ar> الَّذِينَ آمَنُوا يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ وَالَّذِينَ كَفَرُوا يُقَاتِلُونَ فِي سَبِيلِ الطَّاغُوتِ فَقَاتِلُوا أَوْلِيَاءَ الشَّيْطَانِ ۖ إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا ﴿٧٦﴾ </ar>\n\n<b>Translation:</b> (76) Those who believe fight in the cause of Allah, and those who disbelieve fight in the cause of Taghut. So fight against the allies of Satan. Indeed, the plot of Satan has ever been weak. \n\n<b>Fifth:</b> Sometimes, the Jinn might insult you and irritate you, but do not show your anger."
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    }
+  ]
+}

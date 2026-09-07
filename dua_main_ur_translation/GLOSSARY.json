@@ -1,0 +1,34 @@
+{
+  "_how_to_use": [
+    "Fill in `canonical` BEFORE translating anything. One term, one rendering, for the whole language.",
+    "verify.py enforces it: if a source field mentions the term on the left, the translation must contain the value on the right.",
+    "Leave a value empty to switch that check off.",
+    "`watch_variants` is for spellings that drifted in a previous language. Add any you catch; verify.py reports when more than one is used."
+  ],
+  "language": "ur",
+  "canonical": {
+    "Allah": "اللہ",
+    "Quran": "قرآن",
+    "Muhammad": "محمد",
+    "Prophet": "",
+    "hadith": "حدیث",
+    "surah": "سورہ",
+    "dua": "دعا",
+    "ruqyah": "رقیہ",
+    "jinn": "جن",
+    "sihr": "سحر",
+    "evil eye": "",
+    "dhikr": "ذکر",
+    "sunnah": "سنت",
+    "Aisha": "",
+    "Abu Hurayra": "",
+    "Bukhari": "بخاری",
+    "Muslim": "مسلم",
+    "Abu Dawud": "ابو داؤد",
+    "Tirmidhi": "ترمذی",
+    "Ibn Majah": "ابن ماجہ",
+    "Ahmad": "احمد",
+    "Nasa'i": ""
+  },
+  "watch_variants": {}
+}

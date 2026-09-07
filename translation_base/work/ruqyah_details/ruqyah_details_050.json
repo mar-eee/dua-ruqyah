@@ -1,0 +1,34 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_050.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 1,
+  "id_range": "101-101",
+  "source_chars": 3698,
+  "items": [
+    {
+      "key": [
+        101
+      ],
+      "id": 101,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 101,
+        "topic_id": null,
+        "cat_id": 5,
+        "subcat_id": 82
+      },
+      "source": {
+        "topic_name": null,
+        "text": "According to Ibn Kathir (R), the strike and effect of the evil eye is a reality that occurs under the Command of Allah. [TafshIbn Kathi: 4/410]\n\n\nAccording to Ibn Hajar (R), the evil eye is a glance combined with jealousy, that comes from a despicable person to affect another. [Fath Al-Bari: 10/200 2 An-Nihaya: 3/332]\n\n\nAccording to Ibn Al-Athir (R), a person is said to have been affected by the evil eye if an enemy or a jealous person has looked at him, and that look has affected him, so that he becomes ill, as a result. [An Nihaya 3/332]\n\nAccording to Ibn Al-Qayyim (R), people with less knowledge denied the existence of the evil eye and claimed that what has been said about it was only imaginary. These people are the most ignorant, lacking knowledge of spirits and souls, their characters, actions and effects However, wise people of different religions do not reject the existence of the evil eye, despite their disagreement on its causes and effects.\n\nThere is no doubt that Allah has created the human body and soul with different forces and dispositions, and endowed several of these bodies and souls with influential characteristics. No wise man could deny the influence of the soul on the body. It is something tangible For instance, observe how one blushes out of respect and shyness, yet becomes so yellow out of fear. \n\nIn fact, there have been many cases where a person has fallen ill and become weak as a result of a glance. All of these take place under the effect of people's souls. The strong link between the soul and eye has led to the assumption that it is the eye which affects a person, who has been stared at, but in reality it is the hidden observing soul. Generally, souls differ with respect to natural disposition, power, and other special features. \n\nThe soul of a jealous person, for instance, is obviously harmful to the targeted person. This is why Allah ordered his Messenger (ﷺ) to seek refuge with Him from the evil of a jealous person. The influence of a jealous person and the harm caused to another person is a fact which only someone with no knowledge of the human condition would deny, and it constitutes the basis of the evil eye. This is to say that an evil, jealous soul takes on an evil character, and when confronting a targeted person, it affects him with that specific character. \n\nA snake has a similar disposition. For example, venom exists in the snake with power. When confronting its enemy. the snake becomes angry and takes on an evil, harmful disposition. which, if intensified, may cause miscarriages or blindness; as the Prophet (ﷺ) said concerning Albatross (a snake with short or mutilated tail) and Dhu-tufyatayn (a snake with two white lines on its back): \"They cause blindness and miscarriage.\" [Al-Bukhari : 6/248 and Muslim: 2233 2 Zad Al-Maad: 4/165]\n\nThe influence of the evil eye may be caused by communication, encounter, sight, or through the influence of a soul on a targeted person. Sometimes, it is caused through invocations, Ruqyah and the recitation of verses of seeking refuge with Allah from evil (113 and 114), and sometimes through illusion and imagination. The influence of the soul of a person with an evil eye is not confined to sighting a target only For even a blind person could still influence with his soul if given a description of a target. Most people with an evil eye affect a target by having a description, without seeing the person or object.\n\nThe influence of an evil eye comes from a person's admiration, followed with an evil disposition of the soul, which derives its strength from glancing at the target A man may even, against his will, affect himself with the evil eye. [Zad-al-maad: 4/165]"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "table": "duas",
+  "chunk": "duas_009.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 14,
+  "id_range": "117-130",
+  "source_chars": 5818,
+  "items": [
+    {
+      "key": [
+        117
+      ],
+      "id": 117,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 117,
+        "groups": null,
+        "uthmani": "آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّـهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ ﴿٢٨٥﴾ لَا يُكَلِّفُ اللَّـهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ ﴿٢٨٦﴾",
+        "indopak": "اٰمَنَ الرَّسُوْلُ بِمَاۤ اُنْزِلَ اِلَیْهِ مِنْ رَّبِّهٖ وَالْمُؤْمِنُوْنَ ؕ كُلٌّ اٰمَنَ بِاللّٰهِ وَمَلٰٓئِكَتِهٖ وَكُتُبِهٖ وَرُسُلِهٖ ۟ لَا نُفَرِّقُ بَیْنَ اَحَدٍ مِّنْ رُّسُلِهٖ ۟ وَقَالُوْا سَمِعْنَا وَاَطَعْنَا ٭۫ غُفْرَانَكَ رَبَّنَا وَاِلَیْكَ الْمَصِیْرُ ﴿۲۸۵﴾ لَا یُكَلِّفُ اللّٰهُ نَفْسًا اِلَّا وُسْعَهَا ؕ لَهَا مَا كَسَبَتْ وَعَلَیْهَا مَا اكْتَسَبَتْ ؕ رَبَّنَا لَا تُؤَاخِذْنَاۤ اِنْ نَّسِیْنَاۤ اَوْ اَخْطَاْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَیْنَاۤ اِصْرًا كَمَا حَمَلْتَهٗ عَلَی الَّذِیْنَ مِنْ قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهٖ ۚ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا اَنْتَ مَوْلٰىنَا فَانْصُرْنَا عَلَی الْقَوْمِ الْكٰفِرِیْنَ ﴿۲۸۶﴾",
+        "clean": "امن الرسول بما انزل اله من ربه والمءمنون  كل امن بالله وملءكته وكتبه ورسله  لا نفرق بن احد من رسله  وقالوا سمعنا واطعنا  غفرانك ربنا والك المصر  لا كلف الله نفسا الا وسعها  لها ما كسبت وعلها ما اكتسبت  ربنا لا تءاخذنا ان نسنا او اخطانا  ربنا ولا تحمل علنا اصرا كما حملته عل الذن من قبلنا  ربنا ولا تحملنا ما لا طاقه لنا به  واعف عنا واغفر لنا وارحمنا انت مولينا فانصرنا عل القوم الكفرن ",
+        "transliteration": "(285) Aamanar-Rasoolu bimaa 'unzila ilayhi mir-Rabbihi wal mu'minoon, kullun 'aamana billaahi wa malaa'ikatihi wa Kutubihi wa Rusulih, laa nufarriqu bayna 'ahadim-mir-Rusulih, wa qaaloo sami'naa wa 'ata'naa ghufraanaka Rabbanaa wa 'ilaykal-maseer. (286) Laa yukallifullaahu nafsan 'illaa wus'ahaa, lahaa maa kasabat wa 'alayhaa mak-tasabat, Rabbanaa laa tu'aakhidhnaa 'in naseenaa 'aw 'akhta'naa, Rabbanaa wa laa ta'hmil 'alaynaa 'isran kamaa hamaltahu 'alal-ladheena min qablinaa, Rabbanaa wa laa tu'hammilnaa maa laa taaqata lanaa bihi, wa'fu 'annaa, waghfir lanaa war'hamnaa, 'Anta Mawlaanaa fansurnaa 'alal-qawmil-kaafireen",
+        "reference": "Al-Bukhari, Fathul Bari 9/94, Muslim 1/554, no. 807",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "The last two verses of Surah Baqarah",
+        "content": null,
+        "translation": "(285) The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], \"We make no distinction between any of His messengers.\" And they say, \"We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination. (286) Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people. (Sura Baqarah 2: 285-286)",
+        "note": "Whoever recites the last two Aayahs of Soorah al-Baqarah at night, those two Aayahs shall be sufficient for him."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        118
+      ],
+      "id": 118,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 118,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\nقُلْ يَا أَيُّهَا الْكَافِرُونَ ﴿١﴾ لَا أَعْبُدُ مَا تَعْبُدُونَ ﴿٢﴾ وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ ﴿٣﴾ وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ ﴿٤﴾ وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ ﴿٥﴾ لَكُمْ دِينُكُمْ وَلِيَ دِينِ ﴿٦﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ\n قُلْ يَا اَيُّهَا الْكَافِرُوْنَ ﴿١﴾ لَا اَعْبُدُ مَا تَعْبُدُوْنَ ﴿٢﴾ وَلَا اَنْتُمْ عَابِدُوْنَ مَا اَعْبُدُ ﴿٣﴾ وَلَا اَنَا عَابِدٌ مَّا عَبَدْتُّمْ ﴿٤﴾ وَلَا اَنْتُمْ عَابِدُوْنَ مَا اَعْبُدُ ﴿٥﴾ لَكُمْ دِينُكُمْ وَلِيَ دِيْنِ ﴿٦﴾",
+        "clean": "بسم الله الرحمن الرحيم قل يا ايها الكافرون ١ لا اعبد ما تعبدون ٢ ولا انتم عابدون ما اعبد ٣ ولا انا عابد ما عبدتم ٤ ولا انتم عابدون ما اعبد ٥ لكم دينكم ولي دين ٦",
+        "transliteration": "Bismillaahir Rahmaanir Raheem \n(1) Qul yaa-ayyuhal kaafiroon (2) Laaa a'budu maa t'abudoon (3) Wa laa antum 'aabidoona maaa a'bud (4) Wa laaa ana 'abidum maa 'abattum (5) Wa laa antum 'aabidoona maa a'bud (6) Lakum deenukum wa liya deen",
+        "reference": "Sahih (Albani). Tirmidhi: 3403",
+        "audio": 118,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Surah Kafirun",
+        "content": null,
+        "translation": "(1) Say, \"O disbelievers, (2) I do not worship what you worship. (3) Nor are you worshippers of what I worship. (4) Nor will I be a worshipper of what you worship. (5) Nor will you be worshippers of what I worship. (6) For you is your religion, and for me is my religion.\" (Sura kafirun 109: 1-6)",
+        "note": "Nawfal Al-Ashzai (RA) said, the Messenger of Allah (ﷺ) told me, you will sleep after reciting Surah Kafirun, this will liberate you from shirk."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        119
+      ],
+      "id": 119,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 119,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\nقُلْ هُوَ اللَّـهُ أَحَدٌ ﴿١﴾ اللَّـهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿٤﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ\n قُلْ هُوَ اللّٰهُ اَحَدٌ ﴿١﴾ اللّٰهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُوْلَدْ ﴿٣﴾ وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ﴿٤﴾",
+        "clean": "بسم الله الرحمن الرحيم قل هو الله احد ١ الله الصمد ٢ لم يلد ولم يولد ٣ ولم يكن له كفوا احد ٤",
+        "transliteration": "Bismillaahir-Rahmaanir-Raheem\n(1) Qul HuwAllahu 'Ahad. (2) Allahus-Samad. (3) Lam yalid wa lam yoolad. (4) Wa lam yakun lahu kufuwan 'ahad",
+        "reference": "Sahih Muslim: 811",
+        "audio": 119,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Surah Ikhlas",
+        "content": null,
+        "translation": "(1) Say, \"He is Allah, [who is] One, (2) Allah, the Eternal Refuge. (3) He neither begets nor is born, (4) Nor is there to Him any equivalent.\" (Sura Ikhlas 112: 1-4)",
+        "note": "The Prophet (ﷺ) said to his companions: Can't you recite one-third of the Qur'an at night? The matter seemed difficult to them. They said: O Messenger of Allah (ﷺ), who among us can do that? Then he said: \"Qul Huallahu Ahad\" Surah is one third of the Qur'an."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        120
+      ],
+      "id": 120,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 120,
+        "groups": "[{\"id\": 120, \"name\": null, \"cat_id\": 6, \"subcat_id\": 14, \"content\": \"Sura Falaq three times:\", \"uthmani\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0640\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u064e\\u0640\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0645\\u0650\\n\\u0642\\u064f\\u0644\\u0652 \\u0623\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0650\\u0651 \\u0627\\u0644\\u0652\\u0641\\u064e\\u0644\\u064e\\u0642\\u0650 \\ufd3f\\u0661\\ufd3e \\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0645\\u064e\\u0627 \\u062e\\u064e\\u0644\\u064e\\u0642\\u064e \\ufd3f\\u0662\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u063a\\u064e\\u0627\\u0633\\u0650\\u0642\\u064d \\u0625\\u0650\\u0630\\u064e\\u0627 \\u0648\\u064e\\u0642\\u064e\\u0628\\u064e \\ufd3f\\u0663\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0641\\u0651\\u064e\\u0627\\u062b\\u064e\\u0627\\u062a\\u0650 \\u0641\\u0650\\u064a \\u0627\\u0644\\u0652\\u0639\\u064f\\u0642\\u064e\\u062f\\u0650 \\ufd3f\\u0664\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u062d\\u064e\\u0627\\u0633\\u0650\\u062f\\u064d \\u0625\\u0650\\u0630\\u064e\\u0627 \\u062d\\u064e\\u0633\\u064e\\u062f\\u064e \\ufd3f\\u0665\\ufd3e\", \"indopak\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0645\\u0650\\n \\u0642\\u064f\\u0644\\u0652 \\u0627\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0650\\u0651 \\u0627\\u0644\\u0652\\u0641\\u064e\\u0644\\u064e\\u0642\\u0650 \\ufd3f\\u0661\\ufd3e \\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0645\\u064e\\u0627 \\u062e\\u064e\\u0644\\u064e\\u0642\\u064e \\ufd3f\\u0662\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u063a\\u064e\\u0627\\u0633\\u0650\\u0642\\u064d \\u0627\\u0650\\u0630\\u064e\\u0627 \\u0648\\u064e\\u0642\\u064e\\u0628\\u064e \\ufd3f\\u0663\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0641\\u0651\\u064e\\u0627\\u062b\\u064e\\u0627\\u062a\\u0650 \\u0641\\u0650\\u0649 \\u0627\\u0644\\u0652\\u0639\\u064f\\u0642\\u064e\\u062f\\u0650 \\ufd3f\\u0664\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u062d\\u064e\\u0627\\u0633\\u0650\\u062f\\u064d \\u0627\\u0650\\u0630\\u064e\\u0627 \\u062d\\u064e\\u0633\\u064e\\u062f\\u064e \\ufd3f\\u0665\\ufd3e\", \"clean\": \"\\u0628\\u0633\\u0645 \\u0627\\u0644\\u0644\\u0647 \\u0627\\u0644\\u0631\\u062d\\u0645\\u0646 \\u0627\\u0644\\u0631\\u062d\\u064a\\u0645 \\u0642\\u0644 \\u0627\\u0639\\u0648\\u0630 \\u0628\\u0631\\u0628 \\u0627\\u0644\\u0641\\u0644\\u0642 \\u0661 \\u0645\\u0646 \\u0634\\u0631 \\u0645\\u0627 \\u062e\\u0644\\u0642 \\u0662 \\u0648\\u0645\\u0646 \\u0634\\u0631 \\u063a\\u0627\\u0633\\u0642 \\u0627\\u0630\\u0627 \\u0648\\u0642\\u0628 \\u0663 \\u0648\\u0645\\u0646 \\u0634\\u0631 \\u0627\\u0644\\u0646\\u0641\\u0627\\u062b\\u0627\\u062a \\u0641\\u064a \\u0627\\u0644\\u0639\\u0642\\u062f \\u0664 \\u0648\\u0645\\u0646 \\u0634\\u0631 \\u062d\\u0627\\u0633\\u062f \\u0627\\u0630\\u0627 \\u062d\\u0633\\u062f \\u0665\", \"transliteration\": \"Bismillaahir-Rahmaanir-Raheem\\n(1) Qul 'a'oodhu birabbil-falaq. (2) Min sharri maa khalaq. (3) Wa min sharri ghaasiqin 'idhaa waqab. (4) Wa min sharrin-naffaa thaati fil-'uqad. (5) Wa min sharri haasidin 'idhaa hasad\", \"translation\": \"(1) Say, \\\"I seek refuge in the Lord of daybreak (2) From the evil of that which He created (3) And from the evil of darkness when it settles (4) And from the evil of the blowers in knots (5) And from the evil of an envier when he envies.\\\" (Sura Falaq 113: 1-5)\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 120, \"name\": null, \"cat_id\": 6, \"subcat_id\": 14, \"content\": \"Sura Nas three times:\", \"uthmani\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0640\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u064e\\u0640\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0645\\u0650\\n\\u0642\\u064f\\u0644\\u0652 \\u0623\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0650\\u0651 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0661\\ufd3e \\u0645\\u064e\\u0644\\u0650\\u0643\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0662\\ufd3e \\u0625\\u0650\\u0644\\u064e\\u0640\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0663\\ufd3e \\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0627\\u0644\\u0652\\u0648\\u064e\\u0633\\u0652\\u0648\\u064e\\u0627\\u0633\\u0650 \\u0627\\u0644\\u0652\\u062e\\u064e\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0664\\ufd3e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a \\u064a\\u064f\\u0648\\u064e\\u0633\\u0652\\u0648\\u0650\\u0633\\u064f \\u0641\\u0650\\u064a \\u0635\\u064f\\u062f\\u064f\\u0648\\u0631\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0665\\ufd3e \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0652\\u062c\\u0650\\u0646\\u0651\\u064e\\u0629\\u0650 \\u0648\\u064e\\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0666\\ufd3e\", \"indopak\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0645\\u0650\\n \\u0642\\u064f\\u0644\\u0652 \\u0627\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0650\\u0651 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0661\\ufd3e \\u0645\\u064e\\u0644\\u0650\\u0643\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0662\\ufd3e \\u0627\\u0650\\u0644\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0663\\ufd3e \\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0627\\u0644\\u0652\\u0648\\u064e\\u0633\\u0652\\u0648\\u064e\\u0627\\u0633\\u0650 \\u0627\\u0644\\u0652\\u062e\\u064e\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0664\\ufd3e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u0649\\u0652 \\u064a\\u064f\\u0648\\u064e\\u0633\\u0652\\u0648\\u0650\\u0633\\u064f \\u0641\\u0650\\u0649\\u0652 \\u0635\\u064f\\u062f\\u064f\\u0648\\u0652\\u0631\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0665\\ufd3e \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0652\\u062c\\u0650\\u0646\\u0651\\u064e\\u0629\\u0650 \\u0648\\u064e\\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0666\\ufd3e\", \"clean\": \"\\u0628\\u0633\\u0645 \\u0627\\u0644\\u0644\\u0647 \\u0627\\u0644\\u0631\\u062d\\u0645\\u0646 \\u0627\\u0644\\u0631\\u062d\\u064a\\u0645 \\u0642\\u0644 \\u0627\\u0639\\u0648\\u0630 \\u0628\\u0631\\u0628 \\u0627\\u0644\\u0646\\u0627\\u0633 \\u0661 \\u0645\\u0644\\u0643 \\u0627\\u0644\\u0646\\u0627\\u0633 \\u0662 \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0646\\u0627\\u0633 \\u0663 \\u0645\\u0646 \\u0634\\u0631 \\u0627\\u0644\\u0648\\u0633\\u0648\\u0627\\u0633 \\u0627\\u0644\\u062e\\u0646\\u0627\\u0633 \\u0664 \\u0627\\u0644\\u0630\\u064a \\u064a\\u0648\\u0633\\u0648\\u0633 \\u0641\\u064a \\u0635\\u062f\\u0648\\u0631 \\u0627\\u0644\\u0646\\u0627\\u0633 \\u0665 \\u0645\\u0646 \\u0627\\u0644\\u062c\\u0646\\u0647 \\u0648\\u0627\\u0644\\u0646\\u0627\\u0633 \\u0666\", \"transliteration\": \"Bismillaahir-Rahmaanir-Raheem\\n(1) Qul 'a'oodhu birabbin-naas. (2) Malikin-naas. (3) 'Ilaahin-naas. (4) Min sharril-waswaasil-khannaas. (5) Alladhee yuwaswisu fee sudoorin-naas. (6) Minal-jinnati wannaas\", \"translation\": \"(1) Say, \\\"I seek refuge in the Lord of mankind, (2) The Sovereign of mankind. (3) The God of mankind, (4) From the evil of the retreating whisperer - (5) Who whispers [evil] into the breasts of mankind - (6) From among the jinn and mankind.\\\" (Sura Nas 114: 1-6)\", \"note\": \"Narrated 'Aisha (RA): Whenever the Prophet (\\ufdfa) went to bed every night, he used to cup his hands together and blow over it after reciting Surat Al-Ikhlas, Surat Al-Falaq and Surat An-Nas, and then rub his hands over whatever parts of his body he was able to rub, starting with his head, face and front of his body. He used to do that three times.\", \"reference\": \"Bukhari: 5017\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\nقُلْ هُوَ اللَّـهُ أَحَدٌ ﴿١﴾ اللَّـهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿٤﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ\nقُلْ هُوَ اللّٰهُ اَحَدٌ ﴿١﴾ اللّٰهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُوْلَدْ ﴿٣﴾ وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ﴿٤﴾",
+        "clean": "بسم الله الرحمن الرحيمقل هو الله احد ١ الله الصمد ٢ لم يلد ولم يولد ٣ ولم يكن له كفوا احد ٤",
+        "transliteration": "Bismillaahir-Rahmaanir-Raheem\n(1) Qul HuwAllahu 'Ahad. (2) Allahus-Samad. (3) Lam yalid wa lam yoolad. (4) Wa lam yakun lahu kufuwan 'ahad",
+        "reference": null,
+        "audio": 120,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Surah Ikhlas, Falaq and Nas",
+        "content": "Sura Ikhlas three times:",
+        "translation": "(1) Say, \"He is Allah, [who is] One, (2) Allah, the Eternal Refuge. (3) He neither begets nor is born, (4) Nor is there to Him any equivalent.\" (Sura Ikhlas 112: 1-4)",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        121
+      ],
+      "id": 121,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 121,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "[1] Sahih (Albani). Tirmidhi: 3404\n[2] Sahih (Albani). Tirmidhi: 2920",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Surah to be recited before going to sleep",
+        "content": "Jabir (RA) said, Rasulullah (ﷺ) would not sleep without reciting Surah Sajdah and Surah Mulk. [1]\n\nAyesha (RA) said, \"The Messenger of Allah (ﷺ), would not sleep without reciting Surah Bani Isra'il and Surah Zumar.\" In another hadith, Ayesha (RA) said that the Prophet (ﷺ) used to recite Surah Sajdah and Surah Zumar every night. [2]",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        122
+      ],
+      "id": 122,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 122,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ بِاسْمِكَ أَمُوْتُ وَأَحْيَا",
+        "indopak": "اَللّٰهُمَّ بِاسْمِكَ اَمُوْتُ وَاَحْيَا",
+        "clean": "اللهم باسمك اموت واحيا",
+        "transliteration": "Allaahumma bismika amutu wa a'h-yaa",
+        "reference": "Bukhari: 6314",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #1",
+        "content": "Narrated by Hudhaifa (RA): When the Prophet (ﷺ) went to bed at night, he would put his hand under his cheek and then say:",
+        "translation": "O Allah, in Your Name I die and I live.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        123
+      ],
+      "id": 123,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 123,
+        "groups": null,
+        "uthmani": "بِاسْمِكَ اَللَّهُمَّ أَمُوْتُ وَأَحْيَا",
+        "indopak": "بِاسْمِكَ اَللّٰهُمَّ اَمُوْتُ وَاَحْيَا",
+        "clean": "باسمك اللهم اموت واحيا",
+        "transliteration": "Bismika Allaahumma 'amootu wa 'ahyaa",
+        "reference": "Al-Bukhari, Fathul Bari 11/113 no. 6324, Muslim 4/2083 no. 2711",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #2",
+        "content": null,
+        "translation": "In Your name O Allah, I live and die.",
+        "note": "Hudhayfah (RA) said, \"If the Messenger of Allah (ﷺ) intended to sleep, he would recite this dhikr.”"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        124
+      ],
+      "id": 124,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 124,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِى كَفَانِى وَآوَانِى وَأَطْعَمَنِى وَسَقَانِى وَالَّذِى مَنَّ عَلَىَّ فَأَفْضَلَ وَالَّذِى أَعْطَانِى فَأَجْزَلَ اَلْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ، اَللَّهُمَّ رَبَّ كُلِّ شَىْءٍ وَمَلِيْكَهُ وَإِلَهَ كُلِّ شَىْءٍ أَعُوْذُ بِكَ مِنَ النَّارِ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِىْ كَفَانِى وَاٰوَانِىْ وَاَطْعَمَنِىْ وَسَقَانِىْ وَالَّذِىْ مَنَّ عَلَىَّ فَاَفْضَلَ وَالَّذِىْ اَعْطَانِىْ فَاَجْزَلَ اَلْحَمْدُ لِلّٰهِ عَلٰى كُلِّ حَالٍ، اَللّٰهُمَّ رَبَّ كُلِّ شَىْءٍ وَّمَلِيْكَهُ وَاِلٰهَ كُلِّ شَىْءٍ اَعُوْذُ بِكَ مِنَ النَّارِ",
+        "clean": "الحمد لله الذي كفاني واواني واطعمني وسقاني والذي من علي فافضل والذي اعطاني فاجزل الحمد لله علي كل حال اللهم رب كل شيء ومليكه واله كل شيء اعوذ بك من النار",
+        "transliteration": "Alhamdu lillaahil-ladhi kafaani wa aa'wani wa at'amani wa saqaani wal-ladhi manna alayya fa-afdala wal-ladhi a'taani fa-ajzala alhamdu-lillaahi alaa kulli hal, Allaahumma rabba kulli shayin wa malikahu wa ilaaha kulli shayin A‛oodhu bika minan naar",
+        "reference": "Sahih (Albani). Abu Dawud: 5058",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #3",
+        "content": "Narrated Abdullah ibn Umar (RA): When the Messenger of Allah (ﷺ) went to his bed, he would say:",
+        "translation": "Praise be to Allah Who has given me sufficiency, has guarded me, given me food and drink, been most gracious to me, and given to me most lavishly. Praise be to Allah in every circumstance. O Allah! Lord and King of everything, God of everything, I seek refuge in Thee from Hell.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        125
+      ],
+      "id": 125,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 125,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنَّكَ خَلَقْتَ نَفْسِي وَأَنْتَ تَوَفَّاهَا، لَكَ مَمَاتُهَا وَمَحْيَاهَا، إِنْ أَحْيَيْتَهَا فَاحْفَظْهَا، وَإِنْ أَمَتَّهَا فَاغْفِرْ لَهَا، اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ",
+        "indopak": "اَللّٰهُمَّ اِنَّكَ خَلَقْتَ نَفْسِيْ وَاَنْتَ تَوَفَّاهَا، لَكَ مَمَاتُهَا وَمَحْيَاهَا، اِنْ اَحْيَيْتَهَا فَاحْفَظْهَا، وَاِنْ اَمَتَّهَا فَاغْفِرْ لَهَا، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ الْعَافِيَةَ",
+        "clean": "اللهم انك خلقت نفسي وانت توفاها لك مماتها ومحياها ان احييتها فاحفظها وان امتها فاغفر لها اللهم اني اسالك العافيه",
+        "transliteration": "Allaahumma 'innaka khalaqta nafsee wa 'Anta tawaffaahaa, laka mamaatuhaa wa mahyaahaa, 'in 'ahyaytahaa fa’hfadhhaa, wa 'in 'amattahaa faghfir lahaa. Allaahumma 'innee 'as'alukal-'aafiyah",
+        "reference": "Muslim: 2712",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #4",
+        "content": null,
+        "translation": "O Allah, verily You have created my soul and You shall take it's life, to You belong it's life and death. If You keep my soul alive then protect it, and if You take it's life then forgive it. O Allah, I ask You to grant me good health.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        126
+      ],
+      "id": 126,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 126,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَنْتَ الْأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَأَنْتَ الْآخِرُ فَلَيسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ",
+        "indopak": "اَللّٰهُمَّ اَنْتَ الْاَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَاَنْتَ الْاٰخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَاَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَاَنْتَ الْبَاطِنُ فَلَيْسَ دُوْنَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَاَغْنِنَا مِنَ الْفَقْرِ",
+        "clean": "اللهم انت الاول فليس قبلك شيء وانت الاخر فليس بعدك شيء وانت الظاهر فليس فوقك شيء وانت الباطن فليس دونك شيء اقض عنا الدين واغننا من الفقر",
+        "transliteration": "Allaahumma 'Antal-'Awwalu falaysa qablaka shay'un, wa 'Antal-'Aakhiru falaysa ba'daka shay'un, wa 'Antadh-Dhaahiru falaysa fawqaka shay'un, wa 'Antal-Baatinu falaysa doonaka shay'un, iqdhi 'annad-dayna wa 'aghninaa minal-faqr",
+        "reference": "Muslim: 2713",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #5",
+        "content": null,
+        "translation": "O Allah You are the First and nothing has come before you, and You are the Last, and nothing may come after You. You are the Most High, nothing is above You and You are the Most Near and nothing is nearer than You. Remove our debts from us and enrich us against poverty.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        127
+      ],
+      "id": 127,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 127,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَرَبَّ الْأَرْضِ، وَرَبَّ الْعَرْشِ الْعَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَالْإِنْجِيلِ، وَالْفُرْقَانِ، أَعُوْذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ أَنْتَ آخِذٌ بِنَاصِيَتِهِ، اَللَّهُمَّ أَنْتَ الْأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَأَنْتَ الْآخِرُ فَلَيسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيْءٌ، اقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ",
+        "indopak": "اَللّٰهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَرَبَّ الْاَرْضِ، وَرَبَّ الْعَرْشِ الْعَظِيْمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوٰى، وَمُنْزِلَ التَّوْرَاةِ وَالْاِنْجِيْلِ، وَالْفُرْقَانِ، اَعُوْذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ اَنْتَ اٰخِذٌ بِنَاصِيَتِهٖ، اَللّٰهُمَّ اَنْتَ الْاَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَاَنْتَ الْاٰخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَاَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَاَنْتَ الْبَاطِنُ فَلَيْسَ دُوْنَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَاَغْنِنَا مِنَ الْفَقْرِ",
+        "clean": "اللهم رب السموات السبع ورب الارض ورب العرش العظيم ربنا ورب كل شيء فالق الحب والنوي ومنزل التوراه والانجيل والفرقان اعوذ بك من شر كل شيء انت اخذ بناصيته اللهم انت الاول فليس قبلك شيء وانت الاخر فليس بعدك شيء وانت الظاهر فليس فوقك شيء وانت الباطن فليس دونك شيء اقض عنا الدين واغننا من الفقر",
+        "transliteration": "Allaahumma Rabbas-samaawaatis-sab'i wa Rabbal ard, wa Rabbal-'Arshil-'Adheem, Rabbanaa wa Rabba kulli shay 'in, faaliqal-habbi wannawaa, wa munzilat-Tawraati wal-'Injeeli, wal-Furqaan, 'a'oodhu bika min sharri kulli shay 'in 'Anta 'aakhidhun binaasiyatihi. Allaahumma 'Antal-'Awwalu falaysa qablaka shay'un, wa 'Antal-'Aakhiru falaysa ba'daka shay'un, wa 'Antadh-Dhaahiru falaysa fawqaka shay'un, wa 'Antal-Baatinu falaysa doonaka shay'un, iqdhi 'annad-dayna wa 'aghninaa minal-faqr",
+        "reference": "Muslim: 2713, Sahih (Albani). Tirmidhi: 3481",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #6",
+        "content": null,
+        "translation": "O Allah, Lord of the seven heavens and the Lord of the Earth and Lord of the Magnificent Throne, our Lord and Lord of all things, Splitter of the seed and the date stone, Revealer of the Towraat, the Injeel and the Furqaan, I take refuge in You from the evil of all things You shall seize by the forelock. O Allah, You are The First so there is nothing before You and You are The Last so there is nothing after You. You are ath-Dhaahir so there is nothing above You and You are al-Baatin so there is nothing closer than You. Settle our debt for us and spare us from poverty.",
+        "note": "Abu Huraira (RA) reported that Allah's Messenger (ﷺ) used to command us that as we go to our bed, we should utter the words (as mentioned above). In another narration, he said that when Fatima (RA)  asked him for a khadima, he then taught the dua."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        128
+      ],
+      "id": 128,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 128,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ (التَّامَّاتِ) مِنْ غَضَبِهِ وَعِقَابِهِ وَ(مِنْ) شَرِّ عِبَادِهِ وَمِنْ هَمَزَاتِ الشَّيَاطِيْنِ وَأَنْ يَحْضُرُوْنِ",
+        "indopak": "اَعُوْذُ بِكَلِمَاتِ اللّٰهِ التَّامَّةِ (التَّامَّاتِ) مِنْ غَضَبِهٖ وَعِقَابِهٖ وَ(مِنْ) شَرِّ عِبَادِهٖ وَمِنْ هَمَزَاتِ الشَّيَاطِيْنِ وَاَنْ يَّحْضُرُوْنِ",
+        "clean": "اعوذ بكلمات الله التامه التامات من غضبه وعقابه ومن شر عباده ومن همزات الشياطين وان يحضرون",
+        "transliteration": "A'oodhu bikalimaatil-laahit-taammaati min ghadhabihi wa 'iqaabihi, wa (min) sharri 'ibaadihi, wa min hamazaatish-shayaateeni wa 'an yahduroon",
+        "reference": "Hasan (Albani). Tirmidhi: 3528",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #7",
+        "content": "The Messenger of Allah (ﷺ) said: “When one of you becomes frightened during sleep, then let him say:",
+        "translation": "I seek refuge in the Perfect Words of Allah from His anger and His punishment, from the evil of His slaves and from the taunts of devils and from their presence.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        129
+      ],
+      "id": 129,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 129,
+        "groups": null,
+        "uthmani": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهُ، فَإِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا، بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ",
+        "indopak": "بِاسْمِكَ رَبِّيْ وَضَعْتُ جَنْۢبِيْ، وَبِكَ اَرْفَعُهٗ، فَاِنْ اَمْسَكْتَ نَفْسِيْ فَارْحَمْهَا، وَاِنْ اَرْسَلْتَهَا فَاحْفَظْهَا، بِمَا تَحْفَظُ بِهٖ عِبَادَكَ الصَّالِحِيْنَ",
+        "clean": "باسمك ربي وضعت جنبي وبك ارفعه فان امسكت نفسي فارحمها وان ارسلتها فاحفظها بما تحفظ به عبادك الصالحين",
+        "transliteration": "Bismika Rabbee wada'tu janbee, wa bika 'arfa'uhu, fa'in 'amsakta nafsee far’hamhaa, wa 'in 'arsaltahaa fa’hfadh haa, bimaa ta’hfadhu bihi 'ibaadakas-saaliheen",
+        "reference": "Al-Bukhari 11/126 no. 6320, Muslim 4/2084 no.2714",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #8",
+        "content": null,
+        "translation": "In Your name my Lord, I lie down and in Your name I rise, so if You should take my soul then have mercy upon it, and if You should return my soul then protect it in the manner You do so with Your righteous servants.",
+        "note": "Narrated by Abu Huraira (RA): The Prophet (ﷺ) said, When anyone of you go to bed, he should shake out his bed with the inside of his waist sheet, for he does not know what has come on to it after him, and then he should say: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        130
+      ],
+      "id": 130,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 130,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
+        "indopak": "اَللّٰهُمَّ قِنِيْ عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
+        "clean": "اللهم قني عذابك يوم تبعث عبادك",
+        "transliteration": "Allaahumma qinee 'adhaabaka yawma tab'athu 'ibaadak",
+        "reference": "Sahih (Albani). At-Tirmizi: 3398",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #9",
+        "content": "The Prophet (ﷺ) would place his right hand under his cheek when about to sleep and supplicate:",
+        "translation": "O Allah, protect me from Your punishment on the day Your servants are resurrected.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    }
+  ]
+}

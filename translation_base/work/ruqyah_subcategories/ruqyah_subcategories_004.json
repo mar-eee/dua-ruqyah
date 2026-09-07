@@ -1,0 +1,259 @@
+{
+  "table": "ruqyah_subcategories",
+  "chunk": "ruqyah_subcategories_004.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 13,
+  "id_range": "151-163",
+  "source_chars": 138,
+  "items": [
+    {
+      "key": [
+        151
+      ],
+      "id": 151,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 151,
+        "type": "VIDEO",
+        "cat_id": 15
+      },
+      "source": {
+        "name": "Jinn"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        152
+      ],
+      "id": 152,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 152,
+        "type": "VIDEO",
+        "cat_id": 15
+      },
+      "source": {
+        "name": "Magic"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        153
+      ],
+      "id": 153,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 153,
+        "type": "VIDEO",
+        "cat_id": 15
+      },
+      "source": {
+        "name": "Evil Eye"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        154
+      ],
+      "id": 154,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 154,
+        "type": "VIDEO",
+        "cat_id": 15
+      },
+      "source": {
+        "name": "About Raqi"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        155
+      ],
+      "id": 155,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 155,
+        "type": "VIDEO",
+        "cat_id": 15
+      },
+      "source": {
+        "name": "About Ruqyah"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        156
+      ],
+      "id": 156,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 156,
+        "type": "VIDEO",
+        "cat_id": 15
+      },
+      "source": {
+        "name": "Self Ruqyah"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        157
+      ],
+      "id": 157,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 157,
+        "type": "VIDEO",
+        "cat_id": 15
+      },
+      "source": {
+        "name": "Destroy Taweez"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        158
+      ],
+      "id": 158,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 158,
+        "type": "VIDEO",
+        "cat_id": 15
+      },
+      "source": {
+        "name": "Ruqya Info"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        159
+      ],
+      "id": 159,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 159,
+        "type": "VIDEO",
+        "cat_id": 15
+      },
+      "source": {
+        "name": "Waswasa"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        160
+      ],
+      "id": 160,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 160,
+        "type": "VIDEO",
+        "cat_id": 15
+      },
+      "source": {
+        "name": "Ruqyah Q&A"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        161
+      ],
+      "id": 161,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 161,
+        "type": "VIDEO",
+        "cat_id": 15
+      },
+      "source": {
+        "name": "Ruqyah Audios"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        162
+      ],
+      "id": 162,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 162,
+        "type": "VIDEO",
+        "cat_id": 15
+      },
+      "source": {
+        "name": "Diaries of an Exorcist"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        163
+      ],
+      "id": 163,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 163,
+        "type": "VIDEO",
+        "cat_id": 15
+      },
+      "source": {
+        "name": "Mixed Videos"
+      },
+      "target": {
+        "name": ""
+      }
+    }
+  ]
+}

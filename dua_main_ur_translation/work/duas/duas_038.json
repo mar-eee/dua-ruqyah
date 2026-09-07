@@ -1,0 +1,396 @@
+{
+  "table": "duas",
+  "chunk": "duas_038.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 12,
+  "id_range": "552-563",
+  "source_chars": 5886,
+  "items": [
+    {
+      "key": [
+        552
+      ],
+      "id": 552,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 552,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لَهَا وَارْفَعْ دَرَجَتَهَا فِي الْمَهْدِيِّيْنَ، وَاخْلُفْهَآ فِي عَقِبِهَا فِي الْغَابِرِيْنَ، وَاغْفِرْ لَنَا وَلَهَا يَا رَبَّ الْعَالَمِيْنَ، وَافْسَحْ لَهَا فِي قَبْرِهَا، وَنَوِّرْ لَهَا فِيهِ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لَهَا وَارْفَعْ دَرَجَتَهَا فِي الْمَهْدِيِّيْنَ، وَاخْلُفْهَا فِيْ عَقِبِهَا فِيْ الْغَابِرِيْنَ، وَاغْفِرْ لَنَا وَلَهَا يَا رَبَّ الْعَالَمِيْنَ، وَافْسَحْ لَهَا فِيْ قَبْرِهَا، وَنَوِّرْ لَهَا فِيْهِ",
+        "clean": "اللهم اغفر لها وارفع درجتها في المهديين واخلفها في عقبها في الغابرين واغفر لنا ولها يا رب العالمين وافسح لها في قبرها ونور لها فيه",
+        "transliteration": "Allahumm-aghfir laha [mention the person's name] warfa‛ darajataha fil-mahdiyyin, wakhlufha fee ‛aqibiha fil-ghaabireen, waghfir lanaa wa laha yaa rabbal-‛aalameen, wafsah laha fee qabriha wa nawwir laha feeh",
+        "reference": "Muslim: 920",
+        "audio": 552,
+        "cat_id": 33,
+        "subcat_id": 100
+      },
+      "source": {
+        "name": "When closing the eyes of the deceased (for female)",
+        "content": null,
+        "translation": "O Allah, forgive – [so-and-so] - and raise her rank among the rightly guided, and be a successor to whom she has left behind, and forgive us and her O Lord of the worlds. Make spacious her grave and illuminate it for her.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        553
+      ],
+      "id": 553,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 553,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لَّامَّةٍ",
+        "indopak": "اَعُوْذُ بِكَلِمَاتِ اللّٰهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَّهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لَّامَّةٍ",
+        "clean": "اعوذ بكلمات الله التامه من كل شيطان وهامه ومن كل عين لامه",
+        "transliteration": "A'oodhu bi kalimaat-illaahit-taammati min kulli shaytaanin, wa haammah, wa min kulli 'aynin laammah",
+        "reference": "Bukhari: 3371",
+        "audio": null,
+        "cat_id": 33,
+        "subcat_id": 101
+      },
+      "source": {
+        "name": "Dua of custody from evil eye and disease",
+        "content": null,
+        "translation": "I commend you to the protection of Allah’s perfect words from every devil, vermin, and every evil eye.",
+        "note": "The Prophet (ﷺ) used to seek Refuge with Allah for Al-Hasan and Al-Husain and say: \"Your forefather (i.e. Abraham) used to seek Refuge with Allah for Ishmael and Isaac by reciting the following: (the dua is mentioned above)\n\nAll believing fathers and mothers should recite these verses in the morning and in the evening, blow their children and make dua. Besides, everyone should recite the dua in the morning and evening for their own protection."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        554
+      ],
+      "id": 554,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 554,
+        "groups": "[{\"id\": 554, \"name\": null, \"cat_id\": 33, \"subcat_id\": 101, \"content\": \"Surah Nas\", \"uthmani\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0640\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u064e\\u0640\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0645\\u0650\\n\\u0642\\u064f\\u0644\\u0652 \\u0623\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0650\\u0651 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0661\\ufd3e \\u0645\\u064e\\u0644\\u0650\\u0643\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0662\\ufd3e \\u0625\\u0650\\u0644\\u064e\\u0640\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0663\\ufd3e \\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0627\\u0644\\u0652\\u0648\\u064e\\u0633\\u0652\\u0648\\u064e\\u0627\\u0633\\u0650 \\u0627\\u0644\\u0652\\u062e\\u064e\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0664\\ufd3e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a \\u064a\\u064f\\u0648\\u064e\\u0633\\u0652\\u0648\\u0650\\u0633\\u064f \\u0641\\u0650\\u064a \\u0635\\u064f\\u062f\\u064f\\u0648\\u0631\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0665\\ufd3e \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0652\\u062c\\u0650\\u0646\\u0651\\u064e\\u0629\\u0650 \\u0648\\u064e\\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0666\\ufd3e\", \"indopak\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0652\\u0645\\u0650 \\n\\u0642\\u064f\\u0644\\u0652 \\u0627\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0651\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\u06d9\\ufd3f\\u06f1\\ufd3e \\u0645\\u064e\\u0644\\u0650\\u0643\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\u06d9\\ufd3f\\u06f2\\ufd3e \\u0627\\u0650\\u0644\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\u06d9\\ufd3f\\u06f3\\ufd3e \\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0651\\u0650 \\u0627\\u0644\\u0652\\u0648\\u064e\\u0633\\u0652\\u0648\\u064e\\u0627\\u0633\\u0650 \\u06ec\\u06d9 \\u0627\\u0644\\u0652\\u062e\\u064e\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\u06ea\\u06d9\\ufd3f\\u06f4\\ufd3e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u06cc\\u0652 \\u06cc\\u064f\\u0648\\u064e\\u0633\\u0652\\u0648\\u0650\\u0633\\u064f \\u0641\\u0650\\u06cc\\u0652 \\u0635\\u064f\\u062f\\u064f\\u0648\\u0652\\u0631\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\u06d9\\ufd3f\\u06f5\\ufd3e \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0652\\u062c\\u0650\\u0646\\u0651\\u064e\\u0629\\u0650 \\u0648\\u064e\\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\u066a\\ufd3f\\u06f6\\ufd3e\", \"clean\": \"\\u0628\\u0633\\u0645 \\u0627\\u0644\\u0644\\u0647 \\u0627\\u0644\\u0631\\u062d\\u0645\\u0646 \\u0627\\u0644\\u0631\\u062d\\u064a\\u0645 \\u0642\\u0644 \\u0627\\u0639\\u0648\\u0630 \\u0628\\u0631\\u0628 \\u0627\\u0644\\u0646\\u0627\\u0633  \\u0645\\u0644\\u0643 \\u0627\\u0644\\u0646\\u0627\\u0633  \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0646\\u0627\\u0633  \\u0645\\u0646 \\u0634\\u0631 \\u0627\\u0644\\u0648\\u0633\\u0648\\u0627\\u0633  \\u0627\\u0644\\u062e\\u0646\\u0627\\u0633  \\u0627\\u0644\\u0630 \\u0648\\u0633\\u0648\\u0633 \\u0641 \\u0635\\u062f\\u0648\\u0631 \\u0627\\u0644\\u0646\\u0627\\u0633  \\u0645\\u0646 \\u0627\\u0644\\u062c\\u0646\\u0647 \\u0648\\u0627\\u0644\\u0646\\u0627\\u0633 \", \"transliteration\": \"Bismillaahir-Rahmaanir-Raheem. (1) Qul 'A'oodhu birabbin-naas. (2) Malikin-naas. (3) 'Ilaahin-naas. (4) Min sharril-waswaasil-khannaas. (5) Allathee yuwaswisu fee sudoorin-naas. (6) Minal-jinnati wan-naas\", \"translation\": \"(1) Say, \\\"I seek refuge in the Lord of mankind, (2) The Sovereign of mankind. (3) The God of mankind, (4) From the evil of the retreating whisperer - (5) Who whispers [evil] into the breasts of mankind - (6) From among the jinn and mankind.\\\" (Sura Nas: 1-6)\", \"note\": \"Abu Sayed Khudri (RA) said: \\u201cThe Messenger of Allah (\\ufdfa) used to recite various dua's for protection from the eyes of humans and jinn. When Surah Falaq and Surah Nas were revealed, he omitted all other supplications. \\u201d [2]\", \"reference\": \"[1] Surah Falaq: 1-5\\n[2] Surah Nas: 1-6\\n[3] Sahih (Albani). Ibn Majah: 3511\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\nقُلْ أَعُوْذُ بِرَبِّ الْفَلَقِ ﴿١﴾ مِن شَرِّ مَا خَلَقَ ﴿٢﴾ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿٣﴾ وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ﴿٤﴾ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ\nقُلْ اَعُوْذُ بِرَبِّ الْفَلَقِ ۙ﴿۱﴾ مِنْ شَرِّ مَا خَلَقَ ۙ﴿۲﴾ وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَ ۙ﴿۳﴾ وَمِنْ شَرِّ النَّفّٰثٰتِ فِی الْعُقَدِ ۙ﴿۴﴾ وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ﴿۵﴾",
+        "clean": "بسم الله الرحمن الرحيمقل اعوذ برب الفلق  من شر ما خلق  ومن شر غاسق اذا وقب  ومن شر النفثت ف العقد  ومن شر حاسد اذا حسد ",
+        "transliteration": "Bismillaahir-Rahmaanir-Raheem. (1) Qul 'A'oodhu birabbil-falaq. (2) Min sharri maa khalaq. (3) Wa min sharri ghaasiqin 'ithaa waqab. (4) Wa min sharrin-naffaathaati fil-'uqad. (5) Wa min sharri haasidin 'ithaa hasad",
+        "reference": null,
+        "audio": 554,
+        "cat_id": 33,
+        "subcat_id": 101
+      },
+      "source": {
+        "name": "Custody from evil eye",
+        "content": "Surah Falaq",
+        "translation": "(1) Say, \"I seek refuge in the Lord of daybreak (2) From the evil of that which He created (3) And from the evil of darkness when it settles (4) And from the evil of the blowers in knots (5) And from the evil of an envier when he envies.\" (Sura Falaq: 1-5)",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        555
+      ],
+      "id": 555,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 555,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ أَرْقِيْكَ مِنْ كُلِّ شَيْءٍ يُؤْذِيْكَ، مِنْ شَرِّ كُلِّ نَفْسٍ أَوْ عَيْنٍ حَاسِدٍ، اَللَّهُ يَشْفِيكْ، بِسْمِ اللَّهِ أَرْقِيْكَ",
+        "indopak": "بِسْمِ اللّٰهِ اَرْقِيْكَ مِنْ كُلِّ شَيْءٍ يُّؤْذِيْكَ، مِنْ شَرِّ كُلِّ نَفْسٍ اَوْ عَيْنٍ حَاسِدٍ، اَللّٰهُ يَشْفِيْكْ، بِسْمِ اللّٰهِ اَرْقِيْكَ",
+        "clean": "بسم الله ارقيك من كل شيء يءذيك من شر كل نفس او عين حاسد الله يشفيك بسم الله ارقيك",
+        "transliteration": "Bismillaahi arqik, min kulli shay’in yu’dhik, min sharri kulli nafsin aw ‘aynin haasidin. Allahu yashfik, bismillaahi arqik",
+        "reference": "Muslim: 2186",
+        "audio": 555,
+        "cat_id": 33,
+        "subcat_id": 101
+      },
+      "source": {
+        "name": "Dua of sickness and evil eye",
+        "content": null,
+        "translation": "In the Name of Allah I perform Ruqyah for you, from everything that is harming you, from the evil of every soul or envious eye, may Allah heal you. In the Name of Allah I perform Ruqyah for you.",
+        "note": "Abu Sayed Khudri (RA) said, Gabriel (As) came to the Messenger of Allah (ﷺ) (he was feverish at that time). Gabriel (As) said, Muhammad, are you sick? He said: Yes. Then he said the above words."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        556
+      ],
+      "id": 556,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 556,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَذْهِبْ حَرَّهَا وَبَرْدَهَا، وَوَصَبَهَا",
+        "indopak": "اَللّٰهُمَّ اَذْهِبْ حَرَّهَا وَبَرْدَهَا، وَوَصَبَهَا",
+        "clean": "اللهم اذهب حرها وبردها ووصبها",
+        "transliteration": "Allaahumma adh-hib harrahaa wa bardahaa wa wa-sabahaa",
+        "reference": "Jayyid/Good chain of narration (Hussein Saleem Asad). Musnad Abi Ya’la al-Mawsili: 8195",
+        "audio": null,
+        "cat_id": 33,
+        "subcat_id": 101
+      },
+      "source": {
+        "name": "If there is a fear of being affected by the evil eye",
+        "content": null,
+        "translation": "O Allah ! Remove its [evil eye] heat and cold and its pain.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        557
+      ],
+      "id": 557,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 557,
+        "groups": null,
+        "uthmani": "بَارَكَ اللَّهُ لَكَ",
+        "indopak": "بَارَكَ اللّٰهُ لَكَ",
+        "clean": "بارك الله لك",
+        "transliteration": "BaarakAllahu lak",
+        "reference": "Sahih (Albani). Ibn Majah: 3509",
+        "audio": 557,
+        "cat_id": 33,
+        "subcat_id": 101
+      },
+      "source": {
+        "name": "Dua when a person sees something that he likes in order not to harm with the evil eye",
+        "content": "The Prophet (ﷺ) said, “If you see something (good) in your brother (or yourself or wealth, which you find impressing), then invoke blessings for it.\"",
+        "translation": "O Allah, send blessing upon him.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        558
+      ],
+      "id": 558,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 558,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ وَلَا فَاجِرٌ مِنْ شَرِّ مَا خَلَقَ، وَبَرَأَ وَذَرَأَ، وَمِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ، وَمِنْ شَرِّ مَا يَعْرُجُ فِيهَا، وَمِنْ شَرِّ مَا ذَرَأَ فِي الْأَرْضِ، وَمِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، وَمِنْ شَرِّ فِتَنِ اللَّيْلِ وَالنَّهَارِ، وَمِنْ شَرِّ كُلِّ طَارِقٍ إِلَّا طَارِقًا يَطْرُقُ بِخَيْرٍ يَا رَحْمَنُ",
+        "indopak": "اَعُوْذُ بِكَلِمَاتِ اللّٰهِ التَّامَّاتِ الَّتِيْ لَا يُجَاوِزُهُنَّ بَرٌّ وَّلَا فَاجِرٌ مِّنْ شَرِّ مَا خَلَقَ، وَبَرَاَ وَذَرَاَ، وَمِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ، وَمِنْ شَرِّ مَا يَعْرُجُ فِيْهَا، وَمِنْ شَرِّ مَا ذَرَاَ فِي الْاَرْضِ، وَمِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، وَمِنْ شَرِّ فِتَنِ اللَّيْلِ وَالنَّهَارِ، وَمِنْ شَرِّ كُلِّ طَارِقٍ اِلَّا طَارِقًا يَّطْرُقُ بِخَيْرٍ يَّا رَحْمٰنُ",
+        "clean": "اعوذ بكلمات الله التامات التي لا يجاوزهن بر ولا فاجر من شر ما خلق وبرا وذرا ومن شر ما ينزل من السماء ومن شر ما يعرج فيها ومن شر ما ذرا في الارض ومن شر ما يخرج منها ومن شر فتن الليل والنهار ومن شر كل طارق الا طارقا يطرق بخير يا رحمن",
+        "transliteration": "A'oodhu bikalimaatil-laahit-taammaatil-latee laa yujaawizuhunna barrun wa laa faajirum min sharri maa khalaqa, wa bara'a wa dhara'a, wa min sharri maa yanzilu minas-samaa'i, wa min sharri maa ya'ruju feehaa, wa min sharri maa dhara'a fil-'ardhi, wa min sharri ma yakhruju minhaa, wa min sharri fitanil-layli wan-nahaari, wa min sharri kulli taariqin 'illaa taariqan yatruqu bikhayrin yaa Rahmaan",
+        "reference": "Sheikh Arnaut (Rah) said that the sanad of this hadith is saheeh.Takhrij Litahabiyah (p. 133)",
+        "audio": 558,
+        "cat_id": 33,
+        "subcat_id": 101
+      },
+      "source": {
+        "name": "To ward off the deception of the Obstinate Shaytans",
+        "content": "Jibriel (As) said to the Prophet (ﷺ) to resist the devil:",
+        "translation": "I take refuge within Allah's perfect words which no righteous or unrighteous person can transgress, from all the evil that He has created, made and originated. [I take refuge] from the evil that descends from the sky and the evil that rises up to it. [I take refuge] from the evil that is spread on earth and the evil that springs from her, and I take refuge from the evil of the tribulations of night and day, and the evil of one who visits at night except the one who brings good, O Merciful One.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        559
+      ],
+      "id": 559,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 559,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ ﴿۱﴾ اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِیْنَ ۙ﴿۲﴾الرَّحْمٰنِ الرَّحِیْمِ ۙ﴿۳﴾ مٰلِكِ یَوْمِ الدِّیْنِ ؕ﴿۴﴾ اِیَّاكَ نَعْبُدُ وَاِیَّاكَ نَسْتَعِیْنُ ؕ﴿۵﴾ اِهْدِنَا الصِّرَاطَ الْمُسْتَقِیْمَ ۙ﴿۶﴾صِرَاطَ الَّذِیْنَ اَنْعَمْتَ عَلَیْهِمْ ۬ۙ غَیْرِ الْمَغْضُوْبِ عَلَیْهِمْ وَلَا الضَّآلِّیْنَ ٪﴿۷﴾",
+        "clean": "بسم الله الرحمن الرحم  الحمد لله رب العلمن الرحمن الرحم  ملك وم الدن  ااك نعبد وااك نستعن  اهدنا الصراط المستقم صراط الذن انعمت علهم  غر المغضوب علهم ولا الضالن ",
+        "transliteration": null,
+        "reference": "Surah Fatiha 1",
+        "audio": 559,
+        "cat_id": 34,
+        "subcat_id": 102
+      },
+      "source": {
+        "name": "Jinn, magic and treatment of diseases that must be read #1",
+        "content": "He will recite these verses and suras with Tartil after doing ablution. Scholers say that reciting these verses and suras repeatedly for several months or listening to them through cassettes gives good results.",
+        "translation": "(1) In the name of Allah, the Entirely Merciful, the Especially Merciful. (2) [All] praise is [due] to Allah, Lord of the worlds - (3) The Entirely Merciful, the Especially Merciful, (4) Sovereign of the Day of Recompense. (5) It is You we worship and You we ask for help. (6) Guide us to the straight path - (7) The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        560
+      ],
+      "id": 560,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 560,
+        "groups": null,
+        "uthmani": "الم ﴿١﴾ ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ ﴿٢﴾ الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ ﴿٣﴾ وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ ﴿٤﴾ أُولَـٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَـٰئِكَ هُمُ الْمُفْلِحُونَ ﴿٥﴾",
+        "indopak": "الٓـمّٓ ۚ﴿۱﴾ذٰلِكَ الْكِتٰبُ لَا رَیْبَ ۚۖۛ فِیْهِ ۚۛ هُدًی لِّلْمُتَّقِیْنَ ۙ﴿۲﴾الَّذِیْنَ یُؤْمِنُوْنَ بِالْغَیْبِ وَیُقِیْمُوْنَ الصَّلٰوةَ وَمِمَّا رَزَقْنٰهُمْ  یُنْفِقُوْنَ ۙ﴿۳﴾وَالَّذِیْنَ یُؤْمِنُوْنَ بِمَاۤ اُنْزِلَ اِلَیْكَ وَمَاۤ اُنْزِلَ مِنْ قَبْلِكَ ۚ وَبِالْاٰخِرَةِ هُمْ یُوْقِنُوْنَ ؕ﴿۴﴾اُولٰٓئِكَ عَلٰی هُدًی مِّنْ رَّبِّهِمْ ٭ وَاُولٰٓئِكَ هُمُ الْمُفْلِحُوْنَ﴿۵﴾",
+        "clean": "الم ذلك الكتب لا رب  فه  هد للمتقن الذن ءمنون بالغب وقمون الصلوه ومما رزقنهم  نفقون والذن ءمنون بما انزل الك وما انزل من قبلك  وبالاخره هم وقنون اولءك عل هد من ربهم  واولءك هم المفلحون",
+        "transliteration": null,
+        "reference": "Surah Baqarah 2: 1-5",
+        "audio": 560,
+        "cat_id": 34,
+        "subcat_id": 102
+      },
+      "source": {
+        "name": "Jinn, magic and treatment of diseases that must be read #2",
+        "content": null,
+        "translation": "(1) Alif, Lam, Meem. (2) This is the Book about which there is no doubt, a guidance for those conscious of Allah - (3) Who believe in the unseen, establish prayer, and spend out of what We have provided for them, (4) And who believe in what has been revealed to you, [O Muhammad], and what was revealed before you, and of the Hereafter they are certain [in faith]. (5) Those are upon [right] guidance from their Lord, and it is those who are the successful.`",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        561
+      ],
+      "id": 561,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 561,
+        "groups": null,
+        "uthmani": "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَـٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ وَمَا هُم بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّـهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ ﴿١٠٢﴾",
+        "indopak": "وَاتَّبَعُوْا مَا تَتْلُوا الشَّیٰطِیْنُ عَلٰی مُلْكِ سُلَیْمٰنَ ۚ وَمَا كَفَرَ سُلَیْمٰنُ وَلٰكِنَّ الشَّیٰطِیْنَ كَفَرُوْا یُعَلِّمُوْنَ النَّاسَ السِّحْرَ٭ وَمَاۤ اُنْزِلَ عَلَی الْمَلَكَیْنِ بِبَابِلَ هَارُوْتَ وَمَارُوْتَ ؕ وَمَا یُعَلِّمٰنِ مِنْ اَحَدٍ حَتّٰی یَقُوْلَاۤ اِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ؕ فَیَتَعَلَّمُوْنَ مِنْهُمَا مَا یُفَرِّقُوْنَ بِهٖ بَیْنَ الْمَرْءِ وَزَوْجِهٖ ؕ وَمَا هُمْ بِضَآرِّیْنَ بِهٖ مِنْ اَحَدٍ اِلَّا بِاِذْنِ اللّٰهِ ؕ وَیَتَعَلَّمُوْنَ مَا یَضُرُّهُمْ وَلَا یَنْفَعُهُمْ ؕ وَلَقَدْ عَلِمُوْا لَمَنِ اشْتَرٰىهُ مَا لَهٗ فِی الْاٰخِرَةِ مِنْ خَلَاقٍ ۟ؕ وَلَبِئْسَ مَا شَرَوْا بِهٖۤ اَنْفُسَهُمْ ؕ لَوْ كَانُوْا یَعْلَمُوْنَ﴿۱۰۲﴾",
+        "clean": "واتبعوا ما تتلوا الشطن عل ملك سلمن  وما كفر سلمن ولكن الشطن كفروا علمون الناس السحر وما انزل عل الملكن ببابل هاروت وماروت  وما علمن من احد حت قولا انما نحن فتنه فلا تكفر  فتعلمون منهما ما فرقون به بن المرء وزوجه  وما هم بضارن به من احد الا باذن الله  وتعلمون ما ضرهم ولا نفعهم  ولقد علموا لمن اشتريه ما له ف الاخره من خلاق  ولبءس ما شروا به انفسهم  لو كانوا علمون",
+        "transliteration": null,
+        "reference": "Surah Baqarah 2: 102",
+        "audio": 561,
+        "cat_id": 34,
+        "subcat_id": 102
+      },
+      "source": {
+        "name": "Jinn, magic and treatment of diseases that must be read #3",
+        "content": null,
+        "translation": "(102) And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Harut and Marut. But the two angels do not teach anyone unless they say, \"We are a trial, so do not disbelieve [by practicing magic].\" And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allah . And the people learn what harms them and does not benefit them. But the Children of Israel certainly knew that whoever purchased the magic would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        562
+      ],
+      "id": 562,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 562,
+        "groups": null,
+        "uthmani": "وَإِلَـٰهُكُمْ إِلَـٰهٌ وَاحِدٌ ۖ لَّا إِلَـٰهَ إِلَّا هُوَ الرَّحْمَـٰنُ الرَّحِيمُ ﴿١٦٣﴾ إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنفَعُ النَّاسَ وَمَا أَنزَلَ اللَّـهُ مِنَ السَّمَاءِ مِن مَّاءٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَابَّةٍ وَتَصْرِيفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ وَالْأَرْضِ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ ﴿١٦٤﴾",
+        "indopak": "وَاِلٰهُكُمْ اِلٰهٌ وَّاحِدٌ ۚ لَاۤ اِلٰهَ اِلَّا هُوَ الرَّحْمٰنُ الرَّحِیْمُ ﴿۱۶۳﴾٪اِنَّ فِیْ خَلْقِ السَّمٰوٰتِ وَالْاَرْضِ وَاخْتِلَافِ الَّیْلِ وَالنَّهَارِ وَالْفُلْكِ الَّتِیْ تَجْرِیْ فِی الْبَحْرِ بِمَا یَنْفَعُ النَّاسَ وَمَاۤ اَنْزَلَ اللّٰهُ مِنَ السَّمَآءِ مِنْ مَّآءٍ فَاَحْیَا بِهِ الْاَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِیْهَا مِنْ كُلِّ دَآبَّةٍ وَّتَصْرِیْفِ الرِّیٰحِ وَالسَّحَابِ الْمُسَخَّرِ بَیْنَ السَّمَآءِ وَالْاَرْضِ لَاٰیٰتٍ لِّقَوْمٍ یَّعْقِلُوْنَ﴿۱۶۴﴾",
+        "clean": "والهكم اله واحد  لا اله الا هو الرحمن الرحم ان ف خلق السموت والارض واختلاف الل والنهار والفلك الت تجر ف البحر بما نفع الناس وما انزل الله من السماء من ماء فاحا به الارض بعد موتها وبث فها من كل دابه وتصرف الرح والسحاب المسخر بن السماء والارض لات لقوم عقلون",
+        "transliteration": null,
+        "reference": "Surah Baqarah 2: 163-164",
+        "audio": 562,
+        "cat_id": 34,
+        "subcat_id": 102
+      },
+      "source": {
+        "name": "Jinn, magic and treatment of diseases that must be read #4",
+        "content": null,
+        "translation": "(163) And your god is one God. There is no deity [worthy of worship] except Him, the Entirely Merciful, the Especially Merciful. (164) Indeed, in the creation of the heavens and earth, and the alternation of the night and the day, and the [great] ships which sail through the sea with that which benefits people, and what Allah has sent down from the heavens of rain, giving life thereby to the earth after its lifelessness and dispersing therein every [kind of] moving creature, and [His] directing of the winds and the clouds controlled between the heaven and the earth are signs for a people who use reason.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        563
+      ],
+      "id": 563,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 563,
+        "groups": null,
+        "uthmani": "اللّٰهُ لَآ إِلٰهَ إِلَّا هُوَ الْحَىُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى السَّمٰوٰتِ وَمَا فِى الْأَرْضِ ۗ مَن ذَا الَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمٰوٰتِ وَالْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ الْعَلِىُّ الْعَظِيمُ",
+        "indopak": "اَللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ ۚ اَلْحَیُّ الْقَیُّوْمُ ۬ۚ لَا تَاْخُذُهٗ سِنَةٌ وَّلَا نَوْمٌ ؕ لَهٗ مَا فِی السَّمٰوٰتِ وَمَا فِی الْاَرْضِ ؕ مَنْ ذَا الَّذِیْ یَشْفَعُ عِنْدَهٗۤ اِلَّا بِاِذْنِهٖ ؕ یَعْلَمُ مَا بَیْنَ اَیْدِیْهِمْ وَمَا خَلْفَهُمْ ۚ وَلَا یُحِیْطُوْنَ بِشَیْءٍ مِّنْ عِلْمِهٖۤ اِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِیُّهُ السَّمٰوٰتِ وَالْاَرْضَ ۚ وَلَا یَئُوْدُهٗ حِفْظُهُمَا ۚ وَهُوَ الْعَلِیُّ الْعَظِیْمُ ﴿۲۵۵﴾",
+        "clean": "الله لا اله الا هو  الح القوم  لا تاخذه سنه ولا نوم  له ما ف السموت وما ف الارض  من ذا الذ شفع عنده الا باذنه  علم ما بن ادهم وما خلفهم  ولا حطون بشء من علمه الا بما شاء  وسع كرسه السموت والارض  ولا ءوده حفظهما  وهو العل العظم ",
+        "transliteration": null,
+        "reference": "Surah Baqarah 2: 255",
+        "audio": 563,
+        "cat_id": 34,
+        "subcat_id": 102
+      },
+      "source": {
+        "name": "Jinn, magic and treatment of diseases that must be read #5",
+        "content": null,
+        "translation": "(255) Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    }
+  ]
+}

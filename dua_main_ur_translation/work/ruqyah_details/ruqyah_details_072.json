@@ -1,0 +1,99 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_072.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "148-149",
+  "source_chars": 5899,
+  "items": [
+    {
+      "key": [
+        148
+      ],
+      "id": 148,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 148,
+        "topic_id": null,
+        "cat_id": 9,
+        "subcat_id": 120
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>1.</b> Saffron - 3 pinches\n\n<b>2.</b> Sidr (lote tree) leaves. 7 leaves, or 7 pinches if it is in powder form\n\n<b>3.</b> 3 table spoons of Apple cider vinegar\n\n<b>4.</b> Dead sea salt (coarse, not powdered)\n\n<b>5.</b> Orange blossom water\n\n<b>6.</b> Rosewater\n\n<b>7.</b> 1 litre of Water\n\nMost of these ingredients can be found in 'middle eastern' or 'ethnic foods' stores, or can be ordered on the internet."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        149
+      ],
+      "id": 149,
+      "part": 1,
+      "of": 8,
+      "frozen": {
+        "id": 149,
+        "topic_id": null,
+        "cat_id": 9,
+        "subcat_id": 121
+      },
+      "source": {
+        "text": "On all the ingredients should be recited. One can either recite on the ingredients individually in their own bottles or one can put the ingredients in a bowl and recite on the mixture. This is better because the shorter the time between recitation and usage, the more effective it is. One should recite (in Arabic) and then blow on the mixture, but with little spit, e.g. by slightly moistening the lips:\n\n<b>Al-Fatitah (7-times)</b>\n\n<ar>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾</ar>\n\n<b>Translation:</b> (1) In the name of Allah, the Entirely Merciful, the Especially Merciful. (2) [All] praise is [due] to Allah, Lord of the worlds - (3) The Entirely Merciful, the Especially Merciful, (4) Sovereign of the Day of Recompense. (5) It is You we worship and You we ask for help. (6) Guide us to the straight path - (7) The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.\n\n<b>Al-Baqarah (2:1-5)</b>\n\n<ar>الم ﴿١﴾ ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ ﴿٢﴾ الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ ﴿٣﴾ وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ ﴿٤﴾ أُولَـٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَـٰئِكَ هُمُ الْمُفْلِحُونَ ﴿٥﴾</ar>",
+        "topic_name": null
+      },
+      "target": {
+        "text": "",
+        "topic_name": null
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        149
+      ],
+      "id": 149,
+      "part": 2,
+      "of": 8,
+      "frozen": {
+        "id": 149,
+        "topic_id": null,
+        "cat_id": 9,
+        "subcat_id": 121
+      },
+      "source": {
+        "text": "<b>Translation:</b> (1) Alif, Lam, Meem. (2) This is the Book about which there is no doubt, a guidance for those conscious of Allah - (3) Who believe in the unseen, establish prayer, and spend out of what We have provided for them, (4) And who believe in what has been revealed to you, [O Muhammad], and what was revealed before you, and of the Hereafter they are certain [in faith]. (5) Those are upon [right] guidance from their Lord, and it is those who are the successful.\n\n<b>Al-Baqarah (2:102) [7-times]</b>\n\n<ar>وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَـٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ وَمَا هُم بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّـهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ ﴿١٠٢﴾</ar>\n\n<b>Translation:</b> (102) And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Harut and Marut. But the two angels do not teach anyone unless they say, \"We are a trial, so do not disbelieve [by practicing magic].\" And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allah . And the people learn what harms them and does not benefit them. But the Children of Israel certainly knew that whoever purchased the magic would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew."
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        149
+      ],
+      "id": 149,
+      "part": 3,
+      "of": 8,
+      "frozen": {
+        "id": 149,
+        "topic_id": null,
+        "cat_id": 9,
+        "subcat_id": 121
+      },
+      "source": {
+        "text": "<b>Al-Baqarah (2: 255) [Ayat-ul-kursi]</b>\n\n<ar>اللّٰهُ لَآ إِلٰهَ إِلَّا هُوَ الْحَىُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى السَّمٰوٰتِ وَمَا فِى الْأَرْضِ ۗ مَن ذَا الَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمٰوٰتِ وَالْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ الْعَلِىُّ الْعَظِيمُ</ar>\n \n<b>Translation:</b> (255) Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.\n\n<b>Al-Baqarah (2:256)</b>\n\n<ar>لَا إِكْرَاهَ فِي الدِّينِ ۖ قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ ۚ فَمَن يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِن بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انفِصَامَ لَهَا ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ ‎﴿٢٥٦﴾‏</ar>\n\n<b>Translation:</b> (256) There shall be no compulsion in [acceptance of] the religion. The right course has become clear from the wrong. So whoever disbelieves in Taghut and believes in Allah has grasped the most trustworthy handhold with no break in it. And Allah is Hearing and Knowing. \n\n<b>Al-Baqarah (2:257)</b>\n\n<ar>اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُم مِّنَ الظُّلُمَاتِ إِلَى النُّورِ ۖ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَاتِ ۗ أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ ‎﴿٢٥٧﴾</ar>"
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    }
+  ]
+}

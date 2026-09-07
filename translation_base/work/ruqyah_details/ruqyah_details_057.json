@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_057.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "110-111",
+  "source_chars": 3697,
+  "items": [
+    {
+      "key": [
+        110
+      ],
+      "id": 110,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 110,
+        "topic_id": null,
+        "cat_id": 6,
+        "subcat_id": 91
+      },
+      "source": {
+        "topic_name": null,
+        "text": "We would like to comfort readers on risks associated with curing the needy. We would like more people to get involved because the scourge is so widespread that the curing capacity must become common.\n\nA mother should be able to cure her children against evil eye; there is no risk here. A practicing Muslim should be able to remove eaten sorcery for his friends and family, here too there is no risk. When you or your family or your house have already been attacked, risk no longer applies. Since you are already in the situation you must fight back because being actionless will not save you. In short, for a serious practicing Muslim, who endeavors to pray on time, avoids most prohibited offenses, progresses in the religion learning, and improves their spirituality, it is strongly recommended to know about Ruqyah rudiments to be able to act in case there is no professional around when needed.\n\nSome excellent brothers, perfectly competent, refuse to get involved in Ruqyah for fears of sorcerers reprisals to them and their family. Subhan Allah! Sorcerers do not fear Allah and Hell, believers and their prayers, and we, in truth, fighting for the good, will be scared of the devil and his allies?! Then Satan henchmen will massacre us without us even trying. Of course, we will face all kinds of hardships as well our families for the sake of Ruqyah, but we would have cured hundreds of people insha’Allah, and we will win all the battles by the grace of Allah as long as we stick to Allah’s path, and “Allah helps the servant as long as the latter helps his fellow brother”. In the distress, Allah will bring you angels, Muslim jinns or decisive dreams to help you in shaAllah, and the evil from the wicked ones will go back to them and the final victory is for the pious ones."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        111
+      ],
+      "id": 111,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 111,
+        "topic_id": null,
+        "cat_id": 6,
+        "subcat_id": 92
+      },
+      "source": {
+        "topic_name": null,
+        "text": "To those willing to get more involved, a piece of advice: have no other goal in your life but Allah, then everything will be alright. All problems you face will be a fortification for your faith, a forgiveness of your sins, a cause for repentance, an increase to your experience. I never saw in my life an activity increasing faith more than Ruqyah, not to mention it allowing you to preach Islam to men and jinns as well as gaining good actions and blessings from people you cure. \n\nIt may also generate decent income, preventing you from getting involved in prohibited financial activities, which harms the image of the practicing Muslim as well as the Muslim themselves. I wrote in “the spiritual path” that you should only get involved in this field by divine authorisation. You can consider the urgent need around you and the information I am exposing in this book as well as the obligation in Islam to assist your fellow Muslim and acceptance of some of your prayers as a divine invitation to start.\n\nHelp people as much as you can, but not more. Do not give up other activities you consider important. Do not unbalance your family life. Do not face situations that are beyond your control. You will have to refuse some services: you should favor general and long term interest. You will be solicited from everywhere and at any time: set limits.\n\n<b>Ask Your Customers To Help You</b>\n\nSome people will stress you for little outcomes: nothing forces you to get yourself into an uncomfortable situation for them; refuse to bear them. Do not be too emotionally involved: do not suffer in the place of others, just help them. Beseech Allah for any embarrassing situation, but for easy ones too. Collaborate with your colleagues.\n\nTry to organise yourself: make files for your patients, keep a follow-up, record your successes and failures. We need to be organized in our profession to assist its development."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

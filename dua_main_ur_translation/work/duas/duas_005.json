@@ -1,0 +1,460 @@
+{
+  "table": "duas",
+  "chunk": "duas_005.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 14,
+  "id_range": "63-76",
+  "source_chars": 5636,
+  "items": [
+    {
+      "key": [
+        63
+      ],
+      "id": 63,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 63,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Muslim: 2733",
+        "audio": null,
+        "cat_id": 4,
+        "subcat_id": 10
+      },
+      "source": {
+        "name": "Dua of a Muslim in the absence of another Muslim",
+        "content": "Narrated from Umm Darda (RA), she said to Safwan (RA), Do you intend to perform Hajj during this year? I said: Yes. She said: Do supplicate Allah for blessings upon us, for Allah's Apostle (ﷺ) used to say: The supplication of a Muslim for his brother at his back (in his absence) is responded so long as he makes a supplica tion for blessings for his brother and the commissioned Angel says: Amen, and says: May it be for you too.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        64
+      ],
+      "id": 64,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 64,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 1496",
+        "audio": null,
+        "cat_id": 4,
+        "subcat_id": 10
+      },
+      "source": {
+        "name": "Dua of an oppressed person",
+        "content": "Prophet (ﷺ) said,\"Be afraid of the curse of an oppressed person because there is no screen between his invocation and Allah.\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        65
+      ],
+      "id": 65,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 65,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 755",
+        "audio": null,
+        "cat_id": 4,
+        "subcat_id": 10
+      },
+      "source": {
+        "name": "An example of accepting the prayers of the oppressed",
+        "content": "An example of the supplication of the oppressed being accepted is the incident of Saad (RA) with Abu Sa'dah. When asked about Saad (RA), Sa’dah said, \"As you have put us under an oath; I am bound to tell you that Sa`d never went himself with the army and never distributed (the war booty) equally and never did justice in legal verdicts.\" (On hearing it) Sa`d said, \"I pray to Allah for three things: O Allah! If this slave of yours is a liar and got up for showing off, give him a long life, increase his poverty and put him to trials.\" (And so it happened). Later on when that person was asked how he was, he used to reply that he was an old man in trial as the result of Sa`d's curse.",
+        "translation": null,
+        "note": "`Abdul Malik (RA), the sub narrator, said that he had seen him afterwards and his eyebrows were overhanging his eyes owing to old age and he used to tease and assault the small girls in the way."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        66
+      ],
+      "id": 66,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 66,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Hasan. Tirmidhi: 3598",
+        "audio": null,
+        "cat_id": 4,
+        "subcat_id": 10
+      },
+      "source": {
+        "name": "Dua of fasting person",
+        "content": "Abu Hurairah (RA) narrated that the Messenger of Allah (ﷺ) said: “There are three whose supplication is not rejected: The fasting person when he breaks his fast, the just leader, and the supplication of the oppressed person; Allah raises it up above the clouds and opens the gates of heaven to it. And Lord says: ‘By My might, I shall surely aid you, even if it should be after a while.'",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        67
+      ],
+      "id": 67,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 67,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Ibn Hajar (Hasan). Al-Futuhaatur Rabbaniyyah 4/342",
+        "audio": null,
+        "cat_id": 4,
+        "subcat_id": 10
+      },
+      "source": {
+        "name": "Upon breaking fast (Iftar)",
+        "content": "It was narrated from ‘Abdullah bin ‘Amr bin ‘As (RA) that the Messenger of Allah (ﷺ) said: “When the fasting person breaks his fast, his supplication is not turned back.”",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        68
+      ],
+      "id": 68,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 68,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَىْءٍ قَدِيْرٌ‏.‏ اَلْحَمْدُ لِلَّهِ، وَسُبْحَانَ اللَّهِ، وَلَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَاشَرِيْكَ لَهٗ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلٰى كُلِّ شَىْءٍ قَدِيْرٌ ‏ـ‏ اَلْحَمْدُ لِلّٰهِ، وَسُبْحَانَ اللّٰهِ، وَلَا اِلٰهَ اِلَّا اللّٰهُ، وَاللّٰهُ اَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ",
+        "clean": "لا اله الا الله وحده لاشريك له له الملك وله الحمد وهو علي كل شيء قدير  الحمد لله وسبحان الله ولا اله الا الله والله اكبر ولا حول ولا قوه الا بالله",
+        "transliteration": "Laa ilaaha illAllahu Wa'hdahu laa Sharika lahu Lahul mulku, wa lahul-'hamdu wa huwa 'alaa kulli shay'in Qadir. Alhamdulillah wa subhanallah wa laa ilaaha illAllahu wAllahu akbar wa laa 'hawla Walaa Quwata illa billah",
+        "reference": "Bukhari: 1154",
+        "audio": 68,
+        "cat_id": 4,
+        "subcat_id": 10
+      },
+      "source": {
+        "name": "Who wakes up at night and recites certain dua",
+        "content": "The Prophet (ﷺ) said: The person who wakes up at night says these words -",
+        "translation": "None has the right to be worshipped but Allah. He is the Only One and has no partners. For Him is the Kingdom and all the praises are due for Him. He is Omnipotent. All the praises are for Allah. All the glories are for Allah. And none has the right to be worshipped but Allah, And Allah is Great And there is neither Might nor Power Except with Allah.",
+        "note": "Then says: O Allah! Forgive me. Or invokes (Allah), he will be responded to and if he performs ablution (and prays), his prayer will be accepted."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        69
+      ],
+      "id": 69,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 69,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Surah An-Naml: 27:62",
+        "audio": null,
+        "cat_id": 4,
+        "subcat_id": 10
+      },
+      "source": {
+        "name": "Supplication of the oppressed person",
+        "content": "Allah says: Is He [not best] who responds to the desperate one when he calls upon Him and removes evil.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        70
+      ],
+      "id": 70,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 70,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 2215",
+        "audio": null,
+        "cat_id": 4,
+        "subcat_id": 10
+      },
+      "source": {
+        "name": "Making dua by the help of good deeds is a way of dua is being accepted",
+        "content": "One of the strongest reasons for accepting dua is to make dua in the face of helplessness. Proof of this is the hadith about three people, where they were forced to take refuge in a cave at night. Later a rock came from the hill and closed the mouth of the cave. Then they said to each other, \"Find out the deeds which you did for the sake of Allah alone, then seek Allah with the help of those deeds, then hopefully He will relieve you from here.\" Then they pray to Allah by their good deeds. As a result of this, the rock moved and they came out.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        71
+      ],
+      "id": 71,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 71,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Sahih (Albani). Abu Dawud: 5042",
+        "audio": null,
+        "cat_id": 4,
+        "subcat_id": 10
+      },
+      "source": {
+        "name": "Another time when dua is accepted",
+        "content": "Narrated by Mu'adh ibn Jabal (RA): The Prophet (ﷺ) said: If a Muslim sleeps while remembering Allah, in the state of purification, is alarmed while asleep at night, and asks Allah for good in this world and in the Hereafter. He surely gives it to him.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        72
+      ],
+      "id": 72,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 72,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّآ أَنتَ سُبْحٰنَكَ إِنِّى كُنْتُ مِنَ الظّٰلِمِينَ",
+        "indopak": "لَا اِلٰهَ اِلَّا اَنْتَ سُبْحٰنَكَ اِنِّىْ كُنْتُ مِنَ الظّٰلِمِيْنَ",
+        "clean": "لا اله الا انت سبحنك اني كنت من الظلمين",
+        "transliteration": "Laa 'ilaaha 'illaa 'Anta subhaanaka 'innee kuntu minadh-dhaalimeen",
+        "reference": "Sahih (Albani). Tirmidhi: 3505",
+        "audio": 72,
+        "cat_id": 4,
+        "subcat_id": 10
+      },
+      "source": {
+        "name": "Dua of Yunus (AS)",
+        "content": "Yunus (As) made dua as follows -",
+        "translation": "There is none worthy of worship but You, glory is to You. Surely, I was among the wrongdoers.",
+        "note": "Whenever Muslim calls (Allah) in this way, Allah responds to his call."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        73
+      ],
+      "id": 73,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 73,
+        "groups": null,
+        "uthmani": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُوْنَ اَللَّهُمَّ أْجُرْنِيْ فِي مُصِيْبَتِيْ وَأَخْلِفْ لِي خَيْرًا مِّنْهَا",
+        "indopak": "اِنَّا لِلّٰهِ وَاِنَّا اِلَيْهِ رَاجِعُوْنَ اَللّٰهُمَّ أْجُرْنِيْ فِيْ مُصِيْبَتِىْ وَاَخْلِفْ لِىْ خَيْرًا مِّنْهَا",
+        "clean": "انا لله وانا اليه راجعون اللهم اجرني في مصيبتي واخلف لي خيرا منها",
+        "transliteration": "Innaa lillaahi wa 'innaa 'ilayhi raaji'oon, Allaahumma'-jurni fee museebatee wa 'akhliflee khayran minhaa",
+        "reference": "Muslim: 918",
+        "audio": 73,
+        "cat_id": 4,
+        "subcat_id": 10
+      },
+      "source": {
+        "name": "When in danger",
+        "content": "If any Muslim who suffers some calamity says -",
+        "translation": "We are from Allah and unto Him we return. O Allah take me out of my plight and bring to me after it something better.",
+        "note": "Allah will give him something better than it in exchange."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        74
+      ],
+      "id": 74,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 74,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لَا إِلَهَ إِلَّا أَنْتَ الْأَحَدُ الصَّمَدُ الَّذِيْ لَمْ يَلِدْ وَلَمْ يُوْلَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ بِاَنَّ اَشْهَدُ اَنَّكَ اَنْتَ اللّٰهُ لَا اِلٰهَ اِلَّا اَنْتَ الْاَحَدُ الصَّمَدُ الَّذِىْ لَمْ يَلِدْ وَلَمْ يُوْلَدْ وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ",
+        "clean": "اللهم اني اسالك بان اشهد انك انت الله لا اله الا انت الاحد الصمد الذي لم يلد ولم يولد ولم يكن له كفوا احد",
+        "transliteration": "Allaahumma inni as-aluka bi anna ash-hadu annaka antallahu laa ilaaha illaa antal a'hadus samadulladhi lam yalid wa lam yulad wa lam yakun lahu kufuwan a'had",
+        "reference": "Sahih (Albani). Nasai: 1300",
+        "audio": 74,
+        "cat_id": 4,
+        "subcat_id": 10
+      },
+      "source": {
+        "name": "Making dua by the help of the greatest name of Allah",
+        "content": "The Prophet (ﷺ) heard a person praying saying -",
+        "translation": "O Allah, I ask You, by the fact that I bear witness that You are Allah. There is none worthy of worship but You, the Only God, Independent of creation, Who was not begotten and begets not, and none is equal to Him.",
+        "note": "Then the Prophet (ﷺ) said, You have supplicated Allah using His Greatest Name, when asked with this name He gives, and when supplicated by this name he answers."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        75
+      ],
+      "id": 75,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 75,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدَ لَا إِلَهَ إِلَّا أَنْتَ الْمَنَّانُ، بَدِيعُ السَّمَوَاتِ وَالْأَرْضِ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ، يَا حَيُّ يَا قَيُّوْمُ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ بِاَنَّ لَكَ الْحَمْدَ لَا اِلٰهَ اِلَّا اَنْتَ الْمَنَّانُ، بَدِيْعُ السَّمَاوَاتِ وَالْاَرْضِ يَاذَا الْجَلَالِ وَالْاِكْرَامِ، يَاحَيُّ يَاقَيُّوْمُ",
+        "clean": "اللهم اني اسالك بان لك الحمد لا اله الا انت المنان بديع السماوات والارض ياذا الجلال والاكرام ياحي ياقيوم",
+        "transliteration": "Allaahumma inni as'aluka bi-anna lakal-hamda, laa ilaaha illaa antal-mannaanu badi'us-samawaati wal-ardi, yaa dhal-jalaali wal-ikraam! Yaa hayyu yaa qayyum",
+        "reference": "Sahih (Albani). Nasai: 1300",
+        "audio": 75,
+        "cat_id": 4,
+        "subcat_id": 10
+      },
+      "source": {
+        "name": "Dua recited during Tashahhud",
+        "content": "A person prays after Tashahhud -",
+        "translation": "O Allah, I ask Thee by virtue of the fact that praise is due to Thee, there is no deity but Thou, Who showest favour and beneficence, the Originator of the Heavens and the earth, O Lord of Majesty and Splendour, O Living One, O Eternal One.",
+        "note": "Then the Prophet (ﷺ) said: 'Do you know what he has supplicated with?' They said: \"Allah (SWT) and His Messenger know best.\" He said: 'By the One in Whose Hand is my soul, he called upon Allah by His greatest Name, which, if He is called by it, He responds, and if He is asked by it, He gives."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        76
+      ],
+      "id": 76,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 76,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Hasan (Albani). Ibn Majah: 2893",
+        "audio": null,
+        "cat_id": 4,
+        "subcat_id": 10
+      },
+      "source": {
+        "name": "Dua of the warrior in the path of Allah",
+        "content": "It was narrated from Ibn ‘Umar (RA) that the Prophet (ﷺ) said: “The one who fights in the cause of Allah, and the pilgrim performing Hajj and ‘Umrah are delegates to Allah. He invited them, so they responded to Him, and if they ask Him then He will give to them.”",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    }
+  ]
+}

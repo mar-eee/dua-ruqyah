@@ -1,0 +1,524 @@
+{
+  "table": "duas",
+  "chunk": "duas_045.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 16,
+  "id_range": "696-711",
+  "source_chars": 5168,
+  "items": [
+    {
+      "key": [
+        696
+      ],
+      "id": 696,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 696,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ فِتْنَةِ النَّارِ وَعَذَابِ النَّارِ، وَفِتْنَةِ الْقَبْرِ وَعَذَابِ الْقَبْرِ، وَشَرِّ فِتْنَةِ الْغِنَى، وَشَرِّ فِتْنَةِ الْفَقْرِ، اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ، اَللَّهُمَّ اغْسِلْ قَلْبِي بِمَاءِ الثَّلْجِ وَالْبَرَدِ، وَنَقِّ قَلْبِي مِنَ الْخَطَايَا، كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ، وَبَاعِدْ بَيْنِي وَبَيْنَ خَطَايَاىَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكَسَلِ وَالْمَأْثَمِ وَالْمَغْرَمِ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ فِتْنَةِ النَّارِ وَعَذَابِ النَّارِ، وَفِتْنَةِ الْقَبْرِ وَعَذَابِ الْقَبْرِ، وَشَرِّ فِتْنَةِ الْغِنٰى، وَشَرِّ فِتْنَةِ الْفَقْرِ، اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ شَرِّ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ، اَللّٰهُمَّ اغْسِلْ قَلْبِىْ بِمَاءِ الثَّلْجِ وَالْبَرَدِ، وَنَقِّ قَلْبِىْ مِنَ الْخَطَايَا، كَمَا نَقَّيْتَ الثَّوْبَ الْاَبْيَضَ مِنَ الدَّنَسِ، وَبَاعِدْ بَيْنِيْ وَبَيْنَ خَطَايَاىَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنَ الْكَسَلِ وَالْمَأْثَمِ وَالْمَغْرَمِ",
+        "clean": "اللهم اني اعوذ بك من فتنه النار وعذاب النار وفتنه القبر وعذاب القبر وشر فتنه الغني وشر فتنه الفقر اللهم اني اعوذ بك من شر فتنه المسيح الدجال اللهم اغسل قلبي بماء الثلج والبرد ونق قلبي من الخطايا كما نقيت الثوب الابيض من الدنس وباعد بيني وبين خطاياي كما باعدت بين المشرق والمغرب اللهم اني اعوذ بك من الكسل والماثم والمغرم",
+        "transliteration": "Allaahumma inni A‛oodhu bika min fitnatin-naar, wa 'adhaabin-naar, wa fitnatil-qabr wa 'adhaabil-qabr, wa sharri fitnatil-ghina, wa sharri fitnatil-faqr, Allaahumma inni A‛oodhu bika min sharri fitnatil-masihid-dajjaal. Allaahummaghsil qalbi bimaa'ith-thalji wal-barad, wa naqqi qalbi minal-khata-yaa kamaa naqqaytath-thawbal-abyada minad-danas. Wa baa'id bayni wa bayna khata-ya-ya kamaa baa'adta baynal-mashriqi wal-maghrib. Allaahumma inni A‛oodhu bika minal-kasali wal-ma'thami wal-maghram",
+        "reference": "Bukhari: 6377",
+        "audio": 696,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Refuge to Allah from displeasing things #1",
+        "content": "The Messenger of Allah (ﷺ) used to recite this dua:",
+        "translation": "O Allah! I seek refuge with You from the affliction of the Fire, the punishment of the Fire, the affliction of the grave, the punishment of the grave, and the evil of the affliction of poverty. O Allah! I seek refuge with You from the evil of the affliction of Al-Masih Ad- Dajjal, O Allah! Cleanse my heart with the water of snow and hail, and cleanse my heart from all sins as a white garment is cleansed from filth, and let there be a far away distance between me and my sins as You made the East and West far away from each other. O Allah! I seek refuge with You from laziness, senility, sins, and from being in debt.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        697
+      ],
+      "id": 697,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 697,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْهَرَمِ، وَالْبُخْلِ وَأَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْهَرَمِ، وَالْبُخْلِ وَاَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ",
+        "clean": "اللهم اني اعوذ بك من العجز والكسل والجبن والهرم والبخل واعوذ بك من عذاب القبر ومن فتنه المحيا والممات",
+        "transliteration": "Allaahumma inni A‛oodhu bika minal-'ajzi, wal-kasali, wal-jubni, wal-harami, wal-bukhli, wa A‛oodhu bika min 'adhaabil-qabr, wa min fitnatil-mahyaa wal-mamaat",
+        "reference": "Bukhari: 6377, Muslim: 2706",
+        "audio": 697,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Refuge to Allah from displeasing things #2",
+        "content": "Narrated Anas Ibn Malik (RA): The Messenger of Allah (ﷺ), used to say:",
+        "translation": "O Allah, I seek refuge in Thee from incapacity, from indolence, from cowardice, from senility, from miserliness, and I seek refuge in Thee from the torment of the grave and from trial of the life and death.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        698
+      ],
+      "id": 698,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 698,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 6347",
+        "audio": null,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Refuge to Allah from displeasing things #3",
+        "content": "Narrated by Abu Huraira (RA): Allah's Messenger (ﷺ) used to seek refuge with Allah from the difficult moment of a calamity and from being overtaken by destruction and from being destined to an evil end, and from the malicious joy of enemies.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        699
+      ],
+      "id": 699,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 699,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَالْهَرَمِ وَعَذَابِ الْقَبْرِ، اَللَّهُمَّ آتِ نَفْسِيْ تَقْوَاهَا وَزَكِّهَا أَنْتَ خَيْرُ مَنْ زَكَّاهَا أَنْتَ وَلِيُّهَا وَمَوْلَاهَا، اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عِلْمٍ لَا يَنْفَعُ وَمِنْ قَلْبٍ لَا يَخْشَعُ وَمِنْ نَفْسٍ لَا تَشْبَعُ وَمِنْ دَعْوَةٍ لَا يُسْتَجَابُ لَهَا",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَالْهَرَمِ وَعَذَابِ الْقَبْرِ، اَللّٰهُمَّ اٰتِ نَفْسِىْ تَقْوَاهَا وَزَكِّهَا اَنْتَ خَيْرُ مَنْ زَكَّاهَا اَنْتَ وَلِيُّهَا وَمَوْلَاهَا، اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ عِلْمٍ لَّا يَنْفَعُ وَمِنْ قَلْبٍ لَّا يَخْشَعُ وَمِنْ نَّفْسٍ لَّا تَشْبَعُ وَمِنْ دَعْوَةٍ لَّا يُسْتَجَابُ لَهَا",
+        "clean": "اللهم اني اعوذ بك من العجز والكسل والجبن والبخل والهرم وعذاب القبر اللهم ات نفسي تقواها وزكها انت خير من زكاها انت وليها ومولاها اللهم اني اعوذ بك من علم لا ينفع ومن قلب لا يخشع ومن نفس لا تشبع ومن دعوه لا يستجاب لها",
+        "transliteration": "Allaahumma innee a‛oodhu bika minal-‛ajzi wal-kasali, wal-jubni wal-bukhli, wal-harami wa ‛adhaabil-qabr, Allaahumma aati nafsee taqwaahaa wa zakkihaa anta khairu man zakkaahaa anta waliyuhaa wa mawlaahaa, Allaahumma inni a‛oodhu bika min ‛ilmin laa yanfa‛u, wa min qalbin laa yakh-sha‛u, wa min nafsin laa tashba‛u, wa min da‛wat-in laa yustajaabu lahaa",
+        "reference": "Muslim: 2722",
+        "audio": 699,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Refuge to Allah from displeasing things #4",
+        "content": "The Messenger of Allah (ﷺ) used to say:",
+        "translation": "O Allah, I seek refuge with You from weakness, and laziness, cowardice and miserliness, old and infirm age, and the torment of the grave. O Allah, give my soul piety and purify it, for indeed You are the best of those who can purify it, You are it's Guardian and Master. O Allah, I seek refuge with You from knowledge that does not benefit, from a heart that does not get humbled [to Allah], from a soul which is never satisfied and from a supplication which does not get answered.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        700
+      ],
+      "id": 700,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 700,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ، وَتَحَوُّلِ عَافِيَتِكَ، وَفُجَاءَةِ نِقْمَتِكَ، وَجَمِيعِ سَخَطِكَ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ، وَتَحَوُّلِ عَافِيَتِكَ، وَفُجَاءَةِ نِقْمَتِكَ، وَجَمِيْعِ سَخَطِكَ",
+        "clean": "اللهم اني اعوذ بك من زوال نعمتك وتحول عافيتك وفجاءه نقمتك وجميع سخطك",
+        "transliteration": "Allaahumma inni A‛oodhu bika min zawaali ni'matika, wa tahawwuli 'aafiyatika, wa fuja-aati niqmatika, wa jami'i sakhatik",
+        "reference": "Muslim: 2739",
+        "audio": 700,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Refuge to Allah from displeasing things #5",
+        "content": "One of the supplications of the Messenger of Allah (ﷺ) was as follows:",
+        "translation": "O Allah, I seek refuge in Thee from the withdrawal of Thine blessing and the change of Thine protection (from me) and from the sudden wrath of Thine, and from every displeasure of Thine.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        701
+      ],
+      "id": 701,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 701,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ شَرِّ مَا عَمِلْتُ، وَمِنْ شَرِّ مَا لَمْ أَعْمَلْ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ شَرِّ مَا عَمِلْتُ، وَمِنْ شَرِّ مَا لَمْ اَعْمَلْ",
+        "clean": "اللهم اني اعوذ بك من شر ما عملت ومن شر ما لم اعمل",
+        "transliteration": "Allaahumma, inni A‛oodhu bika min sharri maa 'amiltu, wa min sharri maa lam a'mal",
+        "reference": "Muslim: 2716",
+        "audio": 701,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Refuge to Allah from displeasing things #6",
+        "content": "The Messenger of Allah (ﷺ) used to make dua to Allah by saying this:",
+        "translation": "I seek refuge in Thee from the evil of what I did and from the evil of what I did not.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        702
+      ],
+      "id": 702,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 702,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَصْلِحْ لِي دِينِيَ الَّذِي هُوَ عِصْمَةُ أَمْرِي، وَأَصْلِحْ لِي دُنْيَايَ الَّتِي فِيهَا مَعَاشِي، وَأَصْلِحْ لِي آخِرَتِي الَّتِي فِيهَا مَعَادِي، وَاجْعَلِ الْحَيَاةَ زِيَادَةً لِي فِي كُلِّ خَيْرٍ، وَاجْعَلِ الْمَوْتَ رَاحَةً لِي مِنْ كُلِّ شَرٍّ",
+        "indopak": "اَللّٰهُمَّ اَصْلِحْ لِىْ دِيْنِيَ الَّذِيْ هُوَ عِصْمَةُ اَمْرِىْ، وَاَصْلِحْ لِىْ دُنْيَايَ الَّتِىْ فِيْهَا مَعَاشِيْ، وَاَصْلِحْ لِىْ اٰخِرَتِى الَّتِيْ فِيْهَا مَعَادِىْ، وَاجْعَلِ الْحَيَاةَ زِيَادَةً لِّىْ فِىْ كُلِّ خَيْرٍ، وَاجْعَلِ الْمَوْتَ رَاحَةً لِّىْ مِنْ كُلِّ شَرٍّ",
+        "clean": "اللهم اصلح لي ديني الذي هو عصمه امري واصلح لي دنياي التي فيها معاشي واصلح لي اخرتي التي فيها معادي واجعل الحياه زياده لي في كل خير واجعل الموت راحه لي من كل شر",
+        "transliteration": "Allaahumma aslih lee deeni al-ladhi huwa ‛is-matu amree, Wa aslih lee dun-yaaial-lati feeha ma‛aashee, Wa aslih lee aakhiratee al-lati feeha ma‛aadee, Waj-‛alil hayaata ziyaadatan lee fee kulli khayrin waj-'alil-mawta raahatan lee min kulli sharrin",
+        "reference": "Muslim: 2720",
+        "audio": 702,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Seeking good of this world and the hereafter #1",
+        "content": "The Messenger of Allah (ﷺ) used to say:",
+        "translation": "O Allah perfect for me my religion on which success of all my affairs depends, And perfect my worldly affairs on which my livelihood depends, And perfect my hereafter to which I will return, And make in life for me an increase of all good, And make death for me a comfort from all evil.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        703
+      ],
+      "id": 703,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 703,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى، وَالتُّقَى، وَالْعَفَافَ، وَالْغِنَى",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ الْهُدٰى، وَالتُّقٰى، وَالْعَفَافَ، وَالْغِنٰى",
+        "clean": "اللهم اني اسالك الهدي والتقي والعفاف والغني",
+        "transliteration": "Allaahumma, inni as'alukal-hudaa wat- tuqaa wal-'afaafa wal-ghinaa",
+        "reference": "Muslim: 2721",
+        "audio": 703,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Seeking good of this world and the hereafter #2",
+        "content": "The Prophet (ﷺ) used to say:",
+        "translation": "O Allah. I beg of Thee the right guidance, safeguard against evils, chastity and freedom from want.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        704
+      ],
+      "id": 704,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 704,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اهْدِنِيْ وَسَدِّدْنِي",
+        "indopak": "اَللّٰهُمَّ اهْدِنِىْ وَسَدِّدْنِىْ",
+        "clean": "اللهم اهدني وسددني",
+        "transliteration": "Allaahummah dini wa-saddidni",
+        "reference": "Muslim: 2725",
+        "audio": 704,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Prayer for guidance and steadfastness #1",
+        "content": "The Messenger of Allah (ﷺ) said:",
+        "translation": "O Allah, guide me and make me steadfast.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        705
+      ],
+      "id": 705,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 705,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالسَّدَادَ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ الْهُدٰى وَالسَّدَادَ",
+        "clean": "اللهم اني اسالك الهدي والسداد",
+        "transliteration": "Allaahumma inni as'alukal huda was-sadaad",
+        "reference": "Muslim: 2725",
+        "audio": 705,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Prayer for guidance and steadfastness #2",
+        "content": null,
+        "translation": "O Allah, I beg of Thee righteousness and adhering to the straight path.",
+        "note": "[He (ﷺ) then said to Ali (RA)] when you make a mention of right guidance, keep in mind the right path and when you consider of the straight (path), keep in mind the straightness of the arrow."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        706
+      ],
+      "id": 706,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 706,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَكْثِرْ مَالَهُ وَوَلَدَهُ وَبَارِكْ لَهُ فِيمَا أَعْطَيْتَهُ",
+        "indopak": "اَللّٰهُمَّ اَكْثِرْ مَالَهٗ وَوَلَدَهٗ وَبَارِكْ لَهٗ فِيْمَا اَعْطَيْتَهٗ",
+        "clean": "اللهم اكثر ماله وولده وبارك له فيما اعطيته",
+        "transliteration": "Allaahumma Akthir Maalahu Wa waladahu wa baarik lahu Fimaa a'taitahu",
+        "reference": "Bukhari: 6344",
+        "audio": 706,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua for blessings in wealth and in children",
+        "content": null,
+        "translation": "O Allah! Increase his wealth and children, and bestow Your Blessing on whatever You give him.",
+        "note": "Narrated by Anas (RA): My mother said, \"O Allah's Messenger (ﷺ)! Please invoke Allah on behalf of your servant.\" He (ﷺ) said: (the dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        707
+      ],
+      "id": 707,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 707,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ الْعَظِيْمُ الْحَلِيمُ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ لَا إِلَهَ إِلَّا اللَّهُ رَبُّ السَّمَاوَاتِ وَرَبُّ الْأَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيمِ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ الْعَظِيْمُ الْحَلِيْمُ، لَا اِلٰهَ اِلَّا اللّٰهُ رَبُّ الْعَرْشِ الْعَظِيْمِ لَا اِلٰهَ اِلَّا اللّٰهُ رَبُّ السَّمَاوَاتِ وَرَبُّ الْاَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيْمِ",
+        "clean": "لا اله الا الله العظيم الحليم لا اله الا الله رب العرش العظيم لا اله الا الله رب السماوات ورب الارض ورب العرش الكريم",
+        "transliteration": "Laa ilaaha illallahul 'azimul halim Laa ilaaha illaallahu Rabbul 'arshil-'azim, Laa ilaaha illaallahu Rabbu-s-samaawaati wa Rabbul ardi, wa Rabbul 'arsh-il-Karim",
+        "reference": "Bukhari: 6346",
+        "audio": 707,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua in a state of Anxiety and sorrow",
+        "content": "Narrated Ibn `Abbas (RA): Allah's Messenger (ﷺ) used to say at a time of distress:",
+        "translation": "There is none worthy of worship but Allah the Mighty, the Forbearing. There is none worthy of worship but Allah, Lord of the Magnificent Throne. There is none worthy of worship but Allah, Lord of the heavens and Lord of the earth, and Lord of the Noble Throne.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        708
+      ],
+      "id": 708,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 708,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ عَافِنِيْ فِي بَدَنِي اَللَّهُمَّ عَافِنِيْ فِي سَمْعِيْ اَللَّهُمَّ عَافِنِيْ فِي بَصَرِيْ لَا إِلَهَ إِلَّا أَنْتَ",
+        "indopak": "اَللّٰهُمَّ عَافِنِىْ فِىْ بَدَنِىْ اَللّٰهُمَّ عَافِنِىْ فِىْ سَمْعِىْ اَللّٰهُمَّ عَافِنِىْ فِىْ بَصَرِىْ لَا اِلٰهَ اِلَّا اَنْتَ",
+        "clean": "اللهم عافني في بدني اللهم عافني في سمعي اللهم عافني في بصري لا اله الا انت",
+        "transliteration": "Allaahumma 'aafinee fee badanee, Allaahumma 'aafinee fee sam'ee, Allaahumma 'aafinee fee basaree, laa 'ilaaha 'illaa 'Anta",
+        "reference": "Hasan (Albani). Abu Dawud: 5090",
+        "audio": 708,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Praying for the safety of limbs and seeking refuge from evil",
+        "content": "Abu Bakra (RA) said this for three times in every morning and in evening:",
+        "translation": "O Allah! Keep my body healthy! O Allah! Keep my hearing healthy! O Allah! Keep my eyesight healthy! There is no true god but you.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        709
+      ],
+      "id": 709,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 709,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ لَا إِلَهَ إِلَّا أَنْتَ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ لَا اِلٰهَ اِلَّا اَنْتَ",
+        "clean": "اللهم اني اعوذ بك من الكفر والفقر اللهم اني اعوذ بك من عذاب القبر لا اله الا انت",
+        "transliteration": "Allaahumma 'innee 'a'oodhu bika minal-kufri, wal-faqr, Allaahumma 'innee 'a'oodhu bika min 'adhaabil-qabr, laa 'ilaaha 'illaa 'Anta",
+        "reference": "Hasan (Albani). Abu Dawud: 5090",
+        "audio": 709,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Seeking refuge from evil",
+        "content": "And said this for three times in every morning and in evening:",
+        "translation": "O Allah, I seek refuge in You from disbelief and poverty. O Allah! I seek refuge in You from the punishment of the grave. There is none worthy of worship but You.",
+        "note": "He said: I heard the Messenger of Allah (ﷺ) using these words as a supplication and I like to follow his sunnah."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        710
+      ],
+      "id": 710,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 710,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَحْمَتَكَ أَرْجُو فَلَا تَكِلْنِيْ إِلَى نَفْسِيْ طَرْفَةَ عَيْنٍ وَأَصْلِحْ لِي شَأْنِيْ كُلَّهُ لَا إِلَهَ إِلاَّ أَنْتَ",
+        "indopak": "اَللّٰهُمَّ رَحْمَتَكَ اَرْجُوْ فَلَا تَكِلْنِيْ اِلٰى نَفْسِىْ طَرْفَةَ عَيْنٍ وَاَصْلِحْ لِىْ شَأْنِىْ كُلَّهٗ لَا اِلٰهَ اِلَّا اَنْتَ",
+        "clean": "اللهم رحمتك ارجو فلا تكلني الي نفسي طرفه عين واصلح لي شاني كله لا اله الا انت",
+        "transliteration": "Allaahumma rahmataka 'arjoo falaa takilnee 'ilaa nafsee tarfata 'aynin, wa 'aslih lee sha'nee kullahu, laa 'ilaaha 'illaa 'Anta",
+        "reference": "Hasan (Albani). Abu Dawud: 5090",
+        "audio": 710,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua when in distress #1",
+        "content": "The Messenger of Allah (ﷺ) said, dua for distressed person is:",
+        "translation": "O Allah, I hope for Your mercy. Do not leave me to myself even for the blinking of an eye (i.e. a moment). Correct all of my affairs for me. There is none worthy of worship but You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        711
+      ],
+      "id": 711,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 711,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِيْنَ",
+        "indopak": "لَا اِلٰهَ اِلَّا اَنْتَ سُبْحَانَكَ اِنِّىْ كُنْتُ مِنَ الظَّالِمِيْنَ",
+        "clean": "لا اله الا انت سبحانك اني كنت من الظالمين",
+        "transliteration": "Laa 'ilaaha 'illaa 'Anta subhaanaka 'innee kuntu minadh dhaalimeen",
+        "reference": "Sahih (Albani). Tirmidhi: 3505",
+        "audio": 711,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua when in distress #2",
+        "content": "The Messenger of Allah (ﷺ) said, Yunus (As) said in the belly of whale:",
+        "translation": "There is none worthy of worship but You, glory is to You. Surely, I was among the wrongdoers.",
+        "note": "So indeed, no Muslim man supplicates with it for anything, ever, except Allah responds to him."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    }
+  ]
+}

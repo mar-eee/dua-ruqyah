@@ -1,0 +1,620 @@
+{
+  "table": "duas",
+  "chunk": "duas_015.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 19,
+  "id_range": "194-212",
+  "source_chars": 5762,
+  "items": [
+    {
+      "key": [
+        194
+      ],
+      "id": 194,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 194,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "[1] Bukhari: 791\n[2] Sahih (Albani). Mishkat: 885",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 33
+      },
+      "source": {
+        "name": "Dua in rukoo #1",
+        "content": "Narrated by Shaqiq (RA): Hudhaifa (RA) saw a person who was not performing the Ruqu and Sijdah perfectly. He said to him, \"You have not prayed and if you die then you would die on a religion other than that of Muhammad (ﷺ).\" [1]\n\nQatadah (RA) said, the Prophet (ﷺ) said, the worst thief is the one who steals the salat. Sahabis said, how to steal salat? The Prophet (ﷺ) said: He who does not complete his Ruqu and Sijdah. [2]",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        195
+      ],
+      "id": 195,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 195,
+        "groups": null,
+        "uthmani": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+        "indopak": "سُبْحَانَ رَبِّىَ الْعَظِيْمِ",
+        "clean": "سبحان ربي العظيم",
+        "transliteration": "Subhaana Rabbiyal-'Adheem",
+        "reference": "Sahih (Albani). Tirmidhi: 262",
+        "audio": 195,
+        "cat_id": 13,
+        "subcat_id": 33
+      },
+      "source": {
+        "name": "Dua in rukoo #2",
+        "content": "Say this tasbeeh at least three times:",
+        "translation": "Glory to my Lord the Exalted.",
+        "note": "The dua will be repeated with the emotions of the mind. Reciting this Tasbeeh at least three times is the conduct and instruction of Rasulullah (ﷺ). Most of the narrations have \"Subhaana Rabbiyal-'Adheem\" and some of the hadiths have \"Subhaana Rabbiyal-'Adheem wa Bihamdihi\"."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        196
+      ],
+      "id": 196,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 196,
+        "groups": null,
+        "uthmani": "سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ",
+        "indopak": "سُبْحَانَ رَبِّىَ الْعَظِيْمِ وَبِحَمْدِهٖ",
+        "clean": "سبحان ربي العظيم وبحمده",
+        "transliteration": "Subhaana Rabbiyal-'Adheem wa bihamdihi",
+        "reference": "Hasan Sanad (Shu'aib Al-Arnaut). Abu Dawud: 870",
+        "audio": 196,
+        "cat_id": 13,
+        "subcat_id": 33
+      },
+      "source": {
+        "name": "Dua in rukoo #3",
+        "content": "Say this tasbeeh at least three times:",
+        "translation": "Glory and praise be to my mighty Lord.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        197
+      ],
+      "id": 197,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 197,
+        "groups": null,
+        "uthmani": "سُبُّوْحٌ قُدُّوْسٌ رَبُّ الْمَلَائِكَةِ وَالرُّوْحِ",
+        "indopak": "سُبُّوْحٌ قُدُّوْسٌ رَبُّ الْمَلَائِكَةِ وَالرُّوْحِ",
+        "clean": "سبوح قدوس رب الملاءكه والروح",
+        "transliteration": "Subboohun, Quddoosun, Rabbul-malaa'ikati warrooh",
+        "reference": "Sahih (Albani). Abu Dawud: 872",
+        "audio": 197,
+        "cat_id": 13,
+        "subcat_id": 33
+      },
+      "source": {
+        "name": "Dua in rukoo #4",
+        "content": null,
+        "translation": "Glory (to You), Most Holy (are You), Lord of the angels and the Spirit.",
+        "note": "Ayesha (RA) said that Rasulullah (ﷺ) used to recite it in rukoo and sujood."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        198
+      ],
+      "id": 198,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 198,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ لَكَ رَكَعْتُ وَبِكَ آمَنْتُ وَلَكَ أَسْلَمْتُ خَشَعَ لَكَ سَمْعِيْ وَبَصَرِيْ وَمُخِّيْ وَعِظَامِيْ وَعَصَبِيْ",
+        "indopak": "اَللّٰهُمَّ لَكَ رَكَعْتُ وَبِكَ اٰمَنْتُ وَلَكَ اَسْلَمْتُ خَشَعَ لَكَ سَمْعِىْ وَبَصَرِىْ وَمُخِّىْ وَعِظَامِىْ وَعَصَبِىْ",
+        "clean": "اللهم لك ركعت وبك امنت ولك اسلمت خشع لك سمعي وبصري ومخي وعظامي وعصبي",
+        "transliteration": "Allaahumma laka raka'tu, wa bika 'aamantu, wa laka 'aslamtu khasha'a laka sam'ee, wa basaree, wa mukhkhee, wa 'idhaamee, wa 'asabee",
+        "reference": "Sahih (Albani). Abu Dawud: 760",
+        "audio": 198,
+        "cat_id": 13,
+        "subcat_id": 33
+      },
+      "source": {
+        "name": "Dua in rukoo #5",
+        "content": null,
+        "translation": "O Allah, to You I bow (in prayer) and in You I believe and to You I have submitted. Before You my hearing is humbled, as is my sight, my mind, my bones, my nerves.",
+        "note": "Ali (RA) said, Rasulullah (ﷺ) used to say these words in rukoo."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        199
+      ],
+      "id": 199,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 199,
+        "groups": null,
+        "uthmani": "سُبْحَانَ ذِي الْجَبَرُوْتِ وَالْمَلَكُوْتِ وَالْكِبْرِيَاءِ وَالْعَظَمَةِ",
+        "indopak": "سُبْحَانَ ذِى الْجَبَرُوْتِ وَالْمَلَكُوْتِ وَالْكِبْرِيَاءِ وَالْعَظَمَةِ",
+        "clean": "سبحان ذي الجبروت والملكوت والكبرياء والعظمه",
+        "transliteration": "Subhaana dhil-jabarooti, wal-malakooti, wal-kibriyaa'i, wal-'adhamah",
+        "reference": "Sahih (Albani). Abu Dawud: 873",
+        "audio": 199,
+        "cat_id": 13,
+        "subcat_id": 33
+      },
+      "source": {
+        "name": "Dua in rukoo #6",
+        "content": "It is narrated on the authority of Auf Ibn Malik Ashja'i (RA) that the Prophet (ﷺ) used to say in ruku:",
+        "translation": "Glory is to You, Master of power, of dominion, of majesty and greatness.",
+        "note": "Then he prostrated and paused as long as he stood and recited Surat Aal Imran and then recited other surahs one after another."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        200
+      ],
+      "id": 200,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 200,
+        "groups": null,
+        "uthmani": "سُبْحَانَكَ وَبِحَمْدِكَ أَسْتَغْفِرُكَ وَأَتُوْبُ اِلَيْكَ",
+        "indopak": "سُبْحَانَكَ وَبِحَمْدِكَ اَسْتَغْفِرُكَ وَاَتُوْبُ اِلَيْكَ",
+        "clean": "سبحانك وبحمدك استغفرك واتوب اليك",
+        "transliteration": "Subhaanaka wa bihamdika, 'astaghfiruka wa 'atoobu 'ilayk",
+        "reference": "Hasan (Albani). Silsila Sahiha: 3032",
+        "audio": 200,
+        "cat_id": 13,
+        "subcat_id": 33
+      },
+      "source": {
+        "name": "Dua in rukoo #7",
+        "content": "‘Abdullah ibn Mas’ud (RA) said that the Prophet (ﷺ) used to say in bowing and prostration:",
+        "translation": "Glory is to You O Allah, and praise. I ask you for forgiveness and I turn to you (from sinning).",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        201
+      ],
+      "id": 201,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 201,
+        "groups": null,
+        "uthmani": "سُبْحَانَكَ اَللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ، اَللَّهُمَّ اغْفِرْ لِي",
+        "indopak": "سُبْحَانَكَ اَللّٰهُمَّ رَبَّنَا وَبِحَمْدِكَ، اَللّٰهُمَّ اغْفِرْ لِىْ",
+        "clean": "سبحانك اللهم ربنا وبحمدك اللهم اغفر لي",
+        "transliteration": "Subhaanaka Allaahumma Rabbanaa wa bihamdika Allahum-maghfir lee",
+        "reference": "[1] Bukhari: 794\n[2] Sura Nasr 110:3",
+        "audio": 201,
+        "cat_id": 13,
+        "subcat_id": 33
+      },
+      "source": {
+        "name": "Dua in rukoo #8",
+        "content": null,
+        "translation": "Glory is to You, O Allah, our Lord, and praise is Yours. O Allah, forgive me. [1]",
+        "note": "Narrated from Aisha (RA), she said that according to the instructions of the Qur'an, [2] the Messenger of Allah (ﷺ) used to say this dua more and more in bowing down and prostration - (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        202
+      ],
+      "id": 202,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 202,
+        "groups": null,
+        "uthmani": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ",
+        "indopak": "سَمِعَ اللّٰهُ لِمَنْ حَمِدَهُ",
+        "clean": "سمع الله لمن حمده",
+        "transliteration": "Sami'Allahu liman hamidah",
+        "reference": "Bukhari: 796",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 34
+      },
+      "source": {
+        "name": "Dua for rising from rukoo #1",
+        "content": "Dua for rising from rukoo:",
+        "translation": "Allah hears whoever praises Him.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        203
+      ],
+      "id": 203,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 203,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَبَّنَا لَكَ الْحَمْدُ، مِلْءَ السَّمَوَاتِ وَمِلْءَ الْأَرْضِ، وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ، أَهْلَ الثَّنَاءِ وَالْمَجْدِ، أَحَقُّ مَا قَالَ الْعَبْدُ، وَكُلُّنَا لَكَ عَبْدٌ، اَللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+        "indopak": "اَللّٰهُمَّ رَبَّنَا لَكَ الْحَمْدُ، مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْاَرْضِ، وَمِلْءَ مَا شِئْتَ مِنْ شَىْءٍ بَعْدُ، اَهْلَ الثَّنَاءِ وَالْمَجْدِ، اَحَقُّ مَا قَالَ الْعَبْدُ، وَكُلُّنَا لَكَ عَبْدٌ، اَللّٰهُمَّ لَا مَانِعَ لِمَا اَعْطَيْتَ، وَلَا مُعْطِىَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+        "clean": "اللهم ربنا لك الحمد ملء السماوات وملء الارض وملء ما شءت من شيء بعد اهل الثناء والمجد احق ما قال العبد وكلنا لك عبد اللهم لا مانع لما اعطيت ولا معطي لما منعت ولا ينفع ذا الجد منك الجد",
+        "transliteration": "Allaahumma Rabbanaa lakal-hamdu mil'as-samawaati wa mil’al-ardi, wa mil'a maa shi'ta min shay'in ba'du, ahlath-thanaa'i wal-majdi, ahaqqu maa qaalal 'abdu, wa kullunaa laka 'abdun. Allaahumma laa maani'a limaa a'taita, wa laa mu'tiya limaa mana'ta, wa laa yanfa'u dhal-jaddi minkal-jaddu",
+        "reference": "Muslim: 477",
+        "audio": 203,
+        "cat_id": 13,
+        "subcat_id": 34
+      },
+      "source": {
+        "name": "Dua for rising from rukoo #2",
+        "content": null,
+        "translation": "O Allah, our Rabb (Lord), to You is praise in all the heavens and all the earth, and all that You Will (to create) afterwards, O You, Who are worthy of praise and glory, the most worthy of what a slave says - and we are all Your slaves: no one can withhold what You give, or give what You withhold, and riches cannot avail a wealthy person against You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        204
+      ],
+      "id": 204,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 204,
+        "groups": null,
+        "uthmani": "(اَللَّهُمَّ) رَبَّنَا لَكَ الْحَمْدُ",
+        "indopak": "(اَللّٰهُمَّ) رَبَّنَا لَكَ الْحَمْدُ",
+        "clean": "اللهم ربنا لك الحمد",
+        "transliteration": "(1) Rabbanaa lakal-hamd\n(2) Allaahumma Rabbanaa lakal-hamd",
+        "reference": "Bukhari: 796",
+        "audio": 204,
+        "cat_id": 13,
+        "subcat_id": 35
+      },
+      "source": {
+        "name": "Dua while in a state of rukoo #1",
+        "content": "The duas of rukoo' are narrated in different sahih hadiths in four ways:",
+        "translation": "[1] Our Lord, to You be the praise.\n[2] O Allah, our Lord, to You be the praise.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        205
+      ],
+      "id": 205,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 205,
+        "groups": null,
+        "uthmani": "(اَللَّهُمَّ) رَبَّنَا وَلَكَ الْحَمْدُ",
+        "indopak": "(اَللّٰهُمَّ) رَبَّنَا وَلَكَ الْحَمْدُ",
+        "clean": "اللهم ربنا ولك الحمد",
+        "transliteration": "(1) Rabbanaa wa lakal-hamd\n(2) Allaahumma Rabbanaa wa lakal-hamd",
+        "reference": "Bukhari: 795",
+        "audio": 205,
+        "cat_id": 13,
+        "subcat_id": 35
+      },
+      "source": {
+        "name": "Dua while in a state of rukoo #2",
+        "content": null,
+        "translation": "[1] Our Lord and to You be the praise.\n[2] O Allah, our Lord and to You be the praise.",
+        "note": "After rukoo' one should stand straight for a while. It is obligatory upon all. If anyone goes to prostration before stand straight (for a while) then it will invalidate his salaah. In the state of rukoo' one should say one of these four duas. It is recommended to say these supplications alternatively."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        206
+      ],
+      "id": 206,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 206,
+        "groups": null,
+        "uthmani": "رَبَّنَا وَلَكَ الْحَمْدُ، حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ",
+        "indopak": "رَبَّنَا وَلَكَ الْحَمْدُ، حَمْدًا كَثِيرًا طَيِّبًا مُّبَارَكًا فِيْهِ",
+        "clean": "ربنا ولك الحمد حمدا كثيرا طيبا مباركا فيه",
+        "transliteration": "Rabbanaa wa lakal-hamd, hamdan katheeran tayyiban mubaarakan feeh",
+        "reference": "Bukhari: 799",
+        "audio": 206,
+        "cat_id": 13,
+        "subcat_id": 35
+      },
+      "source": {
+        "name": "Dua while in a state of rukoo #3",
+        "content": null,
+        "translation": "Our Lord, praise is Yours, abundant, holy and blessed praise.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        207
+      ],
+      "id": 207,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 207,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا بَيْنَهُمَا وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+        "indopak": "اَللّٰهُمَّ رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْاَرْضِ وَمِلْءَ مَا بَيْنَهُمَا وَمِلْءَ مَا شِئْتَ مِنْ شَىْءٍۢ بَعْدُ",
+        "clean": "اللهم ربنا لك الحمد ملء السماوات وملء الارض وملء ما بينهما وملء ما شءت من شيء بعد",
+        "transliteration": "Alla-humma Rabbanaa lakal ‘hamdu mil-as samawaati wa mil-al ardi wa mil-aa maa baina humaa, wa mil-aa maa shi’ta min shayin ba’du",
+        "reference": "Muslim: 476",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 35
+      },
+      "source": {
+        "name": "Dua while in a state of rukoo #4",
+        "content": null,
+        "translation": "Praise be to You, O Allah, our Lord! Praise be to You, it fills the heavens, fills the earth, completes all that is in between them, and then it completes whatever You will.",
+        "note": "Ibn Abi Aufa (R), Ibn Abbas (RA), Ali (RA) and other Companions said that the Prophet (ﷺ) used to say these words when he stand up from rukoo'."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        208
+      ],
+      "id": 208,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 208,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَوَاتِ وَمِلْءَ الْأَرْضِ وَمَا بَيْنَهُمَا وَمِلْءَ مَا شِئْتَ مِنْ شَيءٍ بَعْدُ أَهْلَ الثَّنَاءِ وَالْمَجْدِ، لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+        "indopak": "اَللّٰهُمَّ رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْاَرْضِ وَمَا بَيْنَهُمَا وَمِلْءَ مَا شِئْتَ مِنْ شَىْءٍۢ بَعْدُ اَهْلَ الثَّنَاءِ وَالْمَجْدِ، لَا مَانِعَ لِمَا اَعْطَيْتَ، وَلَا مُعْطِىَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+        "clean": "اللهم ربنا لك الحمد ملء السماوات وملء الارض وما بينهما وملء ما شءت من شيء بعد اهل الثناء والمجد لا مانع لما اعطيت ولا معطي لما منعت ولا ينفع ذا الجد منك الجد",
+        "transliteration": "Allaahumma, rabbanaa lakal ‘hamdu, mil-as samawaati wa mil-al ardi wamaa bainahumaa, wa mil-aa maa shi’ta min shayin ba’du, ahlath thanaa’i wal majdi. Laa- maani'a limaa a'taita, walaa mut'ia limaa mana'ta, walaa yanfa'u dhal jaddi minkal jaddu",
+        "reference": "Muslim: 478",
+        "audio": 208,
+        "cat_id": 13,
+        "subcat_id": 35
+      },
+      "source": {
+        "name": "Dua while in a state of rukoo #5",
+        "content": null,
+        "translation": "Allah! our Lord, to Thee be the praise that would fill the heavens and the earth and that which is between them, and that which will please Thee besides (them). Worthy art Thou of all praise and glory. No one can withhold what Thou givest, or give what Thou withholdest. And the greatness O! the great availeth not against Thee.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        209
+      ],
+      "id": 209,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 209,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ مُبَارَكًا عَلَيْهِ كَمَا يُحِبُّ رَبُّنَا وَيَرْضَى",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ حَمْدًا كَثِيرًا طَيِّبًا مُّبَارَكًا فِيْهِ مُبَارَكًا عَلَيْهِ كَمَا يُحِبُّ رَبُّنَا وَيَرْضٰى",
+        "clean": "الحمد لله حمدا كثيرا طيبا مباركا فيه مباركا عليه كما يحب ربنا ويرضي",
+        "transliteration": "Alhamdu lillahi hamdan kathiran tayyiban mubarakan fihi mubarakan ‘alaihi kamaa yuhibbu rabbunaa wa yardaa",
+        "reference": "Hasan (Albani). Sunan Nasai: 931",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 35
+      },
+      "source": {
+        "name": "Dua while in a state of rukoo #6",
+        "content": null,
+        "translation": "Praise be to Allah, much good and blessed praise as our Lord loves and is pleased with",
+        "note": "Rifa'ah bin Rafi' (RA) said that: \"I prayed behind the Prophet (ﷺ) and I sneezed and said: (the dua is mentioned above) When he finished praying, the Messenger of Allah (ﷺ) said: 'Who is the one who spoke during the prayer?' But no one said anything. Then he said it a second time: 'Who is the one who spoke during the prayer?' So Rifa'ah bin Rafi bin Afrah (RA) said: 'It was me, O Messenger of Allah.' He said: 'I said: (the dua is mentioned above)' The Prophet (ﷺ) said: 'By the One in Whose hand is my soul, thirty-odd angels hastened to see which of them would take it up.'"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        210
+      ],
+      "id": 210,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 210,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Muslim: 482",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 36
+      },
+      "source": {
+        "name": "To do Dua more and more in the state of sijdaah",
+        "content": "Abu Hurairah (RA) said that the Prophet (ﷺ) said that man is most close to his Lord in prostration. Therefore, do dua more and more in sujood.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        211
+      ],
+      "id": 211,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 211,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Muslim: 479",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 36
+      },
+      "source": {
+        "name": "Forbidden to recite the Qur'an in the state of prostration",
+        "content": "Ibn 'Abbas (RA) said, the Prophet (ﷺ) said, I am forbidden to read the Qur'an in bowing and prostration. But in ruku 'you describe the greatness of Allah. And do more and more Dua in sujood. Sujood is a suitable place for accepting your Dua. [1]",
+        "translation": null,
+        "note": "It is evident from the above-mentioned hadiths that, one should supplicate more and more in the state of prostration. And in this state, the dua is answered. So, one can supplicate any dua mentioned in authentic hadiths except quranic duas. Cause it is prohibited to supplicate by quranic dua in the state of bowing down and prostration."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        212
+      ],
+      "id": 212,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 212,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Sahih (Albani). Mishkat: 885",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 36
+      },
+      "source": {
+        "name": "The importance of slowly prostrating",
+        "content": "Qatadah (RA) said, the Prophet (ﷺ) said, the worst thief is the one who steals the prayer. The Companions said, how do you steal the prayer? The Prophet (ﷺ) said: He who does not complete his bowing and prostration.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    }
+  ]
+}

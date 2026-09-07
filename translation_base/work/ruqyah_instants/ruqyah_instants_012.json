@@ -1,0 +1,492 @@
+{
+  "table": "ruqyah_instants",
+  "chunk": "ruqyah_instants_012.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 16,
+  "id_range": "174-189",
+  "source_chars": 5735,
+  "items": [
+    {
+      "key": [
+        174
+      ],
+      "id": 174,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 174,
+        "topic_id": 1,
+        "uthmani": "قَدِ افْتَرَيْنَا عَلَى اللَّهِ كَذِبًا إِنْ عُدْنَا فِي مِلَّتِكُم بَعْدَ إِذْ نَجَّانَا اللَّهُ مِنْهَا ۚ وَمَا يَكُونُ لَنَا أَن نَّعُودَ فِيهَا إِلَّا أَن يَشَاءَ اللَّهُ رَبُّنَا ۚ وَسِعَ رَبُّنَا كُلَّ شَيْءٍ عِلْمًا ۚ عَلَى اللَّهِ تَوَكَّلْنَا ۚ رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَأَنتَ خَيْرُ الْفَاتِحِينَ ﴿٨٩﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/50.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-A'raf 7:89",
+        "content": null,
+        "translation": "(89) We would have invented against Allah a lie if we returned to your religion after Allah had saved us from it. And it is not for us to return to it except that Allah, our Lord, should will. Our Lord has encompassed all things in knowledge. Upon Allah we have relied. Our Lord, decide between us and our people in truth, and You are the best of those who give decision."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        175
+      ],
+      "id": 175,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 175,
+        "topic_id": 1,
+        "uthmani": "وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَّنثُورًا ﴿٢٣﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/51.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Furqan 25:23",
+        "content": null,
+        "translation": "(23) And We will regard what they have done of deeds and make them as dust dispersed."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        176
+      ],
+      "id": 176,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 176,
+        "topic_id": 1,
+        "uthmani": "وَاتَّقُوا فِتْنَةً لَّا تُصِيبَنَّ الَّذِينَ ظَلَمُوا مِنكُمْ خَاصَّةً ۖ وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ ﴿٢٥﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/51.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Anfal 8:25",
+        "content": null,
+        "translation": "(25) And fear a trial which will not strike those who have wronged among you exclusively, and know that Allah is severe in penalty."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        177
+      ],
+      "id": 177,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 177,
+        "topic_id": 1,
+        "uthmani": "...وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا ﴿٢﴾ وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ ۚ إِنَّ اللَّهَ بَالِغُ أَمْرِهِ ۚ قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا ﴿٣﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/52.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "At-Talaq 65:2-3",
+        "content": null,
+        "translation": "(2) ...And whoever fears Allah - He will make for him a way out (3) And will provide for him from where he does not expect. And whoever relies upon Allah - then He is sufficient for him. Indeed, Allah will accomplish His purpose. Allah has already set for everything a [decreed] extent."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        178
+      ],
+      "id": 178,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 178,
+        "topic_id": 1,
+        "uthmani": "أَتَىٰ أَمْرُ اللَّهِ فَلَا تَسْتَعْجِلُوهُ ۚ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ ﴿١﴾ يُنَزِّلُ الْمَلَائِكَةَ بِالرُّوحِ مِنْ أَمْرِهِ عَلَىٰ مَن يَشَاءُ مِنْ عِبَادِهِ أَنْ أَنذِرُوا أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاتَّقُونِ ﴿٢﴾ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۚ تَعَالَىٰ عَمَّا يُشْرِكُونَ ﴿٣﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/52.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "An-Nahl 16:1-3",
+        "content": null,
+        "translation": "(1) The command of Allah is coming, so be not impatient for it. Exalted is He and high above what they associate with Him. (2) He sends down the angels, with the inspiration of His command, upon whom He wills of His servants, [telling them], \"Warn that there is no deity except Me; so fear Me.\" (3) He created the heavens and earth in truth. High is He above what they associate with Him."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        179
+      ],
+      "id": 179,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 179,
+        "topic_id": 1,
+        "uthmani": "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ ﴿٤﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/53.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-A'la 87:4",
+        "content": null,
+        "translation": "(4) And who brings out the pasture."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        180
+      ],
+      "id": 180,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 180,
+        "topic_id": 1,
+        "uthmani": "وَإِذَا قَرَأْتَ الْقُرْآنَ جَعَلْنَا بَيْنَكَ وَبَيْنَ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ حِجَابًا مَّسْتُورًا ﴿٤٥﴾ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا ۚ وَإِذَا ذَكَرْتَ رَبَّكَ فِي الْقُرْآنِ وَحْدَهُ وَلَّوْا عَلَىٰ أَدْبَارِهِمْ نُفُورًا ﴿٤٦﴾ نَّحْنُ أَعْلَمُ بِمَا يَسْتَمِعُونَ بِهِ إِذْ يَسْتَمِعُونَ إِلَيْكَ وَإِذْ هُمْ نَجْوَىٰ إِذْ يَقُولُ الظَّالِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًا مَّسْحُورًا ﴿٤٧﴾ انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا ﴿٤٨﴾ وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا ﴿٤٩﴾ ۞ قُلْ كُونُوا حِجَارَةً أَوْ حَدِيدًا ﴿٥٠﴾ أَوْ خَلْقًا مِّمَّا يَكْبُرُ فِي صُدُورِكُمْ ۚ فَسَيَقُولُونَ مَن يُعِيدُنَا ۖ قُلِ الَّذِي فَطَرَكُمْ أَوَّلَ مَرَّةٍ ۚ فَسَيُنْغِضُونَ إِلَيْكَ رُءُوسَهُمْ وَيَقُولُونَ مَتَىٰ هُوَ ۖ قُلْ عَسَىٰ أَن يَكُونَ قَرِيبًا ﴿٥١﴾ يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ وَتَظُنُّونَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا ﴿٥٢﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/53.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Isra 17:45-52",
+        "content": null,
+        "translation": "(45) And when you recite the Qur'an, We put between you and those who do not believe in the Hereafter a concealed partition. (46) And We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And when you mention your Lord alone in the Qur'an, they turn back in aversion. (47) We are most knowing of how they listen to it when they listen to you and [of] when they are in private conversation, when the wrongdoers say, \"You follow not but a man affected by magic.\" (48) Look how they strike for you comparisons; but they have strayed, so they cannot [find] a way. (49) And they say, \"When we are bones and crumbled particles, will we [truly] be resurrected as a new creation?\" (50) Say, \"Be you stones or iron (51) Or [any] creation of that which is great within your breasts.\" And they will say, \"Who will restore us?\" Say, \"He who brought you forth the first time.\" Then they will nod their heads toward you and say, \"When is that?\" Say, \"Perhaps it will be soon - (52) On the Day He will call you and you will respond with praise of Him and think that you had not remained [in the world] except for a little.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        181
+      ],
+      "id": 181,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 181,
+        "topic_id": 1,
+        "uthmani": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا ﴿١﴾ وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا ﴿٢﴾ وَقَالَ الْإِنسَانُ مَا لَهَا ﴿٣﴾ يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا ﴿٤﴾ بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا ﴿٥﴾ يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ ﴿٦﴾ فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ ﴿٧﴾ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ ﴿٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/54.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Az-Zalzalah 99:1-8",
+        "content": null,
+        "translation": "(1) When the earth is shaken with its [final] earthquake (2) And the earth discharges its burdens (3) And man says, “What is [wrong] with it?” - (4) That Day, it will report its news (5) Because your Lord has commanded it. (6) That Day, the people will depart separated [into categories] to be shown [the result of] their deeds. (7) So whoever does an atom's weight of good will see it, (8) And whoever does an atom's weight of evil will see it."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        182
+      ],
+      "id": 182,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 182,
+        "topic_id": 1,
+        "uthmani": "وَإِنَّ رَبَّكَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ ﴿٧٣﴾ وَإِنَّ رَبَّكَ لَيَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ ﴿٧٤﴾ وَمَا مِنْ غَائِبَةٍ فِي السَّمَاءِ وَالْأَرْضِ إِلَّا فِي كِتَابٍ مُّبِينٍ ﴿٧٥﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/54.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "An-Naml 27:73-75",
+        "content": null,
+        "translation": "(73) And indeed, your Lord is full of bounty for the people, but most of them do not show gratitude.\" (74) And indeed, your Lord knows what their breasts conceal and what they declare. (75) And there is nothing concealed within the heaven and the earth except that it is in a clear Register."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        183
+      ],
+      "id": 183,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 183,
+        "topic_id": 1,
+        "uthmani": "فَاللَّـهُ خَيْرٌ حَافِظًا ۖ وَهُوَ أَرْحَمُ الرَّاحِمِينَ ﴿٦٤﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/55.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Yusuf 12:64",
+        "content": null,
+        "translation": "(64) He said, “Should I entrust you with him except [under coercion] as I entrusted you with his brother before? But Allah is the best guardian, and He is the most merciful of the merciful.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        184
+      ],
+      "id": 184,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 184,
+        "topic_id": 1,
+        "uthmani": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا ﴿٧٠﴾ يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا ﴿٧١﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/55.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Ahzab 33:70-71",
+        "content": null,
+        "translation": "(73) And indeed, your Lord is full of bounty for the people, but most of them do not show gratitude.\" (74) And indeed, your Lord knows what their breasts conceal and what they declare. (75) And there is nothing concealed within the heaven and the earth except that it is in a clear Register."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        185
+      ],
+      "id": 185,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 185,
+        "topic_id": 1,
+        "uthmani": "وَحَفِظْنَاهَا مِن كُلِّ شَيْطَانٍ رَّجِيمٍ ﴿١٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/56.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Hijr 15:17",
+        "content": null,
+        "translation": "(17) And We have protected it from every devil expelled [from the mercy of Allah]."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        186
+      ],
+      "id": 186,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 186,
+        "topic_id": 1,
+        "uthmani": "وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ ۖ قَالَ مَن يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ ﴿٧٨﴾ قُلْ يُحْيِيهَا الَّذِي أَنشَأَهَا أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ ﴿٧٩﴾ الَّذِي جَعَلَ لَكُم مِّنَ الشَّجَرِ الْأَخْضَرِ نَارًا فَإِذَا أَنتُم مِّنْهُ تُوقِدُونَ ﴿٨٠﴾ أَوَلَيْسَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِقَادِرٍ عَلَىٰ أَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَهُوَ الْخَلَّاقُ الْعَلِيمُ ﴿٨١﴾ إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَن يَقُولَ لَهُ كُن فَيَكُونُ ﴿٨٢﴾ فَسُبْحَانَ الَّذِي بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَإِلَيْهِ تُرْجَعُونَ ﴿٨٣﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/56.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ya-Sin 36:78-83",
+        "content": null,
+        "translation": "(78) And he presents for Us an example and forgets his [own] creation. He says, \"Who will give life to bones while they are disintegrated?\" (79) Say, \"He will give them life who produced them the first time; and He is, of all creation, Knowing.\" (80) [It is] He who made for you from the green tree, fire, and then from it you ignite. (81) Is not He who created the heavens and the earth Able to create the likes of them? Yes, [it is so]; and He is the Knowing Creator. (82) His command is only when He intends a thing that He says to it, \"Be,\" and it is. (83) So exalted is He in whose hand is the realm of all things, and to Him you will be returned."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        187
+      ],
+      "id": 187,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 187,
+        "topic_id": 1,
+        "uthmani": "فَسَتَذْكُرُونَ مَا أَقُولُ لَكُمْ ۚ وَأُفَوِّضُ أَمْرِي إِلَى اللَّـهِ ۚ إِنَّ اللَّـهَ بَصِيرٌ بِالْعِبَادِ ﴿٤٤﴾ فَوَقَاهُ اللَّـهُ سَيِّئَاتِ مَا مَكَرُوا ۖ وَحَاقَ بِآلِ فِرْعَوْنَ سُوءُ الْعَذَابِ ﴿٤٥﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/57.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ghafir 40:44-45",
+        "content": null,
+        "translation": "(44) And you will remember what I [now] say to you, and I entrust my affair to Allah . Indeed, Allah is Seeing of [His] servants.” (45) So Allah protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        188
+      ],
+      "id": 188,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 188,
+        "topic_id": 1,
+        "uthmani": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ ۚ قُلْ أَفَرَأَيْتُم مَّا تَدْعُونَ مِن دُونِ اللَّهِ إِنْ أَرَادَنِيَ اللَّهُ بِضُرٍّ هَلْ هُنَّ كَاشِفَاتُ ضُرِّهِ أَوْ أَرَادَنِي بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَاتُ رَحْمَتِهِ ۚ قُلْ حَسْبِيَ اللَّهُ ۖ عَلَيْهِ يَتَوَكَّلُ الْمُتَوَكِّلُونَ ﴿٣٨﴾ قُلْ يَا قَوْمِ اعْمَلُوا عَلَىٰ مَكَانَتِكُمْ إِنِّي عَامِلٌ ۖ فَسَوْفَ تَعْلَمُونَ ﴿٣٩﴾ مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ ﴿٤٠﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/57.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Az-Zumar 39:38-40",
+        "content": null,
+        "translation": "(38) And if you asked them, \"Who created the heavens and the earth?\" they would surely say, \" Allah .\" Say, \"Then have you considered what you invoke besides Allah ? If Allah intended me harm, are they removers of His harm; or if He intended me mercy, are they withholders of His mercy?\" Say, \"Sufficient for me is Allah ; upon Him [alone] rely the [wise] reliers.\" (39) Say, \"O my people, work according to your position, [for] indeed, I am working; and you are going to know (40) To whom will come a torment disgracing him and on whom will descend an enduring punishment.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        189
+      ],
+      "id": 189,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 189,
+        "topic_id": 1,
+        "uthmani": "وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ ﴿١٠﴾ كِرَامًا كَاتِبِينَ ﴿١١﴾ يَعْلَمُونَ مَا تَفْعَلُونَ ﴿١٢﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/58.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Infitar 82:10-12",
+        "content": null,
+        "translation": "(10) And indeed, [appointed] over you are keepers, (11) Noble and recording; (12) They know whatever you do."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    }
+  ]
+}

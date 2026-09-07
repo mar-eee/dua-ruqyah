@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_012.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "23-24",
+  "source_chars": 4685,
+  "items": [
+    {
+      "key": [
+        23
+      ],
+      "id": 23,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 23,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 26
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>Introduction</b>\n\n\nThe ailment of human being's possession by Jinn has, like any other ailments, some particular symptoms; however, it should be noted that sometimes they may be confused with some other physical illnesses. In fact, a woman came to me complaining about a pain in her legs; I immediately thought it was from rheumatism. Then I asked myself, “I had better recite some of the Qur'an on her to be certain. When I started reciting the Qur'an, a Jinn spoke through her, and informed me that he was holding her leg. I ordered him to leave her body in obedience to Allah (SWT) and he left. The woman was then able to stand up, without any pain; and all Praise to Allah Alone.\n\n<b>It is very important for the healer (exorcist) to be acquainted with the symptoms which are divided in two sections:</b>\n\n\n<b>Symptoms that appear in a dream</b>\n\n\n<b>1.</b> Insomnia: when a person cannot find sleep, except after a long period of relaxation.\n\n<b>2.</b> Anxiety: which leads to much waking up during the night.\n\n<b>3.</b> Nightmares: when a person sees something that worries him, in a dream, and he wants to seek help, but could not.\n\n<b>4.</b> To see animals in a dream; such as a cat, dog, camel, snake, lion, fox, mouse.\n\n<b>5.</b> To bite one's teeth in a dream.\n\n<b>6.</b> Laughing, crying, or screaming in a dream.\n\n<b>7.</b> Moaning in a dream.\n\n<b>8.</b> Sleepwalking.\n\n<b>9.</b> To see oneself, in a dream; falling from a high position.\n\n<b>10.</b> To dream of being in a cemetery, a refuse place or a deserted road.\n\n<b>11.</b> To see people with some strange features; to notice excessive height or shortness in them; or seeing completely black people.\n\n<b>12.</b> To see ghosts in a dream.\n\n<b>Symptoms when awake</b>\n\n\n<b>1.</b> Constant headaches (with a condition that its cause is not a sickness in the eyes, ears, nose, teeth, throat or stomach.\n\n<b>2.</b> Aversion (i.e. Turning away from remembering Allah, from Salat and all the other pious deeds).\n\n<b>3.</b> Straying (i.e. absent-mindedness, distractedness).\n\n<b>4.</b> Laziness and lassitude.\n\n<b>5.</b> Epilepsy (a seizure in which there are convulsions and loss of consciousness).\n\n<b>6.</b> A pain in an organ that medicine is unable to cure.\n\n<b>Types of Jinn possession of humans</b>\n\n\n<b>1.</b> A total possession (a Jinn possesses the whole body of a person, such as the one who suffers from seizures).\n\n<b>2.</b> A partial possession (a Jinn possesses one particular organ of the body, such as an arm, leg or tongue).\n\n<b>3.</b> Constant possession (a Jinn possesses the body for a long period of time).\n\n<b>4.</b> Temporary possession, which lasts no more than a few minutes, like a nightmare."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        24
+      ],
+      "id": 24,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 24,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 27
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>Not anybody can heal a possessed person; therefore, an exorcist should have the following characteristics:</b>\n\n\n<b>1.</b> He should have the faith of the pious ancestors – May Allah be pleased with them - a pure, clear Islamic faith.\n\n<b>2.</b> He should observe the principles of Tawheed (the doctrine of Divine Unity) in his words and actions:\n\n<b>3.</b> He should believe that the Words of Allah have effects on Jinn and demons.\n\n<b>4.</b> He should be acquainted with the conditions of Jinn and demons (their behaviour).\n\n<b>5.</b> He should be aware of the conduct of Satan (see how Shaikh alIslam Ibn Taymiyya responded when a Jinn said: “I will leave this body in respect for you'. Ibn Taymiyya replied: 'No, rather in obedience to Allah and His Messenger\". If Shaikh al-Islam was not aware of Satan's tricks, he would not have replied like that.\n\n<b>6.</b> It is recommendable for the exorcist to be a married man.\n\n<b>7.</b> He should be a person who avoids illegal (forbidden) acts in Islam, which Satan uses to attack a person.\n\n<b>8.</b> He should be obedient to Allah (SWT) observing all acts of worship, and against the will of Satan.\n\n<b>9.</b> He should observe supplication to Allah (SWT), seeking refuge in Him (SWT) from the Devil. These supplications were taught by the Prophet (ﷺ), and which should be said when leaving or entering the house; entering and leaving the mosque; when hearing a cock's cry, or a donkey's; seeing the moon; boarding a mount (vehicle); etc.\n\n<b>10.</b> To have sincere intention when healing.\n\n<b>11.</b> He should be equipped with all types of protection mentioned in Chapter six. In general, whenever a man gets closer to Allah (SWT), he distances himself from Satan, and rather gets more powerful and effective over Satan. You should know that if you manage to control yourself and your devil (the Jinn assigned to you), then you are most likely to overpower others; but if you fail to control them, then you are definitely too weak before others."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

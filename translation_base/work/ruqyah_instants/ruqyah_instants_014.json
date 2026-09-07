@@ -1,0 +1,342 @@
+{
+  "table": "ruqyah_instants",
+  "chunk": "ruqyah_instants_014.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 11,
+  "id_range": "201-211",
+  "source_chars": 5633,
+  "items": [
+    {
+      "key": [
+        201
+      ],
+      "id": 201,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 201,
+        "topic_id": 1,
+        "uthmani": "فَلَوْلَا إِذْ جَاءَهُم بَأْسُنَا تَضَرَّعُوا وَلَٰكِن قَسَتْ قُلُوبُهُمْ وَزَيَّنَ لَهُمُ الشَّيْطَانُ مَا كَانُوا يَعْمَلُونَ ﴿٤٣﴾ فَلَمَّا نَسُوا مَا ذُكِّرُوا بِهِ فَتَحْنَا عَلَيْهِمْ أَبْوَابَ كُلِّ شَيْءٍ حَتَّىٰ إِذَا فَرِحُوا بِمَا أُوتُوا أَخَذْنَاهُم بَغْتَةً فَإِذَا هُم مُّبْلِسُونَ ﴿٤٤﴾ فَقُطِعَ دَابِرُ الْقَوْمِ الَّذِينَ ظَلَمُوا ۚ وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ﴿٤٥﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/64.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-An'am 6:43-45",
+        "content": null,
+        "translation": "(43) Then why, when Our punishment came to them, did they not humble themselves? But their hearts became hardened, and Satan made attractive to them that which they were doing. (44) So when they forgot that by which they had been reminded, We opened to them the doors of every [good] thing until, when they rejoiced in that which they were given, We seized them suddenly, and they were [then] in despair. (45) So the people that committed wrong were eliminated. And praise to Allah, Lord of the worlds."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        202
+      ],
+      "id": 202,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 202,
+        "topic_id": 1,
+        "uthmani": "إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا الَّذِينَ آمَنُوا ۚ سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ وَاضْرِبُوا مِنْهُمْ كُلَّ بَنَانٍ ﴿١٢﴾ ذَٰلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ ۚ وَمَن يُشَاقِقِ اللَّهَ وَرَسُولَهُ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ ﴿١٣﴾ ذَٰلِكُمْ فَذُوقُوهُ وَأَنَّ لِلْكَافِرِينَ عَذَابَ النَّارِ ﴿١٤﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/65.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Anfal 8:12-14",
+        "content": null,
+        "translation": "(12) [Remember] when your Lord inspired to the angels, \"I am with you, so strengthen those who have believed. I will cast terror into the hearts of those who disbelieved, so strike [them] upon the necks and strike from them every fingertip.\" (13) That is because they opposed Allah and His Messenger. And whoever opposes Allah and His Messenger - indeed, Allah is severe in penalty. (14) \"That [is yours], so taste it.\" And indeed for the disbelievers is the punishment of the Fire."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        203
+      ],
+      "id": 203,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 203,
+        "topic_id": 1,
+        "uthmani": "وَلَا تَحْسَبَنَّ اللَّهَ غَافِلًا عَمَّا يَعْمَلُ الظَّالِمُونَ ۚ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الْأَبْصَارُ ﴿٤٢﴾ مُهْطِعِينَ مُقْنِعِي رُءُوسِهِمْ لَا يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ ۖ وَأَفْئِدَتُهُمْ هَوَاءٌ ﴿٤٣﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/66.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ibrahim 14:42-43",
+        "content": null,
+        "translation": "(42) And never think that Allah is unaware of what the wrongdoers do. He only delays them for a Day when eyes will stare [in horror]. (43) Racing ahead, their heads raised up, their glance does not come back to them, and their hearts are void."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        204
+      ],
+      "id": 204,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 204,
+        "topic_id": 1,
+        "uthmani": "وَرَدَّ اللَّهُ الَّذِينَ كَفَرُوا بِغَيْظِهِمْ لَمْ يَنَالُوا خَيْرًا ۚ وَكَفَى اللَّهُ الْمُؤْمِنِينَ الْقِتَالَ ۚ وَكَانَ اللَّهُ قَوِيًّا عَزِيزًا ﴿٢٥﴾ وَأَنزَلَ الَّذِينَ ظَاهَرُوهُم مِّنْ أَهْلِ الْكِتَابِ مِن صَيَاصِيهِمْ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا ﴿٢٦﴾ وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَارَهُمْ وَأَمْوَالَهُمْ وَأَرْضًا لَّمْ تَطَئُوهَا ۚ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرًا ﴿٢٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/67.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Ahzab 33:25-27",
+        "content": null,
+        "translation": "(25) And Allah repelled those who disbelieved, in their rage, not having obtained any good. And sufficient was Allah for the believers in battle, and ever is Allah Powerful and Exalted in Might. (26) And He brought down those who supported them among the People of the Scripture from their fortresses and cast terror into their hearts [so that] a party you killed, and you took captive a party. (27) And He caused you to inherit their land and their homes and their properties and a land which you have not trodden. And ever is Allah, over all things, competent."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        205
+      ],
+      "id": 205,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 205,
+        "topic_id": 1,
+        "uthmani": "وَلَوْ تَرَىٰ إِذْ فَزِعُوا فَلَا فَوْتَ وَأُخِذُوا مِن مَّكَانٍ قَرِيبٍ ﴿٥١﴾ وَقَالُوا آمَنَّا بِهِ وَأَنَّىٰ لَهُمُ التَّنَاوُشُ مِن مَّكَانٍ بَعِيدٍ ﴿٥٢﴾ وَقَدْ كَفَرُوا بِهِ مِن قَبْلُ ۖ وَيَقْذِفُونَ بِالْغَيْبِ مِن مَّكَانٍ بَعِيدٍ ﴿٥٣﴾ وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ كَمَا فُعِلَ بِأَشْيَاعِهِم مِّن قَبْلُ ۚ إِنَّهُمْ كَانُوا فِي شَكٍّ مُّرِيبٍ ﴿٥٤﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/68.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Saba 34:51-54",
+        "content": null,
+        "translation": "(51) And if you could see when they are terrified but there is no escape, and they will be seized from a place nearby. (52) And they will [then] say, \"We believe in it!\" But how for them will be the taking [of faith] from a place far away? (53) And they had already disbelieved in it before and would assault the unseen from a place far away. (54) And prevention will be placed between them and what they desire, as was done with their kind before. Indeed, they were in disquieting denial."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        206
+      ],
+      "id": 206,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 206,
+        "topic_id": 1,
+        "uthmani": "يس ﴿١﴾ وَالْقُرْآنِ الْحَكِيمِ ﴿٢﴾ إِنَّكَ لَمِنَ الْمُرْسَلِينَ ﴿٣﴾ عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ ﴿٤﴾ تَنزِيلَ الْعَزِيزِ الرَّحِيمِ ﴿٥﴾ لِتُنذِرَ قَوْمًا مَّا أُنذِرَ آبَاؤُهُمْ فَهُمْ غَافِلُونَ ﴿٦﴾ لَقَدْ حَقَّ الْقَوْلُ عَلَىٰ أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ ﴿٧﴾ إِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلَالًا فَهِيَ إِلَى الْأَذْقَانِ فَهُم مُّقْمَحُونَ ﴿٨﴾ وَجَعَلْنَا مِن بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَاهُمْ فَهُمْ لَا يُبْصِرُونَ ﴿٩﴾ وَسَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ ﴿١٠﴾ إِنَّمَا تُنذِرُ مَنِ اتَّبَعَ الذِّكْرَ وَخَشِيَ الرَّحْمَـٰنَ بِالْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ ﴿١١﴾ إِنَّا نَحْنُ نُحْيِي الْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا وَآثَارَهُمْ ۚ وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُّبِينٍ ﴿١٢﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/69.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ya-Sin 36:1-12",
+        "content": null,
+        "translation": "(1) Ya, Seen. (2) By the wise Qur'an. (3) Indeed you, [O Muhammad], are from among the messengers, (4) On a straight path. (5) [This is] a revelation of the Exalted in Might, the Merciful, (6) That you may warn a people whose forefathers were not warned, so they are unaware. (7) Already the word has come into effect upon most of them, so they do not believe. (8) Indeed, We have put shackles on their necks, and they are to their chins, so they are with heads [kept] aloft. (9) And We have put before them a barrier and behind them a barrier and covered them, so they do not see. (10) And it is all the same for them whether you warn them or do not warn them - they will not believe. (11) You can only warn one who follows the message and fears the Most Merciful unseen. So give him good tidings of forgiveness and noble reward. (12) Indeed, it is We who bring the dead to life and record what they have put forth and what they left behind, and all things We have enumerated in a clear register."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        207
+      ],
+      "id": 207,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 207,
+        "topic_id": 1,
+        "uthmani": "يَوْمَ تَرْجُفُ الرَّاجِفَةُ ﴿٦﴾ تَتْبَعُهَا الرَّادِفَةُ ﴿٧﴾ قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ ﴿٨﴾ أَبْصَارُهَا خَاشِعَةٌ ﴿٩﴾ يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ ﴿١٠﴾ أَإِذَا كُنَّا عِظَامًا نَّخِرَةً ﴿١١﴾ قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ ﴿١٢﴾ فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ ﴿١٣﴾ فَإِذَا هُم بِالسَّاهِرَةِ ﴿١٤﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/70.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "An-Nazi'at 79:6-14",
+        "content": null,
+        "translation": "(6) On the Day the blast [of the Horn] will convulse [creation], (7) There will follow it the subsequent [one]. (8) Hearts, that Day, will tremble, (9) Their eyes humbled. (10) They are [presently] saying, \"Will we indeed be returned to [our] former state [of life]? (11) Even if we should be decayed bones? (12) They say, \"That, then, would be a losing return.\" (13) Indeed, it will be but one shout, (14) And suddenly they will be [alert] upon the earth's surface."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        208
+      ],
+      "id": 208,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 208,
+        "topic_id": 1,
+        "uthmani": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوا إِلَّا عَشِيَّةً أَوْ ضُحَاهَا ﴿٤٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/71.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "An-Nazi'at 79:46",
+        "content": null,
+        "translation": "(46) It will be, on the Day they see it, as though they had not remained [in the world] except for an afternoon or a morning thereof."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        209
+      ],
+      "id": 209,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 209,
+        "topic_id": 1,
+        "uthmani": "إِنَّ الَّذِينَ كَفَرُوا بِآيَاتِنَا سَوْفَ نُصْلِيهِمْ نَارًا كُلَّمَا نَضِجَتْ جُلُودُهُم بَدَّلْنَاهُمْ جُلُودًا غَيْرَهَا لِيَذُوقُوا الْعَذَابَ ۗ إِنَّ اللَّهَ كَانَ عَزِيزًا حَكِيمًا ﴿٥٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/72.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "An-Nisa 4:56",
+        "content": null,
+        "translation": "(56) Indeed, those who disbelieve in Our verses - We will drive them into a Fire. Every time their skins are roasted through We will replace them with other skins so they may taste the punishment. Indeed, Allah is ever Exalted in Might and Wise."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        210
+      ],
+      "id": 210,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 210,
+        "topic_id": 1,
+        "uthmani": "إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّهِ قَدْ ضَلُّوا ضَلَالًا بَعِيدًا ﴿١٦٧﴾ إِنَّ الَّذِينَ كَفَرُوا وَظَلَمُوا لَمْ يَكُنِ اللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ طَرِيقًا ﴿١٦٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/73.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "An-Nisa 4:167-168",
+        "content": null,
+        "translation": "(167) Indeed, those who disbelieve and avert [people] from the way of Allah have certainly gone far astray. (168) Indeed, those who disbelieve and commit wrong [or injustice] - never will Allah forgive them, nor will He guide them to a path."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        211
+      ],
+      "id": 211,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 211,
+        "topic_id": 1,
+        "uthmani": "إِنَّمَا جَزَاءُ الَّذِينَ يُحَارِبُونَ اللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي الْأَرْضِ فَسَادًا أَن يُقَتَّلُوا أَوْ يُصَلَّبُوا أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَافٍ أَوْ يُنفَوْا مِنَ الْأَرْضِ ۚ ذَٰلِكَ لَهُمْ خِزْيٌ فِي الدُّنْيَا ۖ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ ﴿٣٣﴾ إِلَّا الَّذِينَ تَابُوا مِن قَبْلِ أَن تَقْدِرُوا عَلَيْهِمْ ۖ فَاعْلَمُوا أَنَّ اللَّهَ غَفُورٌ رَّحِيمٌ ﴿٣٤﴾ يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ الْوَسِيلَةَ وَجَاهِدُوا فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ ﴿٣٥﴾ إِنَّ الَّذِينَ كَفَرُوا لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ عَذَابِ يَوْمِ الْقِيَامَةِ مَا تُقُبِّلَ مِنْهُمْ ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ ﴿٣٦﴾ يُرِيدُونَ أَن يَخْرُجُوا مِنَ النَّارِ وَمَا هُم بِخَارِجِينَ مِنْهَا ۖ وَلَهُمْ عَذَابٌ مُّقِيمٌ ﴿٣٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/74.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Ma'idah 5:33-37",
+        "content": null,
+        "translation": "(33) Indeed, the penalty for those who wage war against Allah and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world; and for them in the Hereafter is a great punishment, (34) Except for those who return [repenting] before you apprehend them. And know that Allah is Forgiving and Merciful. (35) O you who have believed, fear Allah and seek the means [of nearness] to Him and strive in His cause that you may succeed. (36) Indeed, those who disbelieve - if they should have all that is in the earth and the like of it with it by which to ransom themselves from the punishment of the Day of Resurrection, it will not be accepted from them, and for them is a painful punishment (37) They will wish to get out of the Fire, but never are they to emerge therefrom, and for them is an enduring punishment."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    }
+  ]
+}

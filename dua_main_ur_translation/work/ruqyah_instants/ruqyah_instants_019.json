@@ -1,0 +1,672 @@
+{
+  "table": "ruqyah_instants",
+  "chunk": "ruqyah_instants_019.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 22,
+  "id_range": "269-290",
+  "source_chars": 5866,
+  "items": [
+    {
+      "key": [
+        269
+      ],
+      "id": 269,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 269,
+        "topic_id": 1,
+        "uthmani": "وَلَوْ جَعَلْنَاهُ قُرْآنًا أَعْجَمِيًّا لَّقَالُوا لَوْلَا فُصِّلَتْ آيَاتُهُ ۖ أَأَعْجَمِيٌّ وَعَرَبِيٌّ ۗ قُلْ هُوَ لِلَّذِينَ آمَنُوا هُدًى وَشِفَاءٌ ۖ وَالَّذِينَ لَا يُؤْمِنُونَ فِي آذَانِهِمْ وَقْرٌ وَهُوَ عَلَيْهِمْ عَمًى ۚ أُولَٰئِكَ يُنَادَوْنَ مِن مَّكَانٍ بَعِيدٍ ﴿٤٤﴾ وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ فَاخْتُلِفَ فِيهِ ۗ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَقُضِيَ بَيْنَهُمْ ۚ وَإِنَّهُمْ لَفِي شَكٍّ مِّنْهُ مُرِيبٍ ﴿٤٥﴾ مَّنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ ۖ وَمَنْ أَسَاءَ فَعَلَيْهَا ۗ وَمَا رَبُّكَ بِظَلَّامٍ لِّلْعَبِيدِ ﴿٤٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/132.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Fussilat 41:44-46",
+        "content": null,
+        "translation": "(44) And if We had made it a non-Arabic Qur'an, they would have said, \"Why are its verses not explained in detail [in our language]? Is it a foreign [recitation] and an Arab [messenger]?\" Say, \"It is, for those who believe, a guidance and cure.\" And those who do not believe - in their ears is deafness, and it is upon them blindness. Those are being called from a distant place. (45) And We had already given Moses the Scripture, but it came under disagreement. And if not for a word that preceded from your Lord, it would have been concluded between them. And indeed they are, concerning the Qur'an, in disquieting doubt. (46) Whoever does righteousness - it is for his [own] soul; and whoever does evil [does so] against it. And your Lord is not ever unjust to [His] servants."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        270
+      ],
+      "id": 270,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 270,
+        "topic_id": 1,
+        "uthmani": "وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ ۖ وَإِن يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿١٧﴾ وَهُوَ الْقَاهِرُ فَوْقَ عِبَادِهِ ۚ وَهُوَ الْحَكِيمُ الْخَبِيرُ ﴿١٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/133.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-An'am 6:17-18",
+        "content": null,
+        "translation": "(17) And if Allah should touch you with adversity, there is no remover of it except Him. And if He touches you with good - then He is over all things competent. (18) And He is the subjugator over His servants. And He is the Wise, the Acquainted [with all]."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        271
+      ],
+      "id": 271,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 271,
+        "topic_id": 1,
+        "uthmani": "قَاتِلُوهُمْ يُعَذِّبْهُمُ اللَّهُ بِأَيْدِيكُمْ وَيُخْزِهِمْ وَيَنصُرْكُمْ عَلَيْهِمْ وَيَشْفِ صُدُورَ قَوْمٍ مُّؤْمِنِينَ ﴿١٤﴾ وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ ۗ وَيَتُوبُ اللَّهُ عَلَىٰ مَن يَشَاءُ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ ﴿١٥﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/134.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "At-Tawbah 9:14-15",
+        "content": null,
+        "translation": "(14) Fight them; Allah will punish them by your hands and will disgrace them and give you victory over them and satisfy the breasts of a believing people (15) And remove the fury in the believers' hearts. And Allah turns in forgiveness to whom He wills; and Allah is Knowing and Wise."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        272
+      ],
+      "id": 272,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 272,
+        "topic_id": 1,
+        "uthmani": "يٰٓأَيُّهَا النَّاسُ قَدْ جَآءَتْكُم مَّوْعِظَةٌ مِّن رَّبِّكُمْ وَشِفَآءٌ لِّمَا فِى الصُّدُورِ وَهُدًى وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/135.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Yunus 10:57",
+        "content": null,
+        "translation": "(57) O mankind, there has to come to you instruction from your Lord and healing for what is in the breasts and guidance and mercy for the believers."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        273
+      ],
+      "id": 273,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 273,
+        "topic_id": 1,
+        "uthmani": "وَأَوْحَىٰ رَبُّكَ إِلَى النَّحْلِ أَنِ اتَّخِذِي مِنَ الْجِبَالِ بُيُوتًا وَمِنَ الشَّجَرِ وَمِمَّا يَعْرِشُونَ ﴿٦٨﴾ ثُمَّ كُلِي مِن كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِن بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاءٌ لِّلنَّاسِ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَتَفَكَّرُونَ ﴿٦٩﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/136.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "An-Nahl 16:68-69",
+        "content": null,
+        "translation": "(68) And your Lord inspired to the bee, \"Take for yourself among the mountains, houses, and among the trees and [in] that which they construct. (69) Then eat from all the fruits and follow the ways of your Lord laid down [for you].\" There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        274
+      ],
+      "id": 274,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 274,
+        "topic_id": 1,
+        "uthmani": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ ۙ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا ﴿٨٢﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/137.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Isra 17:82",
+        "content": null,
+        "translation": "(82) And We send down of the Qur'an that which is healing and mercy for the believers, but it does not increase the wrongdoers except in loss."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        275
+      ],
+      "id": 275,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 275,
+        "topic_id": 1,
+        "uthmani": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ ﴿٨٠﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/138.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ash-Shu'ara 26:80",
+        "content": null,
+        "translation": "(80) And when I am ill, it is He who cures me"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        276
+      ],
+      "id": 276,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 276,
+        "topic_id": 1,
+        "uthmani": "أَمَّن يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ وَيَجْعَلُكُمْ خُلَفَاءَ الْأَرْضِ ۗ أَإِلَٰهٌ مَّعَ اللَّهِ ۚ قَلِيلًا مَّا تَذَكَّرُونَ ﴿٦٢﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/139.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "An-Naml 27:62",
+        "content": null,
+        "translation": "(62) Is He [not best] who responds to the desperate one when he calls upon Him and removes evil and makes you inheritors of the earth? Is there a deity with Allah ? Little do you remember."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        277
+      ],
+      "id": 277,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 277,
+        "topic_id": 1,
+        "uthmani": "مَّا يَفْتَحِ اللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُ مِن بَعْدِهِ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ ﴿٢﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/140.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Fatir 35:2",
+        "content": null,
+        "translation": "(2) Whatever Allah grants to people of mercy - none can withhold it; and whatever He withholds - none can release it thereafter. And He is the Exalted in Might, the Wise."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        278
+      ],
+      "id": 278,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 278,
+        "topic_id": 1,
+        "uthmani": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ ﴿١٣٩﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/141.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ali 'Imran 3:139",
+        "content": null,
+        "translation": "(139) So do not weaken and do not grieve, and you will be superior if you are [true] believers."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        279
+      ],
+      "id": 279,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 279,
+        "topic_id": 1,
+        "uthmani": "ثُمَّ أَنزَلَ عَلَيْكُم مِّن بَعْدِ الْغَمِّ أَمَنَةً نُّعَاسًا يَغْشَىٰ طَائِفَةً مِّنكُمْ ۖ وَطَائِفَةٌ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِاللَّهِ غَيْرَ الْحَقِّ ظَنَّ الْجَاهِلِيَّةِ ۖ يَقُولُونَ هَل لَّنَا مِنَ الْأَمْرِ مِن شَيْءٍ ۗ قُلْ إِنَّ الْأَمْرَ كُلَّهُ لِلَّهِ ۗ يُخْفُونَ فِي أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ ۖ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ الْأَمْرِ شَيْءٌ مَّا قُتِلْنَا هَاهُنَا ۗ قُل لَّوْ كُنتُمْ فِي بُيُوتِكُمْ لَبَرَزَ الَّذِينَ كُتِبَ عَلَيْهِمُ الْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ ۖ وَلِيَبْتَلِيَ اللَّهُ مَا فِي صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِي قُلُوبِكُمْ ۗ وَاللَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ ﴿١٥٤﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/142.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ali 'Imran 3:154",
+        "content": null,
+        "translation": "(154) Then after distress, He sent down upon you security [in the form of] drowsiness, overcoming a faction of you, while another faction worried about themselves, thinking of Allah other than the truth - the thought of ignorance, saying, \"Is there anything for us [to have done] in this matter?\" Say, \"Indeed, the matter belongs completely to Allah .\" They conceal within themselves what they will not reveal to you. They say, \"If there was anything we could have done in the matter, some of us would not have been killed right here.\" Say, \"Even if you had been inside your houses, those decreed to be killed would have come out to their death beds.\" [It was] so that Allah might test what is in your breasts and purify what is in your hearts. And Allah is Knowing of that within the breasts."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        280
+      ],
+      "id": 280,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 280,
+        "topic_id": 1,
+        "uthmani": "فَمَن يُرِدِ اللَّهُ أَن يَهْدِيَهُ يَشْرَحْ صَدْرَهُ لِلْإِسْلَامِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُ يَجْعَلْ صَدْرَهُ ضَيِّقًا حَرَجًا كَأَنَّمَا يَصَّعَّدُ فِي السَّمَاءِ ۚ كَذَٰلِكَ يَجْعَلُ اللَّهُ الرِّجْسَ عَلَى الَّذِينَ لَا يُؤْمِنُونَ ﴿١٢٥﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/143.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-An'am 6:125",
+        "content": null,
+        "translation": "(125) And who is better in religion than one who submits himself to Allah while being a doer of good and follows the religion of Abraham, inclining toward truth? And Allah took Abraham as an intimate friend."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        281
+      ],
+      "id": 281,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 281,
+        "topic_id": 1,
+        "uthmani": "أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ ﴿٦٢﴾ الَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ ﴿٦٣﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/144.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Yunus 10:62-63",
+        "content": null,
+        "translation": "(62) Unquestionably, [for] the allies of Allah there will be no fear concerning them, nor will they grieve (63) Those who believed and were fearing Allah"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        282
+      ],
+      "id": 282,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 282,
+        "topic_id": 1,
+        "uthmani": "ثُمَّ نُنَجِّي رُسُلَنَا وَالَّذِينَ آمَنُوا ۚ كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ الْمُؤْمِنِينَ ﴿١٠٣﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/145.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Yunus 10:103",
+        "content": null,
+        "translation": "(103) Then We will save our messengers and those who have believed. Thus, it is an obligation upon Us that We save the believers"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        283
+      ],
+      "id": 283,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 283,
+        "topic_id": 1,
+        "uthmani": "قَالَ إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ وَأَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ ﴿٨٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/146.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Yusuf 12:86",
+        "content": null,
+        "translation": "(86) He said, \"I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        284
+      ],
+      "id": 284,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 284,
+        "topic_id": 1,
+        "uthmani": "قَالَ رَبِّ اشْرَحْ لِي صَدْرِي ﴿٢٥﴾ وَيَسِّرْ لِي أَمْرِي ﴿٢٦﴾ وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي ﴿٢٧﴾ يَفْقَهُوا قَوْلِي ﴿٢٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/147.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ta-Ha 20:25-28",
+        "content": null,
+        "translation": "(25) [Moses] said, \"My Lord, expand for me my breast [with assurance] (26) And ease for me my task (27) And untie the knot from my tongue (28) That they may understand my speech."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        285
+      ],
+      "id": 285,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 285,
+        "topic_id": 1,
+        "uthmani": "وَنُوحًا إِذْ نَادَىٰ مِن قَبْلُ فَاسْتَجَبْنَا لَهُ فَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ ﴿٧٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/148.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Anbiya 21:76",
+        "content": null,
+        "translation": "(76) And [mention] Noah, when he called [to Allah ] before [that time], so We responded to him and saved him and his family from the great flood."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        286
+      ],
+      "id": 286,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 286,
+        "topic_id": 1,
+        "uthmani": "وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ ﴿٨٣﴾ فَاسْتَجَبْنَا لَهُ فَكَشَفْنَا مَا بِهِ مِن ضُرٍّ ۖ وَآتَيْنَاهُ أَهْلَهُ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنْ عِندِنَا وَذِكْرَىٰ لِلْعَابِدِينَ ﴿٨٤﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/149.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Anbiya 21:83-84",
+        "content": null,
+        "translation": "(83) And [mention] Job, when he called to his Lord, \"Indeed, adversity has touched me, and you are the Most Merciful of the merciful.\" (84) So We responded to him and removed what afflicted him of adversity. And We gave him [back] his family and the like thereof with them as mercy from Us and a reminder for the worshippers [of Allah ]."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        287
+      ],
+      "id": 287,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 287,
+        "topic_id": 1,
+        "uthmani": "وَذَا النُّونِ إِذ ذَّهَبَ مُغَاضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِي الظُّلُمَاتِ أَن لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ ﴿٨٧﴾ فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ الْغَمِّ ۚ وَكَذَٰلِكَ نُنجِي الْمُؤْمِنِينَ ﴿٨٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/150.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Anbiya 21:87-88",
+        "content": null,
+        "translation": "(87) And [mention] the man of the fish, when he went off in anger and thought that We would not decree [anything] upon him. And he called out within the darknesses, \"There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.\" (88) So We responded to him and saved him from the distress. And thus do We save the believers."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        288
+      ],
+      "id": 288,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 288,
+        "topic_id": 1,
+        "uthmani": "وَتَوَكَّلْ عَلَى الْحَيِّ الَّذِي لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِ ۚ وَكَفَىٰ بِهِ بِذُنُوبِ عِبَادِهِ خَبِيرًا ﴿٥٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/151.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Furqan 25:58",
+        "content": null,
+        "translation": "(58) And rely upon the Ever-Living who does not die, and exalt [ Allah ] with His praise. And sufficient is He to be, with the sins of His servants, Acquainted -"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        289
+      ],
+      "id": 289,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 289,
+        "topic_id": 1,
+        "uthmani": "وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ ۖ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ ﴿٣٤﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/152.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Fatir 35:34",
+        "content": null,
+        "translation": "(34) And they will say, \"Praise to Allah, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative -"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        290
+      ],
+      "id": 290,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 290,
+        "topic_id": 1,
+        "uthmani": "وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَارُونَ ﴿١١٤﴾ وَنَجَّيْنَاهُمَا وَقَوْمَهُمَا مِنَ الْكَرْبِ الْعَظِيمِ ﴿١١٥﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/153.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "As-Saaffaat 37:114-115",
+        "content": null,
+        "translation": "(114) And We did certainly confer favor upon Moses and Aaron. (115) And We saved them and their people from the great affliction,"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    }
+  ]
+}

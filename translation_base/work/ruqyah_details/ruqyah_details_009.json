@@ -1,0 +1,34 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_009.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 1,
+  "id_range": "18-18",
+  "source_chars": 4409,
+  "items": [
+    {
+      "key": [
+        18
+      ],
+      "id": 18,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 18,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 21
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>It is often said that a certain place or house is inhabited by Jinn; coud that be true?</b>\n\n\nThis maybe true or maybe false:\n\n\nThe truthful side of it is that it is a possibility, and that it does indeed take place in the real world, as mentioned in Islamic sources. Earlier we mentioned the Hadith of the Ansari youth who returned to his house to find a Jinn disguised in the form of a snake, and this long version of the Hadith is in Sahih Muslim.\n\nAbdullah ibn Muhammad ibn al-Qurashi (R) said: It is narrated by al-Hassan ibn Jahwar ibn Abi Ilyas (R), that Abu 'Abbad ibn Ishaq ibn Muhammad ibn Talhah (R) narrated from Sa'd ibn Abi Waqqas (RA) who said: 'Once, while I was in a place far from my house, a messenger came to me from my wife to say that she requested me to come home. I was displeased by her request, but I went and said: 'What is it?' She said: 'It is this snake (and she pointed to it); I used to see it in the countryside when I was alone there. But I have not seen it for a while, until now. It is the same snake: I recognise it by its eyes'.\n\nSo Sa'd (RA) made a speech in which after praising Allah (SWT) he said: “You have harmed me, and I swear by Allah that if I see you again, I will kill you'. Thereupon, the snake slipped under the door and went out'. [Ākām Al-Marjan 75]\n\nThe false side of the allegations concerning the Jinn is in those invalid rumours, often circulated by people for their own personal interests. Here is a real story related in its true context by Shaikh Yasin Ahmad al-'Id (R): \"A man died in a village, leaving a beautiful, secluded mansion; it was very large, with many rooms, all beautifully decorated; it had a fountain built in the middle, with different, multicoloured statues that had water spouting out from their mouths.\n\nThe man had no child to inherit from him, so the mansion was left empty; but his relatives decided to sell it. They were hoping to raise a fortune from its sale; but as soon as it was put for sale, a rumour circulated that the house was inhabited by demons. The news spread far and wide, and became a daily topic of discussion. Anyone who wanted to discover the truth went to the house at night, yet returned convinced that the house was really inhabited by demons.\n\nPeople avoided buying the house. The inheritors dreaded the consequences, especially when a man offered only the quarter of the selling price. But just before the sale was concluded, a brave young man heard about the rumours of the house, and since he did not care about Jinn and was not afraid of demons, he approached the inheritors and offered to clear the house of any demon for a particular sum of money. They agreed and handed him half the sum.\n\nAt night, the young man took a gun with him in case he needed it, and headed for the house. He rested for some time, then extinguished the lamp and went to sleep. After a while, he felt a hand pulling his cover away. He grabbed hold of the hand powerfully, and said: “Who is pulling the cover?' He heard a voice say: \"I am a demon, and I need the cover or else I will have to wear your body.” So the young man let go of the cover, and heard the demon fall, hitting the back of his head. He leapt forward, stood on the chest of the demon, and pointed the gun at his head, saying: “Tell me who are you?” The demon was terrified and replied: \"Leave me alone, and I will tell you the truth about my case.\"\n\nThe young man said: “You may talk, demon!' He answered: “I am not a demon or a devil. I am a human like you; I differ from you only in the blackness of my skin and my unpleasant appearance.” The young man let go of him, and went to turn on the lamp, only to see a black, naked servant. He said to him: \"Tell me, servant, what is the reason for your being here?' He replied: \"It was a necessity that forced me to come here; I am a poor man, with no income, but with a large family to look after. I asked a man to find me a job in order to make a living, so he ordered me to come here every night and pretend to be a demon, to frighten people away. He told me to keep it a secret.” When the young man heard his story, he took him to the inheritors of the house to relate the story to them. Thereupon, they discovered that the man who had employed the servant was in fact the same one who had offered to buy the house at a much reduced price! ['Arafun and Dajalun (Fortune-tellers and Charlatans) (84)]"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

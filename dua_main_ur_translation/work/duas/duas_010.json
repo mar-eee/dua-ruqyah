@@ -1,0 +1,300 @@
+{
+  "table": "duas",
+  "chunk": "duas_010.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 9,
+  "id_range": "131-139",
+  "source_chars": 4193,
+  "items": [
+    {
+      "key": [
+        131
+      ],
+      "id": 131,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 131,
+        "groups": null,
+        "uthmani": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِيْ فَاغْفِرْ لِي ذَنْبِيْ",
+        "indopak": "بِاسْمِكَ رَبِّيْ وَضَعْتُ جَنْبِيْ فَاغْفِرْ لِيْ ذَنْۢبِيْ",
+        "clean": "باسمك ربي وضعت جنبي فاغفر لي ذنبي",
+        "transliteration": "Bismika Rabbi Wada`tu janbi, faghfir lee janbi",
+        "reference": "Hasan (Shuaib al-Arnait). Musnad Ahmad: 6620",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #10",
+        "content": null,
+        "translation": "O my Lord, I have slept in your name. You forgive my sins.",
+        "note": "Abdullah Ibn Amr (RA) said that the Prophet (ﷺ) used to say the above dua when he was lying in bed to sleep."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        132
+      ],
+      "id": 132,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 132,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَكَفَانَا وَآوَانَا، فَكَمْ مِمَّنْ لَا كَافِيَ لَهُ وَلَا مُؤْوِيَ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ اَطْعَمَنَا وَسَقَانَا وَكَفَانَا وَاٰوَانَا، فَكَمْ مِمَّنْ لَّا كَافِيَ لَهٗ وَلَا مُؤْوِيَ",
+        "clean": "الحمد لله الذي اطعمنا وسقانا وكفانا واوانا فكم ممن لا كافي له ولا مءوي",
+        "transliteration": "Alhamdu lillaahil-ladhee 'at'amanaa wa saqaanaa, wa kafaanaa, wa 'aawaanaa, fakam mimman laa kaafiya lahu wa laa mu'wiya",
+        "reference": "Muslim 4/2085 no. 2715",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #11",
+        "content": null,
+        "translation": "All praise is for Allah, Who fed us and gave us drink, and Who is sufficient for us and has sheltered us, for how many have none to suffice them or shelter them.",
+        "note": "Anas (RA) said, Rasulullah (ﷺ) used to say this dua when he was lying in bed."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        133
+      ],
+      "id": 133,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 133,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ رَبَّ كُلِّ شَيْءٍ وَمَلِيْكَهُ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ أَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِيْ وَمِنْ شَرِّ الشَّيْطَانِ وَ شِرْكِهِ وَأَنْ أَقْتَرِفَ عَلَى نَفْسِيْ سُوءًا، أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ",
+        "indopak": "اَللّٰهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ فَاطِرَ السَّمَاوَاتِ وَالْاَرْضِ رَبَّ كُلِّ شَيْءٍ وَّمَلِيْكَهُ اَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اَنْتَ اَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِيْ وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهٖ وَاَنْ اَقْتَرِفَ عَلٰى نَفْسِيْ سُوْءًا، اَوْ اَجُرَّهٗ اِلٰى مُسْلِمٍ",
+        "clean": "اللهم عالم الغيب والشهاده فاطر السماوات والارض رب كل شيء ومليكه اشهد ان لا اله الا انت اعوذ بك من شر نفسي ومن شر الشيطان وشركه وان اقترف علي نفسي سوءا او اجره الي مسلم",
+        "transliteration": "Allaahumma 'Aalimal-ghaybi wash-shahaadati faatiras-samaawaati wal'ardh, Rabba kulli shay 'in wa maleekahu, 'ash-hadu 'an laa 'ilaaha 'illaa 'Anta, 'a'oodhu bika min sharri nafsee, wa min sharrish-shaytaani wa shirkihi, wa 'an 'aqtarifa 'alaa nafsee soo 'an, 'aw 'ajurrahu 'ilaa Muslim",
+        "reference": "Sahih (Albani). Tirmidhi: 3392",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #12",
+        "content": null,
+        "translation": "O Allah, Knower of the seen and the unseen, Creator of the heavens and the earth, Lord and Sovereign of all things I bear witness that none has the right to be worshipped except You. I take refuge in You from the evil of my soul and from the evil and shirk of the devil, and from committing wrong against my soul or bringing such upon another Muslim.",
+        "note": "The Prophet (ﷺ) taught this dua to be recited in the morning, evening and after bed."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        134
+      ],
+      "id": 134,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 134,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ وَلَا فَاجِرٌ مِنْ شَرِّ مَا خَلَقَ، وبَرَأَ وَذَرَأَ، وَمِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ، وَمِنْ شَرِّ مَا يَعْرُجُ فِيهَا، وَمِنْ شَرِّ مَا ذَرَأَ فِي الْأَرْضِ، وَمِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، وَمِنْ شَرِّ فِتَنِ اللَّيْلِ وَالنَّهَارِ، وَمِنْ شَرِّ كُلِّ طَارِقٍ إِلَّا طَارِقًا يَطْرُقُ بِخَيْرٍ يَا رَحْمَنُ",
+        "indopak": "اَعُوْذُ بكَلِمَاتِ اللّٰهِ التَّامَّاتِ الَّتِيْ لَا يُجَاوِزُهُنَّ بَرٌّ وَّلَا فَاجِرٌ، مِن شَرِّ مَا خَلَقَ، وبَرَاَ وذَرَاَ، ومِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ، ومِنْ شَرِّ مَا يَعْرُجُ فِيْهَا، ومِنْ شَرِّ مَا ذَرَاَ فِي الْاَرْضِ، ومِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، ومِنْ شَرِّ فِتَنِ اللَّيْلِ والنَّهَارِ، ومِنْ شَرِّ كُلِّ طَارِقٍ اِلَّا طَارِقًا يَّطْرُقُ بِخَيْرٍ يَّارَحْمٰنُ",
+        "clean": "اعوذ بكلمات الله التامات التي لا يجاوزهن بر ولا فاجر من شر ما خلق وبرا وذرا ومن شر ما ينزل من السماء ومن شر ما يعرج فيها ومن شر ما ذرا في الارض ومن شر ما يخرج منها ومن شر فتن الليل والنهار ومن شر كل طارق الا طارقا يطرق بخير يارحمن",
+        "transliteration": "A‛oodhu bikalima-tillahit taamma-tillati la-yujawizuhunna barrun wala-fa-jirun, min sharri ma- khalaqa wa bara-aa wa dhara-aa, wa min sharri ma yanzilu minas sama-yi wa min Sharhri Ma Ya’ruju fi-haa, Wa Min sharri maa dhara-a fil ardhi,Wa Min sharri Ma Ya'khruju Minhha-, Wa Min sharri Fitanillali Wan Naha-ri, Wa Min sharri Kulli Ta-Riqin Illa- Tariqan Yatruqu Bikhairin Ya-Rahmaan",
+        "reference": "Sahih (Arnaut). Ahmed: 15499",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #13",
+        "content": null,
+        "translation": "I seek refuge in the perfect words of Allah, which no virtuous person or sinner can overcome, from the evil of what He has created, created and spread, from the evil of that which descends from heaven, from the evil of that which ascends to heaven. From the evil of whatever is scattered in the earth, from the evil of whatever comes out of the earth, from the evil of the fitnah of night and day, and from the evil of all strangers, except the one who comes with goodness, O Most Merciful.",
+        "note": "Abdur Rahman Ibn Khanbash (RA) said, \"One night the devil jinn came forward to attack the Prophet (ﷺ) in the desert with fire. Then Jibriel (As) came and taught him this dua. As soon as the dua is recited, the fire of the devils is extinguished and they flee.”"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        135
+      ],
+      "id": 135,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 135,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ وَضَعْتُ جَنْبِى اَللَّهُمَّ اغْفِرْ لِي ذَنْبِيْ وَأَخْسِئْ شَيْطَانِيْ وَفُكَّ رِهَانِيْ وَاجْعَلْنِيْ فِي النَّدِىِّ الْأَعْلَى",
+        "indopak": "بِسْمِ اللّٰهِ وَضَعْتُ جَنْۢبِىْ اَللّٰهُمَّ اغْفِرْ لِيْ ذَنْۢبِىْ وَاَخْسِئْ شَيْطَانِيْ وَفُكَّ رِهَانِىْ وَاجْعَلْنِيْ فِيْ النَّدِىِّ الْاَعْلٰى",
+        "clean": "بسم الله وضعت جنبي اللهم اغفر لي ذنبي واخسء شيطاني وفك رهاني واجعلني في الندي الاعلي",
+        "transliteration": "Bismillaahi wada‘tu janbi, Allahum-maghfir li dhanbi wa akhsi’ shaytaani wa fukka rihaani waj‘alni fi’n-nadiyyi al-a‘laa",
+        "reference": "Sahih (Albani). Sunan Abu Dawud: 5054",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #14",
+        "content": null,
+        "translation": "In the name of Allah, I have laid down my side for Allah. O Allah! forgive my sin, drive away my devil, free me from my responsibility, and place me in the highest assembly.",
+        "note": "Abul Azhar Anmari (RA)  said that the Prophet (ﷺ) used to say these words when he was lying in bed at night."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        136
+      ],
+      "id": 136,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 136,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِيْ إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ",
+        "indopak": "اَللّٰهُمَّ اَسْلَمْتُ نَفْسِيْ اِلَيْكَ، وَفَوَّضْتُ اَمْرِيْ اِلَيْكَ، وَوَجَّهْتُ وَجْهِيَ اِلَيْكَ، وَالْجَأْتُ ظَهْرِيْ اِلَيْكَ، رَغْبَةً وَّرَهْبَةً اِلَيْكَ، لَا مَلْجَاَ وَلَا مَنْجَا مِنْكَ اِلَّا اِلَيْكَ، اٰمَنْتُ بِكِتَابِكَ الَّذِيْ اَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِيْ اَرْسَلْتَ",
+        "clean": "اللهم اسلمت نفسي اليك وفوضت امري اليك ووجهت وجهي اليك والجات ظهري اليك رغبه ورهبه اليك لا ملجا ولا منجا منك الا اليك امنت بكتابك الذي انزلت وبنبيك الذي ارسلت",
+        "transliteration": "Allaahumma 'aslamtu nafsee 'ilayka, wa fawwadhtu 'amree 'ilayka, wa wajjahtu wajhee 'ilayka, wa 'alja'tu dhahree 'ilayka, raghbatan wa rahbatan 'ilayka, laa maalja' wa laa manjaa minka 'illaa 'ilayka, 'aamantu bikitaabikal-ladhee 'anzalta wa bi-nabiyyikal-ladhee 'arsalta",
+        "reference": "Al-Bukhari, Fathul Bari 11/113 no. 6313, Muslim 4/2081 no. 2710",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Dua and remembrance before sleeping #15",
+        "content": "The Prophet (ﷺ) said, \"If you want to go to your bed, then perform ablution, lie on your right side and then supplicate:",
+        "translation": "O Allah, I submit my soul unto You, and I entrust my affair unto You, and I turn my face towards You, and I totally rely on You, in hope and fear of You. Verily there is no refuge nor safe haven from You except with You. I believe in Your Book which You have revealed and in Your Prophet whom You have sent.",
+        "note": "The Prophet (ﷺ) said to the person to whom he taught this Dua: If you die that night, you die on Fitrat, the religion of Islam."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        137
+      ],
+      "id": 137,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 137,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Hasan (Albani). Nasai: 1787",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Going around with the intention of pray Qiyam",
+        "content": "One has to get up at night and go to sleep with a strong desire to perform tahajjud; It has been said in various hadiths that the reward of tahajjud will be obtained even if one does not wake up at night. It was narrated from Abu Ad-Darda' (RA) who attributed it to the Prophet (ﷺ): \"Whoever goes to his bed intending to get up and pray qiyam at night, then sleep overwhelms him until morning, will have recorded that which he intended for and his sleep will be a charity given to him by his Lord.\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        138
+      ],
+      "id": 138,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 138,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ الْوَاحِدُ الْقَهَّارُ، رَبُّ السَّمَوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الْعَزِيزُ الْغَفَّارُ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ الْوَاحِدُ الْقَهّارُ، رَبُّ السَّمَاوَاتِ وَالْاَرْضِ وَمَا بَيْنَهُمَا الْعَزِيْزُ الْغَفَّارُ",
+        "clean": "لا اله الا الله الواحد القهار رب السماوات والارض وما بينهما العزيز الغفار",
+        "transliteration": "Laa 'ilaaha 'illAllahul-Waahidul-Qahhaar, Rabbus-samaawaati wal'ardh, wa maa baynahumal-'Azeezul-Ghaffaar",
+        "reference": "Sahih by Hakim. Imam Dhahabi 1/540; Nasai, Amalul Yaomi Wallayla No. 202, Ibnus sunni No. 757. Also see, Sahih Jame 4:213",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 15
+      },
+      "source": {
+        "name": "When turning over during the night",
+        "content": null,
+        "translation": "There is none worthy of worship but Allah, the One, the Victorious, Lord of the heavens and the earth and all that is between them, the All-Mighty, the All-Forgiving.",
+        "note": "Aaishah (RA) narrated that the Messenger of Allah (ﷺ) used to say at night if he turned during sleep: (the dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        139
+      ],
+      "id": 139,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 139,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ، سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيْمِ، رَبِّ اغْفِرْ لِي",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ، سُبْحَانَ اللّٰهِ، وَالْحَمْدُ لِلّٰهِ، وَلَا اِلٰهَ اِلَّا اللّٰهُ، وَاللّٰهُ اَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ الْعَلِيِّ الْعَظِيْمِ، رَبِّ اغْفِرْ لِيْ",
+        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد وهو علي كل شيء قدير سبحان الله والحمد لله ولا اله الا الله والله اكبر ولا حول ولا قوه الا بالله العلي العظيم رب اغفر لي",
+        "transliteration": "Laa 'illaaha 'illAllahu wa’hdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu, wa Huwa 'alaa kulli shay'in Qadeer Subhaanallahi, walhamdu lillaahi, wa laa 'ilaaha 'illAllahu, wAllahu 'akbar, wa laa ‘hawla wa laa Quwwata 'illaa billaahil-'Aliyyil-'Adheem, Rabbighfir lee",
+        "reference": "Sahih (Albani). Abu Dawud: 5060",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 15
+      },
+      "source": {
+        "name": "Dua when waking up at night #1",
+        "content": null,
+        "translation": "None has the right to be worshipped except Allah, alone, without any partner, to Him belong sovereignty and praise and He is over all things wholly capable. How perfect Allah is, and all praise is for Allah, and none has the right to be worshipped except Allah, Allah is the greatest and there is no power nor might except with Allah, The Most High, The Supreme, O my Lord forgive me.",
+        "note": "‘Ubadah bin al-Samit (RA) reported the Messenger of Allah (ﷺ) as saying, “If anyone is alarmed while asleep and he says when awakes and he prays, his prayer will be answered. If he gets up, performs ablution, and prays, his prayer will be accepted.”"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    }
+  ]
+}

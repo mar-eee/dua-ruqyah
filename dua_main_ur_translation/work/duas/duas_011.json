@@ -1,0 +1,332 @@
+{
+  "table": "duas",
+  "chunk": "duas_011.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 10,
+  "id_range": "140-149",
+  "source_chars": 5698,
+  "items": [
+    {
+      "key": [
+        140
+      ],
+      "id": 140,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 140,
+        "groups": null,
+        "uthmani": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ ﴿١٩٠﴾ الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ ﴿١٩١﴾ رَبَّنَا إِنَّكَ مَن تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ ۖ وَمَا لِلظَّالِمِينَ مِنْ أَنصَارٍ ﴿١٩٢﴾ رَّبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ آمِنُوا بِرَبِّكُمْ فَآمَنَّا ۚ رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ ﴿١٩٣﴾ رَبَّنَا وَآتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ ۗ إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ ﴿١٩٤﴾ فَاسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّي لَا أُضِيعُ عَمَلَ عَامِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّن بَعْضٍ ۖ فَالَّذِينَ هَاجَرُوا وَأُخْرِجُوا مِن دِيَارِهِمْ وَأُوذُوا فِي سَبِيلِي وَقَاتَلُوا وَقُتِلُوا لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ثَوَابًا مِّنْ عِندِ اللَّهِ ۗ وَاللَّهُ عِندَهُ حُسْنُ الثَّوَابِ ﴿١٩٥﴾ لَا يَغُرَّنَّكَ تَقَلُّبُ الَّذِينَ كَفَرُوا فِي الْبِلَادِ ﴿١٩٦﴾ مَتَاعٌ قَلِيلٌ ثُمَّ مَأْوَاهُمْ جَهَنَّمُ ۚ وَبِئْسَ الْمِهَادُ ﴿١٩٧﴾ لَٰكِنِ الَّذِينَ اتَّقَوْا رَبَّهُمْ لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ اللَّهِ ۗ وَمَا عِندَ اللَّهِ خَيْرٌ لِّلْأَبْرَارِ ﴿١٩٨﴾ وَإِنَّ مِنْ أَهْلِ الْكِتَابِ لَمَن يُؤْمِنُ بِاللَّهِ وَمَا أُنزِلَ إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ خَاشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِآيَاتِ اللَّهِ ثَمَنًا قَلِيلًا ۗ أُولَٰئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ ۗ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ ﴿١٩٩﴾ يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ ﴿٢٠٠﴾",
+        "indopak": "اِنَّ فِیْ خَلْقِ السَّمٰوٰتِ وَالْاَرْضِ وَاخْتِلَافِ الَّیْلِ وَالنَّهَارِ لَاٰیٰتٍ لِّاُولِی الْاَلْبَابِ ﴿۱۹۰﴾ۚۙ الَّذِیْنَ یَذْكُرُوْنَ اللّٰهَ قِیٰمًا وَقُعُوْدًا وَعَلٰی جُنُوْبِهِمْ وَیَتَفَكَّرُوْنَ فِیْ خَلْقِ السَّمٰوٰتِ وَالْاَرْضِ ۚ رَبَّنَا مَا خَلَقْتَ هٰذَا بَاطِلًا ۚ سُبْحٰنَكَ فَقِنَا عَذَابَ النَّارِ ﴿۱۹۱﴾ رَبَّنَاۤ اِنَّكَ مَنْ تُدْخِلِ النَّارَ فَقَدْ اَخْزَیْتَهٗ ؕ وَمَا لِلظّٰلِمِیْنَ مِنْ اَنْصَارٍ ﴿۱۹۲﴾ رَبَّنَاۤ اِنَّنَا سَمِعْنَا مُنَادِیًا یُّنَادِیْ لِلْاِیْمَانِ اَنْ اٰمِنُوْا بِرَبِّكُمْ فَاٰمَنَّا ٭ۖ رَبَّنَا فَاغْفِرْ لَنَا ذُنُوْبَنَا وَكَفِّرْ عَنَّا سَیِّاٰتِنَا وَتَوَفَّنَا مَعَ الْاَبْرَارِ ﴿۱۹۳﴾ۚ رَبَّنَا وَاٰتِنَا مَا وَعَدْتَّنَا عَلٰی رُسُلِكَ وَلَا تُخْزِنَا یَوْمَ الْقِیٰمَةِ ؕ اِنَّكَ لَا تُخْلِفُ الْمِیْعَادَ ﴿۱۹۴﴾ فَاسْتَجَابَ لَهُمْ رَبُّهُمْ اَنِّیْ لَاۤ اُضِیْعُ عَمَلَ عَامِلٍ مِّنْكُمْ مِّنْ ذَكَرٍ اَوْ اُنْثٰی ۚ بَعْضُكُمْ مِّنْۢ بَعْضٍ ۚ فَالَّذِیْنَ هَاجَرُوْا وَاُخْرِجُوْا مِنْ دِیَارِهِمْ وَاُوْذُوْا فِیْ سَبِیْلِیْ وَقٰتَلُوْا وَقُتِلُوْا لَاُكَفِّرَنَّ عَنْهُمْ سَیِّاٰتِهِمْ وَلَاُدْخِلَنَّهُمْ جَنّٰتٍ تَجْرِیْ مِنْ تَحْتِهَا الْاَنْهٰرُ ۚ ثَوَابًا مِّنْ عِنْدِ اللّٰهِ ؕ وَاللّٰهُ عِنْدَهٗ حُسْنُ الثَّوَابِ ﴿۱۹۵﴾ لَا یَغُرَّنَّكَ تَقَلُّبُ الَّذِیْنَ كَفَرُوْا فِی الْبِلَادِ ﴿۱۹۶﴾ؕ مَتَاعٌ قَلِیْلٌ ۟ ثُمَّ مَاْوٰىهُمْ جَهَنَّمُ ؕ وَبِئْسَ الْمِهَادُ ﴿۱۹۷﴾ لٰكِنِ الَّذِیْنَ اتَّقَوْا رَبَّهُمْ لَهُمْ جَنّٰتٌ تَجْرِیْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِیْنَ فِیْهَا نُزُلًا مِّنْ عِنْدِ اللّٰهِ ؕ وَمَا عِنْدَ اللّٰهِ خَیْرٌ لِّلْاَبْرَارِ ﴿۱۹۸﴾ وَاِنَّ مِنْ اَهْلِ الْكِتٰبِ لَمَنْ یُّؤْمِنُ بِاللّٰهِ وَمَاۤ اُنْزِلَ اِلَیْكُمْ وَمَاۤ اُنْزِلَ اِلَیْهِمْ خٰشِعِیْنَ لِلّٰهِ ۙ لَا یَشْتَرُوْنَ بِاٰیٰتِ اللّٰهِ ثَمَنًا قَلِیْلًا ؕ اُولٰٓئِكَ لَهُمْ اَجْرُهُمْ عِنْدَ رَبِّهِمْ ؕ اِنَّ اللّٰهَ سَرِیْعُ الْحِسَابِ ﴿۱۹۹﴾ یٰۤاَیُّهَا الَّذِیْنَ اٰمَنُوا اصْبِرُوْا وَصَابِرُوْا وَرَابِطُوْا ۟ وَاتَّقُوا اللّٰهَ لَعَلَّكُمْ تُفْلِحُوْنَ ﴿۲۰۰﴾٪",
+        "clean": "ان ف خلق السموت والارض واختلاف الل والنهار لات لاول الالباب  الذن ذكرون الله قما وقعودا وعل جنوبهم وتفكرون ف خلق السموت والارض  ربنا ما خلقت هذا باطلا  سبحنك فقنا عذاب النار  ربنا انك من تدخل النار فقد اخزته  وما للظلمن من انصار  ربنا اننا سمعنا منادا ناد للامان ان امنوا بربكم فامنا  ربنا فاغفر لنا ذنوبنا وكفر عنا ساتنا وتوفنا مع الابرار  ربنا واتنا ما وعدتنا عل رسلك ولا تخزنا وم القمه  انك لا تخلف المعاد  فاستجاب لهم ربهم ان لا اضع عمل عامل منكم من ذكر او انث  بعضكم من بعض  فالذن هاجروا واخرجوا من دارهم واوذوا ف سبل وقتلوا وقتلوا لاكفرن عنهم ساتهم ولادخلنهم جنت تجر من تحتها الانهر  ثوابا من عند الله  والله عنده حسن الثواب  لا غرنك تقلب الذن كفروا ف البلاد  متاع قلل  ثم ماويهم جهنم  وبءس المهاد  لكن الذن اتقوا ربهم لهم جنت تجر من تحتها الانهر خلدن فها نزلا من عند الله  وما عند الله خر للابرار  وان من اهل الكتب لمن ءمن بالله وما انزل الكم وما انزل الهم خشعن لله  لا شترون بات الله ثمنا قللا  اولءك لهم اجرهم عند ربهم  ان الله سرع الحساب  اها الذن امنوا اصبروا وصابروا ورابطوا  واتقوا الله لعلكم تفلحون ",
+        "transliteration": null,
+        "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 8/237 no.4569; Muslim 1/530 no. 256",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 15
+      },
+      "source": {
+        "name": "Dua when waking up at night #2",
+        "content": "Waking up and performing ablution and reciting the last ten verses of Surah Ali-Imran:",
+        "translation": "(190) Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding. (191) Who remember Allah while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], \"Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire. (192) Our Lord, indeed whoever You admit to the Fire -  You have disgraced him, and for the wrongdoers there are no helpers. (193) Our Lord, indeed we have heard a caller calling to faith, [saying], 'Believe in your Lord,' and we have believed. Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die with the righteous. (194) Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise.\" (195) And their Lord responded to them, \"Never will I allow to be lost the work of [any] worker among you, whether male or female; you are of one another. So those who emigrated or were evicted from their homes or were harmed in My cause or fought or were killed -  I will surely remove from them their misdeeds, and I will surely admit them to gardens beneath which rivers flow as reward from Allah, and Allah has with Him the best reward.\" (196) Be not deceived by the [uninhibited] movement of the disbelievers throughout the land. (197) [It is but] a small enjoyment; then their [final] refuge is Hell, and wretched is the resting place. (198) But those who feared their Lord will have gardens beneath which rivers flow, abiding eternally therein, as accommodation from Allah . And that which is with Allah is best for the righteous. (199) And indeed, among the People of the Scripture are those who believe in Allah and what was revealed to you and what was revealed to them, [being] humbly submissive to Allah . They do not exchange the verses of Allah for a small price. Those will have their reward with their Lord. Indeed, Allah is swift in account. (200) O you who have believed, persevere and endure and remain stationed and fear Allah that you may be successful. (Sura Al-Imran 3: 190-200)",
+        "note": "Then the Prophet (ﷺ) stood up and prayed two rak'ats; In that prayer he prolongs Qiyam, Rukoo and Sujood. After ending the prayer he fell asleep ...."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        141
+      ],
+      "id": 141,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 141,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا، وَإِلَيْهِ النُّشُوْرُ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ اَحْيَانَا بَعْدَ مَا اَمَاتَنَا، وَاِلَيْهِ النُّشُوْرُ",
+        "clean": "الحمد لله الذي احيانا بعد ما اماتنا واليه النشور",
+        "transliteration": "Alhamdu lillaahil-ladhee 'ahyaanaa ba'da maa 'amaatanaa wa'ilayhin-nushoor",
+        "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 11/113 no. 6314; Muslim 4/2083 no. 2711",
+        "audio": 141,
+        "cat_id": 6,
+        "subcat_id": 15
+      },
+      "source": {
+        "name": "Dua after waking up #3",
+        "content": null,
+        "translation": "All praise is for Allah who gave us life after having taken it from us and unto Him is the resurrection.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        142
+      ],
+      "id": 142,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 142,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِي عَافَانِيْ فِي جَسَدِيْ، وَرَدَّ عَلَيَّ رُوحِيْ، وَأَذِنَ لِي بِذِكْرِهِ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ عَافَانِيْ فِيْ جَسَدِيْ، وَرَدَّ عَلَيَّ رُوْحِيْ، وَاَذِنَ لِيْ بِذِكْرِهٖ",
+        "clean": "الحمد لله الذي عافاني في جسدي ورد علي روحي واذن لي بذكره",
+        "transliteration": "Alhamdu lillaahil-ladhee 'aafaanee fee jasadee, wa radda 'alayya roo’hee, wa 'adhina lee bidhikrih",
+        "reference": "At-Tirmithi 5/473. See Al-Albani's Sahih Tirmiihi 3/144",
+        "audio": 142,
+        "cat_id": 6,
+        "subcat_id": 15
+      },
+      "source": {
+        "name": "Dua after waking up #4",
+        "content": "The Prophet (ﷺ) said: when one of you wakes up, he should say:",
+        "translation": "Praise is to Allah Who gave strength to my body and returned my soul to me and permitted me to remember Him.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        143
+      ],
+      "id": 143,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 143,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 1142",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 15
+      },
+      "source": {
+        "name": "Remembering Allah after waking up",
+        "content": "Narrated Abu Huraira (RA): Allah's Messenger (ﷺ) said, \"Satan puts three knots at the back of the head of any of you if he is asleep. On every knot he reads and exhales the following words, 'The night is long, so stay asleep.' When one wakes up and remembers Allah, one knot is undone; and when one performs ablution, the second knot is undone, and when one prays the third knot is undone and one gets up energetic with a good heart in the morning; otherwise one gets up lazy and with a mischievous heart.\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        144
+      ],
+      "id": 144,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 144,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "indopak": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اعوذ بالله من الشيطان الرجيم",
+        "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
+        "reference": "[1] Bukhari: 7044\n[2] Muslim: 6041\n[3] Sahih (Albani). Tirmidhi: 2280",
+        "audio": 144,
+        "cat_id": 6,
+        "subcat_id": 15
+      },
+      "source": {
+        "name": "Upon seeing a good or a bad dream",
+        "content": "If you have a bad dream in your sleep, you should spit three times on the left side, then say three times -",
+        "translation": "I seek refuge in Allah from Satan the outcast.",
+        "note": "One need to change sides in their sleep. It is forbidden to tell this dream in front of anyone. Even if you have good dreams, you don't have to tell anyone. But it can be said in front of a close friend or in front of wise people.\n\nNarrated Abu Qatadah (RA): The Prophet (ﷺ) said: A good dream is from Allah. And bad dreams are from the devil. So whoever has a good dream, let him reveal it to the one he loves. And if anyone has a bad dream, let him seek refuge in Allah from its harm and from the evil of Satan, and spit three times to the left. Don't reveal the dream to anyone. Then it will not be able to harm him. [1]\n\nJarir (RA)  said, Rasulullah (ﷺ) said, when one of you has a dream that he dislikes, he should spit three times to his left. And he seeks refuge in Allah from Satan three times and changes sides. [2]\n\nAbu Hurairah (RA)  said: The Messenger of Allah (ﷺ) said: If a person has a bad dream, he should get up and pray two rak'ahs. [3]"
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        145
+      ],
+      "id": 145,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 145,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 5747",
+        "audio": null,
+        "cat_id": 6,
+        "subcat_id": 15
+      },
+      "source": {
+        "name": "Dua related to dreams",
+        "content": "The Messenger of Allah (ﷺ) said - \"A good dream is from Allah, and a bad dream is from Satan. So if anyone of you sees (in a dream) something he dislikes, when he gets up he should blow thrice (on his left side) and seek refuge with Allah from its evil for then it will not harm him.\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        146
+      ],
+      "id": 146,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 146,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِي كَسَانِيْ هَذَا الثَّوْبَ وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّيْ وَلَا قُوَّةٍ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ كَسَانِيْ هَذَا الثَّوْبَ وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِّنِّيْ وَلَا قُوَّةٍ",
+        "clean": "الحمد لله الذي كساني هذا الثوب ورزقنيه من غير حول مني ولا قوه",
+        "transliteration": "Alhamdu lillaahil-ladhee kasaanee haadhaa aththawba wa razaqaneehi min ghayri hawlim-minnee wa laa quwwah",
+        "reference": "Hasan (Albani). Abu Dawud: 4023",
+        "audio": 146,
+        "cat_id": 7,
+        "subcat_id": 16
+      },
+      "source": {
+        "name": "Dua when putting on a garment",
+        "content": null,
+        "translation": "All Praise is for Allah who has clothed me with this garment and provided it for me, with no power nor might from myself.",
+        "note": "The Prophet (ﷺ) said, \"If anyone says this while wearing clothes, his previous sins will be forgiven.\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        147
+      ],
+      "id": 147,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 147,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ كَسَوْتَنِيْهِ أَسْأَلُكَ خَيْرَهُ وَخَيْرَ مَا صُنِعَ لَهُ وَأَعُوْذُ بِكَ مِنْ شَرِّهِ وَشَرِّ مَا صُنِعَ لَهُ",
+        "indopak": "اَللّٰهُمَّ لَكَ الْحَمْدُ اَنْتَ كَسَوْتَنِيْهِ اَسْاَلُكَ خَيْرَهٗ وَخَيْرَ مَا صُنِعَ لَهٗ  وَاَعُوْذُ بِكَ مِنْ شَرِّهٖ  وَشَرِّ مَا صُنِعَ لَهٗ",
+        "clean": "اللهم لك الحمد انت كسوتنيه اسالك خيره وخير ما صنع له  واعوذ بك من شره  وشر ما صنع له",
+        "transliteration": "Allaahumma lakal-hamdu 'Anta kasawtaneehi, 'as'aluka khayrahu wa khayra maa suni'a lahu, wa 'a'oodhu bika min sharrihi wa sharri ma suni'a lahu",
+        "reference": "Sahih (Albani). Tirmidhi: 1767",
+        "audio": 147,
+        "cat_id": 7,
+        "subcat_id": 16
+      },
+      "source": {
+        "name": "Dua when putting on a new garment",
+        "content": null,
+        "translation": "O Allah, for You is all praise, You have clothed me with it, I ask You for the good of it and the good for which it was made, and I seek refuge with You from the evil of it and the evil for which it was made.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        148
+      ],
+      "id": 148,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 148,
+        "groups": null,
+        "uthmani": "تُبْلَی وَيُخْلِفُ اللَّهُ تَعَالَی",
+        "indopak": "تُبْلٰی وَيُخْلِفُ اللّٰهُ تَعَالٰی",
+        "clean": "تبل ويخلف الله تعال",
+        "transliteration": "Tubla- wa yukhliful-laahu ta'aalaa",
+        "reference": "Sahih (Albani). Abu Dawud: 4020",
+        "audio": 148,
+        "cat_id": 7,
+        "subcat_id": 16
+      },
+      "source": {
+        "name": "Dua said to someone seen wearing a new garment",
+        "content": null,
+        "translation": "May you wear it out and Allah (Ta'aala) replace it [with another].",
+        "note": "The Companions used to make this dua when they saw someone wearing new clothes."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        149
+      ],
+      "id": 149,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 149,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّه",
+        "indopak": "بِسْمِ اللّٰهِ",
+        "clean": "بسم الله",
+        "transliteration": "Bismillaah",
+        "reference": "Sahih (Albani). Tirmidhi: 606",
+        "audio": 149,
+        "cat_id": 7,
+        "subcat_id": 16
+      },
+      "source": {
+        "name": "Dua before undressing",
+        "content": null,
+        "translation": "In the name of Allah.",
+        "note": "The Messenger of Allah (ﷺ) said: When one of you undresses or is uncovered, the veil between the human genitals and the eyes of the jinn is called 'Bismillah'."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    }
+  ]
+}

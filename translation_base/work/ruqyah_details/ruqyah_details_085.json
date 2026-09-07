@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_085.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "169-170",
+  "source_chars": 4637,
+  "items": [
+    {
+      "key": [
+        169
+      ],
+      "id": 169,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 169,
+        "topic_id": null,
+        "cat_id": 14,
+        "subcat_id": 141
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Instead of depending on our own opinions in favor of cupping, we must see the following ahadith that are enough to explain its importance.\n\n“Indeed in hijama (cupping) there is a cure”. – Saheeh Muslim.\n\n“Indeed, the best of remedies you have is hijama (cupping)”. – Saheeh Al Bukhari.\n\n“Hijama is the most helpful procedure for human beings to cure themselves”. – Saheeh Al Bukhari and Saheel Muslim.\n\nThe importance of hijama in the divine guidance can further be stressed by the following words which were related to the Prophet SAW on the night of Israa (ascension to the heaven) by angles: “O Mohammed, encourage your ummah (people) to do hijama (cupping)”. – Saheeh, Sunan Tirmidhi.\n\nThe Prophet Muhammad (Allah’s peace be upon him) is reported to have had hijama performed on his head for a headache [Bukhari], on his foot after a sprain [Ibn Majah], on his neck [Abu Dawud], on his hip for hip pain [Abu Dawud] and between his shoulders for detoxification [Ahmed].\n\nAbdullah ibn Abbas (RA) reported that the Prophet (Allah’s peace be upon him) said: “I did not pass by an angel from the angels on the night journey except that they all said to me: Upon you is cupping (hijama), O Muhammad.” [Saheeh, Sunan ibn Majah]\n\n“The best medicine with which you treat yourselves is cupping, or it is one of the best of your medicines.” Or “The treatment for you is cupping.” [Bukhari: 5371]\n\n“Cupping is the most helpful procedure for human beings to cure themselves.” [Bukhari and Muslim]\n\nAbu Hurairah (RA) reported that the Messenger (Allah’s peace be upon him) said, “If there was something excellent to be used as a remedy then it is cupping (hijama).” [Sunan Abu Dawud, Sunan Ibn Majah]"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        170
+      ],
+      "id": 170,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 170,
+        "topic_id": 1,
+        "cat_id": 14,
+        "subcat_id": 142
+      },
+      "source": {
+        "topic_name": "Introduction",
+        "text": "The simplest method of Hijamah is that used for general health promotion and the Nabi (SAW) used the most common method. In this type of Hijamah there is no serious complaint by the patient that would warrant a special type of Hijamah or the use of \"special\" Hijamah points other than the standard points on the back, neck or head. This is traditionally termed as Hijamah-bi-Sihhat (Hijamah in the condition of health), many also refer to it as \"sunnah cupping\". Both terms are not correct however as the Rasul of Allaah (SAW) had cupping done both in health and as a treatment for particular pains and ailments, and it is also rare to find someone nowadays with absolutely no illness. I prefer the term Hijamah in strength, referring to performing Hijamah for someone who is of general good health and strength.\n\nSuch a patient may however complain of general symptoms such as a feeling of sluggishness, tiredness etc, they may also have a regular habit of doing Hijamah and are aware of the benefits it has for them personally, or they are trying this method of health preservation for the first time under recommendation from their friends or acquaintances. Their general health is good, and very importantly their pulse is strong indicating a healthy amount of blood and also a good amount of heat in the blood. They may also be suffering from a constitutional blood or heat excess as is common in hot climates.\n\nIf the pulse is weak or deep then this type of Hijamah is not indicated as it means that there is deficient blood or the heat of the body is internal and not in the exterior parts of the body. (The method of feeling and interpreting the pulse is detailed in the Hijamah Treatment Guide for Practitioners)\n\nIn this type of Hijamah care is taken to observe the rules of Hijamah with regard to the condition of the patient, as well as the season, climate, day of the lunar month and time of the day in which Hijamah is performed as this greatly influences the nature of blood that will be removed. Not observing these and performing this type of general Hijamah outside of its recommended times will not result in any benefit for the patient and will very often result in long term harm for the patients health. This may not be apparent immediately after the procedure, but will be noticed in the months and even years to come afterward.\n\n<b>When applying Hijamah in the condition of strength the areas being cupped are standard, these are mentioned in the Ahadeeth:</b>\n\n\nAbu Kabsha (Radhiallaahu Anhu) narrates that Rasulullaah (Sallallaahu Alayhi Wasallam) used to undergo cupping on the head and between his shoulders and he used to say, 'Whosoever removes this blood, it will not harm him that he does not take any other medical treatment.' (Mishkāt p. 389)\n\n<b>From examining the various Ahadeeth and by consensus of those experienced practitioners of Hijamah the areas used in this general form of Hijamah are;</b>"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    }
+  ]
+}

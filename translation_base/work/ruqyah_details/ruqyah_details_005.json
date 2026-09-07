@@ -1,0 +1,55 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_005.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "9-10",
+  "source_chars": 4697,
+  "items": [
+    {
+      "key": [
+        9
+      ],
+      "id": 9,
+      "part": 4,
+      "of": 4,
+      "frozen": {
+        "id": 9,
+        "topic_id": null,
+        "cat_id": 1,
+        "subcat_id": 9
+      },
+      "source": {
+        "text": "Furthermore, it is better to drink the water than use it to perform Ghusl (ritual bathing). It was reported on the authority of Imaam Ahmad, may Allaah have mercy upon him, that it was disliked to use this water to perform Ghusl. The Hanbali Scholar, Ibn Muflih, may Allaah have mercy upon him, mentioned that Al-Khallaal, may Allaah have mercy upon him, explained that the reason behind this ruling was that the water used in Ghusl moves in sewers in dirty places, therefore, Quranic water must be safeguarded from this, whereas drinking it is not disliked since it is therapeutic.\n\nAnother prerequisite is that the written item must be from the Quran, Athkaar (remembrances and mentionings of Allaah) or comprehensible supplications. Using talismans, polytheistic spells or incomprehensible words are not permissible. It was reported on the authority of ‘Awf ibn Maalik, may Allaah be pleased with him, that he asked the Prophet, sallallahu ‘alayhi wa sallam, about the Ruqyah s of the pre-Islamic era, and the Prophet, sallallahu ‘alayhi wa sallam, answered that they were permissible as long as they did not include any form of polytheism. [Muslim and Abu Daawood]\n\nQuoting this Hadeeth, Ash-Shawkaani, may Allaah have mercy upon him, mentioned that it was permissible to make Ruqyah and seek remedy with things that bring no harm and do not contradict the Sharee'ah, even if they are not the Names of Allaah The Almighty or verses of the Quran. However, they must be comprehensible; otherwise, they might include polytheism."
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        10
+      ],
+      "id": 10,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 10,
+        "topic_id": null,
+        "cat_id": 1,
+        "subcat_id": 10
+      },
+      "source": {
+        "topic_name": null,
+        "text": "The correct way to perform Ruqyah for a small child in order to protect him is what the Prophet (ﷺ) used to do for his (grand) sons al-Hasan and al-Husayn (may Allah be pleased with them).\n\nAl-Bukhaari (3371) narrated that Ibn ‘Abbaas (RA) said: The Prophet (ﷺ) used to seek refuge with Allah for al-Hasan and al-Husayn, and he said: “Your father (Ibraaheem) used to seek refuge with (these words) for Ismaa‘eel and Ishaaq:\n\n<ar> أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ </ar>\n\n<i><b>Transliteration:</b> A‘oodhu bi kalimaat Illaahi’t-taammah min kulli shaytaanin wa haammah wa min kulli ‘aynin laammah.</i>\n\n<b>Translation:</b> I seek refuge in the perfect words of Allaah from every devil and every vermin, and from every bad eye. \n\n<b>Ibn Hajar said in Fath al-Baari (6/410):</b>\n\n\nThe word “haammah (vermin)” refers to poisonous things.\n\nThe words “from every bad eye” – al-Khattaabi (R) said: What is meant by this is every disease and ailment that may affect a person of insanity and confusion. End quote. \n\nIt is also mustahabb when performing Ruqyah for children to recite al-Mu‘awwidhatayn (the last two soorahs of the Qur’an) over them and to wipe their bodies whilst reciting, or to recite them into one’s hands and blow in them, spitting lightly, then wipe them over whatever of their body one can reach, or to recite them into water and wipe them or wash them with it. The Prophet (ﷺ) used to seek refuge for himself and others by means of these two soorahs.\n\nIt was narrated that Abu Sa‘eed al-Khudri (RA) said: The Messenger of Allah (ﷺ) used to seek refuge with Allah from the jinn and people’s eyes (i.e., the evil eye) until the Mu‘aawidhatayn were revealed, then when they were revealed he began to recite them for protection and stopped reciting anything else.\n\nNarrated by at-Tirmidhi (2058); classed as saheeh by al-Albaani in Saheeh at-Tirmidhi.\n\nBlowing with a little saliva after reciting the Mu‘aawidhatayn is taken from the practice of the Prophet (ﷺ) just before going to sleep. He used to recite them into his hands and blow into them, then wipe his body with his hands. When he fell sick, ‘Aa’ishah used to do that for him, which indicates that in the case of a small child, his mother can recite the Mu‘aawidhatayn and blow (into her hands) and wipe his body with them.\n\nIt was narrated that ‘Aa’ishah (may Allah be pleased with her) said: When the Messenger of Allah (ﷺ) went to his bed, he would blow into his hands after reciting Qul Huwa Allaahu Ahad (Soorat al-Ikhlaas) and the Mu‘aawidhatayn, then he would wipe his face and whatever he could reach of his body with his hands. ‘Aa’ishah said: And when he fell sick, he would tell me to do that for him. Narrated by al-Bukhaari (5748). \n\nWith regard to the adkhaar for the morning and evening, there is no report – as far as we know – to suggest that they may be recited over others with the intention of performing Ruqyah, so we do not advise you to carry on doing that; rather you should limit it to what has been proven from the Prophet (ﷺ), for that is sufficient. The best of guidance is the guidance of Muhammad (ﷺ)."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

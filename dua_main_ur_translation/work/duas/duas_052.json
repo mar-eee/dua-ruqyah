@@ -1,0 +1,332 @@
+{
+  "table": "duas",
+  "chunk": "duas_052.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 10,
+  "id_range": "784-793",
+  "source_chars": 5842,
+  "items": [
+    {
+      "key": [
+        784
+      ],
+      "id": 784,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 784,
+        "groups": null,
+        "uthmani": "إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ ﴿٩﴾ وَمَا جَعَلَهُ اللَّـهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِ قُلُوبُكُمْ ۚ وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّـهِ ۚ إِنَّ اللَّـهَ عَزِيزٌ حَكِيمٌ ﴿١٠﴾",
+        "indopak": "اِذْ تَسْتَغِيْثُوْنَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ اَنِّيْ مُمِدُّكُمْ بِاَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِيْنَ ﴿٩﴾ وَمَا جَعَلَهُ اللّٰهُ اِلَّا بُشْرٰى وَلِتَطْمَئِنَّ بِهٖ قُلُوْبُكُمْ ۚ وَمَا النَّصْرُ اِلَّا مِنْ عِنْدِ اللّٰهِ ۚ اِنَّ اللّٰهَ عَزِيْزٌ حَكِيْمٌ ﴿١٠﴾",
+        "clean": "اذ تستغيثون ربكم فاستجاب لكم اني ممدكم بالف من الملاءكه مردفين ٩ وما جعله الله الا بشري ولتطمءن به قلوبكم  وما النصر الا من عند الله  ان الله عزيز حكيم ١٠",
+        "transliteration": null,
+        "reference": "Surah Al-Anfal 8: 9-10",
+        "audio": null,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Allah responds when his slave invokes him",
+        "content": "Allah says:",
+        "translation": "(9) [Remember] when you asked help of your Lord, and He answered you, \"Indeed, I will reinforce you with a thousand from the angels, following one another.\" (10) And Allah made it not but good tidings and so that your hearts would be assured thereby. And victory is not but from Allah. Indeed, Allah is Exalted in Might and Wise.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        785
+      ],
+      "id": 785,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 785,
+        "groups": null,
+        "uthmani": "وَلَقَدْ نَصَرَكُمُ اللَّـهُ بِبَدْرٍ وَأَنتُمْ أَذِلَّةٌ ۖ فَاتَّقُوا اللَّـهَ لَعَلَّكُمْ تَشْكُرُونَ ﴿١٢٣﴾ إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم بِثَلَاثَةِ آلَافٍ مِّنَ الْمَلَائِكَةِ مُنزَلِينَ ﴿١٢٤﴾ بَلَىٰ ۚ إِن تَصْبِرُوا وَتَتَّقُوا وَيَأْتُوكُم مِّن فَوْرِهِمْ هَـٰذَا يُمْدِدْكُمْ رَبُّكُم بِخَمْسَةِ آلَافٍ مِّنَ الْمَلَائِكَةِ مُسَوِّمِينَ ﴿١٢٥﴾ وَمَا جَعَلَهُ اللَّـهُ إِلَّا بُشْرَىٰ لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُم بِهِ ۗ وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّـهِ الْعَزِيزِ الْحَكِيمِ ﴿١٢٦﴾",
+        "indopak": "وَلَقَدْ نَصَرَكُمُ اللّٰهُ بِبَدْرٍ وَّاَنتُمْ اَذِلَّةٌ ۖ فَاتَّقُوا اللّٰهَ لَعَلَّكُمْ تَشْكُرُوْنَ ﴿١٢٣﴾ اِذْ تَقُوْلُ لِلْمُؤْمِنِيْنَ اَلَنْ يَّكْفِيَكُمْ اَنْ يُّمِدَّكُمْ رَبُّكُمْ بِثَلَاثَةِ اٰلَافٍ مِّنَ الْمَلَائِكَةِ مُنْزَلِيْنَ ﴿١٢٤﴾ بَلٰى ۚ اِنْ تَصْبِرُوْا وَتَتَّقُوْا وَيَأْتُوْكُم مِّنْ فَوْرِهِمْ هٰذَا يُمْدِدْكُمْ رَبُّكُمْ بِخَمْسَةِ اٰلَافٍ مِّنَ الْمَلَائِكَةِ مُسَوِّمِيْنَ ﴿١٢٥﴾ وَمَا جَعَلَهُ اللّٰهُ اِلَّا بُشْرٰى لَكُمْ وَلِتَطْمَئِنَّ قُلُوْبُكُمْ بِهٖ ۗ وَمَا النَّصْرُ اِلَّا مِنْ عِنْدِ اللّٰهِ الْعَزِيْزِ الْحَكِيْمِ ﴿١٢٦﴾",
+        "clean": "ولقد نصركم الله ببدر وانتم اذله  فاتقوا الله لعلكم تشكرون ١٢٣ اذ تقول للمءمنين الن يكفيكم ان يمدكم ربكم بثلاثه الاف من الملاءكه منزلين ١٢٤ بلي  ان تصبروا وتتقوا وياتوكم من فورهم هذا يمددكم ربكم بخمسه الاف من الملاءكه مسومين ١٢٥ وما جعله الله الا بشري لكم ولتطمءن قلوبكم به  وما النصر الا من عند الله العزيز الحكيم ١٢٦",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3: 123-126",
+        "audio": null,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Allah's help #1",
+        "content": null,
+        "translation": "(123) And already had Allah given you victory at [the battle of] Badr while you were few in number. Then fear Allah; perhaps you will be grateful. (124) [Remember] when you said to the believers, \"Is it not sufficient for you that your Lord should reinforce you with three thousand angels sent down? (125) Yes, if you remain patient and conscious of Allah and the enemy come upon you [attacking] in rage, your Lord will reinforce you with five thousand angels having marks [of distinction] (126) And Allah made it not except as [a sign of] good tidings for you and to reassure your hearts thereby. And victory is not except from Allah, the Exalted in Might, the Wise -",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        786
+      ],
+      "id": 786,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 786,
+        "groups": null,
+        "uthmani": "اَلَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّـهُ وَنِعْمَ الْوَكِيلُ ﴿١٧٣﴾ فَانقَلَبُوا بِنِعْمَةٍ مِّنَ اللَّـهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوءٌ وَاتَّبَعُوا رِضْوَانَ اللَّـهِ ۗ وَاللَّـهُ ذُو فَضْلٍ عَظِيمٍ ﴿١٧٤﴾",
+        "indopak": "اَلَّذِيْنَ قَالَ لَهُمُ النَّاسُ اِنَّ النَّاسَ قَدْ جَمَعُوْا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ اِيْمَانًا وَّقَالُوْا حَسْبُنَا اللّٰهُ وَنِعْمَ الْوَكِيْلُ ﴿١٧٣﴾ فَانْقَلَبُوْا بِنِعْمَةٍ مِّنَ اللّٰهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوْءٌ وَّاتَّبَعُوْا رِضْوَانَ اللّٰهِ  وَاللّٰهُ ذُوْ فَضْلٍ عَظِيْمٍ ﴿١٧٤﴾",
+        "clean": "الذين قال لهم الناس ان الناس قد جمعوا لكم فاخشوهم فزادهم ايمانا وقالوا حسبنا الله ونعم الوكيل ١٧٣ فانقلبوا بنعمه من الله وفضل لم يمسسهم سوء واتبعوا رضوان الله  والله ذو فضل عظيم ١٧٤",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3: 173-174",
+        "audio": 786,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Allah's help #2",
+        "content": null,
+        "translation": "(173) Those to whom hypocrites said, \"Indeed, the people have gathered against you, so fear them.\" But it [merely] increased them in faith, and they said, \"Sufficient for us is Allah, and [He is] the best Disposer of affairs.\" (174) So they returned with favor from Allah and bounty, no harm having touched them. And they pursued the pleasure of Allah, and Allah is the possessor of great bounty.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        787
+      ],
+      "id": 787,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 787,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَكْثِرْ مَالَهُ وَوَلَدَهُ، وَأَطِلْ حَيَاتَهُ، وَاغْفِرْ لَهُ",
+        "indopak": "اَللّٰهُمَّ، اَكْثِرْ مَالَهٗ وَوَلَدَهٗ، وَاَطِلْ حَيَاتَهٗ، وَاغْفِرْ لَهٗ",
+        "clean": "اللهم اكثر ماله وولده واطل حياته واغفر له",
+        "transliteration": "Allaahumma akthir maalahu wa waladahu wa atil hayaatahu waghfir lahu",
+        "reference": "Bukhari: 6344",
+        "audio": 787,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Dua of the Prophet (ﷺ) for Anas Ibn Malik (RA)",
+        "content": null,
+        "translation": "O Allah! Increase his wealth and children, and bestow Your Blessing on whatever You give him.\" a time of distress.",
+        "note": "Anas (RA) said, \"The Prophet (ﷺ), used to come to us, the people of his house. One day he came to us and made supplication for us. Umm Sulaym (RA) said, 'Won't you make supplication for your little servant?' He said, (the dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        788
+      ],
+      "id": 788,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 788,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Sahih (Albani). Tirmidhi: 3833",
+        "audio": null,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Miracles of Anas (RA)",
+        "content": "Anas (RA) had a garden that would bear fruit twice in the year, and there used to be sweet basil in it, from which could be found the smell of musk.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        789
+      ],
+      "id": 789,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 789,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اهْدِ أُمَّ أَبِي هُرَيْرَةَ",
+        "indopak": "اَللّٰهُمَّ اهْدِ اُمَّ اَبِيْ هُرَيْرَةَ",
+        "clean": "اللهم اهد ام ابي هريره",
+        "transliteration": "Allaahummahdi ummi abi Hurairah",
+        "reference": null,
+        "audio": 789,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Dua of the Prophet (ﷺ) for Abu Huraira (RA) and his mother",
+        "content": null,
+        "translation": "O Allah, guide mother of Abu Huraira on the right path.",
+        "note": "Prophet (ﷺ) made dua for mother of Abu Hurairah (RA). Then his mother  accepted Islam Immediately. Abu Hurairah (RA) said, “My mother was a polytheist woman. I gave dawah to her to accept Islam. One day I gave dawah to her. While I was giving dawah to her, she said something ill about The Messenger of Allah (ﷺ), which displeased me.Then I went to The Messenger of Allah (ﷺ) crying. I said to him, “Oh The Messenger of Allah (ﷺ)! I was giving dawah to my mother, but she didn’t accept it. Today, I give dawah to her. As a result, she said something ill about. Please make dua for her that Allah give guidance to her. Then the Messenger of Allah (ﷺ) said: (the dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        790
+      ],
+      "id": 790,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 790,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ حَبِّبْ عُبَيْدَكَ هَذَا وَأُمَّهُ إِلَى عِبَادِكَ الْمُؤْمِنِينَ وَحَبِّبْ إِلَيْهِمُ الْمُؤْمِنِيْنَ",
+        "indopak": "اَللّٰهُمَّ حَبِّبْ عُبَيْدَكَ هٰذَا وَاُمَّهٗ اِلٰى عِبَادِكَ الْمُؤْمِنِيْنَ وَحَبِّبْ اِلَيْهِمُ الْمُؤْمِنِيْنَ",
+        "clean": "اللهم حبب عبيدك هذا وامه الي عبادك المومنين وحبب اليهم المومنين",
+        "transliteration": "Allaahumma habbib 'ubaidaka hadha wa ummahu ilaa 'ibadikal mu'minin, wa habbib ilayhimul mu'minin",
+        "reference": "Muslim: 2491",
+        "audio": 790,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Dua for other believer",
+        "content": null,
+        "translation": "O Allah, let there be love of these servants of yours, i.e. Abu Huraira and his mother, in the hearts of the believing servants and let their hearts be filled with the love of the believing servants.",
+        "note": "I came out quite pleased with the supplication of Allah's Apostle (ﷺ) and when I came near the door it was closed from within. My mother heard the noise of my footsteps and she said: Abu Huraira, just wait. And I heard the noise of falling of water. She took a bath and put on the cloth and quickly covered her head with a head-dress and opened the door and then said: Abu Huraira, I bear witness to the fact that there is no god but Allah and Muhammad is His bondsman and His Messenger (ﷺ). \n\nHe (Abu Huraira) said: I went back to Allah's Messenger (ﷺ) and (this time) I was shedding the tears of joy. I said: Allah's Messenger, be happy, for Allah has responded to your supplication and He has set on the right path the mother of Abu Huraira. He (the Holy Prophet) praised Allah, and extolled Him and uttered good words. \n\nI said: O Allah's Messenger (ﷺ), supplicate to Allah so that He may instill love of mine and that of my mother too in the believing servants and let our hearts be filled with their love, whereupon Allah's Messenger (ﷺ) said: O Allah, let there be love of these servants of yours, i.e. Abu Huraira and his mother, in the hearts of the believing servants and let their hearts be filled with the love of the believing servants. \n\n(Abu Huraira said: This prayer) was so well granted by Allah that no believer was ever born who heard of me and who saw me but did not love me."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        791
+      ],
+      "id": 791,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 791,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 3642",
+        "audio": null,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Supplication of the Prophet (ﷺ) for Urwa Ibn Abil Jaad Bariki (RA)",
+        "content": "The incident was as follows: That the Prophet (ﷺ) gave him one Dinar so as to buy a sheep for him. `Urwa bought two sheep for him with the money. Then he sold one of the sheep for one Dinar, and brought one Dinar and a sheep to the Prophet (ﷺ). On that, the Prophet (ﷺ) invoked Allah to bless him in his deals. So `Urwa used to gain (from any deal) even if he bought dust.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        792
+      ],
+      "id": 792,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 792,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ بَارِكْ لَهُ فِي صَفْقَةِ يَمِيْنِهِ",
+        "indopak": "اَللّٰهُمَّ بَارِكْ لَهٗ فِيْ صَفْقَةِ يَمِيْنِهٖ",
+        "clean": "اللهم بارك له في صفقه يمينه",
+        "transliteration": "Allaahumma baarik lahu fi safqati yaminihi",
+        "reference": "Baihaqi: 6/112, Ahmed: 1750",
+        "audio": 792,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Dua for blessing one's business",
+        "content": "The Prophet (ﷺ) prayed for Urwa ibn Abil Jaad Bariki (RA) as follows:",
+        "translation": "Oh Allah! Put barakah on his trade.",
+        "note": "He lived in Kufa; And before returning home, he used to make a profit of forty thousand."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        793
+      ],
+      "id": 793,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 793,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ عَلَيْكَ بِقُرَيْشٍ",
+        "indopak": "اَللّٰهُمَّ عَلَيْكَ بِقُرَيْشٍ",
+        "clean": "اللهم عليك بقريش",
+        "transliteration": "Allaahumma 'Alaika bi Quraish",
+        "reference": "Muslim: 1794",
+        "audio": 793,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Prophet (ﷺ) Dua against the enemy",
+        "content": null,
+        "translation": "O Allah, it is for Thee to deal with the Quraish.",
+        "note": "Prophet (ﷺ) invoked Allah's imprecations upon some enemy of Allah, and Allah responded his dua. One of the incidence was, in Makkah , polytheists gave much pain to Prophet (ﷺ). One day, while the Messenger of Allah (ﷺ) was saying his prayer near the Ka'ba, Abu Jahl commanded some of his evil companions to place foetus of the she-camel between the shoulders of Muhammad when he goes down in prostration (a posture in prayer). This heinous crime was commited by ‘Uqbaa ibn Abi Muait.When the Prophet (ﷺ) had finished his prayer, he invoked Allah's imprecations upon them in a loud voice. Then he said thrice: (the dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    }
+  ]
+}

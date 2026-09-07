@@ -1,0 +1,892 @@
+{
+  "table": "categories",
+  "chunk": "categories_001.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 44,
+  "id_range": "1-44",
+  "source_chars": 461,
+  "items": [
+    {
+      "key": [
+        1
+      ],
+      "id": 1,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 1,
+        "icon": "duar_gurutto",
+        "dua_count": 21,
+        "subcat_count": 7
+      },
+      "source": {
+        "name": "Dua's Importance"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        2
+      ],
+      "id": 2,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 2,
+        "icon": "zikirer_fozilot",
+        "dua_count": 13,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Dua's Excellence"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        3
+      ],
+      "id": 3,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 3,
+        "icon": "dua_kobuler_somoy",
+        "dua_count": 29,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Time of Dua"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        4
+      ],
+      "id": 4,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 4,
+        "icon": "jader_dua_kobul_hoy",
+        "dua_count": 14,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Dua Acceptance"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        5
+      ],
+      "id": 5,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 5,
+        "icon": "sokal_sondha",
+        "dua_count": 45,
+        "subcat_count": 3
+      },
+      "source": {
+        "name": "Morning & Evening"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        6
+      ],
+      "id": 6,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 6,
+        "icon": "ghum",
+        "dua_count": 31,
+        "subcat_count": 2
+      },
+      "source": {
+        "name": "Sleep"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        7
+      ],
+      "id": 7,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 7,
+        "icon": "poshak",
+        "dua_count": 8,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Cloths"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        8
+      ],
+      "id": 8,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 8,
+        "icon": "bari",
+        "dua_count": 6,
+        "subcat_count": 2
+      },
+      "source": {
+        "name": "Home"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        9
+      ],
+      "id": 9,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 9,
+        "icon": "toilet",
+        "dua_count": 2,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Toilet"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        10
+      ],
+      "id": 10,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 10,
+        "icon": "azan_ikamot",
+        "dua_count": 7,
+        "subcat_count": 4
+      },
+      "source": {
+        "name": "Adhaan & Iqamah"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        11
+      ],
+      "id": 11,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 11,
+        "icon": "oju",
+        "dua_count": 4,
+        "subcat_count": 2
+      },
+      "source": {
+        "name": "Ablution & Bath"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        12
+      ],
+      "id": 12,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 12,
+        "icon": "masjid",
+        "dua_count": 13,
+        "subcat_count": 5
+      },
+      "source": {
+        "name": "Mosque"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        13
+      ],
+      "id": 13,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 13,
+        "icon": "salat",
+        "dua_count": 96,
+        "subcat_count": 17
+      },
+      "source": {
+        "name": "Salah"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        14
+      ],
+      "id": 14,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 14,
+        "icon": "bitorer_namaz",
+        "dua_count": 14,
+        "subcat_count": 6
+      },
+      "source": {
+        "name": "Witr & Other"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        15
+      ],
+      "id": 15,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 15,
+        "icon": "mrito_janaja",
+        "dua_count": 25,
+        "subcat_count": 5
+      },
+      "source": {
+        "name": "Grave / Funeral"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        16
+      ],
+      "id": 16,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 16,
+        "icon": "siam_iftar",
+        "dua_count": 8,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Fasting"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        17
+      ],
+      "id": 17,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 17,
+        "icon": "sofor",
+        "dua_count": 19,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Travel"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        18
+      ],
+      "id": 18,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 18,
+        "icon": "hajj_omra",
+        "dua_count": 22,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Hajj & Umrah"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        19
+      ],
+      "id": 19,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 19,
+        "icon": "korbani",
+        "dua_count": 5,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Sacrifice"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        20
+      ],
+      "id": 20,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 20,
+        "icon": "shoytaner_onisto",
+        "dua_count": 26,
+        "subcat_count": 6
+      },
+      "source": {
+        "name": "Evil Protection"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        21
+      ],
+      "id": 21,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 21,
+        "icon": "towba_istegfar",
+        "dua_count": 46,
+        "subcat_count": 4
+      },
+      "source": {
+        "name": "Forgiveness"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        22
+      ],
+      "id": 22,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 22,
+        "icon": "bibaho",
+        "dua_count": 8,
+        "subcat_count": 3
+      },
+      "source": {
+        "name": "Marriage"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        23
+      ],
+      "id": 23,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 23,
+        "icon": "paribarik_dua",
+        "dua_count": 15,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Family"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        24
+      ],
+      "id": 24,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 24,
+        "icon": "rin",
+        "dua_count": 11,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Debt"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        25
+      ],
+      "id": 25,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 25,
+        "icon": "duschinta",
+        "dua_count": 11,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Anxiety"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        26
+      ],
+      "id": 26,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 26,
+        "icon": "shotruta_julum",
+        "dua_count": 27,
+        "subcat_count": 4
+      },
+      "source": {
+        "name": "Danger"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        27
+      ],
+      "id": 27,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 27,
+        "icon": "ninda_kollan_kamonay",
+        "dua_count": 11,
+        "subcat_count": 2
+      },
+      "source": {
+        "name": "Condemnation/Praise"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        28
+      ],
+      "id": 28,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 28,
+        "icon": "adob_akhlak",
+        "dua_count": 32,
+        "subcat_count": 7
+      },
+      "source": {
+        "name": "Manners"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        29
+      ],
+      "id": 29,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 29,
+        "icon": "boithoke_bosle",
+        "dua_count": 5,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Gathering"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        30
+      ],
+      "id": 30,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 30,
+        "icon": "khaddo_panio",
+        "dua_count": 15,
+        "subcat_count": 6
+      },
+      "source": {
+        "name": "Food"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        31
+      ],
+      "id": 31,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 31,
+        "icon": "poshu_pakhi",
+        "dua_count": 6,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Animals"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        32
+      ],
+      "id": 32,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 32,
+        "icon": "jhor_bristi",
+        "dua_count": 21,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Rain/Nature"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        33
+      ],
+      "id": 33,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 33,
+        "icon": "osusthota",
+        "dua_count": 35,
+        "subcat_count": 3
+      },
+      "source": {
+        "name": "Sickness"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        34
+      ],
+      "id": 34,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 34,
+        "icon": "jin_jadu",
+        "dua_count": 35,
+        "subcat_count": 2
+      },
+      "source": {
+        "name": "Jinn/Diseases"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        35
+      ],
+      "id": 35,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 35,
+        "icon": "quraner_dua",
+        "dua_count": 84,
+        "subcat_count": 4
+      },
+      "source": {
+        "name": "Quranic Dua"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        36
+      ],
+      "id": 36,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 36,
+        "icon": "isme_ajom",
+        "dua_count": 7,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Greatest Name of Allah"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        37
+      ],
+      "id": 37,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 37,
+        "icon": "nobi_rasuler_dua",
+        "dua_count": 11,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Prophet's Dua"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        38
+      ],
+      "id": 38,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 38,
+        "icon": "hadiser_dua",
+        "dua_count": 90,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Duas of Hadith"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        39
+      ],
+      "id": 39,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 39,
+        "icon": "sahabider_dua",
+        "dua_count": 18,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Duas of Sahaba"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        40
+      ],
+      "id": 40,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 40,
+        "icon": "borkotmoy_masnun_dua",
+        "dua_count": 15,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Masnun Duas"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        41
+      ],
+      "id": 41,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 41,
+        "icon": "bibidho",
+        "dua_count": 24,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Other Duas"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        42
+      ],
+      "id": 42,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 42,
+        "icon": "kokhon_ki_bolte_hoy",
+        "dua_count": 22,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "When to say what"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        43
+      ],
+      "id": 43,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 43,
+        "icon": "dua_kobuler_somoy",
+        "dua_count": 4,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "Eid"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        44
+      ],
+      "id": 44,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 44,
+        "icon": "rabbana",
+        "dua_count": 40,
+        "subcat_count": 1
+      },
+      "source": {
+        "name": "40 Rabbana Duas"
+      },
+      "target": {
+        "name": ""
+      }
+    }
+  ]
+}

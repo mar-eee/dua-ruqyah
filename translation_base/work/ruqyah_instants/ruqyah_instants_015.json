@@ -1,0 +1,132 @@
+{
+  "table": "ruqyah_instants",
+  "chunk": "ruqyah_instants_015.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 4,
+  "id_range": "212-215",
+  "source_chars": 5918,
+  "items": [
+    {
+      "key": [
+        212
+      ],
+      "id": 212,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 212,
+        "topic_id": 1,
+        "uthmani": "وَقُلِ الْحَقُّ مِن رَّبِّكُمْ ۖ فَمَن شَاءَ فَلْيُؤْمِن وَمَن شَاءَ فَلْيَكْفُرْ ۚ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا ۚ وَإِن يَسْتَغِيثُوا يُغَاثُوا بِمَاءٍ كَالْمُهْلِ يَشْوِي الْوُجُوهَ ۚ بِئْسَ الشَّرَابُ وَسَاءَتْ مُرْتَفَقًا ﴿٢٩﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/75.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Kahf 18:29",
+        "content": null,
+        "translation": "(29) And say, \"The truth is from your Lord, so whoever wills - let him believe; and whoever wills - let him disbelieve.\" Indeed, We have prepared for the wrongdoers a fire whose walls will surround them. And if they call for relief, they will be relieved with water like murky oil, which scalds [their] faces. Wretched is the drink, and evil is the resting place."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        213
+      ],
+      "id": 213,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 213,
+        "topic_id": 1,
+        "uthmani": "وَعَرَضْنَا جَهَنَّمَ يَوْمَئِذٍ لِّلْكَافِرِينَ عَرْضًا ﴿١٠٠﴾ الَّذِينَ كَانَتْ أَعْيُنُهُمْ فِي غِطَاءٍ عَن ذِكْرِي وَكَانُوا لَا يَسْتَطِيعُونَ سَمْعًا ﴿١٠١﴾ أَفَحَسِبَ الَّذِينَ كَفَرُوا أَن يَتَّخِذُوا عِبَادِي مِن دُونِي أَوْلِيَاءَ ۚ إِنَّا أَعْتَدْنَا جَهَنَّمَ لِلْكَافِرِينَ نُزُلًا ﴿١٠٢﴾ قُلْ هَلْ نُنَبِّئُكُم بِالْأَخْسَرِينَ أَعْمَالًا ﴿١٠٣﴾ الَّذِينَ ضَلَّ سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا ﴿١٠٤﴾ أُولَٰئِكَ الَّذِينَ كَفَرُوا بِآيَاتِ رَبِّهِمْ وَلِقَائِهِ فَحَبِطَتْ أَعْمَالُهُمْ فَلَا نُقِيمُ لَهُمْ يَوْمَ الْقِيَامَةِ وَزْنًا ﴿١٠٥﴾ ذَٰلِكَ جَزَاؤُهُمْ جَهَنَّمُ بِمَا كَفَرُوا وَاتَّخَذُوا آيَاتِي وَرُسُلِي هُزُوًا ﴿١٠٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/76.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Kahf 18:100-106",
+        "content": null,
+        "translation": "(100) And We will present Hell that Day to the Disbelievers, on display - (101) Those whose eyes had been within a cover [removed] from My remembrance, and they were not able to hear. (102) Then do those who disbelieve think that they can take My servants instead of Me as allies? Indeed, We have prepared Hell for the disbelievers as a lodging. (103) Say, [O Muhammad], \"Shall we [believers] inform you of the greatest losers as to [their] deeds? (104) [They are] those whose effort is lost in worldly life, while they think that they are doing well in work.\" (105) Those are the ones who disbelieve in the verses of their Lord and in [their] meeting Him, so their deeds have become worthless; and We will not assign to them on the Day of Resurrection any importance. (106) That is their recompense - Hell - for what they denied and [because] they took My signs and My messengers in ridicule."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        214
+      ],
+      "id": 214,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 214,
+        "topic_id": 1,
+        "uthmani": "هَٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ ۖ فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ يُصَبُّ مِن فَوْقِ رُءُوسِهِمُ الْحَمِيمُ ﴿١٩﴾ يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ ﴿٢٠﴾ وَلَهُم مَّقَامِعُ مِنْ حَدِيدٍ ﴿٢١﴾ كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا وَذُوقُوا عَذَابَ الْحَرِيقِ ﴿٢٢﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/77.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Haj 22:19-22",
+        "content": null,
+        "translation": "(19) These are two adversaries who have disputed over their Lord. But those who disbelieved will have cut out for them garments of fire. Poured upon their heads will be scalding water (20) By which is melted that within their bellies and [their] skins. (21) And for [striking] them are maces of iron. (22) Every time they want to get out of Hellfire from anguish, they will be returned to it, and [it will be said], \"Taste the punishment of the Burning Fire!\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        215
+      ],
+      "id": 215,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 215,
+        "topic_id": 1,
+        "uthmani": "وَهُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ ﴿٧٩﴾ وَهُوَ الَّذِي يُحْيِي وَيُمِيتُ وَلَهُ اخْتِلَافُ اللَّيْلِ وَالنَّهَارِ ۚ أَفَلَا تَعْقِلُونَ ﴿٨٠﴾ بَلْ قَالُوا مِثْلَ مَا قَالَ الْأَوَّلُونَ ﴿٨١﴾ قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ ﴿٨٢﴾ لَقَدْ وُعِدْنَا نَحْنُ وَآبَاؤُنَا هَٰذَا مِن قَبْلُ إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ ﴿٨٣﴾ قُل لِّمَنِ الْأَرْضُ وَمَن فِيهَا إِن كُنتُمْ تَعْلَمُونَ ﴿٨٤﴾ سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ ﴿٨٥﴾ قُلْ مَن رَّبُّ السَّمَاوَاتِ السَّبْعِ وَرَبُّ الْعَرْشِ الْعَظِيمِ ﴿٨٦﴾ سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَتَّقُونَ ﴿٨٧﴾ قُلْ مَن بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن كُنتُمْ تَعْلَمُونَ ﴿٨٨﴾ سَيَقُولُونَ لِلَّهِ ۚ قُلْ فَأَنَّىٰ تُسْحَرُونَ ﴿٨٩﴾ بَلْ أَتَيْنَاهُم بِالْحَقِّ وَإِنَّهُمْ لَكَاذِبُونَ ﴿٩٠﴾ مَا اتَّخَذَ اللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُ مِنْ إِلَٰهٍ ۚ إِذًا لَّذَهَبَ كُلُّ إِلَٰهٍ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ ۚ سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ ﴿٩١﴾ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَتَعَالَىٰ عَمَّا يُشْرِكُونَ ﴿٩٢﴾ قُل رَّبِّ إِمَّا تُرِيَنِّي مَا يُوعَدُونَ ﴿٩٣﴾ رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ ﴿٩٤﴾ وَإِنَّا عَلَىٰ أَن نُّرِيَكَ مَا نَعِدُهُمْ لَقَادِرُونَ ﴿٩٥﴾ ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ السَّيِّئَةَ ۚ نَحْنُ أَعْلَمُ بِمَا يَصِفُونَ ﴿٩٦﴾ وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ ﴿٩٧﴾ وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ ﴿٩٨﴾ حَتَّىٰ إِذَا جَاءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونِ ﴿٩٩﴾ لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ ۚ كَلَّا ۚ إِنَّهَا كَلِمَةٌ هُوَ قَائِلُهَا ۖ وَمِن وَرَائِهِم بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ ﴿١٠٠﴾ فَإِذَا نُفِخَ فِي الصُّورِ فَلَا أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍ وَلَا يَتَسَاءَلُونَ ﴿١٠١﴾ فَمَن ثَقُلَتْ مَوَازِينُهُ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ ﴿١٠٢﴾ وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُولَٰئِكَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ فِي جَهَنَّمَ خَالِدُونَ ﴿١٠٣﴾ تَلْفَحُ وُجُوهَهُمُ النَّارُ وَهُمْ فِيهَا كَالِحُونَ ﴿١٠٤﴾ أَلَمْ تَكُنْ آيَاتِي تُتْلَىٰ عَلَيْكُمْ فَكُنتُم بِهَا تُكَذِّبُونَ ﴿١٠٥﴾ قَالُوا رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًا ضَالِّينَ ﴿١٠٦﴾ رَبَّنَا أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَالِمُونَ ﴿١٠٧﴾ قَالَ اخْسَئُوا فِيهَا وَلَا تُكَلِّمُونِ ﴿١٠٨﴾ إِنَّهُ كَانَ فَرِيقٌ مِّنْ عِبَادِي يَقُولُونَ رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ الرَّاحِمِينَ ﴿١٠٩﴾ فَاتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰ أَنسَوْكُمْ ذِكْرِي وَكُنتُم مِّنْهُمْ تَضْحَكُونَ ﴿١١٠﴾ إِنِّي جَزَيْتُهُمُ الْيَوْمَ بِمَا صَبَرُوا أَنَّهُمْ هُمُ الْفَائِزُونَ ﴿١١١﴾ قَالَ كَمْ لَبِثْتُمْ فِي الْأَرْضِ عَدَدَ سِنِينَ ﴿١١٢﴾ قَالُوا لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ فَاسْأَلِ الْعَادِّينَ ﴿١١٣﴾ قَالَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا ۖ لَّوْ أَنَّكُمْ كُنتُمْ تَعْلَمُونَ ﴿١١٤﴾ أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ ﴿١١٥﴾ فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۖ لَا إِلَٰهَ إِلَّا هُوَ رَبُّ الْعَرْشِ الْكَرِيمِ ﴿١١٦﴾ وَمَن يَدْعُ مَعَ اللَّهِ إِلَٰهًا آخَرَ لَا بُرْهَانَ لَهُ بِهِ فَإِنَّمَا حِسَابُهُ عِندَ رَبِّهِ ۚ إِنَّهُ لَا يُفْلِحُ الْكَافِرُونَ ﴿١١٧﴾ وَقُل رَّبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ ﴿١١٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/78.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Mu'minun 23:79-118",
+        "content": null,
+        "translation": "(79) And it is He who has multiplied you throughout the earth, and to Him you will be gathered. (80) And it is He who gives life and causes death, and His is the alternation of the night and the day. Then will you not reason? (81) Rather, they say like what the former peoples said. (82) They said, \"When we have died and become dust and bones, are we indeed to be resurrected? (83) We have been promised this, we and our forefathers, before; this is not but legends of the former peoples.\" (84) Say, [O Muhammad], \"To whom belongs the earth and whoever is in it, if you should know?\" (85) They will say, \"To Allah .\" Say, \"Then will you not remember?\" (86) Say, \"Who is Lord of the seven heavens and Lord of the Great Throne?\" (87) They will say, \"[They belong] to Allah .\" Say, \"Then will you not fear Him?\" (88) Say, \"In whose hand is the realm of all things - and He protects while none can protect against Him - if you should know?\" (89) They will say, \"[All belongs] to Allah .\" Say, \"Then how are you deluded?\" (90) Rather, We have brought them the truth, and indeed they are liars. (91) Allah has not taken any son, nor has there ever been with Him any deity. [If there had been], then each deity would have taken what it created, and some of them would have sought to overcome others. Exalted is Allah above what they describe [concerning Him]. (92) [He is] Knower of the unseen and the witnessed, so high is He above what they associate [with Him]. (93) Say, [O Muhammad], \"My Lord, if You should show me that which they are promised, (94) My Lord, then do not place me among the wrongdoing people.\" (95) And indeed, We are able to show you what We have promised them. (96) Repel, by [means of] what is best, [their] evil. We are most knowing of what they describe. (97) And say, \"My Lord, I seek refuge in You from the incitements of the devils, (98) And I seek refuge in You, my Lord, lest they be present with me.\" (99) [For such is the state of the disbelievers], until, when death comes to one of them, he says, \"My Lord, send me back (100) That I might do righteousness in that which I left behind.\" No! It is only a word he is saying; and behind them is a barrier until the Day they are resurrected. (101) So when the Horn is blown, no relationship will there be among them that Day, nor will they ask about one another. (102) And those whose scales are heavy [with good deeds] - it is they who are the successful. (103) But those whose scales are light - those are the ones who have lost their souls, [being] in Hell, abiding eternally. (104) The Fire will sear their faces, and they therein will have taut smiles. (105) [It will be said]. \"Were not My verses recited to you and you used to deny them?\" (106) They will say, \"Our Lord, our wretchedness overcame us, and we were a people astray. (107) Our Lord, remove us from it, and if we were to return [to evil], we would indeed be wrongdoers.\" (108) He will say, \"Remain despised therein and do not speak to Me. (109) Indeed, there was a party of My servants who said, 'Our Lord, we have believed, so forgive us and have mercy upon us, and You are the best of the merciful.' (110) But you took them in mockery to the point that they made you forget My remembrance, and you used to laugh at them. (111) Indeed, I have rewarded them this Day for their patient endurance - that they are the attainers [of success].\" (112) [ Allah ] will say, \"How long did you remain on earth in number of years?\" (113) They will say, \"We remained a day or part of a day; ask those who enumerate.\" (114) He will say, \"You stayed not but a little - if only you had known. (115) Then did you think that We created you uselessly and that to Us you would not be returned?\" (116) So exalted is Allah, the Sovereign, the Truth; there is no deity except Him, Lord of the Noble Throne. (117) And whoever invokes besides Allah another deity for which he has no proof - then his account is only with his Lord. Indeed, the disbelievers will not succeed. (118) And, [O Muhammad], say, \"My Lord, forgive and have mercy, and You are the best of the merciful.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    }
+  ]
+}

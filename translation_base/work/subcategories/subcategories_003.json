@@ -1,0 +1,336 @@
+{
+  "table": "subcategories",
+  "chunk": "subcategories_003.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 18,
+  "id_range": "101-118",
+  "source_chars": 546,
+  "items": [
+    {
+      "key": [
+        101
+      ],
+      "id": 101,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 101,
+        "cat_id": 33
+      },
+      "source": {
+        "name": "Duas related to evil eye"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        102
+      ],
+      "id": 102,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 102,
+        "cat_id": 34
+      },
+      "source": {
+        "name": "What to do in the treatment of Jinn, black magics and diseases"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        103
+      ],
+      "id": 103,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 103,
+        "cat_id": 34
+      },
+      "source": {
+        "name": "What to do after the possession is confirmed"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        104
+      ],
+      "id": 104,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 104,
+        "cat_id": 35
+      },
+      "source": {
+        "name": "Duas related to the oppressed"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        105
+      ],
+      "id": 105,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 105,
+        "cat_id": 35
+      },
+      "source": {
+        "name": "Duas for seeking forgiveness"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        106
+      ],
+      "id": 106,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 106,
+        "cat_id": 35
+      },
+      "source": {
+        "name": "General duas"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        107
+      ],
+      "id": 107,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 107,
+        "cat_id": 35
+      },
+      "source": {
+        "name": "Other duas"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        108
+      ],
+      "id": 108,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 108,
+        "cat_id": 36
+      },
+      "source": {
+        "name": "Duas by the name of Allah"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        109
+      ],
+      "id": 109,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 109,
+        "cat_id": 37
+      },
+      "source": {
+        "name": "The way the Prophets and the Messengers prayed"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        110
+      ],
+      "id": 110,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 110,
+        "cat_id": 38
+      },
+      "source": {
+        "name": "How the Prophet (ﷺ) and his Companions made duas"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        111
+      ],
+      "id": 111,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 111,
+        "cat_id": 39
+      },
+      "source": {
+        "name": "About Muhammad (ﷺ) and his Companions"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        112
+      ],
+      "id": 112,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 112,
+        "cat_id": 40
+      },
+      "source": {
+        "name": "Some duas mentioned in the hadith"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        113
+      ],
+      "id": 113,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 113,
+        "cat_id": 41
+      },
+      "source": {
+        "name": "Duas on various subjects"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        114
+      ],
+      "id": 114,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 114,
+        "cat_id": 42
+      },
+      "source": {
+        "name": "Daily Sunnah sentences"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        115
+      ],
+      "id": 115,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 115,
+        "cat_id": 26
+      },
+      "source": {
+        "name": "Duas related to War"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        116
+      ],
+      "id": 116,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 116,
+        "cat_id": 43
+      },
+      "source": {
+        "name": "Duas to be read on the day of Eid"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        117
+      ],
+      "id": 117,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 117,
+        "cat_id": 21
+      },
+      "source": {
+        "name": "Istigfaar which are mentioned in Quran"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        118
+      ],
+      "id": 118,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 118,
+        "cat_id": 44
+      },
+      "source": {
+        "name": "Rabbana Duas"
+      },
+      "target": {
+        "name": ""
+      }
+    }
+  ]
+}

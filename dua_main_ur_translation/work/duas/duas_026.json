@@ -1,0 +1,652 @@
+{
+  "table": "duas",
+  "chunk": "duas_026.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 20,
+  "id_range": "346-365",
+  "source_chars": 5979,
+  "items": [
+    {
+      "key": [
+        346
+      ],
+      "id": 346,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 346,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ",
+        "indopak": "بِسْمِ اللّٰهِ",
+        "clean": "بسم الله",
+        "transliteration": "Bismillaah",
+        "reference": "Bukhari: 985",
+        "audio": 346,
+        "cat_id": 19,
+        "subcat_id": 62
+      },
+      "source": {
+        "name": "Dua of sacrifice #1",
+        "content": "Jundub bin Abdullah (RA) said that the Prophet (ﷺ) said that the sacrificer will sacrifice by saying ‘Bismillah-h’.",
+        "translation": "In the name of Allah.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        347
+      ],
+      "id": 347,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 347,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ",
+        "indopak": "بِسْمِ اللّٰهِ وَاللّٰهُ اَكْبَرُ",
+        "clean": "بسم الله والله اكبر",
+        "transliteration": "Bismillaahi wAllahu 'Akbar",
+        "reference": "Bukhari: 5565",
+        "audio": 347,
+        "cat_id": 19,
+        "subcat_id": 62
+      },
+      "source": {
+        "name": "Dua of sacrifice #2",
+        "content": "Anas (RA) said that the Prophet (ﷺ) placed his feet on the two jaws of a goat with white and black horns and sacrificed him saying Bismillahi wAllahu akbar.",
+        "translation": "With the Name of Allah, Allah is the Most Great!",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        348
+      ],
+      "id": 348,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 348,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ [اَللَّهُمَّ مِنْكَ وَلَكَ] اَللَّهُمَّ تَقَبَّلْ مِنِّي",
+        "indopak": "بِسْمِ اللّٰهِ وَاللّٰهُ اَكْبَرُ [اَللّٰهُمَّ مِنْكَ وَلَكَ] اَللّٰهُمَّ تَقَبَّلْ مِنِّيْ",
+        "clean": "بسم الله والله اكبر اللهم منك ولك اللهم تقبل مني",
+        "transliteration": "Bismillaahi wAllahu 'Akbar [Allaahumma minka wa laka] Allaahumma taqabbal minnee",
+        "reference": "Ahmad 4/400, No. 19586; Abu Dawood, 4/308, No. 5040",
+        "audio": 348,
+        "cat_id": 19,
+        "subcat_id": 62
+      },
+      "source": {
+        "name": "What to say when slaughtering an animal",
+        "content": null,
+        "translation": "With the Name of Allah, Allah is the Most Great! [O Allah, from You and to You.] O Allah, accept it from me.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        349
+      ],
+      "id": 349,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 349,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ اَللَّهُمَّ تَقَبَّلْ مِنْ مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَمِنْ أُمَّةِ مُحَمَّدٍ",
+        "indopak": "بِسْمِ اللّٰهِ اَللّٰهُمَّ تَقَبَّلْ مِنْ مُّحَمَّدٍ وَّاٰلِ مُحَمَّدٍ وَّمِنْ اُمَّةِ مُحَمَّدٍ",
+        "clean": "بسم الله اللهم تقبل من محمد وال محمد ومن امه محمد",
+        "transliteration": "Bismillaahi, Allah-humma Taqabbal min Muhammadin wa Al-i-Muhammadin, wa min Ummati Muhammadin",
+        "reference": "Muslim: 1967",
+        "audio": 349,
+        "cat_id": 19,
+        "subcat_id": 62
+      },
+      "source": {
+        "name": "What the Prophet (ﷺ) used to say at the time of slaughtering #1",
+        "content": "Prophet (ﷺ) used to say at the time of slaughter -",
+        "translation": "In the name of Allah, O Allah, accept it from Muhammad, Muhammad's family and from Muhammad's Ummah (followers)",
+        "note": "Then he sacrificed it."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        350
+      ],
+      "id": 350,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 350,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ هَذَا عَنِّي وَعَمَّنْ لَمْ يُضَحِّ مِنْ أُمَّتِي",
+        "indopak": "بِسْمِ اللّٰهِ وَاللّٰهُ اَكْبَرُ هٰذَا عَنِّيْ وَعَمَّنْ لَّمْ يُضَحِّ مِنْ اُمَّتِيْ",
+        "clean": "بسم الله والله اكبر هذا عني وعمن لم يضح من امتي",
+        "transliteration": "Bismillah-hi wallahu akbaru haza 'anni wa amman lam udahh-hi min ummati",
+        "reference": "Sahih (Albani). Abu Dawud: 2810",
+        "audio": 350,
+        "cat_id": 19,
+        "subcat_id": 62
+      },
+      "source": {
+        "name": "What the Prophet (ﷺ) used to say at the time of slaughtering #2",
+        "content": "The Prophet (ﷺ) used to say during the slaughter-",
+        "translation": "In the name of Allah, Allah is Most Great. This is from me and from those who did not sacrifice from my community.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        351
+      ],
+      "id": 351,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 351,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Surah Fusilat 41:36",
+        "audio": null,
+        "cat_id": 20,
+        "subcat_id": 63
+      },
+      "source": {
+        "name": "Pray to Allah for refuge from Satan",
+        "content": "Allah says:\n\nAnd if there comes to you from Satan an evil suggestion, then seek refuge in Allah. Indeed, He is the Hearing, the Knowing.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        352
+      ],
+      "id": 352,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 352,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "[1] Bukhari: 608\n[2] Muslim: 780",
+        "audio": null,
+        "cat_id": 20,
+        "subcat_id": 63
+      },
+      "source": {
+        "name": "What should be said to chase shaytaan",
+        "content": "1. Seek refuge in Allah from Satan;\n2. Give Azan [1]\n3. Remembrance and recitation of the Qur'an;  And [2]\n4. Spitting three times on the left during salah and recitation of the Qur'an.\n\nMoreover, the other things that drive away the devils are the adhkaar of morning and evening, the adhkaar of sleep, the adhkaar of awakening, the adhkaar of entering and leaving the house, the adhkaar of entering and leaving the mosque, etc., and those adhkaar which are according to the Shari'ah. For example, Ayatul Kursi, the last two verses of Surah Al-Baqarah during sleep. Moreover, the person who recites \"La ilaha illallah wahdahu la sharika lahu, lahul mulku wa lahul hamdu, wahua 'ala qulli shayin qadir\" a hundred times, will give him complete protection for that day. Also giving the Azan, Satan fled.\n\nThe Prophet (ﷺ) said, “Do not turn your houses into graves. Surely Satan flees from the house where Surah Al-Baqarah is recited.” [Muslim: 780]",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        353
+      ],
+      "id": 353,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 353,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "indopak": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اعوذ بالله من الشيطان الرجيم",
+        "transliteration": "A‛oodhu billaahi minash-Shaytaanir-rajeem",
+        "reference": "Bukhari: 3282",
+        "audio": 353,
+        "cat_id": 20,
+        "subcat_id": 63
+      },
+      "source": {
+        "name": "Dua for expelling the devil and his whisperings #1",
+        "content": "Seek refuge in Allah from Satan by this dua-",
+        "translation": "I seek refuge in Allah from Satan the outcast.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        354
+      ],
+      "id": 354,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 354,
+        "groups": null,
+        "uthmani": "رَبِّ أَعُوْذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ، وَأَعُوْذُ بِكَ رَبِّ أَن يَّحْضُرُونِ",
+        "indopak": "رَبِّ اَعُوْذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِيْنِ، وَاَعُوْذُ بِكَ رَبِّ اَنْ يَّحْضُرُوْنِ",
+        "clean": "رب اعوذ بك من همزات الشياطين واعوذ بك رب ان يحضرون",
+        "transliteration": "Rabbi A‛oodhu bika min hamazatish shayaateen, Wa A‛oodhu bika rabbi ay-yahduroon",
+        "reference": "Surah Al-Mu'minun 23: 97-98",
+        "audio": 354,
+        "cat_id": 20,
+        "subcat_id": 63
+      },
+      "source": {
+        "name": "Dua for expelling the devil and his whisperings #2",
+        "content": null,
+        "translation": "My Lord, I seek refuge in You from the incitements of the devils, And my Lord, I seek refuge from they be present with me.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        355
+      ],
+      "id": 355,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 355,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِاللَّهِ السَّمِيعِ الْعَلِيمِ مِنَ الشَّيْطَانِ الرَّجِيمِ مِنْ هَمْزِهِ وَنَفْخِهِ وَنَفْثِهِ",
+        "indopak": "اَعُوْذُ بِاللّٰهِ السَّمِيْعِ الْعَلِيْمِ مِنَ الشَّيْطَانِ الرَّجِيْمِ مِنْ هَمْزِهٖ وَنَفْخِهٖ وَنَفْثِهٖ",
+        "clean": "اعوذ بالله السميع العليم من الشيطان الرجيم من همزه ونفخه ونفثه",
+        "transliteration": "A‛oodhu Billa-Hish Sami’il-‘Alimi Minash Shaytaanir rajeem Min Hamzihi Wa Nafkhihi Wa Nafthihi",
+        "reference": "Sahih (Albani). Abu Dawud: 775",
+        "audio": 355,
+        "cat_id": 20,
+        "subcat_id": 63
+      },
+      "source": {
+        "name": "Dua for expelling the devil and his whisperings #3",
+        "content": null,
+        "translation": "I seek refuge in Allah, the All-Hearing and the All-Knowing from the accursed devil, from his madness or evil suggestion (Hamz), from his puffing up (Nafkh), and from his witchcraft (Nafth).",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        356
+      ],
+      "id": 356,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 356,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "indopak": "اَعُوْذُ بِاللّٰهِ مِنْ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اعوذ بالله من الشيطان الرجيم",
+        "transliteration": "A‛oodhu billaahi minash-Shaytaanir-rajeem",
+        "reference": "Muslim: 2203",
+        "audio": 356,
+        "cat_id": 20,
+        "subcat_id": 63
+      },
+      "source": {
+        "name": "Dua when afflicted by whisperings of the devil in prayer or recitation",
+        "content": "If you notice the presence of Satan in the prayer, say this dua and spit three times on the left side -",
+        "translation": "I seek refuge in Allah from Satan the outcast.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        357
+      ],
+      "id": 357,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 357,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِاللَّهِ الْعَظِيمِ وَبِوَجْهِهِ الْكَرِيمِ وَسُلْطَانِهِ الْقَدِيمِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "indopak": "اَعُوْذُ بِاللّٰهِ الْعَظِيْمِ وَبِوَجْهِهِ الْكَرِيْمِ وَسُلْطَانِهِ الْقَدِيْمِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اعوذ بالله العظيم وبوجهه الكريم وسلطانه القديم من الشيطان الرجيم",
+        "transliteration": "A‛oodhu Billaahil ‘Azeem, Wabi Wazhihil Kareem, Wa Sultaanihil Qadeem Minash Shaytaanir rajeem",
+        "reference": "Sahih (Albani). Abu Dawud: 466",
+        "audio": 357,
+        "cat_id": 20,
+        "subcat_id": 63
+      },
+      "source": {
+        "name": "When you enter the mosque, seek refuge from the devil #1",
+        "content": "When entering the mosque, say -",
+        "translation": "I seek refuge in Allah, the Magnificent, and in His noble face, and in his eternal domain, from the accursed Devil.",
+        "note": "Uqbah (RA) said, ‘When someone recites this du’a, the devil says, ‘This man escaped from me (evil and intrigue) for the whole day."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        358
+      ],
+      "id": 358,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 358,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "indopak": "اَللّٰهُمَّ اعْصِمْنِيْ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اللهم اعصمني من الشيطان الرجيم",
+        "transliteration": "Allaahumma`simni min ash-shaytaanir-rajeem",
+        "reference": "Sahih (Albani). Ibn Majah: 773",
+        "audio": 358,
+        "cat_id": 20,
+        "subcat_id": 63
+      },
+      "source": {
+        "name": "When you enter the mosque, seek refuge from the devil #2",
+        "content": "When entering the mosque, say -",
+        "translation": "O Allah, protect me from Satan the outcast.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        359
+      ],
+      "id": 359,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 359,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَجِرْنِيْ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "indopak": "اَللّٰهُمَّ اَجِرْنِيْ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اللهم اجرني من الشيطان الرجيم",
+        "transliteration": "Allaahumma, ajirni minash Shaytaanir rajeem",
+        "reference": "Sahih (Ibn Hibban). Ibn Hibban: 2047",
+        "audio": 359,
+        "cat_id": 20,
+        "subcat_id": 63
+      },
+      "source": {
+        "name": "Seeking refuge from the devil when leaving the mosque",
+        "content": "Abu Hurairah (RA) said: The Messenger of Allah (ﷺ) instructed to recite this dhikr while leaving the mosque -",
+        "translation": "O Allah, protect me from Satan the outcast.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        360
+      ],
+      "id": 360,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 360,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 3286",
+        "audio": null,
+        "cat_id": 20,
+        "subcat_id": 64
+      },
+      "source": {
+        "name": "Satan's enmity towards the newborn",
+        "content": "Narrated by Abu Huraira: The Prophet (ﷺ) said, \"When any human being is born. Satan touches him at both sides of the body with his two fingers, except Esa (As), the son of Mary, whom Satan tried to touch but failed, for he touched the placenta-cover instead.\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        361
+      ],
+      "id": 361,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 361,
+        "groups": null,
+        "uthmani": "بَارَكَ اللَّهُ لَكَ فِي الْمَوْهُوبِ لَكَ وَشَكَرْتَ الْوَاهِبَ وَبَلَغَ أَشُدَّهُ وَرُزِقْتَ بِرَّهُ",
+        "indopak": "بَارَكَ اللّٰهُ لَكَ فِى الْمَوْهُوْبِ لَكَ وَشَكَرْتَ الْوَاهِبَ وَبَلَغَ اَشُدَّهٗ وَرُزِقْتَ بِرَّهٗ",
+        "clean": "بارك الله لك في الموهوب لك وشكرت الواهب وبلغ اشده ورزقت بره",
+        "transliteration": "BaarakAllahu laka fil-mawhoobi laka, wa shakartal-waahiba, wa balagha 'ashuddahu, wa ruziqta birrahu.",
+        "reference": "Sahih (Albani).  Abu Dawood: 441",
+        "audio": 361,
+        "cat_id": 20,
+        "subcat_id": 64
+      },
+      "source": {
+        "name": "Prayers and answers for the father of the newborn #1",
+        "content": "It is narrated on the authority of Husain (RA) that he went to teach a man how to give greetings and said, You will say:",
+        "translation": "May Allah bless you with His gift to you, and may you (the new parent) give thanks (to Allah - the giver), may the child reach the maturity of years, and may you be granted its righteousness.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        362
+      ],
+      "id": 362,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 362,
+        "groups": null,
+        "uthmani": "بَارَكَ اللَّهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَزَاكَ اللَّهُ خَيْرًا وَرَزَقَكَ اللَّهُ مِثْلَهُ وَأَجْزَلَ اللَّهُ ثَوَابَكَ",
+        "indopak": "بَارَكَ اللّٰهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَزَاكَ اللّٰهُ خَيْرًا وَرَزَقَكَ اللّٰهُ مِثْلَهٗ وَاَجْزَلَ اللّٰهُ ثَوَابَكَ",
+        "clean": "بارك الله لك وبارك عليك وجزاك الله خيرا ورزقك الله مثله واجزل الله ثوابك",
+        "transliteration": "Baarakallahu laka wa baaraka 'alayka, wa jazaakAllahu khayran, wa razaqakAllahu mithlahu, wa 'ajzalallahu thawaabaka",
+        "reference": "This is what Imam Nawabi in his Al-Azkar text p.  256/349 mentioned",
+        "audio": 362,
+        "cat_id": 20,
+        "subcat_id": 64
+      },
+      "source": {
+        "name": "Prayers and answers for the father of the newborn #2",
+        "content": "It is better to give such a reply to the greeter -",
+        "translation": "May Allah bless you, and shower His blessings upon you, and may Allah reward you well and bestow upon you its like and reward you abundantly.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        363
+      ],
+      "id": 363,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 363,
+        "groups": null,
+        "uthmani": "أُعِيذُكُمَا [أَعُوْذُ] بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+        "indopak": "اُعِيْذُكُمَا [اَعُوْذُ] بِكَلِمَاتِ اللّٰهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَّهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَّامَّةٍ",
+        "clean": "اعيذكما اعوذ بكلمات الله التامه من كل شيطان وهامه ومن كل عين لامه",
+        "transliteration": "Oo-'idhukumaa (For self: A'ooudhu) bi kalimaat-illaahit-taammati min kulli shaytaanin wa haammah, wa min kulli ‛aynin laammah",
+        "reference": "Bukhari: 3371",
+        "audio": 363,
+        "cat_id": 20,
+        "subcat_id": 64
+      },
+      "source": {
+        "name": "Children and others to the shelter of Allah's blessings",
+        "content": "The Prophet (ﷺ) used to seek Refuge with Allah for Hasan (RA) and Husain (RA) and say:",
+        "translation": "I commend you to the protection of Allah’s perfect words from every devil, vermin, and every evil eye.",
+        "note": "The Prophet (ﷺ) say: \"Your forefather Ibrahim (AS) used to seek Refuge with Allah for Ishmael (AS) and Isaac (AS) by reciting this dua."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        364
+      ],
+      "id": 364,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 364,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ وَلَا فَاجِرٌ مِنْ شَرِّ مَا خَلَقَ، وَبَرَأَ وَذَرَأَ، وَمِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ، وَمِنْ شَرِّ مَا يَعْرُجُ فِيهَا، وَمِنْ شَرِّ مَا ذَرَأَ فِي الْأَرْضِ، وَمِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، وَمِنْ شَرِّ فِتَنِ اللَّيْلِ وَالنَّهَارِ، وَمِنْ شَرِّ كُلِّ طَارِقٍ إِلَّا طَارِقًا يَطْرُقُ بِخَيْرٍ يَا رَحْمَنُ",
+        "indopak": "اَعُوْذُ بِكَلِمَاتِ اللّٰهِ التَّآمَّآتِ الَّتِيْ لَا يُجَاوِزُهُنَّ بَرٌّ وَّلَا فَاجِرٌ مِّنْ شَرِّ مَا خَلَقَ، وَبَرَاَ وَذَرَاَ، وَمِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَآءِ، وَمِنْ شَرِّ مَا يَعْرُجُ فِيْهَا، وَمِنْ شَرِّ مَا ذَرَاَ فِي الْاَرْضِ، وَمِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، وَمِنْ شَرِّ فِتَنِ اللَّيْلِ وَالنَّهَارِ، وَمِنْ شَرِّ كُلِّ طَارِقٍ اِلَّا طَارِقًا يَّطْرُقُ بِخَيْرٍ يَّا رَحْمٰنُ",
+        "clean": "اعوذ بكلمات الله التامات التي لا يجاوزهن بر ولا فاجر من شر ما خلق وبرا وذرا ومن شر ما ينزل من السماء ومن شر ما يعرج فيها ومن شر ما ذرا في الارض ومن شر ما يخرج منها ومن شر فتن الليل والنهار ومن شر كل طارق الا طارقا يطرق بخير يا رحمن",
+        "transliteration": "A'oodhu bikalimaatil-laahit-taammaatil-latee laa yujaawizuhunna barrun wa laa faajirum min sharri maa khalaqa, wa bara'a wa dhara'a, wa min sharri maa yanzilu minas-samaa'i, wa min sharri maa ya'ruju feehaa, wa min sharri maa dhara'a fil-'ardhi, wa min sharri ma yakhruju minhaa, wa min sharri fitanil-layli wannahaari, wa min sharri kulli taariqin 'illaa taariqan yatruqu bikhayrin yaa Rahmaan",
+        "reference": "Sahih (Albani). Sahih Al-Jami: 74",
+        "audio": 364,
+        "cat_id": 20,
+        "subcat_id": 65
+      },
+      "source": {
+        "name": "Praying to Allah for refuge from the evil of something",
+        "content": null,
+        "translation": "I take refuge within Allah's perfect words which no righteous or unrighteous person can transgress, from all the evil that He has created, made and originated. [I take refuge] from the evil that descends from the sky and the evil that rises up to it. [I take refuge] from the evil that is spread on earth and the evil that springs from her, and I take refuge from the evil of the tribulations of night and day, and the evil of one who visits at night except the one who brings good, O Merciful One.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        365
+      ],
+      "id": 365,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 365,
+        "groups": null,
+        "uthmani": "قَدَّرَ اللَّهُ وَمَا شَاءَ فَعَلَ",
+        "indopak": "قَدَّرَ اللّٰهُ وَمَا شَاءَ فَعَلَ",
+        "clean": "قدر الله وما شاء فعل",
+        "transliteration": "Qaddar-Allahu wa maa shaa’a fa‛al",
+        "reference": "Muslim: 2664",
+        "audio": 365,
+        "cat_id": 20,
+        "subcat_id": 65
+      },
+      "source": {
+        "name": "If something unpleasant happens",
+        "content": null,
+        "translation": "Allah has decreed and what He wills, He does.",
+        "note": "Abu Huraira (RA) reported Allah's Messenger (ﷺ) as saying: A strong believer is better and is more lovable to Allah than a weak believer, and there is good in everyone, (but) cherish that which gives you benefit (in the Hereafter) and seek help from Allah and do not lose heart, and if anything (in the form of trouble) comes to you, don't say: If I had not done that, it would not have happened so and so, but say: (The dua is Mentioned above) your \"if\" opens the (gate) for the Satan."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    }
+  ]
+}

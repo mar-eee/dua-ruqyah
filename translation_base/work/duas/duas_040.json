@@ -1,0 +1,332 @@
+{
+  "table": "duas",
+  "chunk": "duas_040.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 10,
+  "id_range": "573-582",
+  "source_chars": 5982,
+  "items": [
+    {
+      "key": [
+        573
+      ],
+      "id": 573,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 573,
+        "groups": null,
+        "uthmani": "يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ إِنِ اسْتَطَعْتُمْ أَن تَنفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانفُذُوا ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَانٍ ﴿٣٣﴾ فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ ﴿٣٤﴾ يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ ﴿٣٥﴾ فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ ﴿٣٦﴾",
+        "indopak": "یٰمَعْشَرَ الْجِنِّ وَالْاِنْسِ اِنِ اسْتَطَعْتُمْ اَنْ تَنْفُذُوْا مِنْ اَقْطَارِ السَّمٰوٰتِ وَالْاَرْضِ فَانْفُذُوْا ؕ لَا تَنْفُذُوْنَ اِلَّا بِسُلْطٰنٍ﴿ۚ۳۳﴾ فَبِاَیِّ اٰلَآءِ رَبِّكُمَا تُكَذِّبٰنِ﴿۳۴﴾ یُرْسَلُ عَلَیْكُمَا شُوَاظٌ مِّنْ نَّارٍ ۬ۙ وَّنُحَاسٌ فَلَا تَنْتَصِرٰنِ﴿ۚ۳۵﴾ فَبِاَیِّ اٰلَآءِ رَبِّكُمَا تُكَذِّبٰنِ﴿۳۶﴾",
+        "clean": "معشر الجن والانس ان استطعتم ان تنفذوا من اقطار السموت والارض فانفذوا  لا تنفذون الا بسلطن فبا الاء ربكما تكذبن رسل علكما شواظ من نار  ونحاس فلا تنتصرن فبا الاء ربكما تكذبن",
+        "transliteration": null,
+        "reference": "Surah Rahman 55: 33-36",
+        "audio": 573,
+        "cat_id": 34,
+        "subcat_id": 102
+      },
+      "source": {
+        "name": "Jinn, magic and treatment of diseases that must be read #15",
+        "content": null,
+        "translation": "(33) O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allah ]. (34) So which of the favors of your Lord would you deny? (35) There will be sent upon you a flame of fire and smoke, and you will not defend yourselves. (36) So which of the favors of your Lord would you deny?",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        574
+      ],
+      "id": 574,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 574,
+        "groups": null,
+        "uthmani": "لَوْ أَنزَلْنَا هَـٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّـهِ ۚ وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ ﴿٢١﴾ هُوَ اللَّـهُ الَّذِي لَا إِلَـٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَـٰنُ الرَّحِيمُ ﴿٢٢﴾ هُوَ اللَّـهُ الَّذِي لَا إِلَـٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ ۚ سُبْحَانَ اللَّـهِ عَمَّا يُشْرِكُونَ ﴿٢٣﴾ هُوَ اللَّـهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ ﴿٢٤﴾",
+        "indopak": "لَوْ اَنْزَلْنَا هٰذَا الْقُرْاٰنَ عَلٰی جَبَلٍ لَّرَاَیْتَهٗ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْیَةِ اللّٰهِ ؕ وَتِلْكَ الْاَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ یَتَفَكَّرُوْنَ﴿۲۱﴾ هُوَ اللّٰهُ الَّذِیْ لَاۤ اِلٰهَ اِلَّا هُوَ ۚ عٰلِمُ الْغَیْبِ وَالشَّهَادَةِ ۚ هُوَ الرَّحْمٰنُ الرَّحِیْمُ﴿۲۲﴾ هُوَ اللّٰهُ الَّذِیْ لَاۤ اِلٰهَ اِلَّا هُوَ ۚ اَلْمَلِكُ الْقُدُّوْسُ السَّلٰمُ الْمُؤْمِنُ الْمُهَیْمِنُ الْعَزِیْزُ الْجَبَّارُ الْمُتَكَبِّرُ ؕ سُبْحٰنَ اللّٰهِ عَمَّا یُشْرِكُوْنَ﴿۲۳﴾ هُوَ اللّٰهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ لَهُ الْاَسْمَآءُ الْحُسْنٰی ؕ یُسَبِّحُ لَهٗ مَا فِی السَّمٰوٰتِ وَ الْاَرْضِ ۚ وَهُوَ الْعَزِیْزُ الْحَكِیْمُ﴿٪۲۴﴾",
+        "clean": "لو انزلنا هذا القران عل جبل لراته خاشعا متصدعا من خشه الله  وتلك الامثال نضربها للناس لعلهم تفكرون هو الله الذ لا اله الا هو  علم الغب والشهاده  هو الرحمن الرحم هو الله الذ لا اله الا هو  الملك القدوس السلم المءمن المهمن العزز الجبار المتكبر  سبحن الله عما شركون هو الله الخالق البارء المصور له الاسماء الحسن  سبح له ما ف السموت و الارض  وهو العزز الحكم",
+        "transliteration": null,
+        "reference": "Surah Hashr 59: 21-24",
+        "audio": 574,
+        "cat_id": 34,
+        "subcat_id": 102
+      },
+      "source": {
+        "name": "Jinn, magic and treatment of diseases that must be read #16",
+        "content": null,
+        "translation": "(21) If We had sent down this Qur'an upon a mountain, you would have seen it humbled and coming apart from fear of Allah . And these examples We present to the people that perhaps they will give thought. (22) He is Allah, other than whom there is no deity, Knower of the unseen and the witnessed. He is the Entirely Merciful, the Especially Merciful. (23) He is Allah, other than whom there is no deity, the Sovereign, the Pure, the Perfection, the Bestower of Faith, the Overseer, the Exalted in Might, the Compeller, the Superior. Exalted is Allah above whatever they associate with Him. (24) He is Allah, the Creator, the Inventor, the Fashioner; to Him belong the best names. Whatever is in the heavens and earth is exalting Him. And He is the Exalted in Might, the Wise.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        575
+      ],
+      "id": 575,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 575,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\n\nقُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِّنَ الْجِنِّ فَقَالُوا إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا ﴿١﴾ يَهْدِي إِلَى الرُّشْدِ فَآمَنَّا بِهِ ۖ وَلَن نُّشْرِكَ بِرَبِّنَا أَحَدًا ﴿٢﴾ وَأَنَّهُ تَعَالَىٰ جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا وَلَدًا ﴿٣﴾ وَأَنَّهُ كَانَ يَقُولُ سَفِيهُنَا عَلَى اللَّـهِ شَطَطًا ﴿٤﴾ وَأَنَّا ظَنَنَّا أَن لَّن تَقُولَ الْإِنسُ وَالْجِنُّ عَلَى اللَّـهِ كَذِبًا ﴿٥﴾ وَأَنَّهُ كَانَ رِجَالٌ مِّنَ الْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ الْجِنِّ فَزَادُوهُمْ رَهَقًا ﴿٦﴾ وَأَنَّهُمْ ظَنُّوا كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ اللَّـهُ أَحَدًا ﴿٧﴾ وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا ﴿٨﴾ وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ ۖ فَمَن يَسْتَمِعِ الْآنَ يَجِدْ لَهُ شِهَابًا رَّصَدًا ﴿٩﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ \nقُلْ اُوْحِیَ اِلَیَّ اَنَّهُ اسْتَمَعَ نَفَرٌ مِّنَ الْجِنِّ فَقَالُوْۤا اِنَّا سَمِعْنَا قُرْاٰنًا عَجَبًا ۙ﴿۱﴾ یَّهْدِیْۤ اِلَی الرُّشْدِ فَاٰمَنَّا بِهٖ ؕ وَلَنْ نُّشْرِكَ بِرَبِّنَاۤ اَحَدًا ۙ﴿۲﴾ وَّاَنَّهٗ تَعٰلٰی جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَّلَا وَلَدًا ۙ﴿۳﴾ وَّاَنَّهٗ كَانَ یَقُوْلُ سَفِیْهُنَا عَلَی اللّٰهِ شَطَطًا ۙ﴿۴﴾ وَّاَنَّا ظَنَنَّاۤ اَنْ لَّنْ تَقُوْلَ الْاِنْسُ وَالْجِنُّ عَلَی اللّٰهِ كَذِبًا ۙ﴿۵﴾ وَّاَنَّهٗ كَانَ رِجَالٌ مِّنَ الْاِنْسِ یَعُوْذُوْنَ بِرِجَالٍ مِّنَ الْجِنِّ فَزَادُوْهُمْ رَهَقًا ۙ﴿۶﴾ وَّاَنَّهُمْ ظَنُّوْا كَمَا ظَنَنْتُمْ اَنْ لَّنْ یَّبْعَثَ اللّٰهُ اَحَدًا ۙ﴿۷﴾ وَّاَنَّا لَمَسْنَا السَّمَآءَ فَوَجَدْنٰهَا مُلِئَتْ حَرَسًا شَدِیْدًا وَّشُهُبًا ۙ﴿۸﴾ وَّاَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ ؕ فَمَنْ یَّسْتَمِعِ الْاٰنَ یَجِدْ لَهٗ شِهَابًا رَّصَدًا ۙ﴿۹﴾",
+        "clean": "بسم الله الرحمن الرحيم قل اوح ال انه استمع نفر من الجن فقالوا انا سمعنا قرانا عجبا  هد ال الرشد فامنا به  ولن نشرك بربنا احدا  وانه تعل جد ربنا ما اتخذ صاحبه ولا ولدا  وانه كان قول سفهنا عل الله شططا  وانا ظننا ان لن تقول الانس والجن عل الله كذبا  وانه كان رجال من الانس عوذون برجال من الجن فزادوهم رهقا  وانهم ظنوا كما ظننتم ان لن بعث الله احدا  وانا لمسنا السماء فوجدنها ملءت حرسا شددا وشهبا  وانا كنا نقعد منها مقاعد للسمع  فمن ستمع الان جد له شهابا رصدا ",
+        "transliteration": null,
+        "reference": "Surah Jinn 72: 1-9",
+        "audio": 575,
+        "cat_id": 34,
+        "subcat_id": 102
+      },
+      "source": {
+        "name": "Jinn, magic and treatment of diseases that must be read #17",
+        "content": null,
+        "translation": "(1) Say, [O Muhammad], \"It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Qur'an. (2) It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (3) And [it teaches] that exalted is the nobleness of our Lord; He has not taken a wife or a son (4) And that our foolish one has been saying about Allah an excessive transgression. (5) And we had thought that mankind and the jinn would never speak about Allah a lie. (6) And there were men from mankind who sought refuge in men from the jinn, so they [only] increased them in burden. (7) And they had thought, as you thought, that Allah would never send anyone [as a messenger]. (8) And we have sought [to reach] the heaven but found it filled with powerful guards and burning flames. (9) And we used to sit therein in positions for hearing, but whoever listens now will find a burning flame lying in wait for him.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        576
+      ],
+      "id": 576,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 576,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\n\nقُلْ هُوَ اللَّـهُ أَحَدٌ ﴿١﴾ اللَّـهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿٤﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ\nقُلْ هُوَ اللّٰهُ اَحَدٌ﴿١﴾ اللّٰهُ الصَّمَدُ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُوْلَدْ﴿٣﴾ وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ﴿٤﴾",
+        "clean": "بسم الله الرحمن الرحيمقل هو الله احد١ الله الصمد٢ لم يلد ولم يولد٣ ولم يكن له كفوا احد٤",
+        "transliteration": null,
+        "reference": "Surah Ikhlas 112",
+        "audio": 576,
+        "cat_id": 34,
+        "subcat_id": 102
+      },
+      "source": {
+        "name": "Jinn, magic and treatment of diseases that must be read #18",
+        "content": null,
+        "translation": "(1) Say, \"He is Allah, [who is] One, (2) Allah, the Eternal Refuge. (3) He neither begets nor is born, (4) Nor is there to Him any equivalent.\"",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        577
+      ],
+      "id": 577,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 577,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\n\nقُلْ أَعُوْذُ بِرَبِّ الْفَلَقِ ﴿١﴾ مِن شَرِّ مَا خَلَقَ ﴿٢﴾ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿٣﴾ وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ﴿٤﴾ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ\nقُلْ اَعُوْذُ بِرَبِّ الْفَلَقِ﴿١﴾ مِنْ شَرِّ مَا خَلَقَ﴿٢﴾ وَمِن شَرِّ غَاسِقٍ اِذَا وَقَبَ﴿٣﴾ وَمِنْ شَرِّ النَّفَّاثَاتِ فِىْ الْعُقَدِ﴿٤﴾ وَمِن شَرِّ حَاسِدٍ اِذَا حَسَدَ﴿٥﴾",
+        "clean": "بسم الله الرحمن الرحيمقل اعوذ برب الفلق١ من شر ما خلق٢ ومن شر غاسق اذا وقب٣ ومن شر النفاثات في العقد٤ ومن شر حاسد اذا حسد٥",
+        "transliteration": null,
+        "reference": "Surah Falaq 113",
+        "audio": 577,
+        "cat_id": 34,
+        "subcat_id": 102
+      },
+      "source": {
+        "name": "Jinn, magic and treatment of diseases that must be read #19",
+        "content": null,
+        "translation": "(1) Say, \"I seek refuge in the Lord of daybreak (2) From the evil of that which He created (3) And from the evil of darkness when it settles (4) And from the evil of the blowers in knots (5) And from the evil of an envier when he envies.\"",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        578
+      ],
+      "id": 578,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 578,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\n\nقُلْ أَعُوْذُ بِرَبِّ النَّاسِ ﴿١﴾ مَلِكِ النَّاسِ ﴿٢﴾ إِلَـٰهِ النَّاسِ ﴿٣﴾ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ﴿٤﴾ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ﴿٥﴾ مِنَ الْجِنَّةِ وَالنَّاسِ ﴿٦﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ\nقُلْ اَعُوْذُ بِرَبِّ النَّاسِ﴿١﴾ مَلِكِ النَّاسِ﴿٢﴾ اِلٰهِ النَّاسِ﴿٣﴾ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ﴿٤﴾ الَّذِىْ يُوَسْوِسُ فِىْ صُدُوْرِ النَّاسِ﴿٥﴾ مِنَ الْجِنَّةِ وَالنَّاسِ﴿٦﴾",
+        "clean": "بسم الله الرحمن الرحيمقل اعوذ برب الناس١ ملك الناس٢ اله الناس٣ من شر الوسواس الخناس٤ الذي يوسوس في صدور الناس٥ من الجنه والناس٦",
+        "transliteration": null,
+        "reference": "Surah Nas 114",
+        "audio": 578,
+        "cat_id": 34,
+        "subcat_id": 102
+      },
+      "source": {
+        "name": "Jinn, magic and treatment of diseases that must be read #20",
+        "content": null,
+        "translation": "(1) Say, \"I seek refuge in the Lord of mankind, (2) The Sovereign of mankind. (3) The God of mankind, (4) From the evil of the retreating whisperer - (5) Who whispers [evil] into the breasts of mankind - (6) From among the jinn and mankind.\"",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        579
+      ],
+      "id": 579,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 579,
+        "groups": null,
+        "uthmani": "إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّـهِ قَدْ ضَلُّوا ضَلَالًا بَعِيدًا ﴿١٦٧﴾ إِنَّ الَّذِينَ كَفَرُوا وَظَلَمُوا لَمْ يَكُنِ اللَّـهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ طَرِيقًا ﴿١٦٨﴾ إِلَّا طَرِيقَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّـهِ يَسِيرًا ﴿١٦٩﴾ يَا أَيُّهَا النَّاسُ قَدْ جَاءَكُمُ الرَّسُولُ بِالْحَقِّ مِن رَّبِّكُمْ فَآمِنُوا خَيْرًا لَّكُمْ ۚ وَإِن تَكْفُرُوا فَإِنَّ لِلَّـهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّـهُ عَلِيمًا حَكِيمًا ﴿١٧٠﴾ يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ وَلَا تَقُولُوا عَلَى اللَّـهِ إِلَّا الْحَقَّ ۚ إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّـهِ وَكَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ وَرُوحٌ مِّنْهُ ۖ فَآمِنُوا بِاللَّـهِ وَرُسُلِهِ ۖ وَلَا تَقُولُوا ثَلَاثَةٌ ۚ انتَهُوا خَيْرًا لَّكُمْ ۚ إِنَّمَا اللَّـهُ إِلَـٰهٌ وَاحِدٌ ۖ سُبْحَانَهُ أَن يَكُونَ لَهُ وَلَدٌ ۘ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَكَفَىٰ بِاللَّـهِ وَكِيلًا ﴿١٧١﴾ لَّن يَسْتَنكِفَ الْمَسِيحُ أَن يَكُونَ عَبْدًا لِّلَّـهِ وَلَا الْمَلَائِكَةُ الْمُقَرَّبُونَ ۚ وَمَن يَسْتَنكِفْ عَنْ عِبَادَتِهِ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيْهِ جَمِيعًا ﴿١٧٢﴾ فَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِ ۖ وَأَمَّا الَّذِينَ اسْتَنكَفُوا وَاسْتَكْبَرُوا فَيُعَذِّبُهُمْ عَذَابًا أَلِيمًا وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّـهِ وَلِيًّا وَلَا نَصِيرًا ﴿١٧٣﴾",
+        "indopak": "اِنَّ الَّذِیْنَ كَفَرُوْا وَصَدُّوْا عَنْ سَبِیْلِ اللّٰهِ قَدْ ضَلُّوْا ضَلٰلًۢا بَعِیْدًا﴿۱۶۷﴾ اِنَّ الَّذِیْنَ كَفَرُوْا وَظَلَمُوْا لَمْ یَكُنِ اللّٰهُ لِیَغْفِرَ لَهُمْ وَلَا لِیَهْدِیَهُمْ طَرِیْقًا﴿۱۶۸﴾ۙ اِلَّا طَرِیْقَ جَهَنَّمَ خٰلِدِیْنَ فِیْهَاۤ اَبَدًا ؕ وَكَانَ ذٰلِكَ عَلَی اللّٰهِ یَسِیْرًا﴿۱۶۹﴾ یٰۤاَیُّهَا النَّاسُ قَدْ جَآءَكُمُ الرَّسُوْلُ بِالْحَقِّ مِنْ رَّبِّكُمْ فَاٰمِنُوْا خَیْرًا لَّكُمْ ؕ وَاِنْ تَكْفُرُوْا فَاِنَّ لِلّٰهِ مَا فِی السَّمٰوٰتِ وَالْاَرْضِ ؕ وَكَانَ اللّٰهُ عَلِیْمًا حَكِیْمًا﴿۱۷۰﴾ یٰۤاَهْلَ الْكِتٰبِ لَا تَغْلُوْا فِیْ دِیْنِكُمْ وَلَا تَقُوْلُوْا عَلَی اللّٰهِ اِلَّا الْحَقَّ ؕ اِنَّمَا الْمَسِیْحُ عِیْسَی ابْنُ مَرْیَمَ رَسُوْلُ اللّٰهِ وَكَلِمَتُهٗ ۚ اَلْقٰهَاۤ اِلٰی مَرْیَمَ وَرُوْحٌ مِّنْهُ ۫ فَاٰمِنُوْا بِاللّٰهِ وَ رُسُلِهٖ ۚ۟ وَ لَا تَقُوْلُوْا ثَلٰثَةٌ ؕ اِنْتَهُوْا خَیْرًا  لَّكُمْ ؕ اِنَّمَا اللّٰهُ اِلٰهٌ وَّاحِدٌ ؕ سُبْحٰنَهٗۤ اَنْ یَّكُوْنَ لَهٗ وَلَدٌ ۘلَهٗ مَا فِی السَّمٰوٰتِ وَمَا فِی الْاَرْضِ ؕ وَكَفٰی بِاللّٰهِ وَكِیْلًا﴿۱۷۱﴾٪ لَنْ یَّسْتَنْكِفَ الْمَسِیْحُ اَنْ یَّكُوْنَ عَبْدًا لِّلّٰهِ وَلَا الْمَلٰٓئِكَةُ الْمُقَرَّبُوْنَ ؕ وَمَنْ یَّسْتَنْكِفْ عَنْ عِبَادَتِهٖ وَیَسْتَكْبِرْ فَسَیَحْشُرُهُمْ اِلَیْهِ جَمِیْعًا﴿۱۷۲﴾ فَاَمَّا الَّذِیْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ فَیُوَفِّیْهِمْ اُجُوْرَهُمْ وَ یَزِیْدُهُمْ مِّنْ فَضْلِهٖ ۚ وَاَمَّا الَّذِیْنَ اسْتَنْكَفُوْا وَاسْتَكْبَرُوْا فَیُعَذِّبُهُمْ عَذَابًا اَلِیْمًا ۬ۙوَّلَا یَجِدُوْنَ لَهُمْ مِّنْ دُوْنِ اللّٰهِ وَلِیًّا وَّلَا نَصِیْرًا﴿۱۷۳﴾",
+        "clean": "ان الذن كفروا وصدوا عن سبل الله قد ضلوا ضللا بعدا ان الذن كفروا وظلموا لم كن الله لغفر لهم ولا لهدهم طرقا الا طرق جهنم خلدن فها ابدا  وكان ذلك عل الله سرا اها الناس قد جاءكم الرسول بالحق من ربكم فامنوا خرا لكم  وان تكفروا فان لله ما ف السموت والارض  وكان الله علما حكما اهل الكتب لا تغلوا ف دنكم ولا تقولوا عل الله الا الحق  انما المسح عس ابن مرم رسول الله وكلمته  القها ال مرم وروح منه  فامنوا بالله و رسله  و لا تقولوا ثلثه  انتهوا خرا  لكم  انما الله اله واحد  سبحنه ان كون له ولد له ما ف السموت وما ف الارض  وكف بالله وكلا لن ستنكف المسح ان كون عبدا لله ولا الملءكه المقربون  ومن ستنكف عن عبادته وستكبر فسحشرهم اله جمعا فاما الذن امنوا وعملوا الصلحت فوفهم اجورهم و زدهم من فضله  واما الذن استنكفوا واستكبروا فعذبهم عذابا الما ولا جدون لهم من دون الله ولا ولا نصرا",
+        "transliteration": null,
+        "reference": "Surah Nisa: 4: 167-173",
+        "audio": 579,
+        "cat_id": 34,
+        "subcat_id": 103
+      },
+      "source": {
+        "name": "If the jinn does not go away (a stubborn jinn), then what to read #1",
+        "content": null,
+        "translation": "(167) Indeed, those who disbelieve and avert [people] from the way of Allah have certainly gone far astray. (168) Indeed, those who disbelieve and commit wrong [or injustice] -  never will Allah forgive them, nor will He guide them to a path. (169) Except the path of Hell; they will abide therein forever. And that, for Allah, is [always] easy. (170) O Mankind, the Messenger has come to you with the truth from your Lord, so believe; it is better for you. But if you disbelieve -  then indeed, to Allah belongs whatever is in the heavens and earth. And ever is Allah Knowing and Wise. (171) O People of the Scripture, do not commit excess in your religion or say about Allah except the truth. The Messiah, Jesus, the son of Mary, was but a messenger of Allah and His word which He directed to Mary and a soul [created at a command] from Him. So believe in Allah and His messengers. And do not say, \"Three\"; desist -  it is better for you. Indeed, Allah is but one God. Exalted is He above having a son. To Him belongs whatever is in the heavens and whatever is on the earth. And sufficient is Allah as Disposer of affairs. (172) Never would the Messiah disdain to be a servant of Allah, nor would the angels near [to Him]. And whoever disdains His worship and is arrogant -  He will gather them to Himself all together. (173) And as for those who believed and did righteous deeds, He will give them in full their rewards and grant them extra from His bounty. But as for those who disdained and were arrogant, He will punish them with a painful punishment, and they will not find for themselves besides Allah any protector or helper.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        580
+      ],
+      "id": 580,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 580,
+        "groups": null,
+        "uthmani": "إِنَّمَا جَزَاءُ الَّذِينَ يُحَارِبُونَ اللَّـهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي الْأَرْضِ فَسَادًا أَن يُقَتَّلُوا أَوْ يُصَلَّبُوا أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَافٍ أَوْ يُنفَوْا مِنَ الْأَرْضِ ۚ ذَٰلِكَ لَهُمْ خِزْيٌ فِي الدُّنْيَا ۖ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ ﴿٣٣﴾ إِلَّا الَّذِينَ تَابُوا مِن قَبْلِ أَن تَقْدِرُوا عَلَيْهِمْ ۖ فَاعْلَمُوا أَنَّ اللَّـهَ غَفُورٌ رَّحِيمٌ ﴿٣٤﴾",
+        "indopak": "اِنَّمَا جَزٰٓؤُا الَّذِیْنَ یُحَارِبُوْنَ اللّٰهَ وَرَسُوْلَهٗ وَیَسْعَوْنَ فِی الْاَرْضِ فَسَادًا اَنْ یُّقَتَّلُوْۤا اَوْ یُصَلَّبُوْۤا اَوْ تُقَطَّعَ اَیْدِیْهِمْ وَاَرْجُلُهُمْ مِّنْ خِلَافٍ اَوْ یُنْفَوْا مِنَ الْاَرْضِ ؕ ذٰلِكَ لَهُمْ خِزْیٌ فِی الدُّنْیَا وَلَهُمْ فِی الْاٰخِرَةِ عَذَابٌ عَظِیْمٌ﴿ۙ۳۳﴾اِلَّا الَّذِیْنَ تَابُوْا مِنْ قَبْلِ اَنْ تَقْدِرُوْا عَلَیْهِمْ ۚ فَاعْلَمُوْۤا اَنَّ اللّٰهَ غَفُوْرٌ رَّحِیْمٌ﴿٪۳۴﴾",
+        "clean": "انما جزءا الذن حاربون الله ورسوله وسعون ف الارض فسادا ان قتلوا او صلبوا او تقطع ادهم وارجلهم من خلاف او نفوا من الارض  ذلك لهم خز ف الدنا ولهم ف الاخره عذاب عظمالا الذن تابوا من قبل ان تقدروا علهم  فاعلموا ان الله غفور رحم",
+        "transliteration": null,
+        "reference": "Surah Al-Ma'ida 5: 33-34",
+        "audio": 580,
+        "cat_id": 34,
+        "subcat_id": 103
+      },
+      "source": {
+        "name": "If the jinn does not go away (a stubborn jinn), then what to read #2",
+        "content": null,
+        "translation": "(33) Indeed, the penalty for those who wage war against Allah and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world; and for them in the Hereafter is a great punishment, (34) Except for those who return [repenting] before you apprehend them. And know that Allah is Forgiving and Merciful.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        581
+      ],
+      "id": 581,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 581,
+        "groups": null,
+        "uthmani": "إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا الَّذِينَ آمَنُوا ۚ سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ وَاضْرِبُوا مِنْهُمْ كُلَّ بَنَانٍ ﴿١٢﴾",
+        "indopak": "اِذْ یُوْحِیْ رَبُّكَ اِلَی الْمَلٰٓئِكَةِ اَنِّیْ مَعَكُمْ فَثَبِّتُوا الَّذِیْنَ اٰمَنُوْا ؕ سَاُلْقِیْ فِیْ قُلُوْبِ الَّذِیْنَ كَفَرُوا الرُّعْبَ فَاضْرِبُوْا فَوْقَ الْاَعْنَاقِ وَاضْرِبُوْا مِنْهُمْ كُلَّ بَنَانٍ﴿ؕ۱۲﴾",
+        "clean": "اذ وح ربك ال الملءكه ان معكم فثبتوا الذن امنوا  سالق ف قلوب الذن كفروا الرعب فاضربوا فوق الاعناق واضربوا منهم كل بنان",
+        "transliteration": null,
+        "reference": "Sura Anfal 8:12",
+        "audio": 581,
+        "cat_id": 34,
+        "subcat_id": 103
+      },
+      "source": {
+        "name": "If the jinn does not go away (a stubborn jinn), then what to read #3",
+        "content": null,
+        "translation": "(12) [Remember] when your Lord inspired to the angels, \"I am with you, so strengthen those who have believed. I will cast terror into the hearts of those who disbelieved, so strike [them] upon the necks and strike from them every fingertip.\"",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        582
+      ],
+      "id": 582,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 582,
+        "groups": null,
+        "uthmani": "وَلَقَدْ جَعَلْنَا فِي السَّمَاءِ بُرُوجًا وَزَيَّنَّاهَا لِلنَّاظِرِينَ ﴿١٦﴾ وَحَفِظْنَاهَا مِن كُلِّ شَيْطَانٍ رَّجِيمٍ ﴿١٧﴾ إِلَّا مَنِ اسْتَرَقَ السَّمْعَ فَأَتْبَعَهُ شِهَابٌ مُّبِينٌ ﴿١٨﴾",
+        "indopak": "وَلَقَدْ جَعَلْنَا فِی السَّمَآءِ بُرُوْجًا وَّزَیَّنّٰهَا لِلنّٰظِرِیْنَ﴿ۙ۱۶﴾ وَحَفِظْنٰهَا مِنْ كُلِّ شَیْطٰنٍ رَّجِیْمٍ﴿ۙ۱۷﴾ اِلَّا مَنِ اسْتَرَقَ السَّمْعَ فَاَتْبَعَهٗ شِهَابٌ مُّبِیْنٌ﴿۱۸﴾",
+        "clean": "ولقد جعلنا ف السماء بروجا وزنها للنظرن وحفظنها من كل شطن رجم الا من استرق السمع فاتبعه شهاب مبن",
+        "transliteration": null,
+        "reference": "Sura Al-Hijr 15: 16-18",
+        "audio": 582,
+        "cat_id": 34,
+        "subcat_id": 103
+      },
+      "source": {
+        "name": "If the jinn does not go away (a stubborn jinn), then what to read #4",
+        "content": null,
+        "translation": "(16) And We have placed within the heaven great stars and have beautified it for the observers. (17) And We have protected it from every devil expelled [from the mercy of Allah ] (18) Except one who steals a hearing and is pursued by a clear burning flame.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    }
+  ]
+}

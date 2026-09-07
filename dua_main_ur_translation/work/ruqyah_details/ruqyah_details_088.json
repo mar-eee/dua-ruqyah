@@ -1,0 +1,34 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_088.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 1,
+  "id_range": "175-175",
+  "source_chars": 5734,
+  "items": [
+    {
+      "key": [
+        175
+      ],
+      "id": 175,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 175,
+        "topic_id": null,
+        "cat_id": 14,
+        "subcat_id": 145
+      },
+      "source": {
+        "topic_name": null,
+        "text": "This guide is meant primarily for the patient who is interested in Hijamah for themselves and as a primer for the medical practitioner who wishes to know more about the mechanism and scientific basis of Hijamah, as well as its contraindications, precautions and indications.\n\nFor this reason and so as not to encourage those without the proper training, I do not describe the actual procedures of Hijamah in detail, this is left to the Hijamah treatment guide for practitioners. The guidelines below however are important to implement whether you are a prospective patient or a practitioner of Hijamah and should be observed in order to gain the benefits of this treatment without exposing oneself or one's patients to unnecessary harm through it.\n\n<b>Who should practice Hijamah</b>\n\nHijamah is regarded as an invasive medical procedure and more importantly is such a procedure where the skin is pierced and there is subsequent handling of body fluids. Any such procedure in medicine presents with a large number of risks when compared to procedures where the skin is not pierced and there is no handling of body fluids.\n\nIn recent years there has been a proliferation of dangerous infections that are transmitted easily through blood and body fluids. These include HIV, Hepatitis B, Hepatitis C and Viral Hemorrhagic Fever. Since it is difficult to determine what infectious pathogens any given blood contains, and some blood-borne diseases are lethal, standard medical practice regards all blood (and any body fluid) as potentially infectious.\n\nThere are many cases where Hijamah has resulted in infection with the HIV and Hepatitis viruses, at least one documented HIV infection has occurred in Saudi Arabia and two documented cases reported in Iranian studies. (The majority of cases go undocumented as the patients may not be aware that they have been infected and/or practitioners neglect to report adverse effects for fear of prosecution)\n\nOther risks of Hijamah are also inherent in terms of dealing with the effects of excessive blood loss (which may occur due to hereditary disease or medication the patient is taking), incorrect piercing of the skin and subsequent damage to nerves or blood vessels, all of which can potentially be fatal for the patient. Improper handling and disposal of body fluids and sharps is also a common occurrence by those practicing Hijamah without proper training and presents a serious risk of spread of infection to other members of the community.\n\nFor this reason it is the opinion of many Ulama that the Hajjaam must be an individual who has had biomedical training, either a medical doctor or a qualified and registered practitioner of complementary medicine, or at least an individual who has received specific training in Hijamah and has also received with it training in human anatomy, physiology, general pathology, clinical medicine, clinical diagnostics, differential diagnosis, pharmacological interactions and how to properly handle body fluids and prevent infections.\n\nMost countries have a register of individuals who are qualified to practice medicine, whether conventional or complementary, and amongst these there are those who have learnt and practice Hijamah. In some countries like the UK there are specific registers for practitioners of Hijamah and such individuals have received training in the safe application of the procedure. These should be the individuals who are first sought for having Hijamah done and if one is interested in practicing Hijamah then one should endeavor to learn it properly with its necessary biomedical prerequisites in order to gain such formal qualification and registration.\n\nIndividuals who practice Hijamah without the necessary qualifications are opening themselves up to prosecution by the law in their country should anything go wrong whether it be their own carelessness or by chance. Medical malpractice litigation is becoming more and more common and an unregistered practitioner has no support in such a case from any health council or registration body.\n\n<b>In the US the regulations regarding Hijamah only allow the following licensed professionals to practice;</b>\n\n\n<b>1.</b> Physicians\n\n<b>2.</b> Physicians Assistants (PA) \n\n<b>3.</b> Advanced Practitioner Registered Nurse (APRN)\n\n<b>4.</b> Licensed Acupincturist (LAC)\n\n<b>5.</b> Phlebotomists-Only allowed to draw blood in lab setting.\n\n<b>6.</b> Paramedics-Allowed to draw blood or do incisions in emergency situations only.\n\nOf course there are some countries where the law is not strict about such matters, but the practitioner will have to live with the consequences of their lack of knowledge and experience in medical matters should something go wrong while practicing Hijamah.\n\nMany believe that Hijamah is exclusively an Islaamic practice and therefore it should be legalised for any Muslim to practice it. This is erroneous since Hijamah is a medical practice that was already present before the coming of the Nabi (SAW) and was encouraged by the Nabi (SAW), it is not specific to any particular religion or culture but rather it is a treatment for the entire world. Unlike the use of honey and black seed, Hijamah is a medical procedure and because in Islaam we are taught to take precaution and not engage in anything that can cause harm to us both spiritually and physically, one should seek out an expert in Hijamah, who also has the necessary biomedical qualifications for the procedure.\n\n(A list of individuals who have been assessed as having the necessary education and suitable qualifications can be found here: www.hujjaam.com, if you are a practitioner you can also go to the site to apply for assessment of your credentials and submission to the list)"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

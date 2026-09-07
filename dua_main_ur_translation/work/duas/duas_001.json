@@ -1,0 +1,492 @@
+{
+  "table": "duas",
+  "chunk": "duas_001.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 15,
+  "id_range": "1-15",
+  "source_chars": 5906,
+  "items": [
+    {
+      "key": [
+        1
+      ],
+      "id": 1,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 1,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Surah Al-Fatir 35:15",
+        "audio": null,
+        "cat_id": 1,
+        "subcat_id": 1
+      },
+      "source": {
+        "name": "The servant is dependent on his Lord #1",
+        "content": "All human beings depend on Allah for their welfare and prevention of evil in various matters of their religion and world. Allah says (interpretation of the meaning):\n\nO mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        2
+      ],
+      "id": 2,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 2,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، اَللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ وَلَا مُعْطِيَ لِمَا مَنَعْتَ وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ، اَللّٰهُمَّ لَا مَانِعَ لِماَ اَعْطَيْتَ وَلَا مُعْطِيَ لِمَا مَنَعْتَ وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد وهو علي كل شيء قدير اللهم لا مانع لما اعطيت ولا معطي لما منعت ولا ينفع ذا الجد منك الجد",
+        "transliteration": "Laa ilaaha illallahu wahdahu laa sharika lahu, lahul-mulku wa lahul-hamdu wa huwa 'alaa kulli shay'in qadir. Allaahumma laa maani'a limaa a'taita wa laa mu'tia limaa mana'ta wa laa yanfa'u dhal-jaddi minka al-jaddu",
+        "reference": "Bukhari: 844",
+        "audio": 2,
+        "cat_id": 1,
+        "subcat_id": 1
+      },
+      "source": {
+        "name": "The servant is dependent on his Lord #2",
+        "content": "Prophet (ﷺ) used to say after every compulsory prayer, The servant will ask his Lord for all of his religiously and worldly needs, because the treasure of all things is in the hands of Allah. Allah says (interpretation of the meaning):\n\n“And there is not a thing but that with Us are its depositories, and We do not send it down except according to a known measure.” (Sura Al-Hijr 15:21)\n\nNo one can withhold what Allah gives; And, no one can give what he resists.",
+        "translation": "There is none worthy of worship except Allah alone with no partner or associate. He is the Dominion and to Him be all praise, and He is able to do all things. O Allah, one can withhold what You have given and none can give what You have withheld, and no wealth or fortune can benefit anyone for from You comes all wealth and fortune.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        3
+      ],
+      "id": 3,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 3,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
+        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد وهو علي كل شيء قدير",
+        "transliteration": "Laa ilahaa illAllahu wahdahu laa sharika lahu, lahul-mulku wa lahul-hamdu wa huwa 'alaa kulli shay'in qadir",
+        "reference": "Bukhari: 6404",
+        "audio": 3,
+        "cat_id": 1,
+        "subcat_id": 1
+      },
+      "source": {
+        "name": "The reward of freeing of a slave",
+        "content": "Say the following statement 10 times -",
+        "translation": "None has the right to be worshipped but Allah alone, Who has no partner. His is the dominion and His is the praise, and He is Able to do all things.",
+        "note": "The Prophet (ﷺ) said: The person who says the above statement 10 times It would be as if he had freed four of Ishmael's (As) children from slavery."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        4
+      ],
+      "id": 4,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 4,
+        "groups": null,
+        "uthmani": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "indopak": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُ",
+        "clean": "اياك نعبد واياك نستعين",
+        "transliteration": "Iyyaaka na'budu wa lyyaaka nasta'een",
+        "reference": "Surah Al-Fatihah 1:5",
+        "audio": 4,
+        "cat_id": 1,
+        "subcat_id": 2
+      },
+      "source": {
+        "name": "Allah's guidance #1",
+        "content": null,
+        "translation": "It is You we worship and It is You we ask for help.",
+        "note": "He whom Allah guides is the [rightly] guided, but he whom He leaves astray - never will you find for him a protecting guide. (Surah Al-Kahf 18:17)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        5
+      ],
+      "id": 5,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 5,
+        "groups": null,
+        "uthmani": "اِهْدِنِي لِمَا اخْتُلِفَ فِيهِ مِنَ الْحَقِّ بِإِذْنِكَ إِنَّكَ تَهْدِي مَنْ تَشَاءُ إِلَى صِرَاطٍ مُّسْتَقِيْمٍ",
+        "indopak": "اِهْدِنِيْ لِمَا اخْتُلِفَ فِيْهِ مِنَ الْحَقِّ بِاِذْنِكَ اِنَّكَ تَهْدِيْ مَنْ تَشَاءُ اِلٰى صِرَاطٍ مُّسْتَقِيْمٍ",
+        "clean": "اهدني لما اختلف فيه من الحق باذنك انك تهدي من تشاء الي صراط مستقيم",
+        "transliteration": "Ihdini limakhtulifa fihi minal-haqqi bi'idhnika innaka tahdi man tasha'u ila siratim mustaqim",
+        "reference": "Muslim: 770",
+        "audio": 5,
+        "cat_id": 1,
+        "subcat_id": 2
+      },
+      "source": {
+        "name": "Allah's guidance #2",
+        "content": "The Messenger of Allah (ﷺ) commenced the prayer when he got up at night. Then he said:",
+        "translation": "Guide me through that which there has been difference concerning the truth, verily, You are upon a straight path.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        6
+      ],
+      "id": 6,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 6,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَعِنِّيْ عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "indopak": "اَللّٰهُمَّ اَعِنِّيْ عَلٰى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "clean": "اللهم اعني علي ذكرك وشكرك وحسن عبادتك",
+        "transliteration": "Allaahumma 'a'innee 'alaa thikrika, wa shukrika, wahusni 'ibaadatik",
+        "reference": "Sahih (Albani). Abu Dawud: 1522",
+        "audio": 6,
+        "cat_id": 1,
+        "subcat_id": 2
+      },
+      "source": {
+        "name": "Allah's guidance #3",
+        "content": "Messenger of Allah (ﷺ) commanded Mu'adh bin Jabal (RA) to recite this supplication after every (prescribed) prayer -",
+        "translation": "O Allah, help me to remember You, to give You thanks, and to perform Your worship in the best manner.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        7
+      ],
+      "id": 7,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 7,
+        "groups": null,
+        "uthmani": "وَاهْدِنِيْ لِأَحْسَنِ الْأَخْلَاقِ لَا يَهْدِيْ لِأَحْسَنِهَا إِلَّا أَنْتَ وَاصْرِفْ عَنِّي سَيِّئَهَا لَا يَصْرِفُ عَنِّي سَيِّئَهَا إِلَّا أَنْتَ",
+        "indopak": "وَاهْدِنِيْ لِاَحْسَنِ الْاَخْلَاقِ لَا يَهْدِيْ لِاَحْسَنِهَا اِلَّا اَنْتَ وَاصْرِفْ عَنِّيْ سَيِّئَهَا لَا يَصْرِفُ عَنِّيْ سَيِّئَهَا اِلَّا اَنْتَ",
+        "clean": "واهدني لاحسن الاخلاق لا يهدي لاحسنها الا انت واصرف عني سيءها لا يصرف عني سيءها الا انت",
+        "transliteration": "Wahdini li ahsanil-akhlaaqi, la yahdi li ahsanihaa illa anta wasrif anni sayyi'ahaa laa yasrifu anni sayyi'ahaa illa anta",
+        "reference": "Muslim: 771",
+        "audio": 7,
+        "cat_id": 1,
+        "subcat_id": 2
+      },
+      "source": {
+        "name": "Allah's guidance #4",
+        "content": "The Messenger of Allah (ﷺ) commenced the prayer when he got up at night. Here is a part of it -",
+        "translation": "Guide me to the best of manners for none can guide to the best of them but You. Protect me from bad manners for none can protect against them but You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        8
+      ],
+      "id": 8,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 8,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالسَّدَادَ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ الْهُدٰى وَالسَّدَادَ",
+        "clean": "اللهم اني اسالك الهدي والسداد",
+        "transliteration": "Allaahumma inni as'alukal huda was-sadaad",
+        "reference": "Muslim: 2725",
+        "audio": 8,
+        "cat_id": 1,
+        "subcat_id": 2
+      },
+      "source": {
+        "name": "Allah's guidance #5",
+        "content": "The Prophet (ﷺ) instructed Ali ibn Abi Talib (RA) to seek guidance and firmness from Allah -",
+        "translation": "O Allah, I beg of Thee righteousness and adhering to the straight path.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        9
+      ],
+      "id": 9,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 9,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اهْدِنِيْ فِيمَنْ هَدَيْتَ وَعَافِنِي فِيمَنْ عَافَيْتَ وَتَوَلَّنِيْ فِيمَنْ تَوَلَّيْتَ وَبَارِكْ لِي فِيمَا أَعْطَيْتَ وَقِنِي شَرَّ مَا قَضَيْتَ فَإِنَّكَ تَقْضِي وَلَا يُقْضَى عَلَيْكَ إِنَّهُ لَا يَذِلُّ مَنْ وَالَيْتَ وَلَا يَعِزُّ مَنْ عَادَيْتَ تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ",
+        "indopak": "اَللّٰهُمَّ اهْدِنِيْ فِيْمَنْ هَدَيْتَ وَعَافِنِيْ فِيْمَنْ عَافَيْتَ وَتَوَلَّنِيْ فِيْمَنْ تَوَلَّيْتَ وَبَارِكْ لِيْ فِيْمَا اَعْطَيْتَ وَقِنِيْ شَرَّ مَا قَضَيْتَ فَاِنَّكَ تَقْضِيْ وَلَا يُقْضٰى عَلَيْكَ اِنَّهٗ لَا يَذِلُّ مَنْ وَّالَيْتَ وَلَا يَعِزُّ مَنْ عَادَيْتَ تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ",
+        "clean": "اللهم اهدني فيمن هديت وعافني فيمن عافيت وتولني فيمن توليت وبارك لي فيما اعطيت وقني شر ما قضيت فانك تقضي ولا يقضي عليك انه لا يذل من واليت ولا يعز من عاديت تباركت ربنا وتعاليت",
+        "transliteration": "Allahum-mahdinee feeman hadayta, wa 'aafinee feeman 'aafayta, wa tawallanee feeman tawallayta, wa baarik lee feemaa 'a'atayta, wa qinee sharra maa qadhayta, fa'innaka taqdhee wa laa yuqdhaa 'alayka, 'innahu laa yadhillu man waalayta, wa laa ya 'izzu man 'aadayta, tabaarakta Rabbanaa wa ta'aalayta",
+        "reference": "Sahih (Albani). Abu Dawud: 1425",
+        "audio": 9,
+        "cat_id": 1,
+        "subcat_id": 2
+      },
+      "source": {
+        "name": "Allah's guidance #6",
+        "content": "Narrated Al-Hasan ibn Ali (RA): The Messenger of Allah (ﷺ) taught me some words that I say during the witr -",
+        "translation": "O Allah, guide me with those whom You have guided, and strengthen me with those whom You have given strength. Take me to Your care with those whom You have taken to Your care. Bless me in what You have given me. Protect me from the evil You have ordained. Surely, You command and are not commanded, and none whom You have committed to Your care shall be humiliated and none whom You have taken as an enemy shall taste glory. You are Blessed, Our Lord, and Exalted.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        10
+      ],
+      "id": 10,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 10,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Sahih (Albani). Abu Dawud: 1515",
+        "audio": null,
+        "cat_id": 1,
+        "subcat_id": 2
+      },
+      "source": {
+        "name": "Asking for forgiveness #1",
+        "content": "Forgiveness for sins should be sought from Allah, for the most important thing a servant can ask his Lord for, is forgiveness for his sins or its inevitable consequence. Such as deliverance from Hell and entry into Paradise. The servant needs forgiveness from his Lord for his sins, because he makes mistakes every day and night and Allah alone can forgive all sins.\n\nThe Messenger of Allah (ﷺ) said: My heart is invaded by unmindfulness, and I ask Allah's pardon a hundred times in the day.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        11
+      ],
+      "id": 11,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 11,
+        "groups": null,
+        "uthmani": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَىَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيْمُ",
+        "indopak": "رَبِّ اغْفِرْ لِيْ وَتُبْ عَلَىَّ اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِيْمُ",
+        "clean": "رب اغفر لي وتب علي انك انت التواب الرحيم",
+        "transliteration": "Rabbighfirli wa tub `alayya innaka Antat-Tawwabur-Rahim",
+        "reference": "Sahih (Albani). Abu Dawud: 1516",
+        "audio": 11,
+        "cat_id": 1,
+        "subcat_id": 2
+      },
+      "source": {
+        "name": "Asking for forgiveness #2",
+        "content": "Narrated Abdullah ibn Umar (RA): We counted that the Messenger of Allah (ﷺ) would say this dua a hundred times during a meeting -",
+        "translation": "O Allah forgive me and accept my repentance, for You are the Accepter of repentance, the Most Merciful.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        12
+      ],
+      "id": 12,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 12,
+        "groups": null,
+        "uthmani": "أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَىُّ الْقَيُّوْمُ وَأَتُوبُ إِلَيْهِ",
+        "indopak": "اَسْتَغْفِرُ اللّٰهَ الْعَظِيْمَ الَّذِيْ لَا اِلٰهَ اِلَّا هُوَ الْحَىُّ الْقَيُّوْمُ وَاَتُوْبُ اِلَيْهِ",
+        "clean": "استغفر الله العظيم الذي لا اله الا هو الحي القيوم واتوب اليه",
+        "transliteration": "Astaghfirullaa hal-'Adheemal-ladhee laa 'ilaaha 'illaa Huwal-Hayyul-Qayyoomu wa 'atoobu 'ilayhi",
+        "reference": "Sahih (Albani). Tirmidhi: 3577",
+        "audio": 12,
+        "cat_id": 1,
+        "subcat_id": 2
+      },
+      "source": {
+        "name": "Asking for forgiveness #3",
+        "content": null,
+        "translation": "I seek the forgiveness of Allah the Mighty, Whom there is none worthy of worship except Him, the Living, the Eternal, and I repent to Him.",
+        "note": "The Prophet (ﷺ) said, \"Whoever says, 'I seek forgiveness from Allah, the Exalted, there is no god but He, the Ever-Living, the Everlasting, and I repent to Him', is forgiven even if he flees from the battlefield.\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        13
+      ],
+      "id": 13,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 13,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ الْجَنَّةَ وَاَعُوْذُ بِكَ مِنَ النَّارِ",
+        "clean": "اللهم اني اسالك الجنه واعوذ بك من النار",
+        "transliteration": "Allaahumma 'innee 'as'alukal-jannata wa 'a'oodhu bika minan-naar",
+        "reference": "Sahih (Albani). Ibn Majah: 910",
+        "audio": 13,
+        "cat_id": 1,
+        "subcat_id": 3
+      },
+      "source": {
+        "name": "Ask for paradise & seek refuge from fire",
+        "content": null,
+        "translation": "O Allah, I ask You for Paradise and seek Your protection from the Fire.",
+        "note": "Narrated by Abu Huraira (RA): The Messenger of Allah (ﷺ), asked a man, \"What do you supplicate in your prayer?\" The man says, I recite Tashahhud and say- (The dua is mentioned above)\n\nI can’t recite dua as beautifully as you, nor can I recite dua like Mu'adh!\" Then Prophet (ﷺ) said, “We also supplicate like you!”"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        14
+      ],
+      "id": 14,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 14,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "[1] Sahih (Albani). Tirmidhi: 3514\n[2] Bukhari, Al-Adabul Mufrad, 724",
+        "audio": null,
+        "cat_id": 1,
+        "subcat_id": 3
+      },
+      "source": {
+        "name": "Seeking good of this world and the hereafter",
+        "content": "Al-`Abbas bin `Abdul-Muttalib (RA) said: “I said: ‘O Messenger of Allah (ﷺ), teach me something that I may ask Allah, [Mighty and Sublime] for.’ He (ﷺ) said: ‘Ask Allah for Al-`Āfiyah.’ Then I remained for a day, then I came and said: ‘O Messenger of Allah (ﷺ), teach me something that I may ask Allah for.’ So he (ﷺ) said to me: “O Abbas, O uncle of the Messenger of Allah! Ask Allah for Al-`Āfiyah in the world and in the Hereafter.” [1]\n\nNarrated by Abu Bakr Siddiq (RA): The Prophet (ﷺ) said (sitting) on the pulpit, \"Seek forgiveness and healing from Allah, for no one has been given anything better than healing after Yaqeen.\" [2]",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        15
+      ],
+      "id": 15,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 15,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ مُصَرِّفَ الْقُلُوبِ صَرِّفْ قُلُوبَنَا عَلَى طَاعَتِكَ",
+        "indopak": "اَللّٰهُمَّ مُصَرِّفَ الْقُلُوْبِ صَرِّفْ قُلُوْبَنَا عَلٰى طَاعَتِكَ",
+        "clean": "اللهم مصرف القلوب صرف قلوبنا علي طاعتك",
+        "transliteration": "Allaahumma musarrifal-qulubi, sarrif qulubana 'ala ta'atik",
+        "reference": "Muslim: 2655",
+        "audio": 15,
+        "cat_id": 1,
+        "subcat_id": 4
+      },
+      "source": {
+        "name": "To get Stability in religion and good results in all deeds",
+        "content": null,
+        "translation": "O Allah! Controller of the hearts, direct our hearts to Your obedience.",
+        "note": "Abdullah bin Amr bin al-'As (RA) reported that he heard Allah's Messenger (ﷺ) as saying: Verily, the hearts of all the sons of Adam are between the two fingers out of the fingers of the Compassionate Lord as one heart. He turns that to any (direction) He likes. Then Allah’s Messenger (ﷺ) said: (Dua mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "table": "drawer_items",
+  "chunk": "drawer_items_001.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 4,
+  "id_range": "1-4",
+  "source_chars": 5979,
+  "items": [
+    {
+      "key": [
+        1
+      ],
+      "id": 1,
+      "part": 1,
+      "of": 2,
+      "frozen": {
+        "id": 1,
+        "item_type": "privacy_policy",
+        "display_order": 1,
+        "created_at": 0,
+        "updated_at": 0
+      },
+      "source": {
+        "title": "Privacy Policy",
+        "hero_title1": "Your Trust and Privacy",
+        "hero_title2": "Are a Sacred Duty to Us"
+      },
+      "target": {
+        "title": "",
+        "hero_title1": "",
+        "hero_title2": ""
+      },
+      "content_sections": [
+        {
+          "index": 0,
+          "key": "text",
+          "source": "Islamic Resource Development (IRD) (\"we,\" \"us,\" or \"our\") deeply respects the privacy of our users (\"you\"). This Privacy Policy explains how we collect, use, and safeguard your information when you use our Dua & Ruqyah app (the \"App\"). Please read this policy carefully. If you do not agree with its terms, we kindly ask that you do not access the app.",
+          "target": ""
+        },
+        {
+          "index": 2,
+          "key": "text",
+          "source": "We reserve the right to make changes to this Privacy Policy at any time. We will notify you of any changes directly within the app. Your continued use of the App after updates are posted will constitute your acceptance of those changes.",
+          "target": ""
+        },
+        {
+          "index": 4,
+          "key": "text",
+          "source": "Collection of Your Information",
+          "target": ""
+        },
+        {
+          "index": 6,
+          "key": "text",
+          "source": "We may collect information about you in a few ways. The information we collect via the App depends on the content and features you use, and includes the following:",
+          "target": ""
+        },
+        {
+          "index": 8,
+          "key": "text",
+          "source": "Personal Data",
+          "target": ""
+        },
+        {
+          "index": 10,
+          "key": "text",
+          "source": "Personally identifiable information, such as your name and email address, that you voluntarily provide when you send feedback, report a dua, or back up your settings to Google Drive. Your email is used strictly to contact you regarding that specific report or feedback, if necessary. We do not share your email address with any third parties.",
+          "target": ""
+        },
+        {
+          "index": 12,
+          "key": "text",
+          "source": "Mobile Device Access",
+          "target": ""
+        },
+        {
+          "index": 14,
+          "key": "text",
+          "source": "We may request permission to access certain features from your mobile device, including storage (read/write), network access, and vibration, to ensure app functionality. You can change our access permissions at any time in your device's settings.",
+          "target": ""
+        },
+        {
+          "index": 16,
+          "key": "text",
+          "source": "Push Notifications",
+          "target": ""
+        },
+        {
+          "index": 18,
+          "key": "text",
+          "source": "We may request to send you push notifications regarding your account or the App. If you wish to opt out, you may turn them off in your device's settings.",
+          "target": ""
+        },
+        {
+          "index": 20,
+          "key": "text",
+          "source": "Use of Your Information",
+          "target": ""
+        },
+        {
+          "index": 22,
+          "key": "text",
+          "source": "Having accurate information permits us to provide you with a smooth, efficient, and personalized experience. Specifically, we may use information collected about you via the App to:",
+          "target": ""
+        },
+        {
+          "index": 24,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 24,
+          "key": "details",
+          "source": "Save your bookmarks to your device's storage.",
+          "target": ""
+        },
+        {
+          "index": 26,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 26,
+          "key": "details",
+          "source": "Remember your last-read position.",
+          "target": ""
+        },
+        {
+          "index": 28,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 28,
+          "key": "details",
+          "source": "Save a copy of your settings to your device.",
+          "target": ""
+        },
+        {
+          "index": 30,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 30,
+          "key": "details",
+          "source": "Back up your settings to your personal Google Drive account.",
+          "target": ""
+        },
+        {
+          "index": 32,
+          "key": "header",
+          "source": "",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        1
+      ],
+      "id": 1,
+      "part": 2,
+      "of": 2,
+      "frozen": {
+        "id": 1,
+        "item_type": "privacy_policy",
+        "display_order": 1,
+        "created_at": 0,
+        "updated_at": 0
+      },
+      "source": {},
+      "target": {},
+      "content_sections": [
+        {
+          "index": 32,
+          "key": "details",
+          "source": "Identify you when you send feedback or report a dua.",
+          "target": ""
+        },
+        {
+          "index": 34,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 34,
+          "key": "details",
+          "source": "Check your network status to download necessary data.",
+          "target": ""
+        },
+        {
+          "index": 36,
+          "key": "text",
+          "source": "Disclosure of Your Information",
+          "target": ""
+        },
+        {
+          "index": 38,
+          "key": "text",
+          "source": "Your data is never shared with, stored by, or sold to any third parties. The only exception is the use of Google Drive to store a backup of your settings in your own Google account, which remains under your full control.",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        2
+      ],
+      "id": 2,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 2,
+        "item_type": "copyright_warning",
+        "display_order": 2,
+        "created_at": 0,
+        "updated_at": 0
+      },
+      "source": {
+        "title": "Copyright Warning",
+        "hero_title1": "Upholding the Sanctity",
+        "hero_title2": "of Sacred Knowledge"
+      },
+      "target": {
+        "title": "",
+        "hero_title1": "",
+        "hero_title2": ""
+      },
+      "content_sections": [
+        {
+          "index": 0,
+          "key": "text",
+          "source": "Important Notice",
+          "target": ""
+        },
+        {
+          "index": 2,
+          "key": "text",
+          "source": "It is strictly forbidden to modify the content of the Dua & Ruqyah app to create derivative apps or websites that display haram (prohibited) advertisements for monetary gain. We strongly discourage the creation and use of such unauthorized applications. Additionally, these apps will not receive our regular updates, meaning any errors or inaccuracies will remain uncorrected.",
+          "target": ""
+        },
+        {
+          "index": 4,
+          "key": "text",
+          "source": "Permitted Usage",
+          "target": ""
+        },
+        {
+          "index": 6,
+          "key": "text",
+          "source": "You are welcome to share our content on Facebook, YouTube, blogs, articles, and other platforms for the purpose of da'wah (Islamic outreach). In such cases, we kindly request that you credit our app as the source, so that others may also discover and benefit from this work.",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        3
+      ],
+      "id": 3,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 3,
+        "item_type": "about_us",
+        "display_order": 3,
+        "created_at": 0,
+        "updated_at": 0
+      },
+      "source": {
+        "title": "About Us",
+        "hero_title1": "A Journey to Serve the Ummah",
+        "hero_title2": "Through Knowledge and Faith"
+      },
+      "target": {
+        "title": "",
+        "hero_title1": "",
+        "hero_title2": ""
+      },
+      "content_sections": [
+        {
+          "index": 0,
+          "key": "text",
+          "source": "Our journey began in 2012 with a vision to create a comprehensive hadith database. Alhamdulillah, by the grace of Allah, we accomplished this goal and launched the Al-Hadith Android and iOS apps, along with the iHadith.com website.",
+          "target": ""
+        },
+        {
+          "index": 2,
+          "key": "text",
+          "source": "We then expanded our work to Quranic tafsir and translations, launching the Quran Majeed Android and iOS apps and QuranMajeed.com. Most recently, Alhamdulillah, we are humbled to present the Dua & Ruqyah app.",
+          "target": ""
+        },
+        {
+          "index": 4,
+          "key": "text",
+          "source": "We are continually enhancing our existing projects while exploring new ideas that, insha'Allah, will benefit the global Muslim Ummah.",
+          "target": ""
+        },
+        {
+          "index": 6,
+          "key": "text",
+          "source": "Dear brothers and sisters, please remember us in your precious duas.",
+          "target": ""
+        },
+        {
+          "index": 8,
+          "key": "text",
+          "source": "Our Projects",
+          "target": ""
+        },
+        {
+          "index": 10,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 10,
+          "key": "details",
+          "source": "Dua & Ruqyah (Android & iOS)",
+          "target": ""
+        },
+        {
+          "index": 12,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 12,
+          "key": "details",
+          "source": "Al Hadith (Android & iOS)",
+          "target": ""
+        },
+        {
+          "index": 14,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 14,
+          "key": "details",
+          "source": "Quran Majeed (Android & iOS)",
+          "target": ""
+        },
+        {
+          "index": 16,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 16,
+          "key": "details",
+          "source": "iHadith Website",
+          "target": ""
+        },
+        {
+          "index": 18,
+          "key": "header",
+          "source": "",
+          "target": ""
+        },
+        {
+          "index": 18,
+          "key": "details",
+          "source": "Quran Majeed Website",
+          "target": ""
+        },
+        {
+          "index": 20,
+          "key": "text",
+          "source": "To learn more about all our projects, please visit our website.",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        4
+      ],
+      "id": 4,
+      "part": 1,
+      "of": 2,
+      "frozen": {
+        "id": 4,
+        "item_type": "about_this_app",
+        "display_order": 4,
+        "created_at": 0,
+        "updated_at": 0
+      },
+      "source": {
+        "title": "About This App",
+        "hero_title1": "Your Companion for Daily",
+        "hero_title2": "Supplication & Healing"
+      },
+      "target": {
+        "title": "",
+        "hero_title1": "",
+        "hero_title2": ""
+      },
+      "content_sections": [
+        {
+          "index": 0,
+          "key": "text",
+          "source": "Dua & Ruqyah is a comprehensive Islamic app designed to be your daily spiritual companion. Built with love and dedication by IRD Foundation, this app provides authentic duas, ruqyah, and essential Islamic tools to deepen your connection with Allah.",
+          "target": ""
+        },
+        {
+          "index": 2,
+          "key": "text",
+          "source": "What's Inside",
+          "target": ""
+        },
+        {
+          "index": 4,
+          "key": "text",
+          "source": "This app offers a rich collection of Islamic spiritual resources:",
+          "target": ""
+        },
+        {
+          "index": 6,
+          "key": "header",
+          "source": "Vast Dua Collection:",
+          "target": ""
+        },
+        {
+          "index": 6,
+          "key": "details",
+          "source": "Over 200 authentic duas organized by category for daily life, special occasions, and various situations.",
+          "target": ""
+        },
+        {
+          "index": 8,
+          "key": "header",
+          "source": "Ruqyah Ash-Shar'iyyah:",
+          "target": ""
+        },
+        {
+          "index": 8,
+          "key": "details",
+          "source": "A complete collection of verses and supplications from the Quran & Sunnah for spiritual healing and protection.",
+          "target": ""
+        },
+        {
+          "index": 10,
+          "key": "header",
+          "source": "Prayer Times:",
+          "target": ""
+        },
+        {
+          "index": 10,
+          "key": "details",
+          "source": "Accurate prayer time calculations for your location with multiple calculation methods.",
+          "target": ""
+        },
+        {
+          "index": 12,
+          "key": "header",
+          "source": "Memorization Plans:",
+          "target": ""
+        },
+        {
+          "index": 12,
+          "key": "details",
+          "source": "A structured system with progress tracking to help you memorize important duas with ease.",
+          "target": ""
+        },
+        {
+          "index": 14,
+          "key": "header",
+          "source": "Smart Bookmarks:",
+          "target": ""
+        },
+        {
+          "index": 14,
+          "key": "details",
+          "source": "Save and organize your favorite duas for quick and easy access whenever you need them.",
+          "target": ""
+        },
+        {
+          "index": 16,
+          "key": "header",
+          "source": "Multilingual Support:",
+          "target": ""
+        },
+        {
+          "index": 16,
+          "key": "details",
+          "source": "Available in English, Bengali, Arabic, Hindi, and Urdu for global accessibility.",
+          "target": ""
+        },
+        {
+          "index": 18,
+          "key": "text",
+          "source": "Technical Excellence",
+          "target": ""
+        },
+        {
+          "index": 20,
+          "key": "header",
+          "source": "Offline-First:",
+          "target": ""
+        },
+        {
+          "index": 20,
+          "key": "details",
+          "source": "Works completely offline, ensuring you have access to all content without needing an internet connection.",
+          "target": ""
+        },
+        {
+          "index": 22,
+          "key": "header",
+          "source": "Cloud Sync:",
+          "target": ""
+        },
+        {
+          "index": 22,
+          "key": "details",
+          "source": "Optional integration to back up your bookmarks, progress, and preferences across your devices.",
+          "target": ""
+        },
+        {
+          "index": 24,
+          "key": "header",
+          "source": "Smart Notifications:",
+          "target": ""
+        },
+        {
+          "index": 24,
+          "key": "details",
+          "source": "Gentle reminders for prayer times, memorization sessions, and daily dhikr.",
+          "target": ""
+        },
+        {
+          "index": 26,
+          "key": "header",
+          "source": "Advanced Search:",
+          "target": ""
+        },
+        {
+          "index": 26,
+          "key": "details",
+          "source": "Full-text search across all duas and ruqyah content with intelligent filtering options.",
+          "target": ""
+        },
+        {
+          "index": 28,
+          "key": "text",
+          "source": "Our Mission",
+          "target": ""
+        },
+        {
+          "index": 30,
+          "key": "text",
+          "source": "We are committed to creating authentic, high-quality Islamic applications that:",
+          "target": ""
+        },
+        {
+          "index": 32,
+          "key": "header",
+          "source": "Stay True to Islam:",
+          "target": ""
+        },
+        {
+          "index": 32,
+          "key": "details",
+          "source": "All content is carefully verified and sourced from the Quran and authentic Sunnah.",
+          "target": ""
+        },
+        {
+          "index": 34,
+          "key": "header",
+          "source": "Remain Ad-Free:",
+          "target": ""
+        },
+        {
+          "index": 34,
+          "key": "details",
+          "source": "We prioritize your spiritual focus by maintaining a completely ad-free experience.",
+          "target": ""
+        },
+        {
+          "index": 36,
+          "key": "header",
+          "source": "Serve the Global Ummah:",
+          "target": ""
+        },
+        {
+          "index": 36,
+          "key": "details",
+          "source": "Making Islamic knowledge accessible to Muslims worldwide, regardless of location or language.",
+          "target": ""
+        },
+        {
+          "index": 38,
+          "key": "text",
+          "source": "Acknowledgements",
+          "target": ""
+        }
+      ]
+    }
+  ]
+}

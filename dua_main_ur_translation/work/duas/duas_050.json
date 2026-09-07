@@ -1,0 +1,332 @@
+{
+  "table": "duas",
+  "chunk": "duas_050.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 10,
+  "id_range": "760-769",
+  "source_chars": 5701,
+  "items": [
+    {
+      "key": [
+        760
+      ],
+      "id": 760,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 760,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ الْمَسْأَلَةِ، وَخَيْرَ الدُّعَاءِ، وَخَيْرَ النَّجَاحِ، وَخَيْرَ الْعَمَلِ، وَخَيْرَ الثَّوَابِ، وَخَيْرَ الْحَيَاةِ، وَخَيْرَ الْمَمَاتِ، وَثَبِّتْنِيْ، وَثَقِّل مَوَازِينِيْ، وَحَقِّقْ إِيْمَانِيْ، وَارْفَعْ دَرَجَاتِيْ، وَتَقَبَّلْ صَلَاتِيْ، وَاغْفِرْ خَطِيْئَتِيْ، وَأَسْأَلُكَ الدَّرَجَاتِ الْعُلَى مِنَ الْجَنَّةِ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ فَوَاتِحَ الْخَيْرِ، وَخَوَاتِمَهُ، وَجَوَامِعَهُ، وَأَوَّلَهُ، وَآخِرَهُ وَظَاهِرَهُ، وَبَاطِنَهُ، وَالدَّرَجَاتِ الْعُلَى مِنَ الْجَنَّةِ آمِينْ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ مَا آتِيْ، وَخَيْرَ مَا أَفْعَلُ، وَخَيْرَ مَا أَعْمَلُ، وَخَيْرَ مَا بَطَنَ، وَخَيْرَ مَا ظَهَرَ، وَالدَّرَجَاتِ الْعُلَى مِنَ الْجَنَّةِ آمِينْ، اَللَّهُمَّ إنِّي أَسْأَلُكَ أَنْ تَرْفَعَ ذِكْرِيْ، وَتَضَعَ وِزْرِيْ، وَتُصْلِحَ أَمْرِيْ، وَتُطَهِّرَ قَلْبِيْ، وَتُحَصِّنَ فَرْجِيْ، وَتُنَوِّرَ قَلْبِيْ، وَتَغْفِرَ لِي ذَنْۢبِيْ، وَأَسْأَلُكَ الدَّرَجَاتِ الْعُلَى مِنَ الْجَنَّةِ آمِينْ، اَللَّهُمَّ إنِّي أَسْأَلُكَ أَنْ تُبَارِكَ لِي فِي نَفْسِيْ، وَفِي سَمْعِيْ، وَفِي بَصَرِيْ، وَفِي رُوحِيْ، وَفِي خَلْقِيْ، وَفِي خُلُقِيْ، وَفِي أَهْلِيْ، وَفِي مَحْيَايَ، وَفِي مَمَاتِيْ، وَفِي عَمَلِيْ، فَتَقَبَّلْ حَسَنَاتِيْ، وَأَسْأَلُكَ الدَّرَجَاتِ الْعُلَى مِنَ الْجَنَّةِ، آمِينْ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ خَيْرَ الْمَسْاَلَةِ، وَخَيْرَ الدُّعَاءِ، وَخَيْرَ النَّجَاحِ، وَخَيْرَ الْعَمَلِ، وَخَيْرَ الثَّوَابِ، وَخَيْرَ الْحَيَاةِ، وَخَيْرَ الْمَمَاتِ، وَثَبِّتْنِيْ، وَثَقِّلْ مَوَازِيْنِيْ، وَحَقِّقْ اِيْمَانِيْ، وَارْفَعْ دَرَجَاتِيْ، وَتَقَبَّلْ صَلَاتِيْ، وَاغْفِرْ خَطِيْئَتِيْ، وَاَسْاَلُكَ الدَّرَجَاتِ الْعُلٰى مِنَ الْجَنَّةِ، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ فَوَاتِحَ الْخَيْرِ، وَخَوَاتِمَهُ، وَجَوَامِعَهُ، وَاَوَّلَهُ، وَاٰخِرَهُ وَظَاهِرَهُ، وَبَاطِنَهُ، وَالدَّرَجَاتِ الْعُلٰى مِنَ الْجَنَّةِ اٰمِيْن، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ خَيْرَ مَا اٰتِيْ، وَخَيْرَ مَا اَفْعَلُ، وَخَيْرَ مَا اَعْمَلُ، وَخَيْرَ مَا بَطَنَ، وَخَيْرَ مَا ظَهَرَ، وَالدَّرَجَاتِ الْعُلٰى مِنَ الْجَنَّةِ اٰمِيْن، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ اَنْ تَرْفَعَ ذِكْرِيْ، وَتَضَعَ وِزْرِيْ، وَتُصْلِحَ اَمْرِيْ، وَتُطَهِّرَ قَلْبِيْ، وَتُحَصِّنَ فَرْجِيْ، وَتُنَوِّرَ قَلْبِيْ، وَتَغْفِرَ لِيْ ذَنْۢبِيْ، وَاَسْاَلُكَ الدَّرَجَاتِ الْعُلٰى مِنَ الْجَنَّةِ اٰمِيْن، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ اَنْ تُبَارِكَ لِيْ فِيْ نَفْسِيْ، وَفِيْ سَمْعِيْ، وَفِيْ بَصَرِيْ، وَفِيْ رُوْحِيْ، وَفِيْ خَلْقِيْ، وَفِيْ خُلُقِيْ، وَفِيْ اَهْلِيْ، وَفِيْ مَحْيَايَ، وَفِيْ مَمَاتِيْ، وَفِيْ عَمَلِيْ، فَتَقَبَّلْ حَسَنَاتِيْ، وَاَسْاَلُكَ الدَّرَجَاتِ الْعُلٰى مِنَ الْجَنَّةِ، اٰمِيْن",
+        "clean": "اللهم اني اسالك خير المساله وخير الدعاء وخير النجاح وخير العمل وخير الثواب وخير الحياه وخير الممات وثبتني وثقل موازيني وحقق ايماني وارفع درجاتي وتقبل صلاتي واغفر خطيءتي واسالك الدرجات العلي من الجنه اللهم اني اسالك فواتح الخير وخواتمه وجوامعه واوله واخره وظاهره وباطنه والدرجات العلي من الجنه امين اللهم اني اسالك خير ما اتي وخير ما افعل وخير ما اعمل وخير ما بطن وخير ما ظهر والدرجات العلي من الجنه امين اللهم اني اسالك ان ترفع ذكري وتضع وزري وتصلح امري وتطهر قلبي وتحصن فرجي وتنور قلبي وتغفر لي ذنبي واسالك الدرجات العلي من الجنه امين اللهم اني اسالك ان تبارك لي في نفسي وفي سمعي وفي بصري وفي روحي وفي خلقي وفي خلقي وفي اهلي وفي محياي وفي مماتي وفي عملي فتقبل حسناتي واسالك الدرجات العلي من الجنه امين",
+        "transliteration": "Allaahumma inni as’aluka khairal mas alati, wa khairad dua’a-i, wa khairan najaa’hi wa khairal ‘amali wa khairath thawaabi wa khairal ‘hayaati wa khairal mamaati wa thabbitni wa thaqqil mawaazinii wa haqqiq iimaani warfa’ darajaatii wa taqabbal salaatii waghfir khatii-atii wa as-alukad darajaatil ‘ulaa minal jannati. Allaahumma inni as-aluka fawati’hal khayri wa khawaatimahu, wa jawaami’ahu, wa awwalahu wa aakhirahu wa dhaahirahu wa batinahu waddarajaatil ‘ulaa minal jannati aamin.\n\nAllaahumma inni as-aluka khaira maa aatii wa khaira maa af’alu wa khaira maa a’malu wa khaira maa batana wa khaira maa dhahara wad darajaatil ‘ulaa minal jannati aamin. \n\nAllaahumma inni as-aluka an tarfa’a dhikrii wa tada’a wizrii wa tusli’ha amrii wa tutahhira qalbii wa tu’hassina farjii wa tunawwira qalbii wa taghfira lii dhambii wa as-alukad darajaatil ‘ulaa minal jannati aamin. \n\nAllaahumma inni as-aluka an tubaarika lii fii nafsii wa fii sam’ii wa fii basarii wa fi ruuhii wa fii khalqii wa fii khuluqi wa fi ahlii wa fii ma’hyaaya wa fii mamaati wa fii ‘amalii fataqabbal hasanaatii wa as-alukad darajaatil ‘ulaa minal jannati aamin",
+        "reference": "Sahih (Haisami). Majma Al-Jawwat: 10/108",
+        "audio": 760,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Wishing for the welfare of the world and the Hereafter",
+        "content": "Muhammad (ﷺ) supplicate to his Rabb by saying this:",
+        "translation": "O Allah I ask of You the best request, the best supplication, the best success, the best work, the best reward, the best life, and the best death. And make me firm, let my balance (of good) be heavy, fulfill my belief, elevate my position, accept my prayer, and forgive my sin. And I ask of You the highest degrees in Paradise. Ameen.\n\nO Allah I ask of You the beginnings of good, and the endings of good, all its aspects, its first, and its last, its apparent (side) and its unapparent (side), and the highest degrees in Paradise. Ameen. O Allah I ask of You the good that comes to me, and the good of what I do, and the good of my work and the good of what I conceal, and the good of what I reveal and the highest degrees in Paradise. Ameen.\n\nO Allah I ask You to raise high my reputation, relieve me of my burden, set right my affairs, purify my heart, guard my chastity, illuminate my heart, and forgive my sin. And I ask of You the highest degrees in Paradise. Ameen.\n\nO Allah I ask You to bless me in my hearing, in my sight, in my soul, in my body, in my manners, in my family, in my life, in my death, and in my work and to accept my good deeds. And I ask of You the highest degrees in Paradise. Ameen.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        761
+      ],
+      "id": 761,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 761,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ قَنِّعْنِيْ بِمَا رَزَقْتَنِيْ وَبَارِكْ لِي فِيهِ وَأَخْلِفْ عَلَيَّ كُلَّ غَائِبَةٍ لِي بِخَيْرٍ",
+        "indopak": "اَللّٰهُمَّ قَنِّعْنِيْ بِمَا رَزَقْتَنِيْ وَبَارِكْ لِيْ فِيْهِ وَاَخْلِفْ عَلَيَّ كُلَّ غَائِبَةٍ لِّيْ بِخَيْرٍ",
+        "clean": "اللهم قنعني بما رزقتني وبارك لي فيه واخلف علي كل غاءبه لي بخير",
+        "transliteration": "Allaahumma qanni`ni bimaa razaqtani wa baarik lee feehi wa akhlif ‘alayya kulla ghaa'ibatin lee bikhayr",
+        "reference": "Hasan (Ibn Hajar). Futuhatur Rabbaniyyah: 4/383",
+        "audio": 761,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua to get things better than what is lost",
+        "content": "The Prophet (ﷺ) used to say in his supplications:",
+        "translation": "O Allah, make me content with the provision You have given me and bless me in it and appoint good for me in every thing which I do not have.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        762
+      ],
+      "id": 762,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 762,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ حَاسِبْنِيْ حِسَابًا يَسِيْرًا",
+        "indopak": "اَللّٰهُمَّ حَاسِبْنِيْ حِسَابًا يَّسِيْرًا",
+        "clean": "اللهم حاسبني حسابا يسيرا",
+        "transliteration": "Allaahumma haasibni hisaabay yasira",
+        "reference": "Bukhari: 6537",
+        "audio": 762,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua for easy reckoning",
+        "content": "On the authority of  Ayesha (RA), she said, I heard Prophet (ﷺ) saying in his prayer:",
+        "translation": "O Allah! Grant me an easy reckoning.",
+        "note": "Narrated by ‘Aisha (RA): Allah's Messenger (ﷺ), said, \"None will be called to account on the Day of Resurrection, but will be ruined.\" I said \"O Allah's Messenger (ﷺ)! Hasn't Allah said: 'Then as for him who will be given his record in his right hand, he surely will receive an easy reckoning? (84:7-8)  \n\nAllah's Messenger (ﷺ) said, \"That (Verse) means only the presentation of the accounts, but anybody whose account (record) is questioned on the Day of Resurrection, will surely be punished.\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        763
+      ],
+      "id": 763,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 763,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَعِنِّيْ عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "indopak": "اَللّٰهُمَّ اَعِنِّيْ عَلٰى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "clean": "اللهم اعني علي ذكرك وشكرك وحسن عبادتك",
+        "transliteration": "Allaahumma 'a'innee 'alaa dhikrika, wa shukrika, wahusni 'ibaadatik",
+        "reference": "Sahih (Albani). Abu Dawud: 1522",
+        "audio": 763,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Seeking Allah's help in remembrance, thanksgiving and acceptable worship",
+        "content": "Prophet (ﷺ) said, “Do you want to supplicate in most powerful way? Then say this:",
+        "translation": "O Allah, help me to remember You, to give You thanks, and to perform Your worship in the best manner.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        764
+      ],
+      "id": 764,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 764,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ إِيْمَانًا لَا يَرْتَدُّ، وَنَعِيْمًا لَا يَنْفَدُ، وَمُرَافَقَةَ نَبِيِّنَا مُحَمَّدٍ (ﷺ) فِي أَعْلَى جَنَّةِ الْخُلْدِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ اِيْمَانًا لَّا يَرْتَدُّ، وَنَعِيْمًا لَّا يَنْفَدُ، وَمُرَافَقَةَ نَبِيِّنَا مُحَمَّدٍ (ﷺ) فِيْ اَعْلٰى جَنَّةِ الْخُلْدِ",
+        "clean": "اللهم اني اسالك ايمانا لا يرتد ونعيما لا ينفد ومرافقه نبينا محمد  في اعلي جنه الخلد",
+        "transliteration": "Allaahumma Inni As'aluka Imaanan Laa Yartaddu Wa Na'eeman Laa Yanfadu Wa Muraafaqata Nabyyinaa (ﷺ) Fee A'laa Jannatil-Khuld.",
+        "reference": "Hasan (Albani). Silsilatul Sahiha: 5/379",
+        "audio": 764,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua to seek full faith, infinite grace and companionship of the Prophet (ﷺ)",
+        "content": null,
+        "translation": "O Allah, I ask you for such Imaan that does not waver and tranquility that does not diminish and the companionship of our Prophet (ﷺ) in high stations of everlasting Jannah.",
+        "note": "Abdullah Ibn Mas’ud (RA) narrated, he said, “I was praying at the mosque. In the meantime, The Messenger of Allah (ﷺ) entered into the mosque. Abu Bakr (RA) and ‘Umar (RA) were with Him. I recited surah An-Nisah. After completing the recitation, I praised Allah and sent salah upon prophet (ﷺ) then I make dua for myself. Then The Messenger of Allah (ﷺ) said, “Ask! You will be given (what you want).” Then He (ﷺ) said, “Whoever wants to recite the Qur'an in it’s pure form, then he should recite it as Ibn Umm ‘Abd (Abdullah Ibn Mas’ud).\n\nThen I came back to my home. Sometimes later Abu Bakr (RA) came to me and said, “Did you remember the things you are wanting in your supplication?” I replied, “Yes. Those are: (The dua is mentioned above)”\n\nThen ‘Umar (RA) came to this slave of Allah to give the glad tidings. After reaching, he saw Abu Bakr (RA) was leaving from me. Then he [‘Umar (RA)] said, “If you did this, then you are always outdid me.”"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        765
+      ],
+      "id": 765,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 765,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَلْهِمْنِيْ رُشْدِيْ وَأَعِذْنِيْ مِنْ شَرِّ نَفْسِيْ",
+        "indopak": "اَللّٰهُمَّ اَلْهِمْنِيْ رُشْدِيْ وَاَعِذْنِيْ مِنْ شَرِّ نَفْسِيْ",
+        "clean": "اللهم الهمني رشدي واعذني من شر نفسي",
+        "transliteration": "Allaahumma alhimni rushdi, wa a-‘idhni min sharri nafsi",
+        "reference": "Hasan (Ibn Hajar). Takhrij Mishkat: 3/24",
+        "audio": 765,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua for the right direction and protection from the evils of the nafs",
+        "content": null,
+        "translation": "O Allah, inspire me with my guidance, and protect me from harm of myself.",
+        "note": "Imran bin Husain (RA) narrated: “The Prophet (ﷺ) said to my father: ‘O Husain, how many deities do you worship?’ He said: ‘Seven. Six in the earth, and one above the heavens.’ He (ﷺ) said: ‘So which of them do you take for your ardent requests and fears?’ He said: ‘The one above the heavens.’ He (ﷺ) said: ‘O Husain, if you would but accept Islam, I would teach you two phrases that would benefit you.’ He said: “So when Husain accepted Islam, he said: ‘O Messenger of Allah, teach me the two phrases you promised me.’ So, he (ﷺ) said: “Say: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        766
+      ],
+      "id": 766,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 766,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَغَلَبَةِ الْعَدُوِّ وَشَمَاتَةِ الْأَعْدَاءِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَغَلَبَةِ الْعَدُوِّ وَشَمَاتَةِ الْاَعْدَاءِ",
+        "clean": "اللهم اني اعوذ بك من غلبه الدين وغلبه العدو وشماته الاعداء",
+        "transliteration": "Allaahumma inni A‛oodhu bika min ghalabatid-daini, wa ghalabatil-'aduwwi, wa shamaatatil-a'daa'i",
+        "reference": "Sahih (Albani). Nasai: 5487",
+        "audio": 766,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Seeking refuge from the burden of debt, victory and rejoicing of the enemy",
+        "content": "The Messenger of Allah (ﷺ) supplicate by saying these:",
+        "translation": "O Allah, I seek refuge with You from being overwhelmed by debt and from being overpowered by the enemy, and from the enemy rejoicing at my misfortune.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        767
+      ],
+      "id": 767,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 767,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي وَاهْدِنِيْ وَارْزُقْنِيْ وَعَافِنِيْ‏ أَعُوْذُ بِاللَّهِ مِنْ ضِيْقِ الْمَقَامِ يَوْمَ الْقِيَامَةِ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِيْ وَاهْدِنِيْ وَارْزُقْنِيْ وَعَافِنِيْ‏ اَعُوْذُ بِاللّٰهِ مِنْ ضِيْقِ الْمَقَامِ يَوْمَ الْقِيَامَةِ",
+        "clean": "اللهم اغفر لي واهدني وارزقني وعافني اعوذ بالله من ضيق المقام يوم القيامه",
+        "transliteration": "Allaahummaghfir li, wahdini, warzuqni wa 'aafini. A‛oodhu billaahi min di'qil-maqaami yawmal-qiyaamah",
+        "reference": "Hasan Sahih (Albani). Nasai: 1617",
+        "audio": 767,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Seeking refuge from a narrow place on the Day of Resurrection",
+        "content": null,
+        "translation": "O Allah, forgive me, guide me, grant me provision and good health. I seek refuge with Allah from the difficulty of standing on the Day of Resurrection.",
+        "note": "Asim bin Humaid (R) said: \"I asked 'Aishah (RA) how the Prophet (ﷺ)- start his Qiyam Al-Lail? She said: 'You have asked me something which no one before you has asked. The Messenger of Allah (ﷺ) used to say the takbir (Allahu Akbar) ten times, the tahmid (Alhamdu lillah) ten times, the tasbih (Subhanallah) ten times, the tahlil (La ilaha illallah) ten times, and the istigfaar (Astigfirullah) ten times, then he would say: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        768
+      ],
+      "id": 768,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 768,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ مَتِّعْنِيْ بِسَمْعِيْ وَبَصَرِيْ وَاجْعَلْهُمَا الْوَارِثَ مِنِّيْ وَانْصُرْنِيْ عَلَى عَدُوِّيْ وَأَرِنِيْ مِنْهُ ثَأْرِيْ",
+        "indopak": "اَللّٰهُمَّ مَتِّعْنِيْ بِسَمْعِيْ وَبَصَرِيْ وَاجْعَلْهُمَا الْوَارِثَ مِنِّيْ وَانْصُرْنِيْ عَلٰى عَدُوِّيْ وَاَرِنِيْ مِنْهُ ثَأْرِيْ",
+        "clean": "اللهم متعني بسمعي وبصري واجعلهما الوارث مني وانصرني علي عدوي وارني منه ثاري",
+        "transliteration": "Allaahumma mati‛ni bi sam‛i wa basari waj-‛alhumal-waaritha minni, wan-surni 'alaa 'aduwwi wa-arini minhu bi tha’ri",
+        "reference": "Sahih (Albani). Adabul Mufrad: 650",
+        "audio": 768,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Seeking benefit from hearing and sight and seek help against the enemy",
+        "content": "The Prophet (ﷺ) said:",
+        "translation": "O Allah, let me enjoy my sight and hearing and make them remain sound until I die. Turn away my enemy and grant me revenge on him.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        769
+      ],
+      "id": 769,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 769,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ عِيْشَةً نَقِيَّةً وَمِيْتَةً سَوِيَّةً وَمَرَدًّا غَيْرَ مُخْزٍ وَلَا فَضِحٍ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ عِيْشَةً نَّقِيَّةً وَّمِيْتَةً سَوِيَّةً وَّمَرَدًّا غَيْرَ مُخْزٍ وَّلَا فَضِحٍ",
+        "clean": "اللهم اني اسالك عيشه نقيه وميته سويه ومردا غير مخز ولا فضح",
+        "transliteration": "Allaahumma inni as'aluka ‘ishatan naqiyyatan, wa mitatan saweyyatan wa maraddan ghaira mukhzin wala fadi'hin",
+        "reference": "Sahih (Suyuti). Jami' as-Sagir: 1505",
+        "audio": 769,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Seeking blessed life and easy death",
+        "content": "The Messenger of Allah (ﷺ) used to pray like this:",
+        "translation": "O Allah! I ask You for a pure living, an easy death and a return that is not shameful or disgracefull!",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    }
+  ]
+}

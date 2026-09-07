@@ -1,0 +1,564 @@
+{
+  "table": "ruqyah_videos",
+  "chunk": "ruqyah_videos_002.json",
+  "source_language": "bn",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 24,
+  "id_range": "51-74",
+  "source_chars": 1373,
+  "items": [
+    {
+      "key": [
+        51
+      ],
+      "id": 51,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 51,
+        "link_id": 2,
+        "link": "https://www.youtube.com/watch?v=B2waXqWh_Ao&ab_channel=SunnahCare-PropheticMedicine",
+        "cat_id": 15,
+        "subcat_id": 113
+      },
+      "source": {
+        "name": "রুকইয়াহ চিকিৎসা নিয়ে কিছু কথা",
+        "author": "হাফেজ আহমেদ কাদের উদয়"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        52
+      ],
+      "id": 52,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 52,
+        "link_id": 3,
+        "link": "https://www.youtube.com/watch?v=LYsAwQBDdCY&list=PLho3RtMG5RqgowqOprdTQKNaKj6j9xXsn",
+        "cat_id": 15,
+        "subcat_id": 113
+      },
+      "source": {
+        "name": "মাথার সমস্যা দূর করার রুকইয়াহ।",
+        "author": "মুনতাজির মুরতাসিম"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        53
+      ],
+      "id": 53,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 53,
+        "link_id": 4,
+        "link": "https://www.youtube.com/watch?v=XRHTzhc2U7Q&list=PLho3RtMG5Rqjs6yh8kIfDj1Ed5fifIXZH",
+        "cat_id": 15,
+        "subcat_id": 113
+      },
+      "source": {
+        "name": "পেটের যাদু নষ্টের রুকইয়াহ।",
+        "author": "মুনতাজির মুরতাসিম"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        54
+      ],
+      "id": 54,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 54,
+        "link_id": 5,
+        "link": "https://www.youtube.com/watch?v=P96tYtATLBI&list=PLho3RtMG5RqgJuDKbMvx4qVQIr4Q7oBi2",
+        "cat_id": 15,
+        "subcat_id": 113
+      },
+      "source": {
+        "name": "বুকের সমস্যার দূর করার রুকইয়াহ।",
+        "author": "মুনতাজির মুরতাসিম"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        55
+      ],
+      "id": 55,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 55,
+        "link_id": 6,
+        "link": "https://www.youtube.com/watch?v=VQ612q-KSRw&list=PLho3RtMG5RqiE9W46BXNkoMxJOC4YJAJO",
+        "cat_id": 15,
+        "subcat_id": 113
+      },
+      "source": {
+        "name": "পিরিয়ড বা মাসিক সমস্যার রুকইয়াহ।",
+        "author": "মুনতাজির মুরতাসিম"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        56
+      ],
+      "id": 56,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 56,
+        "link_id": 7,
+        "link": "https://youtu.be/BDIMSNa02sE?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 113
+      },
+      "source": {
+        "name": "ঘুমালে ভয়ানক স্বপ্ন দেখি।",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        57
+      ],
+      "id": 57,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 57,
+        "link_id": 8,
+        "link": "https://youtu.be/1OknSCkRAq0?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 113
+      },
+      "source": {
+        "name": "অন্ধকারে ঘুমালে ভয় লাগে।",
+        "author": "আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        58
+      ],
+      "id": 58,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 58,
+        "link_id": 9,
+        "link": "https://youtu.be/ZiFQC_h2jDw?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 113
+      },
+      "source": {
+        "name": "রুকিয়াহ নামে অপ চিকিৎসা নিয়ে কিছু কথা",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        59
+      ],
+      "id": 59,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 59,
+        "link_id": 1,
+        "link": "https://youtu.be/qFRv8yLUTjQ?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "যাদু",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        60
+      ],
+      "id": 60,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 60,
+        "link_id": 2,
+        "link": "https://www.youtube.com/watch?v=fglKLvDPqTs&list=PLho3RtMG5Rqh3QEOyWT0MyAfcg3XR0tH1",
+        "cat_id": 15,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "সব ধরনের যাদু নষ্টের রুকইয়াহ।",
+        "author": "মুনতাজির মুরতাসিম"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        61
+      ],
+      "id": 61,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 61,
+        "link_id": 3,
+        "link": "https://youtu.be/kKUuUWJd2MA?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "কিভাবে বুঝবো আমি যাদু দ্বারা আক্রান্ত কিনা ??",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        62
+      ],
+      "id": 62,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 62,
+        "link_id": 4,
+        "link": "https://youtu.be/YY4MqWMPY10?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "যাদুর চিকিৎসা পদ্ধতি জেনে নিন।",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        63
+      ],
+      "id": 63,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 63,
+        "link_id": 1,
+        "link": "https://www.youtube.com/watch?v=VMKMggpPb6A&list=PLho3RtMG5RqjQjx7cOVWIJ6JFfyJjaL-v",
+        "cat_id": 15,
+        "subcat_id": 115
+      },
+      "source": {
+        "name": "বিয়ের সমস্যা দূর করার রুকইয়াহ।",
+        "author": "মুনতাজির মুরতাসিম"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        64
+      ],
+      "id": 64,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 64,
+        "link_id": 2,
+        "link": "https://youtu.be/fKb2KPK5fQY?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 115
+      },
+      "source": {
+        "name": "স্বামী স্ত্রী একত্র হলেই জগড়া এর কারণ জানতে চাই।",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        65
+      ],
+      "id": 65,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 65,
+        "link_id": 3,
+        "link": "https://www.youtube.com/watch?v=IgbVVK2Vul8&list=PLho3RtMG5RqibZ3jS9w85h_p5LY6xJCWj",
+        "cat_id": 15,
+        "subcat_id": 115
+      },
+      "source": {
+        "name": "বাচ্চা না হবার যাদু নষ্টের রুকইয়াহ।",
+        "author": "মুনতাজির মুরতাসিম"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        66
+      ],
+      "id": 66,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 66,
+        "link_id": 1,
+        "link": "https://youtu.be/gNuS96xvOUU?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 116
+      },
+      "source": {
+        "name": "লাভার জিন / আশিক জিন! কি এবং কেন তা মানুষকে পছন্দ করে।",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        67
+      ],
+      "id": 67,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 67,
+        "link_id": 2,
+        "link": "https://www.youtube.com/watch?v=rCu0yizoQiI&list=PLho3RtMG5RqimHef1dlEQWgKYsXh8us6W",
+        "cat_id": 15,
+        "subcat_id": 116
+      },
+      "source": {
+        "name": "আশিক বা লাভার জিনের সমস্যা রুকইয়াহ।",
+        "author": "মুনতাজির মুরতাসিম"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        68
+      ],
+      "id": 68,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 68,
+        "link_id": 1,
+        "link": "https://youtu.be/iZ2Ul7ga-x8?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 117
+      },
+      "source": {
+        "name": "ওয়াসওয়াসা (শুচিবায়ু) রুগের কারন এবং এ থেকে মুক্তির উপায়",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        69
+      ],
+      "id": 69,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 69,
+        "link_id": 2,
+        "link": "https://youtu.be/W3LbDPhb6TY?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 117
+      },
+      "source": {
+        "name": "ওয়াসওয়াসা (শুচিবায়ু) রোগ",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        70
+      ],
+      "id": 70,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 70,
+        "link_id": 3,
+        "link": "https://www.youtube.com/watch?v=Sw7BczrvLSE",
+        "cat_id": 15,
+        "subcat_id": 117
+      },
+      "source": {
+        "name": "শয়তানের ওয়াস-ওয়াসা থেকে মুক্তির উপায় সমূহ",
+        "author": "শাইখ আবু বকর মুহাম্মাদ জাকারিয়া"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        71
+      ],
+      "id": 71,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 71,
+        "link_id": 4,
+        "link": "https://www.youtube.com/watch?v=FyKztZyq8nw",
+        "cat_id": 15,
+        "subcat_id": 117
+      },
+      "source": {
+        "name": "ওয়াসওয়াসা কেন আসে, আসলে করণীয়?",
+        "author": "শাইখ আবু বকর মুহাম্মাদ যাকারিয়া"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        72
+      ],
+      "id": 72,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 72,
+        "link_id": 5,
+        "link": "https://www.youtube.com/watch?v=GmgXVbuhDPI",
+        "cat_id": 15,
+        "subcat_id": 117
+      },
+      "source": {
+        "name": "ওয়াসওয়াসা বিষয়ে কিছু প্রশ্নোত্তর",
+        "author": "শাইখ আবু বকর মুহাম্মাদ যাকারিয়া"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        73
+      ],
+      "id": 73,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 73,
+        "link_id": 6,
+        "link": "https://www.youtube.com/watch?v=7Exc1nsebNw",
+        "cat_id": 15,
+        "subcat_id": 117
+      },
+      "source": {
+        "name": "নামাজে নানাবিধ খারাপ কথা মনে আসা বা শয়তানের ওয়াসওয়াসা",
+        "author": "খোন্দকার আব্দুল্লাহ জাহাঙ্গীর"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        74
+      ],
+      "id": 74,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 74,
+        "link_id": 7,
+        "link": "https://www.youtube.com/watch?v=sz_j9eKRRUU",
+        "cat_id": 15,
+        "subcat_id": 117
+      },
+      "source": {
+        "name": "যে আমলে শয়তানের ওয়াসওয়াসা থেকে মুক্ত থাকবেন",
+        "author": "ডাঃ মোহাম্মাদ সাইফুল্লাহ"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    }
+  ]
+}

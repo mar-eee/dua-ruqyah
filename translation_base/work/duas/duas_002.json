@@ -1,0 +1,588 @@
+{
+  "table": "duas",
+  "chunk": "duas_002.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 18,
+  "id_range": "16-33",
+  "source_chars": 5847,
+  "items": [
+    {
+      "key": [
+        16
+      ],
+      "id": 16,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 16,
+        "groups": null,
+        "uthmani": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِيْ عَلَى دِيْنِكَ",
+        "indopak": "يَا مُقَلِّبَ الْقُلُوْبِ ثَبِّتْ قَلْبِيْ عَلٰى دِيْنِكَ",
+        "clean": "يا مقلب القلوب ثبت قلبي علي دينك",
+        "transliteration": "Ya Muqallibal-qulubi, thabbit qalbi 'ala dinik",
+        "reference": "Sahih (Albani). Tirmidhi: 3522",
+        "audio": 16,
+        "cat_id": 1,
+        "subcat_id": 4
+      },
+      "source": {
+        "name": "Dua to remain steadfast on the religion",
+        "content": "Shahr bin Hawshab (R) said: “I said to Umm Salamah (RA): ‘O Mother of the Believers! What was the supplication that the Messenger of Allah (ﷺ) said most frequently when he was with you?” She said: ‘The supplication he said most frequently was -",
+        "translation": "O Changer of the Hearts! Strengthen my heart upon Your Religion.",
+        "note": "So I said: O Messenger of Allah (ﷺ), why do you supplicate so frequently. He said: ‘O Umm Salamah! Verily, there is no human being except that his heart is between Two Fingers of the Fingers of Allah, so whomsoever He wills He makes steadfast, and whomever He wills He causes to deviate."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        17
+      ],
+      "id": 17,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 17,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَحْسِنْ عَاقِبَتَنَا فِي الْأُمُورِ كُلِّهَا وَأَجِرْنَا مِنْ خِزْيِ الدُّنْيَا وَعَذَابِ الْآَخِرَةِ",
+        "indopak": "اَللّٰهُمَّ اَحْسِنْ عَاقِبَتَنَا فِي الْاُمُوْرِ كُلِّهَا وَاَجِرْنَا مِنْ خِزْيِ الدُّنْيَا وَعَذَابِ الْاٰخِرَةِ",
+        "clean": "اللهم احسن عاقبتنا في الامور كلها واجرنا من خزي الدنيا وعذاب الاخره",
+        "transliteration": "Allaahumma a'hsin ‘aaqibatanaa fil umuri kullihaa wa ajirna min khiz-yid dunya wa ‘adhaabil akhirah",
+        "reference": "Sahih (Suyuti). Jami'us Sagir: 1450",
+        "audio": 17,
+        "cat_id": 1,
+        "subcat_id": 5
+      },
+      "source": {
+        "name": "Good results and protection in all activities",
+        "content": "Narrated Busar Ibn Artaa (RA): I heard the Messenger of Allah (ﷺ) reciting supplications like this -",
+        "translation": "O Allah! grant us a good outcome on all of our affairs and save us from the disgrace of this world and the punishment of the Hereafter.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        18
+      ],
+      "id": 18,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 18,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَصْلِحْ لِي دِينِيَ الَّذِي هُوَ عِصْمَةُ أَمْرِي، وَأَصْلِحْ لِي دُنْيَايَ الَّتِي فِيهَا مَعَاشِي، وَأَصْلِحْ لِي آخِرَتِي الَّتِي فِيهَا مَعَادِي، وَاجْعَلِ الْحَيَاةَ زِيَادَةً لِي فِي كُلِّ خَيْرٍ، وَاجْعَلِ الْمَوْتَ رَاحَةً لِي مِنْ كُلِّ شَرٍّ",
+        "indopak": "اَللّٰهُمَّ اَصْلِحْ لِيْ دِيْنِيَ الَّذِيْ هُوَ عِصْمَةُ اَمْرِيْ، وَاَصْلِحْ لِيْ دُنْيَايَ الَّتِيْ فِيْهَا مَعَاشِيْ، وَاَصْلِحْ لِيْ اٰخِرَتِي الَّتِيْ فِيْهَا مَعَادِيْ، وَاجْعَلِ الْحَيَاةَ زِيَادَةً لِّيْ فِيْ كُلِّ خَيْرٍ، وَاجْعَلِ الْمَوْتَ رَاحَةً لِّيْ مِنْ كُلِّ شَرٍّ",
+        "clean": "اللهم اصلح لي ديني الذي هو عصمه امري واصلح لي دنياي التي فيها معاشي واصلح لي اخرتي التي فيها معادي واجعل الحياه زياده لي في كل خير واجعل الموت راحه لي من كل شر",
+        "transliteration": "Allaahumma aslih lee deeni alladhi huwa ‛is-matu amree, Wa aslih lee dun-yaaiallati feeha ma‛aashee, Wa asli lee aakhiratee allati feeha ma‛aadee, Waj-‛alil hayaata ziyaa‛datan lee fee kulli khair waj 'alilmawta raa‛hatan lee min kulli sharr",
+        "reference": "Muslim: 2720",
+        "audio": 18,
+        "cat_id": 1,
+        "subcat_id": 6
+      },
+      "source": {
+        "name": "Seeking good of this world and the hereafter #1",
+        "content": "The Messenger of Allah (ﷺ) used to say -",
+        "translation": "O Allah perfect for me my religion on which success of all my affairs depends, And perfect my worldly affairs on which my livelihood depends, And perfect my hereafter to which I will return, And make in life for me an increase of all good, And make death for me a comfort from all evil.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        19
+      ],
+      "id": 19,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 19,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ وَتَحَوُّلِ عَافِيَتِكَ وَفُجَاءَةِ نِقْمَتِكَ وَجَمِيعِ سَخَطِكَ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ وَتَحَوُّلِ عَافِيَتِكَ وَفُجَاءَةِ نِقْمَتِكَ وَجَمِيْعِ سَخَطِكَ",
+        "clean": "اللهم اني اعوذ بك من زوال نعمتك وتحول عافيتك وفجاءه نقمتك وجميع سخطك",
+        "transliteration": "Allaahumma in-nee a‛oodhu bika min za-waali ni‛matik, wa tahaw-wuli ‛aafi-yatik, wa fujaa-ati niqmatik, wa jamee‛i sakha-tik",
+        "reference": "Muslim: 2739",
+        "audio": 19,
+        "cat_id": 1,
+        "subcat_id": 6
+      },
+      "source": {
+        "name": "Seeking good of this world and the hereafter #2",
+        "content": "Narrated Abdullah bin Umar (RA): One of the supplications of the Messenger of Allah (ﷺ) was as follows -",
+        "translation": "O Allah, I seek refuge with You from deprivation of Your blessing, alteration of Your protection, sudden infliction of Your anger, and all Your wrath.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        20
+      ],
+      "id": 20,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 20,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+        "clean": "اللهم اني اعوذ بك من الهم والحزن والعجز والكسل والبخل والجبن وضلع الدين وغلبه الرجال",
+        "transliteration": "Allaahumma 'innee 'A'oodhu bika minal-hammi wal-hazani, wal'ajzi wal-kasali, wal-bukhli wal-jubni, wa dhala'id-dayni wa ghalabatir-rijaal",
+        "reference": "Bukhari :2893",
+        "audio": 20,
+        "cat_id": 1,
+        "subcat_id": 7
+      },
+      "source": {
+        "name": "Shelter from evil consequences and rejoicing of the enemy",
+        "content": "Narrated Abu Huraira (RA): Allah's Messenger (ﷺ) used to seek refuge with Allah from the difficult moment of a calamity and from being overtaken by destruction and from being destined to an evil end, and from the malicious joy of enemies.",
+        "translation": "O Allah, I seek refuge in you from grief and sadness, from weakness and from laziness, from miserliness and from cowardice, from being overcome by debt and overpowered by men (i.e. others).",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        21
+      ],
+      "id": 21,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 21,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
+        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد وهو علي كل شيء قدير",
+        "transliteration": "Laa 'ilaaha 'illAllahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu wa Huwa 'alaa kulli shay'in Qadeer",
+        "reference": "Bukhari No: 6403; Muslim No: 2693",
+        "audio": 21,
+        "cat_id": 2,
+        "subcat_id": 8
+      },
+      "source": {
+        "name": "The reward of freeing the four slaves of Bani Ismail (AS)",
+        "content": "Say ten times -",
+        "translation": "None has the right to be worshipped except Allah, alone, without any partner. To Him belong all sovereignty and praise and He is over all things omnipotent.",
+        "note": "Whoever says this dua ten times is like one who has freed four slaves from among the children of Ismaa'eel."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        22
+      ],
+      "id": 22,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 22,
+        "groups": null,
+        "uthmani": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+        "indopak": "سُبْحَانَ اللّٰهِ وَبِحَمْدِهٖ",
+        "clean": "سبحان الله وبحمده",
+        "transliteration": "SubhaanAllahi wa bihamdihi",
+        "reference": "Bukhari: 6405",
+        "audio": 22,
+        "cat_id": 2,
+        "subcat_id": 8
+      },
+      "source": {
+        "name": "Sins will be forgiven even if like the foam of the sea",
+        "content": "The Prophet (ﷺ) said, A person who says 100 times a day -",
+        "translation": "Glorified is Allah and praised is He.",
+        "note": "The Prophet (ﷺ) said, A person who says 100 times a day (dua mentioned above) It will be forgiven all his sins even if they were as much as the foam of the sea."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        23
+      ],
+      "id": 23,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 23,
+        "groups": null,
+        "uthmani": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+        "indopak": "سُبْحَانَ اللّٰهِ وَبِحَمْدِهٖ، سُبْحانَ اللّٰهِ الْعَظِيْمِ",
+        "clean": "سبحان الله وبحمده سبحان الله العظيم",
+        "transliteration": "SubhaanAllahi wa bihamdihi, Subhaanal-laahil-'Adheem",
+        "reference": "Bukhari: 6406",
+        "audio": 23,
+        "cat_id": 2,
+        "subcat_id": 8
+      },
+      "source": {
+        "name": "A dhikr which is light on tongue, Heavy on the balance",
+        "content": "The Prophet (ﷺ) said, \"There are two expressions which are very easy for the tongue to say, but they are very heavy in the balance and are very dear to The Beneficent (Allah). And those are -",
+        "translation": "Glory be to Allah and all praise is due to him, glory be to Allah the great.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        24
+      ],
+      "id": 24,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 24,
+        "groups": null,
+        "uthmani": "سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ",
+        "indopak": "سُبْحَانَ اللّٰهِ، وَالْحَمْدُ لِلّٰهِ، وَلَااِلٰهَ اِلَّا اللّٰهُ، وَاللّٰهُ اَكْبَرُ",
+        "clean": "سبحان الله والحمد لله ولااله الا الله والله اكبر",
+        "transliteration": "SubhaanAllahi, walhamdu lillaahi, wa Laa 'ilaaha 'illAllahu, wa Allahu 'Akbar",
+        "reference": "[1] Muslim: 2137\n[2] Muslim: 2695",
+        "audio": 24,
+        "cat_id": 2,
+        "subcat_id": 8
+      },
+      "source": {
+        "name": "Most beloved words to Allah",
+        "content": "The Messenger of Allah (ﷺ) said \"The dearest phrases to Allah are four. There is no harm for you in which of them begin with (while remembering Allah). And they are -",
+        "translation": "How perfect Allah is, and all praise is for Allah. None has the right to be worshipped except Allah, and Allah is the greatest. [1]",
+        "note": "Allah's Messenger (ﷺ) said, \"The uttering of (these words) is dearer to me than anything over which the sun rises. [2]"
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        25
+      ],
+      "id": 25,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 25,
+        "groups": null,
+        "uthmani": "سُبْحَانَ اللَّهِ",
+        "indopak": "سُبْحَانَ اللّٰهِ",
+        "clean": "سبحان الله",
+        "transliteration": "SubhaanAllah",
+        "reference": "Muslim: 2698",
+        "audio": 25,
+        "cat_id": 2,
+        "subcat_id": 8
+      },
+      "source": {
+        "name": "To gain one thousand rewards or wipe away one thousand sins",
+        "content": "The Prophet (ﷺ) said, Whoever says 100 times -",
+        "translation": "How perfect Allah is.",
+        "note": "One thousand virtues are recorded (to your credit) and one thousand vices are blotted out."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        26
+      ],
+      "id": 26,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 26,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\nقُلْ هُوَ اللَّـهُ أَحَدٌ ﴿١﴾ اللَّـهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿٤﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ\nقُلْ هُوَ اللّٰهُ اَحَدٌ﴿١﴾ اللّٰهُ الصَّمَدُ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُوْلَدْ﴿٣﴾ وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ﴿٤﴾",
+        "clean": "بسم الله الرحمن الرحيمقل هو الله احد١ الله الصمد٢ لم يلد ولم يولد٣ ولم يكن له كفوا احد٤",
+        "transliteration": "Bismillaahir-Rahmaanir-Raheem. (1) Qul HuwAllahu 'Ahad. (2) Allahus-Samad. (3) Lam yalid wa lam yoolad. (4) Wa lam yakun lahu kufuwan 'ahad",
+        "reference": "Sahih (Albani). Sahih Al Jame: 6472",
+        "audio": 26,
+        "cat_id": 2,
+        "subcat_id": 8
+      },
+      "source": {
+        "name": "Build a house in Paradise",
+        "content": "Surah Ikhlas 10 Times:",
+        "translation": "In the name of Allah, the Entirely Merciful, the Especially Merciful. (1) Say, \"He is Allah, [who is] One, (2) Allah, the Eternal Refuge. (3) He neither begets nor is born, (4) Nor is there to Him any equivalent.\" (Sura Ikhlas: 1-4)",
+        "note": "In a saheeh hadeeth, Mu'adh ibn Anas (RA) said: The Messenger of Allah (ﷺ) said: Whoever recites Surah Ikhlas 10 times, Allah will make a house for him in Paradise."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        27
+      ],
+      "id": 27,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 27,
+        "groups": null,
+        "uthmani": "سُبْحَانَ اللَّهِ الْعَظِيمِ وَبِحَمْدِهِ",
+        "indopak": "سُبْحَانَ اللّٰهِ الْعَظِيْمِ وَبِحَمْدِهٖ",
+        "clean": "سبحان الله العظيم وبحمده",
+        "transliteration": "SubhaanAllahil-'Adheem wa bihamdihi",
+        "reference": "Sahih (Albani). Tirmidhi: 3464",
+        "audio": 27,
+        "cat_id": 2,
+        "subcat_id": 8
+      },
+      "source": {
+        "name": "Date palm planted in Paradise",
+        "content": "Whoever says -",
+        "translation": "How perfect Allah is, The Supreme, and I praise Him.",
+        "note": "A palm tree will be planted in Paradise for him."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        28
+      ],
+      "id": 28,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 28,
+        "groups": null,
+        "uthmani": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "indopak": "لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ",
+        "clean": "لا حول ولا قوه الا بالله",
+        "transliteration": "Laa hawla wa laa quwwata 'illaa billaah",
+        "reference": "Bukhari: 6384",
+        "audio": 28,
+        "cat_id": 2,
+        "subcat_id": 8
+      },
+      "source": {
+        "name": "Treasure of Paradise",
+        "content": null,
+        "translation": "There is no might nor power except with Allah.",
+        "note": "The Prophet (ﷺ) said, “O 'Abdullah ibn Qays! Shall I not inform you of one of the treasures of Paradise? ” I said, \"Surely, O Messenger of Allah.\" He said, \"Say it.\" - (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        29
+      ],
+      "id": 29,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 29,
+        "groups": "[{\"id\": 29, \"name\": null, \"cat_id\": 2, \"subcat_id\": 8, \"content\": \"He said: Say -\", \"uthmani\": \"\\u0627\\u064e\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f\\u0645\\u0651\\u064e \\u0627\\u063a\\u0652\\u0641\\u0650\\u0631\\u0652 \\u0644\\u0650\\u064a\\u060c \\u0648\\u064e\\u0627\\u0631\\u0652\\u062d\\u064e\\u0645\\u0652\\u0646\\u0650\\u064a\\u060c \\u0648\\u064e\\u0627\\u0647\\u0652\\u062f\\u0650\\u0646\\u0650\\u064a\\u060c \\u0648\\u064e\\u0639\\u064e\\u0627\\u0641\\u0650\\u0646\\u0650\\u064a \\u0648\\u064e\\u0627\\u0631\\u0652\\u0632\\u064f\\u0642\\u0652\\u0646\\u0650\\u064a\", \"indopak\": \"\\u0627\\u064e\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f\\u0645\\u0651\\u064e \\u0627\\u063a\\u0652\\u0641\\u0650\\u0631\\u0650 \\u0644\\u0650\\u064a\\u0652\\u060c \\u0648\\u064e\\u0627\\u0631\\u0652\\u062d\\u064e\\u0645\\u0652\\u0646\\u0650\\u064a\\u0652\\u060c \\u0648\\u064e\\u0627\\u0647\\u0652\\u062f\\u0650\\u0646\\u0650\\u064a\\u0652\\u060c \\u0648\\u064e\\u0639\\u064e\\u0627\\u0641\\u0650\\u0646\\u0650\\u064a\\u0652 \\u0648\\u064e\\u0627\\u0631\\u0652\\u0632\\u064f\\u0642\\u0652\\u0646\\u0650\\u064a\\u0652\", \"clean\": \"\\u0627\\u0644\\u0644\\u0647\\u0645 \\u0627\\u063a\\u0641\\u0631 \\u0644\\u064a \\u0648\\u0627\\u0631\\u062d\\u0645\\u0646\\u064a \\u0648\\u0627\\u0647\\u062f\\u0646\\u064a \\u0648\\u0639\\u0627\\u0641\\u0646\\u064a \\u0648\\u0627\\u0631\\u0632\\u0642\\u0646\\u064a\", \"transliteration\": \"Allaahummaghfir lee, warhamnee, wahdinee, wa 'aafinee warzuqnee\", \"translation\": \"O Allah, forgive me, have mercy upon me, guide me and grant me sustenance.\", \"note\": \"Then, when the Bedouin returned, the Messenger of Allah (\\ufdfa), said, \\\"The man filled his hand with goodness.\\\"\", \"reference\": \"Muslim: 2696\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، اللَّهُ أَكْبَرُ كَبِيرًا، وَالْحَمْدُ لِلَّهِ كَثِيرًا، سُبْحَانَ اللَّهِ رَبِّ الْعَالَمِينَ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَزِيزِ الْحَكِيمِ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، اَللّٰهُ اَكْبَرُ كَبِيْرًا، وَالْحَمْدُ لِلّٰهِ كَثِيْرًا، سُبْحَانَ اللّٰهِ رَبِّ العَالَمِيْنَ، لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ الْعَزِيْزِ الْحَكِيْمِ",
+        "clean": "لا اله الا الله وحده لا شريك له الله اكبر كبيرا والحمد لله كثيرا سبحان الله رب العالمين لا حول ولا قوه الا بالله العزيز الحكيم",
+        "transliteration": "Laa 'ilaaha 'illAllahu wahdahu laa shareeka lahu, Allahu 'Akbar kabeeran, walhamdu lillaahi katheeran, SubhaanAllahi Rabbil-'aalameen, laa hawla wa laa quwwata 'illaa biilaahil-'Azeezil-Hakeem",
+        "reference": null,
+        "audio": 29,
+        "cat_id": 2,
+        "subcat_id": 8
+      },
+      "source": {
+        "name": "Glory be to Allah with praise",
+        "content": null,
+        "translation": "None has the right to be worshipped except Allah, alone without any partener. Allah is most great and much praise is for Allah. How perfect Allah is, Lord of the worlds. There is no might nor power except with Allah, The Exalted in might, The Wise.",
+        "note": "A Bedouin came to the Prophet (ﷺ) and asked, \"Teach me a word that I will say.\"\n\nThen the Messenger of Allah (ﷺ) said, Say: (The dua is mentioned above)\n\nThen the Bedouin said, \"These are for my Lord; What for me?\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        30
+      ],
+      "id": 30,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 30,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَعَافِنِي وَارْزُقْنِي",
+        "indopak": "اَللّٰهُمَّ اغْفِرِ لِيْ، وَارْحَمْنِيْ، وَاهْدِنِيْ، وَعَافِنِيْ وَارْزُقْنِيْ",
+        "clean": "اللهم اغفر لي وارحمني واهدني وعافني وارزقني",
+        "transliteration": "Allaahummaghfir lee, warhamnee, wahdinee, wa 'aafinee warzuqnee",
+        "reference": "Muslim: 2697",
+        "audio": 30,
+        "cat_id": 2,
+        "subcat_id": 8
+      },
+      "source": {
+        "name": "Dua to be recited after accepting Islam",
+        "content": "Whenever a person embraced Islam, Allah's Messenger (ﷺ) instructed him to recilte -",
+        "translation": "O Allah, forgive me, have mercy upon me, guide me and grant me sustenance.",
+        "note": "Another narration of Muslim says, \"These will combine everything in this world and the Hereafter for you.\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        31
+      ],
+      "id": 31,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 31,
+        "groups": "[{\"id\": 31, \"name\": null, \"cat_id\": 2, \"subcat_id\": 8, \"content\": \"The greatest Dhikr\", \"uthmani\": \"\\u0644\\u064e\\u0627 \\u0625\\u0650\\u0644\\u064e\\u0647\\u064e \\u0625\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f\", \"indopak\": \"\\u0644\\u064e\\u0627 \\u0627\\u0650\\u0644\\u0670\\u0647\\u064e \\u0627\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f\", \"clean\": \"\\u0644\\u0627 \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0627 \\u0627\\u0644\\u0644\\u0647\", \"transliteration\": \"Laa 'ilaaha 'illAllah\", \"translation\": \"None has the right to be worshipped except Allah.\", \"note\": null, \"reference\": \"Hasan (Albani). Tirmidhi: 3383\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "اَلْحَمْدُ لِلَّهِ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ",
+        "clean": "الحمد لله",
+        "transliteration": "Alhamdu lillaah",
+        "reference": null,
+        "audio": 31,
+        "cat_id": 2,
+        "subcat_id": 8
+      },
+      "source": {
+        "name": "Best Supplication & Best Dhikr",
+        "content": "The greatest Dua",
+        "translation": "All praise is for Allah.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        32
+      ],
+      "id": 32,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 32,
+        "groups": null,
+        "uthmani": "سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "indopak": "سُبْحَانَ اللّٰهِ، وَالْحَمْدُ لِلّٰهِ، وَلَا اِلٰهَ اِلَّا اللّٰهُ، وَاللّٰهُ اَكْبَرُ، لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ",
+        "clean": "سبحان الله والحمد لله ولا اله الا الله والله اكبر لا حول ولا قوه الا بالله",
+        "transliteration": "SubhaanAllah, walhamdu lillaah, wa Laa 'ilaaha 'illAllah, wa Allahu 'Akbar, Laa hawla wa laa quwwata 'illaa billaah",
+        "reference": "Musnad-e Ahmad (no. 513) (Ahmad Shakir, ed.) and its chain of narration is authentic. See Majma'uz-Zawa'id 1/297. Ibn Hajar mentions it in Bulughul-Maram saying that Ibn Hibban and Al-Hakim considered it authentic.",
+        "audio": 32,
+        "cat_id": 2,
+        "subcat_id": 8
+      },
+      "source": {
+        "name": "Good deeds which endure",
+        "content": "Eternal good deeds are -",
+        "translation": "How perfect Allah is, and all praise is for Allah. None has the right to be worshipped except Allah, and Allah is the greatest. There is no might nor power except with Allah.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        33
+      ],
+      "id": 33,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 33,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Sahih (Albani). Abu Dawud: 1502",
+        "audio": null,
+        "cat_id": 2,
+        "subcat_id": 8
+      },
+      "source": {
+        "name": "How the Prophet (ﷺ) made tasbeeh?",
+        "content": "Narrated by Abdullah ibn Amr ibn al-'As (RA), I saw the Messenger of Allah (ﷺ) counting the glorification of Allah on fingers. Ibn Qudamah (RA) said in his version: \"With his right hands\".",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    }
+  ]
+}

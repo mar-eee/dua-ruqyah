@@ -1,0 +1,1100 @@
+{
+  "table": "duas",
+  "chunk": "duas_061.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 34,
+  "id_range": "968-1001",
+  "source_chars": 4766,
+  "items": [
+    {
+      "key": [
+        968
+      ],
+      "id": 968,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 968,
+        "groups": null,
+        "uthmani": "رَبَّنَا إِنَّكَ جَامِعُ النَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ اللَّهَ لَا يُخْلِفُ الْمِيعَادَ ‎﴿٩﴾‏",
+        "indopak": "رَبَّنَاۤ اِنَّکَ جَامِعُ النَّاسِ لِیَوۡمٍ لَّا رَیۡبَ فِیۡہِ ؕ اِنَّ اللّٰہَ لَا یُخۡلِفُ الۡمِیۡعَادَ ﴿٩﴾‏",
+        "clean": "ربنا ان جامع الناس لوم لا رب ف  ان الل لا خلف المعاد ٩",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:9",
+        "audio": null,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #9",
+        "content": null,
+        "translation": "Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allah does not fail in His promise.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        969
+      ],
+      "id": 969,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 969,
+        "groups": null,
+        "uthmani": "رَبَّنَا إِنَّنَا آمَنَّا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِ",
+        "indopak": "رَبَّنَا اِنَّنَا اٰمَنَّا فَاغْفِرْ لَنَا ذُنُوْبَنَا وَقِنَا عَذَابَ النَّارِ",
+        "clean": "ربنا اننا امنا فاغفر لنا ذنوبنا وقنا عذاب النار",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:16",
+        "audio": 969,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #10",
+        "content": null,
+        "translation": "Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        970
+      ],
+      "id": 970,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 970,
+        "groups": null,
+        "uthmani": "رَبَّنَا آمَنَّا بِمَا أَنزَلْتَ وَاتَّبَعْنَا الرَّسُولَ فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+        "indopak": "رَبَّنَا اٰمَنَّا بِمَا اَنزَلْتَ وَاتَّبَعْنَا الرَّسُوْلَ فَاكْتُبْنَا مَعَ الشَّاهِدِيْنَ",
+        "clean": "ربنا امنا بما انزلت واتبعنا الرسول فاكتبنا مع الشاهدين",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:53",
+        "audio": 970,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #11",
+        "content": null,
+        "translation": "Our Lord, we have believed in what You revealed and have followed the messenger, so register us among the witnesses [to truth].",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        971
+      ],
+      "id": 971,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 971,
+        "groups": null,
+        "uthmani": "رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+        "indopak": "رَبَّنَا اغْفِرْ لَنَا ذُنُوْبَنَا وَاِسْرَافَنَا فِيْ اَمْرِنَا وَثَبِّتْ اَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِيْنَ",
+        "clean": "ربنا اغفر لنا ذنوبنا واسرافنا في امرنا وثبت اقدامنا وانصرنا علي القوم الكافرين",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:147",
+        "audio": 971,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #12",
+        "content": null,
+        "translation": "Our Lord, forgive us our sins and the excess [committed] in our affairs and plant firmly our feet and give us victory over the disbelieving people.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        972
+      ],
+      "id": 972,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 972,
+        "groups": null,
+        "uthmani": "رَبَّنَا مَا خَلَقْتَ هَـٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ ﴿١٩١﴾",
+        "indopak": "رَبَّنَا مَا خَلَقْتَ هٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ ﴿١٩١﴾",
+        "clean": "ربنا ما خلقت هذا باطلا سبحانك فقنا عذاب النار ١٩١",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:191",
+        "audio": 972,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #13",
+        "content": null,
+        "translation": "Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        973
+      ],
+      "id": 973,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 973,
+        "groups": null,
+        "uthmani": "رَبَّنَا إِنَّكَ مَن تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ ۖ وَمَا لِلظَّالِمِينَ مِنْ أَنصَارٍ ﴿١٩٢﴾",
+        "indopak": "رَبَّنَا اِنَّكَ مَن تُدْخِلِ النَّارَ فَقَدْ اَخْزَيْتَهُ ۖ وَمَا لِلظَّالِمِيْنَ مِنْ اَنصَارٍ  ﴿١٩٢﴾",
+        "clean": "ربنا انك من تدخل النار فقد اخزيته  وما للظالمين من انصار  ١٩٢",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:192",
+        "audio": 973,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #14",
+        "content": null,
+        "translation": "Our Lord, indeed whoever You admit to the Fire - You have disgraced him, and for the wrongdoers there are no helpers.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        974
+      ],
+      "id": 974,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 974,
+        "groups": null,
+        "uthmani": "رَّبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ آمِنُوا بِرَبِّكُمْ فَآمَنَّا",
+        "indopak": "رَّبَّنَا اِنَّنَا سَمِعْنَا مُنَادِيًا يُّنَادِيْ لِلْاِيْمَانِ اَنْ اٰمِنُوْا بِرَبِّكُمْ فَاٰمَنَّا",
+        "clean": "ربنا اننا سمعنا مناديا ينادي للايمان ان امنوا بربكم فامنا",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:193",
+        "audio": 974,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #15",
+        "content": null,
+        "translation": "(193) Our Lord, indeed we have heard a caller calling to faith, [saying], 'Believe in your Lord,' and we have believed.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        975
+      ],
+      "id": 975,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 975,
+        "groups": null,
+        "uthmani": "رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ ﴿١٩٣﴾",
+        "indopak": "رَبَّنَا فَاغْفِرْ لَنَا ذُنُوْبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْاَبْرَارِ ﴿١٩٣﴾",
+        "clean": "ربنا فاغفر لنا ذنوبنا وكفر عنا سيءاتنا وتوفنا مع الابرار ١٩٣",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:193",
+        "audio": 975,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #16",
+        "content": null,
+        "translation": "Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die with the righteous.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        976
+      ],
+      "id": 976,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 976,
+        "groups": null,
+        "uthmani": "رَبَّنَا وَآتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ ۗ إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ ﴿١٩٤﴾",
+        "indopak": "رَبَّنَا وَاٰتِنَا مَا وَعَدْتَّنَا عَلٰي رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ ۗ اِنَّكَ لَا تُخْلِفُ الْمِيْعَادَ ﴿١٩٤﴾",
+        "clean": "ربنا واتنا ما وعدتنا علي رسلك ولا تخزنا يوم القيامه  انك لا تخلف الميعاد ١٩٤",
+        "transliteration": null,
+        "reference": "Surah Ali-Imran 3:194",
+        "audio": 976,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #17",
+        "content": null,
+        "translation": "Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise.\"",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        977
+      ],
+      "id": 977,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 977,
+        "groups": null,
+        "uthmani": "رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+        "indopak": "رَبَّنَا اٰمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِيْنَ",
+        "clean": "ربنا امنا فاكتبنا مع الشاهدين",
+        "transliteration": null,
+        "reference": "Surah Al-Maidah 5:83",
+        "audio": 977,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #18",
+        "content": null,
+        "translation": "Our Lord, we have believed, so register us among the witnesses.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        978
+      ],
+      "id": 978,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 978,
+        "groups": null,
+        "uthmani": "وَارْزُقْنَا وَأَنتَ خَيْرُ الرَّازِقِينَ",
+        "indopak": "وَارْزُقْنَا وَاَنْتَ خَيْرُ الرَّازِقِيْنَ",
+        "clean": "وارزقنا وانت خير الرازقين",
+        "transliteration": null,
+        "reference": "Surah Al-Maidah 5:114",
+        "audio": 978,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #19",
+        "content": null,
+        "translation": "And provide for us, and You are the best of providers.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        979
+      ],
+      "id": 979,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 979,
+        "groups": null,
+        "uthmani": "رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+        "indopak": "رَبَّنَا ظَلَمْنَا اَنْفُسَنَا وَاِنْ لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُوْنَنَّ مِنَ الْخَاسِرِيْنَ",
+        "clean": "ربنا ظلمنا انفسنا وان لم تغفر لنا وترحمنا لنكونن من الخاسرين",
+        "transliteration": null,
+        "reference": "Surah A'raf 7:23",
+        "audio": 979,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #20",
+        "content": null,
+        "translation": "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        980
+      ],
+      "id": 980,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 980,
+        "groups": null,
+        "uthmani": "رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ",
+        "indopak": "رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِيْنَ",
+        "clean": "ربنا لا تجعلنا مع القوم الظالمين",
+        "transliteration": null,
+        "reference": "Surah A'raf 7:47",
+        "audio": 980,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #21",
+        "content": null,
+        "translation": "Our Lord, do not place us with the wrongdoing people.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        981
+      ],
+      "id": 981,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 981,
+        "groups": null,
+        "uthmani": "عَلَى اللَّهِ تَوَكَّلْنَا ۚ رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَأَنتَ خَيْرُ الْفَاتِحِينَ",
+        "indopak": "عَلَى اللّٰهِ تَوَكَّلْنَا ۚ رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَاَنتَ خَيْرُ الْفَاتِحِيْنَ",
+        "clean": "علي الله توكلنا  ربنا افتح بيننا وبين قومنا بالحق وانت خير الفاتحين",
+        "transliteration": null,
+        "reference": "Surah A'raf 7:89",
+        "audio": 981,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #22",
+        "content": null,
+        "translation": "Our Lord, decide between us and our people in truth, and You are the best of those who give decision.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        982
+      ],
+      "id": 982,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 982,
+        "groups": null,
+        "uthmani": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
+        "indopak": "رَبَّنَا اَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِيْنَ",
+        "clean": "ربنا افرغ علينا صبرا وتوفنا مسلمين",
+        "transliteration": null,
+        "reference": "Surah Al-A'raf 7:126",
+        "audio": null,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #23",
+        "content": null,
+        "translation": "Our Lord, pour upon us patience and let us die as Muslims [in submission to You].",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        983
+      ],
+      "id": 983,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 983,
+        "groups": null,
+        "uthmani": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ الظَّالِمِينَ ﴿٨٥﴾ وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ ﴿٨٦﴾",
+        "indopak": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ الظَّالِمِيْنَ ﴿٨٥﴾ وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِيْنَ ﴿٨٦﴾",
+        "clean": "ربنا لا تجعلنا فتنه للقوم الظالمين ٨٥ ونجنا برحمتك من القوم الكافرين ٨٦",
+        "transliteration": null,
+        "reference": "Surah Yunus 10: 85-86",
+        "audio": 983,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #24",
+        "content": null,
+        "translation": "(85) Our Lord, make us not [objects of] trial for the wrongdoing people (86) And save us by Your mercy from the disbelieving people.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        984
+      ],
+      "id": 984,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 984,
+        "groups": null,
+        "uthmani": "رَبَّنَا إِنَّكَ تَعْلَمُ مَا نُخْفِي وَمَا نُعْلِنُ ۗ وَمَا يَخْفَىٰ عَلَى اللَّهِ مِن شَيْءٍ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ ‎﴿٣٨﴾",
+        "indopak": "رَبَّنَاۤ اِنَّکَ تَعۡلَمُ مَا نُخۡفِیۡ وَ مَا نُعۡلِنُ ؕ وَ مَا یَخۡفٰی عَلَی اللّٰہِ مِنۡ شَیۡءٍ فِی الۡاَرۡضِ وَ لَا فِی السَّمَآءِ ‎﴿٣٨﴾",
+        "clean": "ربنا ان تعلم ما نخف و ما نعلن  و ما خف عل الل من شء ف الارض و لا ف السماء ٣٨",
+        "transliteration": null,
+        "reference": "Surah Ibrahim 14:38",
+        "audio": null,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #25",
+        "content": null,
+        "translation": "Our Lord, indeed You know what we conceal and what we declare, and nothing is hidden from Allah on the earth or in the heaven.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        985
+      ],
+      "id": 985,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 985,
+        "groups": null,
+        "uthmani": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِن ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+        "indopak": "رَبِّ اجْعَلْنِىْ مُقِيْمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِىْ ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+        "clean": "رب اجعلني مقيم الصلاه ومن ذريتي  ربنا وتقبل دعاء",
+        "transliteration": null,
+        "reference": "Surah Ibrahim 14:40",
+        "audio": 985,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #26",
+        "content": null,
+        "translation": "My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        986
+      ],
+      "id": 986,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 986,
+        "groups": null,
+        "uthmani": "رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ ﴿٤١﴾",
+        "indopak": "رَبَّنَا اغْفِرْ لِيْ وَلِوَالِدَيَّ وَلِلْمُؤْمِنِيْنَ يَوْمَ يَقُومُ الْحِسَابُ ﴿٤١﴾",
+        "clean": "ربنا اغفر لي ولوالدي وللمءمنين يوم يقوم الحساب ٤١",
+        "transliteration": null,
+        "reference": "Surah Ibrahim 14:41",
+        "audio": 986,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #27",
+        "content": null,
+        "translation": "Our Lord, forgive me and my parents and the believers the Day when the account is established.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        987
+      ],
+      "id": 987,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 987,
+        "groups": null,
+        "uthmani": "رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+        "indopak": "رَبَّنَا اٰتِنَا مِنْ لَّدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ اَمْرِنَا رَشَدًا",
+        "clean": "ربنا اتنا من لدنك رحمه وهيء لنا من امرنا رشدا",
+        "transliteration": null,
+        "reference": "Surah Al-Kahf 18:10",
+        "audio": 987,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #28",
+        "content": null,
+        "translation": "Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        988
+      ],
+      "id": 988,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 988,
+        "groups": null,
+        "uthmani": "رَبَّنَا إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَا أَوْ أَن يَطْغَىٰ ‎﴿٤٥﴾‏",
+        "indopak": "رَبَّنَاۤ اِنَّنَا نَخَافُ اَنۡ یَّفۡرُطَ عَلَیۡنَاۤ اَوۡ اَنۡ یَّطۡغٰی ‎﴿٤٥﴾‏",
+        "clean": "ربنا اننا نخاف ان فرط علنا او ان طغ ٤٥",
+        "transliteration": null,
+        "reference": "Surah Ta Ha 20:45",
+        "audio": null,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #29",
+        "content": null,
+        "translation": "Our Lord, indeed we are afraid that he will hasten [punishment] against us or that he will transgress.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        989
+      ],
+      "id": 989,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 989,
+        "groups": null,
+        "uthmani": "رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ الرَّاحِمِينَ",
+        "indopak": "رَبَّنَا اٰمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَاَنْتَ خَيْرُ الرَّاحِمِيْنَ",
+        "clean": "ربنا امنا فاغفر لنا وارحمنا وانت خير الراحمين",
+        "transliteration": null,
+        "reference": "Surah Muminun 23:109",
+        "audio": 989,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #30",
+        "content": null,
+        "translation": "Our Lord, we have believed, so forgive us and have mercy upon us, and You are the best of the merciful.'",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        990
+      ],
+      "id": 990,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 990,
+        "groups": null,
+        "uthmani": "رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا ﴿٦٥﴾ إِنَّهَا سَاءَتْ مُسْتَقَرًّا وَمُقَامًا ﴿٦٦﴾",
+        "indopak": "رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖاِنَّ عَذَابَهَا كَانَ غَرَامًا ﴿٦٥﴾ اِنَّهَا سَاءَتْ مُسْتَقَرًّا وَمُقَامًا ﴿٦٦﴾",
+        "clean": "ربنا اصرف عنا عذاب جهنم ان عذابها كان غراما ٦٥ انها ساءت مستقرا ومقاما ٦٦",
+        "transliteration": null,
+        "reference": "Surah Furqan 25:65-66",
+        "audio": 990,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #31",
+        "content": null,
+        "translation": "Our Lord, avert from us the punishment of Hell. Indeed, its punishment is ever adhering (66) Indeed, it is evil as a settlement and residence.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        991
+      ],
+      "id": 991,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 991,
+        "groups": null,
+        "uthmani": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+        "indopak": "رَبَّنَا هَبْ لَنَا مِنْ اَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ اَعْيُنٍ وَّاجْعَلْنَا لِلْمُتَّقِيْنَ اِمَامًا",
+        "clean": "ربنا هب لنا من ازواجنا وذرياتنا قره اعين واجعلنا للمتقين اماما",
+        "transliteration": null,
+        "reference": "Surah Al-Furqan 25:74",
+        "audio": 991,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #32",
+        "content": null,
+        "translation": "Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        992
+      ],
+      "id": 992,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 992,
+        "groups": null,
+        "uthmani": "رَبَّنَا لَغَفُورٌ شَكُورٌ ‎﴿٣٤﴾",
+        "indopak": "رَبَّنَا لَغَفُوۡرٌ شَکُوۡرُۨ ﴿٣٤﴾",
+        "clean": "ربنا لغفور شور ٣٤",
+        "transliteration": null,
+        "reference": "Surah Al-Fatir 35:34",
+        "audio": null,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #33",
+        "content": null,
+        "translation": "Our Lord is Forgiving and Appreciative -",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        993
+      ],
+      "id": 993,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 993,
+        "groups": null,
+        "uthmani": "رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ",
+        "indopak": "رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِيْنَ تَابُوْا وَاتَّبَعُوْا سَبِيْلَكَ وَقِهِمْ عَذَابَ الْجَحِيْمِ",
+        "clean": "ربنا وسعت كل شيء رحمه وعلما فاغفر للذين تابوا واتبعوا سبيلك وقهم عذاب الجحيم",
+        "transliteration": null,
+        "reference": "Surah Ghafir 40:7",
+        "audio": 993,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #34",
+        "content": null,
+        "translation": "Our Lord, You have encompassed all things in mercy and knowledge, so forgive those who have repented and followed Your way and protect them from the punishment of Hellfire.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        994
+      ],
+      "id": 994,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 994,
+        "groups": null,
+        "uthmani": "رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ ۚ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ ‎﴿٨﴾‏ وَقِهِمُ السَّيِّئَاتِ ۚ وَمَن تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُ ۚ وَذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ ‎﴿٩﴾",
+        "indopak": "رَبَّنَا وَاَدْخِلْهُمْ جَنَّاتِ عَدْنٍ   ࣙ  الَّتِيْ وَعَدْتَّهُمْ وَمَن صَلَحَ مِنْ اٰبَائِهِمْ وَاَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ ۚاِنَّكَ اَنْتَ الْعَزِيْزُ الْحَكِيْمُ ﴿٨﴾ وَقِهِمُ السَّيِّئَاتِ ۚ وَمَنْ تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهٗ ۚ وَذٰلِكَ هُوَ الْفَوْزُ الْعَظِيْمُ ﴿٩﴾",
+        "clean": "ربنا وادخلهم جنات عدن     التي وعدتهم ومن صلح من اباءهم وازواجهم وذرياتهم انك انت العزيز الحكيم ٨ وقهم السيءات  ومن تق السيءات يومءذ فقد رحمته  وذلك هو الفوز العظيم ٩",
+        "transliteration": null,
+        "reference": "Surah Ghafir 40:8-9",
+        "audio": null,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #35",
+        "content": null,
+        "translation": "(8) Our Lord, and admit them to gardens of perpetual residence which You have promised them and whoever was righteous among their fathers, their spouses and their offspring. Indeed, it is You who is the Exalted in Might, the Wise. (9) And he whom You protect from evil consequences that Day - You will have given him mercy. And that is the great attainment.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        995
+      ],
+      "id": 995,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 995,
+        "groups": null,
+        "uthmani": "رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا",
+        "indopak": "رَبَّنَا اغْفِرْ لَنَا وَلِاِخْوَانِنَا الَّذِيْنَ سَبَقُوْنَا بِالْاِيْمَانِ وَلَا تَجْعَلْ فِيْ قُلُوْبِنَا غِلًّا لِّلَّذِيْنَ اٰمَنُوْا",
+        "clean": "ربنا اغفر لنا ولاخواننا الذين سبقونا بالايمان ولا تجعل في قلوبنا غلا للذين امنوا",
+        "transliteration": null,
+        "reference": "Surah Hashr 59:10",
+        "audio": 995,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #36",
+        "content": null,
+        "translation": "Our Lord, forgive us and our brothers who preceded us in faith and put not in our hearts [any] resentment toward those who have believed. Our Lord, indeed You are Kind and Merciful.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        996
+      ],
+      "id": 996,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 996,
+        "groups": null,
+        "uthmani": "رَبَّنَا إِنَّكَ رَءُوفٌ رَّحِيمٌ",
+        "indopak": "رَبَّنَا اِنَّكَ رَءُوْفٌ رَّحِيْمٌ",
+        "clean": "ربنا انك رءوف رحيم",
+        "transliteration": null,
+        "reference": "Surah Hashr 59:10",
+        "audio": 996,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #37",
+        "content": null,
+        "translation": "Our Lord, indeed You are Kind and Merciful.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        997
+      ],
+      "id": 997,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 997,
+        "groups": null,
+        "uthmani": "رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ ﴿٤﴾",
+        "indopak": "رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَاِلَيْكَ اَنَبْنَا وَاِلَيْكَ الْمَصِيْرُ ﴿٤﴾",
+        "clean": "ربنا عليك توكلنا واليك انبنا واليك المصير ٤",
+        "transliteration": null,
+        "reference": "Surah Mumtahina 60:4",
+        "audio": null,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #38",
+        "content": null,
+        "translation": "Our Lord, upon You we have relied, and to You we have returned, and to You is the destination.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        998
+      ],
+      "id": 998,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 998,
+        "groups": null,
+        "uthmani": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا ۖ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ ﴿٥﴾",
+        "indopak": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِيْنَ كَفَرُوْا وَاغْفِرْ لَنَا رَبَّنَا ۖ اِنَّكَ اَنْتَ الْعَزِيْزُ الْحَكِيْمُ ﴿٥﴾",
+        "clean": "ربنا لا تجعلنا فتنه للذين كفروا واغفر لنا ربنا  انك انت العزيز الحكيم ٥",
+        "transliteration": null,
+        "reference": "Surah Mumtahina 60:5",
+        "audio": null,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #39",
+        "content": null,
+        "translation": "Our Lord, make us not [objects of] torment for the disbelievers and forgive us, our Lord. Indeed, it is You who is the Exalted in Might, the Wise.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        999
+      ],
+      "id": 999,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 999,
+        "groups": null,
+        "uthmani": "رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "indopak": "رَبَّنَا اَتْمِمْ لَنَا نُوْرَنَا وَاغْفِرْ لَنَا ۖ اِنَّكَ عَلٰي كُلِّ شَيْءٍ قَدِيْرٌ",
+        "clean": "ربنا اتمم لنا نورنا واغفر لنا  انك علي كل شيء قدير",
+        "transliteration": null,
+        "reference": "Surah Tahrim 66:8",
+        "audio": 999,
+        "cat_id": 44,
+        "subcat_id": 118
+      },
+      "source": {
+        "name": "Rabbana Duas #40",
+        "content": null,
+        "translation": "Our Lord, perfect for us our light and forgive us. Indeed, You are over all things competent.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        1000
+      ],
+      "id": 1000,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 1000,
+        "groups": null,
+        "uthmani": "رَبَّنَا إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَا أَوْ أَن يَطْغَىٰ ‎﴿٤٥﴾‏",
+        "indopak": "رَبَّنَاۤ اِنَّنَا نَخَافُ اَنۡ یَّفۡرُطَ عَلَیۡنَاۤ اَوۡ اَنۡ یَّطۡغٰی ‎﴿٤٥﴾‏",
+        "clean": "ربنا اننا نخاف ان فرط علنا او ان طغ ٤٥",
+        "transliteration": null,
+        "reference": "Surah Ta Ha 20:45",
+        "audio": null,
+        "cat_id": 35,
+        "subcat_id": 104
+      },
+      "source": {
+        "name": "Dua of an oppressed person #11",
+        "content": null,
+        "translation": "Our Lord, indeed we are afraid that he will hasten [punishment] against us or that he will transgress.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        1001
+      ],
+      "id": 1001,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 1001,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ مَا أَمْسَى بِي مِنْ نِعْمَةٍ أَوْ بِأَحَدٍ مِنْ خَلْقِكَ فَمِنْكَ وَحْدَكَ لَا شَرِيكَ لَكَ، فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ",
+        "indopak": "اَللّٰهُمَّ مَا اَمْسٰى بِيْ مِنْ نِّعْمَةٍ اَوْ بِاَحَدٍ مِّنْ خَلْقِكَ فَمِنْكَ وَحْدَكَ لَا شَرِيْكَ لَكَ، فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ",
+        "clean": "اللهم ما امسي بي من نعمه او باحد من خلقك فمنك وحدك لا شريك لك فلك الحمد ولك الشكر",
+        "transliteration": "Allaahumma maa 'amsaa bee min ni'matin 'aw bi'ahadin min khalqika faminka wahdaka laa shareeka laka, falakal-hamdu wa lakash-shukru.",
+        "reference": "Hasan (Ibn Hajar). Nata'ijul Afkaar: 2/380",
+        "audio": null,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Dua in the evening #6",
+        "content": null,
+        "translation": "O Allah, what blessing I have received in this evening or any of Your creation, is from You alone, without any partner, so for You is all praise and unto You all thanks.",
+        "note": "Whoever recites this in the morning, has completed his obligation to thank Allah for that day; and whoever says it in the evening, has completed his obligation for that night."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    }
+  ]
+}

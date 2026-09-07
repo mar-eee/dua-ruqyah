@@ -1,0 +1,556 @@
+{
+  "table": "duas",
+  "chunk": "duas_003.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 17,
+  "id_range": "34-50",
+  "source_chars": 5358,
+  "items": [
+    {
+      "key": [
+        34
+      ],
+      "id": 34,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 34,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Hasan (Albani). Abu Dawud: 524",
+        "audio": null,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Time when duas are accepted #1",
+        "content": "Narrated by Abdullah ibn Amr ibn al-'As (RA): A man said: O Messenger of Allah, the mu'adhdhins excel us. The Messenger of Allah (ﷺ) said: Say (the same words) as they say, and when you come to the end, ask Allah for anything and that will be granted to you.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        35
+      ],
+      "id": 35,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 35,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Sahih (Albani). Silsila Sahihah: 1413",
+        "audio": null,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Time when duas are accepted #2",
+        "content": "Anas (RA) said, the Prophet (ﷺ) said, when the call to prayer (adhan) is given, the gates of heaven are opened and the dua is accepted.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        36
+      ],
+      "id": 36,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 36,
+        "groups": null,
+        "uthmani": "إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ ﴿١﴾ وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ ﴿٢﴾ لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ ﴿٣﴾ تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ ﴿٤﴾ سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ ﴿٥﴾",
+        "indopak": "اِنَّا اَنْزَلْنَاهُ فِيْ لَيْلَةِ الْقَدْرِ ﴿١﴾ وَمَا اَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ ﴿٢﴾ لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ اَلْفِ شَهْرٍ ﴿٣﴾ تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوْحُ فِيْهَا بِاِذْنِ رَبِّهِمْ مِّن كُلِّ اَمْرٍ ﴿٤﴾ سَلَامٌ هِيَ حَتّٰي مَطْلَعِ الْفَجْرِ ﴿٥﴾",
+        "clean": "انا انزلناه في ليله القدر ١ وما ادراك ما ليله القدر ٢ ليله القدر خير من الف شهر ٣ تنزل الملاءكه والروح فيها باذن ربهم من كل امر ٤ سلام هي حتي مطلع الفجر ٥",
+        "transliteration": null,
+        "reference": "Surah Al-Qadr 97:1-5",
+        "audio": 36,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "About Lailatul Qadr",
+        "content": "Allah (SWT) says -",
+        "translation": "(1) Indeed, We sent the Qur'an down during the Night of Decree. (2) And what can make you know what is the Night of Decree? (3) The Night of Decree is better than a thousand months. (4) The angels and the Spirit descend therein by permission of their Lord for every matter. (5) Peace it is until the emergence of dawn.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        37
+      ],
+      "id": 37,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 37,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنَّكَ عَفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+        "indopak": "اَللّٰهُمَّ اِنَّكَ عَفُوٌّ كَرِيْمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّيْ",
+        "clean": "اللهم انك عفو كريم تحب العفو فاعف عني",
+        "transliteration": "Allaahumma innaka 'afuwwun karim, tuhibbul-'afwa, fa'fu 'anni",
+        "reference": "Sahih (Albani). Tirmidhi: 3513",
+        "audio": 37,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Dua of Lailatul Qadr",
+        "content": "The Prophet (ﷺ) said to 'Aa'ishah (RA): You say -",
+        "translation": "O Allah, You are Most Forgiving, Generous. You love forgiveness; so forgive me.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        38
+      ],
+      "id": 38,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 38,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Hasan (Albani). Tirmidhi: 3499",
+        "audio": null,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Dua after every obligatory prayer",
+        "content": "Regarding when the Dua is accepted, the Prophet (ﷺ) said, \"On the last night and after the obligatory prayers.\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        39
+      ],
+      "id": 39,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 39,
+        "groups": "[{\"id\": 39, \"name\": null, \"cat_id\": 3, \"subcat_id\": 9, \"content\": \"Praising those who ask forgiveness on the last night, Allah says -\", \"uthmani\": \"\\u0643\\u064e\\u0627\\u0646\\u064f\\u0648\\u0627 \\u0642\\u064e\\u0644\\u0650\\u064a\\u0644\\u064b\\u0627 \\u0645\\u0650\\u0651\\u0646\\u064e \\u0627\\u0644\\u0644\\u0651\\u064e\\u064a\\u0652\\u0644\\u0650 \\u0645\\u064e\\u0627 \\u064a\\u064e\\u0647\\u0652\\u062c\\u064e\\u0639\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0661\\u0667\\ufd3e \\u0648\\u064e\\u0628\\u0650\\u0627\\u0644\\u0652\\u0623\\u064e\\u0633\\u0652\\u062d\\u064e\\u0627\\u0631\\u0650 \\u0647\\u064f\\u0645\\u0652 \\u064a\\u064e\\u0633\\u0652\\u062a\\u064e\\u063a\\u0652\\u0641\\u0650\\u0631\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0661\\u0668\\ufd3e\", \"indopak\": \"\\u0643\\u064e\\u0627\\u0646\\u064f\\u0648\\u0652\\u0627 \\u0642\\u064e\\u0644\\u0650\\u064a\\u0652\\u0644\\u064b\\u0627 \\u0645\\u0650\\u0651\\u0646\\u064e \\u0627\\u0644\\u0644\\u0651\\u064e\\u064a\\u0652\\u0644\\u0650 \\u0645\\u064e\\u0627 \\u064a\\u064e\\u0647\\u0652\\u062c\\u064e\\u0639\\u064f\\u0648\\u0652\\u0646\\u064e \\ufd3f\\u0661\\u0667\\ufd3e \\u0648\\u064e\\u0628\\u0650\\u0627\\u0644\\u0652\\u0627\\u064e\\u0633\\u0652\\u062d\\u064e\\u0627\\u0631\\u0650 \\u0647\\u064f\\u0645\\u0652 \\u064a\\u064e\\u0633\\u0652\\u062a\\u064e\\u063a\\u0652\\u0641\\u0650\\u0631\\u064f\\u0648\\u0652\\u0646\\u064e \\ufd3f\\u0661\\u0668\\ufd3e\", \"clean\": \"\\u0643\\u0627\\u0646\\u0648\\u0627 \\u0642\\u0644\\u064a\\u0644\\u0627 \\u0645\\u0646 \\u0627\\u0644\\u0644\\u064a\\u0644 \\u0645\\u0627 \\u064a\\u0647\\u062c\\u0639\\u0648\\u0646 \\u0661\\u0667 \\u0648\\u0628\\u0627\\u0644\\u0627\\u0633\\u062d\\u0627\\u0631 \\u0647\\u0645 \\u064a\\u0633\\u062a\\u063a\\u0641\\u0631\\u0648\\u0646 \\u0661\\u0668\", \"transliteration\": null, \"translation\": \"(17) They used to sleep but little of the night, (18) And in the hours before dawn they would ask forgiveness. [2]\", \"note\": null, \"reference\": \"[1] Bukhari: 1145\\n[2] Surah Az-Zariyat: 51: 17-18\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": null,
+        "audio": 39,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Dua at the last part of the night",
+        "content": "Allah's Messenger (ﷺ) said, \"Our Lord, the Blessed, the Superior, comes every night down on the nearest Heaven to us when the last third of the night remains, saying: \"Is there anyone to invoke Me, so that I may respond to invocation? Is there anyone to ask Me, so that I may grant him his request? Is there anyone seeking My forgiveness, so that I may forgive him?\" [1]",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        40
+      ],
+      "id": 40,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 40,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Sahih (Albani). Abu Dawud: 521",
+        "audio": null,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Dua at the time between Adhan and Iqamah",
+        "content": "Allah's Messenger (ﷺ) said: Dua at the time between Adhan and Iqamah is not returned.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        41
+      ],
+      "id": 41,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 41,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Sahih (Albani). Abu Dawud: 2540",
+        "audio": null,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Time to accept prayers (during Adhan, Iqamah, Raining and War)",
+        "content": "The Prophet (ﷺ) said: Two (prayers) are not rejected, or seldom rejected: Prayer at the time of the call to prayer, and (the prayer) at the time of fighting when it's intensified. Another narration says, \"when it's raining.\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        42
+      ],
+      "id": 42,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 42,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Muslim: 757",
+        "audio": null,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Dua at a specific time in every night",
+        "content": "Jabir (RA) said he heard Allah's Messenger (ﷺ) say: There is an hour during the night in which no Muslim individual will ask Allah for good in this world and the next without His giving it to him; and that applies to every night.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        43
+      ],
+      "id": 43,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 43,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Sahih (Albani). Ibn Majah: 3062",
+        "audio": null,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Dua when drinking Zamzam water with pure intention",
+        "content": "The Messenger of Allah (ﷺ) said: ‘The water of Zamzam is for whatever it is drunk for.’",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        44
+      ],
+      "id": 44,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 44,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Muslim: 482",
+        "audio": null,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Dua in the state of prostration",
+        "content": "The Messenger of Allah (ﷺ) said: The nearest a servant comes to his Lord is when he is prostrating himself, so make supplication (in this state).",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        45
+      ],
+      "id": 45,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 45,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ‏ اَلْحَمْدُ لِلَّهِ وَسُبْحَانَ اللَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلٰى كُلِّ شَىْءٍ قَدِيْرٌ‏ ،  اَلْحَمْدُ لِلّٰهِ وَسُبْحَانَ اللّٰهِ وَلَا اِلٰهَ اِلَّا اللّٰهُ وَاللّٰهُ اَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ",
+        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد وهو علي كل شيء قدير   الحمد لله وسبحان الله ولا اله الا الله والله اكبر ولا حول ولا قوه الا بالله",
+        "transliteration": "Laa ilaaha illAllahu Wa'hdahu laa Sharika lahu Lahul mulku, wa lahul-'hamd wa huwa 'alaa kulli shay'in Qadir. Al'hamdulillahi wa sub'hanallahi wa laa ilaaha illAllahu wAllahu akbar wa laa 'hawla Walaa Quwwata illa billaah",
+        "reference": "Bukhari: 1154",
+        "audio": 45,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "After awaking at night, reciting some specific duas",
+        "content": "The Prophet (ﷺ) said: The person who wakes up at night and says these words -",
+        "translation": "None has the right to be worshipped but Allah. He is the Only One and has no partners. For Him is the Kingdom and all the praises are due for Him. He is Omnipotent. All the praises are for Allah. All the glories are for Allah. And none has the right to be worshipped but Allah, And Allah is Great And there is neither Might nor Power Except with Allah.",
+        "note": "O Allah! Forgive me. Or invokes (Allah), he will be responded to and if he performs ablution (and prays), his prayer will be accepted."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        46
+      ],
+      "id": 46,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 46,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِيْنَ",
+        "indopak": "لَا اِلٰهَ اِلَّا اَنْتَ سُبْحَانَكَ اِنِّيْ كُنْتُ مِنَ الظَّالِمِيْنَ",
+        "clean": "لا اله الا انت سبحانك اني كنت من الظالمين",
+        "transliteration": "Laa 'ilaaha 'illaa 'Anta sub'haanaka 'innee kuntu minadh-dhaalimeen",
+        "reference": "Sahih (Albani). Tirmidhi: 3505",
+        "audio": 46,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Dua of Yunus (AS)",
+        "content": "The Messenger of Allah (ﷺ) said: Yunus (As) prayed while he was in the belly of a fish -",
+        "translation": "There is none worthy of worship but You, glory is to You. Surely, I was among the wrongdoers.",
+        "note": "So indeed, no Muslim man supplicates with it for anything, ever, except Allah responds to him."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        47
+      ],
+      "id": 47,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 47,
+        "groups": null,
+        "uthmani": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُوْنَ، اَللَّهُمَّ أْجُرْنِيْ فِي مُصِيْبَتِيْ وَأَخْلِفْ لِي خَيْرًا مِّنْهَا",
+        "indopak": "اِنَّا لِلّٰهِ وَاِنَّا اِلَيْهِ رَاجِعُوْنَ، اَللّٰهُمَّ أْجُرْنِيْ فِيْ مُصِيْبَتِيْ وَاَخْلِفْ لِيْ خَيْرًا مِّنْهَا",
+        "clean": "انا لله وانا اليه راجعون اللهم اجرني في مصيبتي واخلف لي خيرا منها",
+        "transliteration": "Innaa lillaahi wa 'innaa 'ilayhi raaji'oon, Allaahumma'-jurni fee museebatee wa 'akhliflee khayran minhaa",
+        "reference": "Muslim: 918",
+        "audio": 47,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Dua for one who afflicted by a calamity",
+        "content": "If any slave of Allah supplicate when he afflicted with a calamity -",
+        "translation": "We are from Allah and unto Him we return. O Allah take me out of my plight and bring to me after it something better.",
+        "note": "Umm Salama (RA) reported Allah's Messenger (ﷺ) as saying: If any Muslim who suffers some calamity says, what Allah has commanded him - (The dua is mentioned above) Allah will give him something better than it in exchange."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        48
+      ],
+      "id": 48,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 48,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Muslim: 920",
+        "audio": null,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "After someone's death",
+        "content": "Umm Salama (RA) reported: The Messenger of Allah (ﷺ) came to Abu Salama (as he died). His eyes were fixedly open. He closed them, and then said: When the soul is taken away the sight follows it. Some of the people of his family wept and wailed. So he said: Do not supplicate for yourselves anything but good, for angels say\" Amen\" to what you say.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        49
+      ],
+      "id": 49,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 49,
+        "groups": null,
+        "uthmani": "اَللَّهُ أَكْبَرُ كَبِيْرًا وَالْحَمْدُ لِلَّهِ كَثِيْرًا وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيْلًا",
+        "indopak": "اَللّٰهُ اَكْبَرُ كَبِيْرًا وَالْحَمْدُ لِلّٰهِ كَثِيْرًا وَسُبْحَانَ اللّٰهِ بُكْرَةً وَّاَصِيْلًا",
+        "clean": "الله اكبر كبيرا والحمد لله كثيرا وسبحان الله بكره واصيلا",
+        "transliteration": "Allahu 'Akbar Kabiran, walhamdu lillaahi kathiran, wa Subhaanallahi bukratan wa'asila",
+        "reference": "Muslim: 601",
+        "audio": 49,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Dua at the begining of the prayer #1",
+        "content": "While praying with the Messenger of Allah (ﷺ), one of the people said -",
+        "translation": "Allah is the Greatest, Most Great. Praise is to Allah, abundantly. Glory is to Allah, at the break of day and at its end.",
+        "note": "The Messenger of Allah (ﷺ) said, \"Who uttered such and such a word?\" A person (who have recited these words) among the people said: It is I, O Messenger of Allah! He (ﷺ) said: it’s utterance surprised me, for the doors of heaven were opened for It. Ibn 'Umar (RA) said: I have not abandoned them (these words) since I heard the Messenger of Allah (ﷺ) saying this."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        50
+      ],
+      "id": 50,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 50,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ حَمْدًا كَثِيْرًا طَيِّبًا مُبَارَكًا فِيهِ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ حَمْدًا كَثِيْرًا طَيِّبًا مُّبَارَكًا فِيْهِ",
+        "clean": "الحمد لله حمدا كثيرا طيبا مباركا فيه",
+        "transliteration": "Alhamdulillaahi hamdan kathiran tayyiban mubaarakan fih",
+        "reference": "Muslim: 600",
+        "audio": 50,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Dua at the begining of the prayer #2",
+        "content": "Anas (RA) reported: A man came panting and entered the row of worshippers and said:",
+        "translation": "Praise is to Allah, much, good and blessed praise.",
+        "note": "When the Messenger of Allah (ﷺ) finished the prayer he said: Who amongst you uttered these words? The people remained silent. He (the Prophet ﷺ again said) : Who amongst you uttered these words? He said nothing wrong. Then a man said: I came and had a difficulty in breathing, so I uttered them. He replied: I saw twelve angels facing one another as to who will take them up (to Allah)."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    }
+  ]
+}

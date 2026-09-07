@@ -1,0 +1,524 @@
+{
+  "table": "duas",
+  "chunk": "duas_031.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 16,
+  "id_range": "433-448",
+  "source_chars": 5540,
+  "items": [
+    {
+      "key": [
+        433
+      ],
+      "id": 433,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 433,
+        "groups": null,
+        "uthmani": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ، اَللَّهُمَّ أْجُرْنِيْ فِي مُصِيْبَتِيْ وَأَخْلِفْ لِي خَيْرًا مِنْهَا",
+        "indopak": "اِنَّا لِلّٰهِ وَاِنَّا اِلَيْهِ رَاجِعُوْنَ، اَللّٰهُمَّ أْجُرْنِيْ فِيْ مُصِيْبَتِيْ وَاَخْلِفْ لِيْ خَيْرًا مِّنْهَا",
+        "clean": "انا لله وانا اليه راجعون اللهم اجرني في مصيبتي واخلف لي خيرا منها",
+        "transliteration": "Innaa lillaahi wa 'innaa 'ilayhi raaji'oon, Allaahumma'-jurni fee museebatee wa 'akhlif lee khayran minhaa",
+        "reference": "Muslim: 918",
+        "audio": 433,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Dua for one afflicted by a calamity",
+        "content": null,
+        "translation": "We are from Allah and unto Him we return. O Allah take me out of my plight and bring to me after it something better.",
+        "note": "Umm Salama (RA) reported Allah's Messenger (ﷺ) as saying: If any Muslim who suffers some calamity says, what Allah has commanded him,\" We are from Allah and unto Him we return. O Allah take me out of my plight and bring to me after it something better. When Abu Salama died Umm Salama said: What Muslim is better than Abu Salama whose family was the first to emigrate to the Messenger of Allah (ﷺ). I then said the words, and Allah gave me God's Messenger (ﷺ) in exchange."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        434
+      ],
+      "id": 434,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 434,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِي عَافَانِيْ مِمَّا ابْتَلَاكَ بِهِ وَفَضَّلَنِيْ عَلَى كَثِيْرٍ مِمَّنْ خَلَقَ تَفْضِيْلًا",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ عَافَانِيْ مِمَّا ابْتَلَاكَ بِهٖ وَفَضَّلَنِيْ عَلٰى كَثِيْرٍ مِّمَّنْ خَلَقَ تَفْضِيْلًا",
+        "clean": "الحمد لله الذي عافاني مما ابتلاك به وفضلني علي كثير ممن خلق تفضيلا",
+        "transliteration": "Al-hamdu lil-laahil-ladhee ‘aafaanee mim-mab-ta-laaka bihi, wa fad-dala-nee ‛alaa kathee-rin mim-man khalaqa taf-deelaa",
+        "reference": "Sahih (Albani). At-Tirmidhi: 3431, 3432",
+        "audio": 434,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Dua upon seeing a person who has been afflicted by an ilness or disability",
+        "content": null,
+        "translation": "Praise be to Allah who had saved me from what He had afflicted you with, and for honouring me over many of his creations.",
+        "note": "Umar (RA) narrated that: The Messenger of Allah (ﷺ) said: “Whoever sees a person afflicted and say: (The dua is mentioned above) then he shall be saved from that affliction for as long as he lives.” Grandson of Husain (RA), Muhammad al-Bakir said, dua should be uttered silently without hearing the afflicted person."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        435
+      ],
+      "id": 435,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 435,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "indopak": "اَعُوْذُ بِكَلِمَاتِ اللّٰهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "clean": "اعوذ بكلمات الله التامات من شر ما خلق",
+        "transliteration": "A‛oodhu bikalimaatil-laahit-taammaati min sharri maa khalaq",
+        "reference": "Muslim: 2709",
+        "audio": 435,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Protection of Insect stings",
+        "content": null,
+        "translation": "I seek refuge in the Perfect Words of Allah from the evil of what He has created.",
+        "note": "Abu Huraira (RA) reported that a person came to Allah's Messenger (ﷺ) and said:\" Allah's Messenger, I was stung by a scorpion during the night. Thereupon he said: Had you recited these words in the evening:\" I seek refuge in the Perfect Word of Allah from the evil of what He created,\" it would not have done any harm to you.\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        436
+      ],
+      "id": 436,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 436,
+        "groups": null,
+        "uthmani": "يَا حَيُّ، يَا قَيُّوْمُ",
+        "indopak": "يَا حَيُّ يَا قَيُّوْمُ",
+        "clean": "يا حي يا قيوم",
+        "transliteration": "Yaa Hayyu yaa Qayyoom",
+        "reference": "Hasan (Haisami). Tabarani: 4817",
+        "audio": 436,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Prayer for victory over enemies",
+        "content": null,
+        "translation": "O Ever Living One, O Eternal One.",
+        "note": "Ali (RA) said: ”In the day of Badr war, after fighting for some while I was rushing to come to the Messenger of Allah (ﷺ) to see what he was doing. I saw him in a state of prostration and only saying these words : ya ‘hayyu ya qayyum (O Ever Living One, O Eternal One) and didn’t increase over that. Then again I went to the war. After some time I returned to him. Again I saw him in a state of prostration and only saying those same words.Then again I went to the war. After some time  I returned to him and saw him in a state of prostration and only saying those same words. Then Allah granted him (ﷺ) victory.\n\nWe can see in this hadith how to make dua by dhikr. This type of dua brings best result."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        437
+      ],
+      "id": 437,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 437,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ، الْعَظِيْمُ الْحَلِيْمُ لَا إِلَهَ إِلَّا اللَّهُ، رَبُّ الْعَرْشِ الْعَظِيْمِ لَا إِلَهَ إِلَّا اللَّهُ، رَبُّ السَّمَاوَاتِ، وَرَبُّ الْأَرْضِ، وَرَبُّ الْعَرْشِ الْكَرِيمِ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ، اَلْعَظِيْمُ الْحَلِيْمُ لَا اِلٰهَ اِلَّا اللّٰهُ، رَبُّ الْعَرْشِ الْعَظِيْمِ لَا اِلٰهَ اِلَّا اللّٰهُ، رَبُّ السَّمَاوَاتِ، وَرَبُّ الْاَرْضِ، وَرَبُّ الْعَرْشِ الْكَرِيْمِ",
+        "clean": "لا اله الا الله العظيم الحليم لا اله الا الله رب العرش العظيم لا اله الا الله رب السماوات ورب الارض ورب العرش الكريم",
+        "transliteration": "Laa 'ilaaha 'illAllaahul-'Adheemul-Haleem, laa 'ilaaha 'illAllaahu Rabbul-'Arshil-'Adheem, laa 'ilaaha 'illAllaahu Rabbus-samaawaati wa Rabbul-'ardhi wa Rabbul-'Arshil-Kareem",
+        "reference": "Bukhari: 7431",
+        "audio": 437,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Anxiety and Sorrow #1",
+        "content": "Ibn 'Abbas (RA) said: The Messenger of Allah (ﷺ) used to say these words in times of danger or hardship:",
+        "translation": "There is none worthy of worship but Allah the Mighty, the Forbearing. There is none worthy of worship but Allah, Lord of the Magnificent Throne. There is none worthy of worship but Allah, Lord of the heavens and Lord of the earth, and Lord of the Noble Throne.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        438
+      ],
+      "id": 438,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 438,
+        "groups": null,
+        "uthmani": "اَللَّهُ رَبِّي لَا أُشْرِكُ بِهِ شَيْئًا",
+        "indopak": "اَللّٰهُ رَبِّيْ لَا اُشْرِكُ بِهٖ شَيْئًا",
+        "clean": "الله ربي لا اشرك به شيءا",
+        "transliteration": "Allahu Rabbee laa 'ushriku bihi shay'an",
+        "reference": "Sahih (Albani). Ibn Majah: 3882",
+        "audio": 438,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Anxiety and Sorrow #2",
+        "content": null,
+        "translation": "Allah is my Lord. I do not associate anything with Him.",
+        "note": "Ayesha (RA) said, \"The Messenger of Allah (ﷺ), used to gather all his family together and say: If any of you are ever in trouble or in danger, say this.\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        439
+      ],
+      "id": 439,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 439,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَنْتَ عَضُدِي، وَأَنْتَ نَصِيرِي، بِكَ أَحُولُ وَبِكَ أَصُولُ، وَبِكَ أُقَاتِلُ",
+        "indopak": "اَللّٰهُمَّ اَنْتَ عَضُدِيْ، وَاَنْتَ نَصِيْرِيْ، بِكَ اَحُوْلُ وَبِكَ اَصُوْلُ، وَبِكَ اُقَاتِلُ",
+        "clean": "اللهم انت عضدي وانت نصيري بك احول وبك اصول وبك اقاتل",
+        "transliteration": "Allaahumma 'Anta 'adhudee, wa 'Anta naseeree, bika 'a'hoolu, wa bika 'asoolu, wa bika 'uqaatilu",
+        "reference": "Hasan Garib (Albani). Abu Dawud: 2632",
+        "audio": 439,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Anxiety and Sorrow #3",
+        "content": "The Messenger of Allah (ﷺ), used to say during the battle:",
+        "translation": "O Allah, You are my strength and You are my support. For Your sake I go forth and for Your sake I advance and for Your sake I fight.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        440
+      ],
+      "id": 440,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 440,
+        "groups": null,
+        "uthmani": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+        "indopak": "حَسْبُنَا اللّٰهُ وَنِعْمَ الْوَكِيْلُ",
+        "clean": "حسبنا الله ونعم الوكيل",
+        "transliteration": "HasbunAllahu wa ni'amal-wakeel",
+        "reference": "Bukhari: 4563",
+        "audio": 440,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Anxiety and Sorrow #4",
+        "content": null,
+        "translation": "Allah is sufficient for me, and how fine a trustee (He is).",
+        "note": "This dua was recited by Ibrahim (As) when he was thrown into the fire. And Muhammad (ﷺ) recited this prayer when the people said to him, \"The people are united against you!\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        441
+      ],
+      "id": 441,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 441,
+        "groups": null,
+        "uthmani": "اَللَّهُ أَكْبَرُ، اَللَّهُ أَعَزُّ مِنْ خَلْقِهِ جَمِيعًا، اَللَّهُ أَعَزُّ مِمَّا أَخَافُ وَأَحْذَرُ، أَعُوْذُ بِاللَّهِ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْمُمْسِكِ السَّمَوَاتِ السَّبْعِ أَنْ يَقَعْنَ عَلَى الْأَرْضِ إِلَّا بِإِذْنِهِ، مِنْ شَرِّ عَبْدِكَ فُلَانٍ، وَجُنُودِهِ وَأَتْبَاعِهِ وَأَشْيَاعِهِ، مِنَ الْجِنِّ وَالْإِنْسِ، اَللَّهُمَّ كُنْ لِي جَارًا مِنْ شَرِّهِمْ، جَلَّ ثَنَاؤُكَ وَعَزَّ جَارُكَ، وَتَبَارَكَ اسْمُكَ، وَلَا إِلَهَ غَيْرُكَ",
+        "indopak": "اَللّٰهُ اَكْبَرُ، اَللّٰهُ اَعَزُّ مِنْ خَلْقِهِ جَمِيْعًا، اَللّٰهُ اَعَزُّ مِمَّا اَخَافُ وَاَحْذَرُ، اَعُوْذُ بِاللّٰهِ الَّذِيْ لَا اِلٰهَ اِلَّا هُوَ، اَلْمُمْسِكِ السَّمَاوَاتِ السَّبْعِ اَنْ يَّقَعْنَ عَلَى الْاَرْضِ اِلَّا بِاِذْنِهٖ، مِنْ شَرِّ عَبْدِكَ فُلَانٍ، وَجُنُوْدِهٖ وَاَتْبَاعِهٖ وَاَشْيَاعِهٖ، مِنَ الْجِنِّ وَالْاِنْسِ، اَللّٰهُمَّ كُنْ لِّيْ جَارًا مِّنْ شَرِّهِمْ، جَلَّ ثَنَاؤُكَ وَعَزَّ جَارُكَ، وَتَبَارَكَ اسْمُكَ، وَلَا اِلٰهَ غَيْرُكَ",
+        "clean": "الله اكبر الله اعز من خلقه جميعا الله اعز مما اخاف واحذر اعوذ بالله الذي لا اله الا هو الممسك السماوات السبع ان يقعن علي الارض الا باذنه من شر عبدك فلان وجنوده واتباعه واشياعه من الجن والانس اللهم كن لي جارا من شرهم جل ثناءك وعز جارك وتبارك اسمك ولا اله غيرك",
+        "transliteration": "Allahu 'Akbar, Allahu 'a'azzu min khalqihi jamee'an, Allahu 'a'azzu mimmaa 'akhaafu wa 'ahdharu, 'A'oodhu billaahil-ladhee laa 'ilaaha 'illaa Huwa almumsikis-samaawaatis-sab'i 'an yaqa'na 'alal-'ardhi 'illaa bi'idhnihi, min sharri 'abdika (name of the person), wa junoodihi wa 'atbaa'ihi wa 'ashyaa'ihi, minal-jinni wal'insi, Allaahumma kun lee jaaran min sharrihim, jalla thanaa'uka wa 'azza jaaruka, wa tabaarakasmuka, wa laa 'ilaaha ghayruk",
+        "reference": "Sahih (Albani). Adabul Mufrad: 708",
+        "audio": 441,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Dua against the oppression",
+        "content": null,
+        "translation": "Allah is the Most Great, Mightier than all His creation. He is Mightier than what I fear and dread. I seek refuge in Allah, Who there is none worthy of worship but Him. He is the One Who holds the Seven heavens from falling upon the earth except by His command. (I seek refuge in You Allah) from the evil of Your slave (say the person's name), and his helpers, his followers and his supporters from among the jinn and mankind. O Allah, be my support against their evil. Glorious are Your praises and mighty is Your patronage. Blessed is Your Name, there is no true God but You.",
+        "note": "Narrated Ibn 'Abbas (RA) : When you meet an influential person who is causing terror and you fear that he will attack you, you will say three times: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        442
+      ],
+      "id": 442,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 442,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ مُنْزِلَ الْكِتَابِ، سَرِيعَ الْحِسَابِ، اِهْزِمِ الْأَحْزَابَ، اَللَّهُمَّ اهْزِمْهُمْ وَزَلْزِلْهُمْ",
+        "indopak": "اَللّٰهُمَّ مُنْزِلَ الْكِتَابِ، سَرِيْعَ الْحِسَابِ، اَهْزِمِ الْاَحْزَابَ، اَللّٰهُمَّ اهْزِمْهُمْ وَزَلْزِلْهُمْ",
+        "clean": "اللهم منزل الكتاب سريع الحساب اهزم الاحزاب اللهم اهزمهم وزلزلهم",
+        "transliteration": "Allaahumma munzilal-kitaabi, saree'al-hisaabi, ihzimil-'ahzaaba, Allaahummah zimhum wa zalzilhum",
+        "reference": "Bukhari: 2818, 2833, 2933",
+        "audio": 442,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Dua made against enemies",
+        "content": null,
+        "translation": "Allah, Revealer of the Book, Swift to account, defeat the groups (of disbelievers). O Allah, defeat them and shake them.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        443
+      ],
+      "id": 443,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 443,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ مَتِّعْنِي بِسَمْعِي وَبَصَرِي وَاجْعَلْهُمَا الْوَارِثَ مِنِّي، وَانْصُرْنِي عَلَى مَنْ ظَلَمَنِي وَخُذْ مِنْهُ بِثَأْرِي",
+        "indopak": "اَللّٰهُمَّ مَتِّعْنِيْ بِسَمْعِيْ وَبَصَرِيْ وَاجْعَلْهُمَا الْوَارِثَ مِنِّيْ، وَانْصُرْنِيْ عَلٰى مَنْ ظَلَمَنِيْ وَخُذْ مِنْهُ بِثَأْرِيْ",
+        "clean": "اللهم متعني بسمعي وبصري واجعلهما الوارث مني وانصرني علي من ظلمني وخذ منه بثاري",
+        "transliteration": "Allaahumma matti‛ni bi sam‛i wa basari waj-‛alhumal-waaritha minni, wan-surni ‛alaa man zalamani, wa khudh minhu bi tha’ri",
+        "reference": "Hasan (Albani). Tirmidhi: 3604",
+        "audio": 443,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Dua against the oppressor",
+        "content": null,
+        "translation": "O Allah, grant me enjoyment of my hearing and sight, and keep them healthy and sound until the day I die, and aid me against those who oppress me, and avenge me from them.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        444
+      ],
+      "id": 444,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 444,
+        "groups": null,
+        "uthmani": "رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ",
+        "indopak": "رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِيْنَ",
+        "clean": "ربنا لا تجعلنا مع القوم الظالمين",
+        "transliteration": null,
+        "reference": "Surah A'raf 7:47",
+        "audio": 444,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Dua for not placing among wrongdoers",
+        "content": null,
+        "translation": "Our Lord, do not place us with the wrongdoing people.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        445
+      ],
+      "id": 445,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 445,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+        "indopak": "اَللّٰهُمَّ اكْفِنِيْ بِحَلَالِكَ عَنْ حَرَامِكَ، وَاَغْنِنِيْ بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+        "clean": "اللهم اكفني بحلالك عن حرامك واغنني بفضلك عمن سواك",
+        "transliteration": "Allaahummak-finee bi 'halaalika ‛an 'haraamika, wa aghninee bi fadlika ‛amman siwaak",
+        "reference": "Hasan Garib (Albani). Tirmizi: 3563",
+        "audio": 445,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Dua for Debt settlement #1",
+        "content": "Even if the burden of debt is like a mountain, (if this dua is recited) Allah will forgive the debt:",
+        "translation": "O Allah, make what is lawful enough for me, as opposed to what is unlawful, and spare me by Your grace of the need for others.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        446
+      ],
+      "id": 446,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 446,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+        "clean": "اللهم اني اعوذ بك من الهم والحزن والعجز والكسل والبخل والجبن وضلع الدين وغلبه الرجال",
+        "transliteration": "Allaahumma 'innee 'A'oodhu bika minal-hammi wal hazani, wal'ajzi wal kasali, wal bukhli wal jubni, wa dhala'id-dayni wa ghalabatir-rijaal",
+        "reference": "Bukhari: 2893",
+        "audio": 446,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Dua for Debt settlement #2",
+        "content": "The Prophet (ﷺ) said:",
+        "translation": "O Allah, I seek refuge in you from grief and sadness, from weakness and from laziness, from miserliness and from cowardice, from being overcome by debt and overpowered by men.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        447
+      ],
+      "id": 447,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 447,
+        "groups": null,
+        "uthmani": "أُعِيْذُكُمَا بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَّهَامَّةٍ وَّمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+        "indopak": "اُعِيْذُكُمَا بِكَلِمَاتِ اللّٰهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَّهَامَّةٍ وَّمِنْ كُلِّ عَيْنٍ لَّامَّةٍ",
+        "clean": "اعيذكما بكلمات الله التامه من كل شيطان وهامه ومن كل عين لامه",
+        "transliteration": "U'eethukumaa bikalimaatil-laahit-taammati min kulli shaytaanin wa haammah, wa min kulli 'aynin laammah",
+        "reference": "Bukhari: 3371",
+        "audio": 447,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "Placing children under Allah's protection",
+        "content": "The Prophet (ﷺ) sought salvation for Hasan-Hussein (grandchildren) in this way:",
+        "translation": "I seek protection for you in the Perfect Words of Allah from every devil and every beast, and from every envious blameworthy eye.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        448
+      ],
+      "id": 448,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 448,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلاَّ أَنْتَ سُبْحَانَكَ إِنِّى كُنْتُ مِنَ الظَّالِمِيْنَ",
+        "indopak": "لَا اِلٰه اِلَّا اَنْتَ سُبْحَانَكَ اِنِّىْ كُنْتُ مِنَ الظَّالِمِيْنَ",
+        "clean": "لا اله الا انت سبحانك اني كنت من الظالمين",
+        "transliteration": "Laa Ilaaha Illaaa Anta Subh’aanaka Innee Kuntu Minaz” Z’aalimeen",
+        "reference": "Sahih (Albani). Tirmizi: 3505",
+        "audio": 448,
+        "cat_id": 26,
+        "subcat_id": 80
+      },
+      "source": {
+        "name": "In time of Danger",
+        "content": "The Prophet (ﷺ) In times of danger, he used to say -",
+        "translation": "None has the right to be worshipped but You (O Allah), Glorified (and Exalted) are You. Truly, I have been of the wrong-doers.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "table": "duas",
+  "chunk": "duas_014.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 13,
+  "id_range": "181-193",
+  "source_chars": 5853,
+  "items": [
+    {
+      "key": [
+        181
+      ],
+      "id": 181,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 181,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَجِرْنِيْ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "indopak": "اَللّٰهُمَّ اَجِرْنِيْ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اللهم اجرني من الشيطان الرجيم",
+        "transliteration": "Allaahumma ajirni minash shaitaanir rajeem",
+        "reference": "Sahih (Ibn Hibban). Ibn Hibban: 2047",
+        "audio": 181,
+        "cat_id": 12,
+        "subcat_id": 28
+      },
+      "source": {
+        "name": "Upon leaving the mosque #3",
+        "content": "The Messenger of Allah (ﷺ) instructed to recite this dua while leaving the mosque:",
+        "translation": "O Allah, protect me from Satan the outcast.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        182
+      ],
+      "id": 182,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 182,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اعْصِمْنِى مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "indopak": "اَللّٰهُمَّ اعْصِمْنِىْ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اللهم اعصمني من الشيطان الرجيم",
+        "transliteration": "Allaahumma aa'simni minash shaitaanir rajeem",
+        "reference": "Sahih (Albani). Ibn Majah: 773",
+        "audio": 182,
+        "cat_id": 12,
+        "subcat_id": 28
+      },
+      "source": {
+        "name": "Upon leaving the mosque #4",
+        "content": "When someone leaves the mosque, he should greet the Prophet (ﷺ) and say:",
+        "translation": "O Allah, protect me from Satan the outcast.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        183
+      ],
+      "id": 183,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 183,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي ذُنُوْبِي وَافْتَحْ لِي أَبْوَابَ فَضْلِكَ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِىْ ذُنُوْبِىْ وَافْتَحْ لِىْ اَبْوَابَ فَضْلِكَ",
+        "clean": "اللهم اغفر لي ذنوبي وافتح لي ابواب فضلك",
+        "transliteration": "Allaahummaghfirli dhunubi, waftahli abwaba fadlik",
+        "reference": "Sahih (Albani). Ibn Majah: 771",
+        "audio": 183,
+        "cat_id": 12,
+        "subcat_id": 28
+      },
+      "source": {
+        "name": "Upon leaving the mosque #5",
+        "content": "When someone leaves the mosque, he should send a durood on the Prophet (ﷺ) and say:",
+        "translation": "O Lord pardon my sins, and open the gates of Your blessings for me.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        184
+      ],
+      "id": 184,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 184,
+        "groups": null,
+        "uthmani": "لَا رَدَّهَا اللَّهُ عَلَيْكَ",
+        "indopak": "لَا رَدَّهَا اللّٰهُ عَلَيْكَ",
+        "clean": "لا ردها الله عليك",
+        "transliteration": "laa raddahAllahu 'alaik",
+        "reference": "Sahih (Albani). Tirmidhi: 1321",
+        "audio": 184,
+        "cat_id": 12,
+        "subcat_id": 29
+      },
+      "source": {
+        "name": "Prayers for the person who announcing the lost thing in the mosque",
+        "content": "Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said: \"When you see someone announcing about something lost then say:",
+        "translation": "May Allah not return it to you.",
+        "note": "This is because the mosques were not built for this purpose."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        185
+      ],
+      "id": 185,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 185,
+        "groups": null,
+        "uthmani": "لَا أَرْبَحَ اللَّهُ تِجَارَتَكَ",
+        "indopak": "لَا اَرْبَحَ اللّٰهُ تِجَارَتَكَ",
+        "clean": "لا اربح الله تجارتك",
+        "transliteration": "laa arba'ha Allahu tijaarataka",
+        "reference": "Sahih (Albani). Tirmidhi: 1321",
+        "audio": 185,
+        "cat_id": 12,
+        "subcat_id": 30
+      },
+      "source": {
+        "name": "Prayers for the person who trades in the mosque",
+        "content": "Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said: \"When you see someone selling or buying in the Masjid then say:",
+        "translation": "May Allah not profit your business.",
+        "note": "This is because the mosques were not built for this purpose."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        186
+      ],
+      "id": 186,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 186,
+        "groups": null,
+        "uthmani": "وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَوَاتِ وَالْأَرْضَ حَنِيفًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلَاتِي، وَنُسُكِي، وَمَحْيَايَ، وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ، لَا شَرِيكَ لَهُ وَبِذَلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ اَللَّهُمَّ أَنْتَ الْمَلِكُ لَا إِلَهَ إِلَّا أَنْتَ، أَنْتَ رَبِّي وَأَنَا عَبْدُكَ، ظَلَمْتُ نَفْسِي وَاعْتَرَفْتُ بِذَنْبِي فَاغْفِرْ لِي ذُنُوبِي جَمِيعًا إِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، وَاهْدِنِي لِأَحْسَنِ الْأَخْلَاقِ لَا يَهْدِي لِأَحْسَنِهَا إِلَّا أَنْتَ، وَاصْرِفْ عَنِّي سَيِّئَهَا، لَا يَصْرِفُ عَنِّي سَيِّئَهَا إِلَّا أَنْتَ لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ كُلُّهُ بِيَـدَيْكَ، وَالشَّـرُّ لَيْسَ إِلَيْـكَ، أَنَا بِكَ وَإِلَيْكَ، تَبارَكْتَ وَتَعَالَيْتَ، أَسْتَغْفِرُكَ وَأَتوبُ إِلَيْكَ",
+        "indopak": "وَجَّهْتُ وَجْهِىَ لِلَّذِىْ فَطَرَ السَّمَاوَاتِ وَالْاَرْضَ حَنِيْفًا وَّمَا اَنَا مِنَ الْمُشْرِكِيْنَ، اِنَّ صَلَاتِىْ، وَنُسُكِىْ، وَمَحْيَاىَ، وَمَمَاتِىْ لِلّٰهِ رَبِّ الْعَالَمِيْنَ، لَا شَرِيْكَ لَهٗ وَبِذَلِكَ اُمِرْتُ وَاَنَا مِنَ الْمُسْلِمِيْنَ، اَللّٰهُمَّ اَنْتَ الْمَلِكُ لَا اِلٰهَ اِلَّا اَنْتَ، اَنْتَ رَبِّىْ وَاَنَا عَبْدُكَ، ظَلَمْتُ نَفْسِىْ وَاعْتَرَفْتُ بِذَنْۢبِىْ فَاغْفِرْ لِىْ ذُنُوْبِىْ جَمِيْعًا اِنَّهٗ لَا يَغْفِرُ الذُّنُوْبَ اِلَّا اَنْتَ، وَاهْدِنِىْ لِاَحْسَنِ الْاَخْلَاقِ لَا يَهْدِىْ لِاَحْسَنِهَا اِلَّا اَنْتَ، وَاصْرِفْ عَنِّىْ سَيِّئَهَا، لَا يَصْرِفُ عَنِّىْ سَيِّئَهَا اِلَّا اَنْتَ لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ كُلُّهٗ بِيَدَيْكَ، وَالشَّرُّ لَيْسَ اِلَيْكَ، اَنَا بِكَ وَاِلَيْكَ، تَبارَكْتَ وَتَعَالَيْتَ، اَسْتَغْفِرُكَ وَاَتوبُ اِلَيْكَ",
+        "clean": "وجهت وجهي للذي فطر السماوات والارض حنيفا وما انا من المشركين ان صلاتي ونسكي ومحياي ومماتي لله رب العالمين لا شريك له وبذلك امرت وانا من المسلمين اللهم انت الملك لا اله الا انت انت ربي وانا عبدك ظلمت نفسي واعترفت بذنبي فاغفر لي ذنوبي جميعا انه لا يغفر الذنوب الا انت واهدني لاحسن الاخلاق لا يهدي لاحسنها الا انت واصرف عني سيءها لا يصرف عني سيءها الا انت لبيك وسعديك والخير كله بيديك والشر ليس اليك انا بك واليك تباركت وتعاليت استغفرك واتوب اليك",
+        "transliteration": "Wajjahtu wajhiya lilladhee fataras-samawaati wal-arda haneefan wa maa ana minal-mushrikeen, inna salaatee wa nusukee wa mahyaaya wa mamaatee lillaahi rabbil-’alameen, laa shareeka lahu wabi dhaalika umirtu wa-ana minal-muslimeen. Allaahumma antal-maliku laa ilaaha illaa anta. anta rabbee wa-anaa ‘abduka, dhalamtu nafsee wa’taraftu bidhanbee faghfir lee dhunoobee jamee’an innahu laa yaghfirudh-dhunooba illaa anta. wahdinee li-ahsanil-akhlaaqi laa yahdee li-ahsaniha illaa anta, wasrif ‘annee sayyiaha laa yasrifu ‘annee sayyiaha illaa anta, Labbayka wa sa’dayka, wal-khayru kulluhu biyadayka, washsharru laysa ilayka, ana bika wa-ilayka, tabarakta wa ta’alayta, astaghfiruka wa atoobu ilayk",
+        "reference": "Muslim: 771",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 31
+      },
+      "source": {
+        "name": "At the beginning of the prayer #2",
+        "content": null,
+        "translation": "I have turned my face sincerely towards He who has brought forth the heavens and the Earth and I am not of those who associate (others with Allah). Indeed my prayer, my sacrifice, my life and my death are for Allah, Lord of the worlds, no partner has He, with this I am commanded and I am of the Muslims. O Allah, You are the Sovereign, none has the right to be worshipped except You. You are my Lord and I am Your servant, I have wronged my own soul and have acknowledged my sin, so forgive me all my sins for no one forgives sins except You. Guide me to the best of characters for none can guide to it other than You, and deliver me from the worst of characters for none can deliver me from it other than You. Here I am, in answer to Your call, happy to serve you. All good is within Your hands and evil does not stem from You. I exist by your will and will return to you. Blessed and High are You, I seek Your forgiveness and repent unto You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        187
+      ],
+      "id": 187,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 187,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ بَاعِدْ بَيْنِيْ وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اَللَّهُمَّ نَقِّنِيْ مِنَ الْخَطَايَا كَمَا يُنَقَّى الثَّوْبُ الْأَبْيَضُ مِنَ الدَّنَسِ، اَللَّهُمَّ اغْسِلْ خَطَايَايَ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ",
+        "indopak": "اَللّٰهُمَّ بَاعِدْ بَيْنِىْ وَبَيْنَ خَطَايَاىَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اَللّٰهُمَّ نَقِّنِىْ مِنَ الْخَطَايَا كَمَا يُنَقَّى الثَّوْبُ الْاَبْيَضُ مِنَ الدَّنَسِ، اَللّٰهُمَّ اغْسِلْ خَطَايَاىَ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ",
+        "clean": "اللهم باعد بيني وبين خطاياي كما باعدت بين المشرق والمغرب اللهم نقني من الخطايا كما ينقي الثوب الابيض من الدنس اللهم اغسل خطاياي بالماء والثلج والبرد",
+        "transliteration": "Allaahumma baa'id baynee wa bayna khataayaaya kamaa baa'adta baynal-mashriqi walmaghrib, Allaahumma naqqinee minal khataayaa kamaa yunaqqath-thawbul-'abyadhu minad-danas, Allaahummaghsil khataayaaya, bil maa'i wath-thalji wal-barad",
+        "reference": "Bukhari: 744",
+        "audio": 187,
+        "cat_id": 13,
+        "subcat_id": 31
+      },
+      "source": {
+        "name": "At the beginning of the prayer #3",
+        "content": null,
+        "translation": "O Allah! separate me from my sins as You have separated the East from the West. O Allah, cleanse me of my transgressions as the white garment is cleansed of stains. O Allah! wash away my sins with ice and water and frost.",
+        "note": "Narrated by Abu Huraira (RA): Allah's Messenger (ﷺ) used to keep silent between the Takbir and the recitation of Qur'an and that interval of silence used to be a short one. I said to the Prophet (ﷺ) \"May my parents be sacrificed for you! What do you say in the pause between Takbir and recitation?\" The Prophet (ﷺ) said, \"I say, (The dua is Mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        188
+      ],
+      "id": 188,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 188,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَبَّ جِبْرَائِيْلَ وَمِيْكَائِيْلَ وَإِسْرَافِيلَ فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ اِهْدِنِيْ لِمَا اخْتُلِفَ فِيهِ مِنَ الْحَقِّ بِإِذْنِكَ إِنَّكَ تَهْدِيْ مَنْ تَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيْمٍ",
+        "indopak": "اَللّٰهُمَّ رَبَّ جِبْرَائِيْلَ وَمِيْكَائِيْلَ وَاِسْرَافِيْلَ فَاطِرَ السَّمَاوَاتِ وَالْاَرْضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ اَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيْمَا كَانُوا فِيْهِ يَخْتَلِفُوْنَ اِهْدِنِيْ لِمَا اخْتُلِفَ فِيْهِ مِنَ الْحَقِّ بِاِذْنِكَ اِنَّكَ تَهْدِيْ مَنْ تَشَاءُ اِلٰى صِرَاطٍ مُسْتَقِيْمٍ",
+        "clean": "اللهم رب جبراءيل وميكاءيل واسرافيل فاطر السماوات والارض عالم الغيب والشهاده انت تحكم بين عبادك فيما كانوا فيه يختلفون اهدني لما اختلف فيه من الحق باذنك انك تهدي من تشاء الي صراط مستقيم",
+        "transliteration": "Allaahumma rabba jibraa-eel, wameekaa-eel, wa-israafeel faatiras-samawaati wal-ardi, ‘Aalimal-ghaybi wash-shahadati, anta tahkumu bayna ‘ibaadika feemaa kaanoo feehi yakhtalifoon. ihdinee limakh-tulifa feehi minal-haqqi bi-idhnika, innaka tahdee man tasha-o ilaa siratin mustaqeem",
+        "reference": "Muslim: 770",
+        "audio": 188,
+        "cat_id": 13,
+        "subcat_id": 31
+      },
+      "source": {
+        "name": "At the beginning of the prayer #4",
+        "content": null,
+        "translation": "O Allah, Lord of Jibra-eel, Meeka-eel and Israfeel (great angles), Creator of the heavens and the Earth, Knower of the seen and the unseen. You are the arbitrator between Your servants in that which they have disputed. Guide me to the truth by Your leave, in that which they have differed, for verily You guide whom You will to a straight path.",
+        "note": "Ayesha said that the Prophet (ﷺ) used to recite this dua at the beginning of the night (tahajjud) prayer."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        189
+      ],
+      "id": 189,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 189,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ قَيِّمُ السَّمَوَاتِ وَالْأَرْضِ وَمَنْ فِيهِنَّ وَلَكَ الْحَمْدُ، لَكَ مُلْكُ السَّمَوَاتِ وَالْأَرْضِ وَمَنْ فِيهِنَّ، وَلَكَ الْحَمْدُ أَنْتَ نُورُ السَّمَوَاتِ وَالْأَرْضِ، وَلَكَ الْحَمْدُ أَنْتَ الْحَقُّ، وَوَعْدُكَ الْحَقُّ، وَلِقَاؤُكَ حَقٌّ، وَقَوْلُكَ حَقٌّ، وَالْجَنَّةُ حَقٌّ، وَالنَّارُ حَقٌّ، وَالنَّبِيُّونَ حَقٌّ، وَمُحَمَّدٌ ﷺ حَقٌّ، وَالسَّاعَةُ حَقٌّ، اَللَّهُمَّ لَكَ أَسْلَمْتُ، وَبِكَ آمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ، وَإِلَيْكَ أَنَبْتُ، وَبِكَ خَاصَمْتُ، وَإِلَيْكَ حَاكَمْتُ، فَاغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ، أَنْتَ الْمُقَدِّمُ وَأَنْتَ الْمُؤَخِّرُ، لَا إِلَهَ إِلَّا أَنْتَ (لَا إِلَهَ غَيْرُكَ)",
+        "indopak": "اَللّٰهُمَّ لَكَ الْحَمْدُ اَنْتَ قَيِّمُ السَّمَاوَاتِ وَالْاَرْضِ وَمَنْ فِيْهِنَّ وَلَكَ الْحَمْدُ، لَكَ مُلْكُ السَّمَاوَاتِ وَالْاَرْضِ وَمَنْ فِيْهِنَّ، وَلَكَ الْحَمْدُ اَنْتَ نُوْرُ السَّمَاوَاتِ وَالْاَرْضِ، وَلَكَ الْحَمْدُ اَنْتَ الْحَقُّ، وَوَعْدُكَ الْحَقُّ، وَلِقَاؤُكَ حَقٌّ، وَقَوْلُكَ حَقٌّ، وَالْجَنَّةُ حَقٌّ، وَالنَّارُ حَقٌّ، وَالنَّبِيُّوْنَ حَقٌّ، وَمُحَمَّدٌ ﷺ حَقٌّ، وَالسَّاعَةُ حَقٌّ، اَللّٰهُمَّ لَكَ اَسْلَمْتُ، وَبِكَ اٰمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ، وَاِلَيْكَ اَنَبْتُ، وَبِكَ خَاصَمْتُ، وَاِلَيْكَ حَاكَمْتُ، فَاغْفِرْ لِيْ مَا قَدَّمْتُ وَمَا اَخَّرْتُ، وَمَا اَسْرَرْتُ وَمَا اَعْلَنْتُ، اَنْتَ الْمُقَدِّمُ وَاَنْتَ الْمُؤَخِّرُ، لَا اِلٰهَ اِلَّا اَنْتَ (لَا اِلٰهَ غَيْرُكَ)",
+        "clean": "اللهم لك الحمد انت قيم السماوات والارض ومن فيهن ولك الحمد لك ملك السماوات والارض ومن فيهن ولك الحمد انت نور السماوات والارض ولك الحمد انت الحق ووعدك الحق ولقاءك حق وقولك حق والجنه حق والنار حق والنبيون حق ومحمد  حق والساعه حق اللهم لك اسلمت وبك امنت وعليك توكلت واليك انبت وبك خاصمت واليك حاكمت فاغفر لي ما قدمت وما اخرت وما اسررت وما اعلنت انت المقدم وانت المءخر لا اله الا انت لا اله غيرك",
+        "transliteration": "Allaahumma lakal-hamdu. Anta qaiyyimus-samawaati wal-ardi wa man fihinna. Walakal-hamdu, Laka mulkus-samawaati wal-ardi wa man fihinna. Walakal-hamdu, anta nurus-samawaati wal-ardi. Walakal-hamdu, antal-haqqu wa wa'dukal-haqqu, wa liqaa'uka Haqqun, wa qauluka Haqqun, wal-jannatu Haqqun wan-naaru Haqqun wannabiyuna Haqqun. Wa Muhammadun (ﷺ) Haqqun, was-sa'atu Haqqun. Allaahumma Laka aslamtu wabika amantu, wa 'Alaika tawakkaltu, wa ilaika anabtu wa bika khaasamtu, wa ilaika ‘haakamtu faghfir li maa qaddamtu wamaa akh-khartu wamaa as-rartu wamaa a’lantu, antal-muqaddimu wa antal muakh-khiru, laa ilaaha illaa anta (in another narration there is laa ilaaha ghairuka instead of laa ilaaha illaa anta)",
+        "reference": "Bukhari: 1120",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 31
+      },
+      "source": {
+        "name": "At the beginning of the prayer #5",
+        "content": "Ibn 'Abbas (RA) said: when The Prophet (ﷺ) was standing at night to pray Tahajjud, he used to recite:",
+        "translation": "O Allah! All the praises are for you, You are the Holder of the Heavens and the Earth, And whatever is in them. All the praises are for You; You have the possession of the Heavens and the Earth And whatever is in them. All the praises are for You; You are the Light of the Heavens and the Earth And all the praises are for You; You are the King of the Heavens and the Earth; And all the praises are for You; You are the Truth and Your Promise is the truth, And to meet You is true, Your Word is the truth And Paradise is true And Hell is true And all the Prophets (Peace be upon them) are true; And Muhammad (ﷺ) is true, And the Day of Resurrection is true. O Allah ! I surrender (my will) to You; I believe in You and depend on You. And repent to You, And with Your help I argue (with my opponents, the non-believers) And I take You as a judge (to judge between us). Please forgive me my previous And future sins; And whatever I concealed or revealed And You are the One who make (some people) forward And (some) backward. There is none to be worshipped but you.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        190
+      ],
+      "id": 190,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 190,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَنْتَ الْمَلِكُ لَا إِلَهَ إِلَّا أَنْتَ، أَنْتَ رَبِّي وَأَنَا عَبْدُكَ، ظَلَمْتُ نَفْسِي وَاعْتَرَفْتُ بِذَنْبِي فَاغْفِرْ لِي ذُنُوبِي جَمِيعًا إِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، وَاهْدِنِي لِأَحْسَنِ الْأَخْلَاقِ لَا يَهْدِي لِأَحْسَنِهَا إِلَّا أَنْتَ، وَاصْرِفْ عَنِّي سَيِّئَهَا، لَا يَصْرِفُ عَنِّي سَيِّئَهَا إِلاَّ أَنْتَ.",
+        "indopak": "اَللّٰهُمَّ اَنْتَ الْمَلِكُ لَا اِلٰهَ اِلَّا اَنْتَ، اَنْتَ رَبِّىْ وَاَنَا عَبْدُكَ، ظَلَمْتُ نَفْسِىْ وَاعْتَرَفْتُ بِذَنْۢبِىْ فَاغْفِرْ لِىْ ذُنُوبِىْ جَمِيْعًا اِنَّهٗ لَا يَغْفِرُ الذُّنُوبَ اِلَّا اَنْتَ، وَاهْدِنِىْ لِاَحْسَنِ الْاَخْلَاقِ لَا يَهْدِىْ لِاَحْسَنِهَا اِلَّا اَنْتَ، وَاصْرِفْ عَنِّىْ سَيِّئَهَا، لَا يَصْرِفُ عَنِّىْ سَيِّئَهَا اِلاَّ اَنْتَ",
+        "clean": "اللهم انت الملك لا اله الا انت انت ربي وانا عبدك ظلمت نفسي واعترفت بذنبي فاغفر لي ذنوبي جميعا انه لا يغفر الذنوب الا انت واهدني لاحسن الاخلاق لا يهدي لاحسنها الا انت واصرف عني سيءها لا يصرف عني سيءها الا انت",
+        "transliteration": "Allaahumma antal-maliku laa ilaaha illaa anta. anta rabbee wa-anaa ‘abduka, dhalamtu nafsee wa’taraftu bidhanbee faghfir lee dhunoobee jamee'aan innahu laa yaghfirudh-dhunooba illaa anta. wahdinee li-ahsanil-akhlaaqi laa yahdee li-ahsanihaa illaa anta, wasrif 'annee sayyi-ahaa laa yasrifu 'annee sayyi-ahaa illaa anta",
+        "reference": "Muslim: 771",
+        "audio": 190,
+        "cat_id": 13,
+        "subcat_id": 31
+      },
+      "source": {
+        "name": "At the beginning of the prayer #6",
+        "content": null,
+        "translation": "O Allah, You are the Sovereign, none has the right to be worshipped except You. You are my Lord and I am Your servant, I have wronged my own soul and have acknowledged my sin, so forgive me all my sins for no one forgives sins except You. Guide me to the best of characters for none can guide to it other than You, and deliver me from the worst of characters for none can deliver me from it other than You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        191
+      ],
+      "id": 191,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 191,
+        "groups": null,
+        "uthmani": "لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ كُلُّهُ بِيَـدَيْكَ، وَالشَّـرُّ لَيْسَ إِلَيْـكَ، أَنَا بِكَ وَإِلَيْكَ، تَبَارَكْتَ وَتَعَالَيْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+        "indopak": "لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ كُلُّهٗ بِيَدَيْكَ، وَالشَّرُّ لَيْسَ اِلَيْكَ، اَنَا بِكَ وَاِلَيْكَ، تَبَارَكْتَ وَتَعَالَيْتَ، اَسْتَغْفِرُكَ وَاَتُوْبُ اِلَيْكَ",
+        "clean": "لبيك وسعديك والخير كله بيديك والشر ليس اليك انا بك واليك تباركت وتعاليت استغفرك واتوب اليك",
+        "transliteration": "Labbayka wa sa'dayka, wal-khayru kulluhu biyadaika, washsharru laysa ilayka, anaa bika wa-ilayka, tabaarakta wa ta'Aalayta, astaghfiruka wa-atoobu ilayk",
+        "reference": "Muslim: 771",
+        "audio": 191,
+        "cat_id": 13,
+        "subcat_id": 31
+      },
+      "source": {
+        "name": "At the beginning of the prayer #7",
+        "content": null,
+        "translation": "Here I am, in answer to Your call, happy to serve you. All good is within Your hands and evil does not stem from You. I exist by your will and will return to you. Blessed and High are You, I seek Your forgiveness and repent unto You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        192
+      ],
+      "id": 192,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 192,
+        "groups": "[{\"id\": 192, \"name\": null, \"cat_id\": 13, \"subcat_id\": 31, \"content\": \"Then say:\", \"uthmani\": \"\\u0623\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u0650 \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0634\\u0651\\u064e\\u064a\\u0652\\u0637\\u064e\\u0627\\u0646\\u0650 \\u0645\\u0650\\u0646\\u0652 \\u0646\\u064e\\u0641\\u0652\\u062e\\u0650\\u0647\\u0650\\u060c \\u0648\\u064e\\u0646\\u064e\\u0641\\u0652\\u062b\\u0650\\u0647\\u0650\\u060c \\u0648\\u064e\\u0647\\u064e\\u0645\\u0652\\u0632\\u0650\\u0647\\u0650\", \"indopak\": \"\\u0627\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650 \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0634\\u0651\\u064e\\u064a\\u0652\\u0637\\u064e\\u0627\\u0646\\u0650 \\u0645\\u0650\\u0646\\u0652 \\u0646\\u064e\\u0641\\u0652\\u062e\\u0650\\u0647\\u0656\\u060c \\u0648\\u064e\\u0646\\u064e\\u0641\\u0652\\u062b\\u0650\\u0647\\u0656\\u060c \\u0648\\u064e\\u0647\\u064e\\u0645\\u0652\\u0632\\u0650\\u0647\\u0656\", \"clean\": \"\\u0627\\u0639\\u0648\\u0630 \\u0628\\u0627\\u0644\\u0644\\u0647 \\u0645\\u0646 \\u0627\\u0644\\u0634\\u064a\\u0637\\u0627\\u0646 \\u0645\\u0646 \\u0646\\u0641\\u062e\\u0647 \\u0648\\u0646\\u0641\\u062b\\u0647 \\u0648\\u0647\\u0645\\u0632\\u0647\", \"transliteration\": \"A 'oodhu billaahi minash-Shaytaani min nafkhihi, wa nafthihi, wa hamzihi\", \"translation\": \"I seek refuge in Allah from Satan. From his breath and from his voice and from his whisper.\", \"note\": null, \"reference\": \"Hasan li gairihi (Shu'aib Al-Arnaut). Abu Dawud: 764\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "اَللَّهُ أَكْبَرُ كَبِيرًا، اَللَّهُ أَكْبَرُ كَبِيرًا، اَللَّهُ أَكْبَرُ كَبِيرًا، وَالْحَمْدُ لِلَّهِ كَثِيرًا، وَالْحَمْدُ لِلَّهِ كَثِيرًا، وَالْحَمْدُ لِلَّهِ كَثِيرًا، وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلًا",
+        "indopak": "اَللّٰهُ اَكْبَرُ كَبِيْرًا، اَللّٰهُ اَكْبَرُ كَبِيْرًا، اَللّٰهُ اَكْبَرُ كَبِيْرًا، وَالْحَمْدُ لِلّٰهِ كَثِيْرًا، وَالْحَمْدُ لِلّٰهِ كَثِيْرًا، وَالْحَمْدُ لِلّٰهِ كَثِيْرًا، وَسُبْحَانَ اللّٰهِ بُكْرَةً وَّاَصِيْلًا",
+        "clean": "الله اكبر كبيرا الله اكبر كبيرا الله اكبر كبيرا والحمد لله كثيرا والحمد لله كثيرا والحمد لله كثيرا وسبحان الله بكره واصيلا",
+        "transliteration": "Allahu 'Akbar Kabeera, Allahu 'Akbar Kabeera, Allahu 'Akbar Kabeera, walhamdu lillaahi katheera, walhamdu lillaahi katheera, walhamdu lillaahi katheera, wa SubhaanAllahi bukratan wa'aseela",
+        "reference": null,
+        "audio": 192,
+        "cat_id": 13,
+        "subcat_id": 31
+      },
+      "source": {
+        "name": "At the beginning of the prayer #8",
+        "content": "Say three times:",
+        "translation": "Allah is the Greatest, Most Great. Allah is the Greatest, Most Great. Allah is the Greatest, Most Great. Praise is to Allah, abundantly. Praise is to Allah, abundantly. Praise is to Allah, abundantly. Glory is to Allah, at the break of day and at its end.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        193
+      ],
+      "id": 193,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 193,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "indopak": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اعوذ بالله من الشيطان الرجيم",
+        "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
+        "reference": "Muslim: 2203",
+        "audio": 193,
+        "cat_id": 13,
+        "subcat_id": 32
+      },
+      "source": {
+        "name": "If afflicted by whisperings in prayer or recitation",
+        "content": null,
+        "translation": "I seek refuge in Allah from Satan the outcast.",
+        "note": "Uthman bin Abu al-'As reported that he came to Allah's Messenger (ﷺ) and said: Allah's Messenger (ﷺ), the Satan intervenes between me and my prayer and my reciting of the Qur'an and he confounds me. Thereupon Allah's Messenger (ﷺ) said:, That is (the doing of a) Satan (devil) who is known as Khinzab, and when you perceive its effect, seek refuge with Allah from it and spit three times to your left. Uthman (RA) said: I did that and Allah dispelled that from me."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    }
+  ]
+}

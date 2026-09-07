@@ -1,0 +1,962 @@
+{
+  "table": "ruqyah_subcategories",
+  "chunk": "ruqyah_subcategories_001.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 50,
+  "id_range": "1-50",
+  "source_chars": 1681,
+  "items": [
+    {
+      "key": [
+        1
+      ],
+      "id": 1,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 1,
+        "type": "RUQYAH",
+        "cat_id": 1
+      },
+      "source": {
+        "name": "What is Ruqyah ?"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        2
+      ],
+      "id": 2,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 2,
+        "type": "RUQYAH",
+        "cat_id": 1
+      },
+      "source": {
+        "name": "The Method Of Ruqyah"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        3
+      ],
+      "id": 3,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 3,
+        "type": "RUQYAH",
+        "cat_id": 1
+      },
+      "source": {
+        "name": "Conditions for Ruqyah to be successful"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        4
+      ],
+      "id": 4,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 4,
+        "type": "RUQYAH",
+        "cat_id": 1
+      },
+      "source": {
+        "name": "Before Ruqyah"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        5
+      ],
+      "id": 5,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 5,
+        "type": "RUQYAH",
+        "cat_id": 1
+      },
+      "source": {
+        "name": "During Ruqyah"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        6
+      ],
+      "id": 6,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 6,
+        "type": "RUQYAH",
+        "cat_id": 1
+      },
+      "source": {
+        "name": "Why Blow with Your Saliva?"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        7
+      ],
+      "id": 7,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 7,
+        "type": "RUQYAH",
+        "cat_id": 1
+      },
+      "source": {
+        "name": "Blowing in Water"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        8
+      ],
+      "id": 8,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 8,
+        "type": "RUQYAH",
+        "cat_id": 1
+      },
+      "source": {
+        "name": "FAQ's About Ruqya"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        9
+      ],
+      "id": 9,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 9,
+        "type": "RUQYAH",
+        "cat_id": 1
+      },
+      "source": {
+        "name": "Prerequisites of writing Ruqyah and drinking it’s water"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        10
+      ],
+      "id": 10,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 10,
+        "type": "RUQYAH",
+        "cat_id": 1
+      },
+      "source": {
+        "name": "The correct way to perform Ruqyah for a small child"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        11
+      ],
+      "id": 11,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 11,
+        "type": "RUQYAH",
+        "cat_id": 1
+      },
+      "source": {
+        "name": "Are physical medicines better, or Ruqyah and spiritual medicine?"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        12
+      ],
+      "id": 12,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 12,
+        "type": "INSTANT",
+        "cat_id": 2
+      },
+      "source": {
+        "name": "Brief Ruqya"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        13
+      ],
+      "id": 13,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 13,
+        "type": "INSTANT",
+        "cat_id": 2
+      },
+      "source": {
+        "name": "A Medium Ruqya"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        14
+      ],
+      "id": 14,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 14,
+        "type": "INSTANT",
+        "cat_id": 2
+      },
+      "source": {
+        "name": "A Long Ruqya"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        15
+      ],
+      "id": 15,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 15,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Existence"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        16
+      ],
+      "id": 16,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 16,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Jinn's fear of humans"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        17
+      ],
+      "id": 17,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 17,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Jinn envy humans"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        18
+      ],
+      "id": 18,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 18,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "When do demons spread out?"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        19
+      ],
+      "id": 19,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 19,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "It is prohibited to sacrifice animals for Jinn"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        20
+      ],
+      "id": 20,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 20,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "It is haram to seek refuge with Jinn"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        21
+      ],
+      "id": 21,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 21,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Do Jinn inhabit people's houses?"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        22
+      ],
+      "id": 22,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 22,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "How to chase Jinn away from a house?"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        23
+      ],
+      "id": 23,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 23,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Jinn are less dignified than mankind"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        24
+      ],
+      "id": 24,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 24,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Reasons of Jinn's possession of humans"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        25
+      ],
+      "id": 25,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 25,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "How does a Jinn enter the body of a human, and where does he/she settle?"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        26
+      ],
+      "id": 26,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 26,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Symptoms of the Jinn's possession of humans"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        27
+      ],
+      "id": 27,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 27,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Characteristics of a healer (exorcist)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        28
+      ],
+      "id": 28,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 28,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "The method of healing"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        29
+      ],
+      "id": 29,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 29,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "How to Conduct a Ruqyah with a Muslim Jinn?"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        30
+      ],
+      "id": 30,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 30,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "How to Conduct Ruqyah with a non-Muslim Jinn?"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        31
+      ],
+      "id": 31,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 31,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Some notes for the exorcist"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        32
+      ],
+      "id": 32,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 32,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "If the patient does not have a seizure"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        33
+      ],
+      "id": 33,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 33,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "What should be recited over the jinn if he breaks his promise and comes back"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        34
+      ],
+      "id": 34,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 34,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Treating a case of love between a jinn and a human"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        35
+      ],
+      "id": 35,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 35,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Some Practical Examples"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        36
+      ],
+      "id": 36,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 36,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Guidance for the protection from Sar' (Possesion)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        37
+      ],
+      "id": 37,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 37,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Waswasah in Salat"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        38
+      ],
+      "id": 38,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 38,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Satan's Musical instruments"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        39
+      ],
+      "id": 39,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 39,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Satan's approach to one's meal"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        40
+      ],
+      "id": 40,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 40,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "The levels of temptation"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        41
+      ],
+      "id": 41,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 41,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "As well as adhering to the Ruqyah program, what else should the patient do?"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        42
+      ],
+      "id": 42,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 42,
+        "type": "RUQYAH",
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Ten ways of avoiding the harm of the Jinn and protecting oneself against the devils"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        43
+      ],
+      "id": 43,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 43,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Evidence of the Existence of Jinn and Demons"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        44
+      ],
+      "id": 44,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 44,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Evidence on the Existence of Sihr"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        45
+      ],
+      "id": 45,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 45,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "1. Sihr of Separation"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        46
+      ],
+      "id": 46,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 46,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Definition of Sihr of Separation"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        47
+      ],
+      "id": 47,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 47,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Treatment Of The Sihr Of Separation"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        48
+      ],
+      "id": 48,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 48,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "2. Sihr Al-Mahabba / At-Tiwala (Love)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        49
+      ],
+      "id": 49,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 49,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Lawful Sihr"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        50
+      ],
+      "id": 50,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 50,
+        "type": "RUQYAH",
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Treatment of Sihr of Love"
+      },
+      "target": {
+        "name": ""
+      }
+    }
+  ]
+}

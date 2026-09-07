@@ -1,0 +1,460 @@
+{
+  "table": "duas",
+  "chunk": "duas_051.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 14,
+  "id_range": "770-783",
+  "source_chars": 5909,
+  "items": [
+    {
+      "key": [
+        770
+      ],
+      "id": 770,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 770,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ لَكَ الْحَمْدُ كُلُّهُ، اَللَّهُمَّ لَا قَابِضَ لِمَا بَسَطْتَ، وَلَا مُقَرِّبَ لِمَا بَاعَدْتَ، وَلَا مُبَاعِدَ لِمَا قَرَّبْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا مَانِعَ لِمَا أَعْطَيْتَ. اَللَّهُمَّ ابْسُطْ عَلَيْنَا مِنْ بَرَكَاتِكَ وَرَحْمَتِكَ وَفَضْلِكَ وَرِزْقِكَ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ النَّعِيمَ الْمُقِيمَ الَّذِي لَا يَحُولُ وَلَا يَزُولُ. اَللَّهُمَّ إِنِّي أَسْأَلُكَ النَّعِيمَ يَوْمَ الْعَيْلَةِ، وَالْأَمْنَ يَوْمَ الْحَرْبِ، اَللَّهُمَّ عَائِذًا بِكَ مِنْ سُوءِ مَا أَعْطَيْتَنَا، وَشَرِّ مَا مَنَعْتَ مِنَّا. اَللَّهُمَّ حَبِّبْ إِلَيْنَا الْإِيمَانَ وَزَيِّنْهُ فِي قُلُوبِنَا، وَكَرِّهْ إِلَيْنَا الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ، وَاجْعَلْنَا مِنَ الرَّاشِدِينَ. اَللَّهُمَّ تَوَفَّنَا مُسْلِمِينَ، وَأَحْيِنَا مُسْلِمِينَ، وَأَلْحِقْنَا بِالصَّالِحِينَ، غَيْرَ خَزَايَا وَلَا مَفْتُونِينَ. اَللَّهُمَّ قَاتِلِ الْكَفَرَةَ الَّذِينَ يَصُدُّونَ عَنْ سَبِيلِكَ، وَيُكَذِّبُونَ رُسُلَكَ، وَاجْعَلْ عَلَيْهِمْ رِجْزَكَ وَعَذَابَكَ. اَللَّهُمَّ قَاتِلِ الْكَفَرَةَ الَّذِينَ أُوتُوا الْكِتَابَ، إِلَهَ الْحَقِّ",
+        "indopak": "اَللّٰهُمَّ لَكَ الْحَمْدُ كُلُّهٗ، اَللّٰهُمَّ لَا قَابِضَ لِمَا بَسَطْتَ، وَلَا مُقَرِّبَ لِمَا بَاعَدْتَ، وَلَا مُبَاعِدَ لِمَا قَرَّبْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا مَانِعَ لِمَا اَعْطَيْتَ، اَللّٰهُمَّ ابْسُطْ عَلَيْنَا مِنْ بَرَكَاتِكَ وَرَحْمَتِكَ وَفَضْلِكَ وَرِزْقِكَ، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ النَّعِيْمَ الْمُقِيْمَ الَّذِيْ لَا يَحُوْلُ وَلَا يَزُوْلُ، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ النَّعِيْمَ يَوْمَ الْعَيْلَةِ، وَالْاَمْنَ يَوْمَ الْحَرْبِ، اَللّٰهُمَّ عَائِذًا بِكَ مِنْ سُوْءِ مَا اَعْطَيْتَنَا، وَشَرِّ مَا مَنَعْتَ مِنَّا. اَللّٰهُمَّ حَبِّبْ اِلَيْنَا الْاِيْمَانَ وَزَيِّنْهُ فِي قُلُوْبِنَا، وَكَرِّهْ اِلَيْنَا الْكُفْرَ وَالْفُسُوْقَ وَالْعِصْيَانَ، وَاجْعَلْنَا مِنَ الرَّاشِدِيْنَ، اَللّٰهُمَّ تَوَفَّنَا مُسْلِمِيْنَ، وَاَحْيِنَا مُسْلِمِيْنَ، وَاَلْحِقْنَا بِالصَّالِحِيْنَ، غَيْرَ خَزَايَا وَلَا مَفْتُوْنِيْنَ. اَللّٰهُمَّ قَاتِلِ الْكَفَرَةَ الَّذِيْنَ يَصُدُّوْنَ عَنْ سَبِيْلِكَ، وَيُكَذِّبُوْنَ رُسُلَكَ، وَاجْعَلْ عَلَيْهِمْ رِجْزَكَ وَعَذَابَكَ، اَللّٰهُمَّ قَاتِلِ الْكَفَرَةَ الَّذِيْنَ اُوْتُوا الْكِتَابَ، اِلٰهَ الْحَقِّ",
+        "clean": "اللهم لك الحمد كله اللهم لا قابض لما بسطت ولا مقرب لما باعدت ولا مباعد لما قربت ولا معطي لما منعت ولا مانع لما اعطيت اللهم ابسط علينا من بركاتك ورحمتك وفضلك ورزقك اللهم اني اسالك النعيم المقيم الذي لا يحول ولا يزول اللهم اني اسالك النعيم يوم العيله والامن يوم الحرب اللهم عاءذا بك من سوء ما اعطيتنا وشر ما منعت منا اللهم حبب الينا الايمان وزينه في قلوبنا وكره الينا الكفر والفسوق والعصيان واجعلنا من الراشدين اللهم توفنا مسلمين واحينا مسلمين والحقنا بالصالحين غير خزايا ولا مفتونين اللهم قاتل الكفره الذين يصدون عن سبيلك ويكذبون رسلك واجعل عليهم رجزك وعذابك اللهم قاتل الكفره الذين اوتوا الكتاب اله الحق",
+        "transliteration": "Allaahumma lakal ‘hamdu kulluhu, Allaahumma laa qaabidha limaa basat-ta, wa laa muqarriba limaa baa-’adta wa laa mubaa-’ida limaa qrrabta wa laa mu’tii-a limaa mana’ta wa laa maani’aa limaa a’tayta. Allaahummabsut ‘alainaa min barakaatika wa ra’hmatika wa fadhlika wa rizqika. Allaahumma inni as-alukan na’iimal muqiimalladhi laa ya’hulu wa laa yazuulu. Allaahumma inni as-alukan na’iima yawmal ‘ailati wal amna yawmal ‘harbi, Allaahumma ‘aa-idhan bika min suu-i maa a’taitanaa wa sharri maa mana’ta minnaa. Allaahumma habbib ilainal iimaana wa zayyinhu fii qulubinaa wa karrih ilainaal kufra wal fusuuqa wal ‘isyaana, waj’alnaa minar rashidin. Allaahumma tawaffana muslimin wa ah’inaa muslimiin. Wa alhiqnaa bissaalihiina ghaira khazayaa wa laa maftuuniin. Allaahumma qaatilil kafaratalla-dhiinaa yasudduuna ‘an sabiilika wa yukazzibuna rusulaka waj’al ‘alaihim rijzaka wa ‘adhaabaka. Allaahumma qaatilil kafaratalla-dhina ootul kitaaba, ilaahal haqq",
+        "reference": "Sahih (Albani). Adabul Mufrad: 699",
+        "audio": 770,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua for gaining dignity from Allah and His grace and His revenge against the enemies",
+        "content": null,
+        "translation": "O Allah, all praise is due to You. O Allah, none can contract what You expand nor bring near what you put far away. None can put far away what You bring near. None can give what You withhold nor withhold what You give. O Allah, expand to us some of Your blessings, mercy and favour and give us provision! O Allah, I ask You for the abiding blessing which is neither changed nor removed. O Allah, I ask You for blessing on the Day of Utter Poverty and security on the Day of Fear. O Allah, I seek refuge with You from the evil of what You give us. O Allah, make us love belief and adorn our hearts with it. Make us hate disbelief, deviance and rebellion. Place us among the rightly-guided. O Allah, make us die Muslims and make us live as Muslims and join us to the rightly, acting, who are neither disappointed nor afflicted. O Allah, fight the unbelievers who bar your path and who deny Your Messengers. Place You abasement and punishment over them. O Allah, fight the unbelievers who were given the Book, O Lord of Truth!",
+        "note": "Rifa'a az-Zurqi (R) said, \"In the Battle of Uhud when the idolaters retreated, the Messenger of Allah (ﷺ) said, 'Form straight ranks so that I can praise my Almighty Lord.' They formed in ranks behind him. He said: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        771
+      ],
+      "id": 771,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 771,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي وَارْحَمْنِيْ وَعَافِنِيْ وَارْزُقْنِيْ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِيْ وَارْحَمْنِيْ وَعَافِنِيْ وَارْزُقْنِيْ",
+        "clean": "اللهم اغفر لي وارحمني وعافني وارزقني",
+        "transliteration": "Allaahumma-ghfir li warhamni wa 'aafini warzuqni",
+        "reference": "Sahih (Albani). Ibn Majah: 3845",
+        "audio": 771,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua for seeking forgiveness, sustenance and healthy life",
+        "content": "A man had come to the Messenger of Allah (ﷺ), he heard him say: \"O Messenger of Allah (ﷺ), what should I say when I ask of Allah?\" He (ﷺ) said: \"Say:",
+        "translation": "O Allah, forgive me, have mercy on me, keep me safe and sound and grant me provision.",
+        "note": "And he held up his four fingers apart from the thumb and said: \"These will combine your religious and worldly affairs.\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        772
+      ],
+      "id": 772,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 772,
+        "groups": "[{\"id\": 772, \"name\": null, \"cat_id\": 38, \"subcat_id\": 110, \"content\": \"Then  Prophet (\\ufdfa) said, \\u201cAllah sent down such ten ayahs upon me, whomsoever implicate these ayahs he will enter paradise.\\u201d Then he recited those ayahs:\", \"uthmani\": \"\\u0642\\u064e\\u062f\\u0652 \\u0623\\u064e\\u0641\\u0652\\u0644\\u064e\\u062d\\u064e \\u0627\\u0644\\u0652\\u0645\\u064f\\u0624\\u0652\\u0645\\u0650\\u0646\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0661\\ufd3e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0641\\u0650\\u064a \\u0635\\u064e\\u0644\\u064e\\u0627\\u062a\\u0650\\u0647\\u0650\\u0645\\u0652 \\u062e\\u064e\\u0627\\u0634\\u0650\\u0639\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0662\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0639\\u064e\\u0646\\u0650 \\u0627\\u0644\\u0644\\u0651\\u064e\\u063a\\u0652\\u0648\\u0650 \\u0645\\u064f\\u0639\\u0652\\u0631\\u0650\\u0636\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0663\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0644\\u0650\\u0644\\u0632\\u0651\\u064e\\u0643\\u064e\\u0627\\u0629\\u0650 \\u0641\\u064e\\u0627\\u0639\\u0650\\u0644\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0664\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0644\\u0650\\u0641\\u064f\\u0631\\u064f\\u0648\\u062c\\u0650\\u0647\\u0650\\u0645\\u0652 \\u062d\\u064e\\u0627\\u0641\\u0650\\u0638\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0665\\ufd3e \\u0625\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0639\\u064e\\u0644\\u064e\\u0649\\u0670 \\u0623\\u064e\\u0632\\u0652\\u0648\\u064e\\u0627\\u062c\\u0650\\u0647\\u0650\\u0645\\u0652 \\u0623\\u064e\\u0648\\u0652 \\u0645\\u064e\\u0627 \\u0645\\u064e\\u0644\\u064e\\u0643\\u064e\\u062a\\u0652 \\u0623\\u064e\\u064a\\u0652\\u0645\\u064e\\u0627\\u0646\\u064f\\u0647\\u064f\\u0645\\u0652 \\u0641\\u064e\\u0625\\u0650\\u0646\\u0651\\u064e\\u0647\\u064f\\u0645\\u0652 \\u063a\\u064e\\u064a\\u0652\\u0631\\u064f \\u0645\\u064e\\u0644\\u064f\\u0648\\u0645\\u0650\\u064a\\u0646\\u064e \\ufd3f\\u0666\\ufd3e \\u0641\\u064e\\u0645\\u064e\\u0646\\u0650 \\u0627\\u0628\\u0652\\u062a\\u064e\\u063a\\u064e\\u0649\\u0670 \\u0648\\u064e\\u0631\\u064e\\u0627\\u0621\\u064e \\u0630\\u064e\\u0670\\u0644\\u0650\\u0643\\u064e \\u0641\\u064e\\u0623\\u064f\\u0648\\u0644\\u064e\\u0670\\u0626\\u0650\\u0643\\u064e \\u0647\\u064f\\u0645\\u064f \\u0627\\u0644\\u0652\\u0639\\u064e\\u0627\\u062f\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0667\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0644\\u0650\\u0623\\u064e\\u0645\\u064e\\u0627\\u0646\\u064e\\u0627\\u062a\\u0650\\u0647\\u0650\\u0645\\u0652 \\u0648\\u064e\\u0639\\u064e\\u0647\\u0652\\u062f\\u0650\\u0647\\u0650\\u0645\\u0652 \\u0631\\u064e\\u0627\\u0639\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0668\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0639\\u064e\\u0644\\u064e\\u0649\\u0670 \\u0635\\u064e\\u0644\\u064e\\u0648\\u064e\\u0627\\u062a\\u0650\\u0647\\u0650\\u0645\\u0652 \\u064a\\u064f\\u062d\\u064e\\u0627\\u0641\\u0650\\u0638\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0669\\ufd3e \\u0623\\u064f\\u0648\\u0644\\u064e\\u0670\\u0626\\u0650\\u0643\\u064e \\u0647\\u064f\\u0645\\u064f \\u0627\\u0644\\u0652\\u0648\\u064e\\u0627\\u0631\\u0650\\u062b\\u064f\\u0648\\u0646\\u064e \\ufd3f\\u0661\\u0660\\ufd3e\", \"indopak\": \"\\u0642\\u064e\\u062f\\u0652 \\u0627\\u064e\\u0641\\u0652\\u0644\\u064e\\u062d\\u064e \\u0627\\u0644\\u0652\\u0645\\u064f\\u0624\\u0652\\u0645\\u0650\\u0646\\u064f\\u0648\\u0652\\u0646\\u064e \\u06d9\\ufd3f\\u06f1\\ufd3e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u06cc\\u0652\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0641\\u0650\\u06cc\\u0652 \\u0635\\u064e\\u0644\\u064e\\u0627\\u062a\\u0650\\u0647\\u0650\\u0645\\u0652 \\u062e\\u0670\\u0634\\u0650\\u0639\\u064f\\u0648\\u0652\\u0646\\u064e \\u06d9\\ufd3f\\u06f2\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u06cc\\u0652\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0639\\u064e\\u0646\\u0650 \\u0627\\u0644\\u0644\\u0651\\u064e\\u063a\\u0652\\u0648\\u0650 \\u0645\\u064f\\u0639\\u0652\\u0631\\u0650\\u0636\\u064f\\u0648\\u0652\\u0646\\u064e \\ufd3f\\u06d9\\u06f3\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u06cc\\u0652\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0644\\u0650\\u0644\\u0632\\u0651\\u064e\\u0643\\u0670\\u0648\\u0629\\u0650 \\u0641\\u0670\\u0639\\u0650\\u0644\\u064f\\u0648\\u0652\\u0646\\u064e \\u06d9\\ufd3f\\u06f4\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u06cc\\u0652\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0644\\u0650\\u0641\\u064f\\u0631\\u064f\\u0648\\u0652\\u062c\\u0650\\u0647\\u0650\\u0645\\u0652 \\u062d\\u0670\\u0641\\u0650\\u0638\\u064f\\u0648\\u0652\\u0646\\u064e \\u06d9\\ufd3f\\u06f5\\ufd3e \\u0627\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0639\\u064e\\u0644\\u0670\\u06e4\\u06cc \\u0627\\u064e\\u0632\\u0652\\u0648\\u064e\\u0627\\u062c\\u0650\\u0647\\u0650\\u0645\\u0652 \\u0627\\u064e\\u0648\\u0652 \\u0645\\u064e\\u0627 \\u0645\\u064e\\u0644\\u064e\\u0643\\u064e\\u062a\\u0652 \\u0627\\u064e\\u06cc\\u0652\\u0645\\u064e\\u0627\\u0646\\u064f\\u0647\\u064f\\u0645\\u0652 \\u0641\\u064e\\u0627\\u0650\\u0646\\u0651\\u064e\\u0647\\u064f\\u0645\\u0652 \\u063a\\u064e\\u06cc\\u0652\\u0631\\u064f \\u0645\\u064e\\u0644\\u064f\\u0648\\u0652\\u0645\\u0650\\u06cc\\u0652\\u0646\\u064e \\u06da\\ufd3f\\u06f6\\ufd3e \\u0641\\u064e\\u0645\\u064e\\u0646\\u0650 \\u0627\\u0628\\u0652\\u062a\\u064e\\u063a\\u0670\\u06cc \\u0648\\u064e\\u0631\\u064e\\u0627\\u0653\\u0621\\u064e \\u0630\\u0670\\u0644\\u0650\\u0643\\u064e \\u0641\\u064e\\u0627\\u064f\\u0648\\u0644\\u0670\\u0653\\u0626\\u0650\\u0643\\u064e \\u0647\\u064f\\u0645\\u064f \\u0627\\u0644\\u0652\\u0639\\u0670\\u062f\\u064f\\u0648\\u0652\\u0646\\u064e \\u06da\\ufd3f\\u06f7\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u06cc\\u0652\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652  \\u0644\\u0650\\u0627\\u064e\\u0645\\u0670\\u0646\\u0670\\u062a\\u0650\\u0647\\u0650\\u0645\\u0652 \\u0648\\u064e\\u0639\\u064e\\u0647\\u0652\\u062f\\u0650\\u0647\\u0650\\u0645\\u0652 \\u0631\\u0670\\u0639\\u064f\\u0648\\u0652\\u0646\\u064e \\u06d9\\ufd3f\\u06f8\\ufd3e \\u0648\\u064e\\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u06cc\\u0652\\u0646\\u064e \\u0647\\u064f\\u0645\\u0652 \\u0639\\u064e\\u0644\\u0670\\u06cc \\u0635\\u064e\\u0644\\u064e\\u0648\\u0670\\u062a\\u0650\\u0647\\u0650\\u0645\\u0652 \\u06cc\\u064f\\u062d\\u064e\\u0627\\u0641\\u0650\\u0638\\u064f\\u0648\\u0652\\u0646\\u064e  \\u06d8\\ufd3f\\u06f9\\ufd3e\\u0627\\u064f\\u0648\\u0644\\u0670\\u0653\\u0626\\u0650\\u0643\\u064e \\u0647\\u064f\\u0645\\u064f \\u0627\\u0644\\u0652\\u0648\\u0670\\u0631\\u0650\\u062b\\u064f\\u0648\\u0652\\u0646\\u064e \\ufd3f\\u06d9\\u06f1\\u06f0\\ufd3e\", \"clean\": \"\\u0642\\u062f \\u0627\\u0641\\u0644\\u062d \\u0627\\u0644\\u0645\\u0621\\u0645\\u0646\\u0648\\u0646  \\u0627\\u0644\\u0630\\u0646 \\u0647\\u0645 \\u0641 \\u0635\\u0644\\u0627\\u062a\\u0647\\u0645 \\u062e\\u0634\\u0639\\u0648\\u0646  \\u0648\\u0627\\u0644\\u0630\\u0646 \\u0647\\u0645 \\u0639\\u0646 \\u0627\\u0644\\u0644\\u063a\\u0648 \\u0645\\u0639\\u0631\\u0636\\u0648\\u0646  \\u0648\\u0627\\u0644\\u0630\\u0646 \\u0647\\u0645 \\u0644\\u0644\\u0632\\u0643\\u0648\\u0647 \\u0641\\u0639\\u0644\\u0648\\u0646  \\u0648\\u0627\\u0644\\u0630\\u0646 \\u0647\\u0645 \\u0644\\u0641\\u0631\\u0648\\u062c\\u0647\\u0645 \\u062d\\u0641\\u0638\\u0648\\u0646  \\u0627\\u0644\\u0627 \\u0639\\u0644 \\u0627\\u0632\\u0648\\u0627\\u062c\\u0647\\u0645 \\u0627\\u0648 \\u0645\\u0627 \\u0645\\u0644\\u0643\\u062a \\u0627\\u0645\\u0627\\u0646\\u0647\\u0645 \\u0641\\u0627\\u0646\\u0647\\u0645 \\u063a\\u0631 \\u0645\\u0644\\u0648\\u0645\\u0646  \\u0641\\u0645\\u0646 \\u0627\\u0628\\u062a\\u063a \\u0648\\u0631\\u0627\\u0621 \\u0630\\u0644\\u0643 \\u0641\\u0627\\u0648\\u0644\\u0621\\u0643 \\u0647\\u0645 \\u0627\\u0644\\u0639\\u062f\\u0648\\u0646  \\u0648\\u0627\\u0644\\u0630\\u0646 \\u0647\\u0645  \\u0644\\u0627\\u0645\\u0646\\u062a\\u0647\\u0645 \\u0648\\u0639\\u0647\\u062f\\u0647\\u0645 \\u0631\\u0639\\u0648\\u0646  \\u0648\\u0627\\u0644\\u0630\\u0646 \\u0647\\u0645 \\u0639\\u0644 \\u0635\\u0644\\u0648\\u062a\\u0647\\u0645 \\u062d\\u0627\\u0641\\u0638\\u0648\\u0646  \\u0627\\u0648\\u0644\\u0621\\u0643 \\u0647\\u0645 \\u0627\\u0644\\u0648\\u0631\\u062b\\u0648\\u0646 \", \"transliteration\": null, \"translation\": \"(1) Certainly will the believers have succeeded: (2) They who are during their prayer humbly submissive (3) And they who turn away from ill speech (4) And they who are observant of zakah (5) And they who guard their private parts (6) Except from their wives or those their right hands possess, for indeed, they will not be blamed - (7) But whoever seeks beyond that, then those are the transgressors - (8) And they who are to their trusts and their promises attentive (9) And they who carefully maintain their prayers - (10) Those are the inheritors. (Sura Muminun 23:1-10)\", \"note\": null, \"reference\": \"Hasan (Bagawi). Sharhus Sunnah: 3/154\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "اَللَّهُمَّ زِدْنَا وَلَا تَنْقُصْنَا وَأَكْرِمْنَا وَلَا تُهِنَّا وَأَعْطِنَا وَلَا تَحْرِمْنَا وَآثِرْنَا وَلَا تُؤْثِرْ عَلَيْنَا وَأَرْضِنَا وَارْضَ عَنَّا",
+        "indopak": "اَللّٰهُمَّ زِدْنَا وَلَا تَنْقُصْنَا وَاَكْرِمْنَا وَلَا تُهِنَّا وَاَعْطِنَا وَلَا تَحْرِمْنَا وَاٰثِرْنَا وَلَا تُؤْثِرْ عَلَيْنَا وَاَرْضِنَا وَارْضَ عَنَّا",
+        "clean": "اللهم زدنا ولا تنقصنا واكرمنا ولا تهنا واعطنا ولا تحرمنا واثرنا ولا توثر علينا وارضنا وارض عنا",
+        "transliteration": "Allaahumma zidnaa wa laa tanqusnaa wa akrimnaa walaa tuhinnaa wa a'tinaa wa laa ta’hrimnaa wa a-thirnaa walaa tu'thir alaynaa wa ardinaa war-da ‘annaa",
+        "reference": null,
+        "audio": 772,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua to seek blessings, honor and satisfaction from Allah",
+        "content": "Narrated Anas Ibn Malik (RA): The Prophet (ﷺ) used to recite these supplications:",
+        "translation": "O Allah! Increase us [in Your Blessings and rewards] and do not decrease us, Honour us and do not humiliate us, give us [from Your Gifts] and do not deprive us, be in Favour of us and not against us, and make us satisfied and be satisfied with us.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        773
+      ],
+      "id": 773,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 773,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَحْسَنْتَ خَلْقِيْ فَأَحْسِنْ خُلُقِيْ",
+        "indopak": "اَللّٰهُمَّ اَحْسَنْتَ خَلْقِيْ فَاَحْسِنْ خُلُقِيْ",
+        "clean": "اللهم احسنت خلقي فاحسن خلقي",
+        "transliteration": "Allaahumma a’hsanta khalqi fa a’hsin khuluqi",
+        "reference": "Sahih (Albani). Ahmad: 24392",
+        "audio": 773,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua to seek good character",
+        "content": "The Messenger of Allah (ﷺ) used to say:",
+        "translation": "O Allah, you have perfected my creation, so too perfect my character.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        774
+      ],
+      "id": 774,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 774,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ ثَبِّتْهُ وَاجْعَلْهُ هَادِيًا مَهْدِيًّا",
+        "indopak": "اَللّٰهُمَّ ثَبِّتْهٗ وَاجْعَلْهٗ هَادِيًا مَّهْدِيَّا",
+        "clean": "اللهم ثبته واجعله هاديا مهديا",
+        "transliteration": "Allaahumma thabbithu waj'alhu haadiyan mahdiyan",
+        "reference": "Bukhari: 4356",
+        "audio": 774,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Seeking stability and the right direction for someone",
+        "content": null,
+        "translation": "O Allah! Make him firm and make him a guiding and a rightly guided man.",
+        "note": "Narrated by Qais (R): Jarir (RA) said to me, The Prophet (ﷺ) said to me, \"Won't you relieve me from Dhu-l-Khalasa?\" And that was a house (in Yemem belonging to the tribe of) Khatham called Al-Ka`ba Al Yamaniya. I proceeded with one-hundred and-fifty cavalry from Ahmas (tribe) who were horse riders. I used not to sit firm on horses, so the Prophet (ﷺ) stroke me over my chest till I saw the mark of his fingers over my chest, and then he said: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        775
+      ],
+      "id": 775,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 775,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 2790",
+        "audio": null,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "The dignity of those who strive in the cause of Allah",
+        "content": "Narrated Abu Huraira (RA): The Prophet (ﷺ) said, \"Whoever believes in Allah and His Apostle, offer prayer perfectly and fasts the month of Ramadan, will rightfully be granted Paradise by Allah, no matter whether he fights in Allah's Cause or remains in the land where he is born.\" The people said, \"O Allah's Messenger (ﷺ)! Shall we acquaint the people with the is good news?\" He (ﷺ) said, \"Paradise has one-hundred grades which Allah has reserved for the Mujahidin who fight in His Cause, and the distance between each of two grades is like the distance between the Heaven and the Earth. So, when you ask Allah (for something), ask for Al-firdaus which is the best and highest part of Paradise.\" The sub-narrator added, \"I think the Prophet (ﷺ) also said, 'Above it (i.e. Al-Firdaus) is the Throne of Beneficent (i.e. Allah), and from it originate the rivers of Paradise.\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        776
+      ],
+      "id": 776,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 776,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَبَّ مُحَمَّدٍ النَّبِيِّ اِغْفِرْ لِي ذَنْبِيْ وَأَذْهِبْ غَيْظَ قَلْبِيْ وَأَجِرْنِيْ مِنْ مُضِلاَّتِ الْفِتَنِ مَا أَحْيَيْتَنَا",
+        "indopak": "اَللّٰهُمَّ رَبَّ مُحَمَّدٍ ࣘ  النَّبِيِّ اِغْفِرْ لِيْ ذَنْۢبِيْ وَاَذْ هِبْ غَيْظَ قَلْبِيْ وَاَجِرْنِيْ مِنْ مُّضِلَّاتِ الْفِتَنِ مَا اَحْيَيْتَنَا",
+        "clean": "اللهم رب محمد   النبي اغفر لي ذنبي واذ هب غيظ قلبي واجرني من مضلات الفتن ما احييتنا",
+        "transliteration": "Allaahumma rabba muhammadin nabiyyi ighfir li dhanbi wa adh'hib gahiza qalbi wa ajirni min mudhillatil fitani maa ahyaitanaa",
+        "reference": "Hasan (Haisami). Mazmauz yawaidah 10/27",
+        "audio": 776,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua to remove anger",
+        "content": "I said,” Ya Messenger of Allah (ﷺ)! Don’t you teach me a dua which I will recite only for me? Prophet (ﷺ) said, ”Obviously! Say:",
+        "translation": "Ya Allah, Rabb of prophet Muhammad (ﷺ)! Forgive my sins. Remove anger from my heart and give me protection from confusing trial untill you give us death.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        777
+      ],
+      "id": 777,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 777,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الثَّبَاتَ فِي الْأَمْرِ وَالْعَزِيْمَةَ عَلَى الرُّشْدِ وَأَسْأَلُكَ شُكْرَ نِعْمَتِكَ وَحُسْنَ عِبَادَتِكَ وَأَسْأَلُكَ قَلْبًا سَلِيْمًا وَلِسَانًا صَادِقًا وَأَسْأَلُكَ مِنْ خَيْرِ مَا تَعْلَمُ وَأَعُوذُ بِكَ مِنْ شَرِّ مَا تَعْلَمُ وَأَسْتَغْفِرُكَ لِمَا تَعْلَمُ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ الثَّبَاتَ فِي الْاَمْرِ وَالْعَزِيْمَةَ عَلَى الرُّشْدِ وَاَسْاَلُكَ شُكْرَ نِعْمَتِكَ وَحُسْنَ عِبَادَتِكَ وَاَسْاَلُكَ قَلْبًا سَلِيْمًا وَلِسَانًا صَادِقًا وَاَسْاَلُكَ مِنْ خَيْرِ مَا تَعْلَمُ وَاَعُوْذُ بِكَ مِنْ شَرِّ مَا تَعْلَمُ وَاَسْتَغْفِرُكَ لِمَا تَعْلَمُ",
+        "clean": "اللهم اني اسالك الثبات في الامر والعزيمه علي الرشد واسالك شكر نعمتك وحسن عبادتك واسالك قلبا سليما ولسانا صادقا واسالك من خير ما تعلم واعوذ بك من شر ما تعلم واستغفرك لما تعلم",
+        "transliteration": "Allaahumma inni as'aluka ath-thabbaata fil-amri wal-'azimata 'alar-rushdi wa as'aluka shukra ni'matika wa ‘husna 'ibaadatika wa as'aluka qalban saliman wa lisaanan sadiqan wa as'aluka min khairi maa ta'lamu wa A‛oodhu bika min sharri maa ta'lamu wa astaghfiruka limaa ta'lamu",
+        "reference": "Sahih li Gaiihi (Albani). Takhrij Mishkat: 915",
+        "audio": 777,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua for asking safe heart, truthfulness and everything that is beneficial",
+        "content": "The Messenger of Allah (ﷺ) used to say in prayer:",
+        "translation": "O Allah, I ask You for steadfastness in all my affairs and determination in following the right path, I ask You to make me thankful for Your blessings and to make me worship You properly. I ask You for a sound heart and a truthful tongue. I ask You for the best of what You know and I seek refuge in You from the worst of what You know and I seek Your forgiveness for what You know.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        778
+      ],
+      "id": 778,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 778,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيةَ فِي الدُّنْيَا وَالْآخِرَةَ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ الْعَفْوَ وَالْعَافِيْةَ فِىْ الدُّنْيَا وَالْاٰخِرَةَ",
+        "clean": "اللهم اني اسالك العفو والعافيه في الدنيا والاخره",
+        "transliteration": "Allaahumma 'innee 'as'alukal-'afwa wal 'aafiyah fid-dunyaa wal 'aakhirah",
+        "reference": "Sahih (Albani). Ibn Majah: 3871",
+        "audio": 778,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua to seek forgiveness and security in this world and in the hereafter",
+        "content": null,
+        "translation": "O Allah, I ask You for forgiveness and well-being in this world and in the Hereafter.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        779
+      ],
+      "id": 779,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 779,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ وَأَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ أَبُؤُ لَكَ بِنِعْمَتِكَ عَلَىَّ وَأَبُؤُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+        "indopak": "اَللّٰهُمَّ اَنْتَ رَبِّىْ لَا اِلٰه اِلَّا اَنْتَ خَلَقْتَنِىْ وَاَنَا عَبْدُكَ وَاَنَا عَلٰى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ وَاَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ اَبُؤُ لَكَ بِنِعْمَتِكَ عَلَىَّ وَاَبُؤُ بِذَنْۢبِىْ فَاغْفِرْ لِىْ فَاِنَّهٗ لَا يَغْفِرُ الذُّنُوْبَ اِلَّا اَنْتَ",
+        "clean": "اللهم انت ربي لا اله الا انت خلقتني وانا عبدك وانا علي عهدك ووعدك ما استطعت واعوذ بك من شر ما صنعت ابء لك بنعمتك علي وابء بذنبي فاغفر لي فانه لا يغفر الذنوب الا انت",
+        "transliteration": "Allaahumma 'Anta Rabbee laa 'ilaaha 'illaa 'Anta, khalaqtanee wa 'anaa 'abduka, wa 'anaa 'alaa 'ahdika wa wa'dika mas-tata'tu, 'a'oodhu bika min sharri maa sana'tu, 'aboo-'u laka bini'matika 'alayya, wa 'aboo-'u bidhanbee faghfir lee fa'innahu laa yaghfiruth-dhunooba 'illaa 'Anta",
+        "reference": "Bukhari: 6306",
+        "audio": 779,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Sayyidinal Istighfar (Best way to ask forgiveness)",
+        "content": null,
+        "translation": "O Allah, You are my Lord, none has the right to be worshipped except You, You created me and I am Your servant and I abide to Your covenant and promise as best I can, I take refuge in You from the evil of which I have committed. I acknowledge Your favour upon me and I acknowledge my sin, so forgive me, for verily none can forgive sin except You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        780
+      ],
+      "id": 780,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 780,
+        "groups": null,
+        "uthmani": "أَسْتَغْفِرُ اللَّهَ وَأَتُوْبُ إِلَيْهِ",
+        "indopak": "اَسْتَغْفِرُ اللّٰهَ وَاَتُوْبُ اِلَيْهِ",
+        "clean": "استغفر الله واتوب اليه",
+        "transliteration": "Astaghfirullaaha wa 'atoobu 'ilayhi",
+        "reference": "Bukhari: 6307",
+        "audio": 780,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Repentance and asking for forgiveness",
+        "content": "The Prophet (ﷺ) used to recite more than seventy times a day:",
+        "translation": "I seek the forgiveness of Allah and repent to Him.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        781
+      ],
+      "id": 781,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 781,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ فَأَيُّمَا مُؤْمِنٍ سَبَبْتُهُ، فَاجْعَلْ ذَلِكَ لَهُ قُرْبَةً إِلَيْكَ يَوْمَ الْقِيَامَةِ",
+        "indopak": "اَللّٰهُمَّ فَاَيُّمَا مُؤْمِنٍ سَبَبْتُهٗ، فَاجْعَلْ ذٰلِكَ لَهٗ قُرْبَةً اِلَيْكَ يَوْمَ الْقِيَامَةِ",
+        "clean": "اللهم فايما مءمن سببته فاجعل ذلك له قربه اليك يوم القيامه",
+        "transliteration": "Allaahumma fa'ayyumaa mu'minin sababtuhu faj'al dhaalika lahu qurbatan 'ilayka yawmal-qiyaamah",
+        "reference": "Bukhari: 6361",
+        "audio": 781,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "For one you have insulted",
+        "content": null,
+        "translation": "O Allah, whomever of the believers I have abused, give him the reward of a sacrificial slaughter for it on the Day of Resurrection.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        782
+      ],
+      "id": 782,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 782,
+        "groups": null,
+        "uthmani": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "indopak": "لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ",
+        "clean": "لا حول ولا قوه الا بالله",
+        "transliteration": "Laa 'hawla wa laa quwwata illaa billaah",
+        "reference": "Bukhari: 6384",
+        "audio": 782,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "A dua of the treasures of Paradise",
+        "content": "The Prophet (ﷺ) said, ‘One of the treasures of Paradise is:",
+        "translation": "There is no might and no power except by Allah.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        783
+      ],
+      "id": 783,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 783,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اِنِّي أَعُوْذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ وَالْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ وَالْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+        "clean": "اللهم اني اعوذ بك من الهم والحزن والعجز والكسل والجبن والبخل وضلع الدين وغلبه الرجال",
+        "transliteration": "Allaahumma, inni A‛oodhu bika minal hammi, wal-huzni, wal-'ajzi, wal-kasali, wal-jubni, wal-bukhli, wa dala'id-daini, wa ghalabatir-rijal",
+        "reference": "Bukhari: 2893",
+        "audio": 783,
+        "cat_id": 38,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "Dua for seeking refuge from anxiety, laziness, cowardice and the burden of debt",
+        "content": "Anas (RA) said, the Prophet (ﷺ) used to say:",
+        "translation": "O Allah! I seek refuge with You from worry and grief, from incapacity and laziness, from cowardice and miserliness, from being heavily in debt and from being overpowered by (other) men.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    }
+  ]
+}

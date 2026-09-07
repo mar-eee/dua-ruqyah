@@ -1,0 +1,100 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_094.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 4,
+  "id_range": "194-197",
+  "source_chars": 5296,
+  "items": [
+    {
+      "key": [
+        194
+      ],
+      "id": 194,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 194,
+        "topic_id": 4,
+        "cat_id": 14,
+        "subcat_id": 148
+      },
+      "source": {
+        "topic_name": "Geographical considerations",
+        "text": "Modern medicine has not fully understood the effect of the climate on the health of individuals, yet traditional and complementary medical systems place tremendous emphasis on the climate, season and prevailing weather in the geographical area that a person resides in. Hakims are famous for recommending some patients move to another town or city that had a more favorable climate as the only method of treatment for the patients ailment. Similarly, the climate and weather must be taken into account when determining the suitability of Hijamah as is also borne out by this hadith:\n\nAnas ibn Maalik (RA) reported that the Rasul (SAW) said, \"When the weather becomes extremely hot, seek aid in Hijamah. Do not allow your blood to rage (boil) such that it kills you.\" [Reported by Hakim in his 'Mustadrak' and he authenticated it and Imam ad-Dhahabi agreed (4/212)].\n\nFrom this we learn that Hijamah is suited to the hot climate, and this is corroborated by other Ahadeeth as well. If the patient lives in a region where the climate is normally hot, then Hijamah is probably suited to the patient. If the patient lives in a region where it is always cold, then care should be taken even if the patient displays the correct constitution for Hijamah. Every patient's condition will be different and it is up to the skilled and experienced Hajjaam to determine the weight of the climate, season and prevailing weather on the suitability of Hijamah. One may find that the season is correct, the dates are correct, the patient is suited to Hijamah but the particular weather on that day is cold and rainy. I would normally avoid doing Hijamah on such a day and postpone it to another day if it were a general Hijamah.\n\n<b>In the commentary on the books of Ahadeeth, Ulama have also written the following which must be considered:</b>\n\n\n“The saying of Sayyidina Rasulullaah SallAllaahu Alayhi Wasallam that cupping is the best medicine is very true. By this he was addressing the youth of the Haramayn, and also the inhabitants of the countries where the climate is hot, because their blood becomes thin, it remains more on the surface of the body and the climate of the country brings it even more closer to the surface.”"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        195
+      ],
+      "id": 195,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 195,
+        "topic_id": 1,
+        "cat_id": 14,
+        "subcat_id": 149
+      },
+      "source": {
+        "topic_name": "Introduction",
+        "text": "If Hijamah has been deemed suitable the patient must ensure to prepare themselves and be in the appropriate condition for the procedure. This is evident from a number of Ahadeeth such as the following:\n\nIbn Umar (RA) reported that the Rasul (SAW) said, \"Hijamah on an empty stomach is best. In it is a cure and a blessing...\" [Saheeh Sunan ibn Maajah (3487)]\n\n\nIbn Umar (RA) reported that the Rasul (SAW) said, \"Hijamah on an empty stomach* is best. In it is a cure and a blessing. It improves the intellect and the memory...\" [Saheeh Sunan ibn Maajah (3487)].\n\nThis is the most important condition, i.e. the patient should have an empty stomach.\n\nThe reason for this, especially in the case of Hijamah in strength, is because during the night, the toxins and impurities in the blood accumulate in the regions where Hijamah is done and remain there until a person eats. When a meal is taken blood is redirected to the digestive organs to enable the process of digestion and absorption. The toxins and impurities are therefore recirculated throughout the body instead of being concentrated in the Hijamah areas and also there is less blood in the superficial or outer parts of the body. If Hijamah is done in this condition it can lead to illness and this is also mentioned in some other Ahadeeth which say that Hijamah on a full stomach is disease and on an empty stomach is cure.\n\nWhen Hijamah is done on a person who has just eaten it often results in vertigo or syncope (fainting).\n\nThe second condition is that the person should have enough strength for the procedure. This is also proven for the hadith:\n\n\nThe Nabi, upon whom be peace, was cupped while he was fasting. However, if doing this weakens the fasting person, it is disliked. Thabit al-Bunani asked Anas: \"Did you dislike cupping for a fasting person during the time of the Nabi?\" He answered: \"No swe did not), unless it made someone weak.\" This is related by al-Bukhari and others.\n\n<b>There are some general conditions which are also recommended:</b>\n\n\n<b>1.</b> The patient should ideally have taken a bath before the procedure, this assists in bringing the blood to the surface and helps it to flow better during the procedure.\n\n<b>2.</b> The are where Hijamah is to be done should be shaved, (often this will be done by the Hajjaam) \n\n<b>3.</b> The patient should give some sadaqah (charity) beforehand. It is recommended in the Ahadeeth to treat the sick with charity, it prevents calamities and in the case of the Hijamah procedure helps with the procedure being easy and successful."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        196
+      ],
+      "id": 196,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 196,
+        "topic_id": 2,
+        "cat_id": 14,
+        "subcat_id": 149
+      },
+      "source": {
+        "topic_name": "When should Hijamah be performed?",
+        "text": "Hijamah can be performed either in general cases (Hijamah in strength) when the patient is healthy or to treat a particular illness (Hijamah in illness). The times stipulated for these are different."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        197
+      ],
+      "id": 197,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 197,
+        "topic_id": 3,
+        "cat_id": 14,
+        "subcat_id": 149
+      },
+      "source": {
+        "topic_name": "Hijamah in strength",
+        "text": "For general health in those who are suited to cupping, it should be done once a year. During the Spring or Summer time when it is hot is the best season in which to perform Hijamah. The reasons have been described in previous chapters."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+[
+  {
+    "id": 1,
+    "name": "The servant is dependent on his Lord",
+    "cat_id": 1
+  },
+  {
+    "id": 2,
+    "name": "The most important thing to ask Allah for",
+    "cat_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Ask for paradise & protection from fire",
+    "cat_id": 1
+  },
+  {
+    "id": 4,
+    "name": "Dua to remain steadfast on the religion",
+    "cat_id": 1
+  },
+  {
+    "id": 5,
+    "name": "Dua of good outcome in all deeds",
+    "cat_id": 1
+  },
+  {
+    "id": 6,
+    "name": "Seeking whatever good Allah can bestow",
+    "cat_id": 1
+  },
+  {
+    "id": 7,
+    "name": "Shelter from horror, misery, evil consequences and rejoicing of the enemy",
+    "cat_id": 1
+  },
+  {
+    "id": 8,
+    "name": "Excellence of doing Tasbeeh, Tahmid, Tahlil, Takbeer",
+    "cat_id": 2
+  },
+  {
+    "id": 9,
+    "name": "Times and places when dua will be accepted",
+    "cat_id": 3
+  },
+  {
+    "id": 10,
+    "name": "Those whose duas are accepted",
+    "cat_id": 4
+  },
+  {
+    "id": 11,
+    "name": "Excellence of dua in the morning & evening",
+    "cat_id": 5
+  },
+  {
+    "id": 12,
+    "name": "Morning & Evening Adhkar",
+    "cat_id": 5
+  },
+  {
+    "id": 13,
+    "name": "Dhikr in busy state",
+    "cat_id": 5
+  },
+  {
+    "id": 14,
+    "name": "Before sleep",
+    "cat_id": 6
+  },
+  {
+    "id": 15,
+    "name": "After waking up",
+    "cat_id": 6
+  },
+  {
+    "id": 16,
+    "name": "Duas related to wearing clothes",
+    "cat_id": 7
+  },
+  {
+    "id": 17,
+    "name": "When leaving the home",
+    "cat_id": 8
+  },
+  {
+    "id": 18,
+    "name": "Upon entering the home",
+    "cat_id": 8
+  },
+  {
+    "id": 19,
+    "name": "Duas related to toilets",
+    "cat_id": 9
+  },
+  {
+    "id": 20,
+    "name": "Dua while hearing the adhaan",
+    "cat_id": 10
+  },
+  {
+    "id": 21,
+    "name": "Dua after the adhaan",
+    "cat_id": 10
+  },
+  {
+    "id": 22,
+    "name": "Dua between Adhaan and Iqamah",
+    "cat_id": 10
+  },
+  {
+    "id": 23,
+    "name": "Dua for Imam and Mu'adhdhin",
+    "cat_id": 10
+  },
+  {
+    "id": 24,
+    "name": "When starting ablution",
+    "cat_id": 11
+  },
+  {
+    "id": 25,
+    "name": "Upon completing the ablution",
+    "cat_id": 11
+  },
+  {
+    "id": 26,
+    "name": "Going to the mosque",
+    "cat_id": 12
+  },
+  {
+    "id": 27,
+    "name": "Entering the mosque",
+    "cat_id": 12
+  },
+  {
+    "id": 28,
+    "name": "Getting out of the mosque",
+    "cat_id": 12
+  },
+  {
+    "id": 29,
+    "name": "Announcement of lost things in the mosque",
+    "cat_id": 12
+  },
+  {
+    "id": 30,
+    "name": "Trading in the mosque",
+    "cat_id": 12
+  },
+  {
+    "id": 31,
+    "name": "Duas After Takbeer (Start of prayer)",
+    "cat_id": 13
+  },
+  {
+    "id": 32,
+    "name": "If afflicted by whisperings in prayer or recitation",
+    "cat_id": 13
+  },
+  {
+    "id": 33,
+    "name": "Duas in rukoo",
+    "cat_id": 13
+  },
+  {
+    "id": 34,
+    "name": "Upon rising from rukoo",
+    "cat_id": 13
+  },
+  {
+    "id": 35,
+    "name": "Duas while in a state of rukoo",
+    "cat_id": 13
+  },
+  {
+    "id": 36,
+    "name": "Duas in prostration [sujood]",
+    "cat_id": 13
+  },
+  {
+    "id": 37,
+    "name": "Duas in between two prostrations",
+    "cat_id": 13
+  },
+  {
+    "id": 38,
+    "name": "Prostration due to Quran recitation",
+    "cat_id": 13
+  },
+  {
+    "id": 39,
+    "name": "The Tashahhud",
+    "cat_id": 13
+  },
+  {
+    "id": 40,
+    "name": "Prayers upon the Prophet (ﷺ) after tashahhud",
+    "cat_id": 13
+  },
+  {
+    "id": 41,
+    "name": "Duas after the last tashahhud & before salam",
+    "cat_id": 13
+  },
+  {
+    "id": 42,
+    "name": "Duas in salat",
+    "cat_id": 13
+  },
+  {
+    "id": 43,
+    "name": "Duas after Fajr and Maghrib",
+    "cat_id": 13
+  },
+  {
+    "id": 44,
+    "name": "Masnun Dhikr after obligatory prayers",
+    "cat_id": 13
+  },
+  {
+    "id": 45,
+    "name": "Duas after salaam",
+    "cat_id": 13
+  },
+  {
+    "id": 46,
+    "name": "Dua after Fajr prayer",
+    "cat_id": 13
+  },
+  {
+    "id": 47,
+    "name": "Other duas related to salat",
+    "cat_id": 13
+  },
+  {
+    "id": 48,
+    "name": "Dua for starting Tahajjud prayer",
+    "cat_id": 14
+  },
+  {
+    "id": 49,
+    "name": "Dua of Witr prayer",
+    "cat_id": 14
+  },
+  {
+    "id": 50,
+    "name": "The Surahs that the Prophet (ﷺ) used to recite in the Witr prayer",
+    "cat_id": 14
+  },
+  {
+    "id": 51,
+    "name": "Dua Qunut",
+    "cat_id": 14
+  },
+  {
+    "id": 52,
+    "name": "Tahajjud prayer (Qiyam Al Layl)",
+    "cat_id": 14
+  },
+  {
+    "id": 53,
+    "name": "Some special prayers",
+    "cat_id": 14
+  },
+  {
+    "id": 54,
+    "name": "Things to do for the dead",
+    "cat_id": 15
+  },
+  {
+    "id": 55,
+    "name": "To bury the dead",
+    "cat_id": 15
+  },
+  {
+    "id": 56,
+    "name": "Duas for visiting graves",
+    "cat_id": 15
+  },
+  {
+    "id": 57,
+    "name": "Funeral prayers",
+    "cat_id": 15
+  },
+  {
+    "id": 58,
+    "name": "Duas at the child's funeral",
+    "cat_id": 15
+  },
+  {
+    "id": 59,
+    "name": "Duas to be recited in Ramadan",
+    "cat_id": 16
+  },
+  {
+    "id": 60,
+    "name": "Duas for Musafir",
+    "cat_id": 17
+  },
+  {
+    "id": 61,
+    "name": "Duas for Hajjis",
+    "cat_id": 18
+  },
+  {
+    "id": 62,
+    "name": "Duas for sacrificer",
+    "cat_id": 19
+  },
+  {
+    "id": 63,
+    "name": "Duas for expelling the devil and his whisperings",
+    "cat_id": 20
+  },
+  {
+    "id": 64,
+    "name": "Prayers for the safety of the child",
+    "cat_id": 20
+  },
+  {
+    "id": 65,
+    "name": "Other prayers related to evil",
+    "cat_id": 20
+  },
+  {
+    "id": 66,
+    "name": "If you feel waswasa (evil whispers) in your heart",
+    "cat_id": 20
+  },
+  {
+    "id": 67,
+    "name": "Shelter from the evils of the Dajjal",
+    "cat_id": 20
+  },
+  {
+    "id": 68,
+    "name": "When angry",
+    "cat_id": 20
+  },
+  {
+    "id": 69,
+    "name": "Istigfaar which are mentioned in Hadith",
+    "cat_id": 21
+  },
+  {
+    "id": 70,
+    "name": "The best prayer for forgiveness - Sayyidul Istigfar",
+    "cat_id": 21
+  },
+  {
+    "id": 71,
+    "name": "The words of the Qur'an and Hadith about repentance",
+    "cat_id": 21
+  },
+  {
+    "id": 72,
+    "name": "Sermon of Marriage",
+    "cat_id": 22
+  },
+  {
+    "id": 73,
+    "name": "Blessings after marriage",
+    "cat_id": 22
+  },
+  {
+    "id": 74,
+    "name": "Duas related to the newborn",
+    "cat_id": 22
+  },
+  {
+    "id": 75,
+    "name": "Duas regarding to the family",
+    "cat_id": 23
+  },
+  {
+    "id": 76,
+    "name": "Duas for settling debt",
+    "cat_id": 24
+  },
+  {
+    "id": 77,
+    "name": "Duas for distressed",
+    "cat_id": 25
+  },
+  {
+    "id": 78,
+    "name": "Duas in the time of hopelessness",
+    "cat_id": 26
+  },
+  {
+    "id": 79,
+    "name": "Duas in the time of fearing of harm",
+    "cat_id": 26
+  },
+  {
+    "id": 80,
+    "name": "Duas to be recited when one is in danger",
+    "cat_id": 26
+  },
+  {
+    "id": 81,
+    "name": "Duas to be recited in condemnation and praise",
+    "cat_id": 27
+  },
+  {
+    "id": 82,
+    "name": "Duas to be recited for the welfare of others",
+    "cat_id": 27
+  },
+  {
+    "id": 83,
+    "name": "Etiquette in sneezing and yawn",
+    "cat_id": 28
+  },
+  {
+    "id": 84,
+    "name": "Duas for sneezing",
+    "cat_id": 28
+  },
+  {
+    "id": 85,
+    "name": "Duas at the end of the meeting",
+    "cat_id": 28
+  },
+  {
+    "id": 86,
+    "name": "Duas recited upon seeing something pleasant or harmful",
+    "cat_id": 28
+  },
+  {
+    "id": 87,
+    "name": "Duas about praise",
+    "cat_id": 28
+  },
+  {
+    "id": 88,
+    "name": "Etiquette of salutation",
+    "cat_id": 28
+  },
+  {
+    "id": 89,
+    "name": "Duas on various manners and etiquettes",
+    "cat_id": 28
+  },
+  {
+    "id": 90,
+    "name": "Dua for a person in meeting",
+    "cat_id": 29
+  },
+  {
+    "id": 91,
+    "name": "Etiquette of taking food and drink",
+    "cat_id": 30
+  },
+  {
+    "id": 92,
+    "name": "Prayers at the beginning of the meal",
+    "cat_id": 30
+  },
+  {
+    "id": 93,
+    "name": "If forget to mention the name of Allah in the beginning",
+    "cat_id": 30
+  },
+  {
+    "id": 94,
+    "name": "Dua between eating and drinking",
+    "cat_id": 30
+  },
+  {
+    "id": 95,
+    "name": "Duas at the end of the meal",
+    "cat_id": 30
+  },
+  {
+    "id": 96,
+    "name": "Dua by the guest for the host",
+    "cat_id": 30
+  },
+  {
+    "id": 97,
+    "name": "Duas regarding to animals",
+    "cat_id": 31
+  },
+  {
+    "id": 98,
+    "name": "Duas related to nature",
+    "cat_id": 32
+  },
+  {
+    "id": 99,
+    "name": "Duas for the sick person",
+    "cat_id": 33
+  },
+  {
+    "id": 100,
+    "name": "Duas for the dead person",
+    "cat_id": 33
+  },
+  {
+    "id": 101,
+    "name": "Duas related to evil eye",
+    "cat_id": 33
+  },
+  {
+    "id": 102,
+    "name": "What to do in the treatment of Jinn, black magics and diseases",
+    "cat_id": 34
+  },
+  {
+    "id": 103,
+    "name": "What to do after the possession is confirmed",
+    "cat_id": 34
+  },
+  {
+    "id": 104,
+    "name": "Duas related to the oppressed",
+    "cat_id": 35
+  },
+  {
+    "id": 105,
+    "name": "Duas for seeking forgiveness",
+    "cat_id": 35
+  },
+  {
+    "id": 106,
+    "name": "General duas",
+    "cat_id": 35
+  },
+  {
+    "id": 107,
+    "name": "Other duas",
+    "cat_id": 35
+  },
+  {
+    "id": 108,
+    "name": "Duas by the name of Allah",
+    "cat_id": 36
+  },
+  {
+    "id": 109,
+    "name": "The way the Prophets and the Messengers prayed",
+    "cat_id": 37
+  },
+  {
+    "id": 110,
+    "name": "How the Prophet (ﷺ) and his Companions made duas",
+    "cat_id": 38
+  },
+  {
+    "id": 111,
+    "name": "About Muhammad (ﷺ) and his Companions",
+    "cat_id": 39
+  },
+  {
+    "id": 112,
+    "name": "Some duas mentioned in the hadith",
+    "cat_id": 40
+  },
+  {
+    "id": 113,
+    "name": "Duas on various subjects",
+    "cat_id": 41
+  },
+  {
+    "id": 114,
+    "name": "Daily Sunnah sentences",
+    "cat_id": 42
+  },
+  {
+    "id": 115,
+    "name": "Duas related to War",
+    "cat_id": 26
+  },
+  {
+    "id": 116,
+    "name": "Duas to be read on the day of Eid",
+    "cat_id": 43
+  },
+  {
+    "id": 117,
+    "name": "Istigfaar which are mentioned in Quran",
+    "cat_id": 21
+  },
+  {
+    "id": 118,
+    "name": "Rabbana Duas",
+    "cat_id": 44
+  }
+]

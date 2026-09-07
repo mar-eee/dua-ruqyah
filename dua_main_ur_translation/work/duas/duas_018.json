@@ -1,0 +1,460 @@
+{
+  "table": "duas",
+  "chunk": "duas_018.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 14,
+  "id_range": "239-252",
+  "source_chars": 5876,
+  "items": [
+    {
+      "key": [
+        239
+      ],
+      "id": 239,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 239,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ، وَشُكْرِكَ، وَحُسْنِ عِبَادَتِكَ",
+        "indopak": "اَللّٰهُمَّ اَعِنِّىْ عَلٰى ذِكْرِكَ، وَشُكْرِكَ، وَحُسْنِ عِبَادَتِكَ",
+        "clean": "اللهم اعني علي ذكرك وشكرك وحسن عبادتك",
+        "transliteration": "Allaahumma 'a'innee 'alaa dhikrika, wa shukrika, wahusni 'ibaadatik",
+        "reference": "Sahih (Albani). Abu Dawud: 1522",
+        "audio": 239,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #9",
+        "content": null,
+        "translation": "O Allah, help me to remember You, to give You thanks, and to perform Your worship in the best manner.",
+        "note": "Mu'adh bin Jabal (RA) reported that the Messenger of Allah (ﷺ) caught his hand and said: By Allah, I love you, Mu'adh. By Allah, I love you. I give some instruction to you. Never leave to recite this supplication after every (prescribed) prayer: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        240
+      ],
+      "id": 240,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 240,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْبُخْلِ، وَأَعُوْذُ بِكَ مِنَ الْجُبْنِ، وَأَعُوْذُ بِكَ مِنْ أَنْ نُرَدَّ إِلَى أَرْذَلِ الْعُمُرِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا وَعَذَابِ الْقَبْرِ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنَ الْبُخْلِ، وَاَعُوْذُ بِكَ مِنَ الْجُبْنِ، وَاَعُوْذُ بِكَ مِنْ اَنْ نُرَدَّ اِلٰى اَرْذَلِ الْعُمُرِ، وَاَعُوْذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا وَعَذَابِ الْقَبْرِ",
+        "clean": "اللهم اني اعوذ بك من البخل واعوذ بك من الجبن واعوذ بك من ان نرد الي ارذل العمر واعوذ بك من فتنه الدنيا وعذاب القبر",
+        "transliteration": "Allaahumma 'innee 'a'oodhu bika minal-bukhli, wa 'a'oodhu bika minal-jubni, wa 'a'oodhu bika min 'an nuradda 'ilaa 'ardhalil-'umuri, wa 'a'oodhu bika min fitnatid-dunyaa wa 'adhaabil-qabr",
+        "reference": "Bukhari: 6374",
+        "audio": 240,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #10",
+        "content": null,
+        "translation": "O Allah! I seek refuge with You from cowardice, and  miserliness, and seek refuge with You from reaching a degraded helpless old age, and seek refuge with You from the afflictions of the world and from the punishment in the grave.",
+        "note": "Narrated by Saad Ibn Abi Waqqas (RA): Saad (RA) used to teach these words to his sons in the same way that a teacher teaches handwriting to children. And he used to say that towards the end of the prayer, the Messenger of Allah (ﷺ) would seek refuge (in Allah) in these matters: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        241
+      ],
+      "id": 241,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 241,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوْذُ بِكَ مِنَ النَّارِ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ الْجَنَّةَ وَاَعُوْذُ بِكَ مِنَ النَّارِ",
+        "clean": "اللهم اني اسالك الجنه واعوذ بك من النار",
+        "transliteration": "Allaahumma 'innee 'as'alukal-jannata wa 'a'oodhu bika minan-naar",
+        "reference": "Sahih (Albani). Ibn Majah 3846",
+        "audio": 241,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #11",
+        "content": "Narrated by Abu Huraira (RA): He said: The Prophet (ﷺ) said to a person: what do you say in prayer? He replied: I first recite tashahhud (supplication recited in sitting position), and then I say:",
+        "translation": "O Allah, I ask You for Paradise and seek Your protection from the Fire.",
+        "note": "I can't recite dua as beautifully as you do, not even as Mu'adh! \"Then the Prophet (ﷺ) said, \"Our dua also carries meaning close to it!\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        242
+      ],
+      "id": 242,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 242,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ يَا أَللَّهُ بِأَنَّكَ الْوَاحِدُ الْأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ، أَنْ تَغْفِرَ لِي ذُنُوبِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ يَا اَللّٰهُ بِاَنَّكَ الْوَاحِدُ الْاَحَدُ الصَّمَدُ الَّذِىْ لَمْ يَلِدْ وَلَمْ يُوْلَدْ، وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ، اَنْ تَغْفِرَ لِىْ ذُنُوْبِىْ اِنَّكَ اَنْتَ الْغَفُوْرُ الرَّحِيْمُ",
+        "clean": "اللهم اني اسالك يا الله بانك الواحد الاحد الصمد الذي لم يلد ولم يولد ولم يكن له كفوا احد ان تغفر لي ذنوبي انك انت الغفور الرحيم",
+        "transliteration": "Allaahumma 'innee 'as'aluka yaaAllahu bi'annakal-Waahidul-'Ahadus-Samadul-ladhee, lam yalid wa lam yoolad, wa lam yakun lahu kufuwan 'Ahad, 'an taghfira lee dhunoobee 'innaka 'Antal-Ghafoorur-Raheem",
+        "reference": "Sahih (Albani). Nasai: 1301",
+        "audio": 242,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #12",
+        "content": "Narrated by Mizan Ibn Arda (RA): The Messenger of Allah (ﷺ) entered the mosque. Then a person is reciting Tashahhud towards the end of the prayer. He says:",
+        "translation": "O Allah, I ask You. O Allah, You are the One, the Only, Self-Sufficient Master, Who was not begotten and begets not and none is equal to Him. Forgive me my sins, surely you are Forgiving, Merciful.",
+        "note": "After hearing his supplication, the Messenger of Allah (ﷺ) said three times, \"He has been forgiven.\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        243
+      ],
+      "id": 243,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 243,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدَ لَا إِلَهَ إِلاَّ أَنْتَ الْمَنَّانُ، بَدِيعُ السَّمَوَاتِ وَالْأَرْضِ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ، يَا حَيُّ يَا قَيُّومُ إِنِّي أَسْأَلُكَ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ بِاَنَّ لَكَ الْحَمْدَ لَا اِلٰهَ اِلَّا اَنْتَ الْمَنَّانُ، بَدِيْعُ السَّمَوَاتِ وَالْاَرْضِ يَا ذَا الْجَلَالِ وَالْاِكْرَامِ، يَا حَىُّ يَا قَيُّوْمُ اِنِّىْ اَسْاَلُكَ",
+        "clean": "اللهم اني اسالك بان لك الحمد لا اله الا انت المنان بديع السموات والارض يا ذا الجلال والاكرام يا حي يا قيوم اني اسالك",
+        "transliteration": "Allaahumma innee as’aluka bi anna lakal-hamda laa ilaaha illaa anta al-mannaanu, badee‛-us-samawaati wal-ardi yaa dhal-jalaali wal-ikraam, yaa hayyu yaa qayyoomu, inne as’aluka",
+        "reference": "Sahih (Albani). Nasai: 1300",
+        "audio": 243,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #13",
+        "content": "It was narrated that Anas bin Malik (RA) said: I was sitting with the Messenger of Allah (ﷺ) and a man was standing and praying. When he bowed, prostrated and recited the tashahhud, he supplicated, and in his supplication he said:",
+        "translation": "O Allah, I ask You as unto You is all praise, none has the right to be worshipped except You, alone, without partner. You are the Benefactor. Originator of the heavens and the Earth, O Possessor of majesty and honour, O Ever Living, O Self-Subsisting and Supporter of all. I am asking you",
+        "note": "The Prophet (ﷺ) said: 'Do you know what he has supplicated with?' They said: \"Allah (SWT) and His Messenger know best.\" He (ﷺ) said: 'By the One in Whose Hand is my soul, he called upon Allah by His greatest Name, which, if He is called by it, He responds, and if He is asked by it, He gives.'\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        244
+      ],
+      "id": 244,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 244,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنِّي اَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لَا إِلَهَ إِلَّا أَنْتَ الْأَحَدُ الصَّمَدُ الَّذِيْ لَمْ يَلِدْ وَلَمْ يُوْلَدْ وَلَمْ يَكُنْ لَّهُ كُفُوًا أَحَدٌ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ بِاَنِّىْ اَشْهَدُ اَنَّكَ اَنْتَ اللّٰهُ لَا اِلٰهَ اِلَّا اَنْتَ الْاَحَدُ الصَّمَدُ الَّذِىْ لَمْ يَلِدْ وَلَمْ يُوْلَدْ وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ",
+        "clean": "اللهم اني اسالك باني اشهد انك انت الله لا اله الا انت الاحد الصمد الذي لم يلد ولم يولد ولم يكن له كفوا احد",
+        "transliteration": "Allaahumma 'innee 'as'aluka bi'annee 'ash-hadu 'annaka 'AntAllahu laa 'ilaaha 'illaa 'Antal-'Ahadus-Samadul-ladhee lam yalid wa lam yoolad wa lam yakun lahu kufuwan 'Ahad",
+        "reference": "Sahih (Albani). Abu Dawud: 1493",
+        "audio": 244,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #14",
+        "content": "Buraidah ibn husaib (RA) said: The Prophet (ﷺ) heard a man supplicating, and he was saying:",
+        "translation": "O Allah, I ask You, by the fact that I bear witness that You are Allah. There is none worthy of worship but You, the Only ilah, Independent of creation, Who was not begotten and begets not, and none is equal to Him.",
+        "note": "Then the Prophet (ﷺ) said, ‘By the One in Whose Hand is my soul, he has asked Allah by His Greatest Name, the one which if He is called upon by it, He responds, and when He is asked by it, He gives."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        245
+      ],
+      "id": 245,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 245,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدُ لَا إِلَهَ إِلَّا أَنْتَ وَحْدَكَ لَا شَرِيكَ لَكَ، الْمَنَّانُ، يَا بَدِيعَ السَّمَوَاتِ وَالْأَرْضِ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ، يَا حَيُّ يَا قَيُّومُ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوْذُ بِكَ مِنَ النَّارِ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ بِاَنَّ لَكَ الْحَمْدُ لَا اِلٰهَ اِلَّا اَنْتَ وَحْدَكَ لَا شَرِيْكَ لَكَ، اَلْمَنَّانُ، يَا بَدِيْعَ السَّمَاوَاتِ وَالْاَرْضِ يَا ذَا الْجَلَالِ وَالْاِكْرَامِ، يَا حَىُّ يَا قَيُّوْمُ اِنِّىْ اَسْاَلُكَ الْجَنَّةَ وَاَعُوْذُ بِكَ مِنَ النَّارِ",
+        "clean": "اللهم اني اسالك بان لك الحمد لا اله الا انت وحدك لا شريك لك المنان يا بديع السماوات والارض يا ذا الجلال والاكرام يا حي يا قيوم اني اسالك الجنه واعوذ بك من النار",
+        "transliteration": "Allaahumma 'innee 'as'aluka bi'anna lakal-hamdu laa 'ilaaha 'illaa 'Anta wahdaka laa shareeka laka, Al-Mannaanu, yaa Badee'as-samawaati wal'ardhi yaa dhal-Jalaali wal-'Ikraam, yaa Hayyu yaa Qayyoomu 'innee 'as'alukal-jannata wa 'a'oodhu bika minan-naar",
+        "reference": "Sahih (Albani). Abu Dawud: 1493-1495",
+        "audio": 245,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #15",
+        "content": null,
+        "translation": "O Allah, I ask You, as You are the Owner of praise, there is none worthy of worship but You alone, You have no partner. You are the Giver of all good. O Creator of the heavens and the earth, Owner of majesty and honor. O Living and Everlasting One, I ask you for Paradise and I seek refuge in You from the fire.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        246
+      ],
+      "id": 246,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 246,
+        "groups": null,
+        "uthmani": "اَللَّهُ أَكْبَرُ كَبِيْرًا، وَالْحَمْدُ لِلَّهِ كَثِيرًا، وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلًا",
+        "indopak": "اَللّٰهُ اَكْبَرُ كَبِيْرًا، وَالْحَمْدُ لِلّٰهِ كَثِيْرًا، وَسُبْحَانَ اللّٰهِ بُكْرَةً وَّاَصِيْلًا",
+        "clean": "الله اكبر كبيرا والحمد لله كثيرا وسبحان الله بكره واصيلا",
+        "transliteration": "Allahu 'Akbar Kabiran, walhamdu lillaahi kathiran, wa Subhaanallahi bukratan wa'asila",
+        "reference": "Muslim: 601",
+        "audio": 246,
+        "cat_id": 13,
+        "subcat_id": 42
+      },
+      "source": {
+        "name": "Dua in salat",
+        "content": "Abdullah Ibn 'Umar (RA) reported: While we were praying with the Messenger of Allah (ﷺ), one among the people said:",
+        "translation": "Allah is the Greatest, Most Great. Praise is to Allah, abundantly. Glory is to Allah, at the break of day and at its end.",
+        "note": "The Messenger of Allah (ﷺ) said: Who uttered such and such a word? A person among the people (who have recited these words) said: Me! Ya Messenger of Allah!. He (ﷺ) said: it's utterance surprised me because for this dua, the doors of heaven were opened. Ibn 'Umar (RA) said: I have not abandoned them (to recite this dua) since I heard the Messenger of Allah (ﷺ) saying this."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        247
+      ],
+      "id": 247,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 247,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا طَيِّبًا وَعَمَلًا مُتَقَبَّلًا",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ عِلْمًا نَّافِعًا وَّرِزْقًا طَيِّبًا وَّعَمَلًا مُّتَقَبَّلًا",
+        "clean": "اللهم اني اسالك علما نافعا ورزقا طيبا وعملا متقبلا",
+        "transliteration": "Allaahumma innee as’aluka ‛ilman naafi‛an, warizqan tayyiban, wa ‛amalan mutaqabbalaa",
+        "reference": "Sahih (Albani). Ibn Majah: 925",
+        "audio": 247,
+        "cat_id": 13,
+        "subcat_id": 43
+      },
+      "source": {
+        "name": "Dua after Fajr",
+        "content": "Umm Salamah (RA) said: \"The Messenger of Allah (ﷺ) used to say these words after the salutation, at the end of the Fajr prayer.\"",
+        "translation": "O Allah, I ask You for knowledge which is beneficial and sustenance which is good, and deeds which are acceptable.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        248
+      ],
+      "id": 248,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 248,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِىْ وَيُمِيْتُ وَهُوَ عَلٰى كُلِّ شَىْءٍ قَدِيْرٌ",
+        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد يحيي ويميت وهو علي كل شيء قدير",
+        "transliteration": "Laa ilaaha ill-Allahu, wa'hdahu laa shareeka lahu, lahul-mulku wa lahul-'hamdu, yu'hyee wa yumeetu, wa huwa ‛alaa kulli shay’in qadeer",
+        "reference": "Hasan (Albani). Tirmidhi: 3534",
+        "audio": 248,
+        "cat_id": 13,
+        "subcat_id": 43
+      },
+      "source": {
+        "name": "Dua after Fajr and Maghrib #1",
+        "content": null,
+        "translation": "None has the right to be worshipped except Allah, who is alone and does not have any partner. To Him belongs all sovereignty and praise, He gives life and causes death and He is omnipotent over all things.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        249
+      ],
+      "id": 249,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 249,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَجِرْنِيْ مِنَ النَّارِ",
+        "indopak": "اَللّٰهُمَّ اَجِرْنِىْ مِنَ النَّارِ",
+        "clean": "اللهم اجرني من النار",
+        "transliteration": "Allaahumma Ajirni minan-naar",
+        "reference": "Hasan (Ibn Hajar). Al-futuhaatur Rabbaniyyah 3/69",
+        "audio": 249,
+        "cat_id": 13,
+        "subcat_id": 43
+      },
+      "source": {
+        "name": "Dua after Fajr and Maghrib #2",
+        "content": "Say the dua 7 Times:",
+        "translation": "O Allah, protect me from Hell.",
+        "note": "Harith ibn Muslim (RA) said: The Messenger of Allah (ﷺ) said to me: When you finish the maghrib prayer, say: 'O Allah, protect me from Hell\" seven times; for if you say that and die that night, Allah will protect you from jahannam; and when you finish the fajr prayer, say it in a similar way, for if you die that day, Allah will protect you from jahannam. Most of the muhaddithin have considered this hadith to be acceptable."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        250
+      ],
+      "id": 250,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 250,
+        "groups": null,
+        "uthmani": "أَسْتَغْفِرُ اللَّهَ",
+        "indopak": "اَسْتَغْفِرُ اللّٰهَ",
+        "clean": "استغفر الله",
+        "transliteration": "Astaghfirullaah",
+        "reference": "Sahih Muslim: 591",
+        "audio": 250,
+        "cat_id": 13,
+        "subcat_id": 44
+      },
+      "source": {
+        "name": "Dua to be recited after salaam #1",
+        "content": "Say three times:",
+        "translation": "I ask Allah for forgiveness.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        251
+      ],
+      "id": 251,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 251,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+        "indopak": "اَللّٰهُمَّ اَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْاِكْرَامِ",
+        "clean": "اللهم انت السلام ومنك السلام تباركت يا ذا الجلال والاكرام",
+        "transliteration": "Allaahumma 'Antas-Salaam wa minkas-salaam, tabaarakta yaa Dhal-Jalaali wal-'Ikraam",
+        "reference": "Muslim: 591",
+        "audio": 251,
+        "cat_id": 13,
+        "subcat_id": 44
+      },
+      "source": {
+        "name": "Dua to be recited after salaam #2",
+        "content": "Thauban (RA) said that Rasulullah (ﷺ) used to say after saying istighfar three times after the prayer:",
+        "translation": "O Allah, You are Peace and from You comes peace. Blessed are You, O Owner of majesty and honor.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        252
+      ],
+      "id": 252,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 252,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، اَللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِىَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلٰى كُلِّ شَىْءٍ قَدِيْرٌ، اَللّٰهُمَّ لَا مَانِعَ لِمَا اَعْطَيْتَ، وَلَا مُعْطِىَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد وهو علي كل شيء قدير اللهم لا مانع لما اعطيت ولا معطي لما منعت ولا ينفع ذا الجد منك الجد",
+        "transliteration": "Laa ilaaha ill-Allahu wa'hdahu laa shareeka lahu, lahul-mulku wa lahul-'hamdu wa huwa ‛alaa kulli shay’in qadeer, Allaahumma laa maani‛a li maa a‛tayta, wa laa mu‛tiya li maa mana‛ta wa laa yanfa‛u dhal-jaddi minkal-jaddu",
+        "reference": "Bukhari: 844",
+        "audio": 252,
+        "cat_id": 13,
+        "subcat_id": 44
+      },
+      "source": {
+        "name": "Dua to be recited after salaam #3",
+        "content": "The Prophet (ﷺ) used to say this dua after every compulsory prayer:",
+        "translation": "None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise and and He is Able to do all things. O Allah, none can prevent what You have willed to bestow and none can bestow what You have willed to prevent, and no wealth or majesty can benefit anyone, as from You is all wealth and majesty.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    }
+  ]
+}

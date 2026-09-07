@@ -1,0 +1,1100 @@
+{
+  "table": "duas",
+  "chunk": "duas_056.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 34,
+  "id_range": "843-876",
+  "source_chars": 5965,
+  "items": [
+    {
+      "key": [
+        843
+      ],
+      "id": 843,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 843,
+        "groups": null,
+        "uthmani": "سُبْحَانَ اللَّهِ",
+        "indopak": "سُبْحَانَ اللّٰهِ",
+        "clean": "سبحان الله",
+        "transliteration": "Sub’hanallah",
+        "reference": "Bukhari: 6218",
+        "audio": 843,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "Seeing any surprisingly good things",
+        "content": null,
+        "translation": "How perfect Allah is",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        844
+      ],
+      "id": 844,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 844,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ",
+        "clean": "الحمد لله",
+        "transliteration": "Alhamdu lillaah",
+        "reference": "Ibne Mazah: 3805",
+        "audio": 844,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "Eating something good / listening to the good news",
+        "content": null,
+        "translation": "All praise is for Allah.",
+        "note": "It was narrated from Anas that : the Messenger of Allah (ﷺ) said: 'Allah does not bestow a blessing upon any slave and he says: 'Al-hamdu Lillah (praise is to Allah),' except that what he gives (the praise) is better than what he received (the blessing).\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        845
+      ],
+      "id": 845,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 845,
+        "groups": null,
+        "uthmani": "إِنَّا لِلَّهِ",
+        "indopak": "اِنَّا لِلّٰهِ",
+        "clean": "انا لله",
+        "transliteration": "Innaa lillaahi",
+        "reference": "Muslim: 2126",
+        "audio": null,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "Danger/Bad news, something lost/stolen",
+        "content": "Hearing of danger or something bad news, when something is lost, or something is stolen or in trouble",
+        "translation": "We are from Allah.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        846
+      ],
+      "id": 846,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 846,
+        "groups": null,
+        "uthmani": "مَا شَاءَ ٱللَّهُ",
+        "indopak": "مَا شَاءَ ٱللّٰهْ",
+        "clean": "ما شاء لله",
+        "transliteration": "ma sha Allah",
+        "reference": "Muslim: 3508",
+        "audio": null,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "An expression of appreciation/seeing something good",
+        "content": null,
+        "translation": "That which Allah wanted.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        847
+      ],
+      "id": 847,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 847,
+        "groups": null,
+        "uthmani": "جَزَاكَ اللَّهُ خَيْرًا",
+        "indopak": "جَزَاكَ اللّٰهُ خَيْرًا",
+        "clean": "جزاك الله خيرا",
+        "transliteration": "JazaakAllahu khayran",
+        "reference": "[1] Bukhari: 336\n[2] Sahih (Albani). Tirmidhi: 2035",
+        "audio": 847,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "Expressing gratitude to the benefactor",
+        "content": null,
+        "translation": "May Allah reward you with good. [1]",
+        "note": "We have seen that the believer never expects gratitude or recompense from anyone who benefits him. On the other hand, it is the duty of the beneficent believer to express gratitude to the benefactor, to praise him, to openly acknowledge his beneficence, and to pray for him. The Prophet (ﷺ) said: If someone does good to someone and he gives thanks to the benefactor by saying this, then it will be best appreciated. [2]"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        848
+      ],
+      "id": 848,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 848,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ",
+        "clean": "الحمد لله",
+        "transliteration": "Alhamdu lillaah",
+        "reference": "[1] Bukhari: 6224\n[2] Sahih (Albani). Tirmidhi: 2741",
+        "audio": 848,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "Dua upon sneezing",
+        "content": "The Prophet (ﷺ) said, If one of you sneezes, let him say:",
+        "translation": "All praise is for Allah. [1]",
+        "note": "After sneezing \"Alhamdu lillahi 'ala qulli ha-l\". have to be said or at least say \"Al-Hamdulillah\"."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        849
+      ],
+      "id": 849,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 849,
+        "groups": null,
+        "uthmani": "يَرْحَمُكَ اللَّهُ",
+        "indopak": "يَرْحَمُكَ اللّٰهُ",
+        "clean": "يرحمك الله",
+        "transliteration": "Yarhamuk-Allah",
+        "reference": "Bukhari: 6224",
+        "audio": 849,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "If you hear the sneezer say (Alhamdulillah), the listener will say -",
+        "content": null,
+        "translation": "May Allah have mercy upon you.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        850
+      ],
+      "id": 850,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 850,
+        "groups": null,
+        "uthmani": "أَسْتَغْفِرُ اللَّهَ",
+        "indopak": "اَسْتَغْفِرُ اللّٰهَ",
+        "clean": "استغفر الله",
+        "transliteration": "astaghfir-ullaah",
+        "reference": "Sura Muhammad: 19",
+        "audio": 850,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "Speaking of bad things",
+        "content": null,
+        "translation": "I seek Allah’s forgiveness.",
+        "note": "So know, [O Muhammad], that there is no deity except Allah and ask forgiveness for your sin and for the believing men and believing women. And Allah knows of your movement and your resting place."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        851
+      ],
+      "id": 851,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 851,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ",
+        "clean": "الحمد لله",
+        "transliteration": "Alhamdu lillaah",
+        "reference": "Ibne Mazah: 3805",
+        "audio": 851,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "In response to How are you?",
+        "content": null,
+        "translation": "All praise is for Allah.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        852
+      ],
+      "id": 852,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 852,
+        "groups": null,
+        "uthmani": "نَعُوذُ بِاللَّهِ",
+        "indopak": "نَعُوْذُ بِاللّٰهِ",
+        "clean": "نعوذ بالله",
+        "transliteration": "NA‛oodhu billaah",
+        "reference": "Bukhari: 6362",
+        "audio": null,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "If something unpleasant happens/hearing bad things",
+        "content": "If you hear any bad words or if you hear or remember the punishment and wrath of Allah-",
+        "translation": "I seek refuge with Allah.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        853
+      ],
+      "id": 853,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 853,
+        "groups": null,
+        "uthmani": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُوْنَ",
+        "indopak": "اِنَّا لِلّٰهِ وَاِنَّا اِلَيْهِ رَاجِعُوْنَ",
+        "clean": "انا لله وانا اليه راجعون",
+        "transliteration": "Innaa lillaahi wa 'innaa 'ilayhi raaji'oon",
+        "reference": "Sura Bakara 2:156",
+        "audio": 853,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "Hearing any news of death/unpleasant",
+        "content": null,
+        "translation": "We are from Allah and unto Him we return.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        854
+      ],
+      "id": 854,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 854,
+        "groups": null,
+        "uthmani": "آمِينْ",
+        "indopak": "اٰمِينْ",
+        "clean": "امين",
+        "transliteration": "Aamin",
+        "reference": "Sahih Lee Ghairihi (Albani). Targib wat Tarhib, 2/66",
+        "audio": null,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "At the end of the prayer",
+        "content": null,
+        "translation": "(Oh Allah) accept our invocation.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        855
+      ],
+      "id": 855,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 855,
+        "groups": null,
+        "uthmani": "اَللَّهُ أَكْبَرُ",
+        "indopak": "اَللّٰهُ اَكْبَرُ",
+        "clean": "الله اكبر",
+        "transliteration": "Allahu Akbaar",
+        "reference": "Bukhari: 2993",
+        "audio": 855,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "When getting up",
+        "content": "Narrated Jabir bin Abdillah (RA): He said, \"When we ascended, we would say:",
+        "translation": "Allah is great.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        856
+      ],
+      "id": 856,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 856,
+        "groups": null,
+        "uthmani": "سُبْحَانَ اللَّهِ",
+        "indopak": "سُبْحَانَ اللّٰهِ",
+        "clean": "سبحان الله",
+        "transliteration": "Sub’hanallah",
+        "reference": "Bukhari: 2993",
+        "audio": 856,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "When getting down",
+        "content": "And when descend, we said -",
+        "translation": "How perfect Allah is.",
+        "note": "Can be read while going up and down the stairs/elevator"
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        857
+      ],
+      "id": 857,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 857,
+        "groups": null,
+        "uthmani": "وَاللَّهُ أَعْلَمُ‏",
+        "indopak": "وَاللّٰهُ أَعْلَمُ‏",
+        "clean": "والله اعلم",
+        "transliteration": "Wallahu a'lam",
+        "reference": "Bukhari: 5570",
+        "audio": null,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "Having doubt in speech",
+        "content": null,
+        "translation": "Allah knows better.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        858
+      ],
+      "id": 858,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 858,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ",
+        "indopak": "بِسْمِ اللّٰهِ وَاللّٰهُ اَكْبَرُ",
+        "clean": "بسم الله والله اكبر",
+        "transliteration": "Bismillaahi wAllahu 'Akbar",
+        "reference": "Bukhari: 5565",
+        "audio": 858,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "When slaughtering an animal",
+        "content": null,
+        "translation": "With the Name of Allah, Allah is the Most Great!",
+        "note": "Anas (RA) said that the Prophet (ﷺ) placed his feet on the two jaws of a goat with white and black horns and sacrificed him saying Bismillahi wAllahu akbar."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        859
+      ],
+      "id": 859,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 859,
+        "groups": null,
+        "uthmani": "اَللَّهُ أَكْبَرُ",
+        "indopak": "اَللّٰهُ اَكْبَرُ",
+        "clean": "الله اكبر",
+        "transliteration": "Allahu Akbaar",
+        "reference": "Bukhari: 610",
+        "audio": 859,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "After winning or hope to win",
+        "content": null,
+        "translation": "Allah is great.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        860
+      ],
+      "id": 860,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 860,
+        "groups": null,
+        "uthmani": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
+        "indopak": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ",
+        "clean": "السلام عليكم ورحمه الله وبركاته",
+        "transliteration": "As-salaamu 'alaykum wara'hmatullaahi wa barakaatuh",
+        "reference": "Sahih (Albani). Abu Dawud: 5195",
+        "audio": 860,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "If you meet someone",
+        "content": null,
+        "translation": "Peace be upon you, and the Mercy of Allah and His Blessings.",
+        "note": "A man came to the Prophet (ﷺ) and said: As-salaamu 'alaykum! He responded to his salutation. He then sat down. The Prophet (ﷺ) said: Ten. Another man came and said: As-salaamu 'alaykum wara'hmatullaah! He responded to his salutation when he sat down. He said: Twenty. Another man came and said: As-salaamu 'alaykum wara'hmatullaahi wa barakaatuh! He responded to him and said when he sat down: Thirty."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        861
+      ],
+      "id": 861,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 861,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "indopak": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "clean": "اعوذ بالله من الشيطان الرجيم",
+        "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
+        "reference": "Muslim: 2203",
+        "audio": 861,
+        "cat_id": 42,
+        "subcat_id": 114
+      },
+      "source": {
+        "name": "To avoid Satan's whispers or deceptions",
+        "content": null,
+        "translation": "I seek refuge in Allah from Satan the outcast.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        862
+      ],
+      "id": 862,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 862,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِيْ أَقَالَنَا يَوْمَنَا هٰذَا وَلَمْ يُهْلِكْنَا بِذُنُوْبِنَا",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ اَقَالَنَا يَوْمَنَا هٰذَا وَلَمْ يُهْلِكْنَا بِذُنُوْبِنَا",
+        "clean": "الحمد لله الذي اقالنا يومنا هذا ولم يهلكنا بذنوبنا",
+        "transliteration": "Alhamdu lillaahil-ladhi aqaalanaa yawmanaa hadhaa wa-lam yuh-liknaa bi-dhunubinaa",
+        "reference": "Muslim: 822",
+        "audio": null,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Dua when the sun rises",
+        "content": "This Dua should be recited when the sun rises:",
+        "translation": "All praise (and innumerable thanks) to Allah, Who has shown us this day, and did not destroy us for our (past) sins.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        863
+      ],
+      "id": 863,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 863,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اِنَّا نَعُوْذُ بِكَ اَنْ نَرْجِعَ عَلٰى أَعْقَابِنَا أَوْ نُفْتَنَ عَنْ دِيْنِنَا.",
+        "indopak": "اَللّٰهُمَّ اِنَّا نَعُوْذُ بِكَ اَنْ نَرْجِعَ عَلٰى اَعْقَابِنَا اَوْ نُفْتَنَ عَنْ دِيْنِنَا.",
+        "clean": "اللهم انا نعوذ بك ان نرجع علي اعقابنا او نفتن عن ديننا",
+        "transliteration": "Allaahumma inna nau’dhu bika an narji’ya ‘alaa a’qaabinaa aw nuftana an dininaa.",
+        "reference": "Bukhari: 6593",
+        "audio": null,
+        "cat_id": 5,
+        "subcat_id": 13
+      },
+      "source": {
+        "name": "Dua to seek refuge from fitna",
+        "content": null,
+        "translation": "O Allah, we seek refuge with You from turning on our heels, or being put to trial in our religion.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        864
+      ],
+      "id": 864,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 864,
+        "groups": null,
+        "uthmani": "أَسْأَلُ اللَّهَ الْعَافِيَةَ فِيْ الدُّنْيَا وَالْآخِرَةِ",
+        "indopak": "اَسْاَلُ اللّٰهَ الْعَافِيَةَ فِيْ الدُّنْيَا وَالْاٰخِرَةِ",
+        "clean": "اسال الله العافيه في الدنيا والاخره",
+        "transliteration": "As’alullaahal ‘aafiyata feed dunyaa wal akhirah.",
+        "reference": "Sahih (Albani). Tirmizi: 3514",
+        "audio": null,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Seeking security in this world and in the Hereafter",
+        "content": null,
+        "translation": "I seek security from Allah in this World and Hereafter.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        865
+      ],
+      "id": 865,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 865,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْتَهْدِيكَ لِأَرْشَدِ أَمْرِي، وَأَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِيْ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْتَهْدِيْكَ لِاَرْشَدِ اَمْرِيْ، وَاَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِيْ",
+        "clean": "اللهم اني استهديك لارشد امري واعوذ بك من شر نفسي",
+        "transliteration": "Allahumma inni astahdika li-arshadi amri, wa ‘auzubika min sharri nafsi",
+        "reference": "Sahih (Albani). Sahih Al-Mawarid 2059",
+        "audio": null,
+        "cat_id": 5,
+        "subcat_id": 13
+      },
+      "source": {
+        "name": "Dua for getting the right guidance",
+        "content": null,
+        "translation": "O Allah, I seek guidance from You in all matters, and I seek refuge in You from my own evil.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        866
+      ],
+      "id": 866,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 866,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِاللَّهِ مِنْ شَرِّ هٰذَا الغَاسِقِ",
+        "indopak": "اَعُوْذُ بِاللّٰهِ مِنْ شَرِّ هٰذَا الْغَاسِقِ",
+        "clean": "اعوذ بالله من شر هذا الغاسق",
+        "transliteration": "A‛oodhu Billahi Min Sharri Haazal Gasiq",
+        "reference": "Sahih (Albani). Sahihul Jame' 6918",
+        "audio": null,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Dua to save from the evil of the waning moon",
+        "content": null,
+        "translation": "I seek refuge in Allah from the misfortune of this disappearing moon.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        867
+      ],
+      "id": 867,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 867,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ قِنِيْ شَرَّ نَفْسِيْ، وَاعْزِمْ لِيْ عَلٰى أَرْشَدِ أَمْرِيْ اَللَّهُمَّ اغْفِرْ لِيْ مَا أَسْرَرْتُ وَمَا أَعْلَنْتُ، وَمَا أَخْطَأْتُ وَمَا عَمَدْتُّ، وَمَا جَهِلْتُ.",
+        "indopak": "اَللّٰهُمَّ قِنِيْ شَرَّ نَفْسِيْ، وَاعْزِمْ لِيْ عَلٰى اَرْشَدِ اَمْرِيْ اَللّٰهُمَّ اغْفِرْ لِيْ مَا اَسْرَرْتُ وَمَا اَعْلَنْتُ، وَمَا اَخْطَاْتُ وَمَا عَمَدْتُّ، وَمَا جَهِلْتُ.",
+        "clean": "اللهم قني شر نفسي واعزم لي علي ارشد امري اللهم اغفر لي ما اسررت وما اعلنت وما اخطات وما عمدت وما جهلت",
+        "transliteration": "Allaahumma qini sharra nafsi, wa’jim lee alaa arshadi amri, Allaahummaghfir lee maa as’rartu wa maa a’lantu wa maa akhta’tu wa maa amadtu wa maa jahiltu.",
+        "reference": "Sahih (Shuaib al-Arnaut). Musnad Ahmad 19992",
+        "audio": null,
+        "cat_id": 5,
+        "subcat_id": 13
+      },
+      "source": {
+        "name": "Dua to stay safe from the evil of the nafs",
+        "content": null,
+        "translation": "O Allah, keep me safe from the evil of my soul. Give me a strong will to do good in all things. O Allah, forgive me all that I have done openly and secretly, that which I have done willingly and unwillingly, and that which I have done in ignorance.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        868
+      ],
+      "id": 868,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 868,
+        "groups": null,
+        "uthmani": "اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلَّهِ اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ اَلسَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَّا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ",
+        "indopak": "اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلّٰهِ اَلسَّلَامُ عَلَيْكَ اَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللّٰهِ الصَّالِحِيْنَ اَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اللّٰهُ وَاَشْهَدُ اَنَّ مُحَمَّدًا رَّسُوْلُ اللّٰهِ",
+        "clean": "التحيات المباركات الصلوات الطيبات لله السلام عليك ايها النبي ورحمه الله وبركاته السلام علينا وعلي عباد الله الصالحين اشهد ان لا اله الا الله واشهد ان محمدا رسول الله",
+        "transliteration": "Attahiyyaatul muba’rakaatus salawaatut, tayyibaatu lillaahi, assalaamu 'alayka 'ayyuhan-Nabiyyu wa rahmatullaahi wa barakaatuhu, assalaamu 'alaynaa wa 'alaa 'ibaadillaahis-saaliheen. 'Ash-hadu 'an laa 'ilaaha 'illAllahu wa 'ash-hadu 'anna Muhammadar Rasoolullaah.",
+        "reference": "Muslim: 403",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 39
+      },
+      "source": {
+        "name": "Tashahhud #1",
+        "content": null,
+        "translation": "All the blessed compliments and all the holy prayers are only for Allah. Peace be on you, O Prophet, and Allah’s mercy and blessings (are on you). And peace be on us and on the good (pious) worshipers of Allah.I bear witness that there is no true God except Allah. I further testify that Muhammad (peace be upon him) is the Messenger of Allah.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        869
+      ],
+      "id": 869,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 869,
+        "groups": null,
+        "uthmani": "اَلتَّحِيَّاتُ لِلَّهِ اَلزَّاكِيَاتُ لِلَّهِ، اَلطَّيِّبَاتُ الصَّلَوَتُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهٗ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهٗ ورَسُولُهُ",
+        "indopak": "اَلتَّحِيَّاتُ لِلّٰهِ اَلزَّاكِيَاتُ لِلّٰهِ، اَلطَّيِّبَاتُ الصَّلَوَاتُ لِلّٰهِ، اَلسَّلَامُ عَلَيْكَ اَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللّٰهِ الصَّالِحِيْنَ، اَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اللّٰهُ، وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهُ ورَسُوْلُهُ",
+        "clean": "التحيات لله الزاكيات لله الطيبات الصلوات لله السلام عليك ايها النبي ورحمه الله وبركاته السلام علينا وعلي عباد الله الصالحين اشهد ان لا اله الا الله واشهد ان محمدا عبده ورسوله",
+        "transliteration": "Attahiyyaatu lillaahi ajjakiyaatu lillaahi,  Attayyibaatus salawaatu lillaahi, assalaamu 'alayka 'ayyuhan-Nabiyyu wa rahmatullaahi wa barakaatuhu, assalaamu 'alaynaa wa 'alaa 'ibaadillaahis-saaliheen. 'Ash-hadu 'an laa 'ilaaha 'illAllahu wa 'ash-hadu 'anna Muhammadan 'abduhu wa Rasooluh.",
+        "reference": "Sahih (Albani). Sifatus Salah, p. 163",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 39
+      },
+      "source": {
+        "name": "Tashahhud #2",
+        "content": null,
+        "translation": "All the blessed compliments, all the good deeds and all the holy prayers are only for Allah. Peace be on you, O Prophet, and Allah’s mercy and blessings (are on you). And peace be on us and on the good (pious) worshipers of Allah. I bear witness that there is no true God except Allah. I further testify that Muhammad (peace be upon him) is the Messenger of Allah.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        870
+      ],
+      "id": 870,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 870,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ مُبَارَكًا عَلَيْهِ كَمَا يُحِبُّ رَبُّنَا وَيَرْضَى",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ حَمْدًا كَثِيْرًا طَيِّبًا مُّبَارَكًا فِيْهِ مُبَارَكًا عَلَيْهِ كَمَا يُحِبُّ رَبُّنَا وَيَرْضٰى",
+        "clean": "الحمد لله حمدا كثيرا طيبا مباركا فيه مباركا عليه كما يحب ربنا ويرضي",
+        "transliteration": "Alhamdulillaahi hamdan kathiran tayyiban mubaarakan fih, mubarakan 'alayhi, kama yuhibbu rabbuna wa yarda.",
+        "reference": "Hassan (Albani). An-Nasai: 930",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 42
+      },
+      "source": {
+        "name": "If you sneeze during the prayer",
+        "content": null,
+        "translation": "Praise be to Allah, much good and blessed praise as our Lord loves and is pleased with.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        871
+      ],
+      "id": 871,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 871,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ لَكَ رَكَعْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، أَنْتَ رَبِّي، خَشَعَ لَكَ سَمْعِي وَبَصَرِي وَمُخِّي وَعَظْمِي وَعَصَبِي وَمَا اِسْتَقَلَّتْ بِهِ قَدَمِي لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "indopak": "اَللّٰهُمَّ لَكَ رَكَعْتُ، وَبِكَ اٰمَنْتُ، وَلَكَ اَسْلَمْتُ، اَنْتَ رَبِّيْ، خَشَعَ لَكَ سَمْعِيْ وَبَصَرِيْ وَمُخِّيْ وَعَظْمِيْ وَعَصَبِيْ وَمَا اِسْتَقَلَّتْ بِهِ قَدَمِيْ لِلّٰهِ رَبِّ الْعَالَمِيْنَ",
+        "clean": "اللهم لك ركعت وبك امنت ولك اسلمت انت ربي خشع لك سمعي وبصري ومخي وعظمي وعصبي وما استقلت به قدمي لله رب العالمين",
+        "transliteration": "Allahumma laka raka’tu wa bika amantu wa laka aslamtu, anta rabbi khasha’a laka sam’i wa basari wa mukh-khi wa ‘azmi wa ‘asabi wa ma istaqallat bihi qadami lillahi rabbil ‘alamin",
+        "reference": "Sahih (Al-Aini). Nukhbul Afkaar 4/247",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 33
+      },
+      "source": {
+        "name": "Dua in rukoo #9",
+        "content": null,
+        "translation": "O Allah, I have bowed down to You, I have believed, I have surrendered. You are my Rabb, my ear-eye, my brain, my bones, my spine and my legs, all that you are carrying (i.e. my existence) have been humbled before Allah Almighty.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        872
+      ],
+      "id": 872,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 872,
+        "groups": null,
+        "uthmani": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلَا إِلٰهَ غَيْرُكَ",
+        "indopak": "سُبْحَانَكَ اللّٰهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالٰى جَدُّكَ، وَلَا اِلٰهَ غَيْرُكَ",
+        "clean": "سبحانك اللهم وبحمدك وتبارك اسمك وتعالي جدك ولا اله غيرك",
+        "transliteration": "Subhaanaka Allaahumma wa bihamdika, wa tabaarakasmuka, wa ta'aalaa jadduka, wa laa 'ilaaha ghayruk.",
+        "reference": "Muslim: 399",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 31
+      },
+      "source": {
+        "name": "At the beginning of the prayer #1",
+        "content": null,
+        "translation": "Glory is to You O Allah, and praise. Blessed is Your Name and Exalted is Your Majesty. There is none worthy of worship but You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        873
+      ],
+      "id": 873,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 873,
+        "groups": null,
+        "uthmani": "سُبْحَانَكَ اَللَّهُمَّ وَبِحَمْدِكَ لَا إِلَهَ إِلَّا أَنْتَ",
+        "indopak": "سُبْحَانَكَ اَللّٰهُمَّ وَبِحَمْدِكَ لَا اِلٰهَ اِلَّا اَنْتَ",
+        "clean": "سبحانك اللهم وبحمدك لا اله الا انت",
+        "transliteration": "Subhaanaka allahumma wa bihamdika, laa ilaaha illaa anta.",
+        "reference": "Sahih (Albani). Nasai: 1131",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 33
+      },
+      "source": {
+        "name": "Dua in rukoo #10",
+        "content": null,
+        "translation": "O Allah glory is to You; there is no worthy of worship except You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        874
+      ],
+      "id": 874,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 874,
+        "groups": null,
+        "uthmani": "لِرَبِّيَ الْحَمْدُ",
+        "indopak": "لِرَبِّيَ الْحَمْدُ",
+        "clean": "لربي الحمد",
+        "transliteration": "li-rabbi-al hamd",
+        "reference": "Sahih (Al-Albani). Abu Dawud: 874",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 35
+      },
+      "source": {
+        "name": "Dua while in a state of rukoo #7",
+        "content": null,
+        "translation": "To my Lord belongs all praise",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        875
+      ],
+      "id": 875,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 875,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكَسَلِ، وَأَعُوْذُ بِكَ مِنَ الْجُبْنِ، وَأَعُوْذُ بِكَ مِنَ الْهَرَمِ، وَأَعُوْذُ بِكَ مِنَ الْبُخْلِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنَ الْكَسَلِ، وَاَعُوْذُ بِكَ مِنَ الْجُبْنِ، وَاَعُوْذُ بِكَ مِنَ الْهَرَمِ، وَاَعُوْذُ بِكَ مِنَ الْبُخْلِ",
+        "clean": "اللهم اني اعوذ بك من الكسل واعوذ بك من الجبن واعوذ بك من الهرم واعوذ بك من البخل",
+        "transliteration": "Allaahumma innee A‛oodhu bika minal kasali, wa A‛oodhu bika minal jubni, wa A‛oodhu bika minal harami, wa A‛oodhu bika minal bukhl.",
+        "reference": "Bukhari: 6371",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #16",
+        "content": null,
+        "translation": "O Allah! I seek refuge with You from laziness, and seek refuge with You from cowardice, and seek refuge with You from geriatric old age, and seek refuge with You from miserliness.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        876
+      ],
+      "id": 876,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 876,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَوَاتِ وَمِلْءَ الأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَىْءٍ بَعْدُ، اَللَّهُمَّ طَهِّرْنِي بِالثَّلْجِ وَالْبَرَدِ وَالْمَاءِ الْبَارِدِ اَللَّهُمَّ طَهِّرْنِي مِنَ الذُّنُوبِ وَالْخَطَايَا كَمَا يُنَقَّى الثَّوْبُ الأَبْيَضُ مِنَ الْوَسَخِ",
+        "indopak": "اَللّٰهُمَّ رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمٰوَاتِ وَمِلْءَ الْاَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَىْءٍ بَعْدُ، اَللّٰهُمَّ طَهِّرْنِيْ بِالثَّلْجِ وَالْبَرَدِ وَالْمَاءِ الْبَارِدِ اَللّٰهُمَّ طَهِّرْنِيْ مِنَ الذُّنُوْبِ وَالْخَطَايَا كَمَا يُنَقَّى الثَّوْبُ الْاَبْيَضُ مِنَ الْوَسَخِ",
+        "clean": "اللهم ربنا لك الحمد ملء السموات وملء الارض وملء ما شءت من شيء بعد اللهم طهرني بالثلج والبرد والماء البارد اللهم طهرني من الذنوب والخطايا كما ينقي الثوب الابيض من الوسخ",
+        "transliteration": "Allaahumma, rabbanaa lakal ‘hamdu, mil-as samawaati wa mil-al ardi wa mil-aa maa shi’ta min shayin ba’du, Allaahumma tah-hirni bith-thalji wal baaradi wal ma-il baarad, Allaahumma tah-hirni minadh dhunubi wal khataaya kamaa yunakkath thawbul abyadu minal wasakh.",
+        "reference": "Muslim: 476",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 35
+      },
+      "source": {
+        "name": "Dua while in a state of rukoo #8",
+        "content": null,
+        "translation": "O Allah! our Lord, unto Thee be praise that would fill the heavens and the earth and fill that which will please Thee besides (them). O Allah! purify me with snow, (water of) hail and with cold water; O Allah. cleanse me from the sins and errors just as a white garment is cleansed from dirt.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    }
+  ]
+}

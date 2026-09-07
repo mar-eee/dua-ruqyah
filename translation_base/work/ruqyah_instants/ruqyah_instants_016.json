@@ -1,0 +1,252 @@
+{
+  "table": "ruqyah_instants",
+  "chunk": "ruqyah_instants_016.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 8,
+  "id_range": "216-223",
+  "source_chars": 5720,
+  "items": [
+    {
+      "key": [
+        216
+      ],
+      "id": 216,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 216,
+        "topic_id": 1,
+        "uthmani": "أَفَمَن كَانَ مُؤْمِنًا كَمَن كَانَ فَاسِقًا ۚ لَّا يَسْتَوُونَ ﴿١٨﴾ أَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ جَنَّاتُ الْمَأْوَىٰ نُزُلًا بِمَا كَانُوا يَعْمَلُونَ ﴿١٩﴾ وَأَمَّا الَّذِينَ فَسَقُوا فَمَأْوَاهُمُ النَّارُ ۖ كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا أُعِيدُوا فِيهَا وَقِيلَ لَهُمْ ذُوقُوا عَذَابَ النَّارِ الَّذِي كُنتُم بِهِ تُكَذِّبُونَ ﴿٢٠﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/79.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "As-Sajdah 32:18-20",
+        "content": null,
+        "translation": "(18) Then is one who was a believer like one who was defiantly disobedient? They are not equal. (19) As for those who believed and did righteous deeds, for them will be the Gardens of Refuge as accommodation for what they used to do. (20) But as for those who defiantly disobeyed, their refuge is the Fire. Every time they wish to emerge from it, they will be returned to it while it is said to them, \"Taste the punishment of the Fire which you used to deny.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        217
+      ],
+      "id": 217,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 217,
+        "topic_id": 1,
+        "uthmani": "وَالصَّافَّاتِ صَفًّا ﴿١﴾ فَالزَّاجِرَاتِ زَجْرًا ﴿٢﴾ فَالتَّالِيَاتِ ذِكْرًا ﴿٣﴾ إِنَّ إِلَٰهَكُمْ لَوَاحِدٌ ﴿٤﴾ رَّبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِ ﴿٥﴾ إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ ﴿٦﴾ وَحِفْظًا مِّن كُلِّ شَيْطَانٍ مَّارِدٍ ﴿٧﴾ لَّا يَسَّمَّعُونَ إِلَى الْمَلَإِ الْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ ﴿٨﴾ دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ ﴿٩﴾ إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ ﴿١٠﴾ فَاسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَا ۚ إِنَّا خَلَقْنَاهُم مِّن طِينٍ لَّازِبٍ ﴿١١﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/80.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "As-Saaffaat 37:1-11",
+        "content": null,
+        "translation": "(1) By those [angels] lined up in rows (2) And those who drive [the clouds] (3) And those who recite the message, (4) Indeed, your God is One, (5) Lord of the heavens and the earth and that between them and Lord of the sunrises. (6) Indeed, We have adorned the nearest heaven with an adornment of stars (7) And as protection against every rebellious devil (8) [So] they may not listen to the exalted assembly [of angels] and are pelted from every side, (9) Repelled; and for them is a constant punishment, (10) Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness]. (11) Then inquire of them, [O Muhammad], \"Are they a stronger [or more difficult] creation or those [others] We have created?\" Indeed, We created men from sticky clay."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        218
+      ],
+      "id": 218,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 218,
+        "topic_id": 1,
+        "uthmani": "إِنَّ الْمُجْرِمِينَ فِي عَذَابِ جَهَنَّمَ خَالِدُونَ ﴿٧٤﴾ لَا يُفَتَّرُ عَنْهُمْ وَهُمْ فِيهِ مُبْلِسُونَ ﴿٧٥﴾ وَمَا ظَلَمْنَاهُمْ وَلَٰكِن كَانُوا هُمُ الظَّالِمِينَ ﴿٧٦﴾ وَنَادَوْا يَا مَالِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّاكِثُونَ ﴿٧٧﴾ لَقَدْ جِئْنَاكُم بِالْحَقِّ وَلَٰكِنَّ أَكْثَرَكُمْ لِلْحَقِّ كَارِهُونَ ﴿٧٨﴾ أَمْ أَبْرَمُوا أَمْرًا فَإِنَّا مُبْرِمُونَ ﴿٧٩﴾ أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَاهُم ۚ بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ ﴿٨٠﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/81.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Az-Zukhruf 43:74-80",
+        "content": null,
+        "translation": "(74) Indeed, the criminals will be in the punishment of Hell, abiding eternally. (75) It will not be allowed to subside for them, and they, therein, are in despair. (76) And We did not wrong them, but it was they who were the wrongdoers. (77) And they will call, \"O Malik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (78) We had certainly brought you the truth, but most of you, to the truth, were averse. (79) Or have they devised [some] affair? But indeed, We are devising [a plan]. (80) Or do they think that We hear not their secrets and their private conversations? Yes, [We do], and Our messengers are with them recording."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        219
+      ],
+      "id": 219,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 219,
+        "topic_id": 1,
+        "uthmani": "حم ﴿١﴾ وَالْكِتَابِ الْمُبِينِ ﴿٢﴾ إِنَّا أَنزَلْنَاهُ فِي لَيْلَةٍ مُّبَارَكَةٍ ۚ إِنَّا كُنَّا مُنذِرِينَ ﴿٣﴾ فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ ﴿٤﴾ أَمْرًا مِّنْ عِندِنَا ۚ إِنَّا كُنَّا مُرْسِلِينَ ﴿٥﴾ رَحْمَةً مِّن رَّبِّكَ ۚ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ ﴿٦﴾ رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ إِن كُنتُم مُّوقِنِينَ ﴿٧﴾ لَا إِلَٰهَ إِلَّا هُوَ يُحْيِي وَيُمِيتُ ۖ رَبُّكُمْ وَرَبُّ آبَائِكُمُ الْأَوَّلِينَ ﴿٨﴾ بَلْ هُمْ فِي شَكٍّ يَلْعَبُونَ ﴿٩﴾ فَارْتَقِبْ يَوْمَ تَأْتِي السَّمَاءُ بِدُخَانٍ مُّبِينٍ ﴿١٠﴾ يَغْشَى النَّاسَ ۖ هَٰذَا عَذَابٌ أَلِيمٌ ﴿١١﴾ رَّبَّنَا اكْشِفْ عَنَّا الْعَذَابَ إِنَّا مُؤْمِنُونَ ﴿١٢﴾ أَنَّىٰ لَهُمُ الذِّكْرَىٰ وَقَدْ جَاءَهُمْ رَسُولٌ مُّبِينٌ ﴿١٣﴾ ثُمَّ تَوَلَّوْا عَنْهُ وَقَالُوا مُعَلَّمٌ مَّجْنُونٌ ﴿١٤﴾ إِنَّا كَاشِفُو الْعَذَابِ قَلِيلًا ۚ إِنَّكُمْ عَائِدُونَ ﴿١٥﴾ يَوْمَ نَبْطِشُ الْبَطْشَةَ الْكُبْرَىٰ إِنَّا مُنتَقِمُونَ ﴿١٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/82.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ad-Dukhan 44:1-16",
+        "content": null,
+        "translation": "(1) Ha, Meem. (2) By the clear Book, (3) Indeed, We sent it down during a blessed night. Indeed, We were to warn [mankind]. (4) On that night is made distinct every precise matter - (5) [Every] matter [proceeding] from Us. Indeed, We were to send [a messenger] (6) As mercy from your Lord. Indeed, He is the Hearing, the Knowing. (7) Lord of the heavens and the earth and that between them, if you would be certain. (8) There is no deity except Him; He gives life and causes death. [He is] your Lord and the Lord of your first forefathers. (9) But they are in doubt, amusing themselves. (10) Then watch for the Day when the sky will bring a visible smoke. (11) Covering the people; this is a painful torment. (12) [They will say], \"Our Lord, remove from us the torment; indeed, we are believers.\" (13) How will there be for them a reminder [at that time]? And there had come to them a clear Messenger. (14) Then they turned away from him and said, \"[He was] taught [and is] a madman.\" (15) Indeed, We will remove the torment for a little. Indeed, you [disbelievers] will return [to disbelief]. (16) The Day We will strike with the greatest assault, indeed, We will take retribution."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        220
+      ],
+      "id": 220,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 220,
+        "topic_id": 1,
+        "uthmani": "إِنَّ شَجَرَتَ الزَّقُّومِ ﴿٤٣﴾ طَعَامُ الْأَثِيمِ ﴿٤٤﴾ كَالْمُهْلِ يَغْلِي فِي الْبُطُونِ ﴿٤٥﴾ كَغَلْيِ الْحَمِيمِ ﴿٤٦﴾ خُذُوهُ فَاعْتِلُوهُ إِلَىٰ سَوَاءِ الْجَحِيمِ ﴿٤٧﴾ ثُمَّ صُبُّوا فَوْقَ رَأْسِهِ مِنْ عَذَابِ الْحَمِيمِ ﴿٤٨﴾ ذُقْ إِنَّكَ أَنتَ الْعَزِيزُ الْكَرِيمُ ﴿٤٩﴾ إِنَّ هَٰذَا مَا كُنتُم بِهِ تَمْتَرُونَ ﴿٥٠﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/83.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ad-Dukhan 44:43-50",
+        "content": null,
+        "translation": "(43) Indeed, the tree of zaqqum (44) Is food for the sinful. (45) Like murky oil, it boils within bellies (46) Like the boiling of scalding water. (47) [It will be commanded], \"Seize him and drag him into the midst of the Hellfire, (48) Then pour over his head from the torment of scalding water.\" (49) [It will be said], \"Taste! Indeed, you are the honored, the noble! (50) Indeed, this is what you used to dispute.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        221
+      ],
+      "id": 221,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 221,
+        "topic_id": 1,
+        "uthmani": "وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ ﴿٧﴾ يَسْمَعُ آيَاتِ اللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ ﴿٨﴾ وَإِذَا عَلِمَ مِنْ آيَاتِنَا شَيْئًا اتَّخَذَهَا هُزُوًا ۚ أُولَٰئِكَ لَهُمْ عَذَابٌ مُّهِينٌ ﴿٩﴾ مِّن وَرَائِهِمْ جَهَنَّمُ ۖ وَلَا يُغْنِي عَنْهُم مَّا كَسَبُوا شَيْئًا وَلَا مَا اتَّخَذُوا مِن دُونِ اللَّهِ أَوْلِيَاءَ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ ﴿١٠﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/84.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Jathiyah 45:7-10",
+        "content": null,
+        "translation": "(7) Woe to every sinful liar (8) Who hears the verses of Allah recited to him, then persists arrogantly as if he had not heard them. So give him tidings of a painful punishment. (9) And when he knows anything of Our verses, he takes them in ridicule. Those will have a humiliating punishment. (10) Before them is Hell, and what they had earned will not avail them at all nor what they had taken besides Allah as allies. And they will have a great punishment."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        222
+      ],
+      "id": 222,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 222,
+        "topic_id": 1,
+        "uthmani": "وَقَالَ قَرِينُهُ هَٰذَا مَا لَدَيَّ عَتِيدٌ ﴿٢٣﴾ أَلْقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ ﴿٢٤﴾ مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ مُّرِيبٍ ﴿٢٥﴾ الَّذِي جَعَلَ مَعَ اللَّهِ إِلَٰهًا آخَرَ فَأَلْقِيَاهُ فِي الْعَذَابِ الشَّدِيدِ ﴿٢٦﴾ ۞ قَالَ قَرِينُهُ رَبَّنَا مَا أَطْغَيْتُهُ وَلَٰكِن كَانَ فِي ضَلَالٍ بَعِيدٍ ﴿٢٧﴾ قَالَ لَا تَخْتَصِمُوا لَدَيَّ وَقَدْ قَدَّمْتُ إِلَيْكُم بِالْوَعِيدِ ﴿٢٨﴾ مَا يُبَدَّلُ الْقَوْلُ لَدَيَّ وَمَا أَنَا بِظَلَّامٍ لِّلْعَبِيدِ ﴿٢٩﴾ يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ امْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ ﴿٣٠﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/85.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Qaf 50:23-30",
+        "content": null,
+        "translation": "(23) And his companion, [the angel], will say, \"This [record] is what is with me, prepared.\" (24) [ Allah will say], \"Throw into Hell every obstinate disbeliever, (25) Preventer of good, aggressor, and doubter, (26) Who made [as equal] with Allah another deity; then throw him into the severe punishment.\" (27) His [devil] companion will say, \"Our Lord, I did not make him transgress, but he [himself] was in extreme error.\" (28) [ Allah ] will say, \"Do not dispute before Me, while I had already presented to you the warning. (29) The word will not be changed with Me, and never will I be unjust to the servants.\" (30) On the Day We will say to Hell, \"Have you been filled?\" and it will say, \"Are there some more,\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        223
+      ],
+      "id": 223,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 223,
+        "topic_id": 1,
+        "uthmani": "أَكُفَّارُكُمْ خَيْرٌ مِّنْ أُولَٰئِكُمْ أَمْ لَكُم بَرَاءَةٌ فِي الزُّبُرِ ﴿٤٣﴾ أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُّنتَصِرٌ ﴿٤٤﴾ سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ ﴿٤٥﴾ بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ أَدْهَىٰ وَأَمَرُّ ﴿٤٦﴾ إِنَّ الْمُجْرِمِينَ فِي ضَلَالٍ وَسُعُرٍ ﴿٤٧﴾ يَوْمَ يُسْحَبُونَ فِي النَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا مَسَّ سَقَرَ ﴿٤٨﴾ إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ ﴿٤٩﴾ وَمَا أَمْرُنَا إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ ﴿٥٠﴾ وَلَقَدْ أَهْلَكْنَا أَشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍ ﴿٥١﴾ وَكُلُّ شَيْءٍ فَعَلُوهُ فِي الزُّبُرِ ﴿٥٢﴾ وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُّسْتَطَرٌ ﴿٥٣﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/86.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Qamar 54:43-53",
+        "content": null,
+        "translation": "(43) Are your disbelievers better than those [former ones], or have you immunity in the scripture? (44) Or do they say, \"We are an assembly supporting [each other]\"? (45) [Their] assembly will be defeated, and they will turn their backs [in retreat]. (46) But the Hour is their appointment [for due punishment], and the Hour is more disastrous and more bitter. (47) Indeed, the criminals are in error and madness. (48) The Day they are dragged into the Fire on their faces [it will be said], \"Taste the touch of Saqar.\" (49) Indeed, all things We created with predestination. (50) And Our command is but one, like a glance of the eye. (51) And We have already destroyed your kinds, so is there any who will remember? (52) And everything they did is in written records. (53) And every small and great [thing] is inscribed."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    }
+  ]
+}

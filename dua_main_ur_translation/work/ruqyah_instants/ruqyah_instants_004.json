@@ -1,0 +1,372 @@
+{
+  "table": "ruqyah_instants",
+  "chunk": "ruqyah_instants_004.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 12,
+  "id_range": "41-52",
+  "source_chars": 5396,
+  "items": [
+    {
+      "key": [
+        41
+      ],
+      "id": 41,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 41,
+        "topic_id": 1,
+        "uthmani": "لِّلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَإِن تُبْدُوا مَا فِي أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ اللَّهُ ۖ فَيَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿٢٨٤﴾ آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ ﴿٢٨٥﴾ لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ ﴿٢٨٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/7.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:284-286",
+        "content": null,
+        "translation": "(284) To Allah belongs whatever is in the heavens and whatever is in the earth. Whether you show what is within yourselves or conceal it, Allah will bring you to account for it. Then He will forgive whom He wills and punish whom He wills, and Allah is over all things competent. (285) The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], \"We make no distinction between any of His messengers.\" And they say, \"We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.\" (286) Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        42
+      ],
+      "id": 42,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 42,
+        "topic_id": 2,
+        "uthmani": "بِسْمِ اللهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+        "transliteration": "Bismillahi alladhi la yadurru ma' ismihi shai'un fil-ardi wa-laa fil-samaa'i wa huwas Samee'ul 'Aleem.",
+        "reference": "Sunan Abu Dawud: 5088",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/7.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud : 5088",
+        "content": "Say three times:",
+        "translation": "In the name of Allah, with whose name nothing in the heavens or the earth can cause any harm, and He is the All-Hearing, All-Knowing.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": "",
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        43
+      ],
+      "id": 43,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 43,
+        "topic_id": 1,
+        "uthmani": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ﴿١﴾ مِن شَرِّ مَا خَلَقَ ﴿٢﴾ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿٣﴾ وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ﴿٤﴾ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/brief/8.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Falaq 113:1-5",
+        "content": null,
+        "translation": "(1) Say, \"I seek refuge in the Lord of daybreak (2) From the evil of that which He created (3) And from the evil of darkness when it settles (4) And from the evil of the blowers in knots (5) And from the evil of an envier when he envies.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        44
+      ],
+      "id": 44,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 44,
+        "topic_id": 2,
+        "uthmani": "أَذْهِبِ الْبَأْسَ، رَبَّ النَّاسِ، وَاشْفِ أَنْتَ الشَّافِي، لاَ شِفَاءَ إِلاَّ شِفَاؤُكَ، شِفَاءً لاَ يُغَادِرُ سَقَمًا.",
+        "transliteration": "Adhhibil Ba'as, Rabbannas, Washfi Antash-Shafi, La-Shifa-A Illa-Shifa-Uka. Shifa-an la-yuga-diru saqama.",
+        "reference": "Sahih Al-Bukhari: 5675, Sahih Muslim: 2191",
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/brief/8.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Al-Bukhari : 5675",
+        "content": null,
+        "translation": "O Allah, Lord of mankind! It is You Who removes suffering. You are the Healer, and none can heal but You. I beg You to bring about healing that leaves behind no ailment."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        45
+      ],
+      "id": 45,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 45,
+        "topic_id": 1,
+        "uthmani": "الم ﴿١﴾ اللَّـهُ لَا إِلَـٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ﴿٢﴾ نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ التَّوْرَاةَ وَالْإِنجِيلَ ﴿٣﴾ مِن قَبْلُ هُدًى لِّلنَّاسِ وَأَنزَلَ الْفُرْقَانَ ۗ إِنَّ الَّذِينَ كَفَرُوا بِآيَاتِ اللَّـهِ لَهُمْ عَذَابٌ شَدِيدٌ ۗ وَاللَّـهُ عَزِيزٌ ذُو انتِقَامٍ ﴿٤﴾ إِنَّ اللَّـهَ لَا يَخْفَىٰ عَلَيْهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ ﴿٥﴾ هُوَ الَّذِي يُصَوِّرُكُمْ فِي الْأَرْحَامِ كَيْفَ يَشَاءُ ۚ لَا إِلَـٰهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ ﴿٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/8.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ali 'Imran 3:1-6",
+        "content": null,
+        "translation": "(1) Alif, Lam, Meem. (2) Allah - there is no deity except Him, the Ever-Living, the Sustainer of existence. (3) He has sent down upon you, [O Muhammad], the Book in truth, confirming what was before it. And He revealed the Torah and the Gospel. (4) Before, as guidance for the people. And He revealed the Qur'an. Indeed, those who disbelieve in the verses of Allah will have a severe punishment, and Allah is exalted in Might, the Owner of Retribution. (5) Indeed, from Allah nothing is hidden in the earth nor in the heaven. (6) It is He who forms you in the wombs however He wills. There is no deity except Him, the Exalted in Might, the Wise."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        46
+      ],
+      "id": 46,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 46,
+        "topic_id": 2,
+        "uthmani": "بِسْمِ اللّٰهِ أَرْقِيْكَ مِنْ كُلِّ شَيْءٍ يُؤْذِيْكَ، مِنْ شَرِّ كُلِّ نَفْسٍ أَوْ عَيْنِ حَاسِدٍ، اللّٰهُ يَشْفِيْكَ، بِاسْمِ اللّٰهِ أَرْقِيْكَ.",
+        "transliteration": "Bismillah-hi Arqik, Min Kulli Shayin Yu'zik, Min Sharri Kulli Nafsin aw ‘Ainin Ha-Sidin, Alla-hu Yashfik, Bismillahi Arqik.",
+        "reference": "Sahih Muslim: 2186",
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/med/8.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Muslim : 2186",
+        "content": null,
+        "translation": "In the name of Allah I am doing this Ruqyah unto you to get rid of what is harming you and of the evil of spirits and envious eyes. May Allah grant you healing! In the name of Allah I am doing this Ruqyah unto you.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        47
+      ],
+      "id": 47,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 47,
+        "topic_id": 1,
+        "uthmani": "الم ﴿١﴾ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ﴿٢﴾ نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ التَّوْرَاةَ وَالْإِنجِيلَ ﴿٣﴾ مِن قَبْلُ هُدًى لِّلنَّاسِ وَأَنزَلَ الْفُرْقَانَ ۗ إِنَّ الَّذِينَ كَفَرُوا بِآيَاتِ اللَّهِ لَهُمْ عَذَابٌ شَدِيدٌ ۗ وَاللَّهُ عَزِيزٌ ذُو انتِقَامٍ ﴿٤﴾ إِنَّ اللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ ﴿٥﴾ هُوَ الَّذِي يُصَوِّرُكُمْ فِي الْأَرْحَامِ كَيْفَ يَشَاءُ ۚ لَا إِلَٰهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ ﴿٦﴾ هُوَ الَّذِي أَنزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُّحْكَمَاتٌ هُنَّ أُمُّ الْكِتَابِ وَأُخَرُ مُتَشَابِهَاتٌ ۖ فَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَاءَ الْفِتْنَةِ وَابْتِغَاءَ تَأْوِيلِهِ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهُ ۗ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ كُلٌّ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ ﴿٧﴾ رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ الْوَهَّابُ ﴿٨﴾ رَبَّنَا إِنَّكَ جَامِعُ النَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ اللَّهَ لَا يُخْلِفُ الْمِيعَادَ ﴿٩﴾ إِنَّ الَّذِينَ كَفَرُوا لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا ۖ وَأُولَٰئِكَ هُمْ وَقُودُ النَّارِ ﴿١٠﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/8.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ali 'Imran 3:1-10",
+        "content": null,
+        "translation": "(1) Alif, Lam, Meem. (2) Allah - there is no deity except Him, the Ever-Living, the Sustainer of existence. (3) He has sent down upon you, [O Muhammad], the Book in truth, confirming what was before it. And He revealed the Torah and the Gospel. (4) Before, as guidance for the people. And He revealed the Qur'an. Indeed, those who disbelieve in the verses of Allah will have a severe punishment, and Allah is exalted in Might, the Owner of Retribution. (5) Indeed, from Allah nothing is hidden in the earth nor in the heaven. (6) It is He who forms you in the wombs however He wills. There is no deity except Him, the Exalted in Might, the Wise. (7) It is He who has sent down to you, [O Muhammad], the Book; in it are verses [that are] precise - they are the foundation of the Book - and others unspecific. As for those in whose hearts is deviation [from truth], they will follow that of it which is unspecific, seeking discord and seeking an interpretation [suitable to them]. And no one knows its [true] interpretation except Allah . But those firm in knowledge say, \"We believe in it. All [of it] is from our Lord.\" And no one will be reminded except those of understanding. (8) [Who say], \"Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower. (9) Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allah does not fail in His promise.\" (10) Indeed, those who disbelieve - never will their wealth or their children avail them against Allah at all. And it is they who are fuel for the Fire."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        48
+      ],
+      "id": 48,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 48,
+        "topic_id": 2,
+        "uthmani": "بِسْمِ اللهِ، أَعُوْذُ بِكَلِمَاتِ اللهِ التَّامَّةِ مِنْ غَضَبِهِ وَعِقَابِهِ وَشَرِّ عِبَادِهِ، وَمِنْ هَمَزَاتِ الشَّيَاطِيْنِ وَأَنْ يَحْضُرُوْنِ",
+        "transliteration": "Bismillahi. A`udhu Bikalimatillahit-Tammati Min Ghadabihi Wa `Iqabih, Wa Sharri `Ibadihi Wa Min Hamazatish-Shayatini Wa ‘An Yahdurun.",
+        "reference": "Sunan Abu-Daawud: 3893, Musnad Al-Imam Ahmad: 2/181, Muwatta' Al-Imam Malik: 51/4",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/8.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud : 3893",
+        "content": null,
+        "translation": "In the name of Allah, I seek refuge in Allah's perfect words from His wrath and punishment, from the evil of His slaves, and from Satan's whispers and presence."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        49
+      ],
+      "id": 49,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 49,
+        "topic_id": 1,
+        "uthmani": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ ﴿١﴾ مَلِكِ النَّاسِ ﴿٢﴾ إِلَـٰهِ النَّاسِ ﴿٣﴾ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ﴿٤﴾ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ﴿٥﴾ مِنَ الْجِنَّةِ وَالنَّاسِ ﴿٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/brief/9.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "An-Nas 114:1-6",
+        "content": null,
+        "translation": "(1) Say, \"I seek refuge in the Lord of mankind, (2) The Sovereign of mankind. (3) The God of mankind, (4) From the evil of the retreating whisperer - (5) Who whispers [evil] into the breasts of mankind - (6) From among the jinn and mankind.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        50
+      ],
+      "id": 50,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 50,
+        "topic_id": 2,
+        "uthmani": "اَللّٰهُمَّ بَارِكْ عَلَيْهِ وَأَذْهِبْ عَنْهُ حَرَّ الْعَيْنِ وَبَرْدَهَا وَوَصَبَهَا",
+        "transliteration": "Allahumma baarik ‘alaihi wa adh-hib ‘anhu harril ‘aini wa bardahaa wa wasabahaa.",
+        "reference": "Musnad Al-Imam Ahmad: 3/447, Al-Haakim's Al-Mustadrak, No. 3/411, Ibn Al-Atheer's Annihaayah, No. 5/116",
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/brief/9.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Musnad Ahmad : 3/447",
+        "content": null,
+        "translation": "O Allah, I beg You to grant him Your blessings, to rid him of the evil eye's heat, cold and aches."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        51
+      ],
+      "id": 51,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 51,
+        "topic_id": 1,
+        "uthmani": "شَهِدَ اللَّـهُ أَنَّهُ لَا إِلَـٰهَ إِلَّا هُوَ وَالْمَلَائِكَةُ وَأُولُو الْعِلْمِ قَائِمًا بِالْقِسْطِ ۚ لَا إِلَـٰهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ ﴿١٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/9.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ali 'Imran 3:18",
+        "content": null,
+        "translation": "(18) Allah witnesses that there is no deity except Him, and [so do] the angels and those of knowledge - [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        52
+      ],
+      "id": 52,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 52,
+        "topic_id": 2,
+        "uthmani": "بِسْمِ اللّٰهِ، تُرْبَةُ أَرْضِنَا بِرِيْقَةِ بَعْضِنَا، يُشْفَىٰ سَقِيْمُنَا بِإِذْنِ رَبِّنَا",
+        "transliteration": "Bismillah. Turbatu Ardina, Biriqqati Ba'adina, Yushfa Saqimuna, Bi-idhni Rabbina-.",
+        "reference": "Sahih Al-Bukhari: 5745, Sahih Muslim: 2194",
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/med/9.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Bukhari : 5745",
+        "content": null,
+        "translation": "In the name of Allah, with the earth of our land and the saliva of some of us, the ill amongst us will be healed by Allah's permission.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    }
+  ]
+}

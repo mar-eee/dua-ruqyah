@@ -1,0 +1,428 @@
+{
+  "table": "duas",
+  "chunk": "duas_008.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 13,
+  "id_range": "104-116",
+  "source_chars": 5817,
+  "items": [
+    {
+      "key": [
+        104
+      ],
+      "id": 104,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 104,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "indopak": "اَعُوْذُ بِكَلِمَاتِ اللّٰهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "clean": "اعوذ بكلمات الله التامات من شر ما خلق",
+        "transliteration": "A'oodhu bikalimaatil-laahit-taammaati min sharri maa khalaq",
+        "reference": "Muslim: 2708, 2709",
+        "audio": 104,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Dua for protection from insects/snakes",
+        "content": null,
+        "translation": "I take refuge in Allah's perfect words from the evil He has created.",
+        "note": "Abu Huraira (RA) reported that a person came to Allah's Messenger (ﷺ) and said:\" Allah's Messenger (ﷺ), I was stung by a scorpion during the night. Thereupon he said: Had you recited these words in the evening. (The dua is mentioned above) that would not harm you"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        105
+      ],
+      "id": 105,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 105,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 5623",
+        "audio": null,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "What to do in the beginning of the evening",
+        "content": "When night falls [i.e., at al-Maghrib], restrain your children [from going out] because at such time the devils spread about. After a period of time has passed, let them be. Shut your doors and mention Allah\"s name, for verily the devil does not open a shut door, tie up your water-skins and mention Allah\"s name, cover your vessels with anything and mention Allah\"s name and put out your lamps.'",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        106
+      ],
+      "id": 106,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 106,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَصْبَحْتُ أُشْهِدُكَ، وَأُشْهِدُ حَمَلَةَ عَرْشِكَ، وَمَلَائِكَتِكَ، وَجَمِيعَ خَلْقِكَ، أَنَّكَ أَنْتَ اللَّهُ لَا إِلَهَ إِلَّا أَنْتَ وَحْدَكَ لَا شَرِيكَ لَكَ، وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُولُكَ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَصْبَحْتُ اُشْهِدُكَ، وَاُشْهِدُ حَمَلَةَ عَرْشِكَ، وَمَلَائِكَتِكَ، وَجَمِيْعَ خَلْقِكَ، اَنَّكَ اَنْتَ اللّٰهُ لَا اِلٰهَ اِلَّا اَنْتَ وَحْدَكَ لَا شَرِيْكَ لَكَ، وَاَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُوْلُكَ",
+        "clean": "اللهم اني اصبحت اشهدك واشهد حمله عرشك وملاءكتك وجميع خلقك انك انت الله لا اله الا انت وحدك لا شريك لك وان محمدا عبدك ورسولك",
+        "transliteration": "Allaahumma 'innee 'asbahtu 'ush-hiduka wa 'ush-hidu hamalata 'arshika, wa malaa'ikatika wajamee'a khalqika, 'annaka 'AntAllahu laa 'ilaaha 'illaa 'Anta wahdaka laa shareeka laka, wa 'anna Muhammadan 'abduka wa Rasooluka.",
+        "reference": null,
+        "audio": 106,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Dua in the morning #5",
+        "content": "Say this dua four times in the morning:",
+        "translation": "O Allah, verily I have reached the morning and call on You, the bearers of Your throne, Your angels, and all of Your creation to witness that You are Allah, none has the right to be worshipped except You, alone, without any partner and that Muhammad is Your Servant and Messenger.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        107
+      ],
+      "id": 107,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 107,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ مَا أَصْبَحَ بِي مِنْ نِعْمَةٍ أَوْ بِأَحَدٍ مِنْ خَلْقِكَ فَمِنْكَ وَحْدَكَ لَا شَرِيكَ لَكَ، فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ",
+        "indopak": "اَللّٰهُمَّ مَا اَصْبَحَ بِيْ مِنْ نِّعْمَةٍ اَوْ بِاَحَدٍ مِّنْ خَلْقِكَ فَمِنْكَ وَحْدَكَ لَا شَرِيْكَ لَكَ، فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ",
+        "clean": "اللهم ما اصبح بي من نعمه او باحد من خلقك فمنك وحدك لا شريك لك فلك الحمد ولك الشكر",
+        "transliteration": "Allaahumma maa 'asbaha bee min ni'matin 'aw bi'ahadin min khalqika faminka wa'hdaka laa shareeka laka, falakal-'hamdu wa lakash-shukru.",
+        "reference": null,
+        "audio": 107,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Dua in the morning #6",
+        "content": null,
+        "translation": "O Allah, what blessing I have received in this morning or any of Your creation, is from You alone, without any partner, so for You is all praise and unto You all thanks.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        108
+      ],
+      "id": 108,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 108,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ عِلْمًا نَّافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُّتَقَبَّلًا",
+        "clean": "اللهم اني اسالك علما نافعا ورزقا طيبا وعملا متقبلا",
+        "transliteration": "Allaahumma 'innee 'as'aluka 'ilman naafi'an, wa rizqan tayyiban, wa 'amalan mutaqabbalan.",
+        "reference": "Sahih (Albani). Ibn Majah: 925",
+        "audio": 108,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Asking for Beneficial Knowledge, Pure Rizq & Accepted Deeds",
+        "content": "Say 3 times in the morning:",
+        "translation": "O Allah, I ask You for knowledge which is beneficial and sustenance which is good, and deeds which are acceptable.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        109
+      ],
+      "id": 109,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 109,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَمْسَيْتُ أُشْهِدُكَ، وَأُشْهِدُ حَمَلَةَ عَرْشِكَ، وَمَلَائِكَتِكَ، وَجَمِيعَ خَلْقِكَ، أَنَّكَ أَنْتَ اللَّهُ لَا إِلَهَ إِلاَّ أَنْتَ وَحْدَكَ لَا شَرِيكَ لَكَ، وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُولُكَ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَمْسَيْتُ اُشْهِدُكَ، وَاُشْهِدُ حَمَلَةَ عَرْشِكَ، وَمَلَائِكَتِكَ، وَجَمِيْعَ خَلْقِكَ، اَنَّكَ اَنْتَ اللّٰهُ لَا اِلٰهَ اِلَّا اَنْتَ وَحْدَكَ لَا شَرِيْكَ لَكَ، وَاَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُوْلُكَ",
+        "clean": "اللهم اني امسيت اشهدك واشهد حمله عرشك وملاءكتك وجميع خلقك انك انت الله لا اله الا انت وحدك لا شريك لك وان محمدا عبدك ورسولك",
+        "transliteration": "Allaahumma 'innee 'amsaytu 'ush-hiduka wa 'ush-hidu hamalata 'arshika, wa malaa'ikatika wajamee'a khalqika, 'annaka 'AntAllahu laa 'ilaaha 'illaa 'Anta wahdaka laa shareeka laka, wa 'anna Muhammadan 'abduka wa Rasooluka.",
+        "reference": "Hasan (Ibn Baz). Abu Dawud: 5069",
+        "audio": 109,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Dua in the evening #5",
+        "content": "Say this dua four times in the evening:",
+        "translation": "O Allah, verily I have reached evening and call on You, the bearers of Your throne, Your angels, and all of Your creation to witness that You are Allah, none has the right to be worshipped except You, alone, without any partner and that Muhammad is Your Servant and Messenger.",
+        "note": "Allah will spare whoever says this four times in the morning or evening from the Hell-fire."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        110
+      ],
+      "id": 110,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 110,
+        "groups": null,
+        "uthmani": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ وَسُبْحَانَ اللَّهِ الْعَظِيْمِ",
+        "indopak": "سُبْحَانَ اللّٰهِ وَبِحَمْدِهٖ وَسُبْحَانَ اللّٰهِ الْعَظِيْمِ",
+        "clean": "سبحان الله وبحمده وسبحان الله العظيم",
+        "transliteration": "Subhanallahi wa bi'hamdihi wa sub'hanallahil 'adhim",
+        "reference": "Bukhari: 6682",
+        "audio": 110,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Two most favourite words to the Most Merciful",
+        "content": null,
+        "translation": "Glory be to Allah and His is the praise, (and) Allah, the Greatest is free from imperfection",
+        "note": "The Prophet (ﷺ) said, \"(There are) two words which are dear to the Beneficent (Allah) and very light (easy) for the tongue (to say), but very heavy in weight in the balance. They are: ''Subhan Allah wa-bi hamdihi'' and ''Subhan Allah Al-`Azim.\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        111
+      ],
+      "id": 111,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 111,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي وَارْحَمْنِيْ وَاهْدِنِيْ وَعَافِنِيْ وَارْزُقْنِيْ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِىْ وَارْحَمْنِىْ وَاهْدِنِىْ وَعَافِنِىْ وَارْزُقْنِىْ",
+        "clean": "اللهم اغفر لي وارحمني واهدني وعافني وارزقني",
+        "transliteration": "Allaahummaghfir lee, war'hamnee, wa'hdinee, wa 'aafinee warzuqnee",
+        "reference": "Muslim: 2697",
+        "audio": 111,
+        "cat_id": 5,
+        "subcat_id": 13
+      },
+      "source": {
+        "name": "A dua which can be recited all the time",
+        "content": null,
+        "translation": "O Allah forgive me, and have mercy on me and guide me and give me good\nhealth and provide rizq for me.",
+        "note": "Abu Malik reported on the authority of his father that when a person embraced Islam, Allah's Messenger (ﷺ) used to teach him how to observe prayer and then commanded him to supplicate in these words."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        112
+      ],
+      "id": 112,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 112,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ، وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِيْ وَيُمِيْتُ وَهُوَ حَيٌّ لَّا يَمُوْتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
+        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد يحيي ويميت وهو حي لا يموت بيده الخير وهو علي كل شيء قدير",
+        "transliteration": "Laa ilaaha illallahu wa'hdahu laa sharika lahu, lahul-mulku wa lahul-'hamdu, yu'hyi wa yumitu, wa Huwa 'hayyun laa yamutu, bi yadihil-khairu, wa Huwa 'ala kulli shay’in Qadir.",
+        "reference": "Hasan (Albani). Tirmidhi: 3428",
+        "audio": 112,
+        "cat_id": 5,
+        "subcat_id": 13
+      },
+      "source": {
+        "name": "When entering the market, city or workplace",
+        "content": null,
+        "translation": "None has the right to be worshiped but Allah alone, with no partner, to Him belongs all sovereignty and to Him is the praise, He gives life and gives death, and He is Ever-Living and does not die; in His Hand is all goodness and He is Able to do all things.",
+        "note": "Umar ibn al-Khattab (RA) said that the Messenger of Allah (ﷺ) said: “Whoever enters the marketplace and says these words, Allah shall record a million good deeds for him, wipe a million evil deeds away from him, raise a million ranks for him and build a palace in Jannah for him.”"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        113
+      ],
+      "id": 113,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 113,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\nاَلْحَمْدُ لِلَّـهِ الَّذِي أَنزَلَ عَلَىٰ عَبْدِهِ الْكِتَابَ وَلَمْ يَجْعَل لَّهُ عِوَجًا ۜ ﴿١﴾ قَيِّمًا لِّيُنذِرَ بَأْسًا شَدِيدًا مِّن لَّدُنْهُ وَيُبَشِّرَ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا حَسَنًا ﴿٢﴾ مَّاكِثِينَ فِيهِ أَبَدًا ﴿٣﴾ وَيُنذِرَ الَّذِينَ قَالُوا اتَّخَذَ اللَّـهُ وَلَدًا ﴿٤﴾ مَّا لَهُم بِهِ مِنْ عِلْمٍ وَلَا لِآبَائِهِمْ ۚ كَبُرَتْ كَلِمَةً تَخْرُجُ مِنْ أَفْوَاهِهِمْ ۚ إِن يَقُولُونَ إِلَّا كَذِبًا ﴿٥﴾ فَلَعَلَّكَ بَاخِعٌ نَّفْسَكَ عَلَىٰ آثَارِهِمْ إِن لَّمْ يُؤْمِنُوا بِهَـٰذَا الْحَدِيثِ أَسَفًا ﴿٦﴾ إِنَّا جَعَلْنَا مَا عَلَى الْأَرْضِ زِينَةً لَّهَا لِنَبْلُوَهُمْ أَيُّهُمْ أَحْسَنُ عَمَلًا ﴿٧﴾ وَإِنَّا لَجَاعِلُونَ مَا عَلَيْهَا صَعِيدًا جُرُزًا ﴿٨﴾ أَمْ حَسِبْتَ أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ كَانُوا مِنْ آيَاتِنَا عَجَبًا ﴿٩﴾ إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ فَقَالُوا رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا ﴿١٠﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ\nاَلْحَمْدُ لِلّٰهِ الَّذِیْۤ  اَنْزَلَ عَلٰی عَبْدِهِ الْكِتٰبَ وَلَمْ  یَجْعَلْ  لَّهٗ عِوَجًا ؕ﴿ٜ۱﴾قَیِّمًا  لِّیُنْذِرَ بَاْسًا شَدِیْدًا مِّنْ لَّدُنْهُ وَیُبَشِّرَ الْمُؤْمِنِیْنَ الَّذِیْنَ یَعْمَلُوْنَ الصّٰلِحٰتِ اَنَّ لَهُمْ اَجْرًا حَسَنًا ۙ﴿۲﴾ مَّاكِثِیْنَ فِیْهِ اَبَدًا ۙ﴿۳﴾ وَّیُنْذِرَ الَّذِیْنَ قَالُوا اتَّخَذَ اللّٰهُ وَلَدًا ٭﴿۴﴾ مَا لَهُمْ بِهٖ مِنْ عِلْمٍ وَّلَا لِاٰبَآئِهِمْ ؕ كَبُرَتْ كَلِمَةً  تَخْرُجُ مِنْ اَفْوَاهِهِمْ ؕ اِنْ یَّقُوْلُوْنَ اِلَّا كَذِبًا ﴿۵﴾ فَلَعَلَّكَ بَاخِعٌ نَّفْسَكَ عَلٰۤی اٰثَارِهِمْ اِنْ لَّمْ  یُؤْمِنُوْا بِهٰذَا  الْحَدِیْثِ اَسَفًا ﴿۶﴾ اِنَّا جَعَلْنَا مَا عَلَی الْاَرْضِ زِیْنَةً لَّهَا لِنَبْلُوَهُمْ  اَیُّهُمْ اَحْسَنُ عَمَلًا ﴿۷﴾وَ اِنَّا لَجٰعِلُوْنَ مَا عَلَیْهَا صَعِیْدًا جُرُزًا  ؕ﴿۸﴾اَمْ حَسِبْتَ اَنَّ اَصْحٰبَ الْكَهْفِ وَالرَّقِیْمِ ۙ كَانُوْا مِنْ اٰیٰتِنَا عَجَبًا ﴿۹﴾ اِذْ اَوَی الْفِتْیَةُ اِلَی الْكَهْفِ فَقَالُوْا رَبَّنَاۤ اٰتِنَا مِنْ لَّدُنْكَ رَحْمَةً وَّهَیِّئْ لَنَا مِنْ اَمْرِنَا رَشَدًا﴿۱۰﴾",
+        "clean": "بسم الله الرحمن الرحيمالحمد لله الذ  انزل عل عبده الكتب ولم  جعل  له عوجا قما  لنذر باسا شددا من لدنه وبشر المءمنن الذن عملون الصلحت ان لهم اجرا حسنا  ماكثن فه ابدا  ونذر الذن قالوا اتخذ الله ولدا  ما لهم به من علم ولا لاباءهم  كبرت كلمه  تخرج من افواههم  ان قولون الا كذبا  فلعلك باخع نفسك عل اثارهم ان لم  ءمنوا بهذا  الحدث اسفا  انا جعلنا ما عل الارض زنه لها لنبلوهم  اهم احسن عملا و انا لجعلون ما علها صعدا جرزا  ام حسبت ان اصحب الكهف والرقم  كانوا من اتنا عجبا  اذ او الفته ال الكهف فقالوا ربنا اتنا من لدنك رحمه وهء لنا من امرنا رشدا",
+        "transliteration": null,
+        "reference": "Muslim: 809",
+        "audio": 113,
+        "cat_id": 5,
+        "subcat_id": 13
+      },
+      "source": {
+        "name": "Protection from punishment of Dajjal",
+        "content": "Allah's Messenger (ﷺ) said:",
+        "translation": "(1) [All] praise is [due] to Allah, who has sent down upon His Servant the Book and has not made therein any deviance. (2) [He has made it] straight, to warn of severe punishment from Him and to give good tidings to the believers who do righteous deeds that they will have a good reward (3) In which they will remain forever (4) And to warn those who say, \" Allah has taken a son.\" (5) They have no knowledge of it, nor had their fathers. Grave is the word that comes out of their mouths; they speak not except a lie. (6) Then perhaps you would kill yourself through grief over them, [O Muhammad], if they do not believe in this message, [and] out of sorrow. (7) Indeed, We have made that which is on the earth adornment for it that We may test them [as to] which of them is best in deed. (8) And indeed, We will make that which is upon it [into] a barren ground. (9) Or have you thought that the companions of the cave and the inscription were, among Our signs, a wonder? (10) [Mention] when the youths retreated to the cave and said, \"Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance. (Sura Kahf: 1-10)",
+        "note": "The Prophet (ﷺ) said, \"If anyone learns by heart the first ten verses of the Surah al-Kahf, he will be protected from the Dajjal.\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        114
+      ],
+      "id": 114,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 114,
+        "groups": null,
+        "uthmani": "أُعِيذُكُمَا [أَعُوْذُ] بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+        "indopak": "اُعِيْذُكُمَا [اَعُوْذُ] بِكَلِمَاتِ اللّٰهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَّهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَّامَّةٍ",
+        "clean": "اعيذكما اعوذ بكلمات الله التامه من كل شيطان وهامه ومن كل عين لامه",
+        "transliteration": "Oo-'idhukumaa (For self: A'ooudhu) bi kalimaat-illaahit-taammati min kulli shaytaanin wa haammah, wa min kulli ‛aynin laammah",
+        "reference": "Bukhari: 3371",
+        "audio": 114,
+        "cat_id": 5,
+        "subcat_id": 13
+      },
+      "source": {
+        "name": "Dua of custody from evil eye and disease",
+        "content": null,
+        "translation": "I commend you to the protection of Allah’s perfect words from every devil, vermin, and every evil eye.",
+        "note": "The Prophet (ﷺ) used to seek Refuge with Allah for Al-Hasan and Al-Husain and say: \"Your forefather (i.e. Abraham) used to seek Refuge with Allah for Ishmael and Isaac by reciting.\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        115
+      ],
+      "id": 115,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 115,
+        "groups": "[{\"id\": 115, \"name\": null, \"cat_id\": 6, \"subcat_id\": 14, \"content\": \"Alhamdu lillaah 33 times\", \"uthmani\": \"\\u0627\\u064e\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f \\u0644\\u0650\\u0644\\u0651\\u064e\\u0647\\u0650\", \"indopak\": \"\\u0627\\u064e\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f \\u0644\\u0650\\u0644\\u0651\\u0670\\u0647\\u0650\", \"clean\": \"\\u0627\\u0644\\u062d\\u0645\\u062f \\u0644\\u0644\\u0647\", \"transliteration\": \"Alhamdu lillaah\", \"translation\": \"All praise is for Allah.\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 115, \"name\": null, \"cat_id\": 6, \"subcat_id\": 14, \"content\": \"Allahu 'akbar 34 times\", \"uthmani\": \"\\u0627\\u064e\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0623\\u064e\\u0643\\u0652\\u0628\\u064e\\u0631\\u064f\", \"indopak\": \"\\u0627\\u064e\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0627\\u064e\\u0643\\u0652\\u0628\\u064e\\u0631\\u064f\", \"clean\": \"\\u0627\\u0644\\u0644\\u0647 \\u0627\\u0643\\u0628\\u0631\", \"transliteration\": \"Allahu 'akbar\", \"translation\": \"Allah is the greatest.\", \"note\": \"The Prophet (\\ufdfa) said to Ali (RA) and Fatima (RA): \\u201cShall I not tell you something that will be better for you than a servant? When you go to bed, the two of you say: (the dua is mentioned above)\", \"reference\": \"Al-Bukhari, Fathul Bari 7/71 no. 3705, Muslim 4/2091 no. 2726\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "سُبْحَانَ اللَّهِ",
+        "indopak": "سُبْحَانَ اللّٰهِ",
+        "clean": "سبحان الله",
+        "transliteration": "SubhaanAllah",
+        "reference": null,
+        "audio": 115,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "One hundred times (Tasbih)",
+        "content": "Subhanallah 33 times",
+        "translation": "How Perfect Allah is.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        116
+      ],
+      "id": 116,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 116,
+        "groups": null,
+        "uthmani": "اَللَّهُ لَآ إِلٰهَ إِلَّا هُوَ الْحَىُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى السَّمٰوٰتِ وَمَا فِى الْأَرْضِ ۗ مَنْ ذَا الَّذِى يَشْفَعُ عِنْدَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمٰوٰتِ وَالْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ الْعَلِىُّ الْعَظِيمُ",
+        "indopak": "اَللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ ۚ اَلْحَیُّ الْقَیُّوْمُ  ۚ لَا تَاْخُذُهٗ سِنَةٌ وَّلَا نَوْمٌ  ؕ لَهٗ مَا فِی السَّمٰوٰتِ وَمَا فِی الْاَرْضِ ؕ مَنْ ذَا الَّذِیْ یَشْفَعُ عِنْدَهٗۤ  اِلَّا بِاِذْنِهٖ ؕ یَعْلَمُ مَابَیْنَ اَیْدِیْهِمْ وَمَا خَلْفَهُمْ  ۚ وَلَا یُحِیْطُوْنَ بِشَیْءٍ مِّنْ عِلْمِهٖۤ اِلَّا بِمَا شَآءَ  ۚ وَسِعَ كُرْسِیُّهُ السَّمٰوٰتِ وَالْاَرْضَ ۚ وَلَا یَئُوْدُهٗ حِفْظُهُمَا ۚ وَهُوَ الْعَلِیُّ الْعَظِیْمُ ﴿۲۵۵﴾",
+        "clean": "الله لا اله الا هو  الح القوم   لا تاخذه سنه ولا نوم   له ما ف السموت وما ف الارض  من ذا الذ شفع عنده  الا باذنه  علم مابن ادهم وما خلفهم   ولا حطون بشء من علمه الا بما شاء   وسع كرسه السموت والارض  ولا ءوده حفظهما  وهو العل العظم ",
+        "transliteration": "Allahu laa 'ilaaha 'illaa Huwal-Hayyul-Qayyoom, laa ta'khudhuhu sinatun wa laa nawm, lahu maa fis-samaawaati wa maa fil-'ardh, man dhal-ladhee yashfa'u 'indahu 'illaa bi'idh nih, ya'lamu maa bayna 'aydeehim wa maa khalfahum, wa laa yuheetoona bishay'im-min 'ilmihi 'illaa bimaa shaa'a, wasi'a kursiyyuhus-samaawaati wal'ardh, wa laa ya'ooduhu hifdhuhumaa, wa Huwal-'Aliyyul- 'Adheem",
+        "reference": "Al-Bukhari, Fathul Bari 4/487, no. 2311",
+        "audio": 116,
+        "cat_id": 6,
+        "subcat_id": 14
+      },
+      "source": {
+        "name": "Ayatul Kursi",
+        "content": null,
+        "translation": "Allah! There is none worthy of worship but He, the Ever Living, the One Who sustains and protects all that exists. Neither slumber nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them in this world, and what will happen to them in the Hereafter. And they will never compass anything of His Knowledge except that which He wills. His Throne extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great. (Sura Baqarah 2:255)",
+        "note": "Whoever reads Ayatul Kursi when he lies down to sleep will have a guardian from Allah remain with him and Satan will not be able to come near him until he rises in the morning."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    }
+  ]
+}

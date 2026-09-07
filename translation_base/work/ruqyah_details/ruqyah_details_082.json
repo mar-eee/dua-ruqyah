@@ -1,0 +1,78 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_082.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "165-166",
+  "source_chars": 5658,
+  "items": [
+    {
+      "key": [
+        165
+      ],
+      "id": 165,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 165,
+        "topic_id": null,
+        "cat_id": 13,
+        "subcat_id": 137
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Allah has made it clear that He has destined to unbelievers and those who do not remember Him, one (or more) devils who accompany them. And against the decree of Allah one can't do anything! This is why most Raqis refuse treatment of non-Muslims. The Jinn can hide behind unbelief like behind a wall.\n\nThere are also Raqis who make the treatment on one condition: \"When you get healed, you accept Islam!\" Because the fact that someone asks for Ruqyah signals that faith is already present to some extent.\n\n<b>I would join this view and advise non-Muslims the following:</b>\n\n\n<b>1.</b> Follow the general protective measures against Jinn (see the corresponding chapter), e.g. clean your house from all pictures and statues, and use as much as possible things the Jinn do not like, such as black seed, honey, olive oil etc.\n\n<b>2.</b> Because non-Muslims are not allowed to touch the Qur'an in Arabic (because they are in the state of ritual impurity, as are Muslims who have not performed the prayer ablution), you should find someone who is willing to recite the Qur'an on you. If you have a Muslim friend who is willing to help, you should encourage him to follow as much as possible the 7-day program. If this is not possible, you should hear as much as possible Qur'an in audio which is a less good option, but one that should be mentioned.\n\n<b>3.</b> Taking a Ruqyah bath, as explained earlier, but without reading the Qur'an, if you do not have a Muslim friend who can help. All this may cause some relief.\n\nThe truth is that Islam the only thing is that can really help you. That is because the only true cure is to turn to the Creator of the heavens and the earth, and to submit to Him, to believe in Him and to accept His commandments and prohibitions.\n\nThere are many people from different religions who claim to be able to exorcise, but all of them use magic, and while it can sometimes cause a temporary effect and relief, it ends up getting worse than before.\n\nMay Allah heal you from all evil, and show you the right way."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        166
+      ],
+      "id": 166,
+      "part": 1,
+      "of": 5,
+      "frozen": {
+        "id": 166,
+        "topic_id": null,
+        "cat_id": 13,
+        "subcat_id": 138
+      },
+      "source": {
+        "text": "The key to Ruqyah is patience and consistency. Many people say \"it does not work!\" For most of them, the problem is simply a lack of patience, specifically a lack of consistency and the false expectation that if they do the right thing, the problem should go away in a certain time.\n\nIf the doctor told you that you had cancer, you wouldn't come back after your first chemotherapy treatment and say, \"Why am I not cured now?\" That's because you would expect that it would take a year, perhaps two years to go into full remission and get the all clear.\n\nThis is a war between you and an army of the shayaateen. This war will be made up of many many battles, some of which you will win, and some of which you will lose. All of this has a wisdom in it that Allah has chosen for you. The Prophet  (ﷺ) fought his enemies for over 20 years until Allah gave him victory over them, and yet he was the most complete of the people in faith, the one whose du'aa was answered, the one who was free of major sins, and the one whose past and future sins were forgiven. Despite this, Allah chose to test him and the believers with over 20 years of battling their enemy before the people entered into Islam in crowds.\n\n<b>Allah has told us in the Qur'an:</b>\n\n\nIf a wound should touch you - there has already touched the (opposing) people a wound similar to it. And these days (of varying conditions) We alternate among the people so that Allah may make evident those who believe and [may] take to Himself from among you martyrs - and Allah does not like the wrongdoers. Or do you think of entering paradise without Allah recognizing those who have fought among you and (without) recognizing the patient? [Ali Imran: 139-142]\n\nAllah tests our faith with many things, but never does He impose on us an examination which we are not capable of bearing. And if we have patience, the trials will be good for us and will cleanse us.\n\n\"Whom Allâh wishes good, He tests him.\" [Bukhari] ",
+        "topic_name": null
+      },
+      "target": {
+        "text": "",
+        "topic_name": null
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        166
+      ],
+      "id": 166,
+      "part": 2,
+      "of": 5,
+      "frozen": {
+        "id": 166,
+        "topic_id": null,
+        "cat_id": 13,
+        "subcat_id": 138
+      },
+      "source": {
+        "text": "\"Truly, when Allah loves people, He lets them go through trials. Whoever is content with it, for him is contentment, and he who becomes angry, for him i anger.\" [Tirmidhi]\n\nFurthermore, it may be that the weapon is perfect, but the arm which holds the weapon is weak, or the arm is strong but the aim is poor. It is only when the weapon is good, and the arm that wields it is strong, and the aim of the person is accurate that the weapon can be used to its true effect. For this reason, you should be self-critical and should be asking yourself if your sins are the reason why the help of Allah is delayed, and you should be pushing yourself to constantly improve. This self-reflection and self-criticism is healthy up to a certain point, but it's not healthy when it causes you to reach the level where you despair of the help of Allah.\n\n<b>Go, O my sons, and ascertain concerning Joseph and his brother, and despair not of the Mercy of Allah. Lo! none despaireth of the Mercy of Allah save disbelieving folk. [Yusuf: 87]</b>\n\n\nMake sure that you are either doing everything that is recommended, or exceeding it, and then be patient, and expect that the help of Allah will come.\n\nRuqyah can only be judged as successful if the patient does not show any further symptoms and has been blessed with a complete relief from the problem. This is something that usually happens in phases, and each phase has its own challenges. In a sense, the last stage of the treatment, if the patient feels better, is one of the most important times and one in which people make the most mistakes. There are some important points to consider when approaching the end of treatment:"
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    }
+  ]
+}

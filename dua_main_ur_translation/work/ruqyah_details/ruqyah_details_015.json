@@ -1,0 +1,75 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_015.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 1,
+  "id_range": "26-26",
+  "source_chars": 4889,
+  "items": [
+    {
+      "key": [
+        26
+      ],
+      "id": 26,
+      "part": 5,
+      "of": 12,
+      "frozen": {
+        "id": 26,
+        "topic_id": 2,
+        "cat_id": 3,
+        "subcat_id": 28
+      },
+      "source": {
+        "text": "<ar> شَهِدَ اللَّهُ أَنَّهُ لَا إِلَٰهَ إِلَّا هُوَ وَالْمَلَائِكَةُ وَأُولُو الْعِلْمِ قَائِمًا بِالْقِسْطِ ۚ لَا إِلَٰهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ ﴿١٨﴾ إِنَّ الدِّينَ عِندَ اللَّهِ الْإِسْلَامُ ۗ وَمَا اخْتَلَفَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِآيَاتِ اللَّهِ فَإِنَّ اللَّهَ سَرِيعُ الْحِسَابِ ﴿١٩﴾ </ar>\n\n<b>Translation:</b> (18) Allah witnesses that there is no deity except Him, and [so do] the angels and those of knowledge - [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise. (19) Indeed, the religion in the sight of Allah is Islam. And those who were given the Scripture did not differ except after knowledge had come to them - out of jealous animosity between themselves. And whoever disbelieves in the verses of Allah, then indeed, Allah is swift in [taking] account.\n\n<b>7. Al-A'raf: 54-56</b>\n\n<ar> إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِأَمْرِهِ ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ ﴿٥٤﴾ ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ ﴿٥٥﴾ وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ ﴿٥٦﴾ </ar>"
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        26
+      ],
+      "id": 26,
+      "part": 6,
+      "of": 12,
+      "frozen": {
+        "id": 26,
+        "topic_id": 2,
+        "cat_id": 3,
+        "subcat_id": 28
+      },
+      "source": {
+        "text": "<b>Translation:</b> (54) Indeed, your Lord is Allah, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, His is the creation and the command; blessed is Allah, Lord of the worlds. (55) Call upon your Lord in humility and privately; indeed, He does not like transgressors. (56) And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allah is near to the doers of good.\n\n<b>8. Al-Mu'minun: 115-118</b>\n\n<ar> أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ ﴿١١٥﴾ فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۖ لَا إِلَٰهَ إِلَّا هُوَ رَبُّ الْعَرْشِ الْكَرِيمِ ﴿١١٦﴾ وَمَن يَدْعُ مَعَ اللَّهِ إِلَٰهًا آخَرَ لَا بُرْهَانَ لَهُ بِهِ فَإِنَّمَا حِسَابُهُ عِندَ رَبِّهِ ۚ إِنَّهُ لَا يُفْلِحُ الْكَافِرُونَ ﴿١١٧﴾ وَقُل رَّبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ ﴿١١٨﴾ </ar>\n\n<b>Translation:</b> (115) Then did you think that We created you uselessly and that to Us you would not be returned?\" (116) So exalted is Allah, the Sovereign, the Truth; there is no deity except Him, Lord of the Noble Throne. (117) And whoever invokes besides Allah another deity for which he has no proof - then his account is only with his Lord. Indeed, the disbelievers will not succeed. (118) And, [O Muhammad], say, \"My Lord, forgive and have mercy, and You are the best of the merciful.\"\n\n<b>9. As-Saffat: 1-10</b>"
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        26
+      ],
+      "id": 26,
+      "part": 7,
+      "of": 12,
+      "frozen": {
+        "id": 26,
+        "topic_id": 2,
+        "cat_id": 3,
+        "subcat_id": 28
+      },
+      "source": {
+        "text": "<ar> وَالصَّافَّاتِ صَفًّا ﴿١﴾ فَالزَّاجِرَاتِ زَجْرًا ﴿٢﴾ فَالتَّالِيَاتِ ذِكْرًا ﴿٣﴾ إِنَّ إِلَٰهَكُمْ لَوَاحِدٌ ﴿٤﴾ رَّبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِ ﴿٥﴾ إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ ﴿٦﴾ وَحِفْظًا مِّن كُلِّ شَيْطَانٍ مَّارِدٍ ﴿٧﴾ لَّا يَسَّمَّعُونَ إِلَى الْمَلَإِ الْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ ﴿٨﴾ دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ ﴿٩﴾ إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ ﴿١٠﴾ </ar>\n\n<b>Translation:</b> (1) By those [angels] lined up in rows (2) And those who drive [the clouds] (3) And those who recite the message, (4) Indeed, your Allah is One, (5) Lord of the heavens and the earth and that between them and Lord of the sunrises. (6) Indeed, We have adorned the nearest heaven with an adornment of stars (7) And as protection against every rebellious devil (8) [So] they may not listen to the exalted assembly [of angels] and are pelted from every side, (9) Repelled; and for them is a constant punishment, (10) Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness].\n\n<b>10. Al-Ahqaf : 29-32</b>\n\n<ar> وَإِذْ صَرَفْنَا إِلَيْكَ نَفَرًا مِّنَ الْجِنِّ يَسْتَمِعُونَ الْقُرْآنَ فَلَمَّا حَضَرُوهُ قَالُوا أَنصِتُوا ۖ فَلَمَّا قُضِيَ وَلَّوْا إِلَىٰ قَوْمِهِم مُّنذِرِينَ ﴿٢٩﴾ قَالُوا يَا قَوْمَنَا إِنَّا سَمِعْنَا كِتَابًا أُنزِلَ مِن بَعْدِ مُوسَىٰ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ يَهْدِي إِلَى الْحَقِّ وَإِلَىٰ طَرِيقٍ مُّسْتَقِيمٍ ﴿٣٠﴾ يَا قَوْمَنَا أَجِيبُوا دَاعِيَ اللَّهِ وَآمِنُوا بِهِ يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُجِرْكُم مِّنْ عَذَابٍ أَلِيمٍ ﴿٣١﴾ وَمَن لَّا يُجِبْ دَاعِيَ اللَّهِ فَلَيْسَ بِمُعْجِزٍ فِي الْأَرْضِ وَلَيْسَ لَهُ مِن دُونِهِ أَوْلِيَاءُ ۚ أُولَٰئِكَ فِي ضَلَالٍ مُّبِينٍ ﴿٣٢﴾ </ar>"
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    }
+  ]
+}

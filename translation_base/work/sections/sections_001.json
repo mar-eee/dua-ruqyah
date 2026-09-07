@@ -1,0 +1,411 @@
+{
+  "table": "sections",
+  "chunk": "sections_001.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 21,
+  "id_range": "1-12",
+  "source_chars": 846,
+  "items": [
+    {
+      "key": [
+        1,
+        1
+      ],
+      "id": 1,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 1,
+        "book_id": 1
+      },
+      "source": {
+        "name": "Introduction"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        2,
+        1
+      ],
+      "id": 2,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 2,
+        "book_id": 1
+      },
+      "source": {
+        "name": "Supplication"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        3,
+        1
+      ],
+      "id": 3,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 3,
+        "book_id": 1
+      },
+      "source": {
+        "name": "The Meanings Of The Word Du'a"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        4,
+        1
+      ],
+      "id": 4,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 4,
+        "book_id": 1
+      },
+      "source": {
+        "name": "Supplication And Fate"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        5,
+        1
+      ],
+      "id": 5,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 5,
+        "book_id": 1
+      },
+      "source": {
+        "name": "How To Supplicate"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        6,
+        1
+      ],
+      "id": 6,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 6,
+        "book_id": 1
+      },
+      "source": {
+        "name": "Conditions Of Supplication"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        7,
+        1
+      ],
+      "id": 7,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 7,
+        "book_id": 1
+      },
+      "source": {
+        "name": "Manners Of Du'a"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        8,
+        1
+      ],
+      "id": 8,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 8,
+        "book_id": 1
+      },
+      "source": {
+        "name": "Optimum Times For Du'a"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        9,
+        1
+      ],
+      "id": 9,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 9,
+        "book_id": 1
+      },
+      "source": {
+        "name": "Recommended Supplications In Various Situations"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        1,
+        2
+      ],
+      "id": 1,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 1,
+        "book_id": 2
+      },
+      "source": {
+        "name": "Introduction"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        2,
+        2
+      ],
+      "id": 2,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 2,
+        "book_id": 2
+      },
+      "source": {
+        "name": "By Blowing into your Cupped Hands and Reciting"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        3,
+        2
+      ],
+      "id": 3,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 3,
+        "book_id": 2
+      },
+      "source": {
+        "name": "Spitting or Blowing on the Place where you Feel the pain"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        4,
+        2
+      ],
+      "id": 4,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 4,
+        "book_id": 2
+      },
+      "source": {
+        "name": "Recite Qur'an over some Water and Blow into it, then Drink it and Bathe from it"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        5,
+        2
+      ],
+      "id": 5,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 5,
+        "book_id": 2
+      },
+      "source": {
+        "name": "Recite over some Olive Oil, Blow on it—then Rub or Massage it onto your Skin"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        6,
+        2
+      ],
+      "id": 6,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 6,
+        "book_id": 2
+      },
+      "source": {
+        "name": "Place a Hand on the Place of Pain and make Du'a"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        7,
+        2
+      ],
+      "id": 7,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 7,
+        "book_id": 2
+      },
+      "source": {
+        "name": "Supplicating whilst Performing Ruqyah on Yourself"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        8,
+        2
+      ],
+      "id": 8,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 8,
+        "book_id": 2
+      },
+      "source": {
+        "name": "Mixing some Earth with Saliva and Wipe the Afflicted"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        9,
+        2
+      ],
+      "id": 9,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 9,
+        "book_id": 2
+      },
+      "source": {
+        "name": "It is Permissible to Blow when making Ruqyah Before Reciting, whilst Reciting or after Reciting"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        10,
+        2
+      ],
+      "id": 10,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 10,
+        "book_id": 2
+      },
+      "source": {
+        "name": "Ruqyah can be done Without Spitting or Blowing"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        11,
+        2
+      ],
+      "id": 11,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 11,
+        "book_id": 2
+      },
+      "source": {
+        "name": "Giving in Sadaqah, and Helping the Needy and Poor Muslims"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        12,
+        2
+      ],
+      "id": 12,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 12,
+        "book_id": 2
+      },
+      "source": {
+        "name": "Prophetic and Natural Remedies"
+      },
+      "target": {
+        "name": ""
+      }
+    }
+  ]
+}

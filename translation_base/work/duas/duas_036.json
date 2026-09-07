@@ -1,0 +1,524 @@
+{
+  "table": "duas",
+  "chunk": "duas_036.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 16,
+  "id_range": "518-533",
+  "source_chars": 5983,
+  "items": [
+    {
+      "key": [
+        518
+      ],
+      "id": 518,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 518,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 3206",
+        "audio": null,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Seeing the clouds condense #1",
+        "content": "If the sky was covered with thick black clouds, the color of the Prophet's (ﷺ) face would change; He would then enter the house, go out, go to the front and then come to the back. Then if it rained (started), his panic would go away. I could tell by the look on his face. Once (about the reason for this) I asked the Prophet (ﷺ). In reply he said, “Aisha! It could even be like the clouds that the people of Aad said when they saw it -\n\n(24) And when they saw it as a cloud approaching their valleys, they said, \"This is a cloud bringing us rain!\" Rather, it is that for which you were impatient: a wind, within it a painful punishment, (25) Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (Sura Al-Ahqaf 46:24-25)",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        519
+      ],
+      "id": 519,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 519,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي اَعُوذُبِكَ مِنْ شَرِّهَا",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُبِكَ مِنْ شَرِّهَا",
+        "clean": "اللهم اني اعوذبك من شرها",
+        "transliteration": "Allaahumma inni A‛oodhu bika min sarrihaa",
+        "reference": "Sahih (Albani). Abu Dawud: 5099",
+        "audio": 519,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Seeing the clouds condense #2",
+        "content": null,
+        "translation": "O Allah! I seek refuge in Thee from its evil.",
+        "note": "Narrated Aisha (RA), she said, ‘If he saw clouds condensing on one of the horizons of the sky, the Messenger of Allah (ﷺ) would stop all work, even during Salat! Then he would say back to that- (The dua is mentaioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        520
+      ],
+      "id": 520,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 520,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ صَيِّبًا نَافِعًا",
+        "indopak": "اَللّٰهُمَّ صَيِّبًا نَّافِعًا",
+        "clean": "اللهم صيبا نافعا",
+        "transliteration": "Allaahumma sayyiban naafi'an",
+        "reference": "Bukhari: 1032",
+        "audio": 520,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Dua during the rain #1",
+        "content": "Ayesha (RA) said that the Prophet (ﷺ) used to say when he saw rain -",
+        "translation": "O Allah, (bring) beneficial rain clouds.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        521
+      ],
+      "id": 521,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 521,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Muslim: 898",
+        "audio": null,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Touching Rainwater",
+        "content": "Narrated Anas Ibn Malik: He said, \"We were with the Messenger of Allah (ﷺ), At one point it started raining on us. Then the Messenger of Allah (ﷺ) lifted some part of his clothes so that the rain water would fall on him. We ask, “O Messenger of Allah! Why did you do that? ” He said, \"It has just come from his great Lord!\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        522
+      ],
+      "id": 522,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 522,
+        "groups": null,
+        "uthmani": "سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيْفَتِهِ",
+        "indopak": "سُبْحَانَ الَّذِيْ يُسَبِّحُ الرَّعْدُ بِحَمْدِهٖ وَالْمَلَائِكَةُ مِنْ خِيْفَتِهٖ",
+        "clean": "سبحان الذي يسبح الرعد بحمده والملاءكه من خيفته",
+        "transliteration": "Subhaanal-lathee yusabbihur-ra'du bihamdihi wal-malaa'ikatu min kheefatihi",
+        "reference": "Sahih (Albani). Adabul Mufrad: 560",
+        "audio": 522,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Lightning strikes #1",
+        "content": "Abdullah ibn Zubayr (RA) used to say when he heard the thunder -",
+        "translation": "Glory is to Him Whom thunder and angels glorify due to fear of Him.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        523
+      ],
+      "id": 523,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 523,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ لَا تَقْتُلْنَا بِغَضَبِكَ وَلَا تُهْلِكْنَا بِعَذَابِكَ وَعَافِنَا قَبْلَ ذَلِكَ",
+        "indopak": "اَللّٰهُمَّ لَا تَقْتُلْنَا بِغَضَبِكَ وَلَا تُهْلِكْنَا بِعَذَابِكَ وَعَافِنَا قَبْلَ ذٰلِكَ",
+        "clean": "اللهم لا تقتلنا بغضبك ولا تهلكنا بعذابك وعافنا قبل ذلك",
+        "transliteration": "Allaahumma Laa taqtulna bi-ghadabika Wa laa tuhlikna bi-adhaabika Wa aafina qabla dhalik",
+        "reference": "Sahihul Isnad (Ahmad Shakir). Musnad Ahmad: 8/98",
+        "audio": 523,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Lightning strikes #2",
+        "content": "Narrated 'Abdullah ibn' Umar (RA): When he heard a thunderclap or a loud noise like thunder, the Messenger of Allah (ﷺ) would say:",
+        "translation": "O Allah, do not kill us with Your wrath, and do not destroy us with Your punishment, and pardon us before that.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        524
+      ],
+      "id": 524,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 524,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ لَا طَيْرَ إِلاَّ طَيْرُكَ، وَلَا خَيْرَ إِلَّا خَيْرُكَ، وَلَا إِلَهَ غَيْرُكَ",
+        "indopak": "اَللّٰهُمَّ لَا طَيْرَ اِلَّا طَيْرُكَ، وَلَا خَيْرَ اِلَّا خَيْرُكَ، وَلَا اِلٰهَ غَيْرُكَ",
+        "clean": "اللهم لا طير الا طيرك ولا خير الا خيرك ولا اله غيرك",
+        "transliteration": "Allaahumma laa tayra illaa tayruka, wa laa khayra illaa khayruka, wa laa ilaaha ghayruk",
+        "reference": "Sahih (Albani). Silsila Sahiha: 1065, Musnad Ahmad: 7045",
+        "audio": 524,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Atonement for bad omen",
+        "content": null,
+        "translation": "O Allah, there is no omen but there is reliance on You, there is no good except Your good and none has the right to be worshipped except You.",
+        "note": "Ibn 'Umar (RA) said: The Messenger of Allah (ﷺ) said: The Companions said, O Messenger of Allah, what is the expiation for such a thought? He said he should say (the above words)."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        525
+      ],
+      "id": 525,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 525,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ عَلَى ظُهُوْرِ الْجِبَالِ وَالْآكَامِ وَبُطُوْنِ الْأَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ",
+        "indopak": "اَللّٰهُمَّ عَلٰى ظُهُوْرِ الْجِبَالِ وَالْاٰكَامِ وَبُطُوْنِ الْاَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ",
+        "clean": "اللهم علي ظهور الجبال والاكام وبطون الاوديه ومنابت الشجر",
+        "transliteration": "Allaahumma ‘alaa dhuhuril jibaali wal aakaami wa butunil awdiyati wa manaabitish shajari",
+        "reference": "Bukhari: 1019",
+        "audio": 525,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "During droughts and heavy rains",
+        "content": null,
+        "translation": "O Allah! (Let it rain) on the summit of the mountain, plateau, where a variety of plants grow in the Valley.",
+        "note": "Narrated by Anas Ibn Malik (RA): A man came to the Messenger of Allah (ﷺ) and said, “O Messenger of Allah! Our animals have been destroyed and the roads have been cut off. Pray to Allah (for rain)!” The Prophet (ﷺ) prayed to Allah. As a result, it rained on us from one Jumu'ah to another Jumu'ah. Then a man came to the Prophet (ﷺ) and said, “O Messenger of Allah! Our homes have been destroyed, our roads have been cut off, and our cattle have been destroyed.” Then the Messenger of Allah (ﷺ) said: (The dua is mentioned above)\n\nThen the clouds move away from Medina in the same way that clothes are removed from the body."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        526
+      ],
+      "id": 526,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 526,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اسْقِنَا غَيْثًا مُغِيْثًا مَرِيْئًا مَرِيْعًا نَافِعًا غَيْرَ ضَارٍّ عَاجِلًا غَيْرَ آجِلٍ",
+        "indopak": "اَللّٰهُمَّ اسْقِنَا غَيْثًا مُّغِيْثًا مَرِيْئًا مَّرِيْعًا نَافِعًا غَيْرَ ضَارٍّ عَاجِلًا غَيْرَ اٰجِلٍ",
+        "clean": "اللهم اسقنا غيثا مغيثا مريءا مريعا نافعا غير ضار عاجلا غير اجل",
+        "transliteration": "Allaahumma 'asqinaa ghaythan mugheethan maree-an maree'an, naafi'an ghayra dhaarrin, 'aajilan ghayra 'aajil",
+        "reference": "Sahih (Albani). Abu Dawud: 1169",
+        "audio": 526,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Istisqa or prayer for Rain #1",
+        "content": "Narrated Jabir bin Abdillah (RA): (Because of draught) some people came to the Prophet (ﷺ) weeping. Then the Prophet (ﷺ) said -",
+        "translation": "O Allah, shower upon us abundant rain, beneficial not harmful, swiftly and not delayed.",
+        "note": "Soon the sky became overcast."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        527
+      ],
+      "id": 527,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 527,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَغِثْنَا، اَللَّهُمَّ أَغِثْنَا، اَللَّهُمَّ أَغِثْنَا",
+        "indopak": "اَللّٰهُمَّ اَغِثْنَا، اَللّٰهُمَّ اَغِثْنَا، اَللّٰهُمَّ اَغِثْنَا",
+        "clean": "اللهم اغثنا اللهم اغثنا اللهم اغثنا",
+        "transliteration": "Allaahumma 'aghithnaa. Allaahumma 'aghithnaa. Allaahumma 'aghithnaa",
+        "reference": "Bukhari: 1014",
+        "audio": 527,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Istisqa or prayer for Rain #2",
+        "content": null,
+        "translation": "O Allah, give us rain. O Allah, give us rain. O Allah, give us rain.",
+        "note": "Narrated Anas: A man enters the mosque on Friday. The Messenger of Allah (ﷺ) was then standing and giving a sermon (speech). The man said, “O Messenger of Allah! (Our) wealth has been destroyed, roads have been cut off; Pray to Allah to give us rain. ”Hearing this, the Messenger of Allah (ﷺ) raised his hands and said:(The dua is mentioned  above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        528
+      ],
+      "id": 528,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 528,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اسْقِ عِبَادَكَ، وَبَهَائِمَكَ، وَانْشُرْ رَحْمَتَكَ، وَأَحْيِي بَلَدَكَ الْمَيِّتَ",
+        "indopak": "اَللّٰهُمَّ اسْقِ عِبَادَكَ، وَبَهَائِمَكَ، وَانْشُرْ رَحْمَتَكَ، وَاَحْيِيْ بَلَدَكَ الْمَيِّتَ",
+        "clean": "اللهم اسق عبادك وبهاءمك وانشر رحمتك واحيي بلدك الميت",
+        "transliteration": "Allahum-masqi 'ibaadaka, wa bahaa'imaka, wanshur rahmataka, wa 'ahyi baladakal-mayyita",
+        "reference": "Hasan (Albani). Abu Dawud: 1176",
+        "audio": 528,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Istiska or  prayer for Rain #3",
+        "content": "Messenger of Allah (ﷺ), used to say:",
+        "translation": "O Allah, give water to Your slaves, and Your livestock, and spread Your mercy, and revive Your dead land.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        529
+      ],
+      "id": 529,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 529,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا، اَللَّهُمَّ عَلَى الْآكَامِ وَالظِّرَابِ، وَبُطُونِ الْأَوْدِيَةِ، وَمَنَابِتِ الشَّجَرِ",
+        "indopak": "اَللّٰهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا، اَللّٰهُمَّ عَلَى الْاٰكَامِ وَالظِّرَابِ، وَبُطُوْنِ الْاَوْدِيَةِ، وَمَنَابِتِ الشَّجَرِ",
+        "clean": "اللهم حوالينا ولا علينا اللهم علي الاكام والظراب وبطون الاوديه ومنابت الشجر",
+        "transliteration": "Allaahumma hawaalaynaa wa laa 'alaynaa. Allaahumma 'alal-'aakaami wadh-dhiraabi, wa butoonil-'awdiyati, wa manaabitish-shajar",
+        "reference": "Hasan (Albani). Abu Dawud: 1/218",
+        "audio": 529,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Dua for stopping heavy rains",
+        "content": null,
+        "translation": "O Allah, let it pass us and not fall upon us, but upon the hills and mountains, and the center of the valleys, and upon the forested lands.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        530
+      ],
+      "id": 530,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 530,
+        "groups": null,
+        "uthmani": "مُطِرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ",
+        "indopak": "مُطِرْنَا بِفَضْلِ اللّٰهِ وَرَحْمَتِهٖ",
+        "clean": "مطرنا بفضل الله ورحمته",
+        "transliteration": "Mutirnaa bifadhlillaahi wa rahmatihi",
+        "reference": "Bukhari: 846",
+        "audio": 530,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Thanking Allah after the rain",
+        "content": null,
+        "translation": "It has rained by the bounty of Allah and His mercy.",
+        "note": "Narrated Zaid bin Khalid Al-Juhani (RA): The Prophet (ﷺ) led us in the Fajr prayer at Hudaibiya after a rainy night. On completion of the prayer, he faced the people and said, \"Do you know what your Lord has said (revealed)?\" The people replied, \"Allah and His Apostle know better.\" He said, \"Allah has said, 'In this morning some of my slaves remained as true believers and some became non-believers; whoever said that (The dua is mentioned above) had belief in Me and he disbelieves in the stars, and whoever said that it rained because of a particular star had no belief in Me but believes in that star.'"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        531
+      ],
+      "id": 531,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 531,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ ﴿۱﴾ اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِیْنَ ۙ﴿۲﴾ الرَّحْمٰنِ الرَّحِیْمِ ۙ﴿۳﴾ مٰلِكِ یَوْمِ الدِّیْنِ ؕ﴿۴﴾ اِیَّاكَ نَعْبُدُ وَاِیَّاكَ نَسْتَعِیْنُ ؕ﴿۵﴾ اِهْدِنَا الصِّرَاطَ الْمُسْتَقِیْمَ ۙ﴿۶﴾ صِرَاطَ الَّذِیْنَ اَنْعَمْتَ عَلَیْهِمْ غَیْرِ الْمَغْضُوْبِ عَلَیْهِمْ وَلَا الضَّآلِّیْنَ ٪﴿۷﴾",
+        "clean": "بسم الله الرحمن الرحم  الحمد لله رب العلمن  الرحمن الرحم  ملك وم الدن  ااك نعبد وااك نستعن  اهدنا الصراط المستقم  صراط الذن انعمت علهم غر المغضوب علهم ولا الضالن ",
+        "transliteration": "(1) Bismillaahir Rahmaanir Raheem. (2) Alhamdu lillaahi Rabbil 'aalameen. (3) Ar-Rahmaanir-Raheem. (4) Maaliki Yawmid-Deen. (5) Iyyaaka na'budu wa lyyaaka nasta'een. (6) Ihdinas-Siraatal-Mustaqeem. (7) Siraatal-lazeena an'amta 'alaihim ghayril-maghdoobi 'alaihim wa lad-daaalleen",
+        "reference": "Bukhari: 5741",
+        "audio": 531,
+        "cat_id": 33,
+        "subcat_id": 99
+      },
+      "source": {
+        "name": "Dua of poisonous sting",
+        "content": "Surah Fatiha",
+        "translation": "(1) In the name of Allah, the Entirely Merciful, the Especially Merciful. (2) [All] praise is [due] to Allah, Lord of the worlds - (3) The Entirely Merciful, the Especially Merciful, (4) Sovereign of the Day of Recompense. (5) It is You we worship and You we ask for help. (6) Guide us to the straight path - (7) The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray. (Sura Fatiha: 1-7)",
+        "note": "Narrated Al-Aswad (RA): I asked `Aisha about treating poisonous stings (a snake-bite or a scorpion sting) with a Ruqya. She said, \"The Prophet (ﷺ) allowed the treatment of poisonous sting with Ruqya.\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        532
+      ],
+      "id": 532,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 532,
+        "groups": null,
+        "uthmani": "بَارَكَ اللَّهُ لَكَ",
+        "indopak": "بَارَكَ اللّٰهُ لَكَ",
+        "clean": "بارك الله لك",
+        "transliteration": "Barakallahu lak",
+        "reference": "Sahih (Albani). Ibn Majah: 3508, 3509",
+        "audio": 532,
+        "cat_id": 33,
+        "subcat_id": 99
+      },
+      "source": {
+        "name": "When in fear of afflicting someone with one’s eye",
+        "content": "When one of you sees something in his brother's, or his own, or his own possessions that makes him wonder, let him say:",
+        "translation": "Allah give blessings to you.",
+        "note": "Because, for the evil eye is real."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        533
+      ],
+      "id": 533,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 533,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 4439",
+        "audio": null,
+        "cat_id": 33,
+        "subcat_id": 99
+      },
+      "source": {
+        "name": "Dua of exorcise for various diseases",
+        "content": "‘Ayesha (RA) said that when the Prophet (ﷺ) was afflicted, he would recite Surah Nas, Falaq, blow on his body and wipe the body with his hands.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_018.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "28-29",
+  "source_chars": 4484,
+  "items": [
+    {
+      "key": [
+        28
+      ],
+      "id": 28,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 28,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 29
+      },
+      "source": {
+        "topic_name": null,
+        "text": "If he/she is a Muslim, then you use the method of targhib wa tarhib [Reminding him of the Rewards for obeying Allah (SWT) (by leaving the body), and warning him of the Punishment for disobeying Him (SWT) (by remaining in possession of the body)], and you should treat him/her according to the reason of his entrance into the body that he/she possesses. If the reason for his/her possession is due to an unjust act from the possessed person, then inform him/her that the person never saw him/her; never intended to do any harm, and so does not deserve any punishment.\n\nIf the reason for his/her possession is out of desire or passion for the possessed person, you need to explain to him/her that it is unlawful, and remind him/her of the Punishment of Allah (SWT), on the Day of Resurrection.\n\nIf the reason of his/her possession is merely to oppress the possessed person, inform him/her about the evil consequences due to oppressors and of their punishment, on the Day of Judgment.\n\nIf he responds and leaves the body, then all praise be to Allah; yet before he leaves, it is necessary for him/her to make an oath to Allah (SWT). He should repeat after you the following oath:\n\n<ar> عَاهِدْتُ اللهَ تَعَالَى أَنْ أُخْرُجُ مِنْ هَذَا الْجَسَدِ وَلَا أَعُوْدُ إِلَيْهِ مَرَّةََ أُخْرَى وَلَا إِلَى أَحَدِِ مِنَ الْمُسْلِمِيْنَ وَإِنْ نَكَثْتُ فِيْ عَهْدِيْ فَعَلَيَّ لَعْنَةُ اللهِ وَالْمَلَائِكَةِ وَالنَّاسِ أَجْمَعِيْنَ اَللَّهُمَّ إِنْ كُنْتَ صَادِقََا فَسَهَّلَ عَلَيَّ خُرُوْجِيْ وَإِنْ كُنْتَ كَاذِبََا فَمَكَّنَ الْمُؤْمِنِيْنَ مِنِّي. وَاللهُ عَلَى مَا أَقُوْلُ شَهِيْدٌ. </ar>\n\n<i><b>Transliteration:</b> ‘Aahidtu allaha ta’ala an ukhruju min hadhal jasad, wa laa a’uudu ilaihi marratan ukhraa wa laa ilaa ahadin minal muslimina wa in nakath-tu fi ‘ahdi fa’ala la’natu llahi wal malaa-ikati wan naasi ajma’in. Allahumma in kunta saadiqan fasahhala ‘alaiyya khuruji wa in kunta kaadhiban famakkanal mu’minina minni. Wallahu ‘ala maa aqulu shahidun.</i>\n\n<b>Translation:</b> \"I make my pledge to Allah to leave this body and never come back to it another time, and not to any other Muslim. And If I break my pledge, then may the curse of Allah, His Angels and all people be upon me. If I am truthful, make my exit easy; and if I am a liar, then make the believers have power over me. Allah (SWT) is Witness of my statement\".\n\nThen you say: \"From which side will you leave? If he replies that he will come out from an eye, neck or stomach of the possessed person; say to him \"No, but you have to leave from his/her mouth, nose, ears, fingers or toes”, and then say to him/her, “Before you leave, say: 'Assalamu alaykom”.\n\nAfter he leaves, check to confirm his exit, because Jinn are often deceptive; so it is necessary that you recite the Ruqyah once again, and if the patient shows some signs of effect of the Qur'an - a shiver in some parts of his/her body – then be certain that the Jinn is still in some part of the body; otherwise, he/she must have left."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        29
+      ],
+      "id": 29,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 29,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 30
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>First:</b> Before you start anything, you should give him a good and complete insight into Islam, and then you should invite him to embrace it. If he/she does, order him/her to repent, explaining to him/her that in order to complete his/her repentance, he/she has to give up his unjust possession of the body and leave it at once.\n\n<b>Second:</b> If he/she refuses to embrace Islam, do not try to convince him (as there is no compulsion where the religion is concerned); yet, you may order him to leave the body. If he/she leaves, then all Praise be to Allah (SWT); but if he/she resists, then it would be necessary to threaten him/her, and it is even permissible to beat him/her. However, no one is permitted to beat unless he has some experience that qualifies him to be certain that the beating would affect the Jinn only and not the possessed person. There is a type of Jinn who flees before the beating, so all the blows fall upon the stricken person, who feels the pain usually on his/her shoulders and throughout the whole of the body.\n\n<b>Third:</b> Reciting the verse of al-Kursi, and the following Suras that hurt the Jinn, such as, Yā Sin, al-sāffāt, al-Dukhan, al-Jinn, the last part of Surah al-Hashr, Surah al-Humazah and al-A'la. In general, any verse where Jinn or demons are mentioned, and verses about Hell-Fire and Punishment; they all hurt Jinn and make them suffer.\n\nIf he responds, then stop his punishment with the Qur'an, take his pledge with Allah (mentioned earlier), and order him to leave."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

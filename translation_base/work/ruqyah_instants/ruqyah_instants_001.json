@@ -1,0 +1,552 @@
+{
+  "table": "ruqyah_instants",
+  "chunk": "ruqyah_instants_001.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 18,
+  "id_range": "1-18",
+  "source_chars": 5463,
+  "items": [
+    {
+      "key": [
+        1
+      ],
+      "id": 1,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 1,
+        "topic_id": 1,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/brief/1.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Fatiha 1:1-7",
+        "content": null,
+        "translation": "(1) In the name of Allah, the Entirely Merciful, the Especially Merciful. (2) [All] praise is [due] to Allah, Lord of the worlds - (3) The Entirely Merciful, the Especially Merciful, (4) Sovereign of the Day of Recompense. (5) It is You we worship and You we ask for help. (6) Guide us to the straight path - (7) The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        2
+      ],
+      "id": 2,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 2,
+        "topic_id": 2,
+        "uthmani": "أَعُوذُ بِاللهِ السَّمِيْعِ الْعَلِيْمِ مِنَ الشَّيطَانِ الرَّجِيمِ مِنْ هَمْزِهِ وَنَفْخِهِ وَنَفْثِهِ",
+        "transliteration": "‘Audhu billahis sami’il ‘aliimi minash shaitaanir rajiimi min hamzihi wa nafkhihi wa nafthih.",
+        "reference": "Sunan Abu Dawud: 775 & 764, Sunan Tirmidhi: 242",
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/brief/1.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud : 775",
+        "content": null,
+        "translation": "I seek refuge in Allah, the All-Hearing, All-Knowing, from Satan, the outcast, and from his whispers, his blowing and his Nafith."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        3
+      ],
+      "id": 3,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 3,
+        "topic_id": 1,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/1.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Fatiha 1:1-7",
+        "content": null,
+        "translation": "(1) In the name of Allah, the Entirely Merciful, the Especially Merciful. (2) [All] praise is [due] to Allah, Lord of the worlds - (3) The Entirely Merciful, the Especially Merciful, (4) Sovereign of the Day of Recompense. (5) It is You we worship and You we ask for help. (6) Guide us to the straight path - (7) The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        4
+      ],
+      "id": 4,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 4,
+        "topic_id": 2,
+        "uthmani": "أَعُوذُ بِاللهِ السَّمِيْعِ الْعَلِيْمِ مِنَ الشَّيطَانِ الرَّجِيمِ مِنْ هَمْزِهِ وَنَفْخِهِ وَنَفْثِهِ",
+        "transliteration": "A’udhu Billahis Sami’il ‘Alim Minash Shaitanir Razim Min Hamjihi Wa Nafkhihi Wa Nafthih.",
+        "reference": "Sunan Abu Dawud: 775 & 764, Sunan Tirmidhi: 242",
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/med/1.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud : 775",
+        "content": null,
+        "translation": "I seek refuge in Allah, the All-Hearing, All-Knowing, from Satan, the outcast, and from his whispers, his blowing and his Nafth.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        5
+      ],
+      "id": 5,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 5,
+        "topic_id": 1,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/1.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Fatiha 1:1-7",
+        "content": null,
+        "translation": "(1) In the name of Allah, the Entirely Merciful, the Especially Merciful. (2) [All] praise is [due] to Allah, Lord of the worlds - (3) The Entirely Merciful, the Especially Merciful, (4) Sovereign of the Day of Recompense. (5) It is You we worship and You we ask for help. (6) Guide us to the straight path - (7) The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        6
+      ],
+      "id": 6,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 6,
+        "topic_id": 2,
+        "uthmani": "أَعُوذُ بِاللهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَبِسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "transliteration": "A'oothu billaahil-'Adheem, wa bi-Wajhihil-Kareem, wa Sultaanihil-qadeem,minash-Shaytaanir-rajeem.",
+        "reference": "Sunan Abu Dawud: 466",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/1.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud : 466",
+        "content": null,
+        "translation": "By Allah's Glorious Face and His Eternal Power, I seek refuge in Allah, the Magnificent, from Satan, the outcast.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        7
+      ],
+      "id": 7,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 7,
+        "topic_id": 1,
+        "uthmani": "الم ﴿١﴾ ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ ﴿٢﴾ الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ ﴿٣﴾ وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ ﴿٤﴾ أُولَـٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَـٰئِكَ هُمُ الْمُفْلِحُونَ ﴿٥﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/brief/2.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:1-5",
+        "content": null,
+        "translation": "(1) Alif, Lam, Meem. (2) This is the Book about which there is no doubt, a guidance for those conscious of Allah - (3) Who believe in the unseen, establish prayer, and spend out of what We have provided for them, (4) And who believe in what has been revealed to you, [O Muhammad], and what was revealed before you, and of the Hereafter they are certain [in faith]. (5) Those are upon [right] guidance from their Lord, and it is those who are the successful."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        8
+      ],
+      "id": 8,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 8,
+        "topic_id": 2,
+        "uthmani": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لاَمَّةٍ",
+        "transliteration": "A'udhu bi kalimaatillaah ittaammah min kulli shaytaanin wa haammah wa min kulli 'aynin laammah.",
+        "reference": "Sahih Al-Bukhari: 3371",
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/brief/2.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Al-Bukhari : 3371",
+        "content": null,
+        "translation": "I seek refuge in Allah's perfect words from the evil of all what He has created, from all devils and insects and from all envious eyes."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        9
+      ],
+      "id": 9,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 9,
+        "topic_id": 1,
+        "uthmani": "الم ﴿١﴾ ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ ﴿٢﴾ الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ ﴿٣﴾ وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ ﴿٤﴾ أُولَـٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَـٰئِكَ هُمُ الْمُفْلِحُونَ ﴿٥﴾ إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ ﴿٦﴾ خَتَمَ اللَّـهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ ﴿٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/2.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:1-7",
+        "content": null,
+        "translation": "(1) Alif, Lam, Meem. (2) This is the Book about which there is no doubt, a guidance for those conscious of Allah - (3) Who believe in the unseen, establish prayer, and spend out of what We have provided for them, (4) And who believe in what has been revealed to you, [O Muhammad], and what was revealed before you, and of the Hereafter they are certain [in faith]. (5) Those are upon [right] guidance from their Lord, and it is those who are the successful.(6) Indeed, those who disbelieve - it is all the same for them whether you warn them or do not warn them - they will not believe.(7) Allah has set a seal upon their hearts and upon their hearing, and over their vision is a veil. And for them is a great punishment."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        10
+      ],
+      "id": 10,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 10,
+        "topic_id": 2,
+        "uthmani": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لاَمَّةٍ",
+        "transliteration": "A'udhu bi kalimaatillaahit taammah min kulli shaytaanin wa haammah wa min kulli 'aynin laammah.",
+        "reference": "Sahih Al-Bukhari: 3371",
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/med/2.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Al-Bukhari : 3371",
+        "content": null,
+        "translation": "I seek refuge in Allah's perfect words from all devils and insects and from all envious eyes."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        11
+      ],
+      "id": 11,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 11,
+        "topic_id": 1,
+        "uthmani": "الم ﴿١﴾ ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ ﴿٢﴾ الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ ﴿٣﴾ وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ ﴿٤﴾ أُولَـٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَـٰئِكَ هُمُ الْمُفْلِحُونَ ﴿٥﴾ إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ ﴿٦﴾ خَتَمَ اللَّـهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ ﴿٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/2.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:1-7",
+        "content": null,
+        "translation": "(1) Alif, Lam, Meem. (2) This is the Book about which there is no doubt, a guidance for those conscious of Allah - (3) Who believe in the unseen, establish prayer, and spend out of what We have provided for them, (4) And who believe in what has been revealed to you, [O Muhammad], and what was revealed before you, and of the Hereafter they are certain [in faith]. (5) Those are upon [right] guidance from their Lord, and it is those who are the successful. (6) Indeed, those who disbelieve - it is all the same for them whether you warn them or do not warn them - they will not believe. (7) Allah has set a seal upon their hearts and upon their hearing, and over their vision is a veil. And for them is a great punishment."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        12
+      ],
+      "id": 12,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 12,
+        "topic_id": 2,
+        "uthmani": "أَعُوذُ بِاللهِ السَّمِيْعِ الْعَلِيْمِ مِنَ الشَّيطَانِ الرَّجِيمِ مِنْ هَمْزِهِ وَنَفْخِهِ وَنَفْثِهِ",
+        "transliteration": "‘Audhu billahis sami’il ‘aliimi minash shaitaanir rajiimi min hamzihi wa nafkhihi wa nafthih.",
+        "reference": "Sunan Abu Dawud: 775 & 764, Sunan Tirmidhi: 242",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/2.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud : 775",
+        "content": null,
+        "translation": "I seek refuge in Allah, the All-Hearing, All-Knowing, from Satan, the outcast, and from his whispers, his blowing and his Nafth.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        13
+      ],
+      "id": 13,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 13,
+        "topic_id": 1,
+        "uthmani": "اللَّـهُ لَا إِلَـٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ ﴿٢٥٥﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/brief/3.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:255",
+        "content": null,
+        "translation": "(255) Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        14
+      ],
+      "id": 14,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 14,
+        "topic_id": 2,
+        "uthmani": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ كُلِّهِنَّ مِنْ شَرِّ مَا خَلَقَ",
+        "transliteration": "A'udhu bi kalimaatillaah ittaammati min sharri ma khalaq.",
+        "reference": "Sahih Muslim: 2708, Musnad Al Imam Ahmad: 5/364",
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/brief/3.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Muslim : 2708",
+        "content": null,
+        "translation": "I seek refuge in Allah's perfect Words from the evil of what He has created."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        15
+      ],
+      "id": 15,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 15,
+        "topic_id": 1,
+        "uthmani": "بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ ۖ وَإِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ ﴿١١٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/3.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:117",
+        "content": null,
+        "translation": "(117) Originator of the heavens and the earth. When He decrees a matter, He only says to it, “Be,” and it is."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        16
+      ],
+      "id": 16,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 16,
+        "topic_id": 2,
+        "uthmani": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ كُلِّهِنَّ مِنْ شَرِّ مَا خَلَقَ",
+        "transliteration": "A'udhu bi kalimaatillaahit taammaati min sharri ma khalaq.",
+        "reference": "Sahih Muslim: 2708, Musnad Al Imam Ahmad: 5/364",
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/med/3.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Muslim : 2708",
+        "content": null,
+        "translation": "I seek refuge in all of Allah's perfect words from the evil of what He has created.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        17
+      ],
+      "id": 17,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 17,
+        "topic_id": 1,
+        "uthmani": "بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ ۖ وَإِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ ﴿١١٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/3.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:117",
+        "content": null,
+        "translation": "(117) Originator of the heavens and the earth. When He decrees a matter, He only says to it, \"Be,\" and it is."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        18
+      ],
+      "id": 18,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 18,
+        "topic_id": 2,
+        "uthmani": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لاَمَّةٍ",
+        "transliteration": "A'udhu bi kalimaatillaahit taammah min kulli shaytaanin wa haammah wa min kulli 'aynin laammah.",
+        "reference": "Sahih Al-Bukhari: 3371",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/3.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Al-Bukhari : 3371",
+        "content": null,
+        "translation": "I seek refuge in Allah's perfect words from the evil of all what He has created, from all devils and insects and from all envious eyes.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    }
+  ]
+}

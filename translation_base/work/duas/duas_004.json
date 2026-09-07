@@ -1,0 +1,396 @@
+{
+  "table": "duas",
+  "chunk": "duas_004.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 12,
+  "id_range": "51-62",
+  "source_chars": 5991,
+  "items": [
+    {
+      "key": [
+        51
+      ],
+      "id": 51,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 51,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Muslim: 395",
+        "audio": null,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "While reciting Surah Fatiha behind the Imam",
+        "content": "Abu Huraira (RA) reported: The Apostle of Allah (ﷺ) said: If anyone observes prayer in which he does not recite Umm al-Qur'an, It is deficient [he said this three times] and not complete. It was said to Abu Huraira (RA): At times we are behind the Imam. He said: Recite it inwardly, for he had heard the Messenger of Allah (ﷺ) declare that Allah the Exalted had said: I have divided the prayer into two halves between Me and My servant, and My servant will receive what he asks. When the servant says: Praise be to Allah, the Lord of the universe, Allah the Most High says: My servant has praised Me. And when he (the servant) says: The Most Compassionate, the Merciful, Allah the Most High says: My servant has lauded Me. And when he (the servant) says: Master of the Day of judgment, He remarks: My servant has glorified Me. and sometimes He would say: My servant entrusted (his affairs) to Me. And when he (the worshipper) says: Thee do we worship and of Thee do we ask help, He (Allah) says: This is between Me and My servant, and My servant will receive what he asks for. Then, when he (the worshipper) says: Guide us to the straight path, the path of those to whom Thou hast been Gracious not of those who have incurred Thy displeasure, nor of those who have gone astray, He (Allah) says: This is for My servant, and My servant will receive what he asks for.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        52
+      ],
+      "id": 52,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 52,
+        "groups": null,
+        "uthmani": "رَبَّنَا وَلَكَ الْحَمْدُ، حَمْدًا كَثِيْرًا طَيِّبًا مُبَارَكًا فِيهِ",
+        "indopak": "رَبَّنَا وَلَكَ الْحَمْدُ، حَمْدًا كَثِيْرًا طَيِّبًا مُّبَارَكًا فِيْهِ",
+        "clean": "ربنا ولك الحمد حمدا كثيرا طيبا مباركا فيه",
+        "transliteration": "Rabbanaa wa lakal-hamd, hamdan katheeran tayyiban mubaarakan feeh",
+        "reference": "Bukhari: 799",
+        "audio": 52,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Dua after getting up from the rukoo",
+        "content": "One day we were praying behind the Prophet (ﷺ). When he raised his head from bowing, he said, \"Sami'Allah Huliman 'Hamidah\" A man behind him said -",
+        "translation": "Our Lord, praise is Yours, abundant, good and blessed praise.",
+        "note": "When the Prophet (ﷺ) completed the prayer, he asked, \"Who has said these words?\" The man replied, \"I.\" The Prophet (ﷺ) said, \"I saw over thirty angels competing to write it first.\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        53
+      ],
+      "id": 53,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 53,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "[1] Bukhari: 780\n[2] Bukhari: 782",
+        "audio": null,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "If the Amin of any one coincides with that of the angels",
+        "content": "Narrated by Abu Huraira (RA): The Prophet (ﷺ) said, \"Say Amin\" when the Imam says it and if the Amin of any one of you coincides with that of the angels then all his past sins will be forgiven.\" [1]\n\nNarrated by Abu Huraira (RA): Allah's Messenger (ﷺ) said, \"Say Amen\" when the Imam says 'Ghairil maghdubi 'alaihim walad daalleen' (not the path of those who earn Your Anger (such as Jews) nor of those who go astray (such as Christians); all the past sins of the person whose saying (Amin) coincides with that of the angels, will be forgiven\". [2]",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        54
+      ],
+      "id": 54,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 54,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَبَّنَا وَلَكَ الْحَمْدُ",
+        "indopak": "اَللّٰهُمَّ رَبَّنَا وَلَكَ الْحَمْدُ",
+        "clean": "اللهم ربنا ولك الحمد",
+        "transliteration": "Allaahumma Rabbanaa wa lakal-hamd",
+        "reference": "Bukhari: 796",
+        "audio": 54,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Dua after rising from rukoo",
+        "content": "Allah's Messenger (ﷺ) said, \"When the Imam says, 'Sami'Allahu liman hamidah' you should say -",
+        "translation": "O Allah, our Lord and to You be the praise.",
+        "note": "If the saying of any one of you coincides with that of the angels, all his past sins will be forgiven."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        55
+      ],
+      "id": 55,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 55,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ يَا اللَّهُ بِأَنَّكَ الْوَاحِدُ الْأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ أَنْ تَغْفِرَ لِي ذُنُوبِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ يَا اَللّٰهُ بِاَنَّكَ الْوَاحِدُ الْاَحَدُ الصَّمَدُ الَّذِيْ لَمْ يَلِدْ وَلَمْ يُوْلَدْ وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ اَنْ تَغْفِرَ لِيْ ذُنُوْبِيْ اِنَّكَ اَنْتَ الْغَفُوْرُ الرَّحِيْمُ",
+        "clean": "اللهم اني اسالك يا الله بانك الواحد الاحد الصمد الذي لم يلد ولم يولد ولم يكن له كفوا احد ان تغفر لي ذنوبي انك انت الغفور الرحيم",
+        "transliteration": "Allaahumma inni as'aluka ya Allahu bi annakal Wahidul-Ahad us-Samadulla-dhi lam yalid wa lam yowlad, wa lam yakun lahu kufuwan ahad, an taghfirali dhunubi, innaka antal-Ghafurur-Rahim",
+        "reference": "Sahih (Albani). Nasai: 1301",
+        "audio": 55,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Before salam #1",
+        "content": "Allah's Apostle (ﷺ) entered the mosque. Then a person is reciting Tashahhud towards the end of the prayer. He said -",
+        "translation": "O Allah, I ask of You, O Allah, as You are the One, the Only, the Self-Sufficient Master, Who begets not nor was He begotten, and there is None equal or comparable to Him, forgive me my sins, for You are the Oft-Forgiving, Most Merciful.",
+        "note": "The Messenger of Allah (ﷺ) said: \"He has been forgiven,\" three times."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        56
+      ],
+      "id": 56,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 56,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدُ لَا إِلَهَ إِلَّا أَنْتَ الْمَنَّانُ بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ يَا حَيُّ يَا قَيُّوْمُ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ بِاَنَّ لَكَ الْحَمْدُ لَا اِلٰهَ اِلَّا اَنْتَ الْمَنَّانُ بَدِيْعُ السَّمَاوَاتِ وَالْاَرْضِ يَا ذَا الْجَلَالِ وَالْاِكْرَامِ يَا حَيُّ يَا قَيُّوْمُ",
+        "clean": "اللهم اني اسالك بان لك الحمد لا اله الا انت المنان بديع السماوات والارض يا ذا الجلال والاكرام يا حي يا قيوم",
+        "transliteration": "Allaahumma inni as'aluka bi-anna lakal-hamdu, laa ilaaha illaa antal-mannanu badi'us-samawaati wal-ardi, yaa dhal-jalaali wal-ikraam! Yaa hayyu yaa qayyum",
+        "reference": "Sahih (Albani). Abu Dawud: 1495",
+        "audio": 56,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Before salam #2",
+        "content": "A man was praying. He did ruku’, sajdah and supplicate after tashahhud -",
+        "translation": "O Allah, I ask Thee by virtue of the fact that praise is due to Thee, there is no deity but Thou, Who showest favour and beneficence, the Originator of the Heavens and the earth, O Lord of Majesty and Splendour, O Living One, O Eternal One.",
+        "note": "The Prophet (ﷺ) said: 'Do you know what he has supplicated with?' They said: \"Allah (SWT) and His Messenger (ﷺ) know best.\"He said: 'By the One in Whose Hand is my soul, he called upon Allah by His greatest Name, which, if He is called by it, He responds, and if He is asked by it, He gives.'"
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        57
+      ],
+      "id": 57,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 57,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنِّي أَشْهَدُ أَنَّكَ اَنْتَ اللَّهُ لَا إِلَهَ إِلَّا أَنْتَ الْأَحَدُ الصَّمَدُ الَّذِيْ لَمْ يَلِدْ وَلَمْ يُوْلَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ بِاَنِّيْ اَشْهَدُ اَنَّكَ اَنْتَ اللّٰهُ لَا اِلٰهَ اِلَّااَنْتَ الْاَحَدُ الصَّمَدُ الَّذِيْ لَمْ يَلِدْ وَلَمْ يُوْلَدْ وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ",
+        "clean": "اللهم اني اسالك باني اشهد انك انت الله لا اله الاانت الاحد الصمد الذي لم يلد ولم يولد ولم يكن له كفوا احد",
+        "transliteration": "Allaahumma 'innee 'as'aluka bi 'anni 'ash-hadu 'annaka 'AntAllahu laa 'ilaaha 'illaa 'Antal-'Ahadus-Samadul-ladhee lam yalid wa lam yoolad wa lam yakun lahu kufuwan 'Ahad",
+        "reference": "Sahih (Albani). Abu Dawud: 1493",
+        "audio": 57,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Before salam #3",
+        "content": "The Messenger of Allah (ﷺ) heard a man saying -",
+        "translation": "O Allah, I ask You, by the fact that I bear witness that You are Allah. There is none worthy of worship but You, the Only God, Independent of creation, who was not begotten and begets not, and none is equal to Him.",
+        "note": "The Prophet (ﷺ) said: 'By the One in Whose Hand is my soul, he called upon Allah by His greatest Name, which, if He is called by it, He responds, and if He is asked by it, He gives.'"
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        58
+      ],
+      "id": 58,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 58,
+        "groups": null,
+        "uthmani": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ",
+        "indopak": "اَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهٗ وَرَسُوْلُهٗ",
+        "clean": "اشهد ان لا اله الا الله وحده لا شريك له واشهد ان محمدا عبده ورسوله",
+        "transliteration": "Ash-hadu an laa ilaaha ill-Allahu wahdahu laa sharika lahu, wa ash hadu anna Muhammadan ‘abduhu wa Rasooluhu",
+        "reference": "Muslim: 234",
+        "audio": 58,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Reciting specific dua after ablution",
+        "content": "The Prophet (ﷺ) said: If any one of you performs ablution and performs it properly, then he says -",
+        "translation": "I bear witness that none has the right to be worshipped but Allah alone, Who has no partner; and I bear witness that Muhammad (ﷺ) is His slave and His Messenger.",
+        "note": "The eight gates of Paradise will be opened for him; He will enter (Paradise) through whichever door he wishes."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        59
+      ],
+      "id": 59,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 59,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيءٍ قَدِيرٌ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَاشَرِيْكَ لَهٗ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
+        "clean": "لا اله الا الله وحده لاشريك له له الملك وله الحمد وهو علي كل شيء قدير",
+        "transliteration": "Laa ilaaha ill-Allahu, wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu, wa huwa ‛alaa kulli shay’in qadeer",
+        "reference": "Hasan (Albani). Tirmidhi: 3585",
+        "audio": 59,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Dua in the day of ‘Arafah at ‘Arafat",
+        "content": "The Prophet (ﷺ) said: The best supplication is the supplication on the day of 'Arafah. The best dua that the Prophet (ﷺ) recited is -",
+        "translation": "None has the right to be worshiped except Allah, alone, without partner. To Him belongs sovereignty and all praise and He is over all things omnipotent.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        60
+      ],
+      "id": 60,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 60,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 3303",
+        "audio": null,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "When the rooster crows",
+        "content": "Narrated by Abu Huraira (RA): The Prophet (ﷺ) said, \"When you hear the crowing of rooster, ask for Allah's Blessings for (their crowing indicates that) they have seen an angel. And when you hear the braying of donkeys, seek Refuge with Allah from Satan for (their braying indicates) that they have seen a Satan.\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        61
+      ],
+      "id": 61,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 61,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 2215",
+        "audio": null,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "When the heart is devoted to Allah",
+        "content": "This concept is included in the hadith of the inhabitants of the cave. Because each of them mentioned one of their good deeds which they did only for Allah and to get close to him.  So, when they were supplicating by their good deed, Allah responded to them.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        62
+      ],
+      "id": 62,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 62,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 969",
+        "audio": null,
+        "cat_id": 3,
+        "subcat_id": 9
+      },
+      "source": {
+        "name": "Ten days of the month of Dhul Hijjah",
+        "content": "Narrated by Ibn `Abbas (RA): The Prophet (ﷺ) said, \"No good deeds done on other days are superior to those done on these (first ten days of Dhul Hijja).\" Then some companions of the Prophet (ﷺ) said, \"Not even Jihad?\" He replied, \"Not even Jihad, except that of a man who does it by putting himself and his property in danger (for Allah's sake) and does not return with any of those things.\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    }
+  ]
+}

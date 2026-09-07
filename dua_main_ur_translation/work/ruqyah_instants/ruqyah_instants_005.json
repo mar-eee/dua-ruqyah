@@ -1,0 +1,522 @@
+{
+  "table": "ruqyah_instants",
+  "chunk": "ruqyah_instants_005.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 17,
+  "id_range": "53-69",
+  "source_chars": 5786,
+  "items": [
+    {
+      "key": [
+        53
+      ],
+      "id": 53,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 53,
+        "topic_id": 1,
+        "uthmani": "شَهِدَ اللَّـهُ أَنَّهُ لَا إِلَـٰهَ إِلَّا هُوَ وَالْمَلَائِكَةُ وَأُولُو الْعِلْمِ قَائِمًا بِالْقِسْطِ ۚ لَا إِلَـٰهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ ﴿١٨﴾ إِنَّ الدِّينَ عِندَ اللَّـهِ الْإِسْلَامُ ۗ وَمَا اخْتَلَفَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِآيَاتِ اللَّـهِ فَإِنَّ اللَّـهَ سَرِيعُ الْحِسَابِ ﴿١٩﴾ فَإِنْ حَاجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِيَ لِلَّـهِ وَمَنِ اتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُوا الْكِتَابَ وَالْأُمِّيِّينَ أَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا فَقَدِ اهْتَدَوا ۖ وَّإِن تَوَلَّوْا فَإِنَّمَا عَلَيْكَ الْبَلَاغُ ۗ وَاللَّـهُ بَصِيرٌ بِالْعِبَادِ ﴿٢٠﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/9.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ali 'Imran 3:18-20",
+        "content": null,
+        "translation": "(18) Allah witnesses that there is no deity except Him, and [so do] the angels and those of knowledge - [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise. (19) Indeed, the religion in the sight of Allah is Islam. And those who were given the Scripture did not differ except after knowledge had come to them - out of jealous animosity between themselves. And whoever disbelieves in the verses of Allah, then indeed, Allah is swift in [taking] account. (20) So if they argue with you, say, \"I have submitted myself to Allah [in Islam], and [so have] those who follow me.\" And say to those who were given the Scripture and [to] the unlearned, \"Have you submitted yourselves?\" And if they submit [in Islam], they are rightly guided; but if they turn away - then upon you is only the [duty of] notification. And Allah is Seeing of [His] servants."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        54
+      ],
+      "id": 54,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 54,
+        "topic_id": 2,
+        "uthmani": "أَعُوْذُ بِاللّٰهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ",
+        "transliteration": "Bismillah (3 times), A’oodhu billahi wa qudratihi min sharri ma ajidu wa uhadhiru.",
+        "reference": "Sahih Muslim: 222, Sunan Tirmidhi: 3588",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/9.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Muslim : 222",
+        "content": "Say 3 times Bismillah, Then, say 7 times,",
+        "translation": "In the name of Allah. I seek refuge in Allah and His might from the evil of what I find and fear.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": "",
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        55
+      ],
+      "id": 55,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 55,
+        "topic_id": 2,
+        "uthmani": "اللَّهُمَّ إِنَّا نَسْأَلُكَ مِن خَيْرِ مَا سَأَلَكَ مِنْهُ نَبِيُّكَ مُحَمَّدٌ (ﷺ)، وَنَعُوذُ بِكَ مِن شَرِّ مَا اسْتَعَاذَ مِنْهُ نَبِيُّكَ مُحَمَّدٌ (ﷺ)، وَأَنْتَ الْمُسْتَعَانُ، وَعَلَيْكَ الْبَلَاغُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ.",
+        "transliteration": "Allahumma innaa nas-aluka min khairi maa sa-alaka minhu nabiyyuka muhammadun sallallahu ‘alaihi wa sallam wa na’udhu bika min sharri maas ta’a-adha minhu nabiyyuka muhammadun sallallahu ‘alaihi wa sallam wa antal musta’aanu wa ‘alaikal balaagh, wa laa hawla wa laa quwwata illa billah.",
+        "reference": "SunanTirmidhi: 3521",
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/brief/10.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Tirmidhi: 3521",
+        "content": null,
+        "translation": "O Allah, we beg You to grant us good as Your Prophet Muhammad begged of You, and we seek refuge in You from evil as Your Prophet Muhammad sought in You. You are the only One whose help is sought, and the only One that answers prayers. There is no help or power except from Allah."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        56
+      ],
+      "id": 56,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 56,
+        "topic_id": 1,
+        "uthmani": "قُلِ اللَّـهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاءُ وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاءُ وَتُعِزُّ مَن تَشَاءُ وَتُذِلُّ مَن تَشَاءُ ۖ بِيَدِكَ الْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿٢٦﴾ تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ ۖ وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ ۖ وَتَرْزُقُ مَن تَشَاءُ بِغَيْرِ حِسَابٍ ﴿٢٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/10.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ali 'Imran 3:26-27",
+        "content": null,
+        "translation": "(26) Say, “O Allah, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand is [all] good. Indeed, You are over all things competent. (27) You cause the night to enter the day, and You cause the day to enter the night; and You bring the living out of the dead, and You bring the dead out of the living. And You give provision to whom You will without account.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        57
+      ],
+      "id": 57,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 57,
+        "topic_id": 2,
+        "uthmani": "اَللّٰهُمَّ إِنِّيْ أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدُ لاَ إِلٰهَ إِلاَّ أَنْتَ، الْمَنَّانُ بَدِيْعُ السَّمَوَاتِ وَالأَرْضِ، يَا ذَا الْجَلَالِ وَالْإِكْرَامِ يَا حَيُّ يَا قَيُّومُ",
+        "transliteration": "Allaahumma 'innee 'as'aluka bi'anna lakal-hamd laa 'ilaaha 'illaa 'Anta, Al-Mannaanu, Badee'as-samaawaati wal'ardhi yaa dhal-Jalaali wal-'Ikraam, yaa Hayyu yaa Qayyoom.",
+        "reference": "Musnad Al-Imam Ahmad: 3/158",
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/med/10.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Musnad Ahmad : 3/158",
+        "content": null,
+        "translation": "O Allah, it is You Whom I beg for help, for to You all praise is due, and there is no god but You. You are the Compassionate, the Originator of the heavens and the earth, the Lord of Majesty and Splendor. You are the Living, the Eternal."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        58
+      ],
+      "id": 58,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 58,
+        "topic_id": 1,
+        "uthmani": "وَمَن يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ ﴿٨٥﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/10.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ali 'Imran 3:85",
+        "content": null,
+        "translation": "(85) And whoever desires other than Islam as religion - never will it be accepted from him, and he, in the Hereafter, will be among the losers."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        59
+      ],
+      "id": 59,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 59,
+        "topic_id": 2,
+        "uthmani": "بِسْمِ اللّٰهِ أَرْقِيْكَ مِنْ كُلِّ شَيْءٍ يُؤْذِيْكَ، مِنْ شَرِّ كُلِّ نَفْسٍ أَوْ عَيْنِ حَاسِدٍ، اللّٰهُ يَشْفِيْكَ، بِاسْمِ اللّٰهِ أَرْقِيْكَ.",
+        "transliteration": "Bismillah-hi Arqik, Min Kulli Shayin Yu'zik, Min Sharri Kulli Nafsin aw ‘Ainin Ha-Sidin, Alla-hu Yashfik, Bismillahi Arqik.",
+        "reference": "Sahih Muslim: 2186",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/10.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Muslim : 2186",
+        "content": null,
+        "translation": "In the name of Allah I am doing this Ruqyah unto you to remove what is harming you and remove the evil of spirits and envious eyes. May Allah grant you healing! In the name of Allah I am doing this Ruqyah unto you."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        60
+      ],
+      "id": 60,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 60,
+        "topic_id": 2,
+        "uthmani": "لاَ إِلَهَ إِلاَّ اللهُ الْعَظِيمُ الْحَلِيمُ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ السَّمَوَاتِ وَرَبُّ الْأَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيمِ",
+        "transliteration": "La ila-ha illallah-hul ‘azimul halim. La ila-ha illallah-hu rabbul ‘arshil’ azeem. La ilaha illallah-hu rabbus sama-wa-ti wa rabbul ardi wa rabbul ‘arshil kareem.",
+        "reference": "Sahih Bukhari: 6345",
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/brief/11.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Sahih Bukhari: 6345",
+        "content": null,
+        "translation": "There is no god but Allah, the Magnificent, the Forbearing; there is no god but Allah, Lord of the Tremendous Throne, Lord of the heavens and the earth, and Lord of the Glorious Throne."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        61
+      ],
+      "id": 61,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 61,
+        "topic_id": 1,
+        "uthmani": "وَمَن يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ ﴿٨٥﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/11.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ali 'Imran 3:85",
+        "content": null,
+        "translation": "(85) And whoever desires other than Islam as religion - never will it be accepted from him, and he, in the Hereafter, will be among the losers."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        62
+      ],
+      "id": 62,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 62,
+        "topic_id": 2,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ إِنِّي أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لاَ إِلَهَ إِلاَّ أَنْتَ الْأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُواً أَحَدٌ",
+        "transliteration": "Alla-humma inni as-aluka bi-anni ash-hadu annaka antalla-hu la ilaa-ha illa antal ahadus samadulladhi lam yalid wa lam yulad wa lam yakullahu kufuwan ahad.",
+        "reference": "Musnad Al-Imam Ahmad: 5/350, Sahih Ibn Hibbaan: 891",
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/med/11.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Musnad Ahmad : 5/350",
+        "content": null,
+        "translation": "O Allah, it is You Whom I beg for help, for I bear witness that there is no god but You, the One, the eternally Besought of all, Who begets not, nor is He begotten; and to Whom none is comparable.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        63
+      ],
+      "id": 63,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 63,
+        "topic_id": 1,
+        "uthmani": "إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِأَمْرِهِ ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ ﴿٥٤﴾ ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ ﴿٥٥﴾ وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ ﴿٥٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/11.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-A'raf 7:54-56",
+        "content": null,
+        "translation": "(54) Indeed, your Lord is Allah, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, His is the creation and the command; blessed is Allah, Lord of the worlds. (55) Call upon your Lord in humility and privately; indeed, He does not like transgressors. (56) And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allah is near to the doers of good."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        64
+      ],
+      "id": 64,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 64,
+        "topic_id": 2,
+        "uthmani": "بِسْمِ اللهِ يُبْرِيكَ وَمِنْ كُلِّ دَاءٍ يَشْفِيكَ وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ وَشَرِّ كُلِّ ذِي عَيْنٍ",
+        "transliteration": "Bismillahi Yubrika wa min kulli da-in yashfika wa min sharri ha-sidin idha hasad, wa sharri kulli dhi ‘ain.",
+        "reference": "Sahih Muslim: 2185",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/11.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Muslim : 2185",
+        "content": null,
+        "translation": "In the name of Allah, may He grant you healing; may He cure you of all diseases, of the evil of envious ones when they envy, and of the evil eye.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        65
+      ],
+      "id": 65,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 65,
+        "topic_id": 2,
+        "uthmani": "رَبُّنَا اللهُ الَّذِي فِي السَّمَاءِ، تَقَدَّسَ اسْمُكَ أَمْرُكَ فِي السَّمَاءِ وَالْأَرْضِ، كَمَا رَحْمَتُكَ فِي السَّمَاءِ فَاجْعَلْ رَحْمَتَكَ فِي الْأَرْضِ، اِغْفِرْ لَنَا حُوْبَنَا وَخَطَايَانَا، أَنْتَ رَبُّ الطَّيِّبِينَ، أَنْزِلْ رَحْمَةً مِنْ رَحْمَتِكَ وَشِفَاءً مِنْ شِفَائِكَ عَلَى هَذَا الْوَجَعِ، فَيَبْرَأَ.",
+        "transliteration": "Rabbunallahulladhi fis sama-i taqaddasasmuka amruka fissama-i wal ardi kamaa rahmatuka fissama-i faj’al rahmataka fil ardi ighfir lanaa huubanaa wa khataayanaa anta rabbut tayyibin, anzil rahmatan min rahmatika wa shifaa-ika ‘ala hadhal waja-’i fayabra-a.",
+        "reference": "Sunan Abu Dawud: 3892, Musnad Al-Imam Ahmad: 6/21, & Ibn Al-Qayyim's Zaad Al-Mee aad, No.3/141",
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/brief/12.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud: 3892",
+        "content": "Say 3 times,",
+        "translation": "O our Lord, Allah, You are in Heaven; holy be Your name. Your command reigns supreme in the heavens and on the earth. As Your mercy is in the heavens, have Your mercy on the earth. Forgive our sins. You are the Lord of the good. Send down of Your mercy and healing unto this ailment to cure it."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": "",
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        66
+      ],
+      "id": 66,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 66,
+        "topic_id": 1,
+        "uthmani": "إِنَّ رَبَّكُمُ اللَّـهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِأَمْرِهِ ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ اللَّـهُ رَبُّ الْعَالَمِينَ ﴿٥٤﴾ ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ ﴿٥٥﴾ وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ اللَّـهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ ﴿٥٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/12.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-A'raf 7:54-56",
+        "content": null,
+        "translation": "(54) Indeed, your Lord is Allah, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, His is the creation and the command; blessed is Allah, Lord of the worlds. (55) Call upon your Lord in humility and privately; indeed, He does not like transgressors. (56) And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allah is near to the doers of good."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        67
+      ],
+      "id": 67,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 67,
+        "topic_id": 2,
+        "uthmani": "اَللَّهُمَّ أَذْهِبِ الْبَأْسَ، رَبَّ النَّاسِ، وَاشْفِ أَنْتَ الشَّافِي، لاَ شِفَاءَ إِلاَّ شِفَاؤُكَ، شِفَاءً لاَ يُغَادِرُ سَقَمًا.",
+        "transliteration": "Allahumma Adhibil Ba'as, Rabbannas, Washfi Antash-Shafi, Laa-Shifa-A Illa-Shifa-Uka. Shifa-an la-yuga-diru saqama.",
+        "reference": "Sahih Al-Bukhari: 5675, Sahih Muslim: 2191",
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/med/12.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Al-Bukhari : 5675",
+        "content": null,
+        "translation": "O Allah, Lord of mankind! It is You Who removes suffering. You are the Healer, and none can heal but You. I beg You to bring about healing that leaves behind no ailment.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        68
+      ],
+      "id": 68,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 68,
+        "topic_id": 1,
+        "uthmani": "قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَٰنَ ۖ أَيًّا مَّا تَدْعُوا فَلَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا ﴿١١٠﴾ وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ ۖ وَكَبِّرْهُ تَكْبِيرًا ﴿١١١﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/12.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Isra 17:110-111",
+        "content": null,
+        "translation": "(110) Say, \"Call upon Allah or call upon the Most Merciful. Whichever [name] you call - to Him belong the best names.\" And do not recite [too] loudly in your prayer or [too] quietly but seek between that an [intermediate] way. (111) And say, \"Praise to Allah, who has not taken a son and has had no partner in [His] dominion and has no [need of a] protector out of weakness; and glorify Him with [great] glorification.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        69
+      ],
+      "id": 69,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 69,
+        "topic_id": 2,
+        "uthmani": "بِسْمِ اللّٰهِ، تُرْبَةُ أَرْضِنَا بِرِيْقَةِ بَعْضِنَا، يُشْفَىٰ سَقِيْمُنَا بِإِذْنِ رَبِّنَا",
+        "transliteration": "Bismillah. Turbatu Ardina, Biriqqati Ba'adina, Yushfa Saqimuna, Bi-idhni Rabbina-.",
+        "reference": "Sahih Al-Bukhari: 5745, Sahih Muslim: 2194",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/12.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Bukhari : 5745",
+        "content": null,
+        "translation": "In the name of Allah, with the earth of our land and the saliva of some of us, the ill amongst us will be healed by Allah's permission.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    }
+  ]
+}

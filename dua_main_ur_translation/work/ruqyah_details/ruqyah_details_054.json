@@ -1,0 +1,34 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_054.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 1,
+  "id_range": "107-107",
+  "source_chars": 2073,
+  "items": [
+    {
+      "key": [
+        107
+      ],
+      "id": 107,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 107,
+        "topic_id": null,
+        "cat_id": 6,
+        "subcat_id": 88
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>1.</b> He will be somebody who firmly believes in Tawheed and is free from all types of shirk, kufr and misguidance and does not associate himself with beliefs/actions that may lead one to fall into any of these categories.\n\n<b>2.</b> He will be somebody who has firm belief in Allah, His Messenger and all other articles of faith.\n\n<b>3.</b> He is somebody other Muslims can account for (i.e. the person is known in the community as somebody who is pious, practicing, genuine etc).\n\n<b>4.</b> He will be one who follows the Sunnah, acts according to it and will advise his patients to do the same.\n\n<b>5.</b> He will perform Ruqyah hoping for reward from Allah.\n\n<b>6.</b> He will perform Ruqyah seeking assistance from Allah alone without any partners/intermediaries to cure his patients and will ask for cure from Him.\n\n<b>7.</b> His Ruqyah will not stray into those methods which are prohibited by the Qur’an and Sunnah.\n\n<b>8.</b> His Ruqyah will be free from Shirk.\n\n<b>9.</b> His Ruqyah will not be for worldly gains (although charging is permissible, a reasonable price is recognisable from an overly-expensive treatment).\n\n<b>Further conditions of a Raaqi</b>\n\n<b>1.</b> He must have sincerity in worshipping Allah and have a good intention in treating people.\n\n<b>2.</b> He must be firm in his obedience to Allah, and keep away from all that is forbidden like wearing threads, rings, Amulet(Taweez), burning papers and drinking it. etc\n\n<b>3.</b> He must keep far away from all unlawful places and situations that can lead to what is forbidden, for example isolating himself with a female, etc.\n\n<b>4.</b> He must guard the affairs of his patients and protect their secrets.\n\n<b>5.</b> He must propagate the religion of Allah. Give the Patient advice and admonitions on the rights of Allah with regards to His commandments and prohibitions.\n\n<b>6.</b> He should have knowledge about the affairs of the patient and sicknesses.\n\n<b>7.</b> He should have knowledge about the reality of Jinns (so as not to have them harm or threaten him while curing the patient)."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

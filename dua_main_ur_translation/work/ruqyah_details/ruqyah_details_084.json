@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_084.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "167-168",
+  "source_chars": 5592,
+  "items": [
+    {
+      "key": [
+        167
+      ],
+      "id": 167,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 167,
+        "topic_id": null,
+        "cat_id": 14,
+        "subcat_id": 139
+      },
+      "source": {
+        "topic_name": null,
+        "text": "In the Sunnah Hijama was praised by the Prophet (Allah’s peace be upon him) and it may be regarded as a safe, non-invasive and economical way of curing and preventing many diseases. Though Chinese use of this method was limited to certain medical complications like lungs infection, colds, to treat internal organs’ disorders, joint pain, etc. the scope of hijama in terms of benefit is much greater in the Sunnah.\n\nThe word ‘hijama’ means ‘drawing out’ in Arabic. It is now being recognized as an alternative medicine or alternative way of treating different diseases and bodily disorders. Some sections of the modern medical community also endorse the various benefits of hijama and even encourage its practice for certain diseases.\n\nIn this non-surgical procedure, toxic or ‘bad’ blood is drawn out from the body. Certain ‘hijama points’ on the body are addressed to do so. On such selected points, blood is encouraged to accumulate and then sucked out by using a little vacuum system. The blood is made to accumulate on the surface of the skin where minute incisions are introduced on the skin; the blood comes out from the incisions and is collected in a cup from where it is removed.\n\nMany scholars have mentioned that Hijamah is one of the effective means in curing magic affliction by extracting the substance of magic from the place in which it rests.\n\nIbn Al-Qayim (R) said that Abu Obeid (R) mentioned in his book (Gharib Al-Hadith) that Abulrahman related that Allah’s Messenger (ﷺ) used Hijamah when he was affected with magic. Abu Obeid (R) also added that those with little knowledge can not see the relation between Hijamah and magic or this ailment and cure. He thus stated that if Hippocrates or Ibn Sina were to find a text saying so, they would have readily accepted it. The prophet, whose knowledge can not be doubted, advised the use of Hijamah. He knew that the magic material in his body settles in his head, affecting one of this powers whereby he would imagine doing things which did not actually do; this is a typical behavior of a magician in reality. The material used in the magic resulted in a change in his mood, altering its natural disposition.\n\nIbn Al-Qayim (R) also added regarding the treatment of magic that using Hijamah in the place afflicted with magic is the best cure if used in the ascribed manner (Zaad Al-Maad-4/125-126). Al-Qayim (R) also maintained that Hijamah was used by the prophet (ﷺ) a means of treatment even before it was revealed to him that he was under the effect of magic (Al-Tib Al-Nabawi -p.118).\n\nThe act of performing Hijama (cupping) is a Sunnah of the Prophet Muhammad (ﷺ) and it is extensively reported in a wide collection of authentic ahadith. Its practice is strongly recommended and emphasized in a number of narrations. The practice of Hijama forms an integral part of Islamic Prophetic Medicine.\n\nHijama was a common practice of the Prophet Muhammad (ﷺ) and his companions for the treatment of a range of ailments as well as a form of body maintenance and health promotion."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        168
+      ],
+      "id": 168,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 168,
+        "topic_id": null,
+        "cat_id": 14,
+        "subcat_id": 140
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Hijama has been in use in many countries to treat certain diseases or bodily disorders. While the Chinese seem to have played a leading role in using this technique to treat certain diseases, Arabs and others have also adopted it since it was recognized as beneficial by the Prophet (Allah’s peace be upon him). The Europeans were also doing cupping to treat many diseases. The difference between the Arabs or Muslims and others in doing hijama was not hidden since while believers were more interested to do hijama as the Sunnah of the Prophet (peace and blessings of Allah be upon him) (without questioning anything), others were doing it purely for medical benefit.\n\nThe first and top-level benefit of hijama for a believer is the reward he or she will get, both heavenly and worldly, for following a stressed Sunnah of the Prophet (peace and blessings of Allah be upon him). Not only the believers but also anyone can openly observe or experience the benefits that are bestowed on the followers of the commands of Allah Most High and His Prophet (peace and blessings of Allah be upon him). On the other hand, when we look at this technique from a worldly perspective, we can find hijama has many benefits.\n\nIt is noted that hijama promotes the flow of energy in the blood. It removes toxins and other waste material from the blood. It helps hasten recovery time for people recovering from certain diseases. Hijama is known to prevent many diseases and, therefore, can be considered one of the best preventive measures against many diseases. Moreover, in many cultures, hijama is thought to help those who are under some magic spell or who are under the influence of some evil beings.\n\nHijama has no side effects as long as performed properly. It is also worth noting that many diseases and disorders are associated with failure of blood to circulate properly in the body. Furthermore, we get sick or our body organs fail to perform healthily when our blood keep circulating loaded with toxins and other impurities. Unless the toxic waste is removed from the body or from the blood, not only we do not recover quickly from disease but also we become victims to other diseases. Hijama is an excellent way to remove the toxic waste from the blood stream, and the results will obviously be a healthy and properly functioning body. We should never forget that this highly useful and recommended Sunnah of the Prophet SAW helps us in controlling many diseases such as infections, hypertension, circulatory diseases, pains, infertility, cancer, etc."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

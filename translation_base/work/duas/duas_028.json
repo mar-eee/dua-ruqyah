@@ -1,0 +1,588 @@
+{
+  "table": "duas",
+  "chunk": "duas_028.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 18,
+  "id_range": "380-397",
+  "source_chars": 5997,
+  "items": [
+    {
+      "key": [
+        380
+      ],
+      "id": 380,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 380,
+        "groups": null,
+        "uthmani": "أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ الَّذِيْ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ إِلَيْهِ",
+        "indopak": "اَسْتَغْفِرُ اللّٰهَ الْعَظِيْمَ الَّذِيْ لَا اِلٰهَ اِلَّا هُوَ الْحَيُّ الْقَيُّوْمُ وَاَتُوْبُ اِلَيْهِ",
+        "clean": "استغفر الله العظيم الذي لا اله الا هو الحي القيوم واتوب اليه",
+        "transliteration": "Astaghfirulla-hal adhemal-ladhee laa ilaaha illaa huwal hayyul qayyoomu wa atoobu ilayhi",
+        "reference": "[1] Sahih (Albani). Abu Dawud: 1517\n[2] Sahih (Albani). Tirmidhi: 3579\n[3] Muslim: 482\n[4] Muslim: 2702",
+        "audio": 380,
+        "cat_id": 21,
+        "subcat_id": 69
+      },
+      "source": {
+        "name": "Masnun Istegfar #4",
+        "content": "The Prophet (ﷺ) added: The person who says:",
+        "translation": "I seek the forgiveness of Allah the Mighty, Whom there is none worthy of worship except Him, the Living, the Eternal, and I repent to Him.",
+        "note": "Allah would forgive him even if he was one who fled during the advance of an army.\" [1]\n\nHe (ﷺ) said: \"The nearest the Lord comes to His servant is in the middle of the night, so if you are able to be of those who remember Allah at that time, then be so.\" [2]\n\nHe (ﷺ) also said: \"The nearest a servant is to his Lord is when he is prostrating, so supplicate much therein.\" [3]\n\nHe (ﷺ) also said: \"Verily my heart becomes preoccupied, and verily I seek Allah\"s forgiveness a hundred times a day.\" [4]"
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        381
+      ],
+      "id": 381,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 381,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ الْحَلِيمُ الْكَرِيمُ، لَا إِلَهَ إِلَّا اللَّهُ الْعَلِيُّ الْعَظِيمُ، سُبْحَانَ اللَّهِ رَبِّ السَّمَوَاتِ السَّبْعِ وَرَبِّ الْعَرْشِ الْعَظِيمِ، اَلْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِيْنَ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ الْحَلِيْمُ الْكَرِيْمُ، لَا اِلٰهَ اِلَّا اللّٰهُ الْعَلِيُّ الْعَظِيْمُ، سُبْحَانَ اللّٰهِ رَبِّ السَّمَاوَاتِ السَّبْعِ وَرَبِّ الْعَرْشِ الْعَظِيْمِ، اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ",
+        "clean": "لا اله الا الله الحليم الكريم لا اله الا الله العلي العظيم سبحان الله رب السماوات السبع ورب العرش العظيم الحمد لله رب العالمين",
+        "transliteration": "Laa ilaha illallaahul halimul karim, laa ilaaha illallaahul ‘aliyyul ‘azim, subhaanallaahi rabbis samawaatis sab’i wa rabbil ‘arshil ‘azim, alhamdu lillaahi rabbil ‘aalamin",
+        "reference": "Sahih isnaad (Ahmad Shakir). Musnad Ahmad 2/39",
+        "audio": 381,
+        "cat_id": 21,
+        "subcat_id": 69
+      },
+      "source": {
+        "name": "Masnun Istegfar #5",
+        "content": null,
+        "translation": "There is no true God but Allah the Most Patient, the Most Honorable. There is no true God but Allah the Most Exalted, the Most High. I am proclaiming the holiness of the Lord of the seven heavens and the Lord of the glorious throne. All praise is due to Allah, the Lord of the worlds.",
+        "note": "‘Narrated from Ali bin Abi Talib (RA), will I not teach you some sentences which if you say you will be forgiven even though you are forgiven (He then told the above sentences)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        382
+      ],
+      "id": 382,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 382,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِيْ وَأَنَا عَبْدُكَ وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِيْ فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+        "indopak": "اَللّٰهُمَّ اَنْتَ رَبِّيْ لَا اِلٰهَ اِلَّا اَنْتَ، خَلَقْتَنِيْ وَاَنَا عَبْدُكَ وَاَنَا عَلٰى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، اَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ اَبُوْءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَاَبُوْءُ بِذَنْۢبِيْ فَاغْفِرْ لِيْ فَاِنَّهٗ لَا يَغْفِرُ الذُّنُوْبَ اِلَّا اَنْتَ",
+        "clean": "اللهم انت ربي لا اله الا انت خلقتني وانا عبدك وانا علي عهدك ووعدك ما استطعت اعوذ بك من شر ما صنعت ابوء لك بنعمتك علي وابوء بذنبي فاغفر لي فانه لا يغفر الذنوب الا انت",
+        "transliteration": "Allaahumma anta rabbee laa ilaaha illaa anta, khalaqtanee wa-ana ‘abduka, wa-ana ‘alaa ‘ahdika wawa‘dika mas-tata‘tu, a‘oothu bika min sharri maa sana‘tu, aboo-o laka bini‘matika ‘alayya, wa-aboo-o bithanbee, faghfir lee fa-innahu laa yaghfirudh dhunooba illaa anta",
+        "reference": "Bukhari: 6306",
+        "audio": 382,
+        "cat_id": 21,
+        "subcat_id": 70
+      },
+      "source": {
+        "name": "Sayyidul Istighfar (Best way to ask forgiveness)",
+        "content": null,
+        "translation": "O Allah, You are my Lord, none has the right to be worshipped except You, You created me and I am Your servant and I abide to Your covenant and promise as best I can, I take refuge in You from the evil of which I have committed. I acknowledge Your favour upon me and I acknowledge my sin, so forgive me, for verily none can forgive sin except You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        383
+      ],
+      "id": 383,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 383,
+        "groups": null,
+        "uthmani": "اِسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا",
+        "indopak": "اِسْتَغْفِرُوْا رَبَّكُمْ اِنَّهٗ كَانَ غَفَّارًا",
+        "clean": "استغفروا ربكم انه كان غفارا",
+        "transliteration": null,
+        "reference": "Surah Nooh 71:10",
+        "audio": 383,
+        "cat_id": 21,
+        "subcat_id": 71
+      },
+      "source": {
+        "name": "Repentance is mentioned in the Qur'an #1",
+        "content": "Allah says:",
+        "translation": "Ask forgiveness from your Lord; for He is Oft-Forgiving;",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        384
+      ],
+      "id": 384,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 384,
+        "groups": null,
+        "uthmani": "وَتُوبُوٓا إِلَى اللَّهِ جَمِيعًا أَيُّهَ الْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+        "indopak": "وَتُوْبُوْ اِلٰى اللّٰهِ جَمِيْعًا اَيُّهَ الْمُؤْمِنُوْنَ لَعَلَّكُمْ تُفْلِحُوْنَ",
+        "clean": "وتوبو الي الله جميعا ايه المءمنون لعلكم تفلحون",
+        "transliteration": null,
+        "reference": "Surah An-Noor 24:31",
+        "audio": 384,
+        "cat_id": 21,
+        "subcat_id": 71
+      },
+      "source": {
+        "name": "Repentance is mentioned in the Qur'an #2",
+        "content": "Allah says:",
+        "translation": "And turn to Allah in repentance, all of you, O believers, that you might succeed.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        385
+      ],
+      "id": 385,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 385,
+        "groups": null,
+        "uthmani": "يٰٓأَيُّهَا الَّذِينَ ءَامَنُوا تُوبُوٓا إِلَى اللَّهِ تَوْبَةً نَّصُوحًا",
+        "indopak": "يَا اَيُّهَا الَّذِيْنَ اٰمَنُوْا تُوْبُوْا اِلٰى اللّٰهِ تَوْبَةً نَّصُوْحًا",
+        "clean": "يا ايها الذين امنوا توبوا الي الله توبه نصوحا",
+        "transliteration": null,
+        "reference": "Surah At-Tahrim 66:8",
+        "audio": 385,
+        "cat_id": 21,
+        "subcat_id": 71
+      },
+      "source": {
+        "name": "Repentance is mentioned in the Qur'an #3",
+        "content": "Allah says:",
+        "translation": "O you who have believed, repent to Allah with sincere repentance.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        386
+      ],
+      "id": 386,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 386,
+        "groups": null,
+        "uthmani": "وَالَّذِينَ إِذَا فَعَلُوا فٰحِشَةً أَوْ ظَلَمُوٓا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ وَلَمْ يُصِرُّوا عَلٰى مَا فَعَلُوا وَهُمْ يَعْلَمُونَ",
+        "indopak": "وَالَّذِيْنَ اِذَا فَعَلُوْا فٰحِشَةً اَوْ ظَلَمُوْا اَنْفُسَهُمْ ذَكَرُوا اللّٰهَ فَاسْتَغْفَرُوْا لِذُنُوْبِهِمْ وَمَن يَّغْفِرُ الذُّنُوْبَ اِلَّا اللّٰهُ وَلَمْ يُصِرُّوْا عَلٰى مَا فَعَلُوْا وَهُمْ يَعْلَمُوْنَ",
+        "clean": "والذين اذا فعلوا فحشه او ظلموا انفسهم ذكروا الله فاستغفروا لذنوبهم ومن يغفر الذنوب الا الله ولم يصروا علي ما فعلوا وهم يعلمون",
+        "transliteration": null,
+        "reference": "Surah Ali Imran 3:135",
+        "audio": 386,
+        "cat_id": 21,
+        "subcat_id": 71
+      },
+      "source": {
+        "name": "Repentance is mentioned in the Qur'an #4",
+        "content": "Allah says:",
+        "translation": "And those who, when they commit an immorality or wrong themselves [by transgression], remember Allah and seek forgiveness for their sins - and who can forgive sins except Allah? - and [who] do not persist in what they have done while they know.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        387
+      ],
+      "id": 387,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 387,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 6307",
+        "audio": null,
+        "cat_id": 21,
+        "subcat_id": 71
+      },
+      "source": {
+        "name": "Repentance is mentioned in the hadith #1",
+        "content": "Narrated Abu Huraira: He said, \"I heard the Messenger of Allah (ﷺ) say, 'By Allah! I pray and repent to Allah more than seventy times a day.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        388
+      ],
+      "id": 388,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 388,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Muslim: 2702",
+        "audio": null,
+        "cat_id": 21,
+        "subcat_id": 71
+      },
+      "source": {
+        "name": "Repentance is mentioned in the hadith #2",
+        "content": "Narrated Abu Burda: I heard Agar, the Companion of the Prophet (ﷺ), narrating a hadeeth quoting Ibn 'Umar. He said that the Messenger of Allah (ﷺ) said, “People! Repent to Allah (turn to Him); I repent to him a hundred times a day.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        389
+      ],
+      "id": 389,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 389,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Sahih (Albani). Abu Dawud: 1515",
+        "audio": null,
+        "cat_id": 21,
+        "subcat_id": 71
+      },
+      "source": {
+        "name": "Repentance is mentioned in the hadith #3",
+        "content": "Narrated Agar Muzani (RA): The Messenger of Allah (ﷺ) said, \"Sometimes my heart goes astray, and I ask Allah for forgiveness a hundred times a day.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      }
+    },
+    {
+      "key": [
+        390
+      ],
+      "id": 390,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 390,
+        "groups": null,
+        "uthmani": "إِنَّ الْحَمْدَ لِلَّهِ نَحْمَدُهُ وَنَسْتَعِينُهُ وَنَسْتَغْفِرُهُ وَنَعُوذُ بِاللَّهِ مِنْ شُرُورِ أَنْفُسِنَا وَمِنْ سَيِّئَاتِ أَعْمَالِنَا، مَنْ يَهْدِهِ اللَّهُ فَلَا مُضِلَّ لَهُ وَمَنْ يُضْلِلْ فَلَا هَادِيَ لَهُ أَشْهَدُ أَنْ لَّا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ\n\nيَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلَا تَمُوتُنَّ إِلَّا وَأَنْتُمْ مُّسْلِمُونَ\n\nيَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِّن نَّفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَاءً ۚ وَاتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ وَالْأَرْحَامَ ۚ إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا \n\nيَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًۭا سَدِيدًا يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا",
+        "indopak": "اِنَّ الْحَمْدَ لِلّٰهِ نَحْمَدُهٗ وَنَسْتَعِيْنُهٗ وَنَسْتَغْفِرُهٗ وَنَعُوْذُ بِاللّٰهِ مِنْ شُرُوْرِ اَنْفُسِنَا وَمِنْ سَيِّئَاتِ اَعْمَالِنَا، مَنْ يَّهْدِ اللّٰهُ فَلَا مُضِلَّ لَهٗ  ـ وَمَنْ يُّضْلِلْ فَلَا هَادِيَ لَهٗ ـ  اَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اللّٰهُ وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهٗ وَرَسُوْلُهٗ ـ  يَا اَيُّهَا الَّذِيْنَ اٰمَنُوْا اتَّقُوا اللّٰهَ حَقَّ تُقَاتِهٖ وَلَا تَمُوْتُنَّ اِلَّا وَاَنْتُمْ مُّسْلِمُوْنَ \n\nيَا اَيُّهَا النَّاسُ اتَّقُوْا رَبَّكُمُ الَّذِيْ خَلَقَكُم مِّنْ نَّفْسٍ وَّاحِدَةٍ ـ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيْرًا وَّنِسَاءً ۚ وَاتَّقُوا اللّٰهَ الَّذِيْ تَسَاءَلُوْنَ بِهٖ وَالْاَرْحَامَ ۚ اِنَّ اللّٰهَ كَانَ عَلَيْكُمْ رَقِيْبًا \n\nيَا اَيُّهَا الَّذِيْنَ اٰمَنُوا اتَّقُوا اللّٰهَ وَقُوْلُوْا قَوْلًا سَدِيْدًا يُصْلِحْ لَكُمْ اَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوْبَكُمْ وَمَنْ يُّطِعِ اللّٰهَ وَرَسُوْلَهٗ فَقَدْ فَازَ فَوْزًا عَظِيْمًا",
+        "clean": "ان الحمد لله نحمده ونستعينه ونستغفره ونعوذ بالله من شرور انفسنا ومن سيءات اعمالنا من يهد الله فلا مضل له   ومن يضلل فلا هادي له   اشهد ان لا اله الا الله واشهد ان محمدا عبده ورسوله   يا ايها الذين امنوا اتقوا الله حق تقاته ولا تموتن الا وانتم مسلمون يا ايها الناس اتقوا ربكم الذي خلقكم من نفس واحده  وخلق منها زوجها وبث منهما رجالا كثيرا ونساء  واتقوا الله الذي تساءلون به والارحام  ان الله كان عليكم رقيبا يا ايها الذين امنوا اتقوا الله وقولوا قولا سديدا يصلح لكم اعمالكم ويغفر لكم ذنوبكم ومن يطع الله ورسوله فقد فاز فوزا عظيما",
+        "transliteration": "Innal-hamda lillaah nahmaduhu wa nasta‛eenuhu wa nastaghfiruhu, wa na‛oodhu billaahi min shuroori anfusinaa wa min sayyi’aati a‛maalinaa, man yahdih-illaahu fa laa mudilla lah, wa man yudlil fa laa haadiya lah, ash-hadu an laa ilaaha ill-Allaahu, wa ash-hadu anna muhammadan ‛abduhu wa rasooluh\n\nYaa ayyuhal-ladheena aamanut-taqullaaha ‘haqqa tuqaatihi walaa tamootunna illaa wa antum muslimoon\n\nyaa ayyuhan-naasut-taqoo rabbakum-ul-ladhee khalaqakum min nafsin wa’hidatin, wa khalaqa minhaa zawjahaa, wa bath-tha minhumaa rijaalan katheeran wanisaa’-an, wat-taqullaahal-ladhee tasaa’aloona bihi wal ar’haam, inn-Allaaha kaana ‛alaykum raqeebaa\n\nYaa ayyuhal-ladheena aamanut-taqullaaha wa qooloo qawlan sadeeda, yusli’h lakum a‛maalakum wa yaghfir lakum dhunoobakum, wa man yuti‛illaaha wa rasoolahu faqad faaza fawz-an ‛azeemaa",
+        "reference": "[1] Surah Al Imran : 3:102\n[2] Sura An-nisa : 4:1\n[3] Suah  Al-Ahjab: 33:70-71\nSohih(albani) Timiji : 1105",
+        "audio": 390,
+        "cat_id": 22,
+        "subcat_id": 72
+      },
+      "source": {
+        "name": "Statement of urgent need",
+        "content": "Abdullah bin Mas'ud (RA) narrated: \"The Messenger of Allah (ﷺ) taught us the Tashah-hud for Salat and the Tashah-hud for Al-Hajjah.\" He said: \"The Tashah-hud for Salat is:",
+        "translation": "Indeed all Praise is for Allah, we praise Him, we seek His help and we ask His forgiveness. We seek refuge with Allah from the evil of our own souls and from the evil of our actions. Whoever Allah guides will never be led astray,and whomever Allah leads astray, no one can guide. I bear witness that there is no deity worthy of worship except Allah, and I bear witness that Muhammad is His slave and Messenger. (then reads the following verses)\n\nO you who believe! Fear Allah as He should be feared, and die not except as Muslims; [1]\n\nO Mankind! Fear your Lord, Who created you from a single person, and from him created his wife, and from them he created many men and women, and fear Allah through Whom you demand your mutual (rights). Surely, Allah is Ever Watchful over you; [2]\n\nO you who believe! Fear Allah, and speak (always) the truth He will direct you to do righteous good deeds and will forgive you your sins. And whosoever obeys Allah and His Messenger has indeed achieved a great success. [3]",
+        "note": "Then he would talk about his needs. [4]"
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        391
+      ],
+      "id": 391,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 391,
+        "groups": null,
+        "uthmani": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+        "indopak": "رَبَّنَا هَبْ لَنَا مِنْ اَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ اَعْيُنٍ وَّاجْعَلْنَا لِلْمُتَّقِيْنَ اِمَامًا",
+        "clean": "ربنا هب لنا من ازواجنا وذرياتنا قره اعين واجعلنا للمتقين اماما",
+        "transliteration": null,
+        "reference": "Surah Furqan 25:74",
+        "audio": 391,
+        "cat_id": 22,
+        "subcat_id": 73
+      },
+      "source": {
+        "name": "Asking coolness of eyes from family and becoming example for the righteous",
+        "content": null,
+        "translation": "Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        392
+      ],
+      "id": 392,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 392,
+        "groups": null,
+        "uthmani": "بَارَكَ اللَّهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+        "indopak": "بَارَكَ اللّٰهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِيْ خَيْرٍ",
+        "clean": "بارك الله لك وبارك عليك وجمع بينكما في خير",
+        "transliteration": "BaarakAllaahu laka, wa baaraka 'alayka, wa jama'a baynakumaa fee khayr",
+        "reference": "Sahih (Albani). Abu Dawud: 2130",
+        "audio": 392,
+        "cat_id": 22,
+        "subcat_id": 73
+      },
+      "source": {
+        "name": "Congratulating the newlywed",
+        "content": null,
+        "translation": "May Allah bless you, and shower His blessings upon you, and join you together in goodness.",
+        "note": "Abu Hurairah (RA) said, \"The Messenger of Allah (ﷺ) used to say this to congratulate the newlyweds.\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        393
+      ],
+      "id": 393,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 393,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ وَأَعُوْذُ بِكَ مِنْ شَرِّهَا وَمِنْ شَرِّ مَا جَبَلْتَهَا عَلَيْهِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ خَيْرَهَا وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ وَاَعُوْذُ بِكَ مِنْ شَرِّهَا وَمِنْ شَرِّ مَا جَبَلْتَهَا عَلَيْهِ",
+        "clean": "اللهم اني اسالك خيرها وخير ما جبلتها عليه واعوذ بك من شرها ومن شر ما جبلتها عليه",
+        "transliteration": "Allaahumma 'innee 'as'aluka khayrahaa wa khayra ma jabaltahaa 'alayhi wa 'A'oodhu bika min sharrihaa wa min sharri maa jabaltahaa 'alayhi",
+        "reference": "Hasan (Albani). Abu Dawud: 2160",
+        "audio": 393,
+        "cat_id": 22,
+        "subcat_id": 73
+      },
+      "source": {
+        "name": "Dua for accepting wife or husband",
+        "content": null,
+        "translation": "O Allah, I ask You for the goodness of her and the goodness upon which You have created her, and I seek refuge in You from the evil of her and from the evil upon which You have created her.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        394
+      ],
+      "id": 394,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 394,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ بَارِكْ لِي فِي أَهْلِي، وَبَارِكْ لِأَهْلِي فِيَّ اَللَّهُمَّ ارْزُقْهُمْ مِنِّي، وَارْزُقْنِي مِنْهُمْ، اَللَّهُمَّ اجْمَعْ بَيْنَنَا مَا جَمَعْتَ فِي خَيْرٍ، وفَرِّقْ بَيْنَنَا إِذَا فَرَّقْتَ فِي خَيْرٍ",
+        "indopak": "اَللّٰهُمَّ بَارِكْ لِيْ فِيْ اَهْلِيْ، وَبَارِكْ لِاَهْلِيْ فِيَّ اَللّٰهُمَّ ارْزُقْهُمْ مِنِّيْ، وَارْزُقْنِيْ مِنْهُمْ، اَللّٰهُمَّ اجْمَعْ بَيْنَنَا مَا جَمَعْتَ فِيْ خَيْرٍ، وفَرِّقْ بَيْنَنَا اِذَا فَرَّقْتَ فِيْ خَيْرٍ",
+        "clean": "اللهم بارك لي في اهلي وبارك لاهلي في اللهم ارزقهم مني وارزقني منهم اللهم اجمع بيننا ما جمعت في خير وفرق بيننا اذا فرقت في خير",
+        "transliteration": "Allaahumma barik li fi ahli, wa barik li ahli fiyya. Allahumar-zuqhum minni, war zuqni minhum. Allahum-majma’ bainana ma jama’ta fi khairin. wa farriq bainana idha far-raqta fi khair",
+        "reference": "Sahih (Albani). Adabuj Zifaf: 24",
+        "audio": 394,
+        "cat_id": 22,
+        "subcat_id": 73
+      },
+      "source": {
+        "name": "Dua for husband and wife praying together at weeding night",
+        "content": "The Prophet (ﷺ) said that when a woman comes to her husband, the husband will stand for salat and his wife will also stand behind him and both of them will say after performing two rak'ats of salat.",
+        "translation": "Ya Allah! Give barakah for me in my family and give barakah to me for my family. Ya Allah! give provision to them from me and give provision to me from them. Ya Allah! collect all the good in between us which you collected and if you separate any good from us then separate it with good.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        395
+      ],
+      "id": 395,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 395,
+        "groups": null,
+        "uthmani": "بِاسْمِ اللَّهِ اَللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا",
+        "indopak": "بِاسْمِ اللّٰهِ اَللّٰهُمَّ جَنِّبْنَا الشَّيْطَانَ وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا",
+        "clean": "باسم الله اللهم جنبنا الشيطان وجنب الشيطان ما رزقتنا",
+        "transliteration": "Bismillaahi, Allaahumma jannibnash-Shaytaana, wa jannibish-Shaytaana maa razaqtanaa",
+        "reference": "Bukhari: 141",
+        "audio": 395,
+        "cat_id": 22,
+        "subcat_id": 73
+      },
+      "source": {
+        "name": "Before sexual intercourse",
+        "content": null,
+        "translation": "With the Name of Allah. O Allah, keep the I Devil away from us and keep the Devil away from that which You provide for us.",
+        "note": "The Prophet (ﷺ) said, “If anyone says this before sexual intercourse is consummated, the Shaytaan will not harm him if a child is born to them."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        396
+      ],
+      "id": 396,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 396,
+        "groups": null,
+        "uthmani": "بَارَكَ اللَّهُ لَكَ فِي الْمَوْهُوْبِ لَكَ، وَشَكَرْتَ الْوَاهِبَ، وَبَلَغَ أَشُدَّهُ، وَرُزِقْتَ بِرَّهُ.",
+        "indopak": "بَارَكَ اللّٰهُ لَكَ فِي الْمَوْهُوْبِ لَكَ، وَشَكَرْتَ الْوَاهِبَ، وَبَلَغَ اَشُدَّهٗ، وَرُزِقْتَ بِرَّهٗ",
+        "clean": "بارك الله لك في الموهوب لك وشكرت الواهب وبلغ اشده ورزقت بره",
+        "transliteration": "BaarakAllahu laka fil-mawhoobi laka, wa shakartal-waahiba, wa balagha 'ashuddahu, wa ruziqta birrahu",
+        "reference": "This is menioned as a saying of Hasan Al basri Rahimullah. See tuhfatul maodud fi Ibn Qaiiyum, Page. 20",
+        "audio": 396,
+        "cat_id": 22,
+        "subcat_id": 74
+      },
+      "source": {
+        "name": "Congratulations to the newborn",
+        "content": null,
+        "translation": "May Allah bless you with His gift to you, and may you (the new parent) give thanks, may the child reach the maturity of years, and may you be granted its righteousness.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        397
+      ],
+      "id": 397,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 397,
+        "groups": null,
+        "uthmani": "بَارَكَ اللَّهُ لَكَ، وَبَارَكَ عَلَيْكَ، وَجَزَاكَ اللَّهُ خَيْرًا، وَرَزَقَكَ اللَّهُ مِثْلَهُ، وَأَجْزَلَ ثَوَابَكَ",
+        "indopak": "بَارَكَ اللّٰهُ لَكَ، وَبَارَكَ عَلَيْكَ، وَجَزَاكَ اللّٰهُ خَيْرًا، وَرَزَقَكَ اللّٰهُ مِثْلَهٗ، وَاَجْزَلَ ثَوَابَكَ",
+        "clean": "بارك الله لك وبارك عليك وجزاك الله خيرا ورزقك الله مثله واجزل ثوابك",
+        "transliteration": "Baarakallahu laka wa baaraka 'alayka, wa jazaakAllahu khayran, wa razaqakAllahu mithlahu, wa 'ajzala thawaabaka",
+        "reference": "An-Nawawi Al-Azkar Page. 349. Also see Sahih Azkar fil Nawawi, Salim al Hilali 2/713. For more details, read Az Zikr wa dua Wal Ilaj bir Ruqwa Page. 1/416",
+        "audio": 397,
+        "cat_id": 22,
+        "subcat_id": 74
+      },
+      "source": {
+        "name": "Reply of the perents",
+        "content": null,
+        "translation": "May Allah bless you, and shower His blessings upon you, and may Allah reward you well and bestow upon you its like and reward you abundantly.",
+        "note": "The above congratulations and answer are narrated from some of the Companions."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    }
+  ]
+}

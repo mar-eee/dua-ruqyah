@@ -1,0 +1,524 @@
+{
+  "table": "duas",
+  "chunk": "duas_030.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 16,
+  "id_range": "417-432",
+  "source_chars": 5932,
+  "items": [
+    {
+      "key": [
+        417
+      ],
+      "id": 417,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 417,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَرَبَّ الْأَرْضِ، وَرَبَّ الْعَرْشِ الْعَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَالْإِنْجِيلِ، وَالْفُرْقَانِ، أَعُوْذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ أَنْتَ آخِذٌ بِنَاصِيَتِهِ اَللَّهُمَّ أَنْتَ الْأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَأَنْتَ الْآخِرُ فَلَيسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ",
+        "indopak": "اَللّٰهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَرَبَّ الْاَرْضِ، وَرَبَّ الْعَرْشِ الْعَظِيْمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوٰى، وَمُنْزِلَ التَّوْرَاةِ وَالْاِنْجِيْلِ وَالْفُرْقَانِ، اَعُوْذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ اَنْتَ اٰخِذٌ بِنَاصِيَتِهٖ، اَللّٰهُمَّ اَنْتَ الْاَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَاَنْتَ الْاٰخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَاَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَاَنْتَ الْبَاطِنُ فَلَيْسَ دُوْنَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَاَغْنِنَا مِنَ الْفَقْرِ",
+        "clean": "اللهم رب السماوات السبع ورب الارض ورب العرش العظيم ربنا ورب كل شيء فالق الحب والنوي ومنزل التوراه والانجيل والفرقان اعوذ بك من شر كل شيء انت اخذ بناصيته اللهم انت الاول فليس قبلك شيء وانت الاخر فليس بعدك شيء وانت الظاهر فليس فوقك شيء وانت الباطن فليس دونك شيء اقض عنا الدين واغننا من الفقر",
+        "transliteration": "Allaahumma Rabbas-samaawaatis-sab'i, wa Rabbal-Ardi, wa Rabbal-'Arshil-'Adheem, Rabbanaa wa Rabba kulli shay'in, faaliqal-habbi wannawaa, wa munzilat-Tawraati wal-'Injeeli, wal-Furqaan, 'A'oodhu bika min sharri kulli shay'in 'Anta 'aakhithun binaasiyatihi. Allaahumma 'Antal-'Awwalu falaysa qablaka shay'un, wa 'Antal-'Aakhiru falaysa ba'daka shay'un, wa 'Antadh-Dhaahiru falaysa fawqaka shay'un, wa 'Antal-Baatinu falaysa doonaka shay'un, iqdhi 'annad-dayna wa 'aghninaa minal-faqr",
+        "reference": "Muslim: 2713, Sahiha (Albani). Tirmidhi: 3481",
+        "audio": 417,
+        "cat_id": 24,
+        "subcat_id": 76
+      },
+      "source": {
+        "name": "Dua for settling debt #6",
+        "content": "Narrated Abu Huraira (RA): The Messenger of Allah (ﷺ) used to instruct us when we go to sleep we should say:",
+        "translation": "O Allah, Lord of the seven heavens and the exalted throne, our Lord and Lord of all things, Splitter of the seed and the date stone, Revealer of the Towraat, the Injeel and the Furqaan, I take refuge in You from the evil of all things You shall seize by the forelock. O Allah, You are The First so there is nothing before You and You are The Last so there is nothing after You. You are ath-Thaahir so there is nothing above You and You are al-Baatin so there is nothing closer than You. Settle our debt for us and spare us from poverty.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        418
+      ],
+      "id": 418,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 418,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَغَلَبَةِ الْعَدُوِّ وَشَمَاتَةِ الْأَعْدَاءِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَغَلَبَةِ الْعَدُوِّ وَشَمَاتَةِ الْاَعْدَاءِ",
+        "clean": "اللهم اني اعوذ بك من غلبه الدين وغلبه العدو وشماته الاعداء",
+        "transliteration": "Allaahumma inni A‛oodhu bika min ghalabatid-daini, wa ghalabatil-'aduwwi, wa shamaatatil-a'da'i",
+        "reference": "Sahih (Albani). Nasai: 5475",
+        "audio": 418,
+        "cat_id": 24,
+        "subcat_id": 76
+      },
+      "source": {
+        "name": "Dua for settling debt #7",
+        "content": "It is narrated on the authority of 'Abdullah ibn' Amr (RA): That the Messenger of Allah (ﷺ), used to say:",
+        "translation": "O Allah, I seek refuge with You from being overwhelmed with debt, from being overpowered by the enemy and from the enemy rejoicing over my misfortunes.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        419
+      ],
+      "id": 419,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 419,
+        "groups": null,
+        "uthmani": "بَارَكَ اللَّهُ لَكَ فِي أَهْلِكَ وَمَالِكَ، إِنَّمَا جَزَاءُ السَّلَفِ الْحَمْدُ وَالْأَدَاءُ",
+        "indopak": "بارَكَ اللّٰهُ لَكَ فِيْ اَهْلِكَ وَمَالِكَ، اِنَّمَا جَزَاءُ السَّلَفِ الْحَمْدُ وَالْاَدَاءُ",
+        "clean": "بارك الله لك في اهلك ومالك انما جزاء السلف الحمد والاداء",
+        "transliteration": "BaarakAllahu laka fee 'ahlika wa maalika, 'innamaa jazaa'us-salafil-hamdu wal' adaa'u",
+        "reference": "Sahih (Albani). Nasai: 4683",
+        "audio": null,
+        "cat_id": 24,
+        "subcat_id": 76
+      },
+      "source": {
+        "name": "Dua at the time of loan repayment",
+        "content": "It was narrated Abdullah bin Abi Rabi'ah (RA): The Prophet (ﷺ) borrowed forty thousand from me, when some wealth came to him, he then paid me back and said:",
+        "translation": "May Allah bless you in your family and your wealth, surely the reward for a loan is praise and returning (what was borrowed).",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        420
+      ],
+      "id": 420,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 420,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ، الْعَظِيْمُ الْحَلِيْمُ لَا إِلَهَ إِلَّا اللَّهُ، رَبُّ الْعَرْشِ الْعَظِيْمِ لَا إِلَهَ إِلَّا اللَّهُ، رَبُّ السَّمَاوَاتِ، وَرَبُّ الْأَرْضِ، وَرَبُّ الْعَرْشِ الْكَرِيْمِ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ، اَلْعَظِيْمُ الْحَلِيْمُ لَا اِلٰهَ اِلَّا اللّٰهُ، رَبُّ الْعَرْشِ الْعَظِيْمِ لَا اِلٰهَ اِلَّا اللّٰهُ، رَبُّ السَّمَاوَاتِ، وَرَبُّ الْاَرْضِ، وَرَبُّ الْعَرْشِ الْكَرِيْمِ",
+        "clean": "لا اله الا الله العظيم الحليم لا اله الا الله رب العرش العظيم لا اله الا الله رب السماوات ورب الارض ورب العرش الكريم",
+        "transliteration": "Laa 'ilaaha 'illAllaahul-'Adheemul-Haleem, laa 'ilaaha 'illAllaahu Rabbul-'Arshil-'Adheem, laa 'ilaaha 'illAllaahu Rabbus-samaawaati wa Rabbul-'ardi wa Rabbul-'Arshil-Kareem",
+        "reference": "[1] Bukhari 6346\n[2] Sahih Ibn Hibban 3/147, Musnad Ahmad 194",
+        "audio": 420,
+        "cat_id": 25,
+        "subcat_id": 77
+      },
+      "source": {
+        "name": "Dua in a state of Anxiety and sorrow #1",
+        "content": null,
+        "translation": "There is none worthy of worship but Allah the Mighty, the Forbearing. There is none worthy of worship but Allah, Lord of the Magnificent Throne. There is none worthy of worship but Allah, Lord of the heavens and Lord of the earth, and Lord of the Noble Throne.",
+        "note": "The Prophet (ﷺ) used to invoke Allah at the time of distress, saying, (the dua is mentioned above). [1]\n\nAli (RA) said, The Messenger of Allah taught me this above mentioned dua in the state of anxiety and distress. [2]"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        421
+      ],
+      "id": 421,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 421,
+        "groups": null,
+        "uthmani": "اَللَّهُ اَللَّهُ رَبِّي لَا أُشْرِكُ بِهِ شَيْئًا",
+        "indopak": "اَللّٰهُ اَللّٰهُ رَبِّيْ لَا اُشْرِكُ بِهٖ شَيْئًا",
+        "clean": "الله الله ربي لا اشرك به شيءا",
+        "transliteration": "Allahu Allahu Rabbee laa 'ushriku bihi shay'an.",
+        "reference": "Abu Dawud : 1525",
+        "audio": 421,
+        "cat_id": 25,
+        "subcat_id": 77
+      },
+      "source": {
+        "name": "Dua in a state of Anxiety and sorrow #1",
+        "content": null,
+        "translation": "Allah, Allah is my Lord. I do not associate anything with Him.",
+        "note": "Narrated Asma' daughter of Umays (RA): The Messenger of Allah (ﷺ) said to me: May I not teach you phrases which you utter in distress? These are: (The dua is mentioned avobe)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        422
+      ],
+      "id": 422,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 422,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي عَبْدُكَ، وَابْنُ عَبْدِكَ، وَابْنُ أَمَتِكَ، نَاصِيَتِي بِيَدِكَ، مَاضٍ فِيَّ حُكْمُكَ، عَدْلٌ فِيَّ قَضَاؤُكَ، أَسْأَلُكَ بِكُــــلِّ اسْمٍ هُوَ لَكَ، سَمَّيْتَ بِهِ نَفْسَكَ، أَوْ أَنْزَلْتَهُ فِي كِتَابِكَ، أَوْ عَلَّمْتَهُ أَحَدًا مِنْ خَلْقِكَ، أَوِ اسْتَأْثَرْتَ بِهِ فِي عِلْمِ الْغَيْبِ عِنْدَكَ، أَنْ تَجْعَلَ الْقُرْآنَ رَبِيعَ قَلْبِي، وَنُورَ صَدْرِي، وَجَلَاءَ حُزْنِي، وَذَهَابَ هَمِّي",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ عَبْدُكَ، وَابْنُ عَبْدِكَ، وَابْنُ اَمَتِكَ، نَاصِيَتِيْ بِيَدِكَ، مَاضٍ فِيَّ حُكْمُكَ، عَدْلٌ فِيَّ قَضَاؤُكَ، اَسْاَلُكَ بِكُلِّ اسْمٍ هُوَ لَكَ، سَمَّيْتَ بِهٖ نَفْسَكَ، اَوْ اَنْزَلْتَهٗ فِيْ كِتَابِكَ، اَوْ عَلَّمْتَهٗ اَحَدًا  مِّنْ خَلْقِكَ، اَوِ اسْتَأْثَرْتَ بِهٖ فِيْ عِلْمِ الْغَيْبِ عِنْدَكَ، اَنْ تَجْعَلَ الْقُرْاٰنَ رَبِيْعَ قَلْبِيْ، وَنُوْرَ صَدْرِيْ، وَجَلَاءَ حُزْنِيْ، وَذَهَابَ هَمِّيْ",
+        "clean": "اللهم اني عبدك وابن عبدك وابن امتك ناصيتي بيدك ماض في حكمك عدل في قضاءك اسالك بكل اسم هو لك سميت به نفسك او انزلته في كتابك او علمته احدا  من خلقك او استاثرت به في علم الغيب عندك ان تجعل القران ربيع قلبي ونور صدري وجلاء حزني وذهاب همي",
+        "transliteration": "Allaahumma 'innee 'abduka, wabnu 'abdika, wabnu 'amatika, naasiyatee biyadika, maadhin fiyya hukmuka, 'adlun fiyya qadhaa'uka, 'as'aluka bikulli ismin huwa laka, sammayta bihi nafsaka, 'aw 'anzaltahu fee kitaabika, 'aw 'allamtahu 'ahadan min khalqika, 'awista'tharta bihi fee 'ilmil-ghaybi 'indaka, 'an taj'alal-Qur'aana rabee'a qalbee, wa noora sadree, wa jalaa'a huznee, wa thahaaba hammee",
+        "reference": "Sahih (Albani) Silsila Sahihah: 1/337",
+        "audio": 422,
+        "cat_id": 25,
+        "subcat_id": 77
+      },
+      "source": {
+        "name": "When in distress #1",
+        "content": "Narrated Abdullah Ibn Masood (RA): The Messenger of Allah (ﷺ), said, \"If a servant is faced with any anxiety or distress, then say:",
+        "translation": "O Allah, I am Your slave and the son of Your male slave and the son of your female slave. My forehead is in Your Hand (i.e. you have control over me). Your Judgment upon me is assured and Your Decree concerning me is just. I ask You by every Name that You have named Yourself with, revealed in Your Book, taught any one of Your creation or kept unto Yourself in the knowledge of the unseen that is with You, to make the Qur'an the spring of my heart, and the light of my chest, the banisher of my sadness and the reliever of my distress.",
+        "note": "Allah will surely remove his worries and troubles and replace them with joy. ”It was asked, O Messenger of Allah! Shall we not learn it? ' The Prophet (ﷺ) said, “Of course! Anyone who hears this should memorize it.”"
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        423
+      ],
+      "id": 423,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 423,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+        "clean": "اللهم اني اعوذ بك من الهم والحزن والعجز والكسل والبخل والجبن وضلع الدين وغلبه الرجال",
+        "transliteration": "Allaahumma 'innee 'A'oodhu bika minal-hammi wal-hazani, wal'ajzi wal-kasali, wal-bukhli wal-jubni, wa dhala'id-dayni wa ghalabatir-rijaal",
+        "reference": "Bukhari :2893",
+        "audio": 423,
+        "cat_id": 25,
+        "subcat_id": 77
+      },
+      "source": {
+        "name": "When in distress #2",
+        "content": "The Prophet (ﷺ) used to say:",
+        "translation": "O Allah, I seek refuge in you from grief and sadness, from weakness and from laziness, from miserliness and from cowardice, from being overcome by debt and overpowered by men (i.e. others).",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        424
+      ],
+      "id": 424,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 424,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَحْمَتَكَ أَرْجُو، فَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ، وَأَصْلِحْ لِي شَأْنِي كُلَّهُ، لَا إِلَهَ إِلَّا أَنْتَ",
+        "indopak": "اَللّٰهُمَّ رَحْمَتَكَ اَرْجُوْ، فَلَا تَكِلْنِيْ اِلٰى نَفْسِيْ طَرْفَةَ عَيْنٍ، وَاَصْلِحْ لِيْ شَأْنِيْ كُلَّهٗ، لَا اِلٰهَ اِلَّا اَنْتَ",
+        "clean": "اللهم رحمتك ارجو فلا تكلني الي نفسي طرفه عين واصلح لي شاني كله لا اله الا انت",
+        "transliteration": "Allaahumma rahmataka 'arjoo falaa takilnee 'ilaa nafsee tarfata 'ayen, wa 'aslih lee sha'nee kullahu, laa 'ilaaha 'illaa 'Anta",
+        "reference": "Hasan (Albani) Abu Dawud: 5090",
+        "audio": 424,
+        "cat_id": 25,
+        "subcat_id": 77
+      },
+      "source": {
+        "name": "When in distress #3",
+        "content": "The Messenger of Allah (ﷺ) said, “The supplication of the anxious person is -",
+        "translation": "O Allah, I hope for Your mercy. Do not leave me to myself even for the blinking of an eye (i.e. a moment). Correct all of my affairs for me. There is none worthy of worship but You.",
+        "note": "Prophet (ﷺ) used to say this supplication increasingly."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        425
+      ],
+      "id": 425,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 425,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+        "indopak": "لَا اِلٰهَ اِلَّا اَنْتَ سُبْحَانَكَ اِنِّيْ كُنْتُ مِنَ الظَّالِمِيْنَ",
+        "clean": "لا اله الا انت سبحانك اني كنت من الظالمين",
+        "transliteration": "Laa 'ilaaha 'illaa 'Anta subhaanaka 'innee kuntu minadh-dhaalimeen",
+        "reference": "[1] Surah Ambia: 87\n[2] At-Tirmidhi: 3505",
+        "audio": 425,
+        "cat_id": 25,
+        "subcat_id": 77
+      },
+      "source": {
+        "name": "When in distress #4",
+        "content": "The Messenger of Allah (ﷺ) said: The supplication of Dhun-Nun (Prophet Yunus) when he supplicated, while in the belly of the whale was:",
+        "translation": "There is none worthy of worship but You, glory is to You. Surely, I was among the wrongdoers.",
+        "note": "So indeed, no Muslim man supplicates with it for anything, ever, except Allah responds to him. [1]"
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        426
+      ],
+      "id": 426,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 426,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ الَّذِي عَافَانِي مِمَّا ابْتَلَاكَ بِهِ، وَفَضَّلَنِي عَلَى كَثِيرٍ مِمَّنْ خَلَقَ تَفْضِيلًا",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ عَافَانِيْ مِمَّا ابْتَلَاكَ بِهٖ، وَفَضَّلَنِيْ عَلٰى كَثِيْرٍ مِّمَّنْ خَلَقَ تَفْضِيْلًا",
+        "clean": "الحمد لله الذي عافاني مما ابتلاك به وفضلني علي كثير ممن خلق تفضيلا",
+        "transliteration": "Alhamdu lillaahil-lathee 'aafaanee mimmab-talaaka bihi wa fadhdhalanee 'alaa katheerin mimman khalaqa tafdheela",
+        "reference": "Sahih (Albani). Tirmidhi: 3432",
+        "audio": 426,
+        "cat_id": 25,
+        "subcat_id": 77
+      },
+      "source": {
+        "name": "Upon seeing someone in trial or tribulation",
+        "content": "The Messenger of Allah (ﷺ) said: A person who sees a person in danger, then says:",
+        "translation": "Praise is to Allah Who has spared me what He has afflicted you with, and preferred me greatly above much of what He has created.",
+        "note": "That danger will not touch him."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        427
+      ],
+      "id": 427,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 427,
+        "groups": null,
+        "uthmani": "يَا حَيُّ يَا قَيُّوْمُ، بِرَحْمَتِكَ أَسْتَغِيْثُ",
+        "indopak": "يَا حَيُّ يَا قَيُّوْمُ ، بِرَحْمَتِكَ اَسْتَغِيْثُ",
+        "clean": "يا حي يا قيوم  برحمتك استغيث",
+        "transliteration": "Ya ‘hayyi-u ya qayyumu bira’hmatika astagith",
+        "reference": "Hasan (Albani). Tirmidhi: 3524",
+        "audio": 427,
+        "cat_id": 25,
+        "subcat_id": 77
+      },
+      "source": {
+        "name": "When one's affairs have become difficult",
+        "content": null,
+        "translation": "O Ever Living, O Self-Subsisting and Supporter of all, by Your mercy I seek assistance.",
+        "note": "Whenever a matter would distress him, the Prophet (ﷺ) would say (above dua)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        428
+      ],
+      "id": 428,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 428,
+        "groups": null,
+        "uthmani": "قَدَرُ اللَّهِ وَمَا شَاءَ فَعَلَ",
+        "indopak": "قَدَرُ اللّٰهِ وَمَا شَاءَ فَعَلَ",
+        "clean": "قدر الله وما شاء فعل",
+        "transliteration": "Qadarullaahi wa maa shaa'a fa'al",
+        "reference": "Muslim: 2664",
+        "audio": 428,
+        "cat_id": 26,
+        "subcat_id": 78
+      },
+      "source": {
+        "name": "Dua for hopelessness",
+        "content": null,
+        "translation": "It is the Decree of Allah and He does whatever He wills.",
+        "note": "Abu Huraira (RA) reported Allah's Messenger (ﷺ) as saying: A strong believer is better and is more lovable to Allah than a weak believer, and there is good in everyone, (but) cherish that which gives you benefit (in the Hereafter) and seek help from Allah and do not lose heart, and if anything (in the form of trouble) comes to you, don't say: If I had not done that, it would not have happened so and so, but say: (The dua is mentioned above) and your\" if\" opens the (gate) for the Satan."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        429
+      ],
+      "id": 429,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 429,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+        "indopak": "اَللّٰهُمَّ لَا سَهْلَ اِلَّا مَا جَعَلْتَهُ سَهْلًا وَاَنْتَ تَجْعَلُ الْحَزْنَ اِذَا شِئْتَ سَهْلًا",
+        "clean": "اللهم لا سهل الا ما جعلته سهلا وانت تجعل الحزن اذا شءت سهلا",
+        "transliteration": "Allaahumma laa sahlaa illaa maa ja'altahu sahlaa, wa Anta taj'alul-hazna 'idhaa shi'ta sahlaa",
+        "reference": "Sahih (Albani). Ibn Hibban: 974",
+        "audio": 429,
+        "cat_id": 26,
+        "subcat_id": 78
+      },
+      "source": {
+        "name": "When one's affairs have become difficult",
+        "content": null,
+        "translation": "O Allah, there is no ease other than what You make easy. If You want You ease sorrow.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        430
+      ],
+      "id": 430,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 430,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنَّا نَجْعَلُكَ فِي نُحُورِهِمْ وَنَعُوذُ بِكَ مِنْ شُرُورِهِمْ",
+        "indopak": "اَللّٰهُمَّ اِنَّا نَجْعَلُكَ فِيْ نُحُوْرِهِمْ وَنَعُوْذُ بِكَ مِنْ شُرُوْرِهِمْ",
+        "clean": "اللهم انا نجعلك في نحورهم ونعوذ بك من شرورهم",
+        "transliteration": "Allaahumma 'innaa naj'aluka fee nuhoorihim wa nA'oodhu bika min shuroorihim",
+        "reference": "Sahih (Albani). Abu Dawud: 1537",
+        "audio": 430,
+        "cat_id": 26,
+        "subcat_id": 79
+      },
+      "source": {
+        "name": "Upon encountering an enemy or those of authority #1",
+        "content": null,
+        "translation": "O Allah, we ask You to restrain them by their necks and we seek refuge in You from their evil.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        431
+      ],
+      "id": 431,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 431,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَرَبَّ الْعَرْشِ الْعَظِيْمِ كُنْ لِي جَارًا مِنْ فُلَانِ بْنِ فُلَانٍ، وَأَحْزَابِهِ مِنْ خَلَائِقِكَ (وَمِنْ شَرِّ خَلْقِكَ كُلِّهِمْ جَمِيْعًا) أَنْ يَفْرُطَ عَلَيَّ أَحَدٌ مِنْهُمْ أَوْ يَطْغَى عَزَّ جَارُكَ وَجَلَّ ثَنَاؤُكَ وَلَا إِلٰهَ إِلَّا أَنْتَ",
+        "indopak": "اَللّٰهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَرَبَّ الْعَرْشِ الْعَظِيْمِ كُنْ لِّيْ جَارًا مِّنْ فُلَانِ بْنِ فُلَانٍ، وَاَحْزَابِهٖ مِنْ خَلَائِقِكَ (وَمِنْ شَرِّ خَلْقِكَ كُلِّهِمْ جَمِيْعًا) اَنْ يَّفْرُطَ عَلَيَّ اَحَدٌ مِّنْهُمْ اَوْ يَطْغٰى عَزَّ جَارُكَ وَجَلَّ ثَنَاؤُكَ وَلَا اِلٰهَ اِلَّا اَنْتَ",
+        "clean": "اللهم رب السماوات السبع ورب العرش العظيم كن لي جارا من فلان بن فلان واحزابه من خلاءقك ومن شر خلقك كلهم جميعا ان يفرط علي احد منهم او يطغي عز جارك وجل ثناءك ولا اله الا انت",
+        "transliteration": "Allaahumma Rabbas-samawaatis-sab'i, wa Rabbal-'Arshil-'Adheem, kun lee jaaran min [here you mention the person's name], wa 'ahzaabihi min khalaa'iqika, (wa min sharri khalqika kullihim jami'an) 'an yafruta 'alayya 'ahadun minhum 'aw yatghaa, 'azza jaaruka, wajalla thanaa'uka, wa laa 'ilaaha 'illaa 'Anta",
+        "reference": "Sahih (Albani). Sahih Al-Targhib: 2237, Adabul Mufrad: 707",
+        "audio": null,
+        "cat_id": 26,
+        "subcat_id": 79
+      },
+      "source": {
+        "name": "Upon encountering an enemy or those of authority #২",
+        "content": "Prophet (ﷺ) said, If anyone fears to encounter an enemy or those of authority, then he should say:",
+        "translation": "O Allah, Lord of the seven heavens, Lord of the Magnificent Throne, be for me a support against [such and such a person] and his helpers from among your creatures, lest any of them abuse me or do me wrong. Mighty is Your patronage and glorious are Your praises. There is none worthy of worship but You.",
+        "note": "Narrated from Abdullah Ibn Masood (RA) and Abdullah Ibn Abbas (RA), they said: If anyone fears harm from any ruler, administrator or powerful person, he should recite this dua."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        432
+      ],
+      "id": 432,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 432,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اكْفِنِيْهِمْ بِمَا شِئْتَ",
+        "indopak": "اَللّٰهُمَّ اكْفِنِيْهِمْ بِمَا شِئْتَ",
+        "clean": "اللهم اكفنيهم بما شءت",
+        "transliteration": "Allaahummak-fineehim bimaa shi'ta",
+        "reference": "Muslim 4/2300, 3005",
+        "audio": 432,
+        "cat_id": 26,
+        "subcat_id": 79
+      },
+      "source": {
+        "name": "Dua of self-defense if one fears harm from anyone",
+        "content": null,
+        "translation": "O Allah, suffice (i.e. protect) me against them however You wish.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    }
+  ]
+}

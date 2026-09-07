@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_079.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "160-161",
+  "source_chars": 5440,
+  "items": [
+    {
+      "key": [
+        160
+      ],
+      "id": 160,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 160,
+        "topic_id": null,
+        "cat_id": 12,
+        "subcat_id": 132
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Many people ask if psoriasis and eczema can be symptomatic of magic or the evil eye, and of course the answer is \"maybe.\" Like a whole host of other symptoms, including headache, nausea, vomiting and insomnia, there is an overlap between genuine medical conditions that have no spiritual cause, and those caused by Jinn and related things.\n\nIn essence, we are looking for signs that the disease is outside the usual medical pattern, especially if medical examinations have already taken place but no exact causes could be identified.\n\nThere is, of course, a simple solution to such problems, which is also proposed by Ibnul-Qayyim and others, to treat the disease on both a medical and spiritual basis. After all, both of us were given to us by Allah subhan wa ta'ala as a means of finding a cure, and there is much less contradiction (or contraindication) between the two than could be imagined. For example, could a doctor rightly claim that 45 minutes of reciting the Qur'an every day is considered a contraindication to any sort of modern medicine? Sure, there are extreme cases, e.g. in the case of \"mental diseases\", during which the patient gets into a rage and Western medicine wants to immobilize him with heavy psychopharmaceuticals, which makes treatment by a Raqi virtually impossible. But these are rare cases.\n\nNonetheless, whenever possible, any \"modern\" medicine should be renounced and alternative natural medicine should be used, especially with ingredients recommended by the Prophet  (ﷺ) Here one can often combine the treatment quite simply.\n\nThe following treatment has achieved good results in cases of psoriasis and eczema. Combine these dry ingredients in ground powder form:\n\n<b>1.</b> 25g henna leaves, known as Barg-e-Hina.\n\n<b>2.</b> 10g blackcrop, known as Kalonji.\n\n<b>3.</b> 10g Senna leaves, known as Sana Makki.\n\n<b>4.</b> 10g Marine Costus, known in Arabic as Al-Qust al Bahri or also as Qust-e-Shirin.\n\nBoil all of the dry ingredients together for 15 minutes either in 500 ml of raw organic apple cider vinegar, or in 250 ml olive oil, according to the note below. The liquid will have a strong smell if using the apple cider vinegar, but that is normal. Store the liquid in a glass bottle. You may either sieve it, or let the solids settle at the bottom of the bottle. Put on eczema spots twice a day.\n\nUse apple cider vinegar if the eczema is red like pimples, wet, watery, or bleeding; or olive oil if the eczema has dry white skin peeling off. Apple cider vinegar seems to be more effective in both eczema and psoriasis, including scalp psoriasis. In both cases, it is likely that the ointment will sting the cut & broken skin. With regular use that will subside, insha'Allah. The eczema patches should start to dry up and sting less within one week. Use the ointment for 6 months at a stretch, once or twice daily, depending on the severity of the disease. Can be used on all body parts including the scalp & face, but not the eyes."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        161
+      ],
+      "id": 161,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 161,
+        "topic_id": null,
+        "cat_id": 12,
+        "subcat_id": 133
+      },
+      "source": {
+        "topic_name": null,
+        "text": "There is another useful treatment for magic that presents itself through bloating in the stomach, abdominal pain, and/or nausea, and a desire to vomit. Notice that this post is not named 'magic in the stomach', but 'magic and the stomach'. That's because one of the most misdiagnosed things in Ruqyah is that the magic has been eaten. While it is true that magic can be fed to a person, this is less common than people imagine it to be. It has reached the extent that some Ruqyah practitioners have no other treatment than to say the magic has been fed, and that the person needs to be forced to vomit, through an emetic.\n\nAt the same time, there is a legitimate reason why these cases are misdiagnosed, and that is because many forms of magic present themselves through bloating in the stomach, abdominal pain, or nausea. Many patients find a degree of relief from the emetic, and so this fuels the misdiagnosis that a huge portion of people in the world have been fed magic.\n\nAn alternative treatment to a strong emetic, but which will - insha'Allah - bring the same kind of relief to someone who is suffering from magic that is presenting itself through stomach pains, bloating, or nausea and a desire to vomit. The ingredients are very mild, and are rooted in prophetic medicine, so we hope that it will be better tolerated than the usual means of forcing a patient to vomit. Once again, it should be emphasised that you should consult a medical professional before using these treatments.\n\n<b>1.</b> 1/2 kg of Honey\n\n<b>2.</b> 1 tablespoon of ground Black Seed (nigella sativa) \n\n<b>3.</b> 1 tablespoon of ground Meccan Senna \n\n<b>4.</b> 1 tablespoon of ground Rhubarb (also called Rhubarb root powder)\n\n<b>5.</b> 1 tablespoon of ground Cumin\n\n<b>Mix all together, then every morning:</b>\n\n\nStir the mixture with a spoon, then bring a cup of water (Zamzam water would be best), and add a tablespoon of the above mixture to it, mix until the honey is dissolved in the water, then drink from it. Do this every day until the mixture finishes.\n\nIt is preferred to use Ruqyah water, rather than water that has not been recited upon.\n\nAlso, one can try mixtures which flush and clean the system. Search google for \"Heavy Metal Detox\" and \"Parasite Detox\" - there are a few simple recipes with juices, organic foods etc. They have shown to be a big help for people with Jinn related issues that present as abdominal bloating/pain, and are generally very well tolerated."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

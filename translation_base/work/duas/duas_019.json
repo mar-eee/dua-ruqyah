@@ -1,0 +1,524 @@
+{
+  "table": "duas",
+  "chunk": "duas_019.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 16,
+  "id_range": "253-268",
+  "source_chars": 5813,
+  "items": [
+    {
+      "key": [
+        253
+      ],
+      "id": 253,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 253,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَىْءٍ قَدِيْرٌ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ لَا إِلَهَ إِلَّا اللَّهُ وَلَا نَعْبُدُ إِلَّا إِيَّاهُ لَهُ النِّعْمَةُ وَلَهُ الْفَضْلُ وَلَهُ الثَّنَاءُ الْحَسَنُ لَا إِلَهَ إِلَّا اللَّهُ مُخْلِصِيْنَ لَهُ الدِّيْنَ وَلَوْ كَرِهَ الْكَافِرُوْنَ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلٰى كُلِّ شَىْءٍ قَدِيْرٌ لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ، لَا اِلٰهَ اِلَّا اللّٰهُ وَلَا نَعْبُدُ اِلَّا اِيَّاهُ، لَهُ النِّعْمَةُ وَلَهُ الْفَضْلُ وَلَهُ الثَّنَاءُ الْحَسَنُ لَا اِلٰهَ اِلَّا اللّٰهُ مُخْلِصِيْنَ لَهُ الدِّيْنَ وَلَوْ كَرِهَ الْكَافِرُوْنَ",
+        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد وهو علي كل شيء قدير لا حول ولا قوه الا بالله لا اله الا الله ولا نعبد الا اياه له النعمه وله الفضل وله الثناء الحسن لا اله الا الله مخلصين له الدين ولو كره الكافرون",
+        "transliteration": "Laa ilaaha ill-Allahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu wa huwa ‛alaa kulli shay’in qadeer, laa hawla wa laa quwwata illaa billaah, laa ilaaha ill-Allahu, wa laa na‛budu illaa iyyaahu, lahun-ni‛matu wa lahul-fadlu wa lahuth-thanaa’-ul-hasan, laa ilaaha ill-Allahu, mukhliseena lahud-deena wa law karihal-kaafiroon",
+        "reference": "Muslim: 594",
+        "audio": 253,
+        "cat_id": 13,
+        "subcat_id": 44
+      },
+      "source": {
+        "name": "Dua to be recited after salaam #4",
+        "content": null,
+        "translation": "None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise and and He is Able to do all things, there is no might nor power except with Allah. None has the right to be worshipped except Allah and we worship none except Him. For Him is all favor, grace, and glorious praise. None has the right to be worshipped except Allah and we are sincere in faith and devotion to Him although the disbelievers detest it.",
+        "note": "Abdullah ibn Zubayr (RA) himself used to recite this dua after every salaam and say: The Prophet (ﷺ) used to recite these dua after every prayer."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        254
+      ],
+      "id": 254,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 254,
+        "groups": null,
+        "uthmani": "اَللّٰهُ لَآ إِلٰهَ إِلَّا هُوَ الْحَىُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى السَّمٰوٰتِ وَمَا فِى الْأَرْضِ ۗ مَنْ ذَا الَّذِى يَشْفَعُ عِنْدَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمٰوٰتِ وَالْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ الْعَلِىُّ الْعَظِيمُ",
+        "indopak": "اَللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ اَلْحَیُّ الْقَیُّوْمُ لَا تَاْخُذُهٗ سِنَةٌ وَّلَا نَوْمٌ لَهٗ مَا فِی السَّمٰوٰتِ وَمَا فِی الْاَرْضِ مَنْ ذَا الَّذِیْ یَشْفَعُ عِنْدَهٗۤ اِلَّا بِاِذْنِهٖ یَعْلَمُ مَا بَیْنَ اَیْدِیْهِمْ وَمَا خَلْفَهُمْ وَلَا یُحِیْطُوْنَ بِشَیْءٍ مِّنْ عِلْمِهٖۤ اِلَّا بِمَا شَآءَ وَسِعَ كُرْسِیُّهُ السَّمٰوٰتِ وَالْاَرْضَ وَلَا یَئُوْدُهٗ حِفْظُهُمَا وَهُوَ الْعَلِیُّ الْعَظِیْمُ",
+        "clean": "الله لا اله الا هو الح القوم لا تاخذه سنه ولا نوم له ما ف السموت وما ف الارض من ذا الذ شفع عنده الا باذنه علم ما بن ادهم وما خلفهم ولا حطون بشء من علمه الا بما شاء وسع كرسه السموت والارض ولا ءوده حفظهما وهو العل العظم",
+        "transliteration": "Allahu laa 'ilaaha 'illaa Huwal-Hayyul-Qayyoom, laa ta'khudhuhu sinatun wa laa nawm, lahu maa fis-samaawaati wa maa fil-'ardhi, man dhal-ladhee yashfa'u 'indahu 'illaa bi'idhnihi, ya'lamu maa bayna 'aydeehim wa maa khalfahum, wa laa yuheetoona bishay'im-min 'ilmihi 'illaa bimaa shaa'a, wasi'a kursiyyuhus-samaawaati wal 'ardh, wa laa ya'ooduhu hifdhuhumaa, wa Huwal-'Aliyyul- 'Adheem",
+        "reference": "Silsila Sahiha: 972",
+        "audio": null,
+        "cat_id": 13,
+        "subcat_id": 44
+      },
+      "source": {
+        "name": "Ayatul Kursi (Surah Al-Baqarah 2: 255)",
+        "content": "After every prescribed salat, Ayatul Kursi should be recited:",
+        "translation": "Allah! There is none worthy of worship but He, the Ever Living, the One Who sustains and protects all that exists. Neither slumber nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them in this world, and what will happen to them in the Hereafter. And they will never compass anything of His Knowledge except that which He wills. His Throne extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great.",
+        "note": "The Prophet (ﷺ) said, \"Whoever recites Ayatul Kursi immediately after each prescribed prayer, there will be nothing standing between him and his entering Paradise except death.\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        255
+      ],
+      "id": 255,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 255,
+        "groups": "[{\"id\": 255, \"name\": null, \"cat_id\": 13, \"subcat_id\": 44, \"content\": \"Surah Falaq One Times:\", \"uthmani\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0640\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u064e\\u0640\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0645\\u0650\\n\\u0642\\u064f\\u0644\\u0652 \\u0623\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0650\\u0651 \\u0627\\u0644\\u0652\\u0641\\u064e\\u0644\\u064e\\u0642\\u0650 \\ufd3f\\u0661\\ufd3e \\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0645\\u064e\\u0627 \\u062e\\u064e\\u0644\\u064e\\u0642\\u064e \\ufd3f\\u0662\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u063a\\u064e\\u0627\\u0633\\u0650\\u0642\\u064d \\u0625\\u0650\\u0630\\u064e\\u0627 \\u0648\\u064e\\u0642\\u064e\\u0628\\u064e \\ufd3f\\u0663\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0641\\u0651\\u064e\\u0627\\u062b\\u064e\\u0627\\u062a\\u0650 \\u0641\\u0650\\u064a \\u0627\\u0644\\u0652\\u0639\\u064f\\u0642\\u064e\\u062f\\u0650 \\ufd3f\\u0664\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u062d\\u064e\\u0627\\u0633\\u0650\\u062f\\u064d \\u0625\\u0650\\u0630\\u064e\\u0627 \\u062d\\u064e\\u0633\\u064e\\u062f\\u064e \\ufd3f\\u0665\\ufd3e\", \"indopak\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0652\\u0645\\u0650\\n\\u0642\\u064f\\u0644\\u0652 \\u0627\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0650\\u0651 \\u0627\\u0644\\u0652\\u0641\\u064e\\u0644\\u064e\\u0642\\u0650\\ufd3f\\u0661\\ufd3e \\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0645\\u064e\\u0627 \\u062e\\u064e\\u0644\\u064e\\u0642\\u064e\\ufd3f\\u0662\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u063a\\u064e\\u0627\\u0633\\u0650\\u0642\\u064d \\u0627\\u0650\\u0630\\u064e\\u0627 \\u0648\\u064e\\u0642\\u064e\\u0628\\u064e\\ufd3f\\u0663\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0641\\u0651\\u064e\\u0627\\u062b\\u064e\\u0627\\u062a\\u0650 \\u0641\\u0650\\u0649 \\u0627\\u0644\\u0652\\u0639\\u064f\\u0642\\u064e\\u062f\\u0650\\ufd3f\\u0664\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u062d\\u064e\\u0627\\u0633\\u0650\\u062f\\u064d \\u0627\\u0650\\u0630\\u064e\\u0627 \\u062d\\u064e\\u0633\\u064e\\u062f\\u064e\\ufd3f\\u0665\\ufd3e\", \"clean\": \"\\u0628\\u0633\\u0645 \\u0627\\u0644\\u0644\\u0647 \\u0627\\u0644\\u0631\\u062d\\u0645\\u0646 \\u0627\\u0644\\u0631\\u062d\\u064a\\u0645\\u0642\\u0644 \\u0627\\u0639\\u0648\\u0630 \\u0628\\u0631\\u0628 \\u0627\\u0644\\u0641\\u0644\\u0642\\u0661 \\u0645\\u0646 \\u0634\\u0631 \\u0645\\u0627 \\u062e\\u0644\\u0642\\u0662 \\u0648\\u0645\\u0646 \\u0634\\u0631 \\u063a\\u0627\\u0633\\u0642 \\u0627\\u0630\\u0627 \\u0648\\u0642\\u0628\\u0663 \\u0648\\u0645\\u0646 \\u0634\\u0631 \\u0627\\u0644\\u0646\\u0641\\u0627\\u062b\\u0627\\u062a \\u0641\\u064a \\u0627\\u0644\\u0639\\u0642\\u062f\\u0664 \\u0648\\u0645\\u0646 \\u0634\\u0631 \\u062d\\u0627\\u0633\\u062f \\u0627\\u0630\\u0627 \\u062d\\u0633\\u062f\\u0665\", \"transliteration\": \"Bismillaahir-Rahmaanir-Raheem. (1) Qul 'A'oodhu birabbil-falaq. (2) Min sharri maa khalaq. (3) Wa min sharri ghaasiqin 'ithaa waqab. (4) Wa min sharrin-naffaathaati fil-'uqad. (5) Wa min sharri haasidin 'ithaa hasad\", \"translation\": \"In the name of Allah, the Entirely Merciful, the Especially Merciful.  (1) Say, \\\"I seek refuge in the Lord of daybreak (2) From the evil of that which He created (3) And from the evil of darkness when it settles (4) And from the evil of the blowers in knots (5) And from the evil of an envier when he envies.\\\" (Sura Falaq: 1-5)\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 255, \"name\": null, \"cat_id\": 13, \"subcat_id\": 44, \"content\": \"Surah Nas One Times:\", \"uthmani\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0640\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u064e\\u0640\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0645\\u0650\\n\\u0642\\u064f\\u0644\\u0652 \\u0623\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0650\\u0651 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0661\\ufd3e \\u0645\\u064e\\u0644\\u0650\\u0643\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0662\\ufd3e \\u0625\\u0650\\u0644\\u064e\\u0640\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0663\\ufd3e \\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0627\\u0644\\u0652\\u0648\\u064e\\u0633\\u0652\\u0648\\u064e\\u0627\\u0633\\u0650 \\u0627\\u0644\\u0652\\u062e\\u064e\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0664\\ufd3e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a \\u064a\\u064f\\u0648\\u064e\\u0633\\u0652\\u0648\\u0650\\u0633\\u064f \\u0641\\u0650\\u064a \\u0635\\u064f\\u062f\\u064f\\u0648\\u0631\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0665\\ufd3e \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0652\\u062c\\u0650\\u0646\\u0651\\u064e\\u0629\\u0650 \\u0648\\u064e\\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0666\\ufd3e\", \"indopak\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0652\\u0645\\u0650\\n\\u0642\\u064f\\u0644\\u0652 \\u0627\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0650\\u0651 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650\\ufd3f\\u0661\\ufd3e \\u0645\\u064e\\u0644\\u0650\\u0643\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650\\ufd3f\\u0662\\ufd3e \\u0627\\u0650\\u0644\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650\\ufd3f\\u0663\\ufd3e \\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0627\\u0644\\u0652\\u0648\\u064e\\u0633\\u0652\\u0648\\u064e\\u0627\\u0633\\u0650 \\u0627\\u0644\\u0652\\u062e\\u064e\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650\\ufd3f\\u0664\\ufd3e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0652 \\u064a\\u064f\\u0648\\u064e\\u0633\\u0652\\u0648\\u0650\\u0633\\u064f \\u0641\\u0650\\u0649\\u0652 \\u0635\\u064f\\u062f\\u064f\\u0648\\u0652\\u0631\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650\\ufd3f\\u0665\\ufd3e \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0652\\u062c\\u0650\\u0646\\u0651\\u064e\\u0629\\u0650 \\u0648\\u064e\\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650\\ufd3f\\u0666\\ufd3e\", \"clean\": \"\\u0628\\u0633\\u0645 \\u0627\\u0644\\u0644\\u0647 \\u0627\\u0644\\u0631\\u062d\\u0645\\u0646 \\u0627\\u0644\\u0631\\u062d\\u064a\\u0645\\u0642\\u0644 \\u0627\\u0639\\u0648\\u0630 \\u0628\\u0631\\u0628 \\u0627\\u0644\\u0646\\u0627\\u0633\\u0661 \\u0645\\u0644\\u0643 \\u0627\\u0644\\u0646\\u0627\\u0633\\u0662 \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0646\\u0627\\u0633\\u0663 \\u0645\\u0646 \\u0634\\u0631 \\u0627\\u0644\\u0648\\u0633\\u0648\\u0627\\u0633 \\u0627\\u0644\\u062e\\u0646\\u0627\\u0633\\u0664 \\u0627\\u0644\\u0630\\u064a \\u064a\\u0648\\u0633\\u0648\\u0633 \\u0641\\u064a \\u0635\\u062f\\u0648\\u0631 \\u0627\\u0644\\u0646\\u0627\\u0633\\u0665 \\u0645\\u0646 \\u0627\\u0644\\u062c\\u0646\\u0647 \\u0648\\u0627\\u0644\\u0646\\u0627\\u0633\\u0666\", \"transliteration\": \"Bismillaahir-Rahmaanir-Raheem. (1) Qul 'A'oodhu birabbin-naas. (2) Malikin-naas. (3) 'Ilaahin-naas. (4) Min sharril-waswaasil-khannaas. (5) Allathee yuwaswisu fee sudoorin-naas. (6) Minal-jinnati wannaas\", \"translation\": \"In the name of Allah, the Entirely Merciful, the Especially Merciful. (1) Say, \\\"I seek refuge in the Lord of mankind, (2) The Sovereign of mankind. (3) The God of mankind, (4) From the evil of the retreating whisperer - (5) Who whispers [evil] into the breasts of mankind - (6) From among the jinn and mankind.\\\" (Sura Nas: 1-6)\", \"note\": \"The Prophet (\\ufdfa) used to recite surah ikhlaas, falaaq and naas once after every obligatory prayer. [1] After magrib and 'ishaa prayer he used to recite three times. [2]\", \"reference\": \"[1] Sahih (Albani). Abu Dawud: 1523\\n[2] Hasan (Albani). Abu Dawud: 5082\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\nقُلْ هُوَ اللَّـهُ أَحَدٌ ﴿١﴾ اللَّـهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿٤﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ\nقُلْ هُوَ اللّٰهُ اَحَدٌ﴿١﴾ اللّٰهُ الصَّمَدُ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُوْلَدْ﴿٣﴾ وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ﴿٤﴾",
+        "clean": "بسم الله الرحمن الرحيمقل هو الله احد١ الله الصمد٢ لم يلد ولم يولد٣ ولم يكن له كفوا احد٤",
+        "transliteration": "Bismillaahir-Rahmaanir-Raheem. (1) Qul HuwAllahu 'Ahad. (2) Allahus-Samad. (3) Lam yalid wa lam yoolad. (4) Wa lam yakun lahu kufuwan 'ahad",
+        "reference": null,
+        "audio": 255,
+        "cat_id": 13,
+        "subcat_id": 44
+      },
+      "source": {
+        "name": "Surah Ikhlas, Surah Falaq and Surah Nas",
+        "content": "After every prescribed salat, Surah Ikhlas One Times:",
+        "translation": "In the name of Allah, the Entirely Merciful, the Especially Merciful. (1) Say, \"He is Allah, [who is] One, (2) Allah, the Eternal Refuge. (3) He neither begets nor is born, (4) Nor is there to Him any equivalent.\" (Sura Ikhlas: 1-4)",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        256
+      ],
+      "id": 256,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 256,
+        "groups": "[{\"id\": 256, \"name\": null, \"cat_id\": 13, \"subcat_id\": 45, \"content\": \"33 times \\\"Alhamdulillah\\\"\", \"uthmani\": \"\\u0627\\u064e\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f \\u0644\\u0650\\u0644\\u0651\\u064e\\u0647\\u0650\", \"indopak\": \"\\u0627\\u064e\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f \\u0644\\u0650\\u0644\\u0651\\u0670\\u0647\\u0650\", \"clean\": \"\\u0627\\u0644\\u062d\\u0645\\u062f \\u0644\\u0644\\u0647\", \"transliteration\": \"Alhamdu lillaah\", \"translation\": \"All praise is for Allah.\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 256, \"name\": null, \"cat_id\": 13, \"subcat_id\": 45, \"content\": \"34 times \\\"Allahu Akbar\\\"\", \"uthmani\": \"\\u0627\\u064e\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0623\\u064e\\u0643\\u0652\\u0628\\u064e\\u0631\\u064f\", \"indopak\": \"\\u0627\\u064e\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0627\\u064e\\u0643\\u0652\\u0628\\u064e\\u0631\\u064f\", \"clean\": \"\\u0627\\u0644\\u0644\\u0647 \\u0627\\u0643\\u0628\\u0631\", \"transliteration\": \"Allahu 'Akbar\", \"translation\": \"Allah is the greatest.\", \"note\": \"33 times \\\"Subhanallah\\\", 33 times \\\"Alhamdulillah\\\" and 34 times \\\"Allahu Akbar\\\". These have been mentioned in different numbers in different sahih hadiths. The number above is more famous. Maximum number 400 times; \\\"Subhanallah\\\", \\\"Alhamdulillah\\\", \\\"Allahu Akbar\\\" and \\\"La-ilaha illallah\\\" - do 100 dhikr every time. Minimum number 30 times; 10 times \\\"Subhanallah\\\", 10 times \\\"Alhamdulillah\\\" and 10 times \\\"Allahu Akbar\\\".\", \"reference\": \"Bukhari: 843\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "سُبْحَانَ اللَّهِ",
+        "indopak": "سُبْحَانَ اللّٰهِ",
+        "clean": "سبحان الله",
+        "transliteration": "SubhaanAllah",
+        "reference": null,
+        "audio": 256,
+        "cat_id": 13,
+        "subcat_id": 45
+      },
+      "source": {
+        "name": "Thirty Three times \"Subhanallah\", Thirty Three times \"Alhamdulillah\" and Thirty Four times \"Allahu Akbar\"",
+        "content": "33 times \"Subhanallah\"",
+        "translation": "How perfect Allah is.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        257
+      ],
+      "id": 257,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 257,
+        "groups": "[{\"id\": 257, \"name\": null, \"cat_id\": 13, \"subcat_id\": 45, \"content\": null, \"uthmani\": \"\\u0644\\u064e\\u0627 \\u0625\\u0650\\u0644\\u064e\\u0647\\u064e \\u0625\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u064f \\u0644\\u064e\\u0627 \\u0634\\u064e\\u0631\\u0650\\u064a\\u0643\\u064e \\u0644\\u064e\\u0647\\u064f\\u060c \\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u0645\\u064f\\u0644\\u0652\\u0643\\u064f \\u0648\\u064e\\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f \\u0648\\u064e\\u0647\\u064f\\u0648\\u064e \\u0639\\u064e\\u0644\\u064e\\u0649 \\u0643\\u064f\\u0644\\u0651\\u0650 \\u0634\\u064e\\u064a\\u0652\\u0621\\u064d \\u0642\\u064e\\u062f\\u0650\\u064a\\u0631\\u064c\", \"indopak\": \"\\u0644\\u064e\\u0627 \\u0627\\u0650\\u0644\\u0670\\u0647\\u064e \\u0627\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u0657 \\u0644\\u064e\\u0627 \\u0634\\u064e\\u0631\\u0650\\u064a\\u0652\\u0643\\u064e \\u0644\\u064e\\u0647\\u0657\\u060c \\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u0645\\u064f\\u0644\\u0652\\u0643\\u064f \\u0648\\u064e\\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f \\u0648\\u064e\\u0647\\u064f\\u0648\\u064e \\u0639\\u064e\\u0644\\u0670\\u0649 \\u0643\\u064f\\u0644\\u0651\\u0650 \\u0634\\u064e\\u064a\\u0652\\u0621\\u064d \\u0642\\u064e\\u062f\\u0650\\u064a\\u0652\\u0631\\u064c\", \"clean\": \"\\u0644\\u0627 \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0627 \\u0627\\u0644\\u0644\\u0647 \\u0648\\u062d\\u062f\\u0647 \\u0644\\u0627 \\u0634\\u0631\\u064a\\u0643 \\u0644\\u0647 \\u0644\\u0647 \\u0627\\u0644\\u0645\\u0644\\u0643 \\u0648\\u0644\\u0647 \\u0627\\u0644\\u062d\\u0645\\u062f \\u0648\\u0647\\u0648 \\u0639\\u0644\\u064a \\u0643\\u0644 \\u0634\\u064a\\u0621 \\u0642\\u062f\\u064a\\u0631\", \"transliteration\": \"Laa 'ilaaha 'illAllahu wahdahu laa shareeka lahu, lahul-mulku walahul-hamdu wahuwa 'alaa kulli shay'in Qadeer\", \"translation\": \"None has the right to be worshipped except Allah, alone, without any partner, to Him belong all sovereignty and praise and He is over all things omnipotent.\", \"note\": \"Whoever says these after every prayer will be forgiven his sins even though they be as the foam of the sea.\", \"reference\": \"Muslim 1/418, no.597\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَاللَّهُ أَكْبَرُ",
+        "indopak": "سُبْحَانَ اللّٰهِ، وَالْحَمْدُ لِلّٰهِ، وَاللّٰهُ اَكْبَرُ",
+        "clean": "سبحان الله والحمد لله والله اكبر",
+        "transliteration": "SubhaanAllahi, walhamdu lillaahi wAllahu 'Akbar",
+        "reference": null,
+        "audio": 257,
+        "cat_id": 13,
+        "subcat_id": 45
+      },
+      "source": {
+        "name": "Sins forgiven even if like the foam of the sea",
+        "content": "Say thirty-three times each:",
+        "translation": "How perfect Allah is, all praise is for Allah, and Allah is the greatest.",
+        "note": "...and then say :"
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        258
+      ],
+      "id": 258,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 258,
+        "groups": null,
+        "uthmani": "رَبِّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ (تَجْمَعُ) عِبَادَكَ",
+        "indopak": "رَبِّ قِنِىْ عَذَابَكَ يَوْمَ تَبْعَثُ (تَجْمَعُ) عِبَادَكَ",
+        "clean": "رب قني عذابك يوم تبعث تجمع عبادك",
+        "transliteration": "Rabbi qini 'adhaabaka yawma tab'athu - [tajma'u] - 'ibaadak",
+        "reference": "Muslim: 709",
+        "audio": 258,
+        "cat_id": 13,
+        "subcat_id": 45
+      },
+      "source": {
+        "name": "Dua after salat #1",
+        "content": null,
+        "translation": "O Allah, save me from Your punishment on the Day when You resurrect - or gather - Your slaves.",
+        "note": "Bara' (RA) reported: When we prayed behind the Messenger of Allah (ﷺ) we cherished to be on his right side so that his face would turn towards us (at the end of the prayer), and he (the narrator) said: I heard him say: (the dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        259
+      ],
+      "id": 259,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 259,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ وَعَذَابِ الْقَبْرِ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ وَعَذَابِ الْقَبْرِ",
+        "clean": "اللهم اني اعوذ بك من الكفر والفقر وعذاب القبر",
+        "transliteration": "Allaahumma inni A‛oodhu bika minal-kufri wal-faqri, wa 'adhaabil-qabr",
+        "reference": "Sahih (Albani). Nasai: 5465",
+        "audio": 259,
+        "cat_id": 13,
+        "subcat_id": 45
+      },
+      "source": {
+        "name": "Dua after salat #2",
+        "content": null,
+        "translation": "O Allah, I seek refuge with You from Kufr, poverty, and from the torment of the grave.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        260
+      ],
+      "id": 260,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 260,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَعِنِّى عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "indopak": "اَللّٰهُمَّ اَعِنِّىْ عَلٰى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "clean": "اللهم اعني علي ذكرك وشكرك وحسن عبادتك",
+        "transliteration": "Allaahumma 'a'innee 'alaa dhikrika, wa shukrika, wahusni 'ibaadatik",
+        "reference": "Sahih (Albani). Abu Dawud: 1522",
+        "audio": 260,
+        "cat_id": 13,
+        "subcat_id": 45
+      },
+      "source": {
+        "name": "Dua after salat #3",
+        "content": null,
+        "translation": "O Allah, help me to remember You, to give You thanks, and to perform Your worship in the best manner.",
+        "note": "Mu'adh bin Jabal (RA) reported that the Messenger of Allah (ﷺ) caught his hand and said: By Allah, I love you, Mu'adh. I give some instruction to you. Never leave to recite this supplication after every (prescribed) prayer."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        261
+      ],
+      "id": 261,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 261,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ غْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ وَمَا أَسْرَفْتُ وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي أَنْتَ الْمُقَدِّمُ، وَأَنْتَ الْمُؤَخِّرُ لَا إِلَهَ إِلَّا أَنْتَ",
+        "indopak": "اَللّٰهُمَّ غْفِرْ لِىْ مَا قَدَّمْتُ وَمَا اَخَّرْتُ وَمَا اَسْرَرْتُ وَمَا اَعْلَنْتُ وَمَا اَسْرَفْتُ وَمَا اَنْتَ اَعْلَمُ بِهٖ مِنِّىْ اَنْتَ الْمُقَدِّمُ، وَاَنْتَ الْمُؤَخِّرُ لَا اِلٰهَ اِلَّا اَنْتَ",
+        "clean": "اللهم غفر لي ما قدمت وما اخرت وما اسررت وما اعلنت وما اسرفت وما انت اعلم به مني انت المقدم وانت المءخر لا اله الا انت",
+        "transliteration": "Allahum-maghfir lee maa qaddamtu, wa maa 'akhkhartu, wa maa 'asrartu, wa maa 'a'lantu, wa maa 'asraftu, wa maa 'Anta 'a'lamu bihi minnee. 'Antal-Muqaddimu, wa 'Antal-Mu'akhkhiru laa 'ilaaha 'illaa 'Anta",
+        "reference": "[1] Muslim: 771\n[2] Sahih (Albani). Abu Dawud: 1509",
+        "audio": 261,
+        "cat_id": 13,
+        "subcat_id": 45
+      },
+      "source": {
+        "name": "Dua after salat #4",
+        "content": null,
+        "translation": "O Allah, forgive me what I have sent before me and what I have left behind me, what I have done in secret and what I have done in public, what I have done in excess, and those sins which You are better aware of than I. You are the One Who sends forth and You are the One Who delays. There is none worthy of worship but You.",
+        "note": "The Messenger of Allah (ﷺ) after the tashahood but before the salaam [1] and in another narration, it says he used to say this dua after finishing the prayer [2]. Both narrations are authentic. Perhaps he (ﷺ) sometimes said this dua before salaam and sometimes after salaam."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        262
+      ],
+      "id": 262,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 262,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَصْلِحْ لِي دِيْنِيَ الَّذِي جَعَلْتَهُ عِصْمَةَ أَمْرِي، وَأَصْلِحْ لِي دُنْيَايَ الَّتِي جَعَلْتَ فِيهَا مَعَاشِيْ، اَللَّهُمَّ إِنِّي أَعُوْذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِعَفْوِكَ مِنْ نِقْمَتِكَ، وَأَعُودُ بِكَ مِنْكَ، اَللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+        "indopak": "اَللّٰهُمَّ اَصْلِحْ لِىْ دِيْنِيَ الَّذِىْ جَعَلْتَهُ عِصْمَةَ اَمْرِىْ، وَاَصْلِحْ لِىْ دُنْيَاىَ الَّتِىْ جَعَلْتَ فِيْهَا مَعَاشِىْ، اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِعَفْوِكَ مِنْ نِقْمَتِكَ، وَاَعُوْذُ بِكَ مِنْكَ، اَللّٰهُمَّ لَا مَانِعَ لِمَا اَعْطَيْتَ، وَلَا مُعْطِىَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+        "clean": "اللهم اصلح لي ديني الذي جعلته عصمه امري واصلح لي دنياي التي جعلت فيها معاشي اللهم اني اعوذ برضاك من سخطك وبعفوك من نقمتك واعوذ بك منك اللهم لا مانع لما اعطيت ولا معطي لما منعت ولا ينفع ذا الجد منك الجد",
+        "transliteration": "Allaahumma Aslih li dinya-lladhi ja'altahu ismata amri, wa aslih li dunyaya-llati ja'alta fihaa ma'aashi, Allaahumma inni a-udhu biridaaka min sakhatika, wabi 'afwika min niqmatika, wa a-udhu bika minka, Allaahumma laa maani'a limaa a'taita wa laa mu'tia limaa mana'ta wa laa yanfa'u dhal-jaddi minka al-jaddu",
+        "reference": "Hasan (Ibn Hajar). Alfutuhatur Rabbaniyyah 3/71",
+        "audio": 262,
+        "cat_id": 13,
+        "subcat_id": 45
+      },
+      "source": {
+        "name": "Dua after salat #5",
+        "content": "Suhaib (RA) said: The Prophet (ﷺ) used to say this dua at the end of the prayer:",
+        "translation": "O Allah, set straight my religious commitment that You have made a protection for me, and set straight my worldly affairs which You have made a means of my livelihood. O Allah, I seek refuge in Your pleasure from Your wrath, and I seek refuge in Your forgiveness from Your punishment, and I seek refuge in You from You. O Allah, None can withhold what you have given and none can give what you have withheld, and no wealth or fortune can avail the man of wealth and fortune before You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        263
+      ],
+      "id": 263,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 263,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ بِكَ أُحَاوِلُ وَبِكَ أُقَاتِلُ وَبِكَ أُصَاوِلُ",
+        "indopak": "اَللّٰهُمَّ بِكَ اُحَاوِلُ وَبِكَ اُقَاتِلُ وَبِكَ اُصَاوِلُ",
+        "clean": "اللهم بك احاول وبك اقاتل وبك اصاول",
+        "transliteration": "Allaahumma bika o-'haa-wilu wa bika o-qaatilu wa bika usaa-wil",
+        "reference": "Sahih (Albani). Darimi: 2/217",
+        "audio": 263,
+        "cat_id": 13,
+        "subcat_id": 45
+      },
+      "source": {
+        "name": "Dua after salat #6",
+        "content": null,
+        "translation": "Ya Allah! I try by your help, fight by your help, show courage by your help and be victorious by your help.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        264
+      ],
+      "id": 264,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 264,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي وَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيْم (التَّوَّابُ الْغَفُورُ)",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِيْ وَتُبْ عَلَيَّ اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِيْمِ (التَّوَّابُ الْغَفُوْرُ)",
+        "clean": "اللهم اغفر لي وتب علي انك انت التواب الرحيم التواب الغفور",
+        "transliteration": "Allahum-maghfir lee wa tub `alayya innaka Antat-Tawwabur-Rahim (in another narration: Tawwabul-Ghafur)",
+        "reference": "Sahih (Albani). Sahihah: 556, Ahmad: 5564",
+        "audio": 264,
+        "cat_id": 13,
+        "subcat_id": 45
+      },
+      "source": {
+        "name": "Dua after salat #7",
+        "content": "Say Hundred times:",
+        "translation": "O Allah, forgive me and turn to me. You are the Ever-Turning, the Merciful' (in another narration: the Most Forgiving)",
+        "note": "\"An Ansari Companion (RA) said: \"I have heard the Messenger of Allah (ﷺ) say this dua 100 times after the prayer.\"\n\nThe second narration of this hadith says: “Rasulullah (ﷺ) prays two rak'ats of Salatud-Duha. Then he recited this dua 100 times.\n\nBoth descriptions are authentic. At least all the Dhaakirs should pay attention to recite this Dua 100 times after Salatud Duha."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        265
+      ],
+      "id": 265,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 265,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي ذُنُوْبِي وَخَطَايَايَ كُلَّهَا اَللَّهُمَّ أَنْعِشْنِيْ وَاجْبُرْنِيْ وَاهْدِنيْ لِصَالِحِ الْأَعْمَالِ وَالْأَخْلَاقِ فَإِنَّهُ لَا يَهْدِيْ لِصَالِحِهَا وَلَا يَصْرِفُ سَيِّئَهَا إِلَّا أَنْتَ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِىْ ذُنُوْبِىْ وَخَطَايَاىَ كُلَّهَا اَللّٰهُمَّ اَنْعِشْنِىْ وَاجْبُرْنِىْ وَاهْدِنِىْ لِصَالِحِ الْاَعْمَالِ وَالْاَخْلَاقِ فَاِنَّهُ لَا يَهْدِىْ لِصَالِحِهَا وَلَا يَصْرِفُ سَيِّئَهَا اِلَّا اَنْتَ",
+        "clean": "اللهم اغفر لي ذنوبي وخطاياي كلها اللهم انعشني واجبرني واهدني لصالح الاعمال والاخلاق فانه لا يهدي لصالحها ولا يصرف سيءها الا انت",
+        "transliteration": "Allaahummagfirli dhunubi wa khata-ya-ya kullahaa, Allaahumma an-'ishni wajburni wahdini lisaali'hil a'maali wal akhlaaqi fa-innahu laa yahdi lisaali'hi-ha wa laa yasrifu sayyiahaa illaa anta",
+        "reference": "Hasan (Albani). Sahih Al Jame: 1266",
+        "audio": 265,
+        "cat_id": 13,
+        "subcat_id": 45
+      },
+      "source": {
+        "name": "Dua after salat #8",
+        "content": null,
+        "translation": "Ya Allah! Forgive all of my mistakes and my sins. Ya Allah! Inspire me and make me obedient. Guide me to do the good deeds and to the good mannars. Because none can guide to it’s good and turn away from it except you.",
+        "note": "Abu Umama (RA) and Abu Ayyub (RA) said: \"Whenever I went to your Prophet (ﷺ) in any of the obligatory and supererogatory prayers, I heard him say these two things while turning or getting up at the end of the prayer.\""
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        266
+      ],
+      "id": 266,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 266,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي ذَنْبِيْ وَوَسِّعْ لِي فِي دَارِيْ وَبَارِكْ لِي فِي رِزْقِيْ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِىْ ذَنْۢبِىْ وَوَسِّعْ لِىْ فِىْ دَارِىْ وَبَارِكْ لِىْ فِىْ رِزْقِىْ",
+        "clean": "اللهم اغفر لي ذنبي ووسع لي في داري وبارك لي في رزقي",
+        "transliteration": "Allaahummaghfir li dhanbi, wa wassi` li fi daari, wa baarik li fi rizqi",
+        "reference": "Hasan (Albani). Sahih Al Jame: 1265",
+        "audio": 266,
+        "cat_id": 13,
+        "subcat_id": 45
+      },
+      "source": {
+        "name": "Dua after salat #9",
+        "content": null,
+        "translation": "O Allah, forgive me my sin, and expand for me my abode, and bless for me that which You have provided me.",
+        "note": "Abu Musa (RA) said, \"I brought the water of ablution to the Messenger of Allah (ﷺ). \"Then he performs ablution, prays and recites this dua."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        267
+      ],
+      "id": 267,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 267,
+        "groups": null,
+        "uthmani": "اَللَّهُ اَكْبَرُ",
+        "indopak": "اَللّٰهُ اَكْبَرُ",
+        "clean": "الله اكبر",
+        "transliteration": "Allahu 'Akbar",
+        "reference": "Bukhari: 842",
+        "audio": 267,
+        "cat_id": 13,
+        "subcat_id": 45
+      },
+      "source": {
+        "name": "Dua after salat #11",
+        "content": "After returning the salutation, Rasulullah (ﷺ) would say once:",
+        "translation": "Allah is the greatest.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        268
+      ],
+      "id": 268,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 268,
+        "groups": null,
+        "uthmani": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ، وَرِضَا نَفْسِهِ، وَزِنَةَ عَرْشِهِ، وَمِدَادَ كَلِمَاتِهِ",
+        "indopak": "سُبْحَانَ اللّٰهِ وَبِحَمْدِهٖ عَدَدَ خَلْقِهٖ، وَرِضَا نَفْسِهٖ، وَزِنَةَ عَرْشِهٖ، وَمِدَادَ كَلِمَاتِهٖ",
+        "clean": "سبحان الله وبحمده عدد خلقه ورضا نفسه وزنه عرشه ومداد كلماته",
+        "transliteration": "SubhaanAllahi wa bihamdihi 'Adada khalqihi, wa ridhaa nafsihi, wa zinata 'arshihi wa midaada kalimaatihi",
+        "reference": "Muslim: 2726",
+        "audio": 268,
+        "cat_id": 13,
+        "subcat_id": 45
+      },
+      "source": {
+        "name": "Dua after salat #12",
+        "content": null,
+        "translation": "Glory is to Allah and praise is to Him, by the multitude of His creation, by His Pleasure, by the weight of His Throne, and by the extent of His Words.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    }
+  ]
+}

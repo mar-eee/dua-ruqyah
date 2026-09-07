@@ -1,0 +1,428 @@
+{
+  "table": "duas",
+  "chunk": "duas_007.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 13,
+  "id_range": "91-103",
+  "source_chars": 5978,
+  "items": [
+    {
+      "key": [
+        91
+      ],
+      "id": 91,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 91,
+        "groups": null,
+        "uthmani": "يَا حَيُّ يَا قَيُّوْمُ بِرَحْمَتِكَ أَسْتَغِيْثُ أَصْلِحْ لِي شَأْنِيْ كُلَّهُ وَلَا تَكِلْنِيْ إِلَى نَفْسِيْ طَرْفَةَ عَيْنٍ",
+        "indopak": "يَاحَيُّ يَاقَيُّوْمُ بِرَحْمَتِكَ اَسْتَغِيْثُ اَصْلِحْ لِيْ شَأْنِيْ كُلَّهٗ وَلَا تَكِلْنِيْ اِلٰى نَفْسِيْ طَرْفَةَ عَيْنٍ",
+        "clean": "ياحي ياقيوم برحمتك استغيث اصلح لي شاني كله ولا تكلني الي نفسي طرفه عين",
+        "transliteration": "Yaa Hayyu yaa Qayyoomu birahmatika 'astagheethu 'aslih lee sha'nee kullahu wa laa takilnee 'ilaa nafsee tarfata 'aynin",
+        "reference": "Hasan (Albani). Silsilatul Sahiha: 227",
+        "audio": 91,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Dua in the morning & evening #5",
+        "content": "Dua in the morning & evening: Say once",
+        "translation": "O Ever Living, O Self-Subsisting and Supporter of all, by Your mercy I seek assistance, rectify for me all of my affairs and do not leave me to myself, even for the blink of an eye.",
+        "note": "Anas (RA) said, The Messenger of Allah (ﷺ) told Fatima (RA) that,\"I advice you that, you should supplicate this in the morning and evening\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        92
+      ],
+      "id": 92,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 92,
+        "groups": null,
+        "uthmani": "رَضِيْتُ بِاللَّهِ رَبًّا وَبِالْإِسْلَامِ دِيْنًا وَبِمُحَمَّدٍ نَبِيًّا",
+        "indopak": "رَضِيْتُ بِاللّٰهِ رَبًّا وَّبِالْاِسْلَامِ دِيْنًا وَّبِمُحَمَّدٍ نَبِيًّا",
+        "clean": "رضيت بالله ربا وبالاسلام دينا وبمحمد نبيا",
+        "transliteration": "Radheetu billaahi Rabban, wa bil-'Islaami deenan, wa bi-Muhammadin Nabiyyan",
+        "reference": "Sahih li ghairihi (Shu’aib al-Arnaut). Takhrijul Musnad: 23112",
+        "audio": 92,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Dua in the morning & evening #6",
+        "content": "Say three times -",
+        "translation": "I am pleased with Allah as a Lord, and Islaam as a religion and Muhammad (ﷺ) as a Prophet.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        93
+      ],
+      "id": 93,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 93,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي قَدْ تَصَدَّقْتُ بِعِرْضِي عَلَى عِبَادِكَ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ قَدْ تَصَدَّقْتُ بِعِرْضِيْ عَلٰى عِبَادِكَ",
+        "clean": "اللهم اني قد تصدقت بعرضي علي عبادك",
+        "transliteration": "Allaahumma innii qad tasaddaqtu bi-’irdi ‘ala ‘ibaadik",
+        "reference": "Sahih Maktu (Albani). Abu Dawud: 4886",
+        "audio": 93,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Dua in the morning & evening #7",
+        "content": "Say one time in the morning -",
+        "translation": "O Allah, I gave my honour As Charity/Sadaka to thy servants.",
+        "note": "Tabi’ee ‘Abdur Ra’hman ibn Ajlaan or Sa’habi Anas (RA) Said, the Messenger of Allah (ﷺ) said that, Can't you be like Abu Damdam? Sa’habas are asked that who is Abu Damdam? he replied, is a person who lived before you. he said this sentence in every morning.  In another narration in, He said, I honour him who  rebuke me."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        94
+      ],
+      "id": 94,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 94,
+        "groups": "[{\"id\": 94, \"name\": null, \"cat_id\": 5, \"subcat_id\": 12, \"content\": null, \"uthmani\": \"\\u0627\\u064e\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f \\u0644\\u0650\\u0644\\u0651\\u064e\\u0647\\u0650\", \"indopak\": \"\\u0627\\u064e\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f \\u0644\\u0650\\u0644\\u0651\\u0670\\u0647\\u0650\", \"clean\": \"\\u0627\\u0644\\u062d\\u0645\\u062f \\u0644\\u0644\\u0647\", \"transliteration\": \"Al\\u2019hamdu lillah\", \"translation\": \"All Praise be to Allah\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 94, \"name\": null, \"cat_id\": 5, \"subcat_id\": 12, \"content\": null, \"uthmani\": \"\\u0627\\u064e\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0623\\u064e\\u0643\\u0652\\u0628\\u064e\\u0631\\u064f\", \"indopak\": \"\\u0627\\u064e\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0627\\u064e\\u0643\\u0652\\u0628\\u064e\\u0631\\u064f\", \"clean\": \"\\u0627\\u0644\\u0644\\u0647 \\u0627\\u0643\\u0628\\u0631\", \"transliteration\": \"Allahu Akbaar\", \"translation\": \"Allah is great\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 94, \"name\": null, \"cat_id\": 5, \"subcat_id\": 12, \"content\": null, \"uthmani\": \"\\u0644\\u064e\\u0627 \\u0625\\u0650\\u0644\\u064e\\u0647\\u064e \\u0625\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u064f \\u0644\\u064e\\u0627 \\u0634\\u064e\\u0631\\u0650\\u064a\\u0643\\u064e \\u0644\\u064e\\u0647\\u064f\\u060c \\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u0645\\u064f\\u0644\\u0652\\u0643\\u064f\\u060c \\u0648\\u064e\\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f\\u060c \\u0648\\u064e\\u0647\\u064f\\u0648\\u064e \\u0639\\u064e\\u0644\\u064e\\u0649 \\u0643\\u064f\\u0644\\u0651\\u0650 \\u0634\\u064e\\u064a\\u0652\\u0621\\u064d \\u0642\\u064e\\u062f\\u0650\\u064a\\u0631\\u064c\", \"indopak\": \"\\u0644\\u064e\\u0627 \\u0627\\u0650\\u0644\\u0670\\u0647\\u064e \\u0627\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u0657 \\u0644\\u064e\\u0627 \\u0634\\u064e\\u0631\\u0650\\u064a\\u0652\\u0643\\u064e \\u0644\\u064e\\u0647\\u0657\\u060c \\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u0645\\u064f\\u0644\\u0652\\u0643\\u064f\\u060c \\u0648\\u064e\\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f\\u060c \\u0648\\u064e\\u0647\\u064f\\u0648\\u064e \\u0639\\u064e\\u0644\\u0670\\u0649 \\u0643\\u064f\\u0644\\u0651\\u0650 \\u0634\\u064e\\u064a\\u0652\\u0621\\u064d \\u0642\\u064e\\u062f\\u0650\\u064a\\u0652\\u0631\\u064c\", \"clean\": \"\\u0644\\u0627 \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0627 \\u0627\\u0644\\u0644\\u0647 \\u0648\\u062d\\u062f\\u0647 \\u0644\\u0627 \\u0634\\u0631\\u064a\\u0643 \\u0644\\u0647 \\u0644\\u0647 \\u0627\\u0644\\u0645\\u0644\\u0643 \\u0648\\u0644\\u0647 \\u0627\\u0644\\u062d\\u0645\\u062f \\u0648\\u0647\\u0648 \\u0639\\u0644\\u064a \\u0643\\u0644 \\u0634\\u064a\\u0621 \\u0642\\u062f\\u064a\\u0631\", \"transliteration\": \"Laa ilahaa illAllahu wahdahu laa sharika lahu, lahul-mulku wa lahul-hamdu wa huwa 'alaa kulli shay'in qadir\", \"translation\": null, \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 94, \"name\": null, \"cat_id\": 5, \"subcat_id\": 12, \"content\": null, \"uthmani\": \"\\u0644\\u064e\\u0627 \\u0625\\u0650\\u0644\\u064e\\u0647\\u064e \\u0625\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f\", \"indopak\": \"\\u0644\\u064e\\u0627 \\u0627\\u0650\\u0644\\u0670\\u0647\\u064e \\u0627\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f\", \"clean\": \"\\u0644\\u0627 \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0627 \\u0627\\u0644\\u0644\\u0647\", \"transliteration\": \"Laa ilahaa illAllah\", \"translation\": null, \"note\": null, \"reference\": \"Hasan Garib (Tirmidhi). Tirmidhi: 3471\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "سُبْحَانَ اللَّهِ",
+        "indopak": "سُبْحَانَ اللّٰهِ",
+        "clean": "سبحان الله",
+        "transliteration": "Sub’hanallah",
+        "reference": null,
+        "audio": 94,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Tasbeeh",
+        "content": "After Fajr and Asr prayer, Subhanallah 100 times, Alhamdulillah 100 times, Allahu Akbar 100 times,  La Ilaha Illallah hoo laa sharikalahu, lahul m ulku walahul ‘hamdu wa huwa ‘ala kulli shaiyin qaadir Hundred times ( for La Ilaha Illallah  100  times)",
+        "translation": "How perfect Allah is",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        95
+      ],
+      "id": 95,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 95,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ (لَكَ) بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+        "indopak": "اَللّٰهُمَّ اَنْتَ رَبِّيْ لَا اِلٰهَ اِلَّا اَنْتَ خَلَقْتَنِيْ وَاَنَا عَبْدُكَ وَاَنَا عَلٰى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ اَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ اَبُوْءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَاَبُوْءُ (لَكَ) بِذَنْۢبِيْ فَاغْفِرْ لِيْ فَاِنَّهٗ لَا يَغْفِرُ الذُّنُوْبَ اِلَّا اَنْتَ",
+        "clean": "اللهم انت ربي لا اله الا انت خلقتني وانا عبدك وانا علي عهدك ووعدك ما استطعت اعوذ بك من شر ما صنعت ابوء لك بنعمتك علي وابوء لك بذنبي فاغفر لي فانه لا يغفر الذنوب الا انت",
+        "transliteration": "Allaahumma 'Anta Rabbee laa 'ilaaha 'illaa 'Anta, khalaqtanee wa 'anaa 'abduka, wa 'anaa 'alaa 'ahdika wa wa'dika mas-tata'tu, 'A'oodhu bika min sharri maa sana'tu, 'aboo'u laka bini'matika 'alayya, wa 'aboo'u (laka) bithanbee faghfir lee fa'innahu laa yaghfiruth-thunooba 'illaa 'Anta.",
+        "reference": "Bukhari: 6306",
+        "audio": 95,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Sayyidul Istighfar (Best way to ask forgiveness)",
+        "content": "Sayyidul Istighfar (One time)-",
+        "translation": "O Allah, You are my Lord, none has the right to be worshipped except You, You created me and I am Your servant and I abide to Your covenant and promise as best I can, I take refuge in You from the evil of which I have committed. I acknowledge Your favour upon me and I acknowledge my sin, so forgive me, for verily none can forgive sin except You.",
+        "note": "Narrated Shaddad bin Aus, The Prophet (ﷺ) said:\n\n\"The most superior way of asking for forgiveness from Allah is (The dua is mentioned above). The Prophet (ﷺ) added. \"If somebody recites it during the day with firm faith in it, and dies on the same day before the evening, he will be from the people of Paradise; and if somebody recites it at night with firm faith in it, and dies before the morning, he will be from the people of Paradise.\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        96
+      ],
+      "id": 96,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 96,
+        "groups": null,
+        "uthmani": "اللَّـهُ لَا إِلَـٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ ﴿٢٥٥﴾",
+        "indopak": "اَللّٰهُ لَا اِلٰهَ اِلَّا هُوَ الْحَيُّ الْقَيُّوْمُ ۚ لَا تَأْخُذُهٗ سِنَةٌ وَّلَا نَوْمٌ ۚ لَّهٗ مَا فِي السَّمَاوَاتِ وَمَا فِي الْاَرْضِ ۗ مَنْ ذَا الَّذِيْ يَشْفَعُ عِندَهٗ اِلَّا بِاِذْنِهٖ ۚ يَعْلَمُ مَا بَيْنَ اَيْدِيْهِمْ وَمَا خَلْفَهُمْ  ۖ وَلَا يُحِيْطُوْنَ بِشَيْءٍ مِّنْ عِلْمِهٖ اِلَّا بِمَا شَاءَ  ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْاَرْضَ  ۖ وَلَا يَئُوْدُهٗ حِفْظُهُمَا  ۚ وَهُوَ الْعَلِيُّ الْعَظِيْمُ ﴿٢٥٥﴾",
+        "clean": "الله لا اله الا هو الحي القيوم  لا تاخذه سنه ولا نوم  له ما في السماوات وما في الارض  من ذا الذي يشفع عنده الا باذنه  يعلم ما بين ايديهم وما خلفهم   ولا يحيطون بشيء من علمه الا بما شاء   وسع كرسيه السماوات والارض   ولا يءوده حفظهما   وهو العلي العظيم ٢٥٥",
+        "transliteration": "Allahu laa 'ilaaha 'illaa Huwal-Haiyul-Qayyoom, laa ta'khuthuhu sinatun walaa nawm, lahu maa fis-samaawaati wamaa fil-'ardhi, man thal-lathee yashfa'u 'indahu 'illaa bi'ithnihi, ya'lamu maa bayna 'aydeehim wa maa khalfahum, wa laa yuheetoona bishay'im-min 'ilmihi 'illaa bimaa shaa'a, wasi'a kursiyyuhus-samaawaati wal'ardh, wa laa ya'ooduhu hifdhuhumaa, wa Huwal-'Aliyyul- 'Adheem.",
+        "reference": "Bukhari: 2311",
+        "audio": 96,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Ayatul Kursi",
+        "content": "Ayatul Kursi (One time)-",
+        "translation": "Allah! There is none worthy of worship but He, the Ever Living, the One Who sustains and protects all that exists. Neither slumber nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them in this world, and what will happen to them in the Hereafter. And they will never compass anything of His Knowledge except that which He wills. His Throne extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great.",
+        "note": "Ubay bin Ka’ab (RA) reported that, anyone recite ayatul kursi in the morning he will be protected from Jinn till the evening and if he recite in the evening he will be protected from Jinn till the morning.\n\nNote: If anyone recite it after Fajr prayer one time then he will get both the benefits of reciting it in the morning and benefits of reciting it after Fajr prayer."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        97
+      ],
+      "id": 97,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 97,
+        "groups": "[{\"id\": 97, \"name\": null, \"cat_id\": 5, \"subcat_id\": 12, \"content\": \"Sura Falaq three times:\", \"uthmani\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0640\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u064e\\u0640\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0645\\u0650\\n\\u0642\\u064f\\u0644\\u0652 \\u0623\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0650\\u0651 \\u0627\\u0644\\u0652\\u0641\\u064e\\u0644\\u064e\\u0642\\u0650 \\ufd3f\\u0661\\ufd3e \\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0645\\u064e\\u0627 \\u062e\\u064e\\u0644\\u064e\\u0642\\u064e \\ufd3f\\u0662\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u063a\\u064e\\u0627\\u0633\\u0650\\u0642\\u064d \\u0625\\u0650\\u0630\\u064e\\u0627 \\u0648\\u064e\\u0642\\u064e\\u0628\\u064e \\ufd3f\\u0663\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0641\\u0651\\u064e\\u0627\\u062b\\u064e\\u0627\\u062a\\u0650 \\u0641\\u0650\\u064a \\u0627\\u0644\\u0652\\u0639\\u064f\\u0642\\u064e\\u062f\\u0650 \\ufd3f\\u0664\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u062d\\u064e\\u0627\\u0633\\u0650\\u062f\\u064d \\u0625\\u0650\\u0630\\u064e\\u0627 \\u062d\\u064e\\u0633\\u064e\\u062f\\u064e \\ufd3f\\u0665\\ufd3e\", \"indopak\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0652\\u0645\\u0650\\n\\u0642\\u064f\\u0644\\u0652 \\u0627\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0650\\u0651 \\u0627\\u0644\\u0652\\u0641\\u064e\\u0644\\u064e\\u0642\\u0650 \\ufd3f\\u0661\\ufd3e \\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0645\\u064e\\u0627 \\u062e\\u064e\\u0644\\u064e\\u0642\\u064e \\ufd3f\\u0662\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u063a\\u064e\\u0627\\u0633\\u0650\\u0642\\u064d \\u0627\\u0650\\u0630\\u064e\\u0627 \\u0648\\u064e\\u0642\\u064e\\u0628\\u064e \\ufd3f\\u0663\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0641\\u0651\\u064e\\u0627\\u062b\\u064e\\u0627\\u062a\\u0650 \\u0641\\u0650\\u064a \\u0627\\u0644\\u0652\\u0639\\u064f\\u0642\\u064e\\u062f\\u0650 \\ufd3f\\u0664\\ufd3e \\u0648\\u064e\\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u062d\\u064e\\u0627\\u0633\\u0650\\u062f\\u064d \\u0627\\u0650\\u0630\\u064e\\u0627 \\u062d\\u064e\\u0633\\u064e\\u062f\\u064e \\ufd3f\\u0665\\ufd3e\", \"clean\": \"\\u0628\\u0633\\u0645 \\u0627\\u0644\\u0644\\u0647 \\u0627\\u0644\\u0631\\u062d\\u0645\\u0646 \\u0627\\u0644\\u0631\\u062d\\u064a\\u0645\\u0642\\u0644 \\u0627\\u0639\\u0648\\u0630 \\u0628\\u0631\\u0628 \\u0627\\u0644\\u0641\\u0644\\u0642 \\u0661 \\u0645\\u0646 \\u0634\\u0631 \\u0645\\u0627 \\u062e\\u0644\\u0642 \\u0662 \\u0648\\u0645\\u0646 \\u0634\\u0631 \\u063a\\u0627\\u0633\\u0642 \\u0627\\u0630\\u0627 \\u0648\\u0642\\u0628 \\u0663 \\u0648\\u0645\\u0646 \\u0634\\u0631 \\u0627\\u0644\\u0646\\u0641\\u0627\\u062b\\u0627\\u062a \\u0641\\u064a \\u0627\\u0644\\u0639\\u0642\\u062f \\u0664 \\u0648\\u0645\\u0646 \\u0634\\u0631 \\u062d\\u0627\\u0633\\u062f \\u0627\\u0630\\u0627 \\u062d\\u0633\\u062f \\u0665\", \"transliteration\": null, \"translation\": \"(1) Say, \\\"I seek refuge in the Lord of daybreak (2) From the evil of that which He created (3) And from the evil of darkness when it settles (4) And from the evil of the blowers in knots (5) And from the evil of an envier when he envies.\\\" (Sura Falaq: 1-5)\", \"note\": null, \"reference\": null, \"audio\": null, \"groups\": null, \"languageId\": \"en\"}, {\"id\": 97, \"name\": null, \"cat_id\": 5, \"subcat_id\": 12, \"content\": \"Sura Nas three times:\", \"uthmani\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0640\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u064e\\u0640\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0645\\u0650\\n\\u0642\\u064f\\u0644\\u0652 \\u0623\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0650\\u0651 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0661\\ufd3e \\u0645\\u064e\\u0644\\u0650\\u0643\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0662\\ufd3e \\u0625\\u0650\\u0644\\u064e\\u0640\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0663\\ufd3e \\u0645\\u0650\\u0646 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0627\\u0644\\u0652\\u0648\\u064e\\u0633\\u0652\\u0648\\u064e\\u0627\\u0633\\u0650 \\u0627\\u0644\\u0652\\u062e\\u064e\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0664\\ufd3e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a \\u064a\\u064f\\u0648\\u064e\\u0633\\u0652\\u0648\\u0650\\u0633\\u064f \\u0641\\u0650\\u064a \\u0635\\u064f\\u062f\\u064f\\u0648\\u0631\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0665\\ufd3e \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0652\\u062c\\u0650\\u0646\\u0651\\u064e\\u0629\\u0650 \\u0648\\u064e\\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0666\\ufd3e\", \"indopak\": \"\\u0628\\u0650\\u0633\\u0652\\u0645\\u0650 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0652\\u0645\\u0670\\u0646\\u0650 \\u0627\\u0644\\u0631\\u0651\\u064e\\u062d\\u0650\\u064a\\u0652\\u0645\\u0650\\n\\u0642\\u064f\\u0644\\u0652 \\u0627\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0631\\u064e\\u0628\\u0650\\u0651 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0661\\ufd3e \\u0645\\u064e\\u0644\\u0650\\u0643\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0662\\ufd3e \\u0627\\u0650\\u0644\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0663\\ufd3e \\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0650\\u0651 \\u0627\\u0644\\u0652\\u0648\\u064e\\u0633\\u0652\\u0648\\u064e\\u0627\\u0633\\u0650 \\u0627\\u0644\\u0652\\u062e\\u064e\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0664\\ufd3e \\u0627\\u0644\\u0651\\u064e\\u0630\\u0650\\u064a\\u0652 \\u064a\\u064f\\u0648\\u064e\\u0633\\u0652\\u0648\\u0650\\u0633\\u064f \\u0641\\u0650\\u064a\\u0652 \\u0635\\u064f\\u062f\\u064f\\u0648\\u0652\\u0631\\u0650 \\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0665\\ufd3e \\u0645\\u0650\\u0646\\u064e \\u0627\\u0644\\u0652\\u062c\\u0650\\u0646\\u0651\\u064e\\u0629\\u0650 \\u0648\\u064e\\u0627\\u0644\\u0646\\u0651\\u064e\\u0627\\u0633\\u0650 \\ufd3f\\u0666\\ufd3e\", \"clean\": \"\\u0628\\u0633\\u0645 \\u0627\\u0644\\u0644\\u0647 \\u0627\\u0644\\u0631\\u062d\\u0645\\u0646 \\u0627\\u0644\\u0631\\u062d\\u064a\\u0645\\u0642\\u0644 \\u0627\\u0639\\u0648\\u0630 \\u0628\\u0631\\u0628 \\u0627\\u0644\\u0646\\u0627\\u0633 \\u0661 \\u0645\\u0644\\u0643 \\u0627\\u0644\\u0646\\u0627\\u0633 \\u0662 \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0646\\u0627\\u0633 \\u0663 \\u0645\\u0646 \\u0634\\u0631 \\u0627\\u0644\\u0648\\u0633\\u0648\\u0627\\u0633 \\u0627\\u0644\\u062e\\u0646\\u0627\\u0633 \\u0664 \\u0627\\u0644\\u0630\\u064a \\u064a\\u0648\\u0633\\u0648\\u0633 \\u0641\\u064a \\u0635\\u062f\\u0648\\u0631 \\u0627\\u0644\\u0646\\u0627\\u0633 \\u0665 \\u0645\\u0646 \\u0627\\u0644\\u062c\\u0646\\u0647 \\u0648\\u0627\\u0644\\u0646\\u0627\\u0633 \\u0666\", \"transliteration\": null, \"translation\": \"(1) Say, \\\"I seek refuge in the Lord of mankind, (2) The Sovereign of mankind. (3) The ilah of mankind, (4) From the evil of the retreating whisperer - (5) Who whispers [evil] into the breasts of mankind - (6) From among the jinn and mankind.\\\" (Sura Nas: 1-6)\", \"note\": \"Abdullah ibn Khubayb (RA) Said that, the Messenger of Allah (\\ufdfa) said: \\n\\n\\\"Say, He is Allah, One (Sura Ikhlas), Sura Nas & Falaq read three times in the morning and evening; they will serve you for every purpose.\", \"reference\": \"Hasan (Albani). Abu Dawud: 5082\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\nقُلْ هُوَ اللَّـهُ أَحَدٌ ﴿١﴾ اللَّـهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿٤﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ\nقُلْ هُوَ اللّٰهُ اَحَدٌ ﴿١﴾ اَللّٰهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُوْلَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهٗ كُفُوًا اَحَدٌ ﴿٤﴾",
+        "clean": "بسم الله الرحمن الرحيمقل هو الله احد ١ الله الصمد ٢ لم يلد ولم يولد ٣ ولم يكن له كفوا احد ٤",
+        "transliteration": null,
+        "reference": null,
+        "audio": 97,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Sura Ikhlas, Falaq & Nas",
+        "content": "Sura Ikhlas three times:",
+        "translation": "(1) Say, \"He is Allah, [who is] One, (2) Allah, the Eternal Refuge. (3) He neither begets nor is born, (4) Nor is there to Him any equivalent.\" (Sura Ikhlas: 1-4)",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        98
+      ],
+      "id": 98,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 98,
+        "groups": "[{\"id\": 98, \"name\": null, \"cat_id\": 5, \"subcat_id\": 12, \"content\": null, \"uthmani\": \"\\u0633\\u064f\\u0628\\u0652\\u062d\\u064e\\u0627\\u0646\\u064e \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u0650 \\u0627\\u0644\\u0652\\u0639\\u064e\\u0638\\u0650\\u064a\\u0645\\u0650 \\u0648\\u064e\\u0628\\u0650\\u062d\\u064e\\u0645\\u0652\\u062f\\u0650\\u0647\\u0650\", \"indopak\": \"\\u0633\\u064f\\u0628\\u0652\\u062d\\u064e\\u0627\\u0646\\u064e \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650 \\u0627\\u0644\\u0652\\u0639\\u064e\\u0638\\u0650\\u064a\\u0652\\u0645\\u0650 \\u0648\\u064e\\u0628\\u0650\\u062d\\u064e\\u0645\\u0652\\u062f\\u0650\\u0647\\u0656\", \"clean\": \"\\u0633\\u0628\\u062d\\u0627\\u0646 \\u0627\\u0644\\u0644\\u0647 \\u0627\\u0644\\u0639\\u0638\\u064a\\u0645 \\u0648\\u0628\\u062d\\u0645\\u062f\\u0647\", \"transliteration\": \"Sub\\u2019hanallahil \\u2018adhim wa bi\\u2019hamdihi\", \"translation\": \"Glory be to Allah and all praise is due to him, glory be to Allah the great.\", \"note\": \"Abu Hurairah (RA) said,  the Messenger of Allah (\\ufdfa) said that, if anyone recite \\u201cSub\\u2019hanallahi wa bi\\u2019hamdihi\\u201d hundred  times in the morning and  in the evening, then you will bring largest rewards then anyone in the day of resurrection, except who recite it more than him. In the other narration, he will be forgiven even if his sins are greater than the foams of the sea. Another narration, the dhikr was mentioned as \\u201cSub\\u2019hanallahil \\u2018adhim wa bi\\u2019hamdihi\\u201d.\", \"reference\": \"Bukhari: 6405, Muslim: 2692\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+        "indopak": "سُبْحَانَ اللّٰهِ وَبِحَمْدِهٖ",
+        "clean": "سبحان الله وبحمده",
+        "transliteration": "Sub’hanallahi wa bi’hamdihi",
+        "reference": null,
+        "audio": 98,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "One Hundred times Subhanallahi wa Bihamdihi",
+        "content": null,
+        "translation": "Glory and praise is to Allah",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        99
+      ],
+      "id": 99,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 99,
+        "groups": null,
+        "uthmani": "رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ رَّحِيمٌ ﴿١٠﴾",
+        "indopak": "رَبَّنَا اغْفِرْ لَنَا وَلِاِخْوَانِنَا الَّذِيْنَ سَبَقُوْنَا بِالْاِيْمَانِ وَلَا تَجْعَلْ فِيْ قُلُوْبِنَا غِلًّا لِّلَّذِيْنَ اٰمَنُوْا رَبَّنَا اِنَّكَ رَءُوْفٌ رَّحِيْمٌ ﴿١٠﴾",
+        "clean": "ربنا اغفر لنا ولاخواننا الذين سبقونا بالايمان ولا تجعل في قلوبنا غلا للذين امنوا ربنا انك رءوف رحيم ١٠",
+        "transliteration": "Rabbanaghfir lana wali ikhwanina alladheena sabaqoona bileemani wala taj'aal fee quloobina ghillan lilladheena amanoo rabbana innaka raoofur raheem",
+        "reference": "Surah Hashr 59:10",
+        "audio": 99,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Dua to stay free from hatred and animosity",
+        "content": null,
+        "translation": "Our Lord, forgive us and our brothers who preceded us in faith and put not in our hearts [any] resentment toward those who have believed. Our Lord, indeed You are Kind and Merciful.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        100
+      ],
+      "id": 100,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 100,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ عَافِنِي فِي بَدَنِي اَللَّهُمَّ عَافِنِيْ فِي سَمْعِي اَللَّهُمَّ عَافِنِيْ فِي بَصَرِي لَا إِلَهَ إِلَّا أَنْتَ اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ لَا إِلَهَ إِلَّا أَنْتَ",
+        "indopak": "اَللّٰهُمَّ عَافِنِيْ فِيْ بَدَنِيْ اَللّٰهُمَّ عَافِنِيْ فِيْ سَمْعِيْ اَللّٰهُمَّ عَافِنِيْ فِيْ بَصَرِيْ لَا اِلٰهَ اِلَّا اَنْتَ اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ لَا اِلٰهَ اِلَّا اَنْتَ",
+        "clean": "اللهم عافني في بدني اللهم عافني في سمعي اللهم عافني في بصري لا اله الا انت اللهم اني اعوذ بك من الكفر والفقر اللهم اني اعوذ بك من عذاب القبر لا اله الا انت",
+        "transliteration": "Allaahumma 'aafinee fee badanee, Allaahumma 'aafinee fee sam'ee, Allaahumma 'aafinee fee basaree, laa 'ilaaha 'illaa 'Anta. Allaahumma 'innee 'A'oodhu bika minal-kufri, wal-faqri, wa 'A'oodhu bika min 'athaabil-qabri, laa 'ilaaha 'illaa 'Anta.",
+        "reference": "Hasan (Albani). Abu Dawud: 5090",
+        "audio": 100,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Dua in the morning & evening",
+        "content": "Say three times:",
+        "translation": "O Allah, grant my body health, O Allah, grant my hearing health, O Allah, grant my sight health. None has the right to be worshipped except You. O Allah, I take refuge with You from disbelief and poverty, and I take refuge with You from the punishment of the grave. None has the right to be worshipped except You.",
+        "note": "Abdur Rahman ibn Abu Bakr (RA) said that he told his father: O my father! I hear you supplicating every morning. You repeat them three times in the morning and three times in the evening. Then Abu Bakrah said: \n\nI heard the Messenger of Allah (ﷺ) using these words as a supplication and I like to follow his practice."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        101
+      ],
+      "id": 101,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 101,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِي، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوْءًا، أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ",
+        "indopak": "اَللّٰهُمَّ عَالِمَ الغَيْبِ وَالشَّهَادَةِ فَاطِرَ السَّمَاوَاتِ وَالْاَرْضِ، رَبَّ كُلِّ شَيْءٍ وَّمَلِيْكَهُ، اَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اَنْتَ، اَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِيْ، وَمِنْ شَرِّ الشَّيْطَانِ وَ شِرْكِهٖ ، وَاَنْ اَقْتَرِفَ عَلٰى نَفْسِيْ سُوْءًا، اَوْ اَجُرَّهٗ اِلٰى مُسْلِمٍ",
+        "clean": "اللهم عالم الغيب والشهاده فاطر السماوات والارض رب كل شيء ومليكه اشهد ان لا اله الا انت اعوذ بك من شر نفسي ومن شر الشيطان و شركه  وان اقترف علي نفسي سوءا او اجره الي مسلم",
+        "transliteration": "Allaahumma 'Aalimal-ghaybi wash-shahaadati faatiras-samaawaati wal'ardhi, Rabba kulli shay'in wa maleekahu, 'ash-hadu 'an laa 'ilaaha 'illaa 'Anta, 'A'oodhu bika min sharri nafsee, wa min sharrish-shaytaani wa shirkihi, wa 'an 'aqtarifa 'alaa nafsee soo'an, 'aw 'ajurrahu 'ilaa Muslim.",
+        "reference": "Sahih (Albani). Tirmidhi: 3529",
+        "audio": 101,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Ask Pardon from the evil of oneself and shaitan",
+        "content": "In the morning or evening, say -",
+        "translation": "O Allah, Knower of the unseen and the seen, Creator of the heavens and the Earth, Lord and Sovereign of all things, I bear witness that none has the right to be worshipped except You. I take refuge in You from the evil of my soul and from the evil and shirk of the devil, and from committing wrong against my soul or bringing such upon another Muslim.",
+        "note": "Abu Bakr As-Siddiq (RA) said: “O Messenger of Allah, teach me what to say at morning and afternoon.” He said: “O Abu Bakr, say (above dua)"
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        102
+      ],
+      "id": 102,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 102,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِيْ وَدُنْيَايَ وَأَهْلِيْ، وَمَالِيْ، اَللَّهُمَّ اسْتُرْ عَوْرَاتِيْ، وَآمِنْ رَوْعَاتِيْ، اَللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِيْنِيْ وَعَنْ شِمَالِي وَمِنْ فَوْقِيْ وَأَعُوْذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِيْ",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْاٰخِرَةِ، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِيْ دِيْنِيْ وَدُنْيَايَ وَاَهْلِيْ، وَمَالِيْ، اَللّٰهُمَّ اسْتُرْ عَوْرَاتِيْ، وَاٰمِنْ رَوْعَاتِيْ، اَللّٰهُمَّ احْفَظْنِيْ مِنْۢ بَيْنِ يَدَيَّ وَمِنْ خَلْفِيْ وَعَنْ يَّمِيْنِيْ وَعَنْ شِمَالِيْ وَمِنْ فَوْقِيْ وَاَعُوْذُ بِعَظَمَتِكَ اَنْ اُغْتَالَ مِنْ تَحْتِيْ",
+        "clean": "اللهم اني اسالك العفو والعافيه في الدنيا والاخره اللهم اني اسالك العفو والعافيه في ديني ودنياي واهلي ومالي اللهم استر عوراتي وامن روعاتي اللهم احفظني من بين يدي ومن خلفي وعن يميني وعن شمالي ومن فوقي واعوذ بعظمتك ان اغتال من تحتي",
+        "transliteration": "Allaahumma 'innee 'as'alukal-'afwa wal'aafiyata fid-dunyaa wal'aakhirah, Allaahumma 'innee 'as'alukal-'afwa wal'aafiyata fee deenee wa dunyaaya wa 'ahlee, wa maalee, Allahum-mastur 'awraatee, wa 'aamin raw'aatee, Allahum-mahfadhnee mim bayni yadayya, wa min khalfee, wa 'an yameenee, wa 'an shimaalee, wa min fawqee, wa 'A'oodhu bi'adhamatika 'an 'ughtaala min tahtee.",
+        "reference": "Sahih (Albani). Abu Dawud: 5074",
+        "audio": 102,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Asking for pardon, wellbeing and refuge from all sides",
+        "content": "In the morning (evening) say,",
+        "translation": "O Allah, I ask You for pardon and well-being in this life and the next. O Allah, I ask You for pardon and well-being in my religious and worldly affairs, and my family and my wealth. O Allah, veil my weaknesses and set at ease my dismay. O Allah, preserve me from the front and from behind and on my right and on my left and from above, and I take refuge with You lest I be swallowed up by the earth.",
+        "note": "Abdullah ibn Umar (RA) Said that, The Messenger of Allah (ﷺ) never forget to utter these supplications in the evening and in the morning."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        103
+      ],
+      "id": 103,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 103,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
+        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد وهو علي كل شيء قدير",
+        "transliteration": "Laa 'ilaaha 'illAllahu wa'hdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu, wa Huwa 'alaa kulli shay'in Qadeer.",
+        "reference": "Bukhari: 3293",
+        "audio": 103,
+        "cat_id": 5,
+        "subcat_id": 12
+      },
+      "source": {
+        "name": "Special Tahlil",
+        "content": "This Dua is regarded as a special dhikr of masnun dhikr-",
+        "translation": "None has the right to be worshipped except Allah, He is alone, without any partner, to Him belong all sovereignty and praise, and He is over all things omnipotent.",
+        "note": "Many hadiths are narrated about benefit of this dhikr. Many authentic reports commanded us to to recite this dua in every morning and evening 1 or 10 or 100 or 200 times, After every obligatory prayer, and generally without any time restriction."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    }
+  ]
+}

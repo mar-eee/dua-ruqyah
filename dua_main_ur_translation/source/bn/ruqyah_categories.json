@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "type": "RUQYAH",
+    "name": "রুকিয়াহ সম্পর্কে",
+    "icon": "abt_ruqya"
+  },
+  {
+    "id": 2,
+    "type": "INSTANT",
+    "name": "সকল রোগের রুকিয়াহ করুন",
+    "icon": "do_ruqya"
+  },
+  {
+    "id": 3,
+    "type": "RUQYAH",
+    "name": "রুকইয়াহর পরবর্তী পদক্ষেপ",
+    "icon": "next_step"
+  },
+  {
+    "id": 4,
+    "type": "RUQYAH",
+    "name": "জিনকেন্দ্রিক অসুস্থতা",
+    "icon": "jin"
+  },
+  {
+    "id": 5,
+    "type": "RUQYAH",
+    "name": "জাদুটোনা কেন্দ্রিক অসুস্থতা",
+    "icon": "jadu-tona"
+  },
+  {
+    "id": 6,
+    "type": "RUQYAH",
+    "name": "বদনজর সম্পর্কিত অসুস্থতা",
+    "icon": "bodnozor"
+  },
+  {
+    "id": 7,
+    "type": "RUQYAH",
+    "name": "বিভিন্ন জাদুর জন্য রুকিয়াহ",
+    "icon": "jadur_ruqya"
+  },
+  {
+    "id": 8,
+    "type": "RUQYAH",
+    "name": "অন্যান্য অসুস্থতার জন্য রুকিয়াহ",
+    "icon": "sickness_ruqya"
+  },
+  {
+    "id": 9,
+    "type": "RUQYAH",
+    "name": "রুকইয়াহ পদ্ধতির সংশোধন",
+    "icon": "next_step"
+  },
+  {
+    "id": 10,
+    "type": "RUQYAH",
+    "name": "রাক্কী পরিচিতি",
+    "icon": "raqi"
+  },
+  {
+    "id": 11,
+    "type": "RUQYAH",
+    "name": "রুকিয়াহর জন্য উপকরন সমূহ",
+    "icon": "upokoron"
+  },
+  {
+    "id": 12,
+    "type": "RUQYAH",
+    "name": "হিজামা",
+    "icon": "hijama"
+  },
+  {
+    "id": 13,
+    "type": "RUQYAH",
+    "name": "সাত দিনের ডিটক্সিফিকেশন প্রোগ্রাম",
+    "icon": "ditox"
+  },
+  {
+    "id": 14,
+    "type": "RUQYAH",
+    "name": "ওয়াসওয়াসা রোগ",
+    "icon": "was-wasa"
+  },
+  {
+    "id": 15,
+    "type": "VIDEO",
+    "name": "রুকিয়াহ সম্পর্কিত ভিডিওসমূহ",
+    "icon": "video"
+  }
+]

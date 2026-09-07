@@ -1,0 +1,78 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_089.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 3,
+  "id_range": "176-178",
+  "source_chars": 3895,
+  "items": [
+    {
+      "key": [
+        176
+      ],
+      "id": 176,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 176,
+        "topic_id": 1,
+        "cat_id": 14,
+        "subcat_id": 146
+      },
+      "source": {
+        "topic_name": "Introduction",
+        "text": "As is discussed above, Hijamah is not without its risks, and it is not for everybody to undertake. The Hajjaam must see that the patient is fit for Hijamah and must know how to adapt the procedure based on the constitution of the patient and their current state of health. This is also borne out by the hadith:\n\nJabir bin Abdullaah (RA) relates that he heard Rasulullaah (SAW) saying: \"If there is any good in your treatments it is in the blade of the Hajjaam, a drink of honey or branding by fire (cauterisation/ moxibustion), whichever suits the ailment, and I do not like to be cauterized\" (Bukhari & Muslim)\n\nThis hadith infers that one must know if Hijamah is the best treatment for the patient, or another treatment would be more suitable. It is interesting to note that in this same hadith the 3 main principles of treatment are referred to, viz, supplementing (with honey), draining heat (by Hijamah) and treating cold and stasis (with fire).\n\nIn order to know if Hijamah will suit the patient the Hajjaam must first know the contraindications and precautions for practicing Hijamah. Contraindications being those conditions if present, in which Hijamah should not be done and precautions being those in which it is not prohibited, but caution should be observed, especially in terms of how much blood is removed."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        177
+      ],
+      "id": 177,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 177,
+        "topic_id": 2,
+        "cat_id": 14,
+        "subcat_id": 146
+      },
+      "source": {
+        "topic_name": "Excessive perspiration",
+        "text": "“Do not bleed the one who is sweating, do not sweat the one who is bleeding”\n\nThe first rule of preventing adverse effects of Hijamah is not to perform the procedure for a person who is suffering from excessive perspiration. In traditional medicine this is understood as a weakness of the body in its ability to hold the pores closed, which therefore results in excessive and easy perspiration. (This should not be confused with night sweats which are a different phenomenon mostly due to heat forcing the pores open at night.)\n\nA person who suffers from easy and excessive sweating is already suffering from a loss of body fluids and bleeding such a person will only aggravate this condition. They will also tend to bleed more easily and may exhibit excessive and uncontrolled blood loss should Hijamah be performed. Excessive sweating, or hyperhidrosis, can be a warning sign of thyroid problems, diabetes or infection. It is also more common in people who are overweight or out of shape. Such an individual is not normally suffering from an \"excess heat\" type of condition where Hijamah is indicated.\n\nThe second part of this precaution, viz. do not sweat the one who is one bleeding, means that medication which is used to cause sweating (diaphoretics) should not be used in a person who is bleeding (as it will increase blood loss unnecessarily)."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        178
+      ],
+      "id": 178,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 178,
+        "topic_id": 3,
+        "cat_id": 14,
+        "subcat_id": 146
+      },
+      "source": {
+        "topic_name": "Hemophilia",
+        "text": "Hemophilia is a genetic disorder that impairs the body's ability to control blood clotting or coagulation, which is used to stop bleeding when a blood vessel is broken, or to heal the incision that is created by the Hajjaam. It is more common in males than females and is characterized by lower blood plasma clotting factor levels of the coagulation factors needed for a normal clotting process.\n\nThus when a blood vessel is injured, a temporary scab does form, but the missing coagulation factors prevent fibrin formation, which is necessary to maintain the blood clot. A hemophiliac does not bleed more intensely than a person without it, but can bleed for a much longer time. In severe hemophiliacs even a minor incision from Hijamah can result in blood loss lasting days or weeks, or even never healing completely. \n\nFor this reason it is not recommended to perform Hijamah on a hemophiliac, unless it is in association with their medical practitioner who understands the severity and nature of the patients hemophilia and regards Hijamah as safe for the patient.\n\nThe Hajjaam should take a proper history of the patient in order to determine if the patient is a hemophiliac."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    }
+  ]
+}

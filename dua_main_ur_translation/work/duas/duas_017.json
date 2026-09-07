@@ -1,0 +1,332 @@
+{
+  "table": "duas",
+  "chunk": "duas_017.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 10,
+  "id_range": "229-238",
+  "source_chars": 5840,
+  "items": [
+    {
+      "key": [
+        229
+      ],
+      "id": 229,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 229,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيْمَ وَعَلَى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ اَللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَّعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيْمَ وَعَلَى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ",
+        "indopak": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى اٰلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى اٰلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَّجِيْدٌ اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى اٰلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيْمَ وَعَلٰى اٰلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَّجِيْدٌ",
+        "clean": "اللهم صل علي محمد وعلي ال محمد كما صليت علي ابراهيم وعلي ال ابراهيم انك حميد مجيد اللهم بارك علي محمد وعلي ال محمد كما باركت علي ابراهيم وعلي ال ابراهيم انك حميد مجيد",
+        "transliteration": "Allaahumma salli 'alaa Muhammadin wa 'alaa 'aali Muhammadin, kamaa sallayta 'alaa 'Ibraaheema wa 'alaa 'aali 'Ibraaheema, 'innaka Hameedun Majeed. Allaahumma baarik 'alaa Muhammadin wa 'alaa 'aali Muhammadin, kamaa baarakta 'alaa 'Ibraaheema wa 'alaa 'aali 'Ibraaheema, 'innaka Hameedun Majeed",
+        "reference": "Bukhari: 3370",
+        "audio": 229,
+        "cat_id": 13,
+        "subcat_id": 40
+      },
+      "source": {
+        "name": "Prayers upon the Prophet (ﷺ) after tashahhud #1",
+        "content": null,
+        "translation": "O Allah, bestow Your favor on Muhammad (ﷺ) and on the family of Muhammad as You have bestowed Your favor on Ibrahim and on the family of Ibrahim, You are Praiseworthy, Most Glorious. O Allah, bless Muhammad (ﷺ) and the family of Muhammad as You have blessed Ibrahim and the family of Ibrahim, You are Praiseworthy, Most Glorious.",
+        "note": "Narrated by Ka`b bin Ujrah (RA): We asked Allah's Messenger (ﷺ) saying, 'O Allah's Messenger (ﷺ)! How should one (ask Allah to) send blessings on you, the members of the family, for Allah has taught us how to salute you (in the prayer)?' He (ﷺ) said, 'Say: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        230
+      ],
+      "id": 230,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 230,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيْمَ، وَبَارِكْ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا بَارَكْتَ عَلَى آلِ إبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَجِيْدٌ",
+        "indopak": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّاَزْوَاجِهٖ وَذُرِّيَّتِهٖ، كَمَا صَلَّيْتَ عَلٰى اٰلِ اِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَاَزْوَاجِهٖ وَذُرِّيَّتِهٖ، كَمَا بَارَكْتَ عَلٰى اٰلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌ مَّجِيْدٌ",
+        "clean": "اللهم صل علي محمد وازواجه وذريته كما صليت علي ال ابراهيم وبارك علي محمد وازواجه وذريته كما باركت علي ال ابراهيم انك حميد مجيد",
+        "transliteration": "Allaahumma salli 'alaa Muhammadin wa 'azwaajihi wa dhurriyyatihi, kamaa sallayta 'alaa 'aali 'Ibraaheema. Wa baarik 'alaa Muhammadin wa 'azwaajihi wa dhurriyyatihi, kamaa baarakta 'alaa 'aali 'Ibraaheema. 'Innaka Hameedun Majeed",
+        "reference": "Bukhari: 3369",
+        "audio": 230,
+        "cat_id": 13,
+        "subcat_id": 40
+      },
+      "source": {
+        "name": "Prayers upon the Prophet (ﷺ) after tashahhud #2",
+        "content": null,
+        "translation": "O Allah, bestow Your favor on Muhammad (ﷺ) and upon his wives and progeny as You have bestowed Your favor upon the family of Ibrahim. And bless Muhammad (ﷺ) and his wives and progeny as You have blessed the family of Ibrahim, You are full of praise, Most Glorious.",
+        "note": "Narrated Abu Hamid (RA) Saidi: They asked, “O Messenger of Allah (ﷺ)! How can we recite Durood for you?” Then the Prophet (ﷺ) said, you say - (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        231
+      ],
+      "id": 231,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 231,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَلِّفْ بَيْنَ قُلُوبِنَا وَأَصْلِحْ ذَاتَ بَيْنِنَا وَاهْدِنَا سُبُلَ السَّلَامِ وَنَجِّنَا مِنَ الظُّلُمَاتِ إِلَى النُّوْرِ وَجَنِّبْنَا الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَبَارِكْ لَنَا فِي أَسْمَاعِنَا وَأَبْصَارِنَا وَقُلُوبِنَا وَأَزْوَاجِنَا وَذُرِّيَّاتِنَا وَتُبْ عَلَيْنَا إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيْمُ وَاجْعَلْنَا شَاكِرِيْنَ لِنِعْمَتِكَ مُثْنِيْنَ بِهَا قَابِلِيْهَا وَأَتِمَّهَا عَلَيْنَا",
+        "indopak": "اَللّٰهُمَّ اَلِّفْ بَيْنَ قُلُوْبِنَا وَاَصْلِحْ ذَاتَ بَيْنِنَا وَاهْدِنَا سُبُلَ السَّلَامِ وَنَجِّنَا مِنَ الظُّلُمَاتِ اِلَى النُّوْرِ وَجَنِّبْنَا الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَبَارِكْ لَنَا فِىْ اَسْمَاعِنَا وَاَبْصَارِنَا وَقُلُوْبِنَا وَاَزْوَاجِنَا وَذُرِّيَّاتِنَا وَتُبْ عَلَيْنَا اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِيْمُ وَاجْعَلْنَا شَاكِرِيْنَ لِنِعْمَتِكَ مُثْنِيْنَ بِهَا قَابِلِيْهَا وَاَتِمَّهَا عَلَيْنَا",
+        "clean": "اللهم الف بين قلوبنا واصلح ذات بيننا واهدنا سبل السلام ونجنا من الظلمات الي النور وجنبنا الفواحش ما ظهر منها وما بطن وبارك لنا في اسماعنا وابصارنا وقلوبنا وازواجنا وذرياتنا وتب علينا انك انت التواب الرحيم واجعلنا شاكرين لنعمتك مثنين بها قابليها واتمها علينا",
+        "transliteration": "Allaahumma allif bayna quloobinaa wa aslih dhaata bayninaa wahdinaa subulas salaam, wa najjinaa minaz zulumaati ilan noor, wa jannibnal fawaa-hisha maa zahara minhaa wa maa batan, wa baarik lanaa fi asmaa’inaa wa absaarinaa wa quloobinaa wa azwaajinaa wa dhurri yaatinaa wa tub alaynaa innaka antat tawwaabur raheem waj’alnaa shaakireena lini’matika muth-neena bihaa qaabileehaa wa atimmahaa 'alaynaa",
+        "reference": "Daif (Albani). Abu Dawud: 969",
+        "audio": 231,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #1",
+        "content": null,
+        "translation": "O Allah, join our hearts, mend our social relationship, guide us to the path of peace, bring us from darkness to light, save us from obscenities, outward or inward, and bless our ears, our eyes, our hearts, our wives, our children, and relent toward us; Thou art the Relenting, the Merciful. And make us grateful for Thy blessing and make us praise it while accepting it and give it to us in full.",
+        "note": "Abdullah ibn Mas'ud (RA) said: The Messenger of Allah (ﷺ) used to teach us this dua to recite after Tashahhud."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        232
+      ],
+      "id": 232,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 232,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ وَمِنْ عَذَابِ الْقَبْرِ وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ وَمِنْ عَذَابِ الْقَبْرِ وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ وَمِنْ شَرِّ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ",
+        "clean": "اللهم اني اعوذ بك من عذاب جهنم ومن عذاب القبر ومن فتنه المحيا والممات ومن شر فتنه المسيح الدجال",
+        "transliteration": "Allaahumma 'innee 'a'oodhu bika min 'adhaabi jahannam, wa min 'adhaabil-qabr, wa min fitnatil-mahyaa wal-mamaati, wa min sharri fitnatil-maseehid-dajjaal",
+        "reference": "Muslim: 588",
+        "audio": 232,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #2",
+        "content": null,
+        "translation": "O Allah! I seek refuge with Thee from the torment of the Hell, from the torment of the grave, from the trial of life and death and from the evil of the trial of Masih al-Dajjal.",
+        "note": "The Messenger of Allah (ﷺ) said: When any one of you utters tashahhud (in prayer) he must seek refuge in Allah from four (trials) and should thus say : (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        233
+      ],
+      "id": 233,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 233,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ وَمَا أَسْرَفْتُ وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي أَنْتَ الْمُقَدِّمُ وَأَنْتَ الْمُؤَخِّرُ لَا إِلَهَ إِلَّا أَنْتَ",
+        "indopak": "اَللّٰهُمَّ اغْفِرْ لِىْ مَا قَدَّمْتُ وَمَا اَخَّرْتُ وَمَا اَسْرَرْتُ وَمَا اَعْلَنْتُ وَمَا اَسْرَفْتُ وَمَا اَنْتَ اَعْلَمُ بِهٖ مِنِّىْ اَنْتَ الْمُقَدِّمُ وَاَنْتَ الْمُؤَخِّرُ لَا اِلٰهَ اِلَّا اَنْتَ",
+        "clean": "اللهم اغفر لي ما قدمت وما اخرت وما اسررت وما اعلنت وما اسرفت وما انت اعلم به مني انت المقدم وانت المءخر لا اله الا انت",
+        "transliteration": "Allahum-maghfir lee maa qaddamtu, wa maa 'akhkhartu, wa maa 'asrartu, wa maa 'a'lantu, wa maa 'asraftu, wa maa 'Anta 'a'lamu bihi minnee. 'Antal-Muqaddimu, wa 'Antal-Mu'akhkhiru laa 'ilaaha 'illaa 'Anta",
+        "reference": "Muslim: 771",
+        "audio": 233,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #3",
+        "content": "Rasulullah (ﷺ) used to say these words at the end of the prayer between Tashahhud and Salam:",
+        "translation": "O Allah, forgive me what I have sent before me and what I have left behind me, what I have concealed and what I have done openly, what I have done in excess, and what You are better aware of than I. You are the One Who sends forth and You are the One Who delays. There is none worthy of worship but You.",
+        "note": "After tashahood, The Messenger of Allah (ﷺ) supplicate this dua at the end, before saying salaam."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        234
+      ],
+      "id": 234,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 234,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِيْ ظُلْمًا كَثِيْرًا وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِيْ إِنَّكَ أَنْتَ الْغَفُوْرُ الرَّحِيْمُ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ ظَلَمْتُ نَفْسِىْ ظُلْمًا كَثِيْرًا وَّلَا يَغْفِرُ الذُّنُوْبَ اِلَّا اَنْتَ فَاغْفِرْ لِىْ مَغْفِرَةً مِّنْ عِنْدِكَ وَارْحَمْنِىْ اِنَّكَ اَنْتَ الْغَفُوْرُ الرَّحِيْمُ",
+        "clean": "اللهم اني ظلمت نفسي ظلما كثيرا ولا يغفر الذنوب الا انت فاغفر لي مغفره من عندك وارحمني انك انت الغفور الرحيم",
+        "transliteration": "Allaahumma 'innee dhalamtu nafsee dhulman katheeran, wa laa yaghfirudh-dhunooba 'illaa 'Anta, faghfir lee maghfiratan min 'indika warhamnee 'innaka 'Antal-Ghafoorur-Raheem",
+        "reference": "Bukhari: 834",
+        "audio": 234,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #4",
+        "content": "Narrated by Abu Bakr As-Siddiq (RA): I asked Allah's Messenger (ﷺ) to teach me a dua so that I may invoke Allah with it in my prayer. He told me to say:",
+        "translation": "O Allah, I have greatly wronged myself and no one forgives sins but You. So, grant me forgiveness and have mercy on me. Surely, you are Forgiving, Merciful.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        235
+      ],
+      "id": 235,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 235,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ بِعِلْمِكَ الْغَيْبَ وَقُدْرَتِكَ عَلَى الْخَلْقِ أَحْيِنِيْ مَا عَلِمْتَ الْحَيَاةَ خَيْرًا لِي وَتَوَفَّنِيْ إِذَا عَلِمْتَ الْوَفَاةَ خَيْرًا لِي اَللَّهُمَّ وَأَسْأَلُكَ خَشْيَتَكَ فِي الْغَيْبِ وَالشَّهَادَةِ وَأَسْأَلُكَ كَلِمَةَ الْحَقِّ فِي الرِّضَا وَالْغَضَبِ وَأَسْأَلُكَ الْقَصْدَ فِي الْفَقْرِ وَالْغِنَى وَأَسْأَلُكَ نَعِيْمًا لَا يَنْفَدُ وَأَسْأَلُكَ قُرَّةَ عَيْنٍ لَا تَنْقَطِعُ وَأَسْأَلُكَ الرِّضَا بَعْدَ الْقَضَاءِ وَأَسْأَلُكَ بَرْدَ الْعَيْشِ بَعْدَ الْمَوْتِ وَأَسْأَلُكَ لَذَّةَ النَّظَرِ إِلَى وَجْهِكَ وَالشَّوْقَ إِلَى لِقَائِكَ فِي غَيْرِ ضَرَّاءَ مُضِرَّةٍ وَلَا فِتْنَةٍ مُضِلَّةٍ اَللَّهُمَّ زَيِّنَا بِزِيْنَةِ الْإِيْمَانِ وَاجْعَلْنَا هُدَاةً مُهْتَدِيْنَ",
+        "indopak": "اَللّٰهُمَّ بِعِلْمِكَ الْغَيْبَ وَقُدْرَتِكَ عَلَى الْخَلْقِ اَحْيِنِىْ مَا عَلِمْتَ الْحَيَاةَ خَيْرًا لِّىْ وَتَوَفَّنِىْ اِذَا عَلِمْتَ الْوَفَاةَ خَيْرًا لِّىْ اَللّٰهُمَّ وَاَسْاَلُكَ خَشْيَتَكَ فِى الْغَيْبِ وَالشَّهَادَةِ وَاَسْاَلُكَ كَلِمَةَ الْحَقِّ فِى الرِّضَا وَالْغَضَبِ وَاَسْاَلُكَ الْقَصْدَ فِى الْفَقْرِ وَالْغِنٰى وَاَسْاَلُكَ نَعِيْمًا لَّا يَنْفَدُ وَاَسْاَلُكَ قُرَّةَ عَيْنٍ لَّا تَنْقَطِعُ وَاَسْاَلُكَ الرِّضَا بَعْدَ الْقَضَاءِ وَاَسْاَلُكَ بَرْدَ الْعَيْشِ بَعْدَ الْمَوْتِ وَاَسْاَلُكَ لَذَّةَ النَّظَرِ اِلٰى وَجْهِكَ وَالشَّوْقَ اِلٰى لِقَائِكَ فِىْ غَيْرِ ضَرَّاءَ مُضِرَّةٍ وَلَا فِتْنَةٍ مُّضِلَّةٍ اَللّٰهُمَّ زَيِّنَا بِزِيْنَةِ الْاِيْمَانِ وَاجْعَلْنَا هُدَاةً مُّهْتَدِيْنَ",
+        "clean": "اللهم بعلمك الغيب وقدرتك علي الخلق احيني ما علمت الحياه خيرا لي وتوفني اذا علمت الوفاه خيرا لي اللهم واسالك خشيتك في الغيب والشهاده واسالك كلمه الحق في الرضا والغضب واسالك القصد في الفقر والغني واسالك نعيما لا ينفد واسالك قره عين لا تنقطع واسالك الرضا بعد القضاء واسالك برد العيش بعد الموت واسالك لذه النظر الي وجهك والشوق الي لقاءك في غير ضراء مضره ولا فتنه مضله اللهم زينا بزينه الايمان واجعلنا هداه مهتدين",
+        "transliteration": "Allaahumma bi'ilmikal-ghayba wa qudratika 'alal-khalq, 'ahyinee maa 'alimtal-hayaata khayran lee wa tawaffanee 'idhaa 'alimtal-wafaata khayran lee, Allaahumma wa 'as'aluka khashyataka fil-ghaybi wash-shahaadati, wa 'as'aluka kalimatal-haqqi fir-ridhaa wal-ghadhabi, wa 'as'alukal-qasda fil-faqri walghinaa, wa 'as'aluka na'eeman laa yanfadu, wa 'as'aluka qurrata 'aynin laa tanqati'u, wa 'as'alukar-ridhaa ba'dal-qadhaa, wa 'as'aluka bardal-'ayshi ba'dal-mawti, wa 'as'aluka ladh-dhatan-nadhari 'ilaa wajhika wash-shawqa 'ilaa liqaa'ika fee ghayri darraa'a mudirratin wa laa fitnatin mudillatin, Allaahumma zayyinnaa bizeenatil-'eemaani waj'alnaa hudaatan muhtadeen",
+        "reference": "Sahih (Albani). Nasai: 1305",
+        "audio": 235,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #5",
+        "content": null,
+        "translation": "O Allah, by Your Knowledge of the unseen and by Your Power over creation, let me live if You know that life is good for me, and let me die if You know that death is good for me. O Allah, I ask You to grant me fear of You in private and in public. I ask you for the word of truth in times of contentment and anger. I ask You for moderation in wealth and in poverty. I ask you for blessings never ceasing and the coolness of my eye (i .e . pleasure) that never ends. I ask You for pleasure after Your Judgment and I ask You for a life of coolness after death. I ask You for the delight of gazing upon Your Face and the joy of meeting You without any harm and misleading trials befalling me. O Allah, dress us with the beauty of Faith, and make us guides who are upon (correct) guidance.",
+        "note": "It was narrated from Ata bn As-Sa'ib (R) that: Ammar bin Yasir (RA) led us in prayer and he made it brief. Some of the people said to him: 'You made the prayer short.He said: 'Nevertheless I still recited supplications that I heard from the Messenger of Allah (ﷺ).' Saying this, he taught them the above dua."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        236
+      ],
+      "id": 236,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 236,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنَ الْخَيْرِ كُلِّهِ عَاجِلِهِ وَآجِلِهِ، مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ، وَأَعُوْذُ بِكَ مِنَ الشَّرِّ كُلِّهِ عَاجِلِهِ وَآجِلِهِ، مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ عَبْدُكَ وَنَبِيُّكَ، وَأَعُوْذُ بِكَ مِنْ شَرِّ مَا عَاذَ بِهِ عَبْدُكَ وَنَبِيُّكَ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَعُوْذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَسْأَلُكَ أَنْ تَجْعَلَ كُلَّ قَضَاءٍ قَضَيْتَهُ لِي خَيْرًا",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ مِنَ الْخَيْرِ كُلِّهٖ عَاجِلِهٖ وَاٰجِلِهٖ، مَا عَلِمْتُ مِنْهُ وَمَا لَمْ اَعْلَمْ، وَاَعُوذُ بِكَ مِنَ الشَّرِّ كُلِّهٖ عَاجِلِهٖ وَاٰجِلِهٖ، مَا عَلِمْتُ مِنْهُ وَمَا لَمْ اَعْلَمْ، اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ مِنْ خَيْرِ مَا سَاَلَكَ عَبْدُكَ وَنَبِيُّكَ، وَاَعُوْذُ بِكَ مِنْ شَرِّ مَا عَاذَ بِهٖ عَبْدُكَ وَنَبِيُّكَ، اَللّٰهُمَّ اِنِّىْ اَسْاَلُكَ الْجَنَّةَ وَمَا قَرَّبَ اِلَيْهَا مِنْ قَوْلٍ اَوْ عَمَلٍ، وَاَعُوْذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ اِلَيْهَا مِنْ قَوْلٍ اَوْ عَمَلٍ، وَاَسْاَلُكَ اَنْ تَجْعَلَ كُلَّ قَضَاءٍ قَضَيْتَهُ لِىْ خَيْرًا",
+        "clean": "اللهم اني اسالك من الخير كله عاجله واجله ما علمت منه وما لم اعلم واعوذ بك من الشر كله عاجله واجله ما علمت منه وما لم اعلم اللهم اني اسالك من خير ما سالك عبدك ونبيك واعوذ بك من شر ما عاذ به عبدك ونبيك اللهم اني اسالك الجنه وما قرب اليها من قول او عمل واعوذ بك من النار وما قرب اليها من قول او عمل واسالك ان تجعل كل قضاء قضيته لي خيرا",
+        "transliteration": "Allaahumma inni as'aluka minal-khayri kullihi, 'aajilihi wa aajilihi, maa 'alimtu minhu wa maa lam a'lam. Wa A‛oodhu bika minash-sharri kullihi, 'aajilihi wa aajilihi, maa 'alimtu minhu wa maa lam a'lam. Allaahumma inni as'aluka min khayri maa sa'alaka 'abduka wa nabiyyuka, wa A‛oodhu bika min sharri maa 'aadha bihi 'abduka wa nabiyyuka. Allaahumma inni as'alukal-jannata wa maa qarraba ilayhaa min qawlin aw 'amal, wa A‛oodhu bika minan-naari wa maa qarraba ilayhaa min qawlin aw 'amal, wa as'aluka an taj'al kulla qadaa'in qadaytahu li khayra",
+        "reference": "Sahih (Albani). Ibn Majah: 3846",
+        "audio": 236,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #6",
+        "content": null,
+        "translation": "O Allah, I ask You for all that is good, in this world and in the Hereafter, what I know and what I do not know. O Allah, I seek refuge with You from all evil, in this world and in the Hereafter, what I know and what I do not know. O Allah, I ask You for the good that Your slave and Prophet (ﷺ) has asked You for, and I seek refuge with You from the evil from which Your slave and Prophet (ﷺ) sought refuge. O Allah, I ask You for Paradise and for that which brings one closer to it, in word and deed, and I seek refuge in You from Hell and from that which brings one closer to it, in word and deed. And I ask You to make every decree that You decree concerning me good.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        237
+      ],
+      "id": 237,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 237,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَحْـيَا وَالْمَمَاتِ. اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَاَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ، وَاَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَحْـيَا وَالْمَمَاتِ، اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ",
+        "clean": "اللهم اني اعوذ بك من عذاب القبر واعوذ بك من فتنه المسيح الدجال واعوذ بك من فتنه المحيا والممات اللهم اني اعوذ بك من الماثم والمغرم",
+        "transliteration": "Allaahumma 'innee 'a'oodhu bika min 'adhaabil-qabr, wa 'a'oodhu bika min fitnatil-maseehid-dajjaal, wa 'a'oodhu bika min fitnatil-mahyaa wal-mamaat. Allaahumma 'innee 'a'oodhu bika minal-ma'thami wal-maghram",
+        "reference": "Bukhari: 832",
+        "audio": 237,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #7",
+        "content": "Protection from punishment of the grave, trials of life, death & Dajjal, from sin & debt:",
+        "translation": "O Allah, I seek refuge in You from the punishment of the grave, and I seek refuge in You from the trial of the False Messiah, and I seek refuge in You from the trials of life and death. O Allah, I seek refuge in You from sin and from debt.",
+        "note": "Narrated by `Aisha (RA) (the wife of the Prophet) Allah's Messenger (ﷺ) used to say this dua in the prayer. She said to him, \"Why do you so frequently seek refuge with Allah from being in debt?\" The Prophet (ﷺ) replied, \"A person who in debt tells lies whenever he speaks, and breaks promises whenever he makes (them).\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        238
+      ],
+      "id": 238,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 238,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ وَأَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ. اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْمَأْثَمِ  وَمِنَ الْمَغْرَمِ",
+        "indopak": "اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ وَاَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَاَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ وَاَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، اَللّٰهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنَ الْمَأْثَمِ وَمِنَ الْمَغْرَمِ",
+        "clean": "اللهم اني اعوذ بك من عذاب جهنم واعوذ بك من عذاب القبر واعوذ بك من فتنه المسيح الدجال واعوذ بك من فتنه المحيا والممات اللهم اني اعوذ بك من الماثم ومن المغرم",
+        "transliteration": "Allaahumma inni a`udhu bika min `adhaabi jahannam, wa a`udhu bika min `adhaabil-qabr, wa a`udhu bika min fitnatil-masihid-dajjaal, wa a`udhu bika min fitnatil-mahyaa wal-mamaat, Allaahumma inni a`udhu bika minal-ma'thami wa minal-maghram",
+        "reference": "Muslim: 1/412",
+        "audio": 238,
+        "cat_id": 13,
+        "subcat_id": 41
+      },
+      "source": {
+        "name": "Dua Mathurah #8",
+        "content": null,
+        "translation": "O Allah, I seek refuge with Thee from the torment of Hell, and I seek refuge with Thee from the torment of the grave, and I seek refuge with Thee from the trial of the Masih al-Dajjal (Antichrist) and I seek refuge with Thee from the trial of life and death. O Allah! I seek refuge with Thee from sin and debt.",
+        "note": "Ibn ‘Abbas (RA) said that the Holy Prophet (ﷺ) used to teach them (the Companions) this Dua in the same way he used to teach them Surah of the Quran. He used to say: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    }
+  ]
+}

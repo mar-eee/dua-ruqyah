@@ -1,0 +1,552 @@
+{
+  "table": "ruqyah_instants",
+  "chunk": "ruqyah_instants_009.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 18,
+  "id_range": "126-143",
+  "source_chars": 5982,
+  "items": [
+    {
+      "key": [
+        126
+      ],
+      "id": 126,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 126,
+        "topic_id": 1,
+        "uthmani": "وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ ۖ وَإِن يُرِدْكَ بِخَيْرٍ فَلَا رَادَّ لِفَضْلِهِ ۚ يُصِيبُ بِهِ مَن يَشَاءُ مِنْ عِبَادِهِ ۚ وَهُوَ الْغَفُورُ الرَّحِيمُ ﴿١٠٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/29.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Yunus 10:107",
+        "content": null,
+        "translation": "(107) And if Allah should touch you with adversity, there is no remover of it except Him; and if He intends for you good, then there is no repeller of His bounty. He causes it to reach whom He wills of His servants. And He is the Forgiving, the Merciful"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        127
+      ],
+      "id": 127,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 127,
+        "topic_id": 2,
+        "uthmani": "أَسْأَلُ اللهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ",
+        "transliteration": "As'alullaahal-'Adheema Rabbal-'Arshil-'Adheemi 'an yashfiyaka.",
+        "reference": "Sunan Abu Dawud: 3106, SunanTirmidhi: 2083, Musnad Al Imam Ahmad: 1/239",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/29.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud : 3106",
+        "content": "Say 7 times:",
+        "translation": "I pray to Allah, the Magnificent, Lord of the Glorious Throne, to grant you healing.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": "",
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        128
+      ],
+      "id": 128,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 128,
+        "topic_id": 1,
+        "uthmani": "لَوْ أَنزَلْنَا هَـٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّـهِ ۚ وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ ﴿٢١﴾ هُوَ اللَّـهُ الَّذِي لَا إِلَـٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَـٰنُ الرَّحِيمُ ﴿٢٢﴾ هُوَ اللَّـهُ الَّذِي لَا إِلَـٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ ۚ سُبْحَانَ اللَّـهِ عَمَّا يُشْرِكُونَ ﴿٢٣﴾ هُوَ اللَّـهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ ﴿٢٤﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/30.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Hashr 59:21-24",
+        "content": null,
+        "translation": "(21) If We had sent down this Qur'an upon a mountain, you would have seen it humbled and coming apart from fear of Allah . And these examples We present to the people that perhaps they will give thought. (22) He is Allah, other than whom there is no deity, Knower of the unseen and the witnessed. He is the Entirely Merciful, the Especially Merciful. (23) He is Allah, other than whom there is no deity, the Sovereign, the Pure, the Perfection, the Bestower of Faith, the Overseer, the Exalted in Might, the Compeller, the Superior. Exalted is Allah above whatever they associate with Him. (24) He is Allah, the Creator, the Inventor, the Fashioner; to Him belong the best names. Whatever is in the heavens and earth is exalting Him. And He is the Exalted in Might, the Wise."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        129
+      ],
+      "id": 129,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 129,
+        "topic_id": 1,
+        "uthmani": "وَقَالَ يَا بَنِيَّ لَا تَدْخُلُوا مِن بَابٍ وَاحِدٍ وَادْخُلُوا مِنْ أَبْوَابٍ مُّتَفَرِّقَةٍ ۖ وَمَا أُغْنِي عَنكُم مِّنَ اللَّهِ مِن شَيْءٍ ۖ إِنِ الْحُكْمُ إِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ ﴿٦٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/30.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Yusuf 12:67",
+        "content": null,
+        "translation": "(67) And he said, \"O my sons, do not enter from one gate but enter from different gates; and I cannot avail you against [the decree of] Allah at all. The decision is only for Allah ; upon Him I have relied, and upon Him let those who would rely [indeed] rely.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        130
+      ],
+      "id": 130,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 130,
+        "topic_id": 2,
+        "uthmani": "رَبُّنَا اللهُ الَّذِي فِي السَّمَاءِ، تَقَدَّسَ اسْمُكَ أَمْرُكَ فِي السَّمَاءِ وَالْأَرْضِ، كَمَا رَحْمَتُكَ فِي السَّمَاءِ فَاجْعَلْ رَحْمَتَكَ فِي الْأَرْضِ، اغْفِرْ لَنَا حُوبَنَا وَخَطَايَانَا، أَنْتَ رَبُّ الطَّيِّبِينَ، أَنْزِلْ رَحْمَةً مِنْ رَحْمَتِكَ وَشِفَاءً مِنْ شِفَائِكَ عَلَى هَذَا الْوَجَعِ، فَيَبْرَأَ.",
+        "transliteration": "Rabbunallahu alladhi fis samaa-i taqaddasasmuka amruka fissama-i wal ardhi kamaa rahmatuka fissmaa-i faj’al rahmataka fil ardhighfir lanaa hubanaa wa khataayaana anta rabbut tayyibiin. Anzil rahmatan min rahmatika wa shifaa-an min shifaa-ika ‘ala hadhal waja-’i fayabra-a.",
+        "reference": "Sunan Abu Dawud: 3892, Musnad Al-Imam Ahmad: 6/21, & Ibn Al-Qayyim's Zaad Al-Mee aad, No.3/141",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/30.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud : 3892",
+        "content": "Say 3 times:",
+        "translation": "O our Lord, Allah, You are in Heaven; holy be Your name. Your command reigns supreme in the heavens and on the earth. As Your mercy is in the heavens, have Your mercy on the earth. Forgive our sins. You are the Lord of the good. Send down of Your mercy and healing unto this ailment to cure it.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": "",
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        131
+      ],
+      "id": 131,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 131,
+        "topic_id": 1,
+        "uthmani": "وَإِن يَمْسَسْكَ اللَّـهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ ۖ وَإِن يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿١٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/31.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-An'am 6:17",
+        "content": null,
+        "translation": "(17) And if Allah should touch you with adversity, there is no remover of it except Him. And if He touches you with good - then He is over all things competent."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        132
+      ],
+      "id": 132,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 132,
+        "topic_id": 1,
+        "uthmani": "وَلَوْ فَتَحْنَا عَلَيْهِم بَابًا مِّنَ السَّمَاءِ فَظَلُّوا فِيهِ يَعْرُجُونَ ﴿١٤﴾ لَقَالُوا إِنَّمَا سُكِّرَتْ أَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ مَّسْحُورُونَ ﴿١٥﴾ وَلَقَدْ جَعَلْنَا فِي السَّمَاءِ بُرُوجًا وَزَيَّنَّاهَا لِلنَّاظِرِينَ ﴿١٦﴾ وَحَفِظْنَاهَا مِن كُلِّ شَيْطَانٍ رَّجِيمٍ ﴿١٧﴾ إِلَّا مَنِ اسْتَرَقَ السَّمْعَ فَأَتْبَعَهُ شِهَابٌ مُّبِينٌ ﴿١٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/31.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Hijr 15:14-18",
+        "content": null,
+        "translation": "(14) And [even] if We opened to them a gate from the heaven and they continued therein to ascend, (15) They would say, \"Our eyes have only been dazzled. Rather, we are a people affected by magic.\" (16) And We have placed within the heaven great stars and have beautified it for the observers. (17) And We have protected it from every devil expelled [from the mercy of Allah ] (18) Except one who steals a hearing and is pursued by a clear burning flame."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        133
+      ],
+      "id": 133,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 133,
+        "topic_id": 2,
+        "uthmani": "لَا بَأْسَ طَهُوْرٌ إِنْ شَاءَ اللهُ",
+        "transliteration": "Laa ba'sa tahoorun 'inshaa'Allaah.",
+        "reference": "Sahih Al-Bukhari: 5656",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/31.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Bukhari : 5656",
+        "content": null,
+        "translation": "May your suffering end. May you be purified by Allah's Grace.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        134
+      ],
+      "id": 134,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 134,
+        "topic_id": 1,
+        "uthmani": "وَالصَّافَّاتِ صَفًّا ﴿١﴾ فَالزَّاجِرَاتِ زَجْرًا ﴿٢﴾ فَالتَّالِيَاتِ ذِكْرًا ﴿٣﴾ إِنَّ إِلَـٰهَكُمْ لَوَاحِدٌ ﴿٤﴾ رَّبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِ ﴿٥﴾ إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ ﴿٦﴾ وَحِفْظًا مِّن كُلِّ شَيْطَانٍ مَّارِدٍ ﴿٧﴾ لَّا يَسَّمَّعُونَ إِلَى الْمَلَإِ الْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ ﴿٨﴾ دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ ﴿٩﴾ إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ ﴿١٠﴾ فَاسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَا ۚ إِنَّا خَلَقْنَاهُم مِّن طِينٍ لَّازِبٍ ﴿١١﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/32.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "As-Saaffaat 37:1-11",
+        "content": null,
+        "translation": "(1) By those [angels] lined up in rows (2) And those who drive [the clouds] (3) And those who recite the message, (4) Indeed, your God is One, (5) Lord of the heavens and the earth and that between them and Lord of the sunrises. (6) Indeed, We have adorned the nearest heaven with an adornment of stars (7) And as protection against every rebellious devil (8) [So] they may not listen to the exalted assembly [of angels] and are pelted from every side, (9) Repelled; and for them is a constant punishment, (10) Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness]. (11) Then inquire of them, [O Muhammad], “Are they a stronger [or more difficult] creation or those [others] We have created?” Indeed, We created men from sticky clay."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        135
+      ],
+      "id": 135,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 135,
+        "topic_id": 1,
+        "uthmani": "وَلَوْلَا إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَاءَ اللَّهُ لَا قُوَّةَ إِلَّا بِاللَّهِ ۚ إِن تَرَنِ أَنَا أَقَلَّ مِنكَ مَالًا وَوَلَدًا ﴿٣٩﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/32.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Kahf 18:39",
+        "content": null,
+        "translation": "(39) And why did you, when you entered your garden, not say, 'What Allah willed [has occurred]; there is no power except in Allah '? Although you see me less than you in wealth and children,"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        136
+      ],
+      "id": 136,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 136,
+        "topic_id": 2,
+        "uthmani": "اَللّٰهُمَّ آتِ نَفْسِى تَقْوَاهَا وَزَكِّهَا أَنْتَ خَيْرُ مَنْ زَكَّاهَا أَنْتَ وَلِيُّهَا وَمَوْلاَهَا، اَللّٰهُمَّ إِنِّى أَعُوذُ بِكَ مِنْ عِلْمٍ لاَ يَنْفَعُ وَمِنْ قَلْبٍ لاَ يَخْشَعُ وَمِنْ نَفْسٍ لاَ تَشْبَعُ وَمِنْ دَعْوَةٍ لاَ يُسْتَجَابُ لَهَا.",
+        "transliteration": "Allah-humma inni audhubika minal ‘ajzi wal kasali wal jubni wal bukhli wal harami wa ‘adha-bil qabri. Allah-humma a-ti nafsi taqwa-ha- wa zakkiha- anta khairu maang zakka-ha- anta waliyuha- wa mawla-ha-; Allah-humma inni a’ujubika min ‘ilmin la- yanfa’u wa min qbalbin la- yakhsha’u wa min nafsin la- tashba’u wa min da’watin la- yustaja-bu laha-.",
+        "reference": "Sahih Muslim: 2722",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/32.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Muslim : 2722",
+        "content": null,
+        "translation": "O Allah! Grant my soul taqwa, and purify it; You are the best to purify it; You are its best Protector and Guardian. O Allah, I seek refuge in You from knowledge that is not beneficial, a heart that is not submissive (to You), a soul that is never contented, and a supplication that is not answerable."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        137
+      ],
+      "id": 137,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 137,
+        "topic_id": 1,
+        "uthmani": "وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ ﴿١٣﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/33.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-An'am 6:13",
+        "content": null,
+        "translation": "(13) And to Him belongs that which reposes by night and by day, and He is the Hearing, the Knowing."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        138
+      ],
+      "id": 138,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 138,
+        "topic_id": 1,
+        "uthmani": "أَلَمْ تَرَ أَنَّ اللَّهَ يُزْجِي سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُ ثُمَّ يَجْعَلُهُ رُكَامًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ وَيُنَزِّلُ مِنَ السَّمَاءِ مِن جِبَالٍ فِيهَا مِن بَرَدٍ فَيُصِيبُ بِهِ مَن يَشَاءُ وَيَصْرِفُهُ عَن مَّن يَشَاءُ ۖ يَكَادُ سَنَا بَرْقِهِ يَذْهَبُ بِالْأَبْصَارِ ﴿٤٣﴾ يُقَلِّبُ اللَّهُ اللَّيْلَ وَالنَّهَارَ ۚ إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّأُولِي الْأَبْصَارِ ﴿٤٤﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/33.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "An-Nur 24:43-44",
+        "content": null,
+        "translation": "(43) Do you not see that Allah drives clouds? Then He brings them together, then He makes them into a mass, and you see the rain emerge from within it. And He sends down from the sky, mountains [of clouds] within which is hail, and He strikes with it whom He wills and averts it from whom He wills. The flash of its lightening almost takes away the eyesight. (44) Allah alternates the night and the day. Indeed in that is a lesson for those who have vision."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        139
+      ],
+      "id": 139,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 139,
+        "topic_id": 2,
+        "uthmani": "اللَّهُمَّ إِنَّا نَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ مِنْهُ نَبِيُّكَ مُحَمَّدٌ (ﷺ)، وَنَعُوْْذُ بِكَ مِنْ شَرِّ مَا اِسْتَعَاذَ مِنْهُ نَبِيُّكَ مُحَمَّدٌ (ﷺ) وَأَنْتَ الْمُسْتَعَانُ، وَعَلَيْكَ البَلَاغُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+        "transliteration": "Allahumma inna nas-aluka min khairi maa sa’alaka minhu nabiyyuka muhammadun (ﷺ) wa na’udhubika min sharri ma ista’adha minhu nabiyyuka muhammadun (ﷺ) wa antal musta’aanu wa ‘alaikal balaagh, wa laa hawla walaa quwwata illa billah.",
+        "reference": "Sunan At-Tirmidhi: 3521",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/33.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Tirmidhi : 3521",
+        "content": null,
+        "translation": "O Allah, we beg You to grant us good as Your Prophet Muhammad begged of You, and we seek refuge in You from evil as Your Prophet Muhammad sought in You. You are the One whose help is sought, and the One that answers prayers. There is no help or power except from Allah."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        140
+      ],
+      "id": 140,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 140,
+        "topic_id": 1,
+        "uthmani": "فَإِن تَوَلَّوْا فَقُلْ حَسْبِيَ اللَّـهُ لَا إِلَـٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ ﴿١٢٩﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/34.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "At-Tawbah 9:129",
+        "content": null,
+        "translation": "(129) But if they turn away, [O Muhammad], say, “Sufficient for me is Allah ; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        141
+      ],
+      "id": 141,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 141,
+        "topic_id": 1,
+        "uthmani": "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ ۖ وَيُخَوِّفُونَكَ بِالَّذِينَ مِن دُونِهِ ۚ وَمَن يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ ﴿٣٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/34.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Az-Zumar 39:36",
+        "content": null,
+        "translation": "(36) Is not Allah sufficient for His Servant [Prophet Muhammad]? And [yet], they threaten you with those [they worship] other than Him. And whoever Allah leaves astray - for him there is no guide."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        142
+      ],
+      "id": 142,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 142,
+        "topic_id": 2,
+        "uthmani": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيتَ عَلَى إِبْرَاهِيمَ، وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+        "transliteration": "Allahumma salle ‘alaa muhammadinw wa’alaa aali muhammadin kamaa sallaeta ‘alaa ibraaheema wa’alaa aaali ibraaheema innaka hameedum majeed. Allahumma baarik ‘alaa muhammadinw wa’alaa aali muhammadin kamaa baarakta ‘alaa ibraaheema wa’alaa aaali ibraaheema innaka hameedum majeed.",
+        "reference": "Sahih Al-Bukhari: 3370, Sahih Muslim: 406",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/34.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Bukhari : 3370",
+        "content": null,
+        "translation": "O Allah, send salah upon Muhammad and the family of Muhammad, as You have sent salah upon Ibraheem and the family of Ibraheem. You are Praiseworthy and Gloryworthy. O Allah! Bless Muhammad and the family of Muhammad, as You have blessed Ibraheem and the family of Ibraheem, in all the worlds. You are Praiseworthy and Gloryworthy."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        143
+      ],
+      "id": 143,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 143,
+        "topic_id": 1,
+        "uthmani": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّـهُ ۚ قُلْ أَفَرَأَيْتُم مَّا تَدْعُونَ مِن دُونِ اللَّـهِ إِنْ أَرَادَنِيَ اللَّـهُ بِضُرٍّ هَلْ هُنَّ كَاشِفَاتُ ضُرِّهِ أَوْ أَرَادَنِي بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَاتُ رَحْمَتِهِ ۚ قُلْ حَسْبِيَ اللَّـهُ ۖ عَلَيْهِ يَتَوَكَّلُ الْمُتَوَكِّلُونَ ﴿٣٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/35.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Az-Zumar 39:38",
+        "content": null,
+        "translation": "(38) And if you asked them, “Who created the heavens and the earth?” they would surely say, “ Allah .” Say, “Then have you considered what you invoke besides Allah ? If Allah intended me harm, are they removers of His harm; or if He intended me mercy, are they withholders of His mercy?” Say, “Sufficient for me is Allah ; upon Him [alone] rely the [wise] reliers.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "table": "ruqyah_instants",
+  "chunk": "ruqyah_instants_003.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 8,
+  "id_range": "33-40",
+  "source_chars": 4922,
+  "items": [
+    {
+      "key": [
+        33
+      ],
+      "id": 33,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 33,
+        "topic_id": 1,
+        "uthmani": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا خُلَّةٌ وَلَا شَفَاعَةٌ ۗ وَالْكَافِرُونَ هُمُ الظَّالِمُونَ ﴿٢٥٤﴾ اللَّـهُ لَا إِلَـٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ ﴿٢٥٥﴾ لَا إِكْرَاهَ فِي الدِّينِ ۖ قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ ۚ فَمَن يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِن بِاللَّـهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انفِصَامَ لَهَا ۗ وَاللَّـهُ سَمِيعٌ عَلِيمٌ ﴿٢٥٦﴾اللَّـهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُم مِّنَ الظُّلُمَاتِ إِلَى النُّورِ ۖ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَاتِ ۗ أُولَـٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ ﴿٢٥٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/6.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:254-257",
+        "content": null,
+        "translation": "(254) O you who have believed, spend from that which We have provided for you before there comes a Day in which there is no exchange and no friendship and no intercession. And the disbelievers - they are the wrongdoers. (255) Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great. (256) There shall be no compulsion in [acceptance of] the religion. The right course has become clear from the wrong. So whoever disbelieves in Taghut and believes in Allah has grasped the most trustworthy handhold with no break in it. And Allah is Hearing and Knowing. (257) Allah is the ally of those who believe. He brings them out from darknesses into the light. And those who disbelieve - their allies are Taghut. They take them out of the light into darknesses. Those are the companions of the Fire; they will abide eternally therein."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        34
+      ],
+      "id": 34,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 34,
+        "topic_id": 2,
+        "uthmani": "بِسْمِ اللهِ، أَعُوْذُ بِكَلِمَاتِ اللهِ التَّامَّةِ مِنْ غَضَبِهِ وَعِقَابِهِ وَشَرِّ عِبَادِهِ، وَمِنْ هَمَزَاتِ الشَّيَاطِيْنِ وَأَنْ يَحْضُرُوْنِ",
+        "transliteration": "Bismillahi. A`udhu Bikalimatil-Lahit-Tammati Min Ghadabihi Wa `Iqaabih, Wa Sharri `Ibaadihi Wa Min Hamazaatish-Shayaatini Wa ‘An Yahdurun.",
+        "reference": "Sunan Abu-Daawud: 3893, Musnad Al-Imam Ahmad: 2/181, Muwatta' Al-Imam Malik: 51/4",
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/med/6.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud : 3893",
+        "content": null,
+        "translation": "In the name of Allah, I seek refuge in Allah's perfect words from His wrath and punishment, from the evil of His slaves, and from Satan's whispers and presence.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        35
+      ],
+      "id": 35,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 35,
+        "topic_id": 1,
+        "uthmani": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا خُلَّةٌ وَلَا شَفَاعَةٌ ۗ وَالْكَافِرُونَ هُمُ الظَّالِمُونَ ﴿٢٥٤﴾ اللَّـهُ لَا إِلَـٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ ﴿٢٥٥﴾ لَا إِكْرَاهَ فِي الدِّينِ ۖ قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ ۚ فَمَن يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِن بِاللَّـهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انفِصَامَ لَهَا ۗ وَاللَّـهُ سَمِيعٌ عَلِيمٌ ﴿٢٥٦﴾ اللَّـهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُم مِّنَ الظُّلُمَاتِ إِلَى النُّورِ ۖ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَاتِ ۗ أُولَـٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ ﴿٢٥٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/6.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:254-257",
+        "content": null,
+        "translation": "(254) O you who have believed, spend from that which We have provided for you before there comes a Day in which there is no exchange and no friendship and no intercession. And the disbelievers - they are the wrongdoers. (255) Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great. (256) There shall be no compulsion in [acceptance of] the religion. The right course has become clear from the wrong. So whoever disbelieves in Taghut and believes in Allah has grasped the most trustworthy handhold with no break in it. And Allah is Hearing and Knowing. (257) Allah is the ally of those who believe. He brings them out from darknesses into the light. And those who disbelieve - their allies are Taghut. They take them out of the light into darknesses. Those are the companions of the Fire; they will abide eternally therein."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        36
+      ],
+      "id": 36,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 36,
+        "topic_id": 2,
+        "uthmani": "اللَّهُمَّ إِنِّي أَعُوْذُ بِوَجْهِكَ الْكَرِيْمِ وَكَلِمَاتِكَ التَّامَّةِ، مِنْ شَرِّ مَا أَنْتَ آخِذٌ بٍنَاصِيَتِهِ، اللَّهُمَّ أَنْتَ تَكْشِفُ الْمَغْرَمَ وَالْمَأْثَمَ، اللَّهُمَّ لَا يُهْزَمُ جُنْدُكَ، وَلَا يُخْلَفُ وَعْدُكْ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ، سُبْحَانَكَ وَبِحَمْدِكَ",
+        "transliteration": "Allahumma inni ‘audhu biwajhikal karimi wa kalimaatikat taammah, min sharri maa anta aakhidhun binaasiyatihi allahumma anta takshiful maghrama wal ma’thama, allahumma laa yudhamu junduka wa laa yukhlafu wa’duk wa laa yanfa’u dhaal jaddi minkal jaddu subhaanaka wa bihamdik.",
+        "reference": "Sunan Abu Dawud:5052",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/6.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud : 5052",
+        "content": null,
+        "translation": "O Allah, I seek refuge in Your Glorious Face and Your perfect words from the evil of all things, which are under Your control. O Allah, it is You that relieves debts and removes sins. O Allah, those fighting for You are never defeated, Your promise is never broken, no fortune can be beneficial except Yours. Glory and praise be to You.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        37
+      ],
+      "id": 37,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 37,
+        "topic_id": 1,
+        "uthmani": "قُلْ هُوَ اللَّـهُ أَحَدٌ ﴿١﴾ اللَّـهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿٤﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/brief/7.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Ikhlas 112:1-4",
+        "content": null,
+        "translation": "(1) Say, \"He is Allah, [who is] One, (2) Allah, the Eternal Refuge. (3) He neither begets nor is born, (4) Nor is there to Him any equivalent.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        38
+      ],
+      "id": 38,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 38,
+        "topic_id": 2,
+        "uthmani": "أَسْأَلُ اللهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ",
+        "transliteration": "As-alullah-hal ‘Adheem, Rabbal‘ Arshil ‘Azeem, Ai Yashfiyak.",
+        "reference": "Sunan Abu Dawud: 3106, SunanTirmidhi: 2083, Musnad Al Imam Ahmad: 1/239",
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/brief/7.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud : 3106",
+        "content": "Say 7 times,",
+        "translation": "I pray to Allah, the Magnificent, the Owner of the Glorious Throne, to grant you healing."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": "",
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        39
+      ],
+      "id": 39,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 39,
+        "topic_id": 1,
+        "uthmani": "لِّلَّـهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَإِن تُبْدُوا مَا فِي أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ اللَّـهُ ۖ فَيَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ ۗ وَاللَّـهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿٢٨٤﴾ آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّـهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ ﴿٢٨٥﴾ لَا يُكَلِّفُ اللَّـهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ ﴿٢٨٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/7.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:284-286",
+        "content": null,
+        "translation": "(284) To Allah belongs whatever is in the heavens and whatever is in the earth. Whether you show what is within yourselves or conceal it, Allah will bring you to account for it. Then He will forgive whom He wills and punish whom He wills, and Allah is over all things competent. (285) The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], “We make no distinction between any of His messengers.” And they say, “We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.” (286) Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. “Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        40
+      ],
+      "id": 40,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 40,
+        "topic_id": 2,
+        "uthmani": "أَعُوْذُ بِاللّٰهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ",
+        "transliteration": "Bismillah (3 times), A’oodhu billahi wa qudratihi min sharri ma ajidu wa uhadhiru.",
+        "reference": "Sahih Muslim: 222, Sunan Tirmidhi: 3588",
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/med/7.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Muslim : 222",
+        "content": "Say 3 times Bismillah, Then, say 7 times,",
+        "translation": "In the name of Allah. I seek refuge in Allah and His might from the evil of what I find and fear.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": "",
+        "translation": ""
+      }
+    }
+  ]
+}

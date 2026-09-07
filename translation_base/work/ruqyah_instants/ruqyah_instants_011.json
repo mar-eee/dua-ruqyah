@@ -1,0 +1,492 @@
+{
+  "table": "ruqyah_instants",
+  "chunk": "ruqyah_instants_011.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 16,
+  "id_range": "158-173",
+  "source_chars": 5835,
+  "items": [
+    {
+      "key": [
+        158
+      ],
+      "id": 158,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 158,
+        "topic_id": 1,
+        "uthmani": "وَقَالَ فِرْعَوْنُ ائْتُونِي بِكُلِّ سَاحِرٍ عَلِيمٍ ﴿٧٩﴾ فَلَمَّا جَاءَ السَّحَرَةُ قَالَ لَهُم مُّوسَىٰ أَلْقُوا مَا أَنتُم مُّلْقُونَ ﴿٨٠﴾ فَلَمَّا أَلْقَوْا قَالَ مُوسَىٰ مَا جِئْتُم بِهِ السِّحْرُ ۖ إِنَّ اللَّهَ سَيُبْطِلُهُ ۖ إِنَّ اللَّهَ لَا يُصْلِحُ عَمَلَ الْمُفْسِدِينَ ﴿٨١﴾ وَيُحِقُّ اللَّهُ الْحَقَّ بِكَلِمَاتِهِ وَلَوْ كَرِهَ الْمُجْرِمُونَ ﴿٨٢﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/42.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Yunus 10:79-82",
+        "content": null,
+        "translation": "(79) And Pharaoh said, \"Bring to me every learned magician.\" (80) So when the magicians came, Moses said to them, \"Throw down whatever you will throw.\" (81) And when they had thrown, Moses said, \"What you have brought is [only] magic. Indeed, Allah will expose its worthlessness. Indeed, Allah does not amend the work of corrupters. (82) And Allah will establish the truth by His words, even if the criminals dislike it.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        159
+      ],
+      "id": 159,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 159,
+        "topic_id": 1,
+        "uthmani": "وَلَوْ جَعَلْنَاهُ قُرْآنًا أَعْجَمِيًّا لَّقَالُوا لَوْلَا فُصِّلَتْ آيَاتُهُ ۖ أَأَعْجَمِيٌّ وَعَرَبِيٌّ ۗ قُلْ هُوَ لِلَّذِينَ آمَنُوا هُدًى وَشِفَاءٌ ۖ وَالَّذِينَ لَا يُؤْمِنُونَ فِي آذَانِهِمْ وَقْرٌ وَهُوَ عَلَيْهِمْ عَمًى ۚ أُولَٰئِكَ يُنَادَوْنَ مِن مَّكَانٍ بَعِيدٍ ﴿٤٤﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/43.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Fussilat 41:44",
+        "content": null,
+        "translation": "(44) And if We had made it a non-Arabic Qur'an, they would have said, “Why are its verses not explained in detail [in our language]? Is it a foreign [recitation] and an Arab [messenger]?” Say, “It is, for those who believe, a guidance and cure.” And those who do not believe - in their ears is deafness, and it is upon them blindness. Those are being called from a distant place."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        160
+      ],
+      "id": 160,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 160,
+        "topic_id": 1,
+        "uthmani": "قَالُوا يَا مُوسَىٰ إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ أَوَّلَ مَنْ أَلْقَىٰ ﴿٦٥﴾ قَالَ بَلْ أَلْقُوا ۖ فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِن سِحْرِهِمْ أَنَّهَا تَسْعَىٰ ﴿٦٦﴾ فَأَوْجَسَ فِي نَفْسِهِ خِيفَةً مُّوسَىٰ ﴿٦٧﴾ قُلْنَا لَا تَخَفْ إِنَّكَ أَنتَ الْأَعْلَىٰ ﴿٦٨﴾ وَأَلْقِ مَا فِي يَمِينِكَ تَلْقَفْ مَا صَنَعُوا ۖ إِنَّمَا صَنَعُوا كَيْدُ سَاحِرٍ ۖ وَلَا يُفْلِحُ السَّاحِرُ حَيْثُ أَتَىٰ ﴿٦٩﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/43.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ta-Ha 20:65-69",
+        "content": null,
+        "translation": "(65) They said, \"O Moses, either you throw or we will be the first to throw.\" (66) He said, \"Rather, you throw.\" And suddenly their ropes and staffs seemed to him from their magic that they were moving [like snakes]. (67) And he sensed within himself apprehension, did Moses. (68) Allah said, \"Fear not. Indeed, it is you who are superior. (69) And throw what is in your right hand; it will swallow up what they have crafted. What they have crafted is but the trick of a magician, and the magician will not succeed wherever he is.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        161
+      ],
+      "id": 161,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 161,
+        "topic_id": 1,
+        "uthmani": "يَا أَيُّهَا النَّاسُ قَدْ جَاءَتْكُم مَّوْعِظَةٌ مِّن رَّبِّكُمْ وَشِفَاءٌ لِّمَا فِي الصُّدُورِ وَهُدًى وَرَحْمَةٌ لِّلْمُؤْمِنِينَ ﴿٥٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/44.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Yunus 10:57",
+        "content": null,
+        "translation": "(57) O mankind, there has to come to you instruction from your Lord and healing for what is in the breasts and guidance and mercy for the believers."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        162
+      ],
+      "id": 162,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 162,
+        "topic_id": 1,
+        "uthmani": "قَالَ لَهُم مُّوسَىٰ أَلْقُوا مَا أَنتُم مُّلْقُونَ ﴿٤٣﴾ فَأَلْقَوْا حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ الْغَالِبُونَ ﴿٤٤﴾ فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ ﴿٤٥﴾ فَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ ﴿٤٦﴾ قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ ﴿٤٧﴾ رَبِّ مُوسَىٰ وَهَارُونَ ﴿٤٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/44.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ash-Shu'ara 26:43-48",
+        "content": null,
+        "translation": "(43) Moses said to them, \"Throw whatever you will throw.\" (44) So they threw their ropes and their staffs and said, \"By the might of Pharaoh, indeed it is we who are predominant.\" (45) Then Moses threw his staff, and at once it devoured what they falsified. (46) So the magicians fell down in prostration [to Allah ]. (47) They said, \"We have believed in the Lord of the worlds, (48) The Lord of Moses and Aaron.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        163
+      ],
+      "id": 163,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 163,
+        "topic_id": 1,
+        "uthmani": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ ۙ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا ﴿٨٢﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/45.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Isra 17:82",
+        "content": null,
+        "translation": "(82) And We send down the Qur'an that is healing and mercy for the believers, but it does not increase the wrongdoers except in loss."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        164
+      ],
+      "id": 164,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 164,
+        "topic_id": 1,
+        "uthmani": "اقْتَرَبَتِ السَّاعَةُ وَانشَقَّ الْقَمَرُ ﴿١﴾ وَإِن يَرَوْا آيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُّسْتَمِرٌّ ﴿٢﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/45.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Qamar 54:1-2",
+        "content": null,
+        "translation": "(1) The Hour has come near, and the moon has split [in two]. (2) And if they see a miracle, they turn away and say, \"Passing magic.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        165
+      ],
+      "id": 165,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 165,
+        "topic_id": 1,
+        "uthmani": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ ﴿٨٠﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/46.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ash-Shu'ara 26:80",
+        "content": null,
+        "translation": "(80) And when I am ill, it is He who cures me."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        166
+      ],
+      "id": 166,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 166,
+        "topic_id": 1,
+        "uthmani": "فَسَتَذْكُرُونَ مَا أَقُولُ لَكُمْ ۚ وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ ۚ إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ ﴿٤٤﴾ فَوَقَاهُ اللَّهُ سَيِّئَاتِ مَا مَكَرُوا ۖ وَحَاقَ بِآلِ فِرْعَوْنَ سُوءُ الْعَذَابِ ﴿٤٥﴾ النَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّا وَعَشِيًّا ۖ وَيَوْمَ تَقُومُ السَّاعَةُ أَدْخِلُوا آلَ فِرْعَوْنَ أَشَدَّ الْعَذَابِ ﴿٤٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/46.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ghafir 40:44-46",
+        "content": null,
+        "translation": "(44) And you will remember what I [now] say to you, and I entrust my affair to Allah . Indeed, Allah is Seeing of [His] servants.\" (45) So Allah protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (46) The Fire, they are exposed to it morning and evening. And the Day the Hour appears [it will be said], \"Make the people of Pharaoh enter the severest punishment.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        167
+      ],
+      "id": 167,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 167,
+        "topic_id": 1,
+        "uthmani": "قَاتِلُوهُمْ يُعَذِّبْهُمُ اللَّهُ بِأَيْدِيكُمْ وَيُخْزِهِمْ وَيَنصُرْكُمْ عَلَيْهِمْ وَيَشْفِ صُدُورَ قَوْمٍ مُّؤْمِنِينَ ﴿١٤﴾ وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ ۗ وَيَتُوبُ اللَّهُ عَلَىٰ مَن يَشَاءُ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ ﴿١٥﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/47.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "At-Tawbah 9:14-15",
+        "content": null,
+        "translation": "(14) Fight them; Allah will punish them by your hands and will disgrace them and give you victory over them and satisfy the breasts of a believing people (15) And remove the fury in the believers' hearts. And Allah turns in forgiveness to whom He wills; and Allah is Knowing and Wise."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        168
+      ],
+      "id": 168,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 168,
+        "topic_id": 1,
+        "uthmani": "قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَىٰ قَلْبِكَ بِإِذْنِ اللَّهِ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ ﴿٩٧﴾ مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَائِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ وَمِيكَالَ فَإِنَّ اللَّهَ عَدُوٌّ لِّلْكَافِرِينَ ﴿٩٨﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/47.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:97-98",
+        "content": null,
+        "translation": "(97) Say, \"Whoever is an enemy to Gabriel - it is [none but] he who has brought the Qur'an down upon your heart, [O Muhammad], by permission of Allah, confirming that which was before it and as guidance and good tidings for the believers.\" (98) Whoever is an enemy to Allah and His angels and His messengers and Gabriel and Michael - then indeed, Allah is an enemy to the disbelievers."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        169
+      ],
+      "id": 169,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 169,
+        "topic_id": 1,
+        "uthmani": "وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا ﴿٨١﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/48.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Isra 17:81",
+        "content": null,
+        "translation": "(81) And say, “Truth has come, and falsehood has departed. Indeed is falsehood, [by nature], ever bound to depart.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        170
+      ],
+      "id": 170,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 170,
+        "topic_id": 1,
+        "uthmani": "قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاءُ وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاءُ وَتُعِزُّ مَن تَشَاءُ وَتُذِلُّ مَن تَشَاءُ ۖ بِيَدِكَ الْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿٢٦﴾ تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ ۖ وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ ۖ وَتَرْزُقُ مَن تَشَاءُ بِغَيْرِ حِسَابٍ ﴿٢٧﴾ لَّا يَتَّخِذِ الْمُؤْمِنُونَ الْكَافِرِينَ أَوْلِيَاءَ مِن دُونِ الْمُؤْمِنِينَ ۖ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ اللَّهِ فِي شَيْءٍ إِلَّا أَن تَتَّقُوا مِنْهُمْ تُقَاةً ۗ وَيُحَذِّرُكُمُ اللَّهُ نَفْسَهُ ۗ وَإِلَى اللَّهِ الْمَصِيرُ ﴿٢٨﴾ قُلْ إِن تُخْفُوا مَا فِي صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ اللَّهُ ۗ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿٢٩﴾ يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا بَعِيدًا ۗ وَيُحَذِّرُكُمُ اللَّهُ نَفْسَهُ ۗ وَاللَّهُ رَءُوفٌ بِالْعِبَادِ ﴿٣٠﴾ قُلْ إِن كُنتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَاللَّهُ غَفُورٌ رَّحِيمٌ ﴿٣١﴾ قُلْ أَطِيعُوا اللَّهَ وَالرَّسُولَ ۖ فَإِن تَوَلَّوْا فَإِنَّ اللَّهَ لَا يُحِبُّ الْكَافِرِينَ ﴿٣٢﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/48.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ali 'Imran 3:26-32",
+        "content": null,
+        "translation": "(26) Say, \"O Allah, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand is [all] good. Indeed, You are over all things competent. (27) You cause the night to enter the day, and You cause the day to enter the night; and You bring the living out of the dead, and You bring the dead out of the living. And You give provision to whom You will without account.\" (28) Let not believers take disbelievers as allies rather than believers. And whoever [of you] does that has nothing with Allah, except when taking precaution against them in prudence. And Allah warns you of Himself, and to Allah is the [final] destination. (29) Say, \"Whether you conceal what is in your breasts or reveal it, Allah knows it. And He knows that which is in the heavens and that which is on the earth. And Allah is over all things competent. (30) The Day every soul will find what it has done of good present [before it] and what it has done of evil, it will wish that between itself and that [evil] was a great distance. And Allah warns you of Himself, and Allah is Kind to [His] servants.\" (31) Say, [O Muhammad], \"If you should love Allah, then follow me, [so] Allah will love you and forgive you your sins. And Allah is Forgiving and Merciful.\" (32) Say, \"Obey Allah and the Messenger.\" But if they turn away - then indeed, Allah does not like the disbelievers."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        171
+      ],
+      "id": 171,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 171,
+        "topic_id": 1,
+        "uthmani": "رَبَّنَا أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَالِمُونَ ﴿١٠٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/49.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Mu'minun 23:107",
+        "content": null,
+        "translation": "(107) Our Lord, remove us from it, and if we were to return [to evil], we would indeed be wrongdoers.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        172
+      ],
+      "id": 172,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 172,
+        "topic_id": 1,
+        "uthmani": "يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ آيَاتِي وَيُنذِرُونَكُمْ لِقَاءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا شَهِدْنَا عَلَىٰ أَنفُسِنَا ۖ وَغَرَّتْهُمُ الْحَيَاةُ الدُّنْيَا وَشَهِدُوا عَلَىٰ أَنفُسِهِمْ أَنَّهُمْ كَانُوا كَافِرِينَ ﴿١٣٠﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/49.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-An'am 6:130",
+        "content": null,
+        "translation": "(130) \"O company of jinn and mankind, did there not come to you messengers from among you, relating to you My verses and warning you of the meeting of this Day of yours?\" They will say, \"We bear witness against ourselves\"; and the worldly life had deluded them, and they will bear witness against themselves that they were disbelievers."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    },
+    {
+      "key": [
+        173
+      ],
+      "id": 173,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 173,
+        "topic_id": 1,
+        "uthmani": "وَإِذْ قَتَلْتُمْ نَفْسًا فَادَّارَأْتُمْ فِيهَا ۖ وَاللَّـهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ ﴿٧٢﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/50.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:72",
+        "content": null,
+        "translation": "(72) And [recall] when you slew a man and disputed over it, but Allah was to bring out that which you were concealing."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      }
+    }
+  ]
+}

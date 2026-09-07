@@ -1,0 +1,34 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_049.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 1,
+  "id_range": "100-100",
+  "source_chars": 3465,
+  "items": [
+    {
+      "key": [
+        100
+      ],
+      "id": 100,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 100,
+        "topic_id": null,
+        "cat_id": 5,
+        "subcat_id": 81
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Abu Hurayra (RA) quoted the Prophet (ﷺ) saying:\"The evil eye is a reality.\" [Al-Bukhari : 10/213 and Muslim, the Book of Medicine, Chapter: Asi Salam (An-Nawawi: 14/170)]\n\n'A'isha (RA) reported: The Prophet (ﷺ) said, \"Seek refuge with Allah from the evil eye, for the evil eye is a reality.\" [Ibn Majah (3508)]\n\nIbn 'Abbas (RA) reported: The Prophet (ﷺ) said, \"The evil eye is a reality, and if there is anything that could ever race with al-Qadar (destiny), it would have been the evil eye; and if you have been requested to wash your body, then do it.\" [Muslim, the Book of As-Salam, Chapter: Medicine and Ruga (An Nawawi. 14/171)]\n\nIn the last hadith, if it is confirmed that a person has affected another person with his evil eye, and has been requested to wash his body and give the wasted water to the affected to wash with, then he should do so.\n\nAsma' bintu 'Umays (RA) asked the Prophet (ﷺ): “O Allah's Messenger! Bani Ja'far is affected by the evil eye. Shall I seek Ruqyah for them?\" He replied, 'Yes, for if there is anything that could ever race with destiny, it would have been the evil eye\" [Imam Ahmad (6/438), At-Tirmidi (2059), Ibn Majah (3510), and classed as authentic by Al-Albani in Sahin Al-Jami' (1681)]\n\nAbu Dharr (RA) quoted the Prophet (ﷺ) saying: \"The evil eye will, by Allah's Leave, affect man to the extent of ascending to a high place and falling down.\" [Transmitted by Imam Ahmad and Abu Ya'la, and classed by Al-Albani as authentic in Sahih Al-Jami' (1681)]\n\nIbn 'Abbas (RA) quoted the Prophet (ﷺ) saying: \"The evil eye is a reality that can bring one down from a high place,\" that is, from the top of a mountain. [Transmitted by Imam Ahmad , At-Tabarani and Al-Hakim; and classed by Al-Albani as authentic in As-Silsila As-Sahiha (1250)]\n\nJabir (RA) quoted the Prophet (ﷺ) saying: \"The evil eye drives man to the grave and forces the camel into the cooking pot.\" [Transmitted by Abu Nu'aym in Al-Hilya, and classed by Al-Albani as authentic in Sahin Al-Jami' (4144)]\n\nThis means that the evil eye can affect man so badly that he dies and gets buried; and affects a camel so badly that it approaches death, gets slaughtered and cooked in the pot.\n\nJabiri (RA) quoted the Prophet (ﷺ) saying: \"Most of the deaths of my people, after Allah's Qadha' (preordainment) and Qadar (destiny), are caused by the evil eye.\" [Transmitted by Al-Bukhati in At-Tarikh, and classed by Al-Albani as authentic in Sahin Al-Jami (1206)]\n\nA'isha ra. reported: \"The Prophet (ﷺ) used to tell me to seek Ruqyah against the evil eye.\" [Al-Bukhari: 10/170 and Muslim: 2195]\n\nAnas Ibn Malik (RA) was quoted as saying: \"the Prophet (ﷺ) authorised the treatment of an evil eye, al-huma (poisonous snake bite or scorpion sting), and an-namla (ulcers which appear on the side) with ruqya.\" [Muslim: 2196, the Book of As-Salam]\n\nUmmu Salama (RA) reported: \"the Prophet (ﷺ) observed a girl in my house, whose face had a black spot and said, 'She is under the effect of an evil eye; so treat her with ruqya.\" [Al-Bukhari: 10/171 and Muslim: 97]\n\nJabir (RA) reported: \"The Prophet (ﷺ) allowed the family of Hazm to treat a venomous snake bite with ruqya, and told Asma' bintu 'Umays, 'What is this that I see the children of my brother so lean? Are they not fed properly?' She said, 'No, but they are affected by the evil eye' He said, 'use Ruqyah for them' She recited a Ruqyah which he approved and told her to use it for them.\" [Muslim: 2198, the Book of As-Salam]"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

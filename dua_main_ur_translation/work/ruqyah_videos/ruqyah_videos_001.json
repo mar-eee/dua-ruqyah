@@ -1,0 +1,1162 @@
+{
+  "table": "ruqyah_videos",
+  "chunk": "ruqyah_videos_001.json",
+  "source_language": "bn",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 50,
+  "id_range": "1-50",
+  "source_chars": 2511,
+  "items": [
+    {
+      "key": [
+        1
+      ],
+      "id": 1,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 1,
+        "link_id": 1,
+        "link": "https://www.youtube.com/watch?v=Mopfyg6Qpuo&list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 105
+      },
+      "source": {
+        "name": "রুকিয়াহ শারিয়াহ (পর্ব-১)",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        2
+      ],
+      "id": 2,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 2,
+        "link_id": 2,
+        "link": "https://youtu.be/iPpmlrDBM7U?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 105
+      },
+      "source": {
+        "name": "রুকিয়াহ কি (পর্ব-২)",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        3
+      ],
+      "id": 3,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 3,
+        "link_id": 3,
+        "link": "https://youtu.be/qFRv8yLUTjQ?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 105
+      },
+      "source": {
+        "name": "যাদু (পর্ব-৩)",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        4
+      ],
+      "id": 4,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 4,
+        "link_id": 4,
+        "link": "https://youtu.be/zKsc6MvlxJU?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 105
+      },
+      "source": {
+        "name": "রুকিয়াহ শারিয়াহ (পর্ব-৪)",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        5
+      ],
+      "id": 5,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 5,
+        "link_id": 5,
+        "link": "https://youtu.be/mMgLZkxyVo8?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 105
+      },
+      "source": {
+        "name": "রুকিয়াহ শারিয়াহ (পর্ব -৫)",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        6
+      ],
+      "id": 6,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 6,
+        "link_id": 6,
+        "link": "https://youtu.be/dkWSCgLgEgU?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 105
+      },
+      "source": {
+        "name": "রুকিয়াহ শারিয়াহ (পর্ব-৬)",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        7
+      ],
+      "id": 7,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 7,
+        "link_id": 7,
+        "link": "https://youtu.be/cDjrWtRiK-0?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 105
+      },
+      "source": {
+        "name": "রুকিয়াহ শারিয়াহ (পর্ব-৭)",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        8
+      ],
+      "id": 8,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 8,
+        "link_id": 8,
+        "link": "https://youtu.be/Vs5XZ0x75zI?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 105
+      },
+      "source": {
+        "name": "রুকিয়াহ শারিয়াহ (পর্ব-৮)",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        9
+      ],
+      "id": 9,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 9,
+        "link_id": 9,
+        "link": "https://youtu.be/rXC3x3DPOMY?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 105
+      },
+      "source": {
+        "name": "রুকিয়াহ শারিয়াহ (পর্ব-৯)",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        10
+      ],
+      "id": 10,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 10,
+        "link_id": 10,
+        "link": "https://youtu.be/IpopXvWEGAI?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 105
+      },
+      "source": {
+        "name": "রুকিয়াহ শারিয়াহ (পর্ব-১০)",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        11
+      ],
+      "id": 11,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 11,
+        "link_id": 1,
+        "link": "https://youtu.be/MmD3mqQNAvs?list=PLNB9fulOhLq9lotLKVOFcjvh0UiTpG0b-",
+        "cat_id": 15,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "রুকিয়াহ",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        12
+      ],
+      "id": 12,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 12,
+        "link_id": 2,
+        "link": "https://youtu.be/Kra8B3rrNwY?list=PLNB9fulOhLq9lotLKVOFcjvh0UiTpG0b-",
+        "cat_id": 15,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "রুকিয়াহ কি? রুকিয়াহ বৈধ হওয়ার শর্ত",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        13
+      ],
+      "id": 13,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 13,
+        "link_id": 3,
+        "link": "https://youtu.be/A0NUqsHHUV8?list=PLNB9fulOhLq9lotLKVOFcjvh0UiTpG0b-",
+        "cat_id": 15,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "রুকিয়া করে বিনিময় নেয়া যাবে কি?",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        14
+      ],
+      "id": 14,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 14,
+        "link_id": 4,
+        "link": "https://youtu.be/KsqB27Qtmxc?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "অনেকবার রুকিয়াহ করার পরও কেন আমি সুস্থ হচ্ছি না।",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        15
+      ],
+      "id": 15,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 15,
+        "link_id": 5,
+        "link": "https://youtu.be/_oahuskRa6w?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "রুকিয়াহ-হিজামা করার পরও কেন আমি সুস্থ হচ্ছি না।",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        16
+      ],
+      "id": 16,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 16,
+        "link_id": 6,
+        "link": "https://youtu.be/3aNY69VJP4I?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "আমল করার পরও কিভাবে জ্বিন-শয়তান মানুষের ক্ষতি করে।",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        17
+      ],
+      "id": 17,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 17,
+        "link_id": 7,
+        "link": "https://youtu.be/RCrfztPj9H8?list=PLNB9fulOhLq9lotLKVOFcjvh0UiTpG0b-",
+        "cat_id": 15,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "রাকি কে? রাকি হতে চাইলে যে যোগ্যতা থাকা চাই",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        18
+      ],
+      "id": 18,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 18,
+        "link_id": 8,
+        "link": "https://youtu.be/qPBLHo9fZ0Y?list=PLNB9fulOhLq9lotLKVOFcjvh0UiTpG0b-",
+        "cat_id": 15,
+        "subcat_id": 106
+      },
+      "source": {
+        "name": "সমাজে রাকি কেন প্রয়োজন এবং আপনাকে কেন রুকিয়া বিষয়ে আগ্রহী হতে হবে",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        19
+      ],
+      "id": 19,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 19,
+        "link_id": 1,
+        "link": "https://youtu.be/YeEXRk52i6s?list=PLNB9fulOhLq83gml6V-R-qhrkT0sOv2MB",
+        "cat_id": 15,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "বদনজর এবং তার বাস্তবতা",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        20
+      ],
+      "id": 20,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 20,
+        "link_id": 2,
+        "link": "https://youtu.be/dFEUyutJnYo?list=PLNB9fulOhLq83gml6V-R-qhrkT0sOv2MB",
+        "cat_id": 15,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "বদনজরের উৎস এবং যে যে ভাবে আক্রান্ত হতে পারেন",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        21
+      ],
+      "id": 21,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 21,
+        "link_id": 3,
+        "link": "https://youtu.be/eqSGGGOSQV4?list=PLNB9fulOhLq83gml6V-R-qhrkT0sOv2MB",
+        "cat_id": 15,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "বদনজর থেকে সুরক্ষার উপায়",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        22
+      ],
+      "id": 22,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 22,
+        "link_id": 4,
+        "link": "https://youtu.be/Otct5vFy0_8?list=PLNB9fulOhLq83gml6V-R-qhrkT0sOv2MB",
+        "cat_id": 15,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "বদনজরে আক্রান্ত হওয়ার লক্ষণ",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        23
+      ],
+      "id": 23,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 23,
+        "link_id": 5,
+        "link": "https://youtu.be/UEAqnCpyLdE?list=PLNB9fulOhLq83gml6V-R-qhrkT0sOv2MB",
+        "cat_id": 15,
+        "subcat_id": 107
+      },
+      "source": {
+        "name": "বদনজরে আক্রান্ত হলে তার চিকিৎসা বা রুকিয়া",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        24
+      ],
+      "id": 24,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 24,
+        "link_id": 1,
+        "link": "https://www.youtube.com/watch?v=XeqtVdhuTWI&list=PLNB9fulOhLq_3C7sJeK8-OjaHfebCvHAS&index=12&ab_channel=ShamsAlRifat",
+        "cat_id": 15,
+        "subcat_id": 108
+      },
+      "source": {
+        "name": "কিভাবে খুঁজে পাবেন তাবিজ কোথায় রাখা আছে?",
+        "author": "শামস আল রিফাত"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        25
+      ],
+      "id": 25,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 25,
+        "link_id": 2,
+        "link": "https://youtu.be/aVnXMX9KtIk?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 108
+      },
+      "source": {
+        "name": "তাবিজ কোথায় ফেলবেন",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        26
+      ],
+      "id": 26,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 26,
+        "link_id": 3,
+        "link": "https://youtu.be/3lupNbTWFhg?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 108
+      },
+      "source": {
+        "name": "তাবিজ নষ্ট করার পদ্ধতি জেনে নিন",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        27
+      ],
+      "id": 27,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 27,
+        "link_id": 4,
+        "link": "https://youtu.be/gKt2xylCm9g?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 108
+      },
+      "source": {
+        "name": "তাবিজ নষ্ট করার পদ্ধতি জেনে নিন",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        28
+      ],
+      "id": 28,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 28,
+        "link_id": 1,
+        "link": "https://youtu.be/EZuc4Z3XnaY?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 109
+      },
+      "source": {
+        "name": "সূরা বাক্বারা",
+        "author": "আহমেদ আল-আজামি"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        29
+      ],
+      "id": 29,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 29,
+        "link_id": 2,
+        "link": "https://youtu.be/h5ZQExwB06E?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 109
+      },
+      "source": {
+        "name": "জিন, যাদু ও বদনজরের জন্য রুকিয়াহ (পর্ব-১)",
+        "author": "আহমেদ আল-আজামি"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        30
+      ],
+      "id": 30,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 30,
+        "link_id": 3,
+        "link": "https://youtu.be/88ft5afXwt8?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 109
+      },
+      "source": {
+        "name": "জিন, যাদু ও বদনজরের জন্য রুকিয়াহ (পর্ব-২)",
+        "author": "আহমেদ আল-আজামি"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        31
+      ],
+      "id": 31,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 31,
+        "link_id": 4,
+        "link": "https://youtu.be/bDSOkKGJim4?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 109
+      },
+      "source": {
+        "name": "জিন, যাদু ও বদনজরের জন্য রুকিয়াহ (পর্ব-৩)",
+        "author": "আহমেদ আল-আজামি"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        32
+      ],
+      "id": 32,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 32,
+        "link_id": 5,
+        "link": "https://youtu.be/_8iZJtIu_ac?list=PLQmMwyOVtOxF-k64QPf1EK-6ahKkIEDcr",
+        "cat_id": 15,
+        "subcat_id": 109
+      },
+      "source": {
+        "name": "যাদু নষ্টের জন্য রুকইয়াহ (পর্ব-৪)",
+        "author": "আহমেদ আল-আজামি"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        33
+      ],
+      "id": 33,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 33,
+        "link_id": 6,
+        "link": "https://youtu.be/bDSOkKGJim4?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 109
+      },
+      "source": {
+        "name": "জিন, যাদু ও বদনজরের জন্য রুকিয়াহ (পর্ব-৫)",
+        "author": "আহমেদ আল-আজামি"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        34
+      ],
+      "id": 34,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 34,
+        "link_id": 1,
+        "link": "https://youtu.be/zQ1b3GNy_ns?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "বদনজর।",
+        "author": "আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        35
+      ],
+      "id": 35,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 35,
+        "link_id": 2,
+        "link": "https://youtu.be/r2ORZgnmMGU?list=PLQmMwyOVtOxF-k64QPf1EK-6ahKkIEDcr",
+        "cat_id": 15,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "অডিও (০১) - বদ-নজর ও হিংসার জন্য রুকইয়াহ।",
+        "author": "সালাহ আস সায়ারি"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        36
+      ],
+      "id": 36,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 36,
+        "link_id": 3,
+        "link": "https://youtu.be/vMtPjKsF3F0?list=PLQmMwyOVtOxF-k64QPf1EK-6ahKkIEDcr",
+        "cat_id": 15,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "অডিও (০২)- বদ-নজর ও হিংসার জন্য রুকইয়াহ।",
+        "author": "সালাহ আস সায়ারি"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        37
+      ],
+      "id": 37,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 37,
+        "link_id": 4,
+        "link": "https://www.youtube.com/watch?v=xwwUwwUUKYE&list=PLho3RtMG5RqgDKb-to7tOVJT5TcDaNSke",
+        "cat_id": 15,
+        "subcat_id": 110
+      },
+      "source": {
+        "name": "চেহারা নষ্ট দূর করার রুকইয়াহ। বদ নজরের রুকইয়াহ।",
+        "author": "মুনতাজির মুরতাসিম"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        38
+      ],
+      "id": 38,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 38,
+        "link_id": 1,
+        "link": "https://www.youtube.com/watch?v=1fW-0xC0kGU&ab_channel=SunnahCare-PropheticMedicine",
+        "cat_id": 15,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "সকল প্রকার রোগ ব্যাধির জন্য প্রাথমিক রুকইয়াহ",
+        "author": "রাকি আবু উসমান"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        39
+      ],
+      "id": 39,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 39,
+        "link_id": 2,
+        "link": "https://youtu.be/aAiH01OH4cI?list=PLQmMwyOVtOxF-k64QPf1EK-6ahKkIEDcr",
+        "cat_id": 15,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "সাধারণ অডিও রুকইয়াহ",
+        "author": "শায়খ সুদাইস"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        40
+      ],
+      "id": 40,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 40,
+        "link_id": 3,
+        "link": "https://youtu.be/HSVphn1C7Mg?list=PLQmMwyOVtOxF-k64QPf1EK-6ahKkIEDcr",
+        "cat_id": 15,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "সাধারণ অডিও রুকইয়াহ",
+        "author": "শায়খ সুদাইস"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        41
+      ],
+      "id": 41,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 41,
+        "link_id": 4,
+        "link": "https://youtu.be/gr58bDGe43s?list=PLQmMwyOVtOxF-k64QPf1EK-6ahKkIEDcr",
+        "cat_id": 15,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "অডিও রুকইয়াহ - আয়াতুল হারক",
+        "author": "সালাহ আস সায়ারি"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        42
+      ],
+      "id": 42,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 42,
+        "link_id": 5,
+        "link": "https://youtu.be/gMUkKozzTtM?list=PLQmMwyOVtOxF-k64QPf1EK-6ahKkIEDcr",
+        "cat_id": 15,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "অডিও রুকইয়াহ - ৮ সূরাহ।",
+        "author": "শেখ সাদ আল গামীদি"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        43
+      ],
+      "id": 43,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 43,
+        "link_id": 1,
+        "link": "https://youtu.be/O1RYXCZofUI?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 112
+      },
+      "source": {
+        "name": "জ্বিন হাজির করে চিকিৎসা দেয়া নিয়ে কিছু কথা।",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        44
+      ],
+      "id": 44,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 44,
+        "link_id": 2,
+        "link": "https://youtu.be/K9_yWB5LJIo?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 112
+      },
+      "source": {
+        "name": "জ্বিন শয়তান থেকে বেঁচে থাকার আমল।",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        45
+      ],
+      "id": 45,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 45,
+        "link_id": 3,
+        "link": "https://youtu.be/3aNY69VJP4I?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 112
+      },
+      "source": {
+        "name": "আমল করার পরও কিভাবে জ্বিন-শয়তান মানুষের ক্ষতি করে।",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        46
+      ],
+      "id": 46,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 46,
+        "link_id": 4,
+        "link": "https://www.youtube.com/watch?v=X9fk-_h1n04&list=PLho3RtMG5Rqg2kegKTmCgdP5BDtPFUZNP",
+        "cat_id": 15,
+        "subcat_id": 112
+      },
+      "source": {
+        "name": "জ্বিন যাদুর সমস্যা বুঝার জন্য রুকইয়াহ।",
+        "author": "মুনতাজির মুরতাসিম"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        47
+      ],
+      "id": 47,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 47,
+        "link_id": 5,
+        "link": "https://youtu.be/NpX6xgPfrXA?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 112
+      },
+      "source": {
+        "name": "জ্বিন কিভাবে মানুষের শরীরে প্রবেশ করে।",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        48
+      ],
+      "id": 48,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 48,
+        "link_id": 6,
+        "link": "https://youtu.be/Rd-Wqp40EC4?list=PLqlUypPNfoBBye-Gg68ODvUf8yMBgvPpf",
+        "cat_id": 15,
+        "subcat_id": 112
+      },
+      "source": {
+        "name": "জ্বিন কি মানুষের অন্তরের খবর জানতে পারে।",
+        "author": "জনাব আব্দুছ ছবুর চৌধুরী"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        49
+      ],
+      "id": 49,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 49,
+        "link_id": 7,
+        "link": "https://www.youtube.com/watch?v=TaSHq9za2cc&list=PLho3RtMG5Rqg4lPYhrLxpKhsEWBiY3pcC",
+        "cat_id": 15,
+        "subcat_id": 112
+      },
+      "source": {
+        "name": "জ্বিনকে জ্বালিয়ে দেবার রুকইয়াহ।",
+        "author": "মুনতাজির মুরতাসিম"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    },
+    {
+      "key": [
+        50
+      ],
+      "id": 50,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 50,
+        "link_id": 1,
+        "link": "https://www.youtube.com/watch?v=F6J0bm1iXEM&ab_channel=SunnahCare-PropheticMedicine",
+        "cat_id": 15,
+        "subcat_id": 113
+      },
+      "source": {
+        "name": "রুকইয়াহ শারইয়া ও মানসিক সমস্যা",
+        "author": "হাফেজ আহমেদ কাদের উদয়"
+      },
+      "target": {
+        "name": "",
+        "author": ""
+      }
+    }
+  ]
+}

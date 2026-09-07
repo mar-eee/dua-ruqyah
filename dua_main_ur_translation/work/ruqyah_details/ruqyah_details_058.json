@@ -1,0 +1,34 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_058.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 1,
+  "id_range": "112-112",
+  "source_chars": 2322,
+  "items": [
+    {
+      "key": [
+        112
+      ],
+      "id": 112,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 112,
+        "topic_id": null,
+        "cat_id": 6,
+        "subcat_id": 93
+      },
+      "source": {
+        "topic_name": null,
+        "text": "As Sheikh Jibreen (R) said, you should not be concerned with making money. In fact, you shouldn’t get into this field because you don’t have a job or you need money to get married because this intention for money, itself, will affect the effectiveness of your Ruqyah on people and it can be a way for satan to destroy your Ruqyah by making you obsessed with money, women and the dunya in general. How many a raqi have fallen into fitna because of money and women!\n\nNo one can deny that not wanting money and just helping Muslims for the sake of Allah is better than the person who wants and demands money for his Ruqyah services! We are not saying that it is haram to charge for ruqya. We are just saying that it is better not to charge for ruqya.\n\nSheikh ul Islam Ibn Taymeeyah (Rahimahullah) said,\n\n\n“For the Exorcist [the Raaqi] such a person is a soldier of Allah, he is a Mujaahid for the sake of Allah, and this is from the greatest forms of Jihad, so he should be careful, lest the enemy overcome him by his sins. If the circumstances are beyond his capacity, he should remember that ‘Allah does not burden a soul beyond its capacity.’ He should not expose himself to tribulation by taking on what he is unable to handle” [Ibn Taymeeyah’s Essay on the Jinn, pp 69-72]\n\nHe also said, “It is not right that someone is scared of learning this knowledge [of Ruqyah ] and practising it, because it is an act of worship, and jihad for the sake of Allah, the Exalted. The servants of Allah who stick to his limits are within the safekeeping of Allah, his protection, his care, and his preservation.” In explaining this, he said, “The Prophets and the pious people who followed them fought against the enemies of Allah, from the jinn and the men, and they repelled them with whatever permissible means that they were able, and they would remove the jinn from the bodies of people, as ‘Eesa and our Messenger Muhammad (May the peace and blessings of Allah be upon them both) did.” The purpose of jihad is to make the word of Allah the highest, and the word of those who disbelieve the lowest. The Raaqi is the one who puts himself in danger, fighting against the Shayateen to achieve this aim. [Al Majmoo al Fataawa Ibn Taymeeyah] \n\nAfter reading what Ibn Taymeeyah said, we shouldn’t have any regrets about becoming a raqi."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

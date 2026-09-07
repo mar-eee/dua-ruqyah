@@ -1,0 +1,912 @@
+{
+  "table": "subcategories",
+  "chunk": "subcategories_001.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 50,
+  "id_range": "1-50",
+  "source_chars": 1514,
+  "items": [
+    {
+      "key": [
+        1
+      ],
+      "id": 1,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 1,
+        "cat_id": 1
+      },
+      "source": {
+        "name": "The servant is dependent on his Lord"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        2
+      ],
+      "id": 2,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 2,
+        "cat_id": 1
+      },
+      "source": {
+        "name": "The most important thing to ask Allah for"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        3
+      ],
+      "id": 3,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 3,
+        "cat_id": 1
+      },
+      "source": {
+        "name": "Ask for paradise & protection from fire"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        4
+      ],
+      "id": 4,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 4,
+        "cat_id": 1
+      },
+      "source": {
+        "name": "Dua to remain steadfast on the religion"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        5
+      ],
+      "id": 5,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 5,
+        "cat_id": 1
+      },
+      "source": {
+        "name": "Dua of good outcome in all deeds"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        6
+      ],
+      "id": 6,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 6,
+        "cat_id": 1
+      },
+      "source": {
+        "name": "Seeking whatever good Allah can bestow"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        7
+      ],
+      "id": 7,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 7,
+        "cat_id": 1
+      },
+      "source": {
+        "name": "Shelter from horror, misery, evil consequences and rejoicing of the enemy"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        8
+      ],
+      "id": 8,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 8,
+        "cat_id": 2
+      },
+      "source": {
+        "name": "Excellence of doing Tasbeeh, Tahmid, Tahlil, Takbeer"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        9
+      ],
+      "id": 9,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 9,
+        "cat_id": 3
+      },
+      "source": {
+        "name": "Times and places when dua will be accepted"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        10
+      ],
+      "id": 10,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 10,
+        "cat_id": 4
+      },
+      "source": {
+        "name": "Those whose duas are accepted"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        11
+      ],
+      "id": 11,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 11,
+        "cat_id": 5
+      },
+      "source": {
+        "name": "Excellence of dua in the morning & evening"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        12
+      ],
+      "id": 12,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 12,
+        "cat_id": 5
+      },
+      "source": {
+        "name": "Morning & Evening Adhkar"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        13
+      ],
+      "id": 13,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 13,
+        "cat_id": 5
+      },
+      "source": {
+        "name": "Dhikr in busy state"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        14
+      ],
+      "id": 14,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 14,
+        "cat_id": 6
+      },
+      "source": {
+        "name": "Before sleep"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        15
+      ],
+      "id": 15,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 15,
+        "cat_id": 6
+      },
+      "source": {
+        "name": "After waking up"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        16
+      ],
+      "id": 16,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 16,
+        "cat_id": 7
+      },
+      "source": {
+        "name": "Duas related to wearing clothes"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        17
+      ],
+      "id": 17,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 17,
+        "cat_id": 8
+      },
+      "source": {
+        "name": "When leaving the home"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        18
+      ],
+      "id": 18,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 18,
+        "cat_id": 8
+      },
+      "source": {
+        "name": "Upon entering the home"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        19
+      ],
+      "id": 19,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 19,
+        "cat_id": 9
+      },
+      "source": {
+        "name": "Duas related to toilets"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        20
+      ],
+      "id": 20,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 20,
+        "cat_id": 10
+      },
+      "source": {
+        "name": "Dua while hearing the adhaan"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        21
+      ],
+      "id": 21,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 21,
+        "cat_id": 10
+      },
+      "source": {
+        "name": "Dua after the adhaan"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        22
+      ],
+      "id": 22,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 22,
+        "cat_id": 10
+      },
+      "source": {
+        "name": "Dua between Adhaan and Iqamah"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        23
+      ],
+      "id": 23,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 23,
+        "cat_id": 10
+      },
+      "source": {
+        "name": "Dua for Imam and Mu'adhdhin"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        24
+      ],
+      "id": 24,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 24,
+        "cat_id": 11
+      },
+      "source": {
+        "name": "When starting ablution"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        25
+      ],
+      "id": 25,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 25,
+        "cat_id": 11
+      },
+      "source": {
+        "name": "Upon completing the ablution"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        26
+      ],
+      "id": 26,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 26,
+        "cat_id": 12
+      },
+      "source": {
+        "name": "Going to the mosque"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        27
+      ],
+      "id": 27,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 27,
+        "cat_id": 12
+      },
+      "source": {
+        "name": "Entering the mosque"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        28
+      ],
+      "id": 28,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 28,
+        "cat_id": 12
+      },
+      "source": {
+        "name": "Getting out of the mosque"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        29
+      ],
+      "id": 29,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 29,
+        "cat_id": 12
+      },
+      "source": {
+        "name": "Announcement of lost things in the mosque"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        30
+      ],
+      "id": 30,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 30,
+        "cat_id": 12
+      },
+      "source": {
+        "name": "Trading in the mosque"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        31
+      ],
+      "id": 31,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 31,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "Duas After Takbeer (Start of prayer)"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        32
+      ],
+      "id": 32,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 32,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "If afflicted by whisperings in prayer or recitation"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        33
+      ],
+      "id": 33,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 33,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "Duas in rukoo"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        34
+      ],
+      "id": 34,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 34,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "Upon rising from rukoo"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        35
+      ],
+      "id": 35,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 35,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "Duas while in a state of rukoo"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        36
+      ],
+      "id": 36,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 36,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "Duas in prostration [sujood]"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        37
+      ],
+      "id": 37,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 37,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "Duas in between two prostrations"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        38
+      ],
+      "id": 38,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 38,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "Prostration due to Quran recitation"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        39
+      ],
+      "id": 39,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 39,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "The Tashahhud"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        40
+      ],
+      "id": 40,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 40,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "Prayers upon the Prophet (ﷺ) after tashahhud"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        41
+      ],
+      "id": 41,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 41,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "Duas after the last tashahhud & before salam"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        42
+      ],
+      "id": 42,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 42,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "Duas in salat"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        43
+      ],
+      "id": 43,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 43,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "Duas after Fajr and Maghrib"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        44
+      ],
+      "id": 44,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 44,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "Masnun Dhikr after obligatory prayers"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        45
+      ],
+      "id": 45,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 45,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "Duas after salaam"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        46
+      ],
+      "id": 46,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 46,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "Dua after Fajr prayer"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        47
+      ],
+      "id": 47,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 47,
+        "cat_id": 13
+      },
+      "source": {
+        "name": "Other duas related to salat"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        48
+      ],
+      "id": 48,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 48,
+        "cat_id": 14
+      },
+      "source": {
+        "name": "Dua for starting Tahajjud prayer"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        49
+      ],
+      "id": 49,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 49,
+        "cat_id": 14
+      },
+      "source": {
+        "name": "Dua of Witr prayer"
+      },
+      "target": {
+        "name": ""
+      }
+    },
+    {
+      "key": [
+        50
+      ],
+      "id": 50,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 50,
+        "cat_id": 14
+      },
+      "source": {
+        "name": "The Surahs that the Prophet (ﷺ) used to recite in the Witr prayer"
+      },
+      "target": {
+        "name": ""
+      }
+    }
+  ]
+}

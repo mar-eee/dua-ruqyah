@@ -1,0 +1,428 @@
+{
+  "table": "duas",
+  "chunk": "duas_024.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 13,
+  "id_range": "318-330",
+  "source_chars": 5722,
+  "items": [
+    {
+      "key": [
+        318
+      ],
+      "id": 318,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 318,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ، سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُوْنَ، اَلْحَمْدُ لِلَّهِ، اَلْحَمْدُ لِلَّهِ، اَلْحَمْدُ لِلَّهِ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اَللّهُ أَكْبَرُ، (لَا إِلٰهَ إِلَّا أَنْتَ) سُبْحَانَكَ، إِنِّي ظَلَمْتُ نَفْسِيْ فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوْبَ إِلاَّ أَنْتَ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ، سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هٰذَا وَمَا كُنَّا لَهٗ مُقْرِنِيْنَ وَاِنَّا اِلٰى رَبِّنَا لَمُنْقَلِبُوْنَ، اَلْحَمْدُ لِلّٰهِ، اَلْحَمْدُ لِلّٰهِ، اَلْحَمْدُ لِلّٰهِ، اَللّٰهُ اَكْبَرُ، اَللّٰهُ اَكْبَرُ، اَللّٰهُ اَكْبَرُ، (لَا اِلٰهَ اِلَّا اَنْتَ) سُبْحَانَكَ، اِنِّيْ ظَلَمْتُ نَفْسِيْ فَاغْفِرْ لِيْ فَاِنَّهٗ لَا يَغْفِرُ الذُّنُوْبَ اِلَّا اَنْتَ",
+        "clean": "الحمد لله سبحان الذي سخر لنا هذا وما كنا له مقرنين وانا الي ربنا لمنقلبون الحمد لله الحمد لله الحمد لله الله اكبر الله اكبر الله اكبر لا اله الا انت سبحانك اني ظلمت نفسي فاغفر لي فانه لا يغفر الذنوب الا انت",
+        "transliteration": "Alhamdu lillaah. Subhaanal-ladhee sakhkhara lanaa haadhaa wa maa kunnaa lahu muqrineen. Wa 'innaa 'ilaa Rabbinaa lamunqaliboon. Alhamdu lillaah, alhamdu lillaah, alhamdu lillaah, Allahu 'Akbar, Allahu 'Akbar, Allahu 'Akbar, (laa ilahaa 'illaa 'Anta) subhaanaka 'innee dhalamtu nafsee faghfir lee, fa'innahu laa yaghfirudh-dhunooba 'illaa 'Anta",
+        "reference": "Sahih (Albani). Tirmidhi: 3446",
+        "audio": 318,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "When mounting an animal or any means of transport",
+        "content": "Rasulullah (ﷺ) used to say Bismillah while boarding the ride, he said the rest after setting down:",
+        "translation": "Praise is to Allah. Glory is to Him Who has provided this for us though we could never have had it by our efforts. Surely, unto our Lord we are returning. Praise is to Allah. Praise is to Allah. Praise is to Allah. Allah is the Most Great. Allah is the Most Great. Allah is the Most Great. Glory is to You. O Allah, I have wronged my own soul. Forgive me, for surely none forgives sins but You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        319
+      ],
+      "id": 319,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 319,
+        "groups": "[{\"id\": 319, \"name\": null, \"cat_id\": 17, \"subcat_id\": 60, \"content\": \"And when the Prophet (\\ufdfa) returned from his journey, he would recite it and add to it:\", \"uthmani\": \"\\u0622\\u064a\\u0650\\u0628\\u064f\\u0648\\u0646\\u064e\\u060c \\u062a\\u064e\\u0627\\u0626\\u0650\\u0628\\u064f\\u0648\\u0646\\u064e\\u060c \\u0639\\u064e\\u0627\\u0628\\u0650\\u062f\\u064f\\u0648\\u0646\\u064e\\u060c \\u0644\\u0650\\u0631\\u064e\\u0628\\u0651\\u0650\\u0646\\u064e\\u0627 \\u062d\\u064e\\u0627\\u0645\\u0650\\u062f\\u064f\\u0648\\u0646\\u064e\", \"indopak\": \"\\u0627\\u0670\\u064a\\u0650\\u0628\\u064f\\u0648\\u0652\\u0646\\u064e\\u060c \\u062a\\u064e\\u0627\\u0626\\u0650\\u0628\\u064f\\u0648\\u0652\\u0646\\u064e\\u060c \\u0639\\u064e\\u0627\\u0628\\u0650\\u062f\\u064f\\u0648\\u0652\\u0646\\u064e\\u060c \\u0644\\u0650\\u0631\\u064e\\u0628\\u0651\\u0650\\u0646\\u064e\\u0627 \\u062d\\u064e\\u0627\\u0645\\u0650\\u062f\\u064f\\u0648\\u0652\\u0646\\u064e\", \"clean\": \"\\u0627\\u064a\\u0628\\u0648\\u0646 \\u062a\\u0627\\u0621\\u0628\\u0648\\u0646 \\u0639\\u0627\\u0628\\u062f\\u0648\\u0646 \\u0644\\u0631\\u0628\\u0646\\u0627 \\u062d\\u0627\\u0645\\u062f\\u0648\\u0646\", \"transliteration\": \"Ayibuna, ta'ibuna, 'abiduna, li-Rabbina hamidun\", \"translation\": \"We are returning in safety, turning to our Rob, worshipping Him and praising Him.\", \"note\": null, \"reference\": \"Muslim: 1342\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُوْنَ اَللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى وَمِنَ الْعَمَلِ مَا تَرْضَى، اَللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ، اَللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيْفَةُ فِي الْأَهْلِ، اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمَنْظَرِ، وَسُوْءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ",
+        "indopak": "اَللّٰهُ اَكْبَرُ، اَللّٰهُ اَكْبَرُ، اَللّٰهُ اَكْبَرُ، سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هٰذَا وَمَا كُنَّا لَهٗ مُقْرِنِيْنَ، وَاِنَّا اِلٰى رَبِّنَا لَمُنْقَلِبُوْنَ اَللّٰهُمَّ اِنَّا نَسْاَلُكَ فِيْ سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوٰى وَمِنَ الْعَمَلِ مَا تَرْضٰى، اَللّٰهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهٗ، اَللّٰهُمَّ اَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيْفَةُ فِي الْاَهْلِ، اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنْ وَّعْثَاءِ السَّفَرِ، وَكَاٰبَةِ الْمَنْظَرِ، وَسُوْءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْاَهْلِ",
+        "clean": "الله اكبر الله اكبر الله اكبر سبحان الذي سخر لنا هذا وما كنا له مقرنين وانا الي ربنا لمنقلبون اللهم انا نسالك في سفرنا هذا البر والتقوي ومن العمل ما ترضي اللهم هون علينا سفرنا هذا واطو عنا بعده اللهم انت الصاحب في السفر والخليفه في الاهل اللهم اني اعوذ بك من وعثاء السفر وكابه المنظر وسوء المنقلب في المال والاهل",
+        "transliteration": "Allahu 'Akbar, Allahu 'Akbar, Allahu 'Akbar. Subhaanal-lathee sakhkhara lanaa haadhaa wa maa kunnaa lahu muqrineen. Wa 'innaa 'ilaa Rabbinaa lamunqaliboon. Allaahumma 'innaa nas'aluka fee safarinaa haadhal-birra wattaqwaa, waminal-'amali maa tardhaa, Allaahumma hawwin 'alaynaa safaranaa haadhaa watwi 'annaa bu'dahu, Allaahumma 'Antas-saahibu fis-safari, walkhaleefatu fil-'ahli, Allaahumma 'innee 'A'oodhu bika min wa'thaa'is-safari, wa ka-'aabatil-mandhari, wa soo'il-munqalabi fil-maali wal 'ahli",
+        "reference": null,
+        "audio": 319,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "While returning from travel",
+        "content": "Abdullah bin Umar (RA) said that the Prophet (ﷺ) used to recite this dua at the beginning of his journey:",
+        "translation": "Allah is the Most Great (3 times). Glory is to Him Who has provided this for us though we could never have had it by our efforts. Surely, unto our Lord we are returning. O Allah, we ask You on this our journey for goodness and piety, and for works that are pleasing to You. O Allah, lighten this journey for us and make its distance easy for us. O Allah, You are our Companion on the road and the One in Whose care we leave our family. O Allah, I seek refuge in You from this journey's hardships, and from the wicked sights in store and from finding our family and property in misfortune upon returning.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        320
+      ],
+      "id": 320,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 320,
+        "groups": null,
+        "uthmani": "أَسْتَوْدِعُكَ اللَّهَ الَّذِيْ لَا تَضِيْعُ وَدَائِعُهُ",
+        "indopak": "اَسْتَوْدِعُكَ اللّٰهَ الَّذِيْ لَا تَضِيْعُ وَدَائِعُهٗ",
+        "clean": "استودعك الله الذي لا تضيع وداءعه",
+        "transliteration": "Astawdi'ukAllahal-ladhee laa tadhee'u wadaa'i'uhu",
+        "reference": "Sahih (Albani). Ibn Majah: 2825",
+        "audio": 320,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "Dua of the resident for the traveller",
+        "content": null,
+        "translation": "I leave you in the care of Allah, as nothing is lost that is in His care.",
+        "note": "The Messenger of Allah (ﷺ) gave me a send-off and said: (The dua is mentioned above). So, musaafir should say this dua to the farewell giver.But Musaafir and farewell giver both can supplicate this dua for each other."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        321
+      ],
+      "id": 321,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 321,
+        "groups": null,
+        "uthmani": "أَسْتَوْدِعُ اللَّهَ دِيْنَكَ وَأَمَانَتَكَ وَخَوَاتِيْمَ عَمَلِكَ",
+        "indopak": "اَسْتَوْدِعُ اللّٰهَ دِيْنَكَ وَاَمَانَتَكَ وَخَوَاتِيْمَ عَمَلِكَ",
+        "clean": "استودع الله دينك وامانتك وخواتيم عملك",
+        "transliteration": "Astawdi'ullaaha deenaka, wa 'amaanataka, wa khawaateema 'amalika",
+        "reference": "Sahih (Albani). Tirmidhi: 3443",
+        "audio": 321,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "Dua to bid farewell to the traveler #1",
+        "content": null,
+        "translation": "I leave your religion in the care of Allah, as well as your safety, and the last of your deeds.",
+        "note": "Abdullah ibn Umar (RA) said, The Messenger of Allah (ﷺ) said: when he bid farewell, he grab his hand and did musafaha and said the above mentioned dua.In another narration, Abdullah Ibn Yazid Khatmi (RA) said, The Messenger of Allah (ﷺ) bid farewell by saying these words. But in this case, he used plural (kum) instead of singular (ka): “Astad’iullaha diinaakum wa amaanatakum wa khawatima a’maalikum” I leave your religion in the care of Allah, as well as your safety, and the last of your deeds."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        322
+      ],
+      "id": 322,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 322,
+        "groups": null,
+        "uthmani": "زَوَّدَكَ اللَّهُ التَّقْوَى وَغَفَرَ لَكَ ذَنْبَكَ وَيَسَّرَ لَكَ الْخَيْرَ حَيْثُمَا كُنْتَ",
+        "indopak": "زَوَّدَكَ اللّٰهُ التَّقْوٰى وَغَفَرَ لَكَ ذَنْۢبَكَ وَيَسَّرَ لَكَ الْخَيْرَ حَيْثُمَا كُنْتَ",
+        "clean": "زودك الله التقوي وغفر لك ذنبك ويسر لك الخير حيثما كنت",
+        "transliteration": "Zawwadakal-laahut-taqwaa, wa ghafara thanbaka, wa yassara lakal-khayra haythu maa kunta",
+        "reference": "Hasan (Albani). Tirmidhi: 3444",
+        "audio": 322,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "Dua to bid farewell to the traveler #2",
+        "content": null,
+        "translation": "May Allah give you piety as your provision, forgive your sins, and make goodness easy for you wherever you are.",
+        "note": "Anas ibn Malik (RA) said, \"A man came to the Messenger of Allah (ﷺ) and said, 'I have decided to travel. Give me a Travel allowance.' Then he said these words and prayed for him."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        323
+      ],
+      "id": 323,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 323,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "indopak": "اَعُوْذُ بِكَلِمَاتِ اللّٰهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "clean": "اعوذ بكلمات الله التامات من شر ما خلق",
+        "transliteration": "A'oodhu bikalimaatil-laahit-taammaati min sharri maa khalaq",
+        "reference": "Muslim: 2708",
+        "audio": 323,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "Dua of the traveller for the resident #1",
+        "content": null,
+        "translation": "I seek refuge in the Perfect Words of Allah from the evil of what He has created.",
+        "note": "We have seen that the Prophet (ﷺ) said: If a person goes to a place or stops somewhere on a journey and says this dua, then nothing can harm him while he is there."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        324
+      ],
+      "id": 324,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 324,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَّبَّ السَّمَاوَاتِ السَّبْعِ وَمَا أَظْلَلْنَ، وَرَبَّ الْأَرَضِيْنَ السَّبْعِ ومَا أَقْلَلْنَ، ورَبَّ الشَّيَاطِيْنِ ومَا أَضْلَلْنَ، ورَبَّ الرِّيَاحِ وَمَا ذَرَيْنَ، أَسْأَلُكَ خَيْرَ هَذِهِ الْقَرْيَةِ وَخَيْرَ أَهْلِهَا، (وَخَيْرَ مَا فِيهَا) وَنَعُوذُ بِكَ مِنْ شَرِّهَا وَشَرِّ أَهْلِهَا وشَرِّ مَا فِيهَا",
+        "indopak": "اَللّٰهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَمَا اَظْلَلْنَ، وَرَبَّ الْاَرَضِيْنَ السَّبْعِ ومَا اَقْلَلْنَ، ورَبَّ الشَّيَاطِيْنِ ومَا اَضْلَلْنَ، ورَبَّ الرِّيَاحِ وَمَا ذَرَيْنَ، اَسْاَلُكَ خَيْرَ هٰذِهِ الْقَرْيَةِ وَخَيْرَ اَهْلِهَا، (وَخَيْرَ مَا فِيْهَا) وَنَعُوْذُ بِكَ مِنْ شَرِّهَا وَشَرِّ اَهْلِهَا وشَرِّ مَا فِيْهَا",
+        "clean": "اللهم رب السماوات السبع وما اظللن ورب الارضين السبع وما اقللن ورب الشياطين وما اضللن ورب الرياح وما ذرين اسالك خير هذه القريه وخير اهلها وخير ما فيها ونعوذ بك من شرها وشر اهلها وشر ما فيها",
+        "transliteration": "Allaahumma Rabbas-samaawaatis-sab'i wa maa 'adhlalna, wa Rabbal-'aradheenas-sab'i wa maa 'aqlalna, wa Rabbash-shayaateeni wa maa 'adhlalna, wa Rabbar-riyaahi wa maa tharayna. 'As'aluka khayra haathihil-qaryati wa khayra 'ahlihaa, (wa khayra maa feehaa), wa na‛oodhu bika min sharrihaa, wa sharri 'ahlihaa, wa sharri maa feehaa",
+        "reference": "Hasan Ligairihi (Albani). Sahih Ibn Khuzaimah: 2565",
+        "audio": 324,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "Dua of the traveller for the resident #2",
+        "content": null,
+        "translation": "O Allah, Lord of the seven heavens and all they overshadow, Lord of the seven worlds and all they uphold, Lord of the devils and all they lead astray, Lord of the winds and all they scatter. I ask You for the goodness of this town and for the goodness of its people, and for the goodness it contains. I seek refuge in You from its evil, from the evil of its people and from the evil it contains.",
+        "note": "Suhaib (RA) said that the Prophet (ﷺ) used to say these words whenever he saw a town before entering it."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        325
+      ],
+      "id": 325,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 325,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِهَا وَخَيْرِ أَهْلِهَا وَأَعُوْذُ بِكَ مِنْ شَرِّهَا وَشَرِّ أَهْلِهَا",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ مِنْ خَيْرِهَا وَخَيْرِ اَهْلِهَا وَاَعُوْذُ بِكَ مِنْ شَرِّهَا وَشَرِّ اَهْلِهَا",
+        "clean": "اللهم اني اسالك من خيرها وخير اهلها واعوذ بك من شرها وشر اهلها",
+        "transliteration": "Allaahumma inni As'aluka min khayrihaa wa khayri 'ahlihaa wa 'a'oodhu bika min sharrihaa, wa sharri 'ahlihaa",
+        "reference": "Sahih (Albani). Tirmidhi: 3449",
+        "audio": 325,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "When entering the market",
+        "content": null,
+        "translation": "Ya Allah! I ask you for the blessing of this place and the goodness of it’s inhabitant’s. And I take refuge in you from harm of this place and harm of it’s inhabitant’s.",
+        "note": "It is narrated on the authority of 'Abdullah ibn Mas'ud (RA) that he stood at the entrance of the market, recited the du'a and entered the market."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        326
+      ],
+      "id": 326,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 326,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ، وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، يُحْيِيْ وَيُمِيْتُ، وَهُوَ حَيٌّ لَّا يَمُوْتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
+        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد يحيي ويميت وهو حي لا يموت بيده الخير وهو علي كل شيء قدير",
+        "transliteration": "Laa 'ilaaha 'illAllahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu, yuhyee wa yumeetu, wa Huwa hayyun laa yamootu, biyadihil-khayru, wa Huwa 'alaa kulli shay'in Qadeer",
+        "reference": "Hasan (Albani). Tirmidhi: 3428",
+        "audio": 326,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "When entering the market",
+        "content": "Umar ibnul khattab (RA) narrated that: the Messenger of Allah (ﷺ) said: “Whoever enters the marketplace and says:",
+        "translation": "None has the right to be worshipped but Allah alone, Who has no partener. His is the dominion and His is the praise. He brings life and He causes death, and He is living and does not die. In His Hand is all good, and He is Able to do all things.",
+        "note": "Allah will write a million rewards for him, remove a million sins from him and raise his status by one million levels."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        327
+      ],
+      "id": 327,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 327,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ",
+        "indopak": "بِسْمِ اللّٰهِ",
+        "clean": "بسم الله",
+        "transliteration": "Bismillaah",
+        "reference": "Sahih (Albani). Abu Dawud: 4982",
+        "audio": 327,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "When the mounted animal (or mean of transport) stumbles",
+        "content": "Abu al-Malih (RA) reported on the authority of a man: I was riding on a mount behind the prophet (ﷺ) It stumbled. Thereupon I said: May the devil perish! He said: do not say; may the devil perish! For you say that, he will swell so much so that he will be like a house, and say: by my power. But say: (The dua is mentioned above)",
+        "translation": "With the Name of Allah.",
+        "note": "Abu al-Malih (RA) reported on the authority of a man : I was riding on a mount behind the prophet (ﷺ). It stumbled. Thereupon I said: May the devil perish! He said: do not say; may the devil perish! For you say that, he will swell so much so that he will be like a house, and say: by my power. But say: (The dua is mentioned above) For when you say that, he will diminish so much so that he will be like a fly."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      }
+    },
+    {
+      "key": [
+        328
+      ],
+      "id": 328,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 328,
+        "groups": "[{\"id\": 328, \"name\": null, \"cat_id\": 17, \"subcat_id\": 60, \"content\": \"And when descend, we said -\", \"uthmani\": \"\\u0633\\u064f\\u0628\\u0652\\u062d\\u064e\\u0627\\u0646\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u0650\", \"indopak\": \"\\u0633\\u064f\\u0628\\u0652\\u062d\\u064e\\u0627\\u0646\\u064e \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650\", \"clean\": \"\\u0633\\u0628\\u062d\\u0627\\u0646 \\u0627\\u0644\\u0644\\u0647\", \"transliteration\": \"SubhaanAllah\", \"translation\": \"Glory is to Allah.\", \"note\": null, \"reference\": \"Bukhari: 2993\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "اَللَّهُ أَكْبَرُ",
+        "indopak": "اَللّٰهُ اَكْبَرُ",
+        "clean": "الله اكبر",
+        "transliteration": "Allahu Akbar",
+        "reference": null,
+        "audio": 328,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "Recitation of Takbeer and Tasbeeh during the tour",
+        "content": "Narrated Jabir bin Abdillah (RA): He said, \"When we ascended, we would say:",
+        "translation": "Allah is the Most Great.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        329
+      ],
+      "id": 329,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 329,
+        "groups": null,
+        "uthmani": "سَمِعَ سَامِعٌ بِحَمْدِ اللَّهِ، وَحُسْنِ بَلَائِهِ عَلَيْنَا، رَبَّنَا صَاحِبْنَا، وَأَفْضِلْ عَلَيْنَا، عَائِذًا بِاللَّهِ مِنَ النَّارِ",
+        "indopak": "سَمِعَ سَامِعٌ بِحَمْدِ اللّٰهِ، وَحُسْنِ بَلَائِهٖ عَلَيْنَا، رَبَّنَا صَاحِبْنَا، وَاَفْضِلْ عَلَيْنَا، عَائِذًا بِاللّٰهِ مِنَ النَّارِ",
+        "clean": "سمع سامع بحمد الله وحسن بلاءه علينا ربنا صاحبنا وافضل علينا عاءذا بالله من النار",
+        "transliteration": "Sami'a saami'un bihamdillaahi wa husni balaa'ihi 'alaynaa. Rabbanaa saahibnaa, wa 'afdhil 'alaynaa 'aa'ithan billaahi minan-naar.",
+        "reference": "Muslim: 2718",
+        "audio": 329,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "Prayer of the traveller when dawn approach",
+        "content": "The Prophet (ﷺ) used to say at the end of the night while on a journey:",
+        "translation": "He Who listens has heard that we praise Allah for the good things He gives us. Our Lord, be with us and bestow Your favor upon us. I seek the protection of Allah from the Fire.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    },
+    {
+      "key": [
+        330
+      ],
+      "id": 330,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 330,
+        "groups": "[{\"id\": 330, \"name\": null, \"cat_id\": 17, \"subcat_id\": 60, \"content\": \"...then say:\", \"uthmani\": \"\\u0644\\u064e\\u0627 \\u0625\\u0650\\u0644\\u064e\\u0647\\u064e \\u0625\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u064f \\u0644\\u064e\\u0627 \\u0634\\u064e\\u0631\\u0650\\u064a\\u0643\\u064e \\u0644\\u064e\\u0647\\u064f\\u060c \\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u0645\\u064f\\u0644\\u0652\\u0643\\u064f\\u060c \\u0648\\u064e\\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f\\u060c \\u0648\\u064e\\u0647\\u064f\\u0648\\u064e \\u0639\\u064e\\u0644\\u064e\\u0649 \\u0643\\u064f\\u0644\\u0651\\u0650 \\u0634\\u064e\\u0649\\u0652\\u0621\\u064d \\u0642\\u064e\\u062f\\u0650\\u064a\\u0631\\u064c\\u060c \\u0622\\u064a\\u0650\\u0628\\u064f\\u0648\\u0646\\u064e \\u062a\\u064e\\u0627\\u0626\\u0650\\u0628\\u064f\\u0648\\u0646\\u064e \\u0639\\u064e\\u0627\\u0628\\u0650\\u062f\\u064f\\u0648\\u0646\\u064e \\u0633\\u064e\\u0627\\u062c\\u0650\\u062f\\u064f\\u0648\\u0646\\u064e \\u0644\\u0650\\u0631\\u064e\\u0628\\u0651\\u0650\\u0646\\u064e\\u0627 \\u062d\\u064e\\u0627\\u0645\\u0650\\u062f\\u064f\\u0648\\u0646\\u064e\\u060c \\u0635\\u064e\\u062f\\u064e\\u0642\\u064e \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u064f \\u0648\\u064e\\u0639\\u0652\\u062f\\u064e\\u0647\\u064f \\u0648\\u064e\\u0646\\u064e\\u0635\\u064e\\u0631\\u064e \\u0639\\u064e\\u0628\\u0652\\u062f\\u064e\\u0647\\u064f \\u0648\\u064e\\u0647\\u064e\\u0632\\u064e\\u0645\\u064e \\u0627\\u0644\\u0652\\u0623\\u064e\\u062d\\u0652\\u0632\\u064e\\u0627\\u0628\\u064e \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u064f\", \"indopak\": \"\\u0644\\u064e\\u0627 \\u0627\\u0650\\u0644\\u0670\\u0647\\u064e \\u0627\\u0650\\u0644\\u0651\\u064e\\u0627 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u0657 \\u0644\\u064e\\u0627 \\u0634\\u064e\\u0631\\u0650\\u064a\\u0652\\u0643\\u064e \\u0644\\u064e\\u0647\\u0657\\u060c \\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u0645\\u064f\\u0644\\u0652\\u0643\\u064f\\u060c \\u0648\\u064e\\u0644\\u064e\\u0647\\u064f \\u0627\\u0644\\u0652\\u062d\\u064e\\u0645\\u0652\\u062f\\u064f\\u060c \\u0648\\u064e\\u0647\\u064f\\u0648\\u064e \\u0639\\u064e\\u0644\\u0670\\u0649 \\u0643\\u064f\\u0644\\u0651\\u0650 \\u0634\\u064e\\u0649\\u0652\\u0621\\u064d \\u0642\\u064e\\u062f\\u0650\\u064a\\u0652\\u0631\\u064c\\u060c \\u0627\\u0670\\u064a\\u0650\\u0628\\u064f\\u0648\\u0652\\u0646\\u064e \\u062a\\u064e\\u0627\\u0626\\u0650\\u0628\\u064f\\u0648\\u0652\\u0646\\u064e \\u0639\\u064e\\u0627\\u0628\\u0650\\u062f\\u064f\\u0648\\u0652\\u0646\\u064e \\u0633\\u064e\\u0627\\u062c\\u0650\\u062f\\u064f\\u0648\\u0652\\u0646\\u064e \\u0644\\u0650\\u0631\\u064e\\u0628\\u0651\\u0650\\u0646\\u064e\\u0627 \\u062d\\u064e\\u0627\\u0645\\u0650\\u062f\\u064f\\u0648\\u0652\\u0646\\u064e\\u060c \\u0635\\u064e\\u062f\\u064e\\u0642\\u064e \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u064f \\u0648\\u064e\\u0639\\u0652\\u062f\\u064e\\u0647\\u0657 \\u0648\\u064e\\u0646\\u064e\\u0635\\u064e\\u0631\\u064e \\u0639\\u064e\\u0628\\u0652\\u062f\\u064e\\u0647\\u0657 \\u0648\\u064e\\u0647\\u064e\\u0632\\u064e\\u0645\\u064e \\u0627\\u0644\\u0652\\u0627\\u064e\\u062d\\u0652\\u0632\\u064e\\u0627\\u0628\\u064e \\u0648\\u064e\\u062d\\u0652\\u062f\\u064e\\u0647\\u0657\", \"clean\": \"\\u0644\\u0627 \\u0627\\u0644\\u0647 \\u0627\\u0644\\u0627 \\u0627\\u0644\\u0644\\u0647 \\u0648\\u062d\\u062f\\u0647 \\u0644\\u0627 \\u0634\\u0631\\u064a\\u0643 \\u0644\\u0647 \\u0644\\u0647 \\u0627\\u0644\\u0645\\u0644\\u0643 \\u0648\\u0644\\u0647 \\u0627\\u0644\\u062d\\u0645\\u062f \\u0648\\u0647\\u0648 \\u0639\\u0644\\u064a \\u0643\\u0644 \\u0634\\u064a\\u0621 \\u0642\\u062f\\u064a\\u0631 \\u0627\\u064a\\u0628\\u0648\\u0646 \\u062a\\u0627\\u0621\\u0628\\u0648\\u0646 \\u0639\\u0627\\u0628\\u062f\\u0648\\u0646 \\u0633\\u0627\\u062c\\u062f\\u0648\\u0646 \\u0644\\u0631\\u0628\\u0646\\u0627 \\u062d\\u0627\\u0645\\u062f\\u0648\\u0646 \\u0635\\u062f\\u0642 \\u0627\\u0644\\u0644\\u0647 \\u0648\\u0639\\u062f\\u0647 \\u0648\\u0646\\u0635\\u0631 \\u0639\\u0628\\u062f\\u0647 \\u0648\\u0647\\u0632\\u0645 \\u0627\\u0644\\u0627\\u062d\\u0632\\u0627\\u0628 \\u0648\\u062d\\u062f\\u0647\", \"transliteration\": \"Laa 'ilaaha 'illAllahu wahdahu laa shareeka lahu, lahul-mulku, wa lahul-hamdu, wa Huwa 'alaa kulli shay 'in Qadeer, 'aa'iboona  taa'iboona, 'aabidoona, sajeedoona, lirabbinaa haamidoona, sadaqAllahu wa'dahu, wa nasara 'abdahu, wa hazamal-'ahzaaba wahdahu\", \"translation\": \"None has the right to be worshipped but Allah alone, Who has no partener. His is the dominion and His is the praise, and He is Able to do all things. We return repentant to our Lord, worshipping our Lord, and praising our Lord. He fulfilled His Promise, He aided His slave, and He alone defeated the Confederates.\", \"note\": null, \"reference\": \"Bukhari: 1797\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "اَللَّهُ أَكْبَرُ",
+        "indopak": "اَللّٰهُ اَكْبَرُ",
+        "clean": "الله اكبر",
+        "transliteration": "Allahu Akbar",
+        "reference": null,
+        "audio": 330,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "While returning from travel",
+        "content": "It is narrated on the authority of 'Abdullah ibn' Umar (RA) that the Messenger of Allah (ﷺ) used to rise on every high ground on the way back from a battle or Hajj or 'Umrah and say three times:",
+        "translation": "Allah is the Most Great.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      }
+    }
+  ]
+}

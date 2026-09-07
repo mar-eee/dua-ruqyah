@@ -1,0 +1,52 @@
+{
+  "en": {
+    "tables": {
+      "subcategories": "CREATE TABLE subcategories (\n            id INTEGER PRIMARY KEY,\n            name VARCHAR(255) NOT NULL,\n            cat_id INTEGER\n        )",
+      "duas": "CREATE TABLE duas (\n            id INTEGER PRIMARY KEY,\n            groups JSON,\n            name TEXT,\n            content TEXT,\n            uthmani TEXT,\n            indopak TEXT,\n            clean TEXT,\n            transliteration TEXT,\n            translation TEXT,\n            note TEXT,\n            reference TEXT,\n            audio INTEGER,\n            cat_id INTEGER,\n            subcat_id INTEGER\n        )",
+      "dua_infos": "CREATE TABLE dua_infos (\n            id INTEGER PRIMARY KEY,\n            name VARCHAR(255),\n            description TEXT\n        )",
+      "books": "CREATE TABLE books (\n            id INTEGER PRIMARY KEY,\n            name VARCHAR(255) NOT NULL,\n            writer VARCHAR(255),\n            translator VARCHAR(255),\n            editor VARCHAR(255)\n        )",
+      "sections": "CREATE TABLE sections (\n            id INTEGER NOT NULL,\n            book_id INTEGER NOT NULL,\n            name VARCHAR(255) NOT NULL,\n            PRIMARY KEY (id, book_id)\n        )",
+      "book_details": "CREATE TABLE book_details (\n            id INTEGER NOT NULL,\n            book_id INTEGER NOT NULL,\n            section_id INTEGER NOT NULL,\n            topic_id INTEGER,\n            topic_name VARCHAR(255),\n            description TEXT,\n            PRIMARY KEY (id, book_id, section_id)\n        )",
+      "ruqyah_subcategories": "CREATE TABLE ruqyah_subcategories (\n            id INTEGER PRIMARY KEY,\n            type TEXT NOT NULL,\n            name VARCHAR(255) NOT NULL,\n            cat_id INTEGER\n        )",
+      "ruqyah_details": "CREATE TABLE ruqyah_details (\n            id INTEGER PRIMARY KEY,\n            topic_id INTEGER,\n            topic_name VARCHAR(255),\n            text TEXT,\n            cat_id INTEGER,\n            subcat_id INTEGER\n        )",
+      "ruqyah_videos": "CREATE TABLE ruqyah_videos (\n            id INTEGER PRIMARY KEY,\n            name VARCHAR(255) NOT NULL,\n            author VARCHAR(255),\n            link_id INTEGER,\n            link VARCHAR(255),\n            cat_id INTEGER,\n            subcat_id INTEGER\n        )",
+      "ids": "CREATE TABLE ids (\n            current_id INTEGER PRIMARY KEY,\n            previous_id INTEGER NOT NULL\n        )",
+      "categories": "CREATE TABLE \"categories\" (\n    id INTEGER PRIMARY KEY,\n    name VARCHAR(255) NOT NULL,\n    icon VARCHAR(255)\n, dua_count INTEGER DEFAULT 0, subcat_count INTEGER DEFAULT 0)",
+      "ruqyah_categories": "CREATE TABLE \"ruqyah_categories\" (\n    id INTEGER PRIMARY KEY,\n    type TEXT NOT NULL,\n    name VARCHAR(255) NOT NULL,\n    icon VARCHAR(255)\n)",
+      "drawer_items": "CREATE TABLE drawer_items (\n    id INTEGER PRIMARY KEY AUTOINCREMENT,\n    item_type TEXT NOT NULL,\n    title TEXT NOT NULL,\n    hero_title1 TEXT,\n    hero_title2 TEXT,\n    content TEXT NOT NULL,\n    display_order INTEGER DEFAULT 0,\n    created_at INTEGER DEFAULT 0,\n    updated_at INTEGER DEFAULT 0\n)",
+      "drawer_item_actions": "CREATE TABLE drawer_item_actions (\n    id INTEGER PRIMARY KEY AUTOINCREMENT,\n    drawer_item_id INTEGER NOT NULL,\n    action_type TEXT NOT NULL,\n    label TEXT NOT NULL,\n    icon TEXT,\n    url TEXT,\n    action_data TEXT,\n    display_order INTEGER DEFAULT 0,\n    FOREIGN KEY (drawer_item_id) REFERENCES drawer_items(id) ON DELETE CASCADE\n)",
+      "ruqyah_instants": "CREATE TABLE \"ruqyah_instants\" (\n\t\"id\"\tINTEGER,\n\t\"topic_id\"\tINTEGER,\n\t\"topic_name\"\tVARCHAR(255),\n\t\"name\"\tTEXT,\n\t\"content\"\tTEXT,\n\t\"uthmani\"\tTEXT,\n\t\"transliteration\"\tTEXT,\n\t\"translation\"\tTEXT,\n\t\"reference\"\tTEXT,\n\t\"cat_id\"\tINTEGER,\n\t\"subcat_id\"\tINTEGER,\n\t\"audio\"\tTEXT,\n\tPRIMARY KEY(\"id\")\n)"
+    },
+    "indexes": [
+      "CREATE INDEX idx_drawer_items_type ON drawer_items(item_type)",
+      "CREATE INDEX idx_drawer_items_order ON drawer_items(display_order)",
+      "CREATE INDEX idx_drawer_item_actions_item_id ON drawer_item_actions(drawer_item_id)",
+      "CREATE INDEX idx_drawer_item_actions_type ON drawer_item_actions(action_type)"
+    ]
+  },
+  "bn": {
+    "tables": {
+      "subcategories": "CREATE TABLE subcategories (\n            id INTEGER PRIMARY KEY,\n            name VARCHAR(255) NOT NULL,\n            cat_id INTEGER\n        )",
+      "duas": "CREATE TABLE duas (\n            id INTEGER PRIMARY KEY,\n            groups JSON,\n            name TEXT,\n            content TEXT,\n            uthmani TEXT,\n            indopak TEXT,\n            clean TEXT,\n            transliteration TEXT,\n            translation TEXT,\n            note TEXT,\n            reference TEXT,\n            audio INTEGER,\n            cat_id INTEGER,\n            subcat_id INTEGER\n        )",
+      "dua_infos": "CREATE TABLE dua_infos (\n            id INTEGER PRIMARY KEY,\n            name VARCHAR(255),\n            description TEXT\n        )",
+      "books": "CREATE TABLE books (\n            id INTEGER PRIMARY KEY,\n            name VARCHAR(255) NOT NULL,\n            writer VARCHAR(255),\n            translator VARCHAR(255),\n            editor VARCHAR(255)\n        )",
+      "sections": "CREATE TABLE sections (\n            id INTEGER NOT NULL,\n            book_id INTEGER NOT NULL,\n            name VARCHAR(255) NOT NULL,\n            PRIMARY KEY (id, book_id)\n        )",
+      "book_details": "CREATE TABLE book_details (\n            id INTEGER NOT NULL,\n            book_id INTEGER NOT NULL,\n            section_id INTEGER NOT NULL,\n            topic_id INTEGER,\n            topic_name VARCHAR(255),\n            description TEXT,\n            PRIMARY KEY (id, book_id, section_id)\n        )",
+      "ruqyah_subcategories": "CREATE TABLE ruqyah_subcategories (\n            id INTEGER PRIMARY KEY,\n            type TEXT NOT NULL,\n            name VARCHAR(255) NOT NULL,\n            cat_id INTEGER\n        )",
+      "ruqyah_details": "CREATE TABLE ruqyah_details (\n            id INTEGER PRIMARY KEY,\n            topic_id INTEGER,\n            topic_name VARCHAR(255),\n            text TEXT,\n            cat_id INTEGER,\n            subcat_id INTEGER\n        )",
+      "ruqyah_instants": "CREATE TABLE ruqyah_instants (\n            id INTEGER PRIMARY KEY,\n            topic_id INTEGER,\n            topic_name VARCHAR(255),\n            name TEXT,\n            content TEXT,\n            uthmani TEXT,\n            transliteration TEXT,\n            translation TEXT,\n            reference TEXT,\n            cat_id INTEGER,\n            subcat_id INTEGER\n        , audio TEXT)",
+      "ruqyah_videos": "CREATE TABLE ruqyah_videos (\n            id INTEGER PRIMARY KEY,\n            name VARCHAR(255) NOT NULL,\n            author VARCHAR(255),\n            link_id INTEGER,\n            link VARCHAR(255),\n            cat_id INTEGER,\n            subcat_id INTEGER\n        )",
+      "ids": "CREATE TABLE ids (\n            current_id INTEGER PRIMARY KEY,\n            previous_id INTEGER NOT NULL\n        )",
+      "categories": "CREATE TABLE \"categories\" (\n    id INTEGER PRIMARY KEY,\n    name VARCHAR(255) NOT NULL,\n    icon VARCHAR(255)\n, dua_count INTEGER DEFAULT 0, subcat_count INTEGER DEFAULT 0)",
+      "ruqyah_categories": "CREATE TABLE \"ruqyah_categories\" (\n    id INTEGER PRIMARY KEY,\n    type TEXT NOT NULL,\n    name VARCHAR(255) NOT NULL,\n    icon VARCHAR(255)\n)",
+      "drawer_items": "CREATE TABLE drawer_items (\n    id INTEGER PRIMARY KEY AUTOINCREMENT,\n    item_type TEXT NOT NULL,\n    title TEXT NOT NULL,\n    hero_title1 TEXT,\n    hero_title2 TEXT,\n    content TEXT NOT NULL,\n    display_order INTEGER DEFAULT 0,\n    created_at INTEGER DEFAULT 0,\n    updated_at INTEGER DEFAULT 0\n)",
+      "drawer_item_actions": "CREATE TABLE drawer_item_actions (\n    id INTEGER PRIMARY KEY AUTOINCREMENT,\n    drawer_item_id INTEGER NOT NULL,\n    action_type TEXT NOT NULL,\n    label TEXT NOT NULL,\n    icon TEXT,\n    url TEXT,\n    action_data TEXT,\n    display_order INTEGER DEFAULT 0,\n    FOREIGN KEY (drawer_item_id) REFERENCES drawer_items(id) ON DELETE CASCADE\n)"
+    },
+    "indexes": [
+      "CREATE INDEX idx_drawer_items_type ON drawer_items(item_type)",
+      "CREATE INDEX idx_drawer_items_order ON drawer_items(display_order)",
+      "CREATE INDEX idx_drawer_item_actions_item_id ON drawer_item_actions(drawer_item_id)",
+      "CREATE INDEX idx_drawer_item_actions_type ON drawer_item_actions(action_type)"
+    ]
+  }
+}
