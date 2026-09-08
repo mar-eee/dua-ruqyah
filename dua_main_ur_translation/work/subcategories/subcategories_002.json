@@ -3,7 +3,7 @@
   "chunk": "subcategories_002.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 50,
   "id_range": "51-100",
   "source_chars": 1471,
@@ -23,7 +23,7 @@
         "name": "Dua Qunut"
       },
       "target": {
-        "name": ""
+        "name": "مسنون دعائے قنوت"
       },
       "reference_bn": {
         "name": "মাসনূন কুনুত"
@@ -44,7 +44,7 @@
         "name": "Tahajjud prayer (Qiyam Al Layl)"
       },
       "target": {
-        "name": ""
+        "name": "تہجد کی نماز (قیام اللیل)"
       },
       "reference_bn": {
         "name": "তাহাজ্জুদ সালাত"
@@ -65,7 +65,7 @@
         "name": "Some special prayers"
       },
       "target": {
-        "name": ""
+        "name": "بعض خاص نمازیں"
       },
       "reference_bn": {
         "name": "বিশেষ কিছু সালাত"
@@ -86,7 +86,7 @@
         "name": "Things to do for the dead"
       },
       "target": {
-        "name": ""
+        "name": "میت کے لیے کیا کرنا چاہیے"
       },
       "reference_bn": {
         "name": "মৃৃৃতের জন্য করনীয়"
@@ -107,7 +107,7 @@
         "name": "To bury the dead"
       },
       "target": {
-        "name": ""
+        "name": "میت کو دفن کرنا"
       },
       "reference_bn": {
         "name": "মৃতকে কবরস্থ করা"
@@ -128,7 +128,7 @@
         "name": "Duas for visiting graves"
       },
       "target": {
-        "name": ""
+        "name": "زیارتِ قبور کی دعائیں"
       },
       "reference_bn": {
         "name": "কবর যিয়ারতের দোয়া সমূহ"
@@ -149,7 +149,7 @@
         "name": "Funeral prayers"
       },
       "target": {
-        "name": ""
+        "name": "نمازِ جنازہ کی دعائیں"
       },
       "reference_bn": {
         "name": "জানাযার দোয়া সমূহ"
@@ -170,7 +170,7 @@
         "name": "Duas at the child's funeral"
       },
       "target": {
-        "name": ""
+        "name": "بچے کے جنازے کی دعائیں"
       },
       "reference_bn": {
         "name": "শিশুর জানাযায় দোয়া সমূহ"
@@ -191,7 +191,7 @@
         "name": "Duas to be recited in Ramadan"
       },
       "target": {
-        "name": ""
+        "name": "رمضان میں پڑھی جانے والی دعائیں"
       },
       "reference_bn": {
         "name": "রমজানে পঠিত দোয়া সমূহ"
@@ -212,7 +212,7 @@
         "name": "Duas for Musafir"
       },
       "target": {
-        "name": ""
+        "name": "مسافر کے لیے پڑھی جانے والی دعائیں"
       },
       "reference_bn": {
         "name": "মুসাফিরের জন্য পঠিতব্য দোয়া সমূহ"
@@ -233,7 +233,7 @@
         "name": "Duas for Hajjis"
       },
       "target": {
-        "name": ""
+        "name": "حاجیوں کے لیے پڑھی جانے والی دعائیں"
       },
       "reference_bn": {
         "name": "হাজীদের জন্য পঠিতব্য দোয়া সমূহ"
@@ -254,7 +254,7 @@
         "name": "Duas for sacrificer"
       },
       "target": {
-        "name": ""
+        "name": "قربانی کرنے والے کے لیے پڑھی جانے والی دعائیں"
       },
       "reference_bn": {
         "name": "কুরবানী দানকারীর জন্য পঠিতব্য দোয়া সমূহ"
@@ -275,7 +275,7 @@
         "name": "Duas for expelling the devil and his whisperings"
       },
       "target": {
-        "name": ""
+        "name": "شیطان اور اس کے وسوسوں کو دور کرنے کی دعائیں"
       },
       "reference_bn": {
         "name": "শয়তান ও তার কুমন্ত্রণা তাড়ানোর দোয়া সমূহ"
@@ -296,7 +296,7 @@
         "name": "Prayers for the safety of the child"
       },
       "target": {
-        "name": ""
+        "name": "اولاد کی حفاظت سے متعلق دعائیں"
       },
       "reference_bn": {
         "name": "সন্তানের নিরাপত্তা সম্পর্কিত দোয়া সমূহ"
@@ -317,7 +317,7 @@
         "name": "Other prayers related to evil"
       },
       "target": {
-        "name": ""
+        "name": "شر سے متعلق دیگر دعائیں"
       },
       "reference_bn": {
         "name": "অনিষ্ট সম্পর্কিত অন্যান্য দোয়া সমূহ"
@@ -338,7 +338,7 @@
         "name": "If you feel waswasa (evil whispers) in your heart"
       },
       "target": {
-        "name": ""
+        "name": "دل میں وسوسہ محسوس ہو تو"
       },
       "reference_bn": {
         "name": "অন্তরে কুমন্ত্রণা অনুভব করলে"
@@ -359,7 +359,7 @@
         "name": "Shelter from the evils of the Dajjal"
       },
       "target": {
-        "name": ""
+        "name": "دجال کے شر سے پناہ"
       },
       "reference_bn": {
         "name": "দাজ্জালের অনিষ্ট থেকে আশ্রয়"
@@ -380,7 +380,7 @@
         "name": "When angry"
       },
       "target": {
-        "name": ""
+        "name": "غصے کی حالت میں پڑھی جانے والی دعائیں"
       },
       "reference_bn": {
         "name": "রাগান্বিত অবস্থায় দোয়া সমূহ"
@@ -401,7 +401,7 @@
         "name": "Istigfaar which are mentioned in Hadith"
       },
       "target": {
-        "name": ""
+        "name": "وہ استغفار جو حدیث میں وارد ہوئے ہیں"
       },
       "reference_bn": {
         "name": "যেসকল ইস্তেগফার হাদীসে বর্ণিত হয়েছে"
@@ -422,7 +422,7 @@
         "name": "The best prayer for forgiveness - Sayyidul Istigfar"
       },
       "target": {
-        "name": ""
+        "name": "مغفرت کی بہترین دعا — سیّد الاستغفار"
       },
       "reference_bn": {
         "name": "ক্ষমা প্রার্থনার শ্রেষ্ঠ দোয়া - সাইয়্যেদুল ইস্তিগফার"
@@ -443,7 +443,7 @@
         "name": "The words of the Qur'an and Hadith about repentance"
       },
       "target": {
-        "name": ""
+        "name": "توبہ کے بارے میں قرآن و حدیث کے ارشادات"
       },
       "reference_bn": {
         "name": "তাওবার ব্যপারে কুরআন ও হাদীসের বাণী"
@@ -464,7 +464,7 @@
         "name": "Sermon of Marriage"
       },
       "target": {
-        "name": ""
+        "name": "خطبۂ نکاح"
       },
       "reference_bn": {
         "name": "বিয়ের খুতবা"
@@ -485,7 +485,7 @@
         "name": "Blessings after marriage"
       },
       "target": {
-        "name": ""
+        "name": "نکاح کے بعد کی دعائیں"
       },
       "reference_bn": {
         "name": "বিবাহ পরবর্তী দোয়া সমূহ"
@@ -506,7 +506,7 @@
         "name": "Duas related to the newborn"
       },
       "target": {
-        "name": ""
+        "name": "نومولود سے متعلق دعائیں"
       },
       "reference_bn": {
         "name": "নবজাতক সম্পর্কিত দোয়া সমূহ"
@@ -527,7 +527,7 @@
         "name": "Duas regarding to the family"
       },
       "target": {
-        "name": ""
+        "name": "اہلِ خانہ کے لیے پڑھی جانے والی دعائیں"
       },
       "reference_bn": {
         "name": "পরিবারের জন্য পঠিতব্য দোয়া সমূহ"
@@ -548,7 +548,7 @@
         "name": "Duas for settling debt"
       },
       "target": {
-        "name": ""
+        "name": "قرض سے نجات کی دعائیں"
       },
       "reference_bn": {
         "name": "ঋণমুক্তির দোয়া সমূহ"
@@ -569,7 +569,7 @@
         "name": "Duas for distressed"
       },
       "target": {
-        "name": ""
+        "name": "پریشان حال کے لیے پڑھی جانے والی دعائیں"
       },
       "reference_bn": {
         "name": "দুশ্চিন্তাগ্রস্তের জন্য পঠিতব্য দোয়া সমূহ"
@@ -590,7 +590,7 @@
         "name": "Duas in the time of hopelessness"
       },
       "target": {
-        "name": ""
+        "name": "ناکامی کے وقت کی دعائیں"
       },
       "reference_bn": {
         "name": "ব্যর্থতার সময়ের দোয়া সমূহ"
@@ -611,7 +611,7 @@
         "name": "Duas in the time of fearing of harm"
       },
       "target": {
-        "name": ""
+        "name": "نقصان کے اندیشے کے وقت کی دعائیں"
       },
       "reference_bn": {
         "name": "ক্ষতির আশঙ্কার সময়ের দোয়া সমূহ"
@@ -632,7 +632,7 @@
         "name": "Duas to be recited when one is in danger"
       },
       "target": {
-        "name": ""
+        "name": "مصیبت و تکلیف میں مبتلا ہونے پر پڑھی جانے والی دعائیں"
       },
       "reference_bn": {
         "name": "বিপদ-কষ্টে নিপতিত হলে পঠিতব্য দোয়া সমূহ"
@@ -653,7 +653,7 @@
         "name": "Duas to be recited in condemnation and praise"
       },
       "target": {
-        "name": ""
+        "name": "مذمت و تعریف کے موقع پر پڑھی جانے والی دعائیں"
       },
       "reference_bn": {
         "name": "নিন্দায় ও প্রশংসায় পঠিতব্য দোয়া সমূহ"
@@ -674,7 +674,7 @@
         "name": "Duas to be recited for the welfare of others"
       },
       "target": {
-        "name": ""
+        "name": "دوسروں کی خیرخواہی کے لیے پڑھی جانے والی دعائیں"
       },
       "reference_bn": {
         "name": "অপরের কল্যাণ কামনায় পঠিতব্য দোয়া সমূহ"
@@ -695,7 +695,7 @@
         "name": "Etiquette in sneezing and yawn"
       },
       "target": {
-        "name": ""
+        "name": "چھینک اور جمائی کے آداب"
       },
       "reference_bn": {
         "name": "হাঁচি ও হাই তোলার ক্ষেত্রে শিষ্টাচার"
@@ -716,7 +716,7 @@
         "name": "Duas for sneezing"
       },
       "target": {
-        "name": ""
+        "name": "چھینک کے آداب و دعائیں"
       },
       "reference_bn": {
         "name": "হাঁচির আদব ও দোয়া সমূহ"
@@ -737,7 +737,7 @@
         "name": "Duas at the end of the meeting"
       },
       "target": {
-        "name": ""
+        "name": "مجلس کے اختتام کی دعا"
       },
       "reference_bn": {
         "name": "মজলিস / বৈঠক শেষের দোয়া"
@@ -758,7 +758,7 @@
         "name": "Duas recited upon seeing something pleasant or harmful"
       },
       "target": {
-        "name": ""
+        "name": "خوشگوار یا نقصان دہ چیز دیکھنے پر پڑھی جانے والی دعائیں"
       },
       "reference_bn": {
         "name": "আনন্দদায়ক অথবা ক্ষতিকারক কিছু দেখলে পঠিতব্য দোয়া সমূহ"
@@ -779,7 +779,7 @@
         "name": "Duas about praise"
       },
       "target": {
-        "name": ""
+        "name": "تعریف کے بارے میں دعائیں"
       },
       "reference_bn": {
         "name": "প্রশংসা বিষয়ে দোয়া সমূহ"
@@ -800,7 +800,7 @@
         "name": "Etiquette of salutation"
       },
       "target": {
-        "name": ""
+        "name": "سلام کے آداب"
       },
       "reference_bn": {
         "name": "সালাম বিষয়ক আদব"
@@ -821,7 +821,7 @@
         "name": "Duas on various manners and etiquettes"
       },
       "target": {
-        "name": ""
+        "name": "مختلف آداب و اخلاق سے متعلق دعائیں"
       },
       "reference_bn": {
         "name": "বিবিধ আদব ও শিষ্টাচার বিষয়ক দোয়া সমূহ"
@@ -842,7 +842,7 @@
         "name": "Dua for a person in meeting"
       },
       "target": {
-        "name": ""
+        "name": "مجلس میں بیٹھنے والے کے لیے پڑھی جانے والی دعائیں"
       },
       "reference_bn": {
         "name": "বৈঠককারীর জন্য পঠিতব্য দোয়া সমূহ"
@@ -863,7 +863,7 @@
         "name": "Etiquette of taking food and drink"
       },
       "target": {
-        "name": ""
+        "name": "کھانے پینے کے آداب"
       },
       "reference_bn": {
         "name": "খাবার ও পানীয় গ্রহণের শিষ্টাচার"
@@ -884,7 +884,7 @@
         "name": "Prayers at the beginning of the meal"
       },
       "target": {
-        "name": ""
+        "name": "کھانے کے آغاز کی دعائیں"
       },
       "reference_bn": {
         "name": "খাওয়ার শুরুতে দোয়া সমূহ"
@@ -905,7 +905,7 @@
         "name": "If forget to mention the name of Allah in the beginning"
       },
       "target": {
-        "name": ""
+        "name": "شروع میں اللہ کا نام لینا بھول جائے تو"
       },
       "reference_bn": {
         "name": "শুরুতে আল্লাহ্‌র নাম বলতে ভুলে গেলে"
@@ -926,7 +926,7 @@
         "name": "Dua between eating and drinking"
       },
       "target": {
-        "name": ""
+        "name": "کھانے اور پینے کے درمیان کی دعا"
       },
       "reference_bn": {
         "name": "খাওয়া ও পান করার মাঝের দোয়া"
@@ -947,7 +947,7 @@
         "name": "Duas at the end of the meal"
       },
       "target": {
-        "name": ""
+        "name": "کھانے کے بعد کی دعائیں"
       },
       "reference_bn": {
         "name": "খাওয়া শেষে দোয়া সমূহ"
@@ -968,7 +968,7 @@
         "name": "Dua by the guest for the host"
       },
       "target": {
-        "name": ""
+        "name": "کھلانے پلانے والے کے لیے دعا"
       },
       "reference_bn": {
         "name": "যে পানাহার করালো তার জন্য দোয়া"
@@ -989,7 +989,7 @@
         "name": "Duas regarding to animals"
       },
       "target": {
-        "name": ""
+        "name": "جانوروں اور پرندوں سے متعلق دعائیں"
       },
       "reference_bn": {
         "name": "পশু-পাখি সম্পর্কিত দোয়া সমূহ"
@@ -1010,7 +1010,7 @@
         "name": "Duas related to nature"
       },
       "target": {
-        "name": ""
+        "name": "قدرتی مظاہر سے متعلق دعائیں"
       },
       "reference_bn": {
         "name": "প্রকৃতি সম্পর্কিত দোয়া সমূহ"
@@ -1031,7 +1031,7 @@
         "name": "Duas for the sick person"
       },
       "target": {
-        "name": ""
+        "name": "بیمار شخص کے لیے دعائیں"
       },
       "reference_bn": {
         "name": "অসুস্থ ব্যক্তির জন্য দোয়া সমূহ"
@@ -1052,7 +1052,7 @@
         "name": "Duas for the dead person"
       },
       "target": {
-        "name": ""
+        "name": "میت کے لیے دعائیں"
       },
       "reference_bn": {
         "name": "মৃত ব্যক্তির জন্য দোয়া সমূহ"

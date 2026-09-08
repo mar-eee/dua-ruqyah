@@ -3,7 +3,8 @@
     "Fill in `canonical` BEFORE translating anything. One term, one rendering, for the whole language.",
     "verify.py enforces it: if a source field mentions the term on the left, the translation must contain the value on the right.",
     "Leave a value empty to switch that check off.",
-    "`watch_variants` is for spellings that drifted in a previous language. Add any you catch; verify.py reports when more than one is used."
+    "`watch_variants` is for spellings that drifted in a previous language. Add any you catch; verify.py reports when more than one is used.",
+    "`overrides` switches the canonical-term check off for one field, when the ENGLISH source is itself wrong. Give a reason."
   ],
   "language": "TARGET",
   "canonical": {
@@ -30,5 +31,6 @@
     "Ahmad": "",
     "Nasa'i": ""
   },
-  "watch_variants": {}
+  "watch_variants": {},
+  "overrides": {}
 }

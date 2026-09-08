@@ -3,7 +3,7 @@
   "chunk": "subcategories_001.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 50,
   "id_range": "1-50",
   "source_chars": 1514,
@@ -23,7 +23,7 @@
         "name": "The servant is dependent on his Lord"
       },
       "target": {
-        "name": ""
+        "name": "بندہ اپنے رب کا محتاج ہے"
       },
       "reference_bn": {
         "name": "বান্দা তার রবের মুখাপেক্ষী"
@@ -44,7 +44,7 @@
         "name": "The most important thing to ask Allah for"
       },
       "target": {
-        "name": ""
+        "name": "اللہ سے مانگنے کی سب سے اہم چیز"
       },
       "reference_bn": {
         "name": "আল্লাহ্‌র কাছে যে জিনিসটি চাওয়া সবচাইতে বেশি গুরুত্বপূর্ণ"
@@ -65,7 +65,7 @@
         "name": "Ask for paradise & protection from fire"
       },
       "target": {
-        "name": ""
+        "name": "جنت کا حصول اور جہنم سے نجات"
       },
       "reference_bn": {
         "name": "জান্নাত লাভ ও জাহান্নাম থেকে রেহাই"
@@ -86,7 +86,7 @@
         "name": "Dua to remain steadfast on the religion"
       },
       "target": {
-        "name": ""
+        "name": "دین پر ثابت قدمی کی دعا"
       },
       "reference_bn": {
         "name": "দ্বীনের উপর অটল থাকার দোয়া"
@@ -107,7 +107,7 @@
         "name": "Dua of good outcome in all deeds"
       },
       "target": {
-        "name": ""
+        "name": "تمام کاموں میں بہتر انجام کی دعا"
       },
       "reference_bn": {
         "name": "সকল কাজে উত্তম পরিণতির দোয়া"
@@ -128,7 +128,7 @@
         "name": "Seeking whatever good Allah can bestow"
       },
       "target": {
-        "name": ""
+        "name": "اللہ سے نعمت و فضل کی دعا"
       },
       "reference_bn": {
         "name": "নিয়ামাত বা অনুগ্রহের প্রার্থনা"
@@ -149,7 +149,7 @@
         "name": "Shelter from horror, misery, evil consequences and rejoicing of the enemy"
       },
       "target": {
-        "name": ""
+        "name": "ہولناکی، بدحالی، برے انجام اور دشمن کی خوشی سے پناہ"
       },
       "reference_bn": {
         "name": "বিভীষিকা, দুর্দশা, মন্দ পরিণতি ও শত্রুর উল্লাস থেকে আশ্রয়"
@@ -170,7 +170,7 @@
         "name": "Excellence of doing Tasbeeh, Tahmid, Tahlil, Takbeer"
       },
       "target": {
-        "name": ""
+        "name": "تسبیح، تحمید، تہلیل اور تکبیر کی فضیلت"
       },
       "reference_bn": {
         "name": "তাসবীহ, তাহমীদ, তাহলীল ও তাকবীর-এর ফযীলত"
@@ -191,7 +191,7 @@
         "name": "Times and places when dua will be accepted"
       },
       "target": {
-        "name": ""
+        "name": "قبولیتِ دعا کے اوقات و مقامات"
       },
       "reference_bn": {
         "name": "দোয়া কবুলের সময় ও স্থান সমূহ"
@@ -212,7 +212,7 @@
         "name": "Those whose duas are accepted"
       },
       "target": {
-        "name": ""
+        "name": "جن لوگوں کی دعا قبول ہوتی ہے"
       },
       "reference_bn": {
         "name": "যাদের দোয়া কবুল হয়"
@@ -233,7 +233,7 @@
         "name": "Excellence of dua in the morning & evening"
       },
       "target": {
-        "name": ""
+        "name": "صبح و شام کے ذکر و دعا کی فضیلت"
       },
       "reference_bn": {
         "name": "সকাল-সন্ধ্যার যিক্‌রের ফযীলত"
@@ -254,7 +254,7 @@
         "name": "Morning & Evening Adhkar"
       },
       "target": {
-        "name": ""
+        "name": "صبح و شام کے اذکار"
       },
       "reference_bn": {
         "name": "সকাল-সন্ধ্যার যিক্‌র"
@@ -275,7 +275,7 @@
         "name": "Dhikr in busy state"
       },
       "target": {
-        "name": ""
+        "name": "مصروفیت کی حالت میں ذکر"
       },
       "reference_bn": {
         "name": "কর্মব্যস্ত অবস্থার যিক্‌র"
@@ -296,7 +296,7 @@
         "name": "Before sleep"
       },
       "target": {
-        "name": ""
+        "name": "سونے سے پہلے"
       },
       "reference_bn": {
         "name": "ঘুমানোর আগে"
@@ -317,7 +317,7 @@
         "name": "After waking up"
       },
       "target": {
-        "name": ""
+        "name": "بیدار ہونے کے بعد"
       },
       "reference_bn": {
         "name": "ঘুম ভাঙার পরে"
@@ -338,7 +338,7 @@
         "name": "Duas related to wearing clothes"
       },
       "target": {
-        "name": ""
+        "name": "لباس پہننے سے متعلق دعائیں"
       },
       "reference_bn": {
         "name": "কাপড় পরিধান সম্পর্কিত দোয়া সমূহ"
@@ -359,7 +359,7 @@
         "name": "When leaving the home"
       },
       "target": {
-        "name": ""
+        "name": "گھر سے نکلتے وقت"
       },
       "reference_bn": {
         "name": "বাড়ি থেকে বের হওয়া"
@@ -380,7 +380,7 @@
         "name": "Upon entering the home"
       },
       "target": {
-        "name": ""
+        "name": "گھر میں داخل ہوتے وقت"
       },
       "reference_bn": {
         "name": "বাড়িতে প্রবেশ"
@@ -401,7 +401,7 @@
         "name": "Duas related to toilets"
       },
       "target": {
-        "name": ""
+        "name": "بیت الخلاء سے متعلق دعائیں"
       },
       "reference_bn": {
         "name": "টয়লেট সম্পর্কিত দোয়া সমূহ"
@@ -422,7 +422,7 @@
         "name": "Dua while hearing the adhaan"
       },
       "target": {
-        "name": ""
+        "name": "اذان سنتے وقت کی دعا"
       },
       "reference_bn": {
         "name": "আযানের সময় যা বলতে হবে"
@@ -443,7 +443,7 @@
         "name": "Dua after the adhaan"
       },
       "target": {
-        "name": ""
+        "name": "اذان کے بعد کی دعا"
       },
       "reference_bn": {
         "name": "আযানের পরে যা বলতে হবে"
@@ -464,7 +464,7 @@
         "name": "Dua between Adhaan and Iqamah"
       },
       "target": {
-        "name": ""
+        "name": "اذان و اقامت کے درمیان کی دعا"
       },
       "reference_bn": {
         "name": "আযান ও ইক্বামতের মধ্যবর্তী সময় দোয়া"
@@ -485,7 +485,7 @@
         "name": "Dua for Imam and Mu'adhdhin"
       },
       "target": {
-        "name": ""
+        "name": "امام و مؤذن کے لیے دعا"
       },
       "reference_bn": {
         "name": "ইমাম ও মুআযযিনের জন্য দোয়া"
@@ -506,7 +506,7 @@
         "name": "When starting ablution"
       },
       "target": {
-        "name": ""
+        "name": "وضو کے آغاز میں"
       },
       "reference_bn": {
         "name": "ওযূর শুরুতে"
@@ -527,7 +527,7 @@
         "name": "Upon completing the ablution"
       },
       "target": {
-        "name": ""
+        "name": "وضو مکمل کرنے کے بعد"
       },
       "reference_bn": {
         "name": "ওযূ শেষে"
@@ -548,7 +548,7 @@
         "name": "Going to the mosque"
       },
       "target": {
-        "name": ""
+        "name": "مسجد جاتے وقت"
       },
       "reference_bn": {
         "name": "মসজিদে যাওয়ার সময়"
@@ -569,7 +569,7 @@
         "name": "Entering the mosque"
       },
       "target": {
-        "name": ""
+        "name": "مسجد میں داخل ہوتے وقت"
       },
       "reference_bn": {
         "name": "মসজিদে প্রবেশ"
@@ -590,7 +590,7 @@
         "name": "Getting out of the mosque"
       },
       "target": {
-        "name": ""
+        "name": "مسجد سے نکلتے وقت"
       },
       "reference_bn": {
         "name": "মসজিদ থেকে বের হওয়া"
@@ -611,7 +611,7 @@
         "name": "Announcement of lost things in the mosque"
       },
       "target": {
-        "name": ""
+        "name": "مسجد میں گمشدہ چیز کا اعلان"
       },
       "reference_bn": {
         "name": "মসজিদে হারানো বিজ্ঞপ্তি দেওয়া"
@@ -632,7 +632,7 @@
         "name": "Trading in the mosque"
       },
       "target": {
-        "name": ""
+        "name": "مسجد میں خرید و فروخت"
       },
       "reference_bn": {
         "name": "মসজিদে বেচাকেনা করা"
@@ -653,7 +653,7 @@
         "name": "Duas After Takbeer (Start of prayer)"
       },
       "target": {
-        "name": ""
+        "name": "تکبیرِ تحریمہ کے بعد کی دعائیں"
       },
       "reference_bn": {
         "name": "তাকবীরে তাহরীমার পর পঠিত দোয়া সমূহ"
@@ -674,7 +674,7 @@
         "name": "If afflicted by whisperings in prayer or recitation"
       },
       "target": {
-        "name": ""
+        "name": "نماز میں شیطانی وسوسے سے بچنے کی دعا"
       },
       "reference_bn": {
         "name": "সালাতের মাঝে শয়তানের কুমন্ত্রণা হতে বাঁচার দোয়া"
@@ -695,7 +695,7 @@
         "name": "Duas in rukoo"
       },
       "target": {
-        "name": ""
+        "name": "رکوع کی دعائیں"
       },
       "reference_bn": {
         "name": "রুকুর দোয়া সমূহ"
@@ -716,7 +716,7 @@
         "name": "Upon rising from rukoo"
       },
       "target": {
-        "name": ""
+        "name": "رکوع سے اٹھنے کی دعا"
       },
       "reference_bn": {
         "name": "রুকু থেকে উঠার দোয়া"
@@ -737,7 +737,7 @@
         "name": "Duas while in a state of rukoo"
       },
       "target": {
-        "name": ""
+        "name": "رکوع کے بعد قومہ کی دعائیں"
       },
       "reference_bn": {
         "name": "রুকুর পরে দণ্ডায়মান অবস্থায় দোয়া সমূহ"
@@ -758,7 +758,7 @@
         "name": "Duas in prostration [sujood]"
       },
       "target": {
-        "name": ""
+        "name": "سجدے کی دعائیں"
       },
       "reference_bn": {
         "name": "সিজদায় পঠিতব্য দোয়া সমূহ"
@@ -779,7 +779,7 @@
         "name": "Duas in between two prostrations"
       },
       "target": {
-        "name": ""
+        "name": "دو سجدوں کے درمیان کی دعائیں"
       },
       "reference_bn": {
         "name": "দুই সিজদার মধ্যবর্তী দোয়া সমূহ"
@@ -800,7 +800,7 @@
         "name": "Prostration due to Quran recitation"
       },
       "target": {
-        "name": ""
+        "name": "قرآن کی آیتِ سجدہ پڑھ کر سجدہ کرنے کی فضیلت"
       },
       "reference_bn": {
         "name": "সিজদার আয়াত পড়ে সিজদা দেওয়ার মহত্ত্ব"
@@ -821,7 +821,7 @@
         "name": "The Tashahhud"
       },
       "target": {
-        "name": ""
+        "name": "تشہد (قعدہ کی دعا)"
       },
       "reference_bn": {
         "name": "তাশাহুদ বা বৈঠকের দোয়া"
@@ -842,7 +842,7 @@
         "name": "Prayers upon the Prophet (ﷺ) after tashahhud"
       },
       "target": {
-        "name": ""
+        "name": "تشہد کے بعد درود شریف (قعدۂ اخیرہ)"
       },
       "reference_bn": {
         "name": "রাসূল (ﷺ)-এর প্রতি দরূদ (শেষ বৈঠক)"
@@ -863,7 +863,7 @@
         "name": "Duas after the last tashahhud & before salam"
       },
       "target": {
-        "name": ""
+        "name": "آخری تشہد کے بعد اور سلام سے پہلے کی دعائیں (دعائے ماثورہ)"
       },
       "reference_bn": {
         "name": "তাশাহুদের পর সালাম ফেরানোর আগে দোয়া সমূহ (দোয়া মাসূরা)"
@@ -884,7 +884,7 @@
         "name": "Duas in salat"
       },
       "target": {
-        "name": ""
+        "name": "نماز کے دوران کی دعائیں"
       },
       "reference_bn": {
         "name": "সালাতের মধ্যে দোয়া"
@@ -905,7 +905,7 @@
         "name": "Duas after Fajr and Maghrib"
       },
       "target": {
-        "name": ""
+        "name": "فجر و مغرب کے بعد کی دعائیں"
       },
       "reference_bn": {
         "name": "ফজর ও মাগরিবের পরের দোয়া সমূহ"
@@ -926,7 +926,7 @@
         "name": "Masnun Dhikr after obligatory prayers"
       },
       "target": {
-        "name": ""
+        "name": "فرض نمازوں کے بعد مسنون ذکر و مناجات"
       },
       "reference_bn": {
         "name": "ফরয সালাতের পরে মাসনূন দোয়া-মুনাজাত"
@@ -947,7 +947,7 @@
         "name": "Duas after salaam"
       },
       "target": {
-        "name": ""
+        "name": "سلام پھیرنے کے بعد پڑھی جانے والی دعائیں"
       },
       "reference_bn": {
         "name": "সালাম ফিরানোর পর পঠিতব্য দোয়া সমূহ"
@@ -968,7 +968,7 @@
         "name": "Dua after Fajr prayer"
       },
       "target": {
-        "name": ""
+        "name": "فجر کی نماز کے بعد کی دعا"
       },
       "reference_bn": {
         "name": "ফজরের সালাতের পর দোয়া"
@@ -989,7 +989,7 @@
         "name": "Other duas related to salat"
       },
       "target": {
-        "name": ""
+        "name": "نماز سے متعلق دیگر دعائیں"
       },
       "reference_bn": {
         "name": "সালাত সম্পর্কিত অন্যান্য দোয়া সমূহ"
@@ -1010,7 +1010,7 @@
         "name": "Dua for starting Tahajjud prayer"
       },
       "target": {
-        "name": ""
+        "name": "تہجد کی نماز شروع کرنے کی دعا"
       },
       "reference_bn": {
         "name": "তাহাজ্জুদ সালাত শুরুর দোয়া"
@@ -1031,7 +1031,7 @@
         "name": "Dua of Witr prayer"
       },
       "target": {
-        "name": ""
+        "name": "وتر کی دعا و اذکار"
       },
       "reference_bn": {
         "name": "বিতরের যিক্‌র"
@@ -1052,7 +1052,7 @@
         "name": "The Surahs that the Prophet (ﷺ) used to recite in the Witr prayer"
       },
       "target": {
-        "name": ""
+        "name": "وہ سورتیں جو رسول اللہ ﷺ نمازِ وتر میں پڑھتے تھے"
       },
       "reference_bn": {
         "name": "বিতর সালাতে রাসূল (ﷺ) যেসকল সূরা পড়তেন"

@@ -3,7 +3,8 @@
     "Fill in `canonical` BEFORE translating anything. One term, one rendering, for the whole language.",
     "verify.py enforces it: if a source field mentions the term on the left, the translation must contain the value on the right.",
     "Leave a value empty to switch that check off.",
-    "`watch_variants` is for spellings that drifted in a previous language. Add any you catch; verify.py reports when more than one is used."
+    "`watch_variants` is for spellings that drifted in a previous language. Add any you catch; verify.py reports when more than one is used.",
+    "`overrides` switches the canonical-term check off for one field, when the ENGLISH source is itself wrong. Give a reason."
   ],
   "language": "ur",
   "canonical": {
@@ -17,18 +18,49 @@
     "ruqyah": "رقیہ",
     "jinn": "جن",
     "sihr": "سحر",
-    "evil eye": "",
+    "evil eye": "نظرِ بد",
     "dhikr": "ذکر",
     "sunnah": "سنت",
-    "Aisha": "",
-    "Abu Hurayra": "",
+    "Aisha": "عائشہ",
+    "Abu Hurayra": "ابو ہریرہ",
     "Bukhari": "بخاری",
     "Muslim": "مسلم",
     "Abu Dawud": "ابو داؤد",
     "Tirmidhi": "ترمذی",
     "Ibn Majah": "ابن ماجہ",
     "Ahmad": "احمد",
-    "Nasa'i": ""
+    "Nasa'i": "نسائی"
   },
-  "watch_variants": {}
+  "watch_variants": {},
+  "overrides": {
+    "categories.name.2": "English says \"Dua's Excellence\", but this category holds Tasbeeh/Tahmid/Tahlil/Takbeer, and the Bengali says dhikr. Translated as dhikr."
+  },
+  "settled_wording": {
+    "salah / prayer": "نماز",
+    "dhikr": "ذکر",
+    "adhkar": "اذکار",
+    "dua": "دعا",
+    "istighfar": "استغفار",
+    "tawbah": "توبہ",
+    "sajdah": "سجدہ",
+    "rukoo": "رکوع",
+    "qawmah (standing after rukoo)": "قومہ",
+    "tashahhud": "تشہد",
+    "durood": "درود شریف",
+    "Companions": "صحابہ کرام",
+    "the Prophets and Messengers": "انبیاء و رُسل",
+    "Messenger of Allah": "رسول اللہ ﷺ",
+    "Shaytan": "شیطان",
+    "waswasa": "وسوسہ",
+    "janazah": "نمازِ جنازہ",
+    "the deceased": "میت",
+    "masnun": "مسنون",
+    "duas to be recited for X": "X کے لیے پڑھی جانے والی دعائیں"
+  },
+  "_notes": [
+    "Categories and subcategories were translated from the English WITH the Bengali (reference_bn) beside it.",
+    "Where the two disagree the Bengali was followed, because it matches what the category actually contains.",
+    "Example: category 2 is \"Dua's Excellence\" in English but holds Tasbeeh/Tahmid/Tahlil/Takbeer, which is dhikr - the Bengali says dhikr, so the Urdu says ذکر.",
+    "Example: category 37 is \"Prophet's Dua\" in English but contains the duas of Adam, Ayyub and Yunus (AS) - the Bengali plural was followed: انبیاء و رُسل."
+  ]
 }

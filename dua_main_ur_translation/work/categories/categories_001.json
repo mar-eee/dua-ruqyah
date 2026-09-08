@@ -48,7 +48,7 @@
         "name": "Dua's Excellence"
       },
       "target": {
-        "name": "دعا کی فضیلت"
+        "name": "ذکر کی فضیلت"
       },
       "reference_bn": {
         "name": "যিকিরের ফযীলত"
@@ -71,7 +71,7 @@
         "name": "Time of Dua"
       },
       "target": {
-        "name": "دعا کے اوقات"
+        "name": "دعا کی قبولیت کے اوقات"
       },
       "reference_bn": {
         "name": "দোয়া কবুলের সময়"
@@ -117,7 +117,7 @@
         "name": "Morning & Evening"
       },
       "target": {
-        "name": "صبح و شام"
+        "name": "صبح و شام کے اذکار"
       },
       "reference_bn": {
         "name": "সকাল-সন্ধ্যার যিক্‌র"
@@ -163,7 +163,7 @@
         "name": "Cloths"
       },
       "target": {
-        "name": "لباس"
+        "name": "لباس پہننا"
       },
       "reference_bn": {
         "name": "কাপড় পরিধান"
@@ -324,7 +324,7 @@
         "name": "Witr & Other"
       },
       "target": {
-        "name": "وتر و دیگر"
+        "name": "وتر و دیگر نمازیں"
       },
       "reference_bn": {
         "name": "বিতর ও অন্যান্য সালাত"
@@ -347,7 +347,7 @@
         "name": "Grave / Funeral"
       },
       "target": {
-        "name": "قبر و جنازہ"
+        "name": "میت / قبر / جنازہ"
       },
       "reference_bn": {
         "name": "মৃত / কবর / জানাযা"
@@ -370,7 +370,7 @@
         "name": "Fasting"
       },
       "target": {
-        "name": "روزہ"
+        "name": "روزہ و افطار"
       },
       "reference_bn": {
         "name": "সিয়াম ও ইফতার"
@@ -462,7 +462,7 @@
         "name": "Evil Protection"
       },
       "target": {
-        "name": "شر سے حفاظت"
+        "name": "شیطان سے پناہ"
       },
       "reference_bn": {
         "name": "শয়তান থেকে আশ্রয়"
@@ -485,7 +485,7 @@
         "name": "Forgiveness"
       },
       "target": {
-        "name": "مغفرت"
+        "name": "توبہ و استغفار"
       },
       "reference_bn": {
         "name": "তাওবা-ইসতিগফার"
@@ -531,7 +531,7 @@
         "name": "Family"
       },
       "target": {
-        "name": "اہلِ خانہ"
+        "name": "اہلِ خانہ کی دعائیں"
       },
       "reference_bn": {
         "name": "পারিবারিক দোয়া"
@@ -577,7 +577,7 @@
         "name": "Anxiety"
       },
       "target": {
-        "name": "پریشانی"
+        "name": "غم و پریشانی"
       },
       "reference_bn": {
         "name": "দুশ্চিন্তা ও পেরেশানি"
@@ -600,7 +600,7 @@
         "name": "Danger"
       },
       "target": {
-        "name": "خطرہ"
+        "name": "دشمنی / مصیبت / ظلم"
       },
       "reference_bn": {
         "name": "শক্রতা / বিপদাপদ / জুলুম"
@@ -623,7 +623,7 @@
         "name": "Condemnation/Praise"
       },
       "target": {
-        "name": "مذمت و تعریف"
+        "name": "مذمت و خیرخواہی"
       },
       "reference_bn": {
         "name": "নিন্দা / কল্যাণ কামনা"
@@ -646,7 +646,7 @@
         "name": "Manners"
       },
       "target": {
-        "name": "آداب"
+        "name": "آداب و اخلاق"
       },
       "reference_bn": {
         "name": "আদব-শিষ্টাচার"
@@ -669,7 +669,7 @@
         "name": "Gathering"
       },
       "target": {
-        "name": "مجلس"
+        "name": "مجلس میں بیٹھتے وقت"
       },
       "reference_bn": {
         "name": "বৈঠকে বসলে"
@@ -692,7 +692,7 @@
         "name": "Food"
       },
       "target": {
-        "name": "کھانا"
+        "name": "کھانا / مہمان نوازی"
       },
       "reference_bn": {
         "name": "খাদ্য / মেহমানদারি"
@@ -715,7 +715,7 @@
         "name": "Animals"
       },
       "target": {
-        "name": "جانور"
+        "name": "جانور و پرندے"
       },
       "reference_bn": {
         "name": "পশু-পাখি"
@@ -738,7 +738,7 @@
         "name": "Rain/Nature"
       },
       "target": {
-        "name": "بارش و قدرت"
+        "name": "آندھی / بارش / قدرتی مظاہر"
       },
       "reference_bn": {
         "name": "ঝড় / বৃষ্টি / প্রকৃতি"
@@ -761,7 +761,7 @@
         "name": "Sickness"
       },
       "target": {
-        "name": "بیماری"
+        "name": "بیماری و علاج"
       },
       "reference_bn": {
         "name": "অসুস্থতা ও চিকিৎসা"
@@ -784,7 +784,7 @@
         "name": "Jinn/Diseases"
       },
       "target": {
-        "name": "جن و امراض"
+        "name": "جن / جادو و امراض"
       },
       "reference_bn": {
         "name": "জ্বিন / জাদু ও রোগ"
@@ -853,7 +853,7 @@
         "name": "Prophet's Dua"
       },
       "target": {
-        "name": "نبی ﷺ کی دعائیں"
+        "name": "انبیاء و رُسل کی دعائیں"
       },
       "reference_bn": {
         "name": "নবী-রাসূলগণের দোয়া"
@@ -899,7 +899,7 @@
         "name": "Duas of Sahaba"
       },
       "target": {
-        "name": "صحابہ کی دعائیں"
+        "name": "رسول اللہ ﷺ اور صحابہ کرام"
       },
       "reference_bn": {
         "name": "রাসূল (ﷺ) ও সাহাবীগণ"
@@ -922,7 +922,7 @@
         "name": "Masnun Duas"
       },
       "target": {
-        "name": "مسنون دعائیں"
+        "name": "بابرکت مسنون دعائیں"
       },
       "reference_bn": {
         "name": "বরকতময় মাসনূন দোয়া"
@@ -945,7 +945,7 @@
         "name": "Other Duas"
       },
       "target": {
-        "name": "دیگر دعائیں"
+        "name": "متفرق دعائیں"
       },
       "reference_bn": {
         "name": "বিবিধ দোয়া"
@@ -968,7 +968,7 @@
         "name": "When to say what"
       },
       "target": {
-        "name": "کب کیا کہنا ہے"
+        "name": "کب کیا کہنا سنت ہے"
       },
       "reference_bn": {
         "name": "কখন কি বলা সুন্নাহ"

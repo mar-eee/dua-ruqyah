@@ -33,11 +33,11 @@ CORRUPTION = [
 def load_glossary():
     p = os.path.join(BASE, 'GLOSSARY.json')
     if not os.path.exists(p):
-        return {}, {}
+        return {}, {}, {}
     with open(p, encoding='utf-8') as f:
         g = json.load(f)
     canonical = {k: v for k, v in g.get('canonical', {}).items() if v}
-    return canonical, g.get('watch_variants', {})
+    return canonical, g.get('watch_variants', {}), g.get('overrides', {})
 
 
 def files_for(arg):
@@ -81,7 +81,7 @@ def check_pair(where, src, tgt, problems):
 
 def main():
     arg = sys.argv[1] if len(sys.argv) > 1 else None
-    canonical, watch = load_glossary()
+    canonical, watch, overrides = load_glossary()
     problems, seen_terms = [], collections.defaultdict(collections.Counter)
     n_files = n_items = n_done = 0
 
@@ -107,6 +107,8 @@ def main():
                 if t:
                     n_done += 1
                     src_text = it['source'][f] or ''
+                    if f'{doc["table"]}.{f}.{it["id"]}' in overrides:
+                        continue
                     for term, want in canonical.items():
                         if re.search(r'(?<![A-Za-z])' + re.escape(term) + r'(?![A-Za-z])',
                                      src_text, re.I) and want not in t:

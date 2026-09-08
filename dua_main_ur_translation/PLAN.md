@@ -7,10 +7,10 @@ Budget 6000 source characters per file, max 50 rows, big rows split at paragraph
 
 | | Table | Files | Rows | Source chars | Source |
 |---|---|---:|---:|---:|---|
-| [ ] | `categories` | 1 | 44 | 461 | EN |
+| [x] | `categories` | 1 | 44 | 461 | EN |
 | [ ] | `ruqyah_categories` | 1 | 15 | 312 | EN |
 | [ ] | `sections` | 1 | 21 | 846 | EN |
-| [ ] | `subcategories` | 3 | 118 | 3,531 | EN |
+| [x] | `subcategories` | 3 | 118 | 3,531 | EN |
 | [ ] | `ruqyah_subcategories` | 4 | 163 | 4,805 | EN |
 | [ ] | `ruqyah_videos` | 2 | 74 | 3,884 | BN |
 | [ ] | `drawer_items` | 2 | 6 | 8,243 | BN |
@@ -28,7 +28,7 @@ Source: **EN** · fields: `name` · key: `id`
 
 | | File | Rows | IDs | Chars | Items |
 |---|---|---:|---|---:|---:|
-| [ ] | `work/categories/categories_001.json` | 44 | 1-44 | 461 | 44 |
+| [x] | `work/categories/categories_001.json` | 44 | 1-44 | 461 | 44 |
 
 ## `ruqyah_categories`
 
@@ -52,9 +52,9 @@ Source: **EN** · fields: `name` · key: `id`
 
 | | File | Rows | IDs | Chars | Items |
 |---|---|---:|---|---:|---:|
-| [ ] | `work/subcategories/subcategories_001.json` | 50 | 1-50 | 1,514 | 50 |
-| [ ] | `work/subcategories/subcategories_002.json` | 50 | 51-100 | 1,471 | 50 |
-| [ ] | `work/subcategories/subcategories_003.json` | 18 | 101-118 | 546 | 18 |
+| [x] | `work/subcategories/subcategories_001.json` | 50 | 1-50 | 1,514 | 50 |
+| [x] | `work/subcategories/subcategories_002.json` | 50 | 51-100 | 1,471 | 50 |
+| [x] | `work/subcategories/subcategories_003.json` | 18 | 101-118 | 546 | 18 |
 
 ## `ruqyah_subcategories`
 

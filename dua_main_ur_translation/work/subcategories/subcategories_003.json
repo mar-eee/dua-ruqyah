@@ -3,7 +3,7 @@
   "chunk": "subcategories_003.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 18,
   "id_range": "101-118",
   "source_chars": 546,
@@ -23,7 +23,7 @@
         "name": "Duas related to evil eye"
       },
       "target": {
-        "name": ""
+        "name": "نظرِ بد سے متعلق دعائیں"
       },
       "reference_bn": {
         "name": "বদনজর সম্পর্কিত দোয়া সমূহ"
@@ -44,7 +44,7 @@
         "name": "What to do in the treatment of Jinn, black magics and diseases"
       },
       "target": {
-        "name": ""
+        "name": "جن، جادو اور امراض کے علاج میں کیا کرنا چاہیے"
       },
       "reference_bn": {
         "name": "জ্বিন, জাদু ও রোগের চিকিৎসায় যা করণীয়"
@@ -65,7 +65,7 @@
         "name": "What to do after the possession is confirmed"
       },
       "target": {
-        "name": ""
+        "name": "جن کے اثر کی تصدیق ہو جانے کے بعد کیا کرنا چاہیے"
       },
       "reference_bn": {
         "name": "জ্বিনগ্রস্ত নিশ্চিত হওয়ার পর করণীয়"
@@ -86,7 +86,7 @@
         "name": "Duas related to the oppressed"
       },
       "target": {
-        "name": ""
+        "name": "مظلوم سے متعلق دعائیں"
       },
       "reference_bn": {
         "name": "মজলুম সম্পর্কিত দোয়া সমূহ"
@@ -107,7 +107,7 @@
         "name": "Duas for seeking forgiveness"
       },
       "target": {
-        "name": ""
+        "name": "طلبِ مغفرت سے متعلق دعائیں"
       },
       "reference_bn": {
         "name": "ক্ষমা প্রার্থনা সম্পর্কিত দোয়া সমূহ"
@@ -128,7 +128,7 @@
         "name": "General duas"
       },
       "target": {
-        "name": ""
+        "name": "عام دعائیں"
       },
       "reference_bn": {
         "name": "সাধারণ দোয়া সমূহ"
@@ -149,7 +149,7 @@
         "name": "Other duas"
       },
       "target": {
-        "name": ""
+        "name": "دیگر دعائیں"
       },
       "reference_bn": {
         "name": "অন্যান্য দোয়া সমূহ"
@@ -170,7 +170,7 @@
         "name": "Duas by the name of Allah"
       },
       "target": {
-        "name": ""
+        "name": "اللہ کے ناموں کے وسیلے سے دعائیں"
       },
       "reference_bn": {
         "name": "আল্লাহ্‌র নামের ওসীলার দোয়া সমূহ"
@@ -191,7 +191,7 @@
         "name": "The way the Prophets and the Messengers prayed"
       },
       "target": {
-        "name": ""
+        "name": "انبیاء و رُسل نے جس طرح دعا کی"
       },
       "reference_bn": {
         "name": "নবী-রাসুলগণ যেভাবে দোয়া করেছিলেন"
@@ -212,7 +212,7 @@
         "name": "How the Prophet (ﷺ) and his Companions made duas"
       },
       "target": {
-        "name": ""
+        "name": "رسول اللہ ﷺ اور صحابہ کرام نے جس طرح دعا کی"
       },
       "reference_bn": {
         "name": "রাসূল (ﷺ) এবং সাহাবীগণ যেভাবে দোয়া করেছিলেন"
@@ -233,7 +233,7 @@
         "name": "About Muhammad (ﷺ) and his Companions"
       },
       "target": {
-        "name": ""
+        "name": "محمد ﷺ اور آپ کے صحابہ کرام رضی اللہ عنہم کے بارے میں"
       },
       "reference_bn": {
         "name": "মুহাম্মাদ (ﷺ) ও তাঁর সাহাবীগণ (রাঃ) এর সম্পর্কে"
@@ -254,7 +254,7 @@
         "name": "Some duas mentioned in the hadith"
       },
       "target": {
-        "name": ""
+        "name": "حدیث میں مذکور کچھ دعائیں"
       },
       "reference_bn": {
         "name": "হাদিসে বর্ণিত কিছু দোয়া সমূহ"
@@ -275,7 +275,7 @@
         "name": "Duas on various subjects"
       },
       "target": {
-        "name": ""
+        "name": "مختلف موضوعات کی دعائیں"
       },
       "reference_bn": {
         "name": "বিবিধ বিষয়ের দোয়া সমূহ"
@@ -296,7 +296,7 @@
         "name": "Daily Sunnah sentences"
       },
       "target": {
-        "name": ""
+        "name": "روزمرہ کے سنت کلمات"
       },
       "reference_bn": {
         "name": "প্রতিদিনের সুন্নাহ বাক্য সমূহ"
@@ -317,7 +317,7 @@
         "name": "Duas related to War"
       },
       "target": {
-        "name": ""
+        "name": "جنگ سے متعلق دعائیں"
       },
       "reference_bn": {
         "name": "যুদ্ধ সম্পর্কিত দোয়া সমূহ"
@@ -338,7 +338,7 @@
         "name": "Duas to be read on the day of Eid"
       },
       "target": {
-        "name": ""
+        "name": "عید کے دن پڑھی جانے والی دعائیں"
       },
       "reference_bn": {
         "name": "ঈদের দিনে পঠিতব্য দোয়া"
@@ -359,7 +359,7 @@
         "name": "Istigfaar which are mentioned in Quran"
       },
       "target": {
-        "name": ""
+        "name": "وہ استغفار جو قرآن میں وارد ہوئے ہیں"
       },
       "reference_bn": {
         "name": "যেসকল ইস্তেগফার কুরআনে বর্ণিত হয়েছে"
@@ -380,7 +380,7 @@
         "name": "Rabbana Duas"
       },
       "target": {
-        "name": ""
+        "name": "ربَّنا دعائیں"
       },
       "reference_bn": {
         "name": "রাব্বানা দোয়াসমূহ"
