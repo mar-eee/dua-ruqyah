@@ -20,6 +20,22 @@ SCRIPT_GUARD = {'transliteration', 'reference', 'groups'}
 ARABIC  = re.compile(r'[؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿]')
 TAG     = re.compile(r'</?(?:ar1?|b|i|u|br|p)\s*/?>')
 NUMBER  = re.compile(r'\d+')
+# Digit *value* must survive, not the glyph script. A Bengali-sourced field
+# writes numbers in Bengali-Indic digits (০-৯); the translated rules
+# require ASCII digits in the target (never Urdu-Indic either). Converting
+# ১০ -> 10 is the correct, required translation - not a corruption -
+# so both sides are normalised to ASCII before the digit strings are compared.
+_DIGIT_TABLES = [
+    str.maketrans('০১২৩৪৫৬৭৮৯', '0123456789'),  # Bengali
+    str.maketrans('۰۱۲۳۴۵۶۷۸۹', '0123456789'),  # Urdu-Indic (Extended Arabic-Indic)
+    str.maketrans('٠١٢٣٤٥٦٧٨٩', '0123456789'),  # Arabic-Indic
+]
+
+
+def _ascii_digits(s):
+    for t in _DIGIT_TABLES:
+        s = s.translate(t)
+    return s
 LATIN_W = re.compile(r'(?<![A-Za-z])[A-Za-z]{4,}')
 
 # Patterns that were real machine-translation corruptions. See PLAN.md.
@@ -67,7 +83,7 @@ def check_pair(where, src, tgt, problems):
     if len(sa) > 20 and len(ta) < len(sa) * 0.8:
         problems.append((where, 'arabic text lost', f'{len(sa)} arabic chars in source, {len(ta)} in target'))
     # digits carry hadith / verse / volume numbers
-    sn, tn = NUMBER.findall(src), NUMBER.findall(tgt)
+    sn, tn = NUMBER.findall(_ascii_digits(src)), NUMBER.findall(_ascii_digits(tgt))
     if collections.Counter(sn) != collections.Counter(tn):
         lost = collections.Counter(sn) - collections.Counter(tn)
         added = collections.Counter(tn) - collections.Counter(sn)

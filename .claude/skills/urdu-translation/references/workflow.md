@@ -10,17 +10,18 @@ Prints per-table progress, any half-finished file (`IN PROGRESS`, with field cou
 `START HERE:` line naming the exact next file. It reads the work files themselves, so it is
 authoritative — the snapshot below is only a summary and will drift.
 
-**Snapshot, 2026-09-08 — 5 of 263 files (177 of 1 992 rows):**
+**Snapshot, 2026-09-08 — 12 of 263 files (533 of 1 992 rows). All the short
+"vocabulary-settling" tables are done; only the long-prose tables remain.**
 
 | Table | Files | Status |
 |---|---:|---|
 | `categories` | 1 | ✅ done — 44 rows |
 | `ruqyah_categories` | 1 | ✅ done — 15 rows |
-| `sections` | 1 | ← **next** |
+| `sections` | 1 | ✅ done — 21 rows |
 | `subcategories` | 3 | ✅ done — 118 rows |
-| `ruqyah_subcategories` | 4 | pending |
-| `ruqyah_videos` | 2 | pending (BN source) |
-| `drawer_items` | 2 | pending (BN source) |
+| `ruqyah_subcategories` | 4 | ✅ done — 163 rows |
+| `ruqyah_videos` | 2 | ✅ done — 74 rows (BN source) |
+| `drawer_items` | 2 | ← **next** (BN source) |
 | `duas` | 64 | pending — the big one, 1 001 rows |
 | `ruqyah_instants` | 20 | pending |
 | `ruqyah_details` | 95 | pending |

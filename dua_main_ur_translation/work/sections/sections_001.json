@@ -3,7 +3,7 @@
   "chunk": "sections_001.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 21,
   "id_range": "1-12",
   "source_chars": 846,
@@ -24,7 +24,7 @@
         "name": "Introduction"
       },
       "target": {
-        "name": ""
+        "name": "تعارف"
       },
       "reference_bn": {
         "name": "অনুবাদকের কথা ও ভূমিকা"
@@ -46,7 +46,7 @@
         "name": "Supplication"
       },
       "target": {
-        "name": ""
+        "name": "دعا"
       },
       "reference_bn": {
         "name": "দোয়া দুই প্রকার"
@@ -68,7 +68,7 @@
         "name": "The Meanings Of The Word Du'a"
       },
       "target": {
-        "name": ""
+        "name": "لفظِ \"دعا\" کے معانی"
       },
       "reference_bn": {
         "name": "দোয়া ও প্রার্থনার ফযীলত"
@@ -90,7 +90,7 @@
         "name": "Supplication And Fate"
       },
       "target": {
-        "name": ""
+        "name": "دعا اور تقدیر"
       },
       "reference_bn": {
         "name": "দোয়া ও মুনাজাতের আদব"
@@ -112,7 +112,7 @@
         "name": "How To Supplicate"
       },
       "target": {
-        "name": ""
+        "name": "دعا کرنے کا طریقہ"
       },
       "reference_bn": {
         "name": "দোয়া করার আদবসমূহ"
@@ -134,7 +134,7 @@
         "name": "Conditions Of Supplication"
       },
       "target": {
-        "name": ""
+        "name": "دعا کی شرائط"
       },
       "reference_bn": {
         "name": "প্রার্থনাকারী যা থেকে দূরে থাকবেন"
@@ -156,7 +156,7 @@
         "name": "Manners Of Du'a"
       },
       "target": {
-        "name": ""
+        "name": "دعا کے آداب"
       },
       "reference_bn": {
         "name": "দোয়া কবুলের অন্তরায়সমূহ"
@@ -178,7 +178,7 @@
         "name": "Optimum Times For Du'a"
       },
       "target": {
-        "name": ""
+        "name": "دعا کے بہترین اوقات"
       },
       "reference_bn": {
         "name": "দোয়া কবুলের অনুকূল অবস্থা ও সময়"
@@ -200,7 +200,7 @@
         "name": "Recommended Supplications In Various Situations"
       },
       "target": {
-        "name": ""
+        "name": "مختلف مواقع کی مسنون دعائیں"
       },
       "reference_bn": {
         "name": "পাঁচ ওয়াক্ত সালাতের পর মোনাজাত"
@@ -222,7 +222,7 @@
         "name": "Introduction"
       },
       "target": {
-        "name": ""
+        "name": "تعارف"
       }
     },
     {
@@ -241,7 +241,7 @@
         "name": "By Blowing into your Cupped Hands and Reciting"
       },
       "target": {
-        "name": ""
+        "name": "دونوں ہاتھوں میں پڑھ کر دَم کرنا"
       }
     },
     {
@@ -260,7 +260,7 @@
         "name": "Spitting or Blowing on the Place where you Feel the pain"
       },
       "target": {
-        "name": ""
+        "name": "درد والی جگہ پر تھوک یا دَم کرنا"
       }
     },
     {
@@ -279,7 +279,7 @@
         "name": "Recite Qur'an over some Water and Blow into it, then Drink it and Bathe from it"
       },
       "target": {
-        "name": ""
+        "name": "پانی پر قرآن پڑھ کر دَم کرنا، پھر پینا اور نہانا"
       }
     },
     {
@@ -298,7 +298,7 @@
         "name": "Recite over some Olive Oil, Blow on it—then Rub or Massage it onto your Skin"
       },
       "target": {
-        "name": ""
+        "name": "زیتون کے تیل پر پڑھ کر دَم کرنا اور جسم پر ملنا"
       }
     },
     {
@@ -317,7 +317,7 @@
         "name": "Place a Hand on the Place of Pain and make Du'a"
       },
       "target": {
-        "name": ""
+        "name": "درد والی جگہ پر ہاتھ رکھ کر دعا کرنا"
       }
     },
     {
@@ -336,7 +336,7 @@
         "name": "Supplicating whilst Performing Ruqyah on Yourself"
       },
       "target": {
-        "name": ""
+        "name": "خود پر رقیہ کرتے ہوئے دعا کرنا"
       }
     },
     {
@@ -355,7 +355,7 @@
         "name": "Mixing some Earth with Saliva and Wipe the Afflicted"
       },
       "target": {
-        "name": ""
+        "name": "مٹی اور تھوک ملا کر متاثرہ جگہ پر لگانا"
       }
     },
     {
@@ -374,7 +374,7 @@
         "name": "It is Permissible to Blow when making Ruqyah Before Reciting, whilst Reciting or after Reciting"
       },
       "target": {
-        "name": ""
+        "name": "رقیہ میں پڑھنے سے پہلے، دوران یا بعد میں دَم کرنا جائز ہے"
       }
     },
     {
@@ -393,7 +393,7 @@
         "name": "Ruqyah can be done Without Spitting or Blowing"
       },
       "target": {
-        "name": ""
+        "name": "تھوکے یا دَم کیے بغیر بھی رقیہ ممکن ہے"
       }
     },
     {
@@ -412,7 +412,7 @@
         "name": "Giving in Sadaqah, and Helping the Needy and Poor Muslims"
       },
       "target": {
-        "name": ""
+        "name": "صدقہ دینا اور ضرورت مند مسلمانوں کی مدد کرنا"
       }
     },
     {
@@ -431,7 +431,7 @@
         "name": "Prophetic and Natural Remedies"
       },
       "target": {
-        "name": ""
+        "name": "نبوی اور قدرتی علاج"
       }
     }
   ]

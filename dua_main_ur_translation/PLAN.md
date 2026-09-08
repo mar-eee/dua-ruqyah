@@ -14,10 +14,10 @@ Budget 6000 source characters per file, max 50 rows, big rows split at paragraph
 |---|---|---:|---:|---:|---|
 | [x] | `categories` | 1 | 44 | 461 | EN |
 | [x] | `ruqyah_categories` | 1 | 15 | 312 | EN |
-| [ ] | `sections` | 1 | 21 | 846 | EN |
+| [x] | `sections` | 1 | 21 | 846 | EN |
 | [x] | `subcategories` | 3 | 118 | 3,531 | EN |
-| [ ] | `ruqyah_subcategories` | 4 | 163 | 4,805 | EN |
-| [ ] | `ruqyah_videos` | 2 | 74 | 3,884 | BN |
+| [x] | `ruqyah_subcategories` | 4 | 163 | 4,805 | EN |
+| [x] | `ruqyah_videos` | 2 | 74 | 3,884 | BN |
 | [ ] | `drawer_items` | 2 | 6 | 8,243 | BN |
 | [ ] | `duas` | 64 | 1001 | 363,081 | EN |
 | [ ] | `ruqyah_instants` | 20 | 308 | 112,037 | EN |
@@ -49,7 +49,7 @@ Source: **EN** · fields: `name` · key: `id`, `book_id`
 
 | | File | Rows | IDs | Chars | Items |
 |---|---|---:|---|---:|---:|
-| [ ] | `work/sections/sections_001.json` | 21 | 1-12 | 846 | 21 |
+| [x] | `work/sections/sections_001.json` | 21 | 1-12 | 846 | 21 |
 
 ## `subcategories`
 
@@ -67,10 +67,10 @@ Source: **EN** · fields: `name` · key: `id`
 
 | | File | Rows | IDs | Chars | Items |
 |---|---|---:|---|---:|---:|
-| [ ] | `work/ruqyah_subcategories/ruqyah_subcategories_001.json` | 50 | 1-50 | 1,681 | 50 |
-| [ ] | `work/ruqyah_subcategories/ruqyah_subcategories_002.json` | 50 | 51-100 | 1,818 | 50 |
-| [ ] | `work/ruqyah_subcategories/ruqyah_subcategories_003.json` | 50 | 101-150 | 1,168 | 50 |
-| [ ] | `work/ruqyah_subcategories/ruqyah_subcategories_004.json` | 13 | 151-163 | 138 | 13 |
+| [x] | `work/ruqyah_subcategories/ruqyah_subcategories_001.json` | 50 | 1-50 | 1,681 | 50 |
+| [x] | `work/ruqyah_subcategories/ruqyah_subcategories_002.json` | 50 | 51-100 | 1,818 | 50 |
+| [x] | `work/ruqyah_subcategories/ruqyah_subcategories_003.json` | 50 | 101-150 | 1,168 | 50 |
+| [x] | `work/ruqyah_subcategories/ruqyah_subcategories_004.json` | 13 | 151-163 | 138 | 13 |
 
 ## `ruqyah_videos`
 
@@ -78,8 +78,8 @@ Source: **BN** · fields: `name`, `author` · key: `id`
 
 | | File | Rows | IDs | Chars | Items |
 |---|---|---:|---|---:|---:|
-| [ ] | `work/ruqyah_videos/ruqyah_videos_001.json` | 50 | 1-50 | 2,511 | 50 |
-| [ ] | `work/ruqyah_videos/ruqyah_videos_002.json` | 24 | 51-74 | 1,373 | 24 |
+| [x] | `work/ruqyah_videos/ruqyah_videos_001.json` | 50 | 1-50 | 2,511 | 50 |
+| [x] | `work/ruqyah_videos/ruqyah_videos_002.json` | 24 | 51-74 | 1,373 | 24 |
 
 ## `drawer_items`
 

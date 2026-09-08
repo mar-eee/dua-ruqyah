@@ -3,7 +3,7 @@
   "chunk": "ruqyah_subcategories_002.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 50,
   "id_range": "51-100",
   "source_chars": 1818,
@@ -24,7 +24,7 @@
         "name": "3: Sihr At-Takhyil (False Appearance of Objects)"
       },
       "target": {
-        "name": ""
+        "name": "3: سحر التخییل (اشیاء کی جھوٹی شکل دکھانا)"
       }
     },
     {
@@ -43,7 +43,7 @@
         "name": "4: Sihr Al-Junun (Lunacy)"
       },
       "target": {
-        "name": ""
+        "name": "4: سحر الجنون (پاگل پن)"
       }
     },
     {
@@ -62,7 +62,7 @@
         "name": "5: Sihr Al-Khumül (Lethargy)"
       },
       "target": {
-        "name": ""
+        "name": "5: سحر الخمول (سستی و بے حسی)"
       }
     },
     {
@@ -81,7 +81,7 @@
         "name": "6: Sihr Al-Hawatif (Bad Dreams & Hearing Voices)"
       },
       "target": {
-        "name": ""
+        "name": "6: سحر الھواتف (ڈراؤنے خواب اور آوازیں سننا)"
       }
     },
     {
@@ -100,7 +100,7 @@
         "name": "7: Sihr Al-Maradh (Illness)"
       },
       "target": {
-        "name": ""
+        "name": "7: سحر المرض (بیماری)"
       }
     },
     {
@@ -119,7 +119,7 @@
         "name": "8: Sihr An-Nazif (Bleeding Following Menses)"
       },
       "target": {
-        "name": ""
+        "name": "8: سحر النزیف (حیض کے بعد خون آنا)"
       }
     },
     {
@@ -138,7 +138,7 @@
         "name": "Definition of Sihr An-Nazif"
       },
       "target": {
-        "name": ""
+        "name": "سحر النزیف کی تعریف"
       }
     },
     {
@@ -157,7 +157,7 @@
         "name": "9: Sihr of Impeding Marriage"
       },
       "target": {
-        "name": ""
+        "name": "9: نکاح میں رکاوٹ کا سحر"
       }
     },
     {
@@ -176,7 +176,7 @@
         "name": "Important Facts on Sihr"
       },
       "target": {
-        "name": ""
+        "name": "سحر سے متعلق اہم باتیں"
       }
     },
     {
@@ -195,7 +195,7 @@
         "name": "Sihr Ar-Rabt (Penile Erection Problems During Sexual Intercourse)"
       },
       "target": {
-        "name": ""
+        "name": "سحر الرَبط (ازدواجی تعلق میں مردانہ کمزوری کا سحر)"
       }
     },
     {
@@ -214,7 +214,7 @@
         "name": "Ar-Rabt in Women (sexual frigidity)"
       },
       "target": {
-        "name": ""
+        "name": "خواتین میں رَبط (ازدواجی تعلق سے بے رغبتی)"
       }
     },
     {
@@ -233,7 +233,7 @@
         "name": "Treatment of Rabt in Men"
       },
       "target": {
-        "name": ""
+        "name": "مردوں میں رَبط کا علاج"
       }
     },
     {
@@ -252,7 +252,7 @@
         "name": "Difference between Ar-rabt, Al-'ajz al-jinsi (impotence) and Adh-dhu'f al-jinsi (sexual weakness)"
       },
       "target": {
-        "name": ""
+        "name": "رَبط، عجزِ جنسی (نامردی) اور ضعفِ جنسی (جنسی کمزوری) کا فرق"
       }
     },
     {
@@ -271,7 +271,7 @@
         "name": "Treatment of Ar-rabt, Al-'ajz al-jinsi (impotence) and Adh-dhu'f al-jinsi (sexual weakness)"
       },
       "target": {
-        "name": ""
+        "name": "رَبط، عجزِ جنسی اور ضعفِ جنسی کا علاج"
       }
     },
     {
@@ -290,7 +290,7 @@
         "name": "Difference between Natural Sterility and Sterility caused by Sihr"
       },
       "target": {
-        "name": ""
+        "name": "فطری بانجھ پن اور سحر سے پیدا ہونے والے بانجھ پن کا فرق"
       }
     },
     {
@@ -309,7 +309,7 @@
         "name": "Sterility in Women"
       },
       "target": {
-        "name": ""
+        "name": "خواتین میں بانجھ پن"
       }
     },
     {
@@ -328,7 +328,7 @@
         "name": "Treatment of Premature Ejaculation"
       },
       "target": {
-        "name": ""
+        "name": "جلد انزال کا علاج"
       }
     },
     {
@@ -347,7 +347,7 @@
         "name": "Protective Measures against Sihr in General"
       },
       "target": {
-        "name": ""
+        "name": "سحر سے عمومی حفاظت کے طریقے"
       }
     },
     {
@@ -366,7 +366,7 @@
         "name": "The Concept of the Evil Eye (ayn)"
       },
       "target": {
-        "name": ""
+        "name": "نظرِ بد (عین) کا مفہوم"
       }
     },
     {
@@ -385,7 +385,7 @@
         "name": "The Different Types Of Evil Eye (ayn)"
       },
       "target": {
-        "name": ""
+        "name": "نظرِ بد کی اقسام"
       }
     },
     {
@@ -404,7 +404,7 @@
         "name": "Evidence for the different types of Evil Eye"
       },
       "target": {
-        "name": ""
+        "name": "نظرِ بد کی اقسام کے دلائل"
       }
     },
     {
@@ -423,7 +423,7 @@
         "name": "Evidence For The Existance Of Envy"
       },
       "target": {
-        "name": ""
+        "name": "حسد کے وجود کے دلائل"
       }
     },
     {
@@ -442,7 +442,7 @@
         "name": "The Similarities And Differences Between The Evil Eye And Envy"
       },
       "target": {
-        "name": ""
+        "name": "نظرِ بد اور حسد میں مماثلت و فرق"
       }
     },
     {
@@ -461,7 +461,7 @@
         "name": "Evidence in the qur'an"
       },
       "target": {
-        "name": ""
+        "name": "قرآن میں دلائل"
       }
     },
     {
@@ -480,7 +480,7 @@
         "name": "Envy is of varying degrees"
       },
       "target": {
-        "name": ""
+        "name": "حسد کے درجات"
       }
     },
     {
@@ -499,7 +499,7 @@
         "name": "Hadiths Related To The Evil Eye"
       },
       "target": {
-        "name": ""
+        "name": "نظرِ بد سے متعلق احادیث"
       }
     },
     {
@@ -518,7 +518,7 @@
         "name": "The effects of the evil eye"
       },
       "target": {
-        "name": ""
+        "name": "نظرِ بد کے اثرات"
       }
     },
     {
@@ -537,7 +537,7 @@
         "name": "Signs And Symptoms"
       },
       "target": {
-        "name": ""
+        "name": "علامات و نشانیاں"
       }
     },
     {
@@ -556,7 +556,7 @@
         "name": "Self-Ruqyah Treatment"
       },
       "target": {
-        "name": ""
+        "name": "خود پر رقیہ کا علاج"
       }
     },
     {
@@ -575,7 +575,7 @@
         "name": "Treatment Of Al-'Ayn (Evil Eye)"
       },
       "target": {
-        "name": ""
+        "name": "عین (نظرِ بد) کا علاج"
       }
     },
     {
@@ -594,7 +594,7 @@
         "name": "Evidence From The Hadith on The Effect of Al-Ayn"
       },
       "target": {
-        "name": ""
+        "name": "نظرِ بد کے اثر پر حدیث سے دلائل"
       }
     },
     {
@@ -613,7 +613,7 @@
         "name": "Views of Scholars on the Reality of Al-'Ayn"
       },
       "target": {
-        "name": ""
+        "name": "نظرِ بد کی حقیقت پر علماء کی آراء"
       }
     },
     {
@@ -632,7 +632,7 @@
         "name": "The Difference between the Evil Eye and Jealousy"
       },
       "target": {
-        "name": ""
+        "name": "نظرِ بد اور رشک کا فرق"
       }
     },
     {
@@ -651,7 +651,7 @@
         "name": "A Jinn May Affect Man with its Evil Eye"
       },
       "target": {
-        "name": ""
+        "name": "جن بھی اپنی نظرِ بد سے انسان کو متاثر کر سکتا ہے"
       }
     },
     {
@@ -670,7 +670,7 @@
         "name": "Treatment of the Evil Eye"
       },
       "target": {
-        "name": ""
+        "name": "نظرِ بد کا علاج"
       }
     },
     {
@@ -689,7 +689,7 @@
         "name": "Practical Examples of the Treatment of the Evil Eye"
       },
       "target": {
-        "name": ""
+        "name": "نظرِ بد کے علاج کی عملی مثالیں"
       }
     },
     {
@@ -708,7 +708,7 @@
         "name": "Meaning of Raaqi"
       },
       "target": {
-        "name": ""
+        "name": "راقی کے معنی"
       }
     },
     {
@@ -727,7 +727,7 @@
         "name": "Signs of a Genuine Raqi (One who is treating Patient)"
       },
       "target": {
-        "name": ""
+        "name": "حقیقی راقی کی نشانیاں"
       }
     },
     {
@@ -746,7 +746,7 @@
         "name": "The Minimum Requirement"
       },
       "target": {
-        "name": ""
+        "name": "کم از کم شرط"
       }
     },
     {
@@ -765,7 +765,7 @@
         "name": "The Risk"
       },
       "target": {
-        "name": ""
+        "name": "خطرہ"
       }
     },
     {
@@ -784,7 +784,7 @@
         "name": "The Non-Risk"
       },
       "target": {
-        "name": ""
+        "name": "بے خطر پہلو"
       }
     },
     {
@@ -803,7 +803,7 @@
         "name": "The Commitment"
       },
       "target": {
-        "name": ""
+        "name": "عزم"
       }
     },
     {
@@ -822,7 +822,7 @@
         "name": "The Main Intention For Becoming A Raqi"
       },
       "target": {
-        "name": ""
+        "name": "راقی بننے کی اصل نیت"
       }
     },
     {
@@ -841,7 +841,7 @@
         "name": "The Benefits Of Not Taking Money"
       },
       "target": {
-        "name": ""
+        "name": "بغیر معاوضہ کام کرنے کے فوائد"
       }
     },
     {
@@ -860,7 +860,7 @@
         "name": "Being Patient And Keeping Calm With Patients"
       },
       "target": {
-        "name": ""
+        "name": "مریضوں کے ساتھ صبر اور تحمل"
       }
     },
     {
@@ -879,7 +879,7 @@
         "name": "Your Studies Of The Science Of Ruqya"
       },
       "target": {
-        "name": ""
+        "name": "علمِ رقیہ کا مطالعہ"
       }
     },
     {
@@ -898,7 +898,7 @@
         "name": "Your Protection Adhkar"
       },
       "target": {
-        "name": ""
+        "name": "اپنی حفاظت کے اذکار"
       }
     },
     {
@@ -917,7 +917,7 @@
         "name": "Acts Of Worship & Things To Avoid For A Raqi"
       },
       "target": {
-        "name": ""
+        "name": "راقی کے لیے عبادات اور قابلِ اجتناب امور"
       }
     },
     {
@@ -936,7 +936,7 @@
         "name": "Things To Be Stopped Or Avoided"
       },
       "target": {
-        "name": ""
+        "name": "ترک کرنے کے قابل امور"
       }
     },
     {
@@ -955,7 +955,7 @@
         "name": "Gaining Practical Ruqyah Experience"
       },
       "target": {
-        "name": ""
+        "name": "رقیہ کا عملی تجربہ حاصل کرنا"
       }
     }
   ]

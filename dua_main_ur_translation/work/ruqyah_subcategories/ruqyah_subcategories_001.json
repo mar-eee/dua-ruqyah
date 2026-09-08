@@ -3,7 +3,7 @@
   "chunk": "ruqyah_subcategories_001.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 50,
   "id_range": "1-50",
   "source_chars": 1681,
@@ -24,7 +24,7 @@
         "name": "What is Ruqyah ?"
       },
       "target": {
-        "name": ""
+        "name": "رقیہ کیا ہے؟"
       }
     },
     {
@@ -43,7 +43,7 @@
         "name": "The Method Of Ruqyah"
       },
       "target": {
-        "name": ""
+        "name": "رقیہ کرنے کا طریقہ"
       }
     },
     {
@@ -62,7 +62,7 @@
         "name": "Conditions for Ruqyah to be successful"
       },
       "target": {
-        "name": ""
+        "name": "رقیہ کی کامیابی کی شرائط"
       }
     },
     {
@@ -81,7 +81,7 @@
         "name": "Before Ruqyah"
       },
       "target": {
-        "name": ""
+        "name": "رقیہ سے پہلے"
       }
     },
     {
@@ -100,7 +100,7 @@
         "name": "During Ruqyah"
       },
       "target": {
-        "name": ""
+        "name": "رقیہ کے دوران"
       }
     },
     {
@@ -119,7 +119,7 @@
         "name": "Why Blow with Your Saliva?"
       },
       "target": {
-        "name": ""
+        "name": "تھوک کے ساتھ دَم کیوں کیا جاتا ہے؟"
       }
     },
     {
@@ -138,7 +138,7 @@
         "name": "Blowing in Water"
       },
       "target": {
-        "name": ""
+        "name": "پانی میں دَم کرنا"
       }
     },
     {
@@ -157,7 +157,7 @@
         "name": "FAQ's About Ruqya"
       },
       "target": {
-        "name": ""
+        "name": "رقیہ سے متعلق عام سوالات"
       }
     },
     {
@@ -176,7 +176,7 @@
         "name": "Prerequisites of writing Ruqyah and drinking it’s water"
       },
       "target": {
-        "name": ""
+        "name": "رقیہ لکھنے اور اس کا پانی پینے کی شرائط"
       }
     },
     {
@@ -195,7 +195,7 @@
         "name": "The correct way to perform Ruqyah for a small child"
       },
       "target": {
-        "name": ""
+        "name": "چھوٹے بچے پر رقیہ کرنے کا صحیح طریقہ"
       }
     },
     {
@@ -214,7 +214,7 @@
         "name": "Are physical medicines better, or Ruqyah and spiritual medicine?"
       },
       "target": {
-        "name": ""
+        "name": "ظاہری دوا بہتر ہے یا رقیہ اور روحانی علاج؟"
       }
     },
     {
@@ -233,7 +233,7 @@
         "name": "Brief Ruqya"
       },
       "target": {
-        "name": ""
+        "name": "مختصر رقیہ"
       }
     },
     {
@@ -252,7 +252,7 @@
         "name": "A Medium Ruqya"
       },
       "target": {
-        "name": ""
+        "name": "درمیانہ رقیہ"
       }
     },
     {
@@ -271,7 +271,7 @@
         "name": "A Long Ruqya"
       },
       "target": {
-        "name": ""
+        "name": "طویل رقیہ"
       }
     },
     {
@@ -290,7 +290,7 @@
         "name": "Existence"
       },
       "target": {
-        "name": ""
+        "name": "وجود"
       }
     },
     {
@@ -309,7 +309,7 @@
         "name": "Jinn's fear of humans"
       },
       "target": {
-        "name": ""
+        "name": "جنات کا انسانوں سے خوف"
       }
     },
     {
@@ -328,7 +328,7 @@
         "name": "Jinn envy humans"
       },
       "target": {
-        "name": ""
+        "name": "جنات کا انسانوں سے حسد"
       }
     },
     {
@@ -347,7 +347,7 @@
         "name": "When do demons spread out?"
       },
       "target": {
-        "name": ""
+        "name": "شیاطین کب پھیلتے ہیں؟"
       }
     },
     {
@@ -366,7 +366,7 @@
         "name": "It is prohibited to sacrifice animals for Jinn"
       },
       "target": {
-        "name": ""
+        "name": "جنات کے نام پر جانور ذبح کرنا حرام ہے"
       }
     },
     {
@@ -385,7 +385,7 @@
         "name": "It is haram to seek refuge with Jinn"
       },
       "target": {
-        "name": ""
+        "name": "جنات سے پناہ مانگنا حرام ہے"
       }
     },
     {
@@ -404,7 +404,7 @@
         "name": "Do Jinn inhabit people's houses?"
       },
       "target": {
-        "name": ""
+        "name": "کیا جنات لوگوں کے گھروں میں رہتے ہیں؟"
       }
     },
     {
@@ -423,7 +423,7 @@
         "name": "How to chase Jinn away from a house?"
       },
       "target": {
-        "name": ""
+        "name": "گھر سے جن کو کیسے نکالا جائے؟"
       }
     },
     {
@@ -442,7 +442,7 @@
         "name": "Jinn are less dignified than mankind"
       },
       "target": {
-        "name": ""
+        "name": "جنات، انسان سے کم مرتبہ رکھتے ہیں"
       }
     },
     {
@@ -461,7 +461,7 @@
         "name": "Reasons of Jinn's possession of humans"
       },
       "target": {
-        "name": ""
+        "name": "جن کے انسان پر قابض ہونے کی وجوہات"
       }
     },
     {
@@ -480,7 +480,7 @@
         "name": "How does a Jinn enter the body of a human, and where does he/she settle?"
       },
       "target": {
-        "name": ""
+        "name": "جن انسان کے جسم میں کیسے داخل ہوتا اور کہاں ٹھہرتا ہے؟"
       }
     },
     {
@@ -499,7 +499,7 @@
         "name": "Symptoms of the Jinn's possession of humans"
       },
       "target": {
-        "name": ""
+        "name": "جن کے قبضے کی علامات"
       }
     },
     {
@@ -518,7 +518,7 @@
         "name": "Characteristics of a healer (exorcist)"
       },
       "target": {
-        "name": ""
+        "name": "معالج (راقی) کی خصوصیات"
       }
     },
     {
@@ -537,7 +537,7 @@
         "name": "The method of healing"
       },
       "target": {
-        "name": ""
+        "name": "علاج کا طریقہ"
       }
     },
     {
@@ -556,7 +556,7 @@
         "name": "How to Conduct a Ruqyah with a Muslim Jinn?"
       },
       "target": {
-        "name": ""
+        "name": "مسلمان جن کے ساتھ رقیہ کیسے کیا جائے؟"
       }
     },
     {
@@ -575,7 +575,7 @@
         "name": "How to Conduct Ruqyah with a non-Muslim Jinn?"
       },
       "target": {
-        "name": ""
+        "name": "غیر مسلم جن کے ساتھ رقیہ کیسے کیا جائے؟"
       }
     },
     {
@@ -594,7 +594,7 @@
         "name": "Some notes for the exorcist"
       },
       "target": {
-        "name": ""
+        "name": "معالج کے لیے چند ہدایات"
       }
     },
     {
@@ -613,7 +613,7 @@
         "name": "If the patient does not have a seizure"
       },
       "target": {
-        "name": ""
+        "name": "اگر مریض کو دورہ نہ پڑے"
       }
     },
     {
@@ -632,7 +632,7 @@
         "name": "What should be recited over the jinn if he breaks his promise and comes back"
       },
       "target": {
-        "name": ""
+        "name": "جن وعدہ توڑ کر واپس آئے تو اس پر کیا پڑھا جائے"
       }
     },
     {
@@ -651,7 +651,7 @@
         "name": "Treating a case of love between a jinn and a human"
       },
       "target": {
-        "name": ""
+        "name": "جن اور انسان کے درمیان محبت کے معاملے کا علاج"
       }
     },
     {
@@ -670,7 +670,7 @@
         "name": "Some Practical Examples"
       },
       "target": {
-        "name": ""
+        "name": "چند عملی مثالیں"
       }
     },
     {
@@ -689,7 +689,7 @@
         "name": "Guidance for the protection from Sar' (Possesion)"
       },
       "target": {
-        "name": ""
+        "name": "دورے یا آسیب سے حفاظت کی ہدایات"
       }
     },
     {
@@ -708,7 +708,7 @@
         "name": "Waswasah in Salat"
       },
       "target": {
-        "name": ""
+        "name": "نماز میں وسوسے"
       }
     },
     {
@@ -727,7 +727,7 @@
         "name": "Satan's Musical instruments"
       },
       "target": {
-        "name": ""
+        "name": "شیطان کے موسیقی کے آلات"
       }
     },
     {
@@ -746,7 +746,7 @@
         "name": "Satan's approach to one's meal"
       },
       "target": {
-        "name": ""
+        "name": "شیطان کا کھانے میں شریک ہونا"
       }
     },
     {
@@ -765,7 +765,7 @@
         "name": "The levels of temptation"
       },
       "target": {
-        "name": ""
+        "name": "ورغلانے کے درجات"
       }
     },
     {
@@ -784,7 +784,7 @@
         "name": "As well as adhering to the Ruqyah program, what else should the patient do?"
       },
       "target": {
-        "name": ""
+        "name": "رقیہ کے پروگرام کے ساتھ مریض کو مزید کیا کرنا چاہیے؟"
       }
     },
     {
@@ -803,7 +803,7 @@
         "name": "Ten ways of avoiding the harm of the Jinn and protecting oneself against the devils"
       },
       "target": {
-        "name": ""
+        "name": "جنات کے نقصان سے بچنے اور شیاطین سے حفاظت کے دس طریقے"
       }
     },
     {
@@ -822,7 +822,7 @@
         "name": "Evidence of the Existence of Jinn and Demons"
       },
       "target": {
-        "name": ""
+        "name": "جنات اور شیاطین کے وجود کے دلائل"
       }
     },
     {
@@ -841,7 +841,7 @@
         "name": "Evidence on the Existence of Sihr"
       },
       "target": {
-        "name": ""
+        "name": "سحر کے وجود کے دلائل"
       }
     },
     {
@@ -860,7 +860,7 @@
         "name": "1. Sihr of Separation"
       },
       "target": {
-        "name": ""
+        "name": "1. سحر التفریق (جدائی کا سحر)"
       }
     },
     {
@@ -879,7 +879,7 @@
         "name": "Definition of Sihr of Separation"
       },
       "target": {
-        "name": ""
+        "name": "سحر التفریق کی تعریف"
       }
     },
     {
@@ -898,7 +898,7 @@
         "name": "Treatment Of The Sihr Of Separation"
       },
       "target": {
-        "name": ""
+        "name": "سحر التفریق کا علاج"
       }
     },
     {
@@ -917,7 +917,7 @@
         "name": "2. Sihr Al-Mahabba / At-Tiwala (Love)"
       },
       "target": {
-        "name": ""
+        "name": "2. سحر المحبت / التِوَلہ (محبت)"
       }
     },
     {
@@ -936,7 +936,7 @@
         "name": "Lawful Sihr"
       },
       "target": {
-        "name": ""
+        "name": "جائز سحر"
       }
     },
     {
@@ -955,7 +955,7 @@
         "name": "Treatment of Sihr of Love"
       },
       "target": {
-        "name": ""
+        "name": "محبت کے سحر کا علاج"
       }
     }
   ]

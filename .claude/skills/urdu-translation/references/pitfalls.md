@@ -79,6 +79,23 @@ for the English source. `duas` and `ruqyah_instants` were checked the same way a
 **Fix:** don't trust a same-language pairing shown by the workspace until you have checked a
 few rows against real content. `reference_bn` is now only shown for tables verified aligned.
 
+## 7c. Bengali-Indic digits false-flagged as corrupted (caught, fixed in verify.py)
+
+`ruqyah_videos` is BN-sourced, and Bengali writes numbers in Bengali-Indic digits
+(`পর্ব-১০`). Converting `১০` to `10` for the Urdu target is *correct* — the skill's own
+rule is ASCII digits only, never a non-Latin numeral script. But `verify.py`'s digit check
+originally compared the raw digit strings, so `১০` vs `10` looked like a changed number and
+failed every episode-numbered row, even though the value never moved.
+
+This is the opposite failure mode from pitfall 1 (a real value change disguised as fine) —
+here a fine conversion was disguised as a value change. Both matter: a check that never
+fires misses corruption; a check that fires on correct work gets silenced or ignored, which
+is just as dangerous over 263 files.
+
+**Fix:** `verify.py` now normalises Bengali-Indic, Urdu-Indic and Arabic-Indic digits to
+ASCII on both sides before comparing. Re-verified afterward that it still catches a genuine
+value change (`10` deliberately corrupted to `100` was still flagged).
+
 ## 8. Invisible characters
 
 44 zero-width chars (U+200B/200C/200E/200F) inside words: `言い␣␣ました`. Break search and
