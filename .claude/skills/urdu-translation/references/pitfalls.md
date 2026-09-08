@@ -60,6 +60,25 @@ finds **nothing**. **Decode nested JSON before scanning.**
 `duas.transliteration` must come from the English DB. 42 Japanese rows — and 686 Indonesian
 — kept Bengali script, unusable for the reader.
 
+## 7b. `reference_bn` pointing at the wrong row (caught during Urdu, before shipping)
+
+The workspace shows a Bengali "reference" next to the English source for some tables, by
+joining EN row *n* to BN row *n*. That join assumes both languages tell the story in the
+same row order. They do not, for the ruqyah supplementary content: BN `ruqyah_subcategories`
+has 117 rows to EN's 163, and BN `ruqyah_categories` has the *same* 15 rows as EN but
+reordered — EN "About Raqi" (id 6) is really BN's row 10; BN's icon `next_step` is reused
+across two unrelated EN rows. The row-count coincidence for `ruqyah_categories` (15 = 15)
+made it look aligned when it was not.
+
+Trusting it would have produced a *confident, wrong* Urdu name — worse than no reference at
+all, because a wrong reference reads as evidence. Caught by spot-checking actual subcategory
+content against the shown reference before writing anything, exactly as the skill says to do
+for the English source. `duas` and `ruqyah_instants` were checked the same way and are fine
+— those two are id-aligned between EN and BN.
+
+**Fix:** don't trust a same-language pairing shown by the workspace until you have checked a
+few rows against real content. `reference_bn` is now only shown for tables verified aligned.
+
 ## 8. Invisible characters
 
 44 zero-width chars (U+200B/200C/200E/200F) inside words: `言い␣␣ました`. Break search and

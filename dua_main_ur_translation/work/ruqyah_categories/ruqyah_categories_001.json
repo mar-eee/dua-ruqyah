@@ -3,7 +3,7 @@
   "chunk": "ruqyah_categories_001.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 15,
   "id_range": "1-15",
   "source_chars": 312,
@@ -24,10 +24,7 @@
         "name": "Introduction to Ruqyah"
       },
       "target": {
-        "name": ""
-      },
-      "reference_bn": {
-        "name": "রুকিয়াহ সম্পর্কে"
+        "name": "رقیہ کا تعارف"
       }
     },
     {
@@ -46,10 +43,7 @@
         "name": "Instant Ruqyah"
       },
       "target": {
-        "name": ""
-      },
-      "reference_bn": {
-        "name": "সকল রোগের রুকিয়াহ করুন"
+        "name": "فوری رقیہ"
       }
     },
     {
@@ -68,10 +62,7 @@
         "name": "Protect Yourself From Jinn"
       },
       "target": {
-        "name": ""
-      },
-      "reference_bn": {
-        "name": "রুকইয়াহর পরবর্তী পদক্ষেপ"
+        "name": "جنات سے حفاظت"
       }
     },
     {
@@ -90,10 +81,7 @@
         "name": "Black Magic (Sihr)"
       },
       "target": {
-        "name": ""
-      },
-      "reference_bn": {
-        "name": "জিনকেন্দ্রিক অসুস্থতা"
+        "name": "سحر / کالا جادو"
       }
     },
     {
@@ -112,10 +100,7 @@
         "name": "Evil Eye & Envy"
       },
       "target": {
-        "name": ""
-      },
-      "reference_bn": {
-        "name": "জাদুটোনা কেন্দ্রিক অসুস্থতা"
+        "name": "نظرِ بد اور حسد"
       }
     },
     {
@@ -134,10 +119,7 @@
         "name": "About Raqi"
       },
       "target": {
-        "name": ""
-      },
-      "reference_bn": {
-        "name": "বদনজর সম্পর্কিত অসুস্থতা"
+        "name": "راقی کا تعارف"
       }
     },
     {
@@ -156,10 +138,7 @@
         "name": "Ruqyah Materials"
       },
       "target": {
-        "name": ""
-      },
-      "reference_bn": {
-        "name": "বিভিন্ন জাদুর জন্য রুকিয়াহ"
+        "name": "رقیہ کا سامان"
       }
     },
     {
@@ -178,10 +157,7 @@
         "name": "7-day detoxification program"
       },
       "target": {
-        "name": ""
-      },
-      "reference_bn": {
-        "name": "অন্যান্য অসুস্থতার জন্য রুকিয়াহ"
+        "name": "رقیہ کا 7 روزہ پروگرام"
       }
     },
     {
@@ -200,10 +176,7 @@
         "name": "The Ruqyah bath against Sihr"
       },
       "target": {
-        "name": ""
-      },
-      "reference_bn": {
-        "name": "রুকইয়াহ পদ্ধতির সংশোধন"
+        "name": "سحر کے لیے رقیہ غسل"
       }
     },
     {
@@ -222,10 +195,7 @@
         "name": "Full Ruqyah program"
       },
       "target": {
-        "name": ""
-      },
-      "reference_bn": {
-        "name": "রাক্কী পরিচিতি"
+        "name": "رقیہ کا مکمل پروگرام"
       }
     },
     {
@@ -244,10 +214,7 @@
         "name": "Waswasah - whisperings"
       },
       "target": {
-        "name": ""
-      },
-      "reference_bn": {
-        "name": "রুকিয়াহর জন্য উপকরন সমূহ"
+        "name": "وسوسہ"
       }
     },
     {
@@ -266,10 +233,7 @@
         "name": "Other Diseases"
       },
       "target": {
-        "name": ""
-      },
-      "reference_bn": {
-        "name": "হিজামা"
+        "name": "دیگر امراض"
       }
     },
     {
@@ -288,10 +252,7 @@
         "name": "Treatment for general problems"
       },
       "target": {
-        "name": ""
-      },
-      "reference_bn": {
-        "name": "সাত দিনের ডিটক্সিফিকেশন প্রোগ্রাম"
+        "name": "عمومی مسائل کا علاج"
       }
     },
     {
@@ -310,10 +271,7 @@
         "name": "Types of Hijamah / Bloodletting"
       },
       "target": {
-        "name": ""
-      },
-      "reference_bn": {
-        "name": "ওয়াসওয়াসা রোগ"
+        "name": "حجامہ کی اقسام"
       }
     },
     {
@@ -332,10 +290,7 @@
         "name": "Ruqya related Video"
       },
       "target": {
-        "name": ""
-      },
-      "reference_bn": {
-        "name": "রুকিয়াহ সম্পর্কিত ভিডিওসমূহ"
+        "name": "رقیہ سے متعلق ویڈیوز"
       }
     }
   ]

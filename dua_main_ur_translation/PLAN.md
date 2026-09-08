@@ -13,7 +13,7 @@ Budget 6000 source characters per file, max 50 rows, big rows split at paragraph
 | | Table | Files | Rows | Source chars | Source |
 |---|---|---:|---:|---:|---|
 | [x] | `categories` | 1 | 44 | 461 | EN |
-| [ ] | `ruqyah_categories` | 1 | 15 | 312 | EN |
+| [x] | `ruqyah_categories` | 1 | 15 | 312 | EN |
 | [ ] | `sections` | 1 | 21 | 846 | EN |
 | [x] | `subcategories` | 3 | 118 | 3,531 | EN |
 | [ ] | `ruqyah_subcategories` | 4 | 163 | 4,805 | EN |
@@ -41,7 +41,7 @@ Source: **EN** · fields: `name` · key: `id`
 
 | | File | Rows | IDs | Chars | Items |
 |---|---|---:|---|---:|---:|
-| [ ] | `work/ruqyah_categories/ruqyah_categories_001.json` | 15 | 1-15 | 312 | 15 |
+| [x] | `work/ruqyah_categories/ruqyah_categories_001.json` | 15 | 1-15 | 312 | 15 |
 
 ## `sections`
 

@@ -66,9 +66,20 @@ FROZEN_NOTE = [
 ]
 
 # Tables where the Bengali wording is the more accurate description and should
-# be shown next to the English while translating.
-SHOW_BN = {'categories', 'subcategories', 'sections', 'ruqyah_categories',
-           'ruqyah_subcategories', 'ruqyah_instants', 'duas'}
+# be shown next to the English while translating. Restricted to tables where
+# BN and EN are actually the same rows at the same id - verified by spot
+# checking real content, not just row counts (which can coincidentally match
+# while the rows are reordered or a different dataset; see below).
+SHOW_BN = {'categories', 'subcategories', 'sections', 'ruqyah_instants', 'duas'}
+
+# ruqyah_categories and ruqyah_subcategories are deliberately NOT in SHOW_BN.
+# Their Bengali tables are a differently curated dataset, not a translation of
+# the same rows: ruqyah_subcategories has 117 BN rows vs 163 EN rows, and
+# ruqyah_categories has 15 rows in both but in a different order (e.g. EN id 6
+# "About Raqi" lines up with BN id 10, and BN's icon "next_step" is reused
+# across two unrelated EN rows). Joining these by id, as SHOW_BN does for
+# every other table, silently shows the wrong Bengali sentence next to the
+# right English one - worse than showing nothing, because it looks trustworthy.
 
 # duas.groups is a JSON string holding whole nested dua records. Its inner
 # name/content/translation/note are user-visible text, not metadata, so they
