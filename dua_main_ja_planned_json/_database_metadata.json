@@ -1512,6 +1512,56 @@
         "verification": "Every name, translation and non-null note reviewed record by record against its exact English row, including complete notes at IDs 677-680. JSON valid, UTF-8, 2-space indent, trailing newline; row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs and footnotes preserved; no Bengali in editable fields. Women's transliterated wording at ID 677 preserved verbatim. References unchanged from review backup and matched English with existing README normalization; transliteration unchanged and matched verbatim. Equivalent Node.js SQLite rebuild passed; reopened integrity ok; all 15 tables / 3082 rows, schema, sequences and pragmas verified.",
         "note": "Clarified who becomes an example in title 653, improved accommodation and Paradise wording at IDs 668 and 671, restored the exclusive retention of names in ID 677, and improved prayer-response wording in notes 678-679. Previously documented source quirks retained. Python unavailable; Node.js SQLite rebuild used unchanged Indonesian schema metadata."
       }
+    },
+    "dua_main_id_planned_json/tables/duas/duas_021.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "English, not translated; copied from dua_main_en.sqlite with grading punctuation and collection/number colon at IDs 681-682, Quran chapter/verse spacing at ID 692, and multiple-source semicolon at ID 697; all numbers preserved.",
+      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "681-714",
+      "updated_at": "2026-09-08",
+      "verification": "All 34 exact English IDs matched. Every name, content, translation and note reviewed record by record for meaning, completeness, natural Indonesian, spelling, grammar and terminology. JSON valid, UTF-8, 2-space indent, trailing newline; row/key order, nulls, all protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs and numbers preserved. No Bengali in editable fields; references ASCII English; transliteration copied verbatim. Equivalent Node.js SQLite rebuild passed; reopened integrity ok; all 15 tables / 3082 rows, schema, sequences and pragmas verified. Hashes confirm no other translation file changed.",
+      "note": "Translated all non-null text fields, including complete narrations and notes. ID 683 follows the shorter English passage, excluding the extra Bengali sentence. English reference typo Suya al-Ambiya retained verbatim at ID 688. Source wording retained where repeated prayers differ, including protection at ID 700 and Mighty at ID 707. Repeated passages aligned with earlier Indonesian wording where meanings match. Python unavailable; equivalent Node.js SQLite rebuild used unchanged Indonesian schema metadata.",
+      "independent_recheck": {
+        "status": "complete",
+        "reviewed_at": "2026-09-08",
+        "id_range": "681-714",
+        "rows": 34,
+        "reviewed_fields": [
+          "name",
+          "content",
+          "translation",
+          "note"
+        ],
+        "corrected_ids": [
+          683,
+          690,
+          699,
+          702,
+          705,
+          711
+        ],
+        "reference_status": "English, not translated; unchanged from review backup with existing README normalization; transliteration unchanged and matched verbatim.",
+        "verification": "Every name, content, translation and note reviewed record by record against its exact English row. JSON valid, UTF-8, 2-space indent, trailing newline; row/key order, nulls, all protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs and numbers preserved; no Bengali in editable fields. References unchanged from review backup and matched English with existing README normalization; transliteration unchanged and matched verbatim. Equivalent Node.js SQLite rebuild passed; reopened integrity ok; all 15 tables / 3082 rows, schema, sequences and pragmas verified.",
+        "note": "Clarified Self-Subsisting at ID 683, natural patience wording at ID 690, weakness in old age at ID 699, livelihood wording at ID 702, righteousness as kesalehan at ID 705, and the missing Indonesian object in the introduction at ID 711. Previously documented English source quirks retained. Python unavailable in this session environment; equivalent Node.js SQLite rebuild used unchanged Indonesian schema metadata."
+      }
     }
   }
 }
