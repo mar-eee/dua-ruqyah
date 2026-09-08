@@ -1,7 +1,12 @@
 # Translation Plan
 
-Tick a file off when `verify.py` passes on it. Work top to bottom: the small
-tables settle the vocabulary that the long prose then has to match.
+**Where to start:** run `python3 scripts/status.py`. It reads the work files and
+prints a `START HERE:` line with the exact next file, plus any half-finished one.
+That is authoritative; the ticks below are a human-kept summary and can drift.
+
+Tick a file off when `verify.py` passes on it, and set `"status": "done"` inside it.
+Work top to bottom: the small tables settle the vocabulary that the long prose
+then has to match.
 
 Budget 6000 source characters per file, max 50 rows, big rows split at paragraph boundaries.
 

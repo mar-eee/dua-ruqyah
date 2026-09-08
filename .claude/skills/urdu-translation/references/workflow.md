@@ -1,5 +1,36 @@
 # Workflow and mechanics
 
+## Work status — run this first
+
+```bash
+cd dua_main_ur_translation && python3 scripts/status.py
+```
+
+Prints per-table progress, any half-finished file (`IN PROGRESS`, with field counts), and a
+`START HERE:` line naming the exact next file. It reads the work files themselves, so it is
+authoritative — the snapshot below is only a summary and will drift.
+
+**Snapshot, 2026-09-08 — 4 of 263 files (162 of 1 992 rows):**
+
+| Table | Files | Status |
+|---|---:|---|
+| `categories` | 1 | ✅ done — 44 rows |
+| `ruqyah_categories` | 1 | ← **next** |
+| `sections` | 1 | pending |
+| `subcategories` | 3 | ✅ done — 118 rows |
+| `ruqyah_subcategories` | 4 | pending |
+| `ruqyah_videos` | 2 | pending (BN source) |
+| `drawer_items` | 2 | pending (BN source) |
+| `duas` | 64 | pending — the big one, 1 001 rows |
+| `ruqyah_instants` | 20 | pending |
+| `ruqyah_details` | 95 | pending |
+| `dua_infos` | 70 | pending (BN source) |
+
+Terminology already settled by the two finished tables lives in `GLOSSARY.json`
+(`canonical` + `settled_wording`). Follow it rather than re-deciding.
+
+When a file is finished: set `"status": "done"` in it, and tick its row in `PLAN.md`.
+
 ## Layout
 
 ```

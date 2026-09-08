@@ -108,13 +108,24 @@ the rows actually contain. **Check what the category contains before naming it.*
 
 Record deliberate deviations in `GLOSSARY.json` → `overrides`, with the reason.
 
+## Where to start — always check first
+
+```bash
+cd dua_main_ur_translation && python3 scripts/status.py
+```
+
+It prints per-table progress, any half-finished file, and a `START HERE:` line with the
+exact next file and its verify command. It reads the work files themselves, so it is
+never stale — trust it over any note, including this one.
+
 ## Working
 
 `references/workflow.md` — file format, sources, commands. Read before your first file.
 
 1. Fill `GLOSSARY.json`. 2. One file at a time, in `PLAN.md` order (small tables settle
 vocabulary first). 3. Edit only `target`. 4. `python3 scripts/verify.py <file>`.
-5. **Read it aloud.** If an Urdu speaker would pause, revise — the verifier cannot hear it.
+5. Tick the file in `PLAN.md` and set `"status": "done"`.
+6. **Read it aloud.** If an Urdu speaker would pause, revise — the verifier cannot hear it.
 
 `references/pitfalls.md` — defects that actually shipped in the finished Japanese. Read
 before auditing, or when a file feels wrong and you cannot say why.

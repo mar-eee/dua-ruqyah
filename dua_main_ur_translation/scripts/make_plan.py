@@ -7,8 +7,12 @@ ORDER = ['categories', 'ruqyah_categories', 'sections', 'subcategories',
          'ruqyah_subcategories', 'ruqyah_videos', 'drawer_items',
          'duas', 'ruqyah_instants', 'ruqyah_details', 'dua_infos']
 L = ['# Translation Plan', '',
-     'Tick a file off when `verify.py` passes on it. Work top to bottom: the small',
-     'tables settle the vocabulary that the long prose then has to match.', '',
+     '**Where to start:** run `python3 scripts/status.py`. It reads the work files and',
+     'prints a `START HERE:` line with the exact next file, plus any half-finished one.',
+     'That is authoritative; the ticks below are a human-kept summary and can drift.', '',
+     'Tick a file off when `verify.py` passes on it, and set `"status": "done"` inside it.',
+     'Work top to bottom: the small tables settle the vocabulary that the long prose',
+     'then has to match.', '',
      f"Budget {idx['budget_chars']} source characters per file, "
      f"max {idx['max_rows_per_file']} rows, big rows split at paragraph boundaries.", '',
      '| | Table | Files | Rows | Source chars | Source |', '|---|---|---:|---:|---:|---|']
