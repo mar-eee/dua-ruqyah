@@ -1631,6 +1631,57 @@
         "verification": "Every name, content, translation and note reviewed again against all 34 exact English rows, including the full narration at ID 724. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, numbers and Bengali checks passed. References unchanged from review backup and matched English with existing README normalization; transliteration unchanged and matched verbatim. Equivalent Node.js SQLite rebuild passed; reopened integrity ok; all 15 tables / 3082 rows, schema, sequences and pragmas verified. Hashes confirm no other translation file changed.",
         "note": "Only ID 724 note corrected: natural wording for looking toward sunrise and restoration of the first My Lord address in the first response. All other translated fields reviewed and retained. Previously documented English source quirks retained. Python unavailable in this session environment; equivalent Node.js SQLite rebuild used unchanged Indonesian schema metadata."
       }
+    },
+    "dua_main_id_planned_json/tables/duas/duas_023.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "English, not translated; copied from dua_main_en.sqlite with collection/number colons at IDs 750 and 776; all numbers preserved. Reference at ID 772 remains null.",
+      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "749-782",
+      "updated_at": "2026-09-08",
+      "verification": "All 34 exact English IDs matched. Every name, content, translation and note reviewed record by record for meaning, completeness, natural Indonesian, spelling, grammar and terminology, including the long prayers and narrations at IDs 750, 760, 764 and 770. JSON valid, UTF-8, 2-space indent, trailing newline; row/key order, nulls, all protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs and numbers preserved. No Bengali in editable fields; non-null references ASCII English; transliteration copied verbatim. Equivalent Node.js SQLite rebuild passed; reopened integrity ok; all 15 tables / 3082 rows, schema, sequences and pragmas verified. Hashes confirm no other translation file changed.",
+      "note": "All non-null text fields translated. English source quirks retained: Innermost/beyond wording at ID 758, narrator transition at ID 759, title/translation differences at IDs 761 and 764, inline transliterated forms including Astigfirullah at ID 767, singular/plural switch at ID 776, and sacrificial-slaughter reward at ID 781 (different from earlier ID 450). Repeated wording at IDs 763, 780 and 782 aligned with earlier Indonesian entries. Python unavailable in this session environment; equivalent Node.js SQLite rebuild used unchanged Indonesian schema metadata.",
+      "independent_recheck": {
+        "status": "complete",
+        "reviewed_at": "2026-09-08",
+        "id_range": "749-782",
+        "rows": 34,
+        "reviewed_fields": [
+          "name",
+          "content",
+          "translation",
+          "note"
+        ],
+        "corrected_ids": [
+          750,
+          753,
+          759,
+          762,
+          768,
+          774,
+          775
+        ],
+        "reference_status": "English, not translated; unchanged with existing README normalization; null reference at ID 772 preserved.",
+        "verification": "Every name, content, translation and note reviewed record by record against all 34 exact English rows, including complete long prayers and narrations. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, numbers and Bengali checks passed. References unchanged from review backup and matched English with existing README normalization; transliteration unchanged and matched verbatim. Equivalent Node.js SQLite rebuild passed; reopened integrity ok; all 15 tables / 3082 rows, schema, sequences and pragmas verified. Hashes confirm no other translation file changed.",
+        "note": "Clarified private worship wording at ID 750, the subject of second childhood at ID 753, proclaiming blessings at ID 759, the introduction at ID 762, who receives the ability to retaliate at ID 768, the number of individual horse riders at ID 774, and ownership of the Throne at ID 775. Previously documented English source quirks retained. Python unavailable in this session environment; equivalent Node.js SQLite rebuild used unchanged Indonesian schema metadata."
+      }
     }
   }
 }

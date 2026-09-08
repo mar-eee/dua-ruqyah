@@ -127,7 +127,7 @@ For metadata, use this meaning:
 | `duas_020.json` | 647-680 | 34 | complete | Indonesian complete; references kept English |
 | `duas_021.json` | 681-714 | 34 | complete | Indonesian complete; references kept English |
 | `duas_022.json` | 715-748 | 34 | complete | Indonesian complete; references kept English |
-| `duas_023.json` | 749-782 | 34 | pending |  |
+| `duas_023.json` | 749-782 | 34 | complete | Indonesian complete; references kept English |
 | `duas_024.json` | 783-816 | 34 | pending |  |
 | `duas_025.json` | 817-850 | 34 | pending |  |
 | `duas_026.json` | 851-884 | 34 | pending |  |
@@ -596,3 +596,24 @@ python3 rebuild_japanese_from_json.py
 - References: English, not translated; unchanged from review backup with existing README normalization; transliteration unchanged and matched verbatim
 - Review: Only ID 724 note corrected: natural wording for looking toward sunrise and restoration of the first My Lord address in the first response. All other translated fields reviewed and retained. Previously documented English source quirks retained. Python unavailable in this session environment; equivalent Node.js SQLite rebuild used unchanged Indonesian schema metadata.
 - Validation and rebuild: Every name, content, translation and note reviewed again against all 34 exact English rows, including the full narration at ID 724. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, numbers and Bengali checks passed. References unchanged from review backup and matched English with existing README normalization; transliteration unchanged and matched verbatim. Equivalent Node.js SQLite rebuild passed; reopened integrity ok; all 15 tables / 3082 rows, schema, sequences and pragmas verified. Hashes confirm no other translation file changed.
+
+### Indonesian completed: `dua_main_id_planned_json/tables/duas/duas_023.json`
+
+- Status: `pending` → `complete` (Indonesian)
+- ID range: `749-782`; rows: `34`; completed on: `2026-09-08`
+- Translated fields: `name`, `content`, `translation`, `note`; all null values preserved
+- Source matching: all 34 exact English IDs matched; no missing English rows
+- References: English, not translated; copied from dua_main_en.sqlite with collection/number colons at IDs 750 and 776; all numbers preserved. Reference at ID 772 remains null.
+- Transliteration: copied verbatim from English DB
+- Review: All non-null text fields translated. English source quirks retained: Innermost/beyond wording at ID 758, narrator transition at ID 759, title/translation differences at IDs 761 and 764, inline transliterated forms including Astigfirullah at ID 767, singular/plural switch at ID 776, and sacrificial-slaughter reward at ID 781 (different from earlier ID 450). Repeated wording at IDs 763, 780 and 782 aligned with earlier Indonesian entries. Python unavailable in this session environment; equivalent Node.js SQLite rebuild used unchanged Indonesian schema metadata.
+- Validation and rebuild: All 34 exact English IDs matched. Every name, content, translation and note reviewed record by record for meaning, completeness, natural Indonesian, spelling, grammar and terminology, including the long prayers and narrations at IDs 750, 760, 764 and 770. JSON valid, UTF-8, 2-space indent, trailing newline; row/key order, nulls, all protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs and numbers preserved. No Bengali in editable fields; non-null references ASCII English; transliteration copied verbatim. Equivalent Node.js SQLite rebuild passed; reopened integrity ok; all 15 tables / 3082 rows, schema, sequences and pragmas verified. Hashes confirm no other translation file changed.
+
+### Indonesian independent recheck: `dua_main_id_planned_json/tables/duas/duas_023.json`
+
+- Status: `complete` (independent recheck complete)
+- ID range: `749-782`; rows: `34`; reviewed on: `2026-09-08`
+- Reviewed fields: `name`, `content`, `translation`, `note`; all null values preserved
+- Corrected IDs: `750`, `753`, `759`, `762`, `768`, `774`, `775`
+- References: English, not translated; unchanged from review backup with existing README normalization; null reference at ID 772 preserved; transliteration unchanged and matched verbatim
+- Review: Clarified private worship wording at ID 750, the subject of second childhood at ID 753, proclaiming blessings at ID 759, the introduction at ID 762, who receives the ability to retaliate at ID 768, the number of individual horse riders at ID 774, and ownership of the Throne at ID 775. Previously documented English source quirks retained. Python unavailable in this session environment; equivalent Node.js SQLite rebuild used unchanged Indonesian schema metadata.
+- Validation and rebuild: Every name, content, translation and note reviewed record by record against all 34 exact English rows, including complete long prayers and narrations. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, numbers and Bengali checks passed. References unchanged from review backup and matched English with existing README normalization; transliteration unchanged and matched verbatim. Equivalent Node.js SQLite rebuild passed; reopened integrity ok; all 15 tables / 3082 rows, schema, sequences and pragmas verified. Hashes confirm no other translation file changed.
