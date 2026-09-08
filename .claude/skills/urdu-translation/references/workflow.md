@@ -10,14 +10,13 @@ Prints per-table progress, any half-finished file (`IN PROGRESS`, with field cou
 `START HERE:` line naming the exact next file. It reads the work files themselves, so it is
 authoritative — the snapshot below is only a summary and will drift.
 
-**Snapshot, 2026-09-08 — 12 of 263 files (533 of 1 992 rows). All the short
+**Snapshot, 2026-09-08 — 11 of 262 files (488 of 1 971 rows). All the short
 "vocabulary-settling" tables are done; only the long-prose tables remain.**
 
 | Table | Files | Status |
 |---|---:|---|
 | `categories` | 1 | ✅ done — 44 rows |
 | `ruqyah_categories` | 1 | ✅ done — 15 rows |
-| `sections` | 1 | ✅ done — 21 rows |
 | `subcategories` | 3 | ✅ done — 118 rows |
 | `ruqyah_subcategories` | 4 | ✅ done — 163 rows |
 | `ruqyah_videos` | 2 | ✅ done — 74 rows (BN source) |
@@ -26,6 +25,11 @@ authoritative — the snapshot below is only a summary and will drift.
 | `ruqyah_instants` | 20 | pending |
 | `ruqyah_details` | 95 | pending |
 | `dua_infos` | 70 | pending (BN source) |
+
+`sections` (21 rows, two books' chapter-title lists) is excluded, along with `books` and
+`book_details` - it exists only as a table of contents for `book_details`, which is
+excluded, so a translated title over an untranslated body is not useful. It was briefly
+translated and then reverted; see pitfall 11.
 
 Terminology already settled by the two finished tables lives in `GLOSSARY.json`
 (`canonical` + `settled_wording`). Follow it rather than re-deciding.
@@ -40,7 +44,7 @@ Dua/
 ├── translation_base/                          template — never translate here
 └── dua_main_ur_translation/                   work here
     ├── GLOSSARY.json      fill first
-    ├── PLAN.md            263 files, in working order
+    ├── PLAN.md            262 files, in working order
     ├── work/<table>/<table>_NNN.json          you edit these
     ├── source/{en,bn}/<table>.json            reference only
     └── scripts/  verify.py · build.py · status.py · generate.py

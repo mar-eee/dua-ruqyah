@@ -14,7 +14,6 @@ Budget 6000 source characters per file, max 50 rows, big rows split at paragraph
 |---|---|---:|---:|---:|---|
 | [x] | `categories` | 1 | 44 | 461 | EN |
 | [x] | `ruqyah_categories` | 1 | 15 | 312 | EN |
-| [x] | `sections` | 1 | 21 | 846 | EN |
 | [x] | `subcategories` | 3 | 118 | 3,531 | EN |
 | [x] | `ruqyah_subcategories` | 4 | 163 | 4,805 | EN |
 | [x] | `ruqyah_videos` | 2 | 74 | 3,884 | BN |
@@ -23,7 +22,7 @@ Budget 6000 source characters per file, max 50 rows, big rows split at paragraph
 | [ ] | `ruqyah_instants` | 20 | 308 | 112,037 | EN |
 | [ ] | `ruqyah_details` | 95 | 200 | 457,751 | EN |
 | [ ] | `dua_infos` | 70 | 42 | 357,024 | BN |
-| | **total** | **263** | **1992** | **1,311,975** | |
+| | **total** | **262** | **1971** | **1,311,129** | |
 
 ---
 
@@ -42,14 +41,6 @@ Source: **EN** · fields: `name` · key: `id`
 | | File | Rows | IDs | Chars | Items |
 |---|---|---:|---|---:|---:|
 | [x] | `work/ruqyah_categories/ruqyah_categories_001.json` | 15 | 1-15 | 312 | 15 |
-
-## `sections`
-
-Source: **EN** · fields: `name` · key: `id`, `book_id`
-
-| | File | Rows | IDs | Chars | Items |
-|---|---|---:|---|---:|---:|
-| [x] | `work/sections/sections_001.json` | 21 | 1-12 | 846 | 21 |
 
 ## `subcategories`
 

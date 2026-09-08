@@ -90,7 +90,7 @@ failed every episode-numbered row, even though the value never moved.
 This is the opposite failure mode from pitfall 1 (a real value change disguised as fine) —
 here a fine conversion was disguised as a value change. Both matter: a check that never
 fires misses corruption; a check that fires on correct work gets silenced or ignored, which
-is just as dangerous over 263 files.
+is just as dangerous across a workspace this size.
 
 **Fix:** `verify.py` now normalises Bengali-Indic, Urdu-Indic and Arabic-Indic digits to
 ASCII on both sides before comparing. Re-verified afterward that it still catches a genuine
@@ -115,6 +115,25 @@ bold. **Fix the closing tag; note it in the plan.**
 203 sentences mixed polite/plain register mid-passage · 21 duplicated-word artifacts
 ("complete, complete, complete") · untranslated English in running prose.
 **Fix:** read the file back as prose, not as fields.
+
+## 11. Translating a table that is out of scope
+
+`sections` (21 rows: two books' chapter-title lists, e.g. "Introduction", "How To
+Supplicate") was translated into Urdu even though the user had said not to work on the
+book content. It is a separate table from `books` and `book_details` - which *were*
+correctly excluded - so it slipped through: it was in the generated file list, it was in
+every `status.py` and `PLAN.md` table the user had already seen, and the previous Japanese
+translation (done before this workspace existed) had also translated it. None of that made
+it in scope. `sections` exists only as a table of contents for `book_details`, which stays
+untranslated - a translated chapter title over an untranslated Bengali chapter body serves
+no one.
+
+**Fix:** don't infer scope from what a generated file list or an earlier language happened
+to include. When a table is adjacent to an explicitly excluded one - shares a foreign key
+with it, exists only to label it, is meaningless without it - check whether it's actually
+inside the boundary the user drew, not just outside the two table names they said. `sections`
+is now excluded in `generate.py` alongside `books` and `book_details`; the 21-row Urdu
+translation was reverted before it reached the database.
 
 ## Do NOT over-correct — these looked wrong and were right
 

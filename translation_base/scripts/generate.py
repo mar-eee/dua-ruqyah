@@ -25,7 +25,11 @@ MAX_ROWS  = 50     # never put more than this many rows in one file
 PART_SIZE = 2000   # target size of one part when a big row is split
 
 # Book tables are excluded by instruction.
-EXCLUDE = {'books', 'book_details'}
+# 'sections' is 21 chapter-title labels for the two books ('Dua' and 'Eleven
+# Ways to Perform Ruqyah'). It exists only as a table of contents for
+# book_details, which is excluded - a translated chapter title pointing at an
+# untranslated Bengali chapter body is not useful, so it is excluded too.
+EXCLUDE = {'books', 'book_details', 'sections'}
 # No translatable text at all.
 NO_TEXT = {'ids', 'drawer_item_actions'}
 
@@ -34,7 +38,7 @@ NO_TEXT = {'ids', 'drawer_item_actions'}
 #   dua_infos and ruqyah_videos are BN: the English DB holds a *different*
 #   dataset for these two, not a translation of the same rows.
 SOURCE = {
-    'categories': 'en', 'subcategories': 'en', 'sections': 'en',
+    'categories': 'en', 'subcategories': 'en',
     'dua_infos': 'bn',
     'duas': 'en',
     'ruqyah_categories': 'en', 'ruqyah_subcategories': 'en',
@@ -46,7 +50,6 @@ SOURCE = {
 TRANSLATE = {
     'categories': ['name'],
     'subcategories': ['name'],
-    'sections': ['name'],
     'dua_infos': ['name', 'description'],
     'duas': ['name', 'content', 'translation', 'note'],
     'ruqyah_categories': ['name'],
@@ -70,7 +73,7 @@ FROZEN_NOTE = [
 # BN and EN are actually the same rows at the same id - verified by spot
 # checking real content, not just row counts (which can coincidentally match
 # while the rows are reordered or a different dataset; see below).
-SHOW_BN = {'categories', 'subcategories', 'sections', 'ruqyah_instants', 'duas'}
+SHOW_BN = {'categories', 'subcategories', 'ruqyah_instants', 'duas'}
 
 # ruqyah_categories and ruqyah_subcategories are deliberately NOT in SHOW_BN.
 # Their Bengali tables are a differently curated dataset, not a translation of
@@ -91,9 +94,11 @@ GROUP_FIELDS = ['name', 'content', 'translation', 'note']
 SPLIT_FIELD = {'dua_infos': 'description', 'ruqyah_details': 'text',
                'duas': 'translation', 'ruqyah_instants': 'translation'}
 
-# Row identity. `sections` is keyed on (id, book_id): it has 21 rows but only
-# 12 distinct ids, so keying on id alone would silently merge rows.
-KEY = {'sections': ('id', 'book_id')}
+# Row identity. Every current table keys on `id` alone. (`sections` needed a
+# composite (id, book_id) key here - it has 21 rows but only 12 distinct ids -
+# before it was excluded as book-related content; kept as a reminder that a
+# future table added to TRANSLATE should not assume `id` is always unique.)
+KEY = {}
 
 
 def keyof(table, row):
