@@ -766,3 +766,46 @@ are unchanged from before the fixes; `PRAGMA integrity_check` = `ok`.
 `dua_main_id_planned_json` has the same `groups` issue (35 rows) and 686 rows of Bengali
 `transliteration`. Its `duas` table is still largely untranslated (all 1001 names are
 Bengali), so this is pending work rather than a shipped defect.
+
+## Pre-release audit — 2026-09-08
+
+A full pre-shipping audit of `dua_main_ja_rebuilt.sqlite`. Every field of every table was
+checked, plus the nested JSON inside `duas.groups`.
+
+### Fixed
+
+| Issue | Count | Note |
+|---|---:|---|
+| `<b>text<b>` instead of `</b>` | 42 | upstream typo, faithfully copied; broke bold rendering from that point on |
+| "on the authority of" as `の権限で` / `の権威に基づいて` | 82 | machine-translation of *عن*; now `〜が伝えるところによると` |
+| `ナレーション` for *narration* | 24 | now `伝承` |
+| `（ラー）` instead of `（RA）` | 31 | |
+| Katakana name + `氏` / `さん` | 36 | `アブー・フライラ氏` → `アブー・フライラ`; `ラビ` (narrator) → `伝承者` |
+| Duplicated reporting verb `と言った、と述べた` | 6 | |
+| Invisible zero-width characters in Japanese prose | 44 | U+200B/200C/200E/200F left by machine translation; the 26 that sit next to Arabic were kept, since they are legitimate direction marks |
+| Double spaces / full-width digits | 11 | |
+| Mixed politeness register in narrative prose | 203 | `〜と述べた。` → `〜と述べました。`, `〜である。` → `〜です。` etc., in `dua_infos` and `ruqyah_details` only |
+
+### Deliberately not changed
+
+- **Qur'an translations keep their literary plain form.** `ruqyah_instants.translation` and
+  the Qur'anic passages in `duas.translation` use `〜のだ。` / `〜投げ込もう。` / `〜何と醜悪なことか。`
+  That is the correct register for scripture in Japanese; converting it to `です・ます` would
+  have damaged 113 fields. The register fix was restricted to narrative prose, with quoted
+  speech, Arabic blocks, citations and headings masked out.
+- **`ruqyah_instants` id 225** uses `善い目／悪い目に遭う` — the idiom "to experience" in
+  Qur'an 4:78, not the evil eye.
+- **`ruqyah_videos.author`** keeps `氏` — these are living presenters, where it is correct.
+- **Counting style is mixed on purpose**: `三回唱えます` in devotional prose, `7回` in the
+  step-by-step ruqyah programmes. Both are correct Japanese for their context.
+- 3 rows where the English database has a `note` that the Bengali original does not
+  (`duas` 339 and 2 others). The workspace is Bengali-derived and `null` stays `null`.
+
+### Verification
+
+- Frozen fields checked against their source database for all 11 tables: **intact**.
+- `duas.transliteration` differing from English: **0**.
+- Bengali anywhere outside the book tables, nested JSON included: **0**.
+- Unbalanced HTML tags: **0**. Invisible characters in prose: **0**. Mojibake: **0**.
+- Foreign keys resolve; audio and video URLs well-formed; row counts unchanged.
+- `PRAGMA integrity_check` = `ok`.
