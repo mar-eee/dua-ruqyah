@@ -1,200 +1,120 @@
 ---
 name: urdu-translation
-description: Translate the Dua & Ruqyah database into literary, human Urdu — dua and ruqyah texts, category and subcategory names, hadith narration, Qur'an renderings, and app screens. Use this skill whenever work touches Urdu translation in this project: translating a chunk file under dua_main_ur_translation/work/, reviewing or fixing existing Urdu, deciding wording for a category or a hadith, checking terminology consistency, or any request that mentions Urdu along with duas, ruqyah, categories, subcategories, dua_infos, ruqyah_details, drawer_items, or the translation_base workspace. Also use it when asked to make Urdu "sound natural", "not machine translated", "literary", or "human", or when auditing Urdu for machine-translation artifacts.
+description: Translate the Dua & Ruqyah database into literary, human Urdu — duas, ruqyah texts, hadith narration, Qur'an renderings, category names, app screens. Use whenever work touches Urdu in this project: translating a chunk under dua_main_ur_translation/work/, reviewing or fixing existing Urdu, choosing wording for a category or hadith, checking terminology consistency, or any request naming Urdu with duas, ruqyah, categories, subcategories, dua_infos, ruqyah_details, drawer_items or translation_base. Also use when asked to make Urdu sound natural, human, literary or "not machine translated", or to audit Urdu for machine-translation artifacts.
 ---
 
 # Urdu Translation — Dua & Ruqyah
 
-This is devotional text. People will read it while praying, when they are ill, and when
-they are frightened. It has to sound like a careful Urdu-speaking scholar wrote it, not
-like it arrived through a translation engine. Everything below exists to serve that.
+Devotional text. People read it while praying, ill, or frightened. It must read as though
+an Urdu-speaking scholar wrote it.
 
-## The one rule everything else follows from
+**Method:** read the source until you know what it *says* → look away → write that in Urdu
+→ check nothing was lost. Machine translation keeps English's *shape* and swaps in Urdu
+words. That is the thing to avoid.
 
-**Translate the meaning into Urdu that an Urdu speaker would actually write. Do not
-transport English grammar into Urdu words.**
+## Human tone vs machine tone
 
-Machine translation fails here not because it picks wrong words but because it keeps the
-source language's *shape* — its word order, its connectives, its flat noun stacking — and
-swaps in Urdu vocabulary. The result is technically parseable and immediately, obviously
-foreign. A reader can feel it in one sentence.
+The tone is warm, dignified, unhurried — a knowledgeable person speaking to someone who
+needs help. Not a manual, not a lecture.
 
-So the working method is: read the source until you know what it *says*, look away, and
-write that in Urdu. Then check nothing was lost.
+| Machine | Human | Why |
+|---|---|---|
+| یہ دعا پڑھی جاتی ہے جب انسان پریشان ہو | پریشانی کے وقت یہ دعا پڑھیں | passive → direct address |
+| اللہ سے مغفرت کی درخواست کریں | اللہ سے مغفرت مانگیں | `کرنا` padding → real verb |
+| یہ ایک ایسی دعا ہے جو کہ بہت اہم ہے | یہ نہایت اہم دعا ہے | copula chain → one clause |
+| اللہ کے رسول کے صحابہ کے دعاؤں کا مجموعہ | صحابہ کرام کی مسنون دعائیں | `کے` chain → izafat |
+| اس کے علاوہ، مزید یہ کہ | نیز / چنانچہ | English connectives |
+| مذکورہ بالا دعا کو تین بار دہرایا جائے | یہ دعا تین بار پڑھیں | bureaucratic → plain |
 
-## The registers — pick the right one
+Signs you have drifted machine-ward: every sentence the same length; `ہے` ending
+everything; `کرنا` doing all the work; three `کے` in a row; nothing you would say aloud.
 
-Urdu religious prose is not one voice. Three are in play here, and mixing them is the
-fastest way to sound synthetic.
+## Three registers — keep them apart
 
-**1. Qur'an rendering** — elevated, restrained, follows the classical Urdu translation
-tradition. Never colloquial, never explanatory. If a well-known Urdu rendering exists for
-a verse, stay close to it; readers recognise these phrasings and a fresh paraphrase reads
-as wrong even when the meaning is right.
+| Field | Voice |
+|---|---|
+| Qur'an rendering | elevated, restrained, follows classical Urdu translation; stay close to known renderings — readers recognise them |
+| Hadith & religious prose (`dua_infos`, `ruqyah_details`) | dignified, readable: `فرمایا`, `روایت ہے`, `ارشاد فرمایا` |
+| Interface labels (categories, subcategories, titles) | short noun phrases, scannable — not sentences |
 
-**2. Hadith narration and religious prose** — dignified but readable. `فرمایا`, `روایت ہے`,
-`ارشاد فرمایا`. This is the bulk of `dua_infos` and `ruqyah_details`.
+## Verbs of speech — respect is grammatical
 
-**3. Interface labels** — category and subcategory names, screen titles. Short noun
-phrases, scannable in a list. Not sentences.
-
-The register is a property of the field, not of your mood. Keep it stable across a file
-and across the whole database.
-
-## Verbs of speech carry respect — get these right
-
-This is the single most common way a translation reveals itself as machine-made, and to a
-religious reader it is not a style problem but a discourtesy.
+Getting this wrong is a discourtesy, not a style slip.
 
 | Subject | Use | Never |
 |---|---|---|
 | Allah | `اللہ تعالیٰ فرماتا ہے` / `ارشاد فرماتا ہے` | `اللہ کہتا ہے` |
-| The Prophet ﷺ | `رسول اللہ ﷺ نے فرمایا` | `نبی نے کہا` |
-| A Companion | `حضرت … رضی اللہ عنہ نے فرمایا` / `بیان کیا` | `اس نے کہا` |
-| An ordinary person | `اُس نے کہا` | — |
+| Prophet ﷺ | `رسول اللہ ﷺ نے فرمایا` | `نبی نے کہا` |
+| Companion | `حضرت … رضی اللہ عنہ نے فرمایا` / `بیان کیا` | `اس نے کہا` |
+| Ordinary person | `اُس نے کہا` | — |
 
-Honorifics are not decoration; omitting them is an error. `ﷺ` after the Prophet,
-`رضی اللہ عنہ` / `رضی اللہ عنہا` / `رضی اللہ عنہم` after Companions, `علیہ السلام` after
-prophets, `رحمہ اللہ` after later scholars. Match the gender and number.
+Honorifics are required, not decorative: `ﷺ`, `رضی اللہ عنہ/عنہا/عنہم`, `علیہ السلام`,
+`رحمہ اللہ`. Match gender and number.
 
-## Narration formulas — where machines reliably break
+## Narration formulas — fixed, not translated
 
-Hadith chains use fixed Arabic formulas. Urdu has fixed equivalents. Word-for-word
-translation of the English gloss produces nonsense that reads as authoritative, which is
-worse than obvious nonsense.
-
-| Source | Correct Urdu | The machine failure |
+| Source | Urdu | Machine failure |
 |---|---|---|
-| "on the authority of X" / `عن` | `X سے روایت ہے` / `X سے مروی ہے` | rendering *authority* as a power word — the Japanese pass produced `の権限で` ("by the jurisdiction of") 82 times before it was caught |
-| "narrated by X" | `X سے روایت ہے` | transliterating "narration" as a loanword |
+| "on the authority of X" / `عن` | `X سے روایت ہے` | *authority* as a power word — this shipped 82× in Japanese |
+| "narrated by X" | `X سے روایت ہے` | "narration" as a loanword |
 | "It was reported that…" | `مروی ہے کہ…` | `رپورٹ کیا گیا` |
-| "he said, Say:" | `آپ ﷺ نے فرمایا: کہو —` | `اس نے کہا: کہو` |
-| "The Messenger of Allah (ﷺ) used to…" | `رسول اللہ ﷺ … کیا کرتے تھے` | present tense |
+| "The Messenger ﷺ used to…" | `رسول اللہ ﷺ … کیا کرتے تھے` | present tense |
 
-`رَاوِی` (narrator) is a technical term. If a source says "the narrator said", that is
-`راوی کہتے ہیں` — not a name, not "rabbi". That exact confusion shipped in the Japanese.
+`رَاوی` = narrator → `راوی کہتے ہیں`. Not a name, not "rabbi" (that confusion shipped).
 
 ## Sentence shape
 
-English piles modifiers before the noun and hangs relative clauses after it. Urdu prefers
-to unfold the same information in order, ending on the verb. Restructure rather than
-transplant.
+English front-loads modifiers; Urdu unfolds in order and ends on the verb. Restructure.
 
-**Example — subcategory 80**
+- *Duas to be recited when one is in danger*
+  ❌ `دعائیں پڑھی جانے کے لیے جب کوئی خطرے میں ہو`
+  ✅ `مصیبت و تکلیف میں مبتلا ہونے پر پڑھی جانے والی دعائیں`
+- *Abu Hurayra (RA) reported that the Messenger ﷺ said…*
+  ❌ `ابو ہریرہ رضی اللہ عنہ نے رپورٹ کیا کہ اللہ کے رسول ﷺ نے کہا`
+  ✅ `حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا`
 
-Source: *Duas to be recited when one is in danger*
-- Machine shape: `دعائیں پڑھی جانے کے لیے جب کوئی خطرے میں ہو` — English skeleton, Urdu skin
-- Human shape: `مصیبت و تکلیف میں مبتلا ہونے پر پڑھی جانے والی دعائیں`
+Use izafat where Urdu does: `نمازِ جنازہ`, `قبولیتِ دعا`, `دعائے قنوت`, `خطبۂ نکاح`,
+`قعدۂ اخیرہ`. Flat noun stacking is a machine tell.
 
-**Example — a hadith frame**
+## Vocabulary layer
 
-Source: *Abu Hurayra (RA) reported that the Messenger of Allah (ﷺ) said…*
-- Machine shape: `ابو ہریرہ رضی اللہ عنہ نے رپورٹ کیا کہ اللہ کے رسول ﷺ نے کہا`
-- Human shape: `حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا`
+Religious writing sits in the Arabic–Persian layer. Indic words are not wrong Urdu, they
+are wrong *here*.
 
-Use *izafat* (`ـِ` / `ئے`) where Urdu naturally does — `نمازِ جنازہ`, `قبولیتِ دعا`,
-`دعائے قنوت`, `خطبۂ نکاح`, `قعدۂ اخیرہ`. Flat noun-noun stacking where Urdu wants izafat
-is a reliable machine-translation tell.
+`دعا` not پرارتھنا · `عبادت` not پوجا · `فرشتہ` not دیوتا · `گناہ` not پاپ ·
+`مغفرت` not معافی (for sins) · `نمازِ جنازہ` not انتم سنسکار
 
-## Vocabulary register
+Do not over-Arabize either. Dignified and readable, not a vocabulary display.
 
-Urdu draws on Arabic, Persian and Indic layers. Religious writing sits in the
-Arabic–Persian layer. Reaching for the Indic word is not wrong Urdu, but it is wrong
-*here* and sounds jarring.
+## Hard rules
 
-| Prefer | Not | Why |
-|---|---|---|
-| دعا | پرارتھنا, بنتی | Indic register, wrong domain |
-| عبادت | پوجا | pooja is Hindu worship |
-| فرشتہ | دیوتا | deity ≠ angel |
-| گناہ | پاپ | Indic register |
-| مغفرت / بخشش | معافی (for sins) | معافی is everyday pardon |
-| نمازِ جنازہ | انتم سنسکار | entirely wrong tradition |
+- **Numbers:** copy exactly. Never convert, spell out, or use Urdu-Indic numerals. Hadith
+  numbers, verse numbers, `4/39` refs, counts. `verify.py` fails the file if digits differ.
+- **Add nothing, drop nothing.** No added piety or explanation. `null` stays `null`.
+- **Copy through:** `<ar>…</ar>` Arabic; `transliteration` and `reference` come from the
+  English DB verbatim. Keep HTML tag structure; translate only words between tags.
+- **One term, one rendering.** Fill `GLOSSARY.json` before starting. Drift is invisible in
+  one file and glaring across screens.
 
-At the same time, do not over-Arabize. If a plain Urdu word is the one a reader knows,
-use it. The aim is dignified and *readable*, not a display of vocabulary.
+## English is not always right — read the Bengali
 
-## Keep every number exactly as it is
+Short tables carry `reference_bn`. Where the two disagree, the Bengali usually matches what
+the rows actually contain. **Check what the category contains before naming it.**
 
-Hadith numbers, verse numbers, volume/page references like `4/39`, counts like "33 times".
-Copy them; never convert, never spell them out, never let them drift into dates.
+- Cat 2 — EN *"Dua's Excellence"*, but holds Tasbeeh/Tahmid/Tahlil/Takbeer = dhikr →
+  `ذکر کی فضیلت`
+- Cat 37 — EN *"Prophet's Dua"*, but holds duas of Adam, Ayyub, Yunus عليهم السلام →
+  `انبیاء و رُسل کی دعائیں` (plural)
 
-The Japanese pass turned `[Abu Dawud, 1481]` into "1481年" (the year 1481), `4/39` into
-"April 39th", a verse number into an age, and a page number into an age. `verify.py`
-compares the digits on both sides and fails the file if they differ — that check exists
-because of those bugs.
+Record deliberate deviations in `GLOSSARY.json` → `overrides`, with the reason.
 
-Counting instructions (`33 مرتبہ`) use ASCII digits.
+## Working
 
-## Never invent, never trim
+`references/workflow.md` — file format, sources, commands. Read before your first file.
 
-Add nothing that is not in the source — no explanations, no softening, no extra piety.
-Drop nothing either. If the source has a `null`, the translation stays `null`; an empty
-string is not the same thing and breaks the app.
+1. Fill `GLOSSARY.json`. 2. One file at a time, in `PLAN.md` order (small tables settle
+vocabulary first). 3. Edit only `target`. 4. `python3 scripts/verify.py <file>`.
+5. **Read it aloud.** If an Urdu speaker would pause, revise — the verifier cannot hear it.
 
-Arabic passages inside `<ar>…</ar>` are copied through untouched. `transliteration` and
-`reference` come from the English database verbatim — they are not translated. HTML tags
-keep their exact structure; translate only the words between them.
-
-## One term, one rendering
-
-Fix the vocabulary in `GLOSSARY.json` *before* translating, and keep to it everywhere.
-Drift is invisible while you work on one file and glaring when a reader moves between
-screens.
-
-The Japanese translation ended up with `アーイシャ` / `アイシャ` / `アイーシャ` for one
-Companion's name across three tables. `verify.py` checks the glossary on every run so this
-surfaces immediately rather than at the end.
-
-Where the English source is itself wrong, record the deviation in `GLOSSARY.json` under
-`overrides` with the reason, rather than silently diverging.
-
-## The English source is not always right — check the Bengali
-
-Every work item for the short tables carries `reference_bn`. Read both. Where they
-disagree, the Bengali usually matches what the rows actually contain, because the app is
-Bengali-origin and the English is a later, looser pass.
-
-Two real cases from this project:
-
-- Category 2 is *"Dua's Excellence"* in English, but its only subcategory is *"Excellence
-  of doing Tasbeeh, Tahmid, Tahlil, Takbeer"*. That is dhikr. The Bengali says dhikr →
-  `ذکر کی فضیلت`.
-- Category 37 is *"Prophet's Dua"* in English, but it holds the duas of Adam, Ayyub and
-  Yunus عليهم السلام. The Bengali is plural → `انبیاء و رُسل کی دعائیں`. The singular
-  reading would have been wrong.
-
-When the two sources disagree, **look at what the category actually contains** before
-choosing. That check takes a minute and it is the difference between a correct name and a
-plausible one.
-
-## Working method
-
-Read `references/workflow.md` for the mechanics — file format, which database each table
-comes from, and how to build and verify. Read it before touching a work file for the first
-time.
-
-The short version:
-
-1. Fill `GLOSSARY.json` first.
-2. Work one file at a time, in the order in `PLAN.md`: the small tables settle the
-   vocabulary that the long prose then has to match.
-3. Edit only `target`. Never touch `key`, `id`, `part`, `of`, `frozen`, or `source`.
-4. `python3 scripts/verify.py <file>` after each file.
-5. Read your own output aloud before moving on. If a sentence would make an Urdu speaker
-   pause, it needs another pass — the verifier cannot hear that.
-
-## Self-review before declaring a file done
-
-The checks a machine can run are in `verify.py`. These are the ones only you can do:
-
-- Does every sentence sound like something a person would write? Read it aloud.
-- Are the verbs of speech respectful and correctly assigned?
-- Is the register right for this field, and consistent within the file?
-- Would a reader who does not know English understand it without reconstructing the
-  original?
-- Is anything there that was not in the source?
-
-`references/pitfalls.md` catalogues the specific defects found when auditing the finished
-Japanese translation — every one of them shipped before being caught. Read it before an
-audit, and skim it when a file feels off but you cannot say why.
+`references/pitfalls.md` — defects that actually shipped in the finished Japanese. Read
+before auditing, or when a file feels wrong and you cannot say why.
