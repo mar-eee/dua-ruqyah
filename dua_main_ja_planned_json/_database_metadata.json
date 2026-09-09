@@ -1980,6 +1980,51 @@
         "verification": "Every record and all 76 non-null name, content, translation and note fields rechecked against all 34 exact English rows for accuracy, completeness, natural Indonesian, spelling, grammar and terminology. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nullness, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, digits and Bengali checks passed. References and transliteration unchanged from review backup; matched English with existing documented reference normalization. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows exactly match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.",
         "note": "Improved descendants phrasing at ID 955, the request to ease fear at ID 964, inclusive whoever wording at ID 973, and the call to faith at ID 974. All other translated fields reviewed and retained, including full narrations, repeated prayers and previously documented English source quirks. Python unavailable in this session; equivalent Node.js rebuild used unchanged Indonesian schema metadata."
       }
+    },
+    "dua_main_id_planned_json/tables/duas/duas_030.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "translated_fields": [
+        "name",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "English, not translated; copied verbatim from dua_main_en.sqlite.",
+      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 15,
+      "id_range": "987-1001",
+      "updated_at": "2026-09-09",
+      "verification": "All 15 exact English IDs matched; all 31 non-null name, translation and note fields translated and rechecked record by record for accuracy, completeness, natural Indonesian, spelling, grammar and terminology. Content remains null. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nullness, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs and digits verified. No Bengali in editable fields; references ASCII English; references and transliteration copied verbatim. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows exactly match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.",
+      "note": "Repeated prayers aligned with earlier reviewed Indonesian wording at IDs 987, 989, 991, 993, 995 and 999; IDs 988 and 1000 use identical wording. Preserved English source scope, including the shorter verse 9 excerpt at ID 994, the torment wording at ID 998, and both morning/evening statements in the note at ID 1001. Final review improved the eternal-residence sentence and inclusive wording at ID 994. English remained the source; no Bengali fallback required. Python unavailable in this session; equivalent Node.js rebuild used unchanged Indonesian schema metadata.",
+      "independent_recheck": {
+        "status": "complete",
+        "reviewed_at": "2026-09-09",
+        "id_range": "987-1001",
+        "rows": 15,
+        "reviewed_fields": [
+          "name",
+          "content",
+          "translation",
+          "note"
+        ],
+        "corrected_ids": [
+          990,
+          997
+        ],
+        "reference_status": "English, not translated; unchanged and matched English verbatim.",
+        "verification": "Every record and all 31 non-null name, translation and note fields rechecked against all 15 exact English rows for accuracy, completeness, natural Indonesian, spelling, grammar and terminology; content remains null. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nullness, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, digits and Bengali checks passed. References and transliteration unchanged from review backup and matched English verbatim. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows exactly match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.",
+        "note": "Improved the ever-adhering punishment wording at ID 990 and clarified the completed return and final destination at ID 997. All other translated fields reviewed and retained, including the full note at ID 1001, the shorter English verse excerpt at ID 994 and torment wording at ID 998. Python unavailable in this session; equivalent Node.js rebuild used unchanged Indonesian schema metadata."
+      }
     }
   }
 }

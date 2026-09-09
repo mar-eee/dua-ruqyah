@@ -134,7 +134,7 @@ For metadata, use this meaning:
 | `duas_027.json` | 885-918 | 34 | complete | Indonesian complete; references kept English |
 | `duas_028.json` | 919-952 | 34 | complete | Indonesian complete; references kept English |
 | `duas_029.json` | 953-986 | 34 | complete | Indonesian complete; references kept English |
-| `duas_030.json` | 987-1001 | 15 | pending |  |
+| `duas_030.json` | 987-1001 | 15 | complete | Indonesian complete; references kept English |
 
 ## Work Status Details
 
@@ -755,4 +755,27 @@ python3 rebuild_japanese_from_json.py
 - References: English, not translated; unchanged with existing README normalization. Transliteration unchanged and matched English verbatim.
 - Verification: Every record and all 76 non-null name, content, translation and note fields rechecked against all 34 exact English rows for accuracy, completeness, natural Indonesian, spelling, grammar and terminology. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nullness, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, digits and Bengali checks passed. References and transliteration unchanged from review backup; matched English with existing documented reference normalization. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows exactly match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.
 - Review notes: Improved descendants phrasing at ID 955, the request to ease fear at ID 964, inclusive whoever wording at ID 973, and the call to faith at ID 974. All other translated fields reviewed and retained, including full narrations, repeated prayers and previously documented English source quirks. Python unavailable in this session; equivalent Node.js rebuild used unchanged Indonesian schema metadata.
+- Temporary backup, helper and intermediate database removed; final artifact: `dua_main_id_rebuilt.sqlite`.
+
+### Indonesian completed: `dua_main_id_planned_json/tables/duas/duas_030.json`
+
+- Status: `pending` → `complete` (Indonesian)
+- ID range: `987-1001`; rows: `15`
+- Completed on: `2026-09-09`
+- Translated and rechecked fields: `name`, `translation`, `note` (31 non-null fields); `content` remains null.
+- Source: exact English rows in `dua_main_en.sqlite`; transliteration copied verbatim.
+- References: English, not translated; copied verbatim from the English database.
+- Verification: All 15 exact English IDs matched; all 31 non-null name, translation and note fields translated and rechecked record by record for accuracy, completeness, natural Indonesian, spelling, grammar and terminology. Content remains null. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nullness, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs and digits verified. No Bengali in editable fields; references ASCII English; references and transliteration copied verbatim. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows exactly match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.
+- Source and review notes: Repeated prayers aligned with earlier reviewed Indonesian wording at IDs 987, 989, 991, 993, 995 and 999; IDs 988 and 1000 use identical wording. Preserved English source scope, including the shorter verse 9 excerpt at ID 994, the torment wording at ID 998, and both morning/evening statements in the note at ID 1001. Final review improved the eternal-residence sentence and inclusive wording at ID 994. English remained the source; no Bengali fallback required. Python unavailable in this session; equivalent Node.js rebuild used unchanged Indonesian schema metadata.
+- Final artifact: `dua_main_id_rebuilt.sqlite`; temporary backup, scripts, state file and intermediate database removed after verification.
+
+### Indonesian independent recheck: `dua_main_id_planned_json/tables/duas/duas_030.json`
+
+- Status: complete; reviewed on `2026-09-09`
+- ID range: `987-1001`; rows: `15`
+- Reviewed fields: `name`, `content`, `translation`, `note` (31 non-null fields)
+- Corrected IDs: 990, 997
+- References: English, not translated; unchanged and matched English verbatim, as did transliteration.
+- Verification: Every record and all 31 non-null name, translation and note fields rechecked against all 15 exact English rows for accuracy, completeness, natural Indonesian, spelling, grammar and terminology; content remains null. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nullness, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, digits and Bengali checks passed. References and transliteration unchanged from review backup and matched English verbatim. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows exactly match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.
+- Review notes: Improved the ever-adhering punishment wording at ID 990 and clarified the completed return and final destination at ID 997. All other translated fields reviewed and retained, including the full note at ID 1001, the shorter English verse excerpt at ID 994 and torment wording at ID 998. Python unavailable in this session; equivalent Node.js rebuild used unchanged Indonesian schema metadata.
 - Temporary backup, helper and intermediate database removed; final artifact: `dua_main_id_rebuilt.sqlite`.
