@@ -14,7 +14,7 @@ BASE = os.path.dirname(HERE)
 
 # Small tables first: they settle the vocabulary the long prose has to match.
 ORDER = ['categories', 'ruqyah_categories', 'sections', 'subcategories',
-         'ruqyah_subcategories', 'ruqyah_videos', 'drawer_items',
+         'ruqyah_subcategories', 'ruqyah_videos',
          'duas', 'ruqyah_instants', 'ruqyah_details', 'dua_infos']
 
 

@@ -10,7 +10,7 @@ Prints per-table progress, any half-finished file (`IN PROGRESS`, with field cou
 `START HERE:` line naming the exact next file. It reads the work files themselves, so it is
 authoritative — the snapshot below is only a summary and will drift.
 
-**Snapshot, 2026-09-08 — 11 of 262 files (488 of 1 971 rows). All the short
+**Snapshot, 2026-09-09 — 11 of 260 files (488 of 1 965 rows). All the short
 "vocabulary-settling" tables are done; only the long-prose tables remain.**
 
 | Table | Files | Status |
@@ -20,8 +20,7 @@ authoritative — the snapshot below is only a summary and will drift.
 | `subcategories` | 3 | ✅ done — 118 rows |
 | `ruqyah_subcategories` | 4 | ✅ done — 163 rows |
 | `ruqyah_videos` | 2 | ✅ done — 74 rows (BN source) |
-| `drawer_items` | 2 | ← **next** (BN source) |
-| `duas` | 64 | pending — the big one, 1 001 rows |
+| `duas` | 64 | ← **next** — the big one, 1 001 rows |
 | `ruqyah_instants` | 20 | pending |
 | `ruqyah_details` | 95 | pending |
 | `dua_infos` | 70 | pending (BN source) |
@@ -30,6 +29,11 @@ authoritative — the snapshot below is only a summary and will drift.
 `book_details` - it exists only as a table of contents for `book_details`, which is
 excluded, so a translated title over an untranslated body is not useful. It was briefly
 translated and then reverted; see pitfall 11.
+
+`drawer_items` (6 rows: the app's privacy-policy, copyright-notice and about-us screens)
+is excluded by instruction — app chrome, not devotional content. It was briefly translated
+(file 001) and then removed from `work/`, `generate.py`, `chunk_index.json` and `PLAN.md`.
+Do not re-add it.
 
 Terminology already settled by the two finished tables lives in `GLOSSARY.json`
 (`canonical` + `settled_wording`). Follow it rather than re-deciding.
@@ -65,20 +69,18 @@ Dua/
 
 Edit `target` only. `null` source → `null` target, never `""`. Never add/remove/reorder items.
 
-- `drawer_items` rows also have `content_sections` — fill each `target`.
 - `duas` rows may have `group_items` — nested dua records inside `duas.groups`. **These are
   user-visible and must be translated.** Treating `groups` as frozen is how Bengali shipped
   inside the Japanese and Indonesian databases.
 
 ## Source per table
 
-English by default. Three are Bengali, because the English DB holds a *different dataset*:
+English by default. Two are Bengali, because the English DB holds a *different dataset*:
 
 | Table | Source | Why |
 |---|---|---|
 | `dua_infos` | BN | EN has 16 unrelated rows; BN has the 42 the app uses |
 | `ruqyah_videos` | BN | EN has 40 English videos; BN has the 74 the links point to |
-| `drawer_items` | BN | EN numbers rows 1–6; the app uses 19–24 |
 
 ## Field rules
 

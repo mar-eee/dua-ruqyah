@@ -5,6 +5,7 @@
   "excluded_tables": [
     "book_details",
     "books",
+    "drawer_items",
     "sections"
   ],
   "tables_without_text": [
@@ -37,9 +38,9 @@
     "subcat_count"
   ],
   "totals": {
-    "files": 262,
-    "chars": 1311129,
-    "rows": 1971
+    "files": 260,
+    "chars": 1302886,
+    "rows": 1965
   },
   "tables": {
     "categories": {
@@ -2244,38 +2245,6 @@
           "id_range": "51-74",
           "source_chars": 1373,
           "items": 24,
-          "status": "pending"
-        }
-      ]
-    },
-    "drawer_items": {
-      "source": "bn",
-      "translate_fields": [
-        "title",
-        "hero_title1",
-        "hero_title2",
-        "content"
-      ],
-      "key_fields": [
-        "id"
-      ],
-      "total_rows": 6,
-      "total_source_chars": 8243,
-      "files": [
-        {
-          "file": "work/drawer_items/drawer_items_001.json",
-          "rows": 3,
-          "id_range": "19-21",
-          "source_chars": 4512,
-          "items": 4,
-          "status": "pending"
-        },
-        {
-          "file": "work/drawer_items/drawer_items_002.json",
-          "rows": 3,
-          "id_range": "22-24",
-          "source_chars": 3731,
-          "items": 4,
           "status": "pending"
         }
       ]

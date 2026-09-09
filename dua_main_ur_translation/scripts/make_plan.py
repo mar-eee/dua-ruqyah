@@ -4,7 +4,7 @@ import json, os
 HERE = os.path.dirname(os.path.abspath(__file__)); BASE = os.path.dirname(HERE)
 idx = json.load(open(os.path.join(BASE, 'metadata', 'chunk_index.json'), encoding='utf-8'))
 ORDER = ['categories', 'ruqyah_categories', 'sections', 'subcategories',
-         'ruqyah_subcategories', 'ruqyah_videos', 'drawer_items',
+         'ruqyah_subcategories', 'ruqyah_videos',
          'duas', 'ruqyah_instants', 'ruqyah_details', 'dua_infos']
 L = ['# Translation Plan', '',
      '**Where to start:** run `python3 scripts/status.py`. It reads the work files and',

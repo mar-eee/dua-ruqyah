@@ -17,12 +17,15 @@ Budget 6000 source characters per file, max 50 rows, big rows split at paragraph
 | [x] | `subcategories` | 3 | 118 | 3,531 | EN |
 | [x] | `ruqyah_subcategories` | 4 | 163 | 4,805 | EN |
 | [x] | `ruqyah_videos` | 2 | 74 | 3,884 | BN |
-| [ ] | `drawer_items` | 2 | 6 | 8,243 | BN |
 | [ ] | `duas` | 64 | 1001 | 363,081 | EN |
 | [ ] | `ruqyah_instants` | 20 | 308 | 112,037 | EN |
 | [ ] | `ruqyah_details` | 95 | 200 | 457,751 | EN |
 | [ ] | `dua_infos` | 70 | 42 | 357,024 | BN |
-| | **total** | **262** | **1971** | **1,311,129** | |
+| | **total** | **260** | **1965** | **1,302,886** | |
+
+`drawer_items` (app screens — privacy policy, copyright notice, about us) is
+**excluded**: not devotional content. Removed from the workspace and from
+`generate.py`.
 
 ---
 
@@ -72,36 +75,27 @@ Source: **BN** · fields: `name`, `author` · key: `id`
 | [x] | `work/ruqyah_videos/ruqyah_videos_001.json` | 50 | 1-50 | 2,511 | 50 |
 | [x] | `work/ruqyah_videos/ruqyah_videos_002.json` | 24 | 51-74 | 1,373 | 24 |
 
-## `drawer_items`
-
-Source: **BN** · fields: `title`, `hero_title1`, `hero_title2`, `content` · key: `id`
-
-| | File | Rows | IDs | Chars | Items |
-|---|---|---:|---|---:|---:|
-| [ ] | `work/drawer_items/drawer_items_001.json` | 3 | 19-21 | 4,512 | 4 |
-| [ ] | `work/drawer_items/drawer_items_002.json` | 3 | 22-24 | 3,731 | 4 |
-
 ## `duas`
 
 Source: **EN** · fields: `name`, `content`, `translation`, `note` · key: `id`
 
 | | File | Rows | IDs | Chars | Items |
 |---|---|---:|---|---:|---:|
-| [ ] | `work/duas/duas_001.json` | 15 | 1-15 | 5,906 | 15 |
-| [ ] | `work/duas/duas_002.json` | 17 | 16-32 | 5,888 | 17 |
-| [ ] | `work/duas/duas_003.json` | 18 | 33-50 | 5,759 | 18 |
-| [ ] | `work/duas/duas_004.json` | 12 | 51-62 | 5,991 | 12 |
-| [ ] | `work/duas/duas_005.json` | 14 | 63-76 | 5,636 | 14 |
-| [ ] | `work/duas/duas_006.json` | 14 | 77-90 | 5,695 | 14 |
-| [ ] | `work/duas/duas_007.json` | 10 | 91-100 | 5,649 | 10 |
-| [ ] | `work/duas/duas_008.json` | 12 | 101-112 | 4,931 | 12 |
-| [ ] | `work/duas/duas_009.json` | 8 | 113-120 | 5,951 | 8 |
-| [ ] | `work/duas/duas_010.json` | 15 | 121-135 | 5,680 | 15 |
-| [ ] | `work/duas/duas_011.json` | 8 | 136-143 | 5,496 | 8 |
-| [ ] | `work/duas/duas_012.json` | 14 | 144-157 | 5,560 | 14 |
-| [ ] | `work/duas/duas_013.json` | 14 | 158-171 | 5,800 | 14 |
-| [ ] | `work/duas/duas_014.json` | 17 | 172-188 | 5,762 | 17 |
-| [ ] | `work/duas/duas_015.json` | 16 | 189-204 | 5,632 | 16 |
+| [x] | `work/duas/duas_001.json` | 15 | 1-15 | 5,906 | 15 |
+| [x] | `work/duas/duas_002.json` | 17 | 16-32 | 5,888 | 17 |
+| [x] | `work/duas/duas_003.json` | 18 | 33-50 | 5,759 | 18 |
+| [x] | `work/duas/duas_004.json` | 12 | 51-62 | 5,991 | 12 |
+| [x] | `work/duas/duas_005.json` | 14 | 63-76 | 5,636 | 14 |
+| [x] | `work/duas/duas_006.json` | 14 | 77-90 | 5,695 | 14 |
+| [x] | `work/duas/duas_007.json` | 10 | 91-100 | 5,649 | 10 |
+| [x] | `work/duas/duas_008.json` | 12 | 101-112 | 4,931 | 12 |
+| [x] | `work/duas/duas_009.json` | 8 | 113-120 | 5,951 | 8 |
+| [x] | `work/duas/duas_010.json` | 15 | 121-135 | 5,680 | 15 |
+| [x] | `work/duas/duas_011.json` | 8 | 136-143 | 5,496 | 8 |
+| [x] | `work/duas/duas_012.json` | 14 | 144-157 | 5,560 | 14 |
+| [x] | `work/duas/duas_013.json` | 14 | 158-171 | 5,800 | 14 |
+| [x] | `work/duas/duas_014.json` | 17 | 172-188 | 5,762 | 17 |
+| [x] | `work/duas/duas_015.json` | 16 | 189-204 | 5,632 | 16 |
 | [ ] | `work/duas/duas_016.json` | 16 | 205-220 | 5,675 | 16 |
 | [ ] | `work/duas/duas_017.json` | 14 | 221-234 | 5,780 | 14 |
 | [ ] | `work/duas/duas_018.json` | 9 | 235-243 | 5,632 | 9 |

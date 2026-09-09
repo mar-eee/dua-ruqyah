@@ -24,8 +24,9 @@ BUDGET    = 6000   # translatable source characters per work file
 MAX_ROWS  = 50     # never put more than this many rows in one file
 PART_SIZE = 2000   # target size of one part when a big row is split
 
-# Book tables are excluded by instruction.
-EXCLUDE = {'books', 'book_details'}
+# Book tables are excluded by instruction. drawer_items (app screens: privacy
+# policy, copyright notice, about us) is excluded too - not devotional content.
+EXCLUDE = {'books', 'book_details', 'drawer_items'}
 # No translatable text at all.
 NO_TEXT = {'ids', 'drawer_item_actions'}
 
@@ -40,7 +41,6 @@ SOURCE = {
     'ruqyah_categories': 'en', 'ruqyah_subcategories': 'en',
     'ruqyah_details': 'en', 'ruqyah_instants': 'en',
     'ruqyah_videos': 'bn',
-    'drawer_items': 'bn',
 }
 
 TRANSLATE = {
@@ -54,7 +54,6 @@ TRANSLATE = {
     'ruqyah_details': ['topic_name', 'text'],
     'ruqyah_instants': ['topic_name', 'name', 'content', 'translation'],
     'ruqyah_videos': ['name', 'author'],
-    'drawer_items': ['title', 'hero_title1', 'hero_title2', 'content'],
 }
 
 # Fields copied through untouched. Everything not in TRANSLATE is frozen.
