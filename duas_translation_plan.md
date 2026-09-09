@@ -129,7 +129,7 @@ For metadata, use this meaning:
 | `duas_022.json` | 715-748 | 34 | complete | Indonesian complete; references kept English |
 | `duas_023.json` | 749-782 | 34 | complete | Indonesian complete; references kept English |
 | `duas_024.json` | 783-816 | 34 | complete | Indonesian complete; references kept English |
-| `duas_025.json` | 817-850 | 34 | pending |  |
+| `duas_025.json` | 817-850 | 34 | complete | Indonesian complete; references kept English |
 | `duas_026.json` | 851-884 | 34 | pending |  |
 | `duas_027.json` | 885-918 | 34 | pending |  |
 | `duas_028.json` | 919-952 | 34 | pending |  |
@@ -641,3 +641,26 @@ python3 rebuild_japanese_from_json.py
 - Verification: Every name, content, translation and note reviewed record by record against all 34 exact English rows. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, digits and Bengali checks passed. References and transliteration unchanged from review backup, with existing documented reference normalization and ID 789 fallback preserved. Equivalent Node.js rebuild passed; reopened database integrity ok; all 15 tables / 3082 rows exactly match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.
 - Review notes: Restored the exclusive wording at IDs 784-785; clarified the whip sound at ID 798 and shifting eyes at ID 799; improved sentence flow at ID 799, reckoning wording at ID 800, weakness in old age at ID 803, the withheld-things/rest clause at ID 805, devotional phrasing at ID 806 and firmness in religion at ID 808. Previously documented English source quirks, including the mismatched prayer and stray distress phrase at ID 787, retained. Python unavailable in this session; equivalent Node.js rebuild followed the unchanged Python script and Indonesian schema metadata.
 - Temporary review backup, script and intermediate database removed; verified final artifact: `dua_main_id_rebuilt.sqlite`.
+
+### Indonesian completed: `dua_main_id_planned_json/tables/duas/duas_025.json`
+
+- Status: `pending` → `complete` (Indonesian)
+- ID range: `817-850`; rows: `34`
+- Completed on: `2026-09-09`
+- Translated and rechecked fields: `name`, `content`, `translation`, `note` (93 non-null fields)
+- Source: exact English rows in `dua_main_en.sqlite`; transliteration copied verbatim.
+- References: English, not translated; copied from dua_main_en.sqlite. README formatting applied at IDs 820, 822, 824 and 837 (colons, removal of No., ASCII apostrophe and spacing); every citation number preserved. References at IDs 819 and 829 remain null.
+- Verification: All 34 exact English IDs matched. All 93 non-null name, content, translation and note fields translated and rechecked record by record for accuracy, completeness, natural Indonesian, spelling, grammar and consistent Islamic terminology. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nullness, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, digits and footnotes validated. No Bengali in editable fields; references ASCII English with all citation numbers preserved; transliteration copied verbatim. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows exactly match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.
+- Source and review notes: Bengali consulted to resolve ambiguity in IDs 820, 830, 833, 840 and 847; English remains the primary source. Reversed benefactor/recipient wording clarified at IDs 830 and 847; the malformed eating instruction at ID 840 rendered as eating with the right hand and from the nearest part, with the continuing practice expressed naturally. Preserved source quirks: incomplete continuation at ID 819; dates in ID 826; seven clauses per paragraph in ID 839 despite differences in protected Arabic/transliteration; from Allah wording in ID 845. Removed the stray p before I in ID 839 when translating. Final review refined the prayer syntax at ID 825, tasbih wording at ID 839 and title at ID 842. Python unavailable in this session; equivalent Node.js rebuild followed the unchanged Python rebuild script and Indonesian schema metadata.
+- Final artifact: `dua_main_id_rebuilt.sqlite`; temporary backup, scripts, state file and intermediate database removed after verification.
+
+### Indonesian independent recheck: `dua_main_id_planned_json/tables/duas/duas_025.json`
+
+- Status: complete; reviewed on `2026-09-09`
+- ID range: `817-850`; rows: `34`
+- Reviewed fields: `name`, `content`, `translation`, `note` (93 non-null fields)
+- Corrected IDs: 819, 825, 826, 833, 838, 848
+- References: English, not translated; unchanged with existing README normalization. Null references at IDs 819 and 829 preserved; transliteration unchanged and matched English verbatim.
+- Verification: Every record and all 93 non-null name, content, translation and note fields rechecked against all 34 exact English rows. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nullness, all protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, digits and Bengali checks passed. References and transliteration unchanged from review backup and matched English with existing documented reference normalization; null references preserved. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows exactly match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.
+- Review notes: Smoothed the introductions at IDs 819, 825 and 848; clarified newly appearing seasonal fruit and restored the beneficiaries of the blessing at ID 826; replaced casual Sesukamu with respectful wording at ID 833; restored the second direct address at ID 838. All other translated fields reviewed and retained, including previously documented source ambiguities and quirks. Python unavailable in this session; equivalent Node.js rebuild used unchanged Indonesian schema metadata.
+- Temporary review backup, helper and intermediate database removed; final artifact: `dua_main_id_rebuilt.sqlite`.
