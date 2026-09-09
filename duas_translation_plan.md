@@ -130,7 +130,7 @@ For metadata, use this meaning:
 | `duas_023.json` | 749-782 | 34 | complete | Indonesian complete; references kept English |
 | `duas_024.json` | 783-816 | 34 | complete | Indonesian complete; references kept English |
 | `duas_025.json` | 817-850 | 34 | complete | Indonesian complete; references kept English |
-| `duas_026.json` | 851-884 | 34 | pending |  |
+| `duas_026.json` | 851-884 | 34 | complete | Indonesian complete; references kept English |
 | `duas_027.json` | 885-918 | 34 | pending |  |
 | `duas_028.json` | 919-952 | 34 | pending |  |
 | `duas_029.json` | 953-986 | 34 | pending |  |
@@ -664,3 +664,26 @@ python3 rebuild_japanese_from_json.py
 - Verification: Every record and all 93 non-null name, content, translation and note fields rechecked against all 34 exact English rows. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nullness, all protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, digits and Bengali checks passed. References and transliteration unchanged from review backup and matched English with existing documented reference normalization; null references preserved. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows exactly match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.
 - Review notes: Smoothed the introductions at IDs 819, 825 and 848; clarified newly appearing seasonal fruit and restored the beneficiaries of the blessing at ID 826; replaced casual Sesukamu with respectful wording at ID 833; restored the second direct address at ID 838. All other translated fields reviewed and retained, including previously documented source ambiguities and quirks. Python unavailable in this session; equivalent Node.js rebuild used unchanged Indonesian schema metadata.
 - Temporary review backup, helper and intermediate database removed; final artifact: `dua_main_id_rebuilt.sqlite`.
+
+### Indonesian completed: `dua_main_id_planned_json/tables/duas/duas_026.json`
+
+- Status: `pending` → `complete` (Indonesian)
+- ID range: `851-884`; rows: `34`
+- Completed on: `2026-09-09`
+- Translated and rechecked fields: `name`, `content`, `translation`, `note` (78 non-null fields)
+- Source: exact English rows in `dua_main_en.sqlite`; transliteration copied verbatim.
+- References: English, not translated; copied from dua_main_en.sqlite with collection/number colons at IDs 854, 865, 866, 867, 871 and 880. All numbers preserved. References at IDs 877 and 878 remain null.
+- Verification: All 34 exact English IDs matched. All 78 non-null name, content, translation and note fields translated and rechecked record by record for meaning, completeness, natural Indonesian, spelling, grammar and terminology. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nulls, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs and numbers verified. No Bengali in editable fields; references ASCII English; transliteration copied verbatim. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows exactly match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.
+- Source and review notes: English source quirks retained: from Allah wording at ID 853; goat, jaws and horn-color description at ID 858; waning/disappearing moon at ID 866; spine and Almighty wording at ID 871; rukoo titles at IDs 874 and 876 despite standing-after-rukoo subcategory; safety at ID 882; shorter forgiveness prayer and Merciful at ID 884. Bengali and protected Arabic consulted only to clarify the malformed body-support clause at ID 871 and review source differences. Repeated devotional phrases matched established Indonesian wording; final review smoothed ID 855 introduction and ID 871 grammar. Python unavailable in this session; equivalent Node.js rebuild used unchanged Indonesian schema metadata.
+- Final artifact: `dua_main_id_rebuilt.sqlite`; temporary backup, helper scripts, state file and intermediate database removed after verification.
+
+### Indonesian independent recheck: `dua_main_id_planned_json/tables/duas/duas_026.json`
+
+- Status: complete; reviewed on `2026-09-09`
+- ID range: `851-884`; rows: `34`
+- Reviewed fields: `name`, `content`, `translation`, `note` (78 non-null fields)
+- Corrected IDs: 855, 860, 872, 878, 879
+- References: English, not translated; unchanged with existing README normalization. Null references at IDs 877 and 878 preserved; transliteration unchanged and matched English verbatim.
+- Verification: Every record and all 78 non-null name, content, translation and note fields rechecked against all 34 exact English rows for accuracy, completeness, natural Indonesian, spelling, grammar and terminology. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nullness, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, digits and Bengali checks passed. References and transliteration unchanged from review backup; matched English with existing documented reference normalization. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows exactly match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.
+- Review notes: Restored habitual wording at IDs 855 and 878, simplified the narration sentence structure at ID 860, replaced Mahaberkah with natural Indonesian at ID 872, and improved the distance request at ID 879. All other translated fields reviewed and retained. Previously documented English source quirks preserved. Python unavailable in this session; equivalent Node.js rebuild used unchanged Indonesian schema metadata.
+- Temporary backup, helper and intermediate database removed; final artifact: `dua_main_id_rebuilt.sqlite`.
