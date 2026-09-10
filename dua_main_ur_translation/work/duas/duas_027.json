@@ -3,7 +3,7 @@
   "chunk": "duas_027.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 19,
   "id_range": "342-360",
   "source_chars": 5840,
@@ -34,10 +34,10 @@
         "note": "Allah's Messenger (ﷺ) performed Tawaf (of the Ka`ba) ending a camel (at that time the Prophet [ﷺ] had foot injury). Whenever he came to the Corner (having the Black Stone) he would point out towards it with a thing in his hand and say, \"Allahu-Akbar.\" (The dua is Mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "حجرِ اسود کے پاس پہنچ کر تکبیر کہنا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ سب سے بڑا ہے۔",
+        "note": "رسول اللہ ﷺ نے اونٹ پر سوار ہو کر کعبے کا طواف کیا (اس وقت آپ ﷺ کے پاؤں میں چوٹ تھی)۔ جب بھی آپ ﷺ حجرِ اسود والے کونے کے پاس پہنچتے تو اپنے ہاتھ میں موجود چیز سے اس کی طرف اشارہ کرتے اور ’’اللہ اکبر‘‘ کہتے۔ (دعا اوپر مذکور ہے۔)"
       },
       "reference_bn": {
         "name": "হাজরে আসওয়াদের কাছে আসলে তাকবীর বলা",
@@ -71,9 +71,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "مزدلفہ میں مشعرِ حرام کے پاس",
+        "content": "رسول اللہ ﷺ قصواء نامی اونٹنی پر سوار ہوئے۔ جب مشعرِ حرام (مزدلفہ کے ایک مقام) پر پہنچے تو قبلہ رخ ہو کر دعا کی اور یہ تکبیر کہی:",
+        "translation": "اللہ سب سے بڑا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -86,31 +86,31 @@
           "group": 0,
           "key": "content",
           "source": "He recited La ila-ha illallah",
-          "target": ""
+          "target": "آپ ﷺ نے لا الٰہ الا اللہ پڑھا:"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "None has the right to be worshipped but Allah alone.",
-          "target": ""
+          "target": "اللہ وحدہٗ کے سوا کوئی معبودِ برحق نہیں۔"
         },
         {
           "group": 1,
           "key": "content",
           "source": "And extolled His Tawheed or Unity",
-          "target": ""
+          "target": "اور اللہ کی توحید بیان فرمائی:"
         },
         {
           "group": 1,
           "key": "translation",
           "source": "Allah is the one.",
-          "target": ""
+          "target": "اللہ ایک ہے۔"
         },
         {
           "group": 1,
           "key": "note",
           "source": "Then he (the sky) stays there until it becomes full fair. Then he left Muzdalifah before the sun rose.",
-          "target": ""
+          "target": "پھر آپ ﷺ وہیں ٹھہرے رہے، یہاں تک کہ صبح کی روشنی خوب پھیل گئی۔ اس کے بعد سورج طلوع ہونے سے پہلے مزدلفہ سے روانہ ہو گئے۔"
         }
       ]
     },
@@ -140,10 +140,10 @@
         "note": "Then he would move forward a little and stand facing the Qibla and would do Dua with both hands raised in the first Jamra and the second Jamra. But at the time of throwing every pebble at Jamratul Akbaba, he would say ‘Allahu Akbar’ and return without staying there."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "جمرات کو ہر کنکری مارتے وقت",
+        "content": "رسول اللہ ﷺ تینوں جمرات کو کنکریاں مارتے وقت یہ کہتے تھے:",
+        "translation": "اللہ سب سے بڑا ہے۔",
+        "note": "پہلے اور دوسرے جمرے کو کنکریاں مارنے کے بعد آپ ﷺ کچھ آگے بڑھ کر قبلہ رخ کھڑے ہوتے اور دونوں ہاتھ اٹھا کر دعا کرتے تھے۔ البتہ جمرۂ عقبہ کو ہر کنکری مارتے وقت ’’اللہ اکبر‘‘ کہتے اور وہاں ٹھہرے بغیر واپس آ جاتے تھے۔"
       },
       "reference_bn": {
         "name": "জামরাসমূহে প্রত্যেক কংকর নিক্ষেপকালে তাকবীর বলা",
@@ -178,9 +178,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "صفا اور مروہ پر کھڑے ہو کر پڑھنے کی دعا",
+        "content": "رسول اللہ ﷺ جب صفا پہاڑی کے قریب پہنچے تو یہ آیت پڑھی:",
+        "translation": "بے شک صفا اور مروہ اللہ کی نشانیوں میں سے ہیں۔ [1]",
         "note": null
       },
       "reference_bn": {
@@ -193,19 +193,19 @@
           "group": 0,
           "key": "content",
           "source": "And then say: I begin by that which Allah began. so he started with as-Safaa and climbed it until he could see the Ka'bah, he then faced it and said:",
-          "target": ""
+          "target": "پھر فرمایا: ’’میں اسی سے شروع کرتا ہوں جس سے اللہ نے شروع فرمایا ہے۔‘‘ چنانچہ آپ ﷺ نے صفا سے آغاز کیا اور اس پر اتنا چڑھے کہ کعبہ نظر آنے لگا۔ پھر کعبے کی طرف رخ کر کے یہ کلمات پڑھے:"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "None has the right to be worshipped but Allah alone, Who has no partener, His is the dominion and His is the praise, and He is Able to do all things. None has the right to be worshipped but Allah alone, He fulfilled His Promise, He aided His slave, and He alone defeated Confederates.",
-          "target": ""
+          "target": "اللہ کے سوا کوئی معبودِ برحق نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں۔ اسی کی بادشاہی ہے اور اسی کے لیے تمام تعریف ہے، اور وہ ہر چیز پر قادر ہے۔ اللہ وحدہٗ کے سوا کوئی معبودِ برحق نہیں۔ اس نے اپنا وعدہ پورا فرمایا، اپنے بندے کی مدد فرمائی اور تنہا اسی نے دشمن کے لشکروں کو شکست دی۔"
         },
         {
           "group": 0,
           "key": "note",
           "source": "Then he would ask Allah for what he liked, repeating the same thing like this three times. He did at Mount Marwah as he did at Mount Safa. [2]",
-          "target": ""
+          "target": "پھر آپ ﷺ اللہ سے اپنی پسند کی دعا مانگتے۔ اسی طرح تین بار یہ کلمات دہرائے۔ مروہ پہاڑی پر بھی آپ ﷺ نے وہی کیا جو صفا پہاڑی پر کیا تھا۔ [2]"
         }
       ]
     },
@@ -235,9 +235,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "قربانی کی دعا #1",
+        "content": "حضرت جندب بن عبداللہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ’’ذبح کرنے والا بسم اللہ کہہ کر ذبح کرے۔‘‘",
+        "translation": "اللہ کے نام سے۔",
         "note": null
       },
       "reference_bn": {
@@ -272,9 +272,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "قربانی کی دعا #2",
+        "content": "حضرت انس رضی اللہ عنہ بیان کرتے ہیں کہ رسول اللہ ﷺ نے سیاہ و سفید رنگ کے دو سینگ دار مینڈھوں کے پہلوؤں پر اپنا پاؤں رکھ کر ’’بسم اللہ واللہ اکبر‘‘ کہتے ہوئے انہیں قربان کیا۔",
+        "translation": "اللہ کے نام سے، اور اللہ سب سے بڑا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -309,9 +309,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "جانور ذبح کرتے وقت کے کلمات",
         "content": null,
-        "translation": "",
+        "translation": "اللہ کے نام سے، اور اللہ سب سے بڑا ہے۔ [اے اللہ! یہ تیری ہی عطا ہے اور تیرے ہی لیے ہے۔] اے اللہ! اسے میری طرف سے قبول فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -345,10 +345,10 @@
         "note": "Then he sacrificed it."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "ذبح کرتے وقت نبی کریم ﷺ کے کلمات #1",
+        "content": "رسول اللہ ﷺ ذبح کرتے وقت یہ کہتے تھے:",
+        "translation": "اللہ کے نام سے۔ اے اللہ! اسے محمد ﷺ، آلِ محمد ﷺ اور امتِ محمد ﷺ کی طرف سے قبول فرما۔",
+        "note": "پھر آپ ﷺ نے اسے قربان فرمایا۔"
       },
       "reference_bn": {
         "name": "নবী (ﷺ) জবাই করার সময় যা বলতেন #১",
@@ -383,9 +383,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "ذبح کرتے وقت نبی کریم ﷺ کے کلمات #2",
+        "content": "رسول اللہ ﷺ ذبح کرتے وقت یہ کہتے تھے:",
+        "translation": "اللہ کے نام سے، اور اللہ سب سے بڑا ہے۔ یہ میری طرف سے اور میری امت کے ان لوگوں کی طرف سے ہے جنہوں نے قربانی نہیں کی۔",
         "note": null
       },
       "reference_bn": {
@@ -420,8 +420,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "شیطان سے اللہ کی پناہ مانگنا",
+        "content": "اللہ تعالیٰ ارشاد فرماتا ہے:\n\nاور اگر شیطان کی طرف سے تمہیں کوئی وسوسہ آئے تو اللہ کی پناہ مانگو۔ بے شک وہی سب کچھ سننے والا، سب کچھ جاننے والا ہے۔",
         "translation": null,
         "note": null
       },
@@ -456,8 +456,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "شیطان کو دور کرنے کے اذکار اور اعمال",
+        "content": "1. شیطان سے اللہ کی پناہ مانگنا؛\n2. اذان دینا؛ [1]\n3. ذکر اور قرآن کی تلاوت کرنا؛ اور [2]\n4. نماز اور تلاوتِ قرآن کے دوران بائیں طرف تین بار تھتکارنا۔\n\nشیطان کو دور کرنے والے دیگر اعمال میں صبح و شام کے اذکار، سونے اور بیدار ہونے کے اذکار، گھر میں داخل ہونے اور گھر سے نکلنے کے اذکار، مسجد میں داخل ہونے اور مسجد سے نکلنے کے اذکار اور دوسرے شرعی اذکار شامل ہیں۔ مثلاً سوتے وقت آیت الکرسی اور سورہ بقرہ کی آخری دو آیات پڑھنا۔ نیز جو شخص سو بار “La ilaha illallah wahdahu la sharika lahu, lahul mulku wa lahul hamdu, wahua 'ala qulli shayin qadir” پڑھے، اسے اس دن بھر کے لیے مکمل حفاظت ملتی ہے۔ اسی طرح اذان دینے سے بھی شیطان بھاگ جاتا ہے۔\n\nرسول اللہ ﷺ نے فرمایا: ’’اپنے گھروں کو قبریں نہ بناؤ۔ یقیناً شیطان اس گھر سے بھاگ جاتا ہے جس میں سورہ بقرہ پڑھی جاتی ہے۔‘‘ [Muslim: 780]",
         "translation": null,
         "note": null
       },
@@ -492,9 +492,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "شیطان اور اس کے وسوسوں سے بچنے کی دعا #1",
+        "content": "اس دعا کے ذریعے شیطان سے اللہ کی پناہ مانگیں:",
+        "translation": "میں مردود شیطان سے اللہ کی پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -529,9 +529,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "شیطان اور اس کے وسوسوں سے بچنے کی دعا #2",
         "content": null,
-        "translation": "",
+        "translation": "اے میرے رب! میں شیطانوں کے وسوسوں سے تیری پناہ مانگتا ہوں۔ اور اے میرے رب! میں ان کے اپنے پاس آنے سے بھی تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -565,9 +565,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "شیطان اور اس کے وسوسوں سے بچنے کی دعا #3",
         "content": null,
-        "translation": "",
+        "translation": "میں سب کچھ سننے والے، سب کچھ جاننے والے اللہ کی پناہ مانگتا ہوں، مردود شیطان سے، اس کے جنون یا وسوسے (ہمز)، اس کے تکبر میں مبتلا کرنے (نفخ) اور اس کے جادو (نفث) سے۔",
         "note": null
       },
       "reference_bn": {
@@ -601,9 +601,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "نماز یا تلاوت میں شیطانی وسوسہ آنے کی دعا",
+        "content": "نماز میں شیطان کی موجودگی محسوس ہو تو یہ دعا پڑھیں اور بائیں طرف تین بار تھتکاریں:",
+        "translation": "میں مردود شیطان سے اللہ کی پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -638,10 +638,10 @@
         "note": "Uqbah (RA) said, ‘When someone recites this du’a, the devil says, ‘This man escaped from me (evil and intrigue) for the whole day."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "مسجد میں داخل ہوتے وقت شیطان سے پناہ #1",
+        "content": "مسجد میں داخل ہوتے وقت کہیں:",
+        "translation": "میں اللہ عظیم، اس کے چہرۂ کریم اور اس کی ازلی سلطنت کی پناہ مانگتا ہوں، مردود شیطان سے۔",
+        "note": "عقبہ رحمہ اللہ بیان کرتے ہیں: ’’جب کوئی یہ دعا پڑھتا ہے تو شیطان کہتا ہے: یہ شخص پورے دن کے لیے میرے شر اور وسوسوں سے محفوظ ہو گیا۔‘‘"
       },
       "reference_bn": {
         "name": "মসজিদে প্রবেশকালে শয়তান থেকে আশ্রয় চাওয়া #১",
@@ -676,9 +676,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "مسجد میں داخل ہوتے وقت شیطان سے پناہ #2",
+        "content": "مسجد میں داخل ہوتے وقت کہیں:",
+        "translation": "اے اللہ! مجھے مردود شیطان سے محفوظ رکھ۔",
         "note": null
       },
       "reference_bn": {
@@ -713,9 +713,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "مسجد سے نکلتے وقت شیطان سے پناہ",
+        "content": "حضرت ابو ہریرہ رضی اللہ عنہ بیان کرتے ہیں کہ رسول اللہ ﷺ نے مسجد سے نکلتے وقت یہ ذکر پڑھنے کی ہدایت فرمائی:",
+        "translation": "اے اللہ! مجھے مردود شیطان سے محفوظ رکھ۔",
         "note": null
       },
       "reference_bn": {
@@ -750,8 +750,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "نومولود سے شیطان کی دشمنی",
+        "content": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ’’جب کوئی انسان پیدا ہوتا ہے تو شیطان اپنی دو انگلیوں سے اس کے جسم کے دونوں پہلوؤں کو چھوتا ہے، سوائے عیسیٰ بن مریم علیہ السلام کے۔ شیطان نے انہیں چھونا چاہا مگر نہ چھو سکا، بلکہ اس نے ان کے گرد موجود جھلی کو چھوا۔‘‘",
         "translation": null,
         "note": null
       },

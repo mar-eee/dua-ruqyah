@@ -3,7 +3,7 @@
   "chunk": "duas_028.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 12,
   "id_range": "361-372",
   "source_chars": 5808,
@@ -34,9 +34,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "نومولود کے والد کے لیے دعا اور اس کا جواب #1",
+        "content": "حضرت حسن بصری رحمہ اللہ سے مروی ہے کہ انہوں نے ایک شخص کو مبارک باد دینے کا طریقہ سکھاتے ہوئے فرمایا: ’’یوں کہو:‘‘",
+        "translation": "اللہ تمہیں اپنی عطا کردہ اولاد میں برکت دے، تمہیں اس عطا کرنے والے کا شکر ادا کرنے کی توفیق دے، یہ بچہ جوانی کو پہنچے اور تمہیں اس کی نیکی اور حسنِ سلوک سے بہرہ مند فرمائے۔",
         "note": null
       },
       "reference_bn": {
@@ -71,9 +71,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "نومولود کے والد کے لیے دعا اور اس کا جواب #2",
+        "content": "مبارک باد دینے والے کو اس طرح جواب دینا اچھا ہے:",
+        "translation": "اللہ تمہیں برکت دے، تم پر برکت نازل فرمائے، تمہیں بہترین بدلہ دے، تمہیں بھی ایسی ہی نعمت عطا فرمائے اور تمہارا اجر خوب بڑھائے۔",
         "note": null
       },
       "reference_bn": {
@@ -108,10 +108,10 @@
         "note": "The Prophet (ﷺ) say: \"Your forefather Ibrahim (AS) used to seek Refuge with Allah for Ishmael (AS) and Isaac (AS) by reciting this dua."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "اولاد اور دوسروں کو اللہ کی پناہ میں دینے کی دعا",
+        "content": "رسول اللہ ﷺ حضرت حسن اور حضرت حسین رضی اللہ عنہما کو اللہ کی پناہ میں دیتے ہوئے یہ دعا پڑھا کرتے تھے:",
+        "translation": "میں تم دونوں کو اللہ کے کامل کلمات کی پناہ میں دیتا ہوں، ہر شیطان، ہر موذی جانور اور ہر نظرِ بد سے۔",
+        "note": "رسول اللہ ﷺ فرمایا کرتے تھے: ’’تمہارے جد حضرت ابراہیم علیہ السلام بھی حضرت اسماعیل اور حضرت اسحاق علیہما السلام کو یہ دعا پڑھ کر اللہ کی پناہ میں دیا کرتے تھے۔‘‘"
       },
       "reference_bn": {
         "name": "সন্তান ও অন্যদেরকে আল্লাহ্‌র আশ্রয়ে দেওয়ার দোয়া",
@@ -146,9 +146,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "کسی چیز کے شر سے اللہ کی پناہ مانگنا",
         "content": null,
-        "translation": "",
+        "translation": "میں اللہ کے ان کامل کلمات کی پناہ لیتا ہوں جن سے کوئی نیک یا بد شخص تجاوز نہیں کر سکتا، ہر اس چیز کے شر سے جسے اس نے پیدا کیا، وجود بخشا اور پھیلایا؛ آسمان سے اترنے والی چیزوں کے شر سے اور اس کی طرف چڑھنے والی چیزوں کے شر سے؛ زمین میں پھیلی ہوئی چیزوں کے شر سے اور اس سے نکلنے والی چیزوں کے شر سے؛ رات اور دن کے فتنوں کے شر سے اور رات کو آنے والے ہر ایک کے شر سے، سوائے اس کے جو بھلائی لے کر آئے، اے رحمان!",
         "note": null
       },
       "reference_bn": {
@@ -182,10 +182,10 @@
         "note": "Abu Huraira (RA) reported Allah's Messenger (ﷺ) as saying: A strong believer is better and is more lovable to Allah than a weak believer, and there is good in everyone, (but) cherish that which gives you benefit (in the Hereafter) and seek help from Allah and do not lose heart, and if anything (in the form of trouble) comes to you, don't say: If I had not done that, it would not have happened so and so, but say: (The dua is Mentioned above) your \"if\" opens the (gate) for the Satan."
       },
       "target": {
-        "name": "",
+        "name": "کوئی ناگوار بات پیش آنے پر",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ نے یہی مقدر فرمایا، اور وہ جو چاہتا ہے کرتا ہے۔",
+        "note": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ’’طاقت ور مومن کمزور مومن سے بہتر اور اللہ کو زیادہ محبوب ہے، اور دونوں میں بھلائی ہے۔ اس چیز کے حصول کی کوشش کرو جو تمہیں (آخرت میں) فائدہ دے، اللہ سے مدد مانگو اور ہمت نہ ہارو۔ اگر تمہیں کوئی مصیبت پہنچے تو یہ نہ کہو کہ اگر میں یوں کرتا تو ایسا ہوتا، بلکہ یہ کہو (دعا اوپر مذکور ہے)، کیونکہ تمہارا ’اگر‘ کہنا شیطان کے عمل کا دروازہ کھول دیتا ہے۔‘‘"
       },
       "reference_bn": {
         "name": "অপছন্দনীয় কিছু ঘটে গেলে",
@@ -219,9 +219,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "کسی مشکل معاملے کا سامنا ہونے پر",
+        "content": "رسول اللہ ﷺ نے فرمایا:",
+        "translation": "اے اللہ! کوئی چیز آسان نہیں، سوائے اس کے جسے تو آسان کر دے، اور تو چاہے تو مشکل کو آسان کر دیتا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -256,8 +256,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "کوئی گناہ ہو جانے پر",
+        "content": "حضرت علی بن ابی طالب رضی اللہ عنہ سے روایت ہے، وہ بیان کرتے ہیں: حضرت ابو بکر رضی اللہ عنہ نے مجھ سے ایک حدیث بیان کی، اور انہوں نے سچ بیان کیا۔ انہوں نے فرمایا: میں نے رسول اللہ ﷺ کو فرماتے سنا: ’’جب کوئی بندہ گناہ کر بیٹھے، پھر اچھی طرح وضو کرے، پھر کھڑا ہو کر دو رکعت نماز پڑھے اور اللہ سے مغفرت مانگے، تو اللہ اسے بخش دیتا ہے۔‘‘ پھر آپ ﷺ نے یہ آیت تلاوت فرمائی:\n\nاور وہ لوگ کہ جب کوئی بے حیائی کا کام کر بیٹھتے ہیں یا اپنی جانوں پر ظلم کرتے ہیں تو اللہ کو یاد کرتے ہیں اور اپنے گناہوں کی مغفرت مانگتے ہیں — اور اللہ کے سوا کون گناہوں کو بخش سکتا ہے؟ — اور جان بوجھ کر اپنے کیے پر اصرار نہیں کرتے۔ یہی لوگ ہیں جن کا بدلہ ان کے رب کی طرف سے مغفرت اور ایسے باغات ہیں جن کے نیچے نہریں بہتی ہیں، وہ ان میں ہمیشہ رہیں گے۔ اور نیک عمل کرنے والوں کا کیا ہی اچھا اجر ہے! (Surah Al 'Imran 3: 135-136)",
         "translation": null,
         "note": null
       },
@@ -292,10 +292,10 @@
         "note": "The Prophet (ﷺ) said, \"When you hear the crowing of rooster, ask for Allah's Blessings for (their crowing indicates that) they have seen an angel. And when you hear the braying of donkeys, seek Refuge with Allah from Satan for (their braying indicates) that they have seen a Satan. [1]\n\nIn another narration when you hear the rooster crowing, ask Allah for some of His grace, for they have seen as angel; but when you hear donkey braying, seek refuge in Allah from the devil, for it has seen the devil. [2]"
       },
       "target": {
-        "name": "",
+        "name": "مرغ کی بانگ، گدھے کی آواز یا رات کو کتے کے بھونکنے پر دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "میں مردود شیطان سے اللہ کی پناہ مانگتا ہوں۔",
+        "note": "رسول اللہ ﷺ نے فرمایا: ’’جب تم مرغ کی بانگ سنو تو اللہ سے اس کا فضل مانگو، کیونکہ اس نے فرشتہ دیکھا ہے۔ اور جب گدھے کی آواز سنو تو شیطان سے اللہ کی پناہ مانگو، کیونکہ اس نے شیطان دیکھا ہے۔‘‘ [1]\n\nایک اور روایت میں ہے: ’’جب تم رات کو کتوں کے بھونکنے اور گدھوں کی آوازیں سنو تو اللہ کی پناہ مانگو، کیونکہ وہ ایسی چیزیں دیکھتے ہیں جو تم نہیں دیکھتے۔‘‘ [2]"
       },
       "reference_bn": {
         "name": "মোরগের ডাক, গাধার স্বর অথবা রাতের বেলায় কুকুরের ডাক শুনলে দোয়া",
@@ -329,10 +329,10 @@
         "note": "Allah's Messenger (ﷺ) said, \"Satan comes to one of you and says, 'Who created so-and-so? 'till he says, 'Who has created your Lord?' So, when he inspires such a question, When he reaches that stage, he should say - (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "ایمان کے بارے میں شک پیدا ہونے پر #1",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "میں مردود شیطان سے اللہ کی پناہ مانگتا ہوں۔",
+        "note": "رسول اللہ ﷺ نے فرمایا: ’’شیطان تم میں سے کسی کے پاس آ کر کہتا ہے: فلاں چیز کس نے پیدا کی؟ یہاں تک کہ کہتا ہے: تمہارے رب کو کس نے پیدا کیا؟ جب بات یہاں تک پہنچ جائے تو وہ یہ دعا پڑھے۔‘‘ (دعا اوپر مذکور ہے۔)"
       },
       "reference_bn": {
         "name": "অন্তরে কুমন্ত্রণা অথবা ঈমানে সন্দেহ দেখা দিলে #১",
@@ -366,10 +366,10 @@
         "note": "It is narrated on the authority of Abu Huraira (RA) that the Messenger of Allah (ﷺ) said: Men will continue to question one another till this is propounded: Allah created all things but who created Allah? He who found himself confronted with such a situation should say: (The dua is Mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "ایمان کے بارے میں شک پیدا ہونے پر #2",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "میں اللہ اور اس کے رسولوں پر ایمان لایا۔",
+        "note": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ’’لوگ ایک دوسرے سے سوال کرتے رہیں گے، یہاں تک کہ یہ کہا جائے گا: اللہ نے سب چیزیں پیدا کی ہیں، تو اللہ کو کس نے پیدا کیا؟ جس کے دل میں ایسا سوال آئے، وہ یہ دعا پڑھے۔‘‘ (دعا اوپر مذکور ہے۔)"
       },
       "reference_bn": {
         "name": "অন্তরে কুমন্ত্রণা অথবা ঈমানে সন্দেহ দেখা দিলে #২",
@@ -403,10 +403,10 @@
         "note": "Abu Hurairah (RA) reported that Messenger of Allah (ﷺ) said: People will continue to ask one another(questions) till this is pronounced: Allah created all things, but who created Allah ? Whoever comes across anything of that, he should say: (The dua is mentioned above)\n\nThen he spit three times on his left side, seeking refuge with Allah from Satan."
       },
       "target": {
-        "name": "",
+        "name": "ایمان کے بارے میں شک پیدا ہونے پر #3",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ ایک ہے۔ اللہ بے نیاز ہے۔ نہ اس کی کوئی اولاد ہے، نہ وہ کسی کی اولاد ہے۔ اور کوئی اس کا ہمسر نہیں۔",
+        "note": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ’’لوگ ایک دوسرے سے سوال کرتے رہیں گے، یہاں تک کہ یہ کہا جائے گا: اللہ نے سب چیزیں پیدا کی ہیں، تو اللہ کو کس نے پیدا کیا؟ جسے ایسی بات کا سامنا ہو، وہ یہ دعا پڑھے (دعا اوپر مذکور ہے)۔\n\nپھر وہ اپنی بائیں طرف تین بار تھتکارے اور شیطان سے اللہ کی پناہ مانگے۔‘‘"
       },
       "reference_bn": {
         "name": "অন্তরে কুমন্ত্রণা অথবা ঈমানে সন্দেহ দেখা দিলে #৩",
@@ -440,10 +440,10 @@
         "note": "Abu Zumayl (RA) said: I asked Ibn Abbas (RA), I have a difficult question in my mind. He asked: What is it? I replied: I swear by Allah, I cannot speak about it. He asked me: Is it something doubtful? and he laughed. He then said: No one could escape that, until Allah, the exalted, revealed:\n\n(94) So if you are in doubt, [O Muhammad], about that which We have revealed to you, then ask those who have been reading the Scripture before you. The truth has certainly come to you from your Lord, so never be among the doubters. (95) And never be of those who deny the signs of Allah and [thus] be among the losers. (Sura Yunus 10:94-95)"
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "ایمان کے بارے میں شک پیدا ہونے پر #4",
+        "content": "ایمان کے بارے میں دل میں کوئی شک پیدا ہو تو یہ کہیں:",
+        "translation": "وہی اول ہے اور آخر، سب سے بلند اور سب سے قریب، اور وہ ہر چیز کو خوب جاننے والا ہے۔ (Sura Al-Hadid 57:3)",
+        "note": "ابو زمیل رحمہ اللہ بیان کرتے ہیں: میں نے حضرت ابن عباس رضی اللہ عنہما سے عرض کیا کہ میرے دل میں ایک الجھا ہوا سوال آتا ہے۔ انہوں نے پوچھا: ’’کیا ہے؟‘‘ میں نے کہا: ’’اللہ کی قسم! میں اسے زبان پر نہیں لا سکتا۔‘‘ انہوں نے پوچھا: ’’کیا کوئی شک ہے؟‘‘ پھر ہنسے اور فرمایا: ’’اس سے کوئی محفوظ نہ رہا، یہاں تک کہ اللہ تعالیٰ نے یہ آیات نازل فرمائیں:\n\n(94) پس اگر آپ [اے محمد ﷺ] کو اس کے بارے میں شک ہو جو ہم نے آپ پر نازل کیا ہے تو ان لوگوں سے پوچھ لیجیے جو آپ سے پہلے کتاب پڑھتے رہے ہیں۔ یقیناً آپ کے پاس آپ کے رب کی طرف سے حق آ چکا ہے، پس آپ شک کرنے والوں میں ہرگز نہ ہوں۔ (95) اور ہرگز ان لوگوں میں سے نہ ہوں جو اللہ کی آیات کو جھٹلاتے ہیں، ورنہ آپ خسارہ اٹھانے والوں میں سے ہو جائیں گے۔‘‘ (Sura Yunus 10:94-95)"
       },
       "reference_bn": {
         "name": "অন্তরে কুমন্ত্রণা অথবা ঈমানে সন্দেহ দেখা দিলে #৪",

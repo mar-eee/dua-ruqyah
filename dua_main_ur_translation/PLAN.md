@@ -103,15 +103,15 @@ Source: **EN** · fields: `name`, `content`, `translation`, `note` · key: `id`
 | [x] | `work/duas/duas_020.json` | 15 | 256-270 | 5,587 | 15 |
 | [x] | `work/duas/duas_021.json` | 8 | 271-278 | 5,361 | 8 |
 | [x] | `work/duas/duas_022.json` | 5 | 279-283 | 5,508 | 5 |
-| [ ] | `work/duas/duas_023.json` | 14 | 284-297 | 5,838 | 14 |
-| [ ] | `work/duas/duas_024.json` | 17 | 298-314 | 5,862 | 17 |
-| [ ] | `work/duas/duas_025.json` | 13 | 315-327 | 5,833 | 13 |
-| [ ] | `work/duas/duas_026.json` | 14 | 328-341 | 5,829 | 14 |
-| [ ] | `work/duas/duas_027.json` | 19 | 342-360 | 5,840 | 19 |
-| [ ] | `work/duas/duas_028.json` | 12 | 361-372 | 5,808 | 12 |
-| [ ] | `work/duas/duas_029.json` | 18 | 373-390 | 5,880 | 18 |
-| [ ] | `work/duas/duas_030.json` | 23 | 391-413 | 5,952 | 23 |
-| [ ] | `work/duas/duas_031.json` | 12 | 414-425 | 5,791 | 12 |
+| [x] | `work/duas/duas_023.json` | 14 | 284-297 | 5,838 | 14 |
+| [x] | `work/duas/duas_024.json` | 17 | 298-314 | 5,862 | 17 |
+| [x] | `work/duas/duas_025.json` | 13 | 315-327 | 5,833 | 13 |
+| [x] | `work/duas/duas_026.json` | 14 | 328-341 | 5,829 | 14 |
+| [x] | `work/duas/duas_027.json` | 19 | 342-360 | 5,840 | 19 |
+| [x] | `work/duas/duas_028.json` | 12 | 361-372 | 5,808 | 12 |
+| [x] | `work/duas/duas_029.json` | 18 | 373-390 | 5,880 | 18 |
+| [x] | `work/duas/duas_030.json` | 23 | 391-413 | 5,952 | 23 |
+| [x] | `work/duas/duas_031.json` | 12 | 414-425 | 5,791 | 12 |
 | [ ] | `work/duas/duas_032.json` | 15 | 426-440 | 5,475 | 15 |
 | [ ] | `work/duas/duas_033.json` | 19 | 441-459 | 5,800 | 19 |
 | [ ] | `work/duas/duas_034.json` | 20 | 460-479 | 5,841 | 20 |

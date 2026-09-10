@@ -3,7 +3,7 @@
   "chunk": "duas_025.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 13,
   "id_range": "315-327",
   "source_chars": 5833,
@@ -34,10 +34,10 @@
         "note": "Narrated Abu Huraira (RA): The Messenger of Allah (ﷺ) said: Fasting is a shield; So if any one of you observes fasting, let him not commit adultery or foolishness; If someone fights him or insults him, let him say - (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "روزے کی حالت میں کوئی گالی دے تو دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "میں روزے سے ہوں۔ میں روزے سے ہوں۔",
+        "note": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ’’روزہ ڈھال ہے۔ لہٰذا تم میں سے جو روزے سے ہو، وہ شہوانی حرکات اور جاہلانہ رویے سے بچے۔ اگر کوئی اس سے لڑے یا اسے گالی دے تو وہ یہ کہے۔‘‘ (دعا اوپر مذکور ہے۔)"
       },
       "reference_bn": {
         "name": "রোযাদারকে কেউ গালি দিলে",
@@ -71,9 +71,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "کسی کے ہاں افطار کرنے پر",
         "content": null,
-        "translation": "",
+        "translation": "تمہارے ہاں روزہ دار افطار کریں، نیک لوگ تمہارا کھانا کھائیں اور فرشتے تمہارے لیے دعا کریں۔",
         "note": null
       },
       "reference_bn": {
@@ -107,8 +107,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "روزہ دار کو کھانے کی دعوت ملنے پر",
+        "content": "رسول اللہ ﷺ نے فرمایا: ’’جب تم میں سے کسی کو روزے کی حالت میں کھانے کی دعوت دی جائے تو وہ کہے: میں روزے سے ہوں۔‘‘",
         "translation": null,
         "note": null
       },
@@ -143,9 +143,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "جانور یا کسی بھی سواری پر سوار ہوتے وقت",
+        "content": "رسول اللہ ﷺ سواری پر چڑھتے وقت بسم اللہ کہتے، پھر بیٹھ جانے کے بعد یہ کلمات پڑھتے تھے:",
+        "translation": "تمام تعریف اللہ کے لیے ہے۔ پاک ہے وہ ذات جس نے اس سواری کو ہمارے تابع کر دیا، ورنہ ہم اسے قابو میں لانے کی قدرت نہ رکھتے تھے۔ اور یقیناً ہم اپنے رب ہی کی طرف لوٹنے والے ہیں۔ تمام تعریف اللہ کے لیے ہے۔ تمام تعریف اللہ کے لیے ہے۔ تمام تعریف اللہ کے لیے ہے۔ اللہ سب سے بڑا ہے۔ اللہ سب سے بڑا ہے۔ اللہ سب سے بڑا ہے۔ تو پاک ہے۔ اے اللہ! میں نے اپنی جان پر ظلم کیا ہے، پس میری مغفرت فرما، کیونکہ تیرے سوا کوئی گناہوں کو نہیں بخش سکتا۔",
         "note": null
       },
       "reference_bn": {
@@ -180,9 +180,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "سفر اور واپسی کی دعا",
+        "content": "حضرت عبداللہ بن عمر رضی اللہ عنہما بیان کرتے ہیں کہ رسول اللہ ﷺ سفر کے آغاز میں یہ دعا پڑھا کرتے تھے:",
+        "translation": "اللہ سب سے بڑا ہے (3 بار)۔ پاک ہے وہ ذات جس نے اس سواری کو ہمارے تابع کر دیا، ورنہ ہم اسے قابو میں لانے کی قدرت نہ رکھتے تھے۔ اور یقیناً ہم اپنے رب ہی کی طرف لوٹنے والے ہیں۔ اے اللہ! ہم اپنے اس سفر میں تجھ سے نیکی، تقویٰ اور ایسے عمل کا سوال کرتے ہیں جو تجھے پسند ہو۔ اے اللہ! ہمارا یہ سفر آسان فرما اور اس کی دوری سمیٹ دے۔ اے اللہ! تو ہی سفر میں ہمارا ساتھی اور ہمارے پیچھے گھر والوں کا نگہبان ہے۔ اے اللہ! میں سفر کی مشقت، رنج پہنچانے والے منظر اور واپسی پر مال اور گھر والوں کو بری حالت میں پانے سے تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -195,13 +195,13 @@
           "group": 0,
           "key": "content",
           "source": "And when the Prophet (ﷺ) returned from his journey, he would recite it and add to it:",
-          "target": ""
+          "target": "اور جب رسول اللہ ﷺ سفر سے واپس آتے تو یہ دعا پڑھتے اور اس میں ان کلمات کا اضافہ فرماتے:"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "We are returning in safety, turning to our Rob, worshipping Him and praising Him.",
-          "target": ""
+          "target": "ہم سلامتی کے ساتھ لوٹنے والے، اپنے رب کی طرف توبہ کرنے والے، اس کی عبادت کرنے والے اور اس کی حمد کرنے والے ہیں۔"
         }
       ]
     },
@@ -231,10 +231,10 @@
         "note": "The Messenger of Allah (ﷺ) gave me a send-off and said: (The dua is mentioned above). So, musaafir should say this dua to the farewell giver.But Musaafir and farewell giver both can supplicate this dua for each other."
       },
       "target": {
-        "name": "",
+        "name": "مسافر کے لیے مقیم کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "میں تمہیں اللہ کے سپرد کرتا ہوں، جس کے سپرد کی ہوئی کوئی چیز ضائع نہیں ہوتی۔",
+        "note": "رسول اللہ ﷺ نے مجھے رخصت کرتے وقت یہ دعا دی۔ (دعا اوپر مذکور ہے۔) چنانچہ مسافر رخصت کرنے والے کے لیے یہ دعا پڑھے۔ البتہ مسافر اور رخصت کرنے والا، دونوں ایک دوسرے کے لیے یہ دعا کر سکتے ہیں۔"
       },
       "reference_bn": {
         "name": "মুসাফিরের জন্য মুক্বীম বা অবস্থানকারীর দোয়া",
@@ -268,10 +268,10 @@
         "note": "Abdullah ibn Umar (RA) said, The Messenger of Allah (ﷺ) said: when he bid farewell, he grab his hand and did musafaha and said the above mentioned dua.In another narration, Abdullah Ibn Yazid Khatmi (RA) said, The Messenger of Allah (ﷺ) bid farewell by saying these words. But in this case, he used plural (kum) instead of singular (ka): “Astad’iullaha diinaakum wa amaanatakum wa khawatima a’maalikum” I leave your religion in the care of Allah, as well as your safety, and the last of your deeds."
       },
       "target": {
-        "name": "",
+        "name": "مسافر کو رخصت کرنے کی دعا #1",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "میں تمہارے دین، تمہاری امانت اور تمہارے اعمال کے انجام کو اللہ کے سپرد کرتا ہوں۔",
+        "note": "حضرت عبداللہ بن عمر رضی اللہ عنہما بیان کرتے ہیں کہ رسول اللہ ﷺ جب کسی کو رخصت فرماتے تو اس کا ہاتھ پکڑ کر مصافحہ کرتے اور اوپر مذکور دعا پڑھتے۔ ایک اور روایت میں حضرت عبداللہ بن یزید خطمی رضی اللہ عنہ بیان کرتے ہیں کہ رسول اللہ ﷺ ان کلمات کے ساتھ رخصت فرماتے تھے۔ البتہ اس موقع پر واحد کے صیغے (کَ) کی جگہ جمع کا صیغہ (کُم) استعمال فرماتے: “Astad’iullaha diinaakum wa amaanatakum wa khawatima a’maalikum” یعنی: میں تم سب کے دین، تمہاری امانت اور تمہارے اعمال کے انجام کو اللہ کے سپرد کرتا ہوں۔"
       },
       "reference_bn": {
         "name": "মুসাফিরকে বিদায় জানানোর দোয়া #১",
@@ -305,10 +305,10 @@
         "note": "Anas ibn Malik (RA) said, \"A man came to the Messenger of Allah (ﷺ) and said, 'I have decided to travel. Give me a Travel allowance.' Then he said these words and prayed for him."
       },
       "target": {
-        "name": "",
+        "name": "مسافر کو رخصت کرنے کی دعا #2",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ تقویٰ کو تمہارا زادِ راہ بنائے، تمہارے گناہ بخشے اور تم جہاں بھی ہو، تمہارے لیے بھلائی آسان فرمائے۔",
+        "note": "حضرت انس بن مالک رضی اللہ عنہ بیان کرتے ہیں کہ ایک شخص رسول اللہ ﷺ کی خدمت میں حاضر ہوا اور عرض کیا: ’’میں نے سفر کا ارادہ کیا ہے، مجھے زادِ راہ عطا فرمائیے۔‘‘ تو آپ ﷺ نے ان کلمات کے ساتھ اس کے لیے دعا فرمائی۔"
       },
       "reference_bn": {
         "name": "মুসাফিরকে বিদায় জানানোর দোয়া #২",
@@ -342,10 +342,10 @@
         "note": "We have seen that the Prophet (ﷺ) said: If a person goes to a place or stops somewhere on a journey and says this dua, then nothing can harm him while he is there."
       },
       "target": {
-        "name": "",
+        "name": "کسی جگہ داخل ہونے یا ٹھہرنے کی دعا #1",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "میں اللہ کے کامل کلمات کی پناہ لیتا ہوں، اس کی پیدا کی ہوئی مخلوق کے شر سے۔",
+        "note": "ہم پڑھ چکے ہیں کہ رسول اللہ ﷺ نے فرمایا: ’’جو شخص کسی جگہ جائے یا سفر میں کہیں ٹھہرے اور یہ دعا پڑھے، تو جب تک وہ وہاں رہے گا، کوئی چیز اسے نقصان نہیں پہنچا سکے گی۔‘‘"
       },
       "reference_bn": {
         "name": "কোনো স্থানে প্রবেশ বা অবস্থানের দোয়া #",
@@ -379,10 +379,10 @@
         "note": "Suhaib (RA) said that the Prophet (ﷺ) used to say these words whenever he saw a town before entering it."
       },
       "target": {
-        "name": "",
+        "name": "کسی جگہ داخل ہونے یا ٹھہرنے کی دعا #2",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! سات آسمانوں اور ان سب چیزوں کے رب جن پر وہ سایہ کیے ہوئے ہیں، سات زمینوں اور ان سب چیزوں کے رب جنہیں وہ اٹھائے ہوئے ہیں، شیطانوں اور ان سب کے رب جنہیں انہوں نے گمراہ کیا، ہواؤں اور ان سب چیزوں کے رب جنہیں وہ اڑاتی ہیں! میں تجھ سے اس بستی کی بھلائی، اس کے باشندوں کی بھلائی اور اس میں موجود چیزوں کی بھلائی مانگتا ہوں۔ اور میں اس بستی کے شر، اس کے باشندوں کے شر اور اس میں موجود چیزوں کے شر سے تیری پناہ مانگتا ہوں۔",
+        "note": "حضرت صہیب رضی اللہ عنہ بیان کرتے ہیں کہ رسول اللہ ﷺ جب کسی بستی کو دیکھتے تو اس میں داخل ہونے سے پہلے یہ کلمات پڑھا کرتے تھے۔"
       },
       "reference_bn": {
         "name": "কোনো স্থানে প্রবেশ বা অবস্থানের দোয়া #২",
@@ -416,10 +416,10 @@
         "note": "It is narrated on the authority of 'Abdullah ibn Mas'ud (RA) that he stood at the entrance of the market, recited the du'a and entered the market."
       },
       "target": {
-        "name": "",
+        "name": "بازار میں داخل ہوتے وقت",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! میں تجھ سے اس جگہ کی بھلائی اور یہاں کے لوگوں کی بھلائی مانگتا ہوں، اور اس جگہ کے شر اور یہاں کے لوگوں کے شر سے تیری پناہ مانگتا ہوں۔",
+        "note": "حضرت عبداللہ بن مسعود رضی اللہ عنہ سے روایت ہے کہ وہ بازار کے داخلی راستے پر کھڑے ہو کر یہ دعا پڑھتے، پھر بازار میں داخل ہوتے تھے۔"
       },
       "reference_bn": {
         "name": "বাজার বা কর্মস্থলে প্রবেশের দোয়া",
@@ -453,10 +453,10 @@
         "note": "Allah will write a million rewards for him, remove a million sins from him and raise his status by one million levels."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "بازار میں داخل ہوتے وقت",
+        "content": "حضرت عمر بن خطاب رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ’’جو شخص بازار میں داخل ہو کر یہ کہے:",
+        "translation": "اللہ کے سوا کوئی معبودِ برحق نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں۔ اسی کی بادشاہی ہے اور اسی کے لیے تمام تعریف ہے۔ وہی زندگی دیتا ہے اور وہی موت دیتا ہے۔ وہ ہمیشہ زندہ ہے، اسے موت نہیں آتی۔ تمام بھلائی اسی کے ہاتھ میں ہے، اور وہ ہر چیز پر قادر ہے۔",
+        "note": "تو اللہ اس کے لیے دس لاکھ نیکیاں لکھ دے گا، اس کے دس لاکھ گناہ مٹا دے گا اور اس کے دس لاکھ درجے بلند فرما دے گا۔‘‘"
       },
       "reference_bn": {
         "name": "বাজারে ঢুকার সময়",
@@ -491,10 +491,10 @@
         "note": "Abu al-Malih (RA) reported on the authority of a man : I was riding on a mount behind the prophet (ﷺ). It stumbled. Thereupon I said: May the devil perish! He said: do not say; may the devil perish! For you say that, he will swell so much so that he will be like a house, and say: by my power. But say: (The dua is mentioned above) For when you say that, he will diminish so much so that he will be like a fly."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "سواری کے ٹھوکر کھانے پر",
+        "content": "ابو الملیح رحمہ اللہ ایک صحابی رضی اللہ عنہ سے روایت کرتے ہیں، وہ بیان کرتے ہیں: میں رسول اللہ ﷺ کے پیچھے سواری پر بیٹھا تھا کہ سواری نے ٹھوکر کھائی۔ میں نے کہا: ’’شیطان ہلاک ہو!‘‘ آپ ﷺ نے فرمایا: ’’یہ نہ کہو کہ شیطان ہلاک ہو، کیونکہ تم ایسا کہتے ہو تو وہ پھول کر گھر جتنا ہو جاتا ہے اور کہتا ہے: یہ میری طاقت سے ہوا ہے! بلکہ یہ دعا پڑھو۔‘‘ (دعا اوپر مذکور ہے۔)",
+        "translation": "اللہ کے نام سے۔",
+        "note": "ابو الملیح رحمہ اللہ ایک صحابی رضی اللہ عنہ سے روایت کرتے ہیں، وہ بیان کرتے ہیں: میں رسول اللہ ﷺ کے پیچھے سواری پر بیٹھا تھا کہ سواری نے ٹھوکر کھائی۔ میں نے کہا: ’’شیطان ہلاک ہو!‘‘ آپ ﷺ نے فرمایا: ’’یہ نہ کہو کہ شیطان ہلاک ہو، کیونکہ تم ایسا کہتے ہو تو وہ پھول کر گھر جتنا ہو جاتا ہے اور کہتا ہے: یہ میری طاقت سے ہوا ہے! بلکہ یہ دعا پڑھو (دعا اوپر مذکور ہے)، کیونکہ تم ایسا کہتے ہو تو وہ سکڑتے سکڑتے مکھی جتنا رہ جاتا ہے۔‘‘"
       },
       "reference_bn": {
         "name": "বাহন হোঁচট খেলে",
