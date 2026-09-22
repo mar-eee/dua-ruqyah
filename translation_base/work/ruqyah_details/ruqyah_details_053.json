@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_053.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "105-106",
+  "source_chars": 5898,
+  "items": [
+    {
+      "key": [
+        105
+      ],
+      "id": 105,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 105,
+        "topic_id": null,
+        "cat_id": 5,
+        "subcat_id": 86
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>Case One: A baby who refuses its mother's breastfeeding</b>\n\n\nWhile I was on a visit to some of my relatives, I was informed that a baby refused to breastfeed by its mother, for a few days, after he had been breastfeeding normally. I told them: \"Bring the baby\" When they brought the baby, I recited the Ruqyah for it, using chapters 112, 113 and 114 of the Qur'an and some invocations, then told them, “Take it to its mother.” After a moment, they returned and informed me that the baby was breastfeeding normally, thanks to Allah.\n\n<b>Case Two: A child who becomes dumb</b>\n\n\nThere was a bright eloquent teenager, who was prominent among his peers at the intermediate level of school. He was their spokesman at meetings or gatherings, and would chat with people at parties. One day, one of his townsmen died, and he went to the funeral with his family. \n\nThere, he praised Allah and delivered a well expressed sermon. In the evening of the same day, he suddenly went dumb. His father was stunned, and took him to the hospital, where he underwent the necessary examinations with X-rays. But, it was to no avail. His father brought him to me. He was in such a terrible state that, had I not controlled myself I almost cried, because I knew him as an active Muslim at school. I asked his father what was wrong with him. He told me the story, and the child remained silent. I knew then that he was affected by an evil eye. \n\nI recited the Ruqyah on him, using chapters 113 and 114 of the Qur'an, and recited the invocations of Ruqyah against the evil eye on some water and advised the father to give the water to his son to drink and wash with for a period of seven days. After seven days, the boy recovered and became as eloquent as he was before. taught him some invocations to say in the morning and evening, as protective measures against the evil eye.\n\n<b>Case Three: An amazing story</b>\n\n\nThis incident took place in my house. One day, a man and an old lady visited me. The man sat with me and told me his mother's story, and his mother sat with my wife. I called the old lady and recited a Ruqyah on her. When they left, I looked around in the house and noticed a lot of white maggots. \n\nI was surprised. My wife cleaned the house with a sweeper, but shortly afterwards they came back and spread in all the rooms I said to my wife, \"Let us think about it.\" She asked what the old woman had told me. I replied, \"She looked at every part of the house for a long while, without saying anything,\" I immediately understood it was an evil eye that hit our house, despite the fact that it was very modest But perhaps, the old lady was living in the countryside and she had never seen urban life. \n\nNevertheless, I recited the Ruqyah of the evil eye on some water and sprinkled it in all the parts of the house. A moment later, the white maggots completely disappeared, and the house returned to its original state. And All Praise is Due to Allah."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        106
+      ],
+      "id": 106,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 106,
+        "topic_id": null,
+        "cat_id": 6,
+        "subcat_id": 87
+      },
+      "source": {
+        "topic_name": null,
+        "text": "A Raaqi is a pHe will be somebody who firmly believes in Tawheed and is free from all types of shirk, kufr and misguidance and does not associate himself with beliefs/actions that may lead one to fall into any of these categories.\n\nHe will be somebody who has firm belief in Allah, His Messenger and all other articles of faith.\n\nHe is somebody other Muslims can account for (i.e. the person is known in the community as somebody who is pious, practicing, genuine etc.)\n\nHe will be one who follows the Sunnah, acts according to it and will advise his patients to do the same.\n\nHe will perform Ruqyah hoping for reward from Allah.\n\nHe will perform Ruqyah seeking assistance from Allah alone without any partners/intermediaries to cure his patients and will ask for cure from Him.\n\nHis Ruqyah will not stray into those methods which are prohibited by the Qur’an and Sunnah.\n\nHis Ruqyah will be free from Shirk.\n\nHis Ruqyah will not be for worldly gains (although charging is permissible, a reasonable price is recognisable from an overly-expensive treatment)\n \n<b>Further conditions of a Raaqi</b>\n\n<b>1.</b> He must have sincerity in worshipping Allah and have a good intention in treating people.\n\n<b>2.</b> He must be firm in his obedience to Allah, and keep away from all that is forbidden like wearing threads, rings, Amulet(Taweez), burning papers and drinking it. etc\n\n<b>3.</b> He must keep far away from all unlawful places and situations that can lead to what is forbidden, for example isolating himself with a female, etc.\n\n<b>4.</b> He must guard the affairs of his patients and protect their secrets.\n\n<b>5.</b> He must propagate the religion of Allah. Give the Patient advice and admonitions on the rights of Allah with regards to His commandments and prohibitions.\n\n<b>6.</b> He should have knowledge about the affairs of the patient and sicknesses.\n\n<b>7.</b> He should have knowledge about the reality of Jinns (so as not to have them harm or threaten him while curing the patient).\n\nerson who has studied and understands the science of Ruqyah according to Quran and Sunnah and who treats people and assists them in the treatment against Sihr(magic), Shirk(polytheism) and Jinn. There are many different methods of Ruqya, but what makes a person a true Raaqi is one who practices Ruqyah according to the Quran and Sunnah.\n\nThe method that is adopted is simple, easy to understand, easy to learn by even non-ulema and is totally free from all Shirk and bida’ah related things.\n\nOR The term ‘Raaqi’ is used for an Islamic ‘Spiritual healer’ or exorcist and refers to someone who has knowledge of Islam, of Ruqyah treatment through education and experience, and performs Ruqyah treatment for individuals with ailments who are unable to perform Ruqyah upon themselves (self Ruqyah ). A person may not be able to perform Ruqyah on themselves if they are severely unwell or do not have sufficient knowledge or understanding of their ailment."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_013.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "25-26",
+  "source_chars": 4367,
+  "items": [
+    {
+      "key": [
+        25
+      ],
+      "id": 25,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 25,
+        "topic_id": 1,
+        "cat_id": 3,
+        "subcat_id": 28
+      },
+      "source": {
+        "topic_name": "The first stage: Preparation before the treatment",
+        "text": "<b>1.</b> Preparing the right environment; you need to remove any pictures or photographs in the house where you are going to undergo the treatment, in order for the Angels [From a Hadith recorded by Muslim, on the authority of Abu Hurayrah (RA) Prophet (ﷺ) said: “Angels do not enter a house in which there are images or pictures”.\n\n<b>2.</b> Remove any amulet that the patient may have and burn it.\n\n<b>3.</b> Rid the place of any type of musical instrument.\n\n<b>4.</b> The place should not host any (legal) infringement in Islam; such as a man wearing gold or an unveiled woman.\n\n<b>5.</b> Give the patient and his family a lesson in the Islamic faith, by which you remove any attachment, in their heart, with other than Allah (SWT).\n\n<b>6.</b> You start by distinguishing between your method of treatment and that of the sorcerers and liars, and explain to them that there is healing and mercy in the Qur'an, as Allah (SWT) has said.\n\n<b>7.</b> Diagnose the case, by asking the patient some relevant questions, in order to be sure of the existence of certain symptoms or most of them. The questions could be as follows:\n\n<b>a)</b> Have you seen animals in your dreams? How many of them? Have you seen the same animal every time?\n\n<b>b)</b> Have you seen an animal chasing you in a dream?\n\n<b>c)</b> Do you have nightmares, unpleasant dreams, or horrifying experiences in your dreams?\n\n<b>d)</b> Have you seen yourself, falling from a high position?\n\n<b>e)</b> Have you seen yourself, walking on a deserted road?\n\nYou have to proceed with questions about all the symptoms in dreams and while awake, until you are absolutely sure of the existence of a case. From these questions, you determine the number of Jinn and their type; for example: if the patient used to always dream of two snakes, then he is possessed with two Jinn; and if he sees a man wearing a Cross, repeatedly in a dream, then he knows the type of Jinn who possesses the patient. This is, only, in the case where the Jinn do not respond through the patient (do not utter any word). But, if it is otherwise, and the Jinn speaks, expressing himself, then there is no need to diagnose the case, as it is quite self-evident.\n\n<b>8.</b> It is recommended to do ablution before you start the treatment, and ask the people with you to do likewise.\n\n<b>9.</b> If the patient is female, do not start the treatment until she covers herself properly, in order not to reveal anything during the treatment.\n\n<b>16.</b> Do not treat a woman except in the presence of a mahram [Husband or a male relative with whom marriage is forbidden] of hers.\n\n<b>11.</b> When treating a woman, do not invite someone who is not her mahram.\n\n<b>12.</b> Ask Allah to help you chase this Jinn away from the body of the patient, and grant you victory over him/her."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        26
+      ],
+      "id": 26,
+      "part": 1,
+      "of": 12,
+      "frozen": {
+        "id": 26,
+        "topic_id": 2,
+        "cat_id": 3,
+        "subcat_id": 28
+      },
+      "source": {
+        "text": "<b>First you should place your hand on the head of the patient, and slowly recite the following verses, in his/her ear:</b>\n\n\n<b>1. Al-Fatiha</b>\n\n<ar> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾ </ar>\n\n<b>Translation:</b> (1) In the name of Allah, the Entirely Merciful, the Especially Merciful. (2) [All] praise is [due] to Allah, Lord of the worlds - (3) The Entirely Merciful, the Especially Merciful, (4) Sovereign of the Day of Recompense. (5) It is You we worship and You we ask for help. (6) Guide us to the straight path - (7) The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.\n\n<b>2. Al-Baqara: 1-6</b>\n\n<ar> بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ </ar>\n<ar> الم ﴿١﴾ ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ ﴿٢﴾ الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ ﴿٣﴾ وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ ﴿٤﴾ أُولَـٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَـٰئِكَ هُمُ الْمُفْلِحُونَ ﴿٥﴾ إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ ﴿٦﴾ </ar>",
+        "topic_name": "The second stage: The treatment"
+      },
+      "target": {
+        "text": "",
+        "topic_name": ""
+      },
+      "split_field": "text"
+    }
+  ]
+}

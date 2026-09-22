@@ -1,0 +1,34 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_046.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 1,
+  "id_range": "95-95",
+  "source_chars": 4174,
+  "items": [
+    {
+      "key": [
+        95
+      ],
+      "id": 95,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 95,
+        "topic_id": null,
+        "cat_id": 5,
+        "subcat_id": 76
+      },
+      "source": {
+        "topic_name": null,
+        "text": "The Prophet (ﷺ) said: “The evil eye is real and if anything were to overtake Qadr (divine decree), it would have been the evil eye…”. This alludes to the speed of the evil eye and expresses that if anything was to overtake the decree of Allah it would have been the evil eye, i.e. in its speed.\n\nNarrated from Abdullah Ibn Abbas (RA), he said the Messenger of Allah (ﷺ) said: “The evil eye is real and can bring down a person from a high mountain.” (Sahih al Jami’ 4146). What is meant here is that the evil eye follows a person by Allah’s will until it causes him to fall from a mountain. Another understanding is that Ayn is so powerful it could bring down the highest mountain. We must therefore really consider the effects it can have on the human body.\n\nNarrated from Sahl ibn Haneef (RA) that the Prophet (ﷺ) came out and traveled with him towards Makkah until they were in the mountain pass of Al-Kharar in Al-Jahfah. There Sahl ibn Haneef (RA) did ghusl (bathed), and he was a handsome white-skinned man with beautiful skin. Amir ibn Rabee’ah (RA), one of Banu Adiyy ibn K’ab (RA) looked at him whilst he was doing ghusl and said, “I have never seen such skin as beautiful as this, not even the skin of a virgin,” upon those words Sahl fell to the ground. They went to the Messenger of Allah (ﷺ) and said, “O Messenger of Allah, can you do anything for Sahl (RA) because by Allah he cannot raise his head.” He said, “Do you accuse anyone with regard to him?” They said, “‘Amir ibn Rabee’ah (RA) looked at him.” So the Messenger of Allah (ﷺ) called Amir and rebuked him strongly. He said, “Why would one of you kill his brother? If you see something that you like, then pray for blessings for him.” Then he said to him, “Wash yourself for him.” So he washed his face, hands, forearms, knees and the sides of his feet, and inside his izaar (lower garment) in the vessel. Then that water was poured over him (i.e. Sahl) and a man poured it over his head and back from behind. He did that to him then Sahl (RA) got up and joined the people and there was nothing wrong with him. Ahmad, Malik, An-Nasai’ and Ibn Hibban. Classed as saheeh (authentic) by al-Albani (R) in Al-Mishkat.\n\nIn another narration, the Prophet (ﷺ) came out and travelled towards Makkah, until they were in the mountain pass of Al-Kharaar in al-Jahfah. There Sahl ibn Haneef (RA) did ghusl, and he was a handsome white-skinned man with beautiful skin. Aamir ibn Rabee’ah (RA), one of Banu Adiyy ibn Ka’b (RA) looked at him whilst he was doing ghusl and said: “I have never seen such beautiful skin as this, not even the skin of a virgin,” thereupon Sahl fell to the ground. They went to the Messenger of Allah (ﷺ) and said, “O Messenger of Allah, can you do anything for Sahl because by Allah he cannot raise his head.” He said, “Do you accuse anyone with regard to him?” They said, “Aamir ibn Rabee’ah (RA) looked at him.” So the Messenger of Allah (ﷺ) called Aamir and rebuked him strongly. He said, “Why would one of you kill his brother? If you see something that you like, then pray for blessings for him (saying TabarakAllah). Then he said to him, “Wash yourself for him.” So he (Aamir) washed his face, hands, forearms, knees and the sides of his feet and inside his izaar (lower garment) in the vessel. Then that water was poured over him (Sahl, and a man poured it over his head and back from behind. He did that to him then Sahl got up and joined the people, after which there was nothing wrong with him.\n\nNarrated from Abdullah ibn Abbas (RA), Allah’s Messenger (ﷺ) said: “The influence of the evil eye is a fact. If anything were to precede the divine decree it would have been the influence of an evil eye. Therefore when you are asked to take a bath (as a cure) from the influence of the evil eye, you should take a bath.’ (Sahih Muslim Hadith 5427) Therefore the person who has been afflicted by Ayn should try to get the water of the person who has afflicted him and bath with it.\n\nNarrated Umm Salaamah (RA), the Prophet (ﷺ) once saw a young girl who had a certain expression on her face, so he said “Seek an Islamic formula for her because she is touched by the evil eye.” (Bukhari)"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

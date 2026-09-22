@@ -1,0 +1,122 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_069.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 5,
+  "id_range": "133-137",
+  "source_chars": 5956,
+  "items": [
+    {
+      "key": [
+        133
+      ],
+      "id": 133,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 133,
+        "topic_id": 2,
+        "cat_id": 7,
+        "subcat_id": 110
+      },
+      "source": {
+        "topic_name": "Do's and Don'ts",
+        "text": "<b>1.</b> Don't top up Ruqyah water with plain water as it will dilute it.\n\n<b>2.</b> Don't pour it down the sink as it goes into the sewage system and this is a form of disrespect to the blessings of the Quran.\n\n<b>3.</b> Collect the Ruqyah water that has been used or bathed in as best you can and pour it in the garden (preferably on soil).\n\n<b>4.</b> Ruqyah water can be refrigerated but do not boil or add to hot food or drink as this will invalidate the ruqya.\n\n<b>5.</b> Don't keep Ruqyah water stored for a longtime. Please drink with in 3 - 4 days since any water that is exposed to the environment will grow microbes in it and become unsuitable for drinking. The only such water that doesn't go bad is ZamZam water.\n\n<b>6.</b> Do not drink large quantities of water in one go. Unfortunately some raqis will try to get a patient to drink 2-5 liters of water in one sitting \"to vomit out the sihr\" but as the guardian or person accompanying the patient is it your duty to inform the raqi that this is dangerous on medical grounds. It can cause the level of salt, or sodium, in your blood to drop too low. That's a condition called hyponatremia."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        134
+      ],
+      "id": 134,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 134,
+        "topic_id": 3,
+        "cat_id": 7,
+        "subcat_id": 110
+      },
+      "source": {
+        "topic_name": "Ruqyah Oil",
+        "text": "Ruqyah olive oil is made in exactly the same way as Ruqyah water. But try to use light olive oil as thick olive oil have a smell and can make you feel hot and sticky. \n\nUnlike Ruqyah water, Ruqyah oil will stay good for a very long time. It will stay long as it hasn't passed its expiry date. Usually a couple or years or so. I wouldn't recommend using Ruqyah oil that has passed the expiry date of the oil.\n\nNote: You may crush some raw fresh ginger and add the juice to the oil. This often causes a burning sensation for jinns when they manifest."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        135
+      ],
+      "id": 135,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 135,
+        "topic_id": 4,
+        "cat_id": 7,
+        "subcat_id": 110
+      },
+      "source": {
+        "topic_name": "Ruqyah on other things",
+        "text": "Ruqyah can be done on almost any type of food or drink such as milk, honey, sugar or salt etc. Ruqyah seems to hold better when done on solid granules as opposed to liquids. All the do's and don't of Ruqyah water apply to these things too. \n\n<b>i.e. Don't cook or fry stuff with Ruqyah oil because the effect of the Ruqyah will wear off when it is heated. But you can drizzle it over salad if you like</b>"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        136
+      ],
+      "id": 136,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 136,
+        "topic_id": 5,
+        "cat_id": 7,
+        "subcat_id": 110
+      },
+      "source": {
+        "topic_name": "Ruqyah Exfoliating Salt Scrub",
+        "text": "Olive oil, salt and other ingredients can be added together to make an exfoliating salt scrub.\n\n<b>1.</b> Add the first three ingredients into a bowl\n\n<b>a)</b> Olive oil 500ml\n\n​<b>b)</b> Pink Himalayan Rock Salt 1kg (or sea salt) \n\n<b>c)</b> Jujube stones (whole 7 per bath)\n\n<b>d)</b> Black musk (optional)\n\n<b>2.</b> Mix the three ingredients together.\n\nRecite Ruqyah on the mixture (0004 How to make Ruqyah water & oil) ​\n\n\n<b>3.</b> Add the black musk and stones.\n\n<b>4. </b>Rub onto body\n\n<b>Especially where the jinn prefers to stay. The part of the body that shakes/ hurts the most during ruqya. DO NOT EAT!</b>\n\n\n<b>5.</b> Allow the mixture to remain on body for 10-15 min and then soak in a luke warm bath."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        137
+      ],
+      "id": 137,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 137,
+        "topic_id": 1,
+        "cat_id": 7,
+        "subcat_id": 111
+      },
+      "source": {
+        "topic_name": "Introduction",
+        "text": "In the Sunnah Hijama was praised by the Prophet (Allah’s peace be upon him) and it may be regarded as a safe, non-invasive and economical way of curing and preventing many diseases. Though Chinese use of this method was limited to certain medical complications like lungs infection, colds, to treat internal organs’ disorders, joint pain, etc. the scope of hijama in terms of benefit is much greater in the Sunnah.\n\nThe word ‘hijama’ means ‘drawing out’ in Arabic. It is now being recognized as an alternative medicine or alternative way of treating different diseases and bodily disorders. Some sections of the modern medical community also endorse the various benefits of hijama and even encourage its practice for certain diseases.\n\nIn this non-surgical procedure, toxic or ‘bad’ blood is drawn out from the body. Certain ‘hijama points’ on the body are addressed to do so. On such selected points, blood is encouraged to accumulate and then sucked out by using a little vacuum system. The blood is made to accumulate on the surface of the skin where minute incisions are introduced on the skin; the blood comes out from the incisions and is collected in a cup from where it is removed.\n\nMany scholars have mentioned that Hijamah is one of the effective means in curing magic affliction by extracting the substance of magic from the place in which it rests.\n\nIbn Al-Qayim (R) said that Abu Obeid (R) mentioned in his book (Gharib Al-Hadith) that Abulrahman related that Allah’s Messenger (ﷺ) used Hijamah when he was affected with magic. Abu Obeid (R) also added that those with little knowledge can not see the relation between Hijamah and magic or this ailment and cure. He thus stated that if Hippocrates or Ibn Sina were to find a text saying so, they would have readily accepted it. The prophet, whose knowledge can not be doubted, advised the use of Hijamah. He knew that the magic material in his body settles in his head, affecting one of this powers whereby he would imagine doing things which did not actually do; this is a typical behavior of a magician in reality. The material used in the magic resulted in a change in his mood, altering its natural disposition.\n\nIbn Al-Qayim (R) also added regarding the treatment of magic that using Hijamah in the place afflicted with magic is the best cure if used in the ascribed manner (Zaad Al-Maad-4/125-126). Al-Qayim (R) also maintained that Hijamah was used by the prophet (ﷺ) a means of treatment even before it was revealed to him that he was under the effect of magic (Al-Tib Al-Nabawi -p.118).\n\nThe act of performing Hijama (cupping) is a Sunnah of the Prophet Muhammad (ﷺ) and it is extensively reported in a wide collection of authentic ahadith. Its practice is strongly recommended and emphasized in a number of narrations. The practice of Hijama forms an integral part of Islamic Prophetic Medicine.\n\nHijama was a common practice of the Prophet Muhammad (ﷺ) and his companions for the treatment of a range of ailments as well as a form of body maintenance and health promotion."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    }
+  ]
+}

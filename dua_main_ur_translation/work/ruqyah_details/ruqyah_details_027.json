@@ -1,0 +1,78 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_027.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 3,
+  "id_range": "44-46",
+  "source_chars": 5933,
+  "items": [
+    {
+      "key": [
+        44
+      ],
+      "id": 44,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 44,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 42
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>1.</b> Seeking refuge with Allah from the traps of the devils.\n\n<b>2.</b> Reciting Al-Falaq and An-Naas, because it was narrated that the Prophet (ﷺ) vetem used to seek refuge with Allah from the jinn and the evil eye of people, until these two Soorahs were revealed.\n\n<b>3.</b> Reciting Aayat Al-kursi.\n\n<b>4.</b> Reciting Soorah Al-Baqarah.\n\n<b>5.</b> Reciting the last two verses of Soorah Al-Baqarah.\n\n<b>6.</b> Reciting the first part of Soorah Ghaafir.\n\n<b>7.</b> Frequently repeating the words:\n\n<ar> لَا إِلَهَ إِلَّا اللّٰهُ،وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ </ar>\n\n<i><b>Transliteration:</b> “Laa ilaaha ill-Allah wahdahu laa shareeka lahu, lahu'l-mulk wa lahu'l-hamd wa huwa 'ala kulli shay'in qadeer.</i>\n\n<b>Translation:</b> There is no Allah but Allah alone, with no partner or associate; His is the Dominion, to Him be all praise, and He has power over all things.\" \n\n<b>8.</b> Frequently remembering Allah (Dhikr), which includes regularly reciting the Adhkaar which are to be said in various situations and when doing certain things, as mentioned in Chapter 5 of this book. \n\n<b>9.</b> Wudoo' and prayer.\n\n<b>10.</b> Refraining from unnecessary looking, speaking,eating and mixing with people, because going to extremes in these four matters weakens one's spirituality and makes it easy for the evil ones among mankind and the jinn to gain power over you."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        45
+      ],
+      "id": 45,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 45,
+        "topic_id": null,
+        "cat_id": 4,
+        "subcat_id": 43
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>Introduction</b>\n\n\nThe relationship between Jinn and sihr is a strong one; for the Jinn and demons are the driving force behind sihr. Some people deny the existence of Jinn and, therefore, sihr. Below is a brief list of the evidence on the existence of Jinn and demons:\n\n<b>Evidence from the Qur'an</b>\n\n\n<ar> إِن كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ خَامِدُونَ ﴿٢٩﴾ </ar>\n\n<b>Translation:</b> And We turned to thee a company of Jinn giving ear to the Qur'an. (36:29)\n\n<ar> يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ أَلَمۡ يَأۡتِكُمۡ رُسُلٞ مِّنكُمۡ يَقُصُّونَ عَلَيۡكُمۡ ءَايَٰتِي وَيُنذِرُونَكُمۡ لِقَآءَ يَوۡمِكُمۡ هَٰذَاۚ </ar>\n\n<b>Translation:</b> Company of Jinn and mankind, did not Messengers come to you from among you, relating to you My signs and warning you of the encounter of this your day? (6:130)\n\n<ar> وَبَدَا لَهُمْ سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ ﴿٣٣﴾ </ar>\n\n<b>Translation:</b> And the evil consequences of what they did will appear to them, and they will be enveloped by what they used to ridicule.\n\nEvidence from the Qur'an of the existence of Jinn and demons is numerous and known. Suffice it to say that there is one whole chapter on the Jinn (Chapter 62), and that statistically, the words Jinn occurs twenty two times, jan (another variant of Jinn) occurs seven times, Satan occurs sixty eight times, and Satans (demons) occurs seventeen times.\n\n<b>Evidence from the Sunnah</b>\n\n\nA'isha (RA) reported: \"The Prophet (ﷺ) said, 'Angels were created out of light, Jinn were created from fire and Ādam was created out of what has been described to you.\" [Reported by Imam Ahmad (6/153-68) and Muslim (in Sharh An-Nawawi, 18/123)]\n\nSaffiyya bintu Huyay (RA) narrated : \"The Prophet (ﷺ) circulates in the body of mankind like blood.\" [Reported by Al-Bukhari (4/282, in Fath Al-Bari) and Muslim (14/155, in Sharh An-Nawawi)]\n\n'Abdullah Ibn 'Umar (RA) reported: “The Prophet (ﷺ) said, 'When you eat, use you right hand, and when you drink, use your right hand, because Satan eats and drinks with his left hand.\" [Reported by Muslim (13/191, in Sharh An-Nawawi)]\n\nAbu Hurayra (RA) reported: \"The Prophet (ﷺ) said, 'Any newborn at the time of delivery is kicked by Satan, and cries as a result, except the son of Mariam (Jesus) and his mother.” [Reported by Al-Bukhari (8/212) and Muslim (15/120, in Sharh An-Nawawi)]"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        46
+      ],
+      "id": 46,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 46,
+        "topic_id": null,
+        "cat_id": 4,
+        "subcat_id": 44
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>Evidence from the Qur'an</b>\n\n<ar> وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَـٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ وَمَا هُم بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّـهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ ﴿١٠٢﴾ </ar>\n\n<b>Translation:</b> ...And they follow what the Satans recited over Sulayman's Kingdom. Sulayman disbelieved not but the Satans disbelieved, teaching the people sorcery, and that which was sent down upon Babylon's two angels, Harut and Marut; they taught not any man, without they said, 'We are but a temptation; do not disbelieve.' From them they learned how they might divide a man and his wife, yet they did not hurt any man thereby, save by the leave of Allah, and they learnt what they hurt them and did not profit them, knowing well that whosoever buys it shall have no share in the world to come; evil then was that they sold themselves for; if they had but known (2:102)\n\n<ar> قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ﴿١﴾ مِن شَرِّ مَا خَلَقَ ﴿٢﴾ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿٣﴾ وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ﴿٤﴾ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾ </ar>\n\n<b>Translation:</b> Say: 'I take refuge with the Lord of the daybreak from the evil of what He has created, from the evil of darkness when it gathers, from the evil of the women who blow on knots, from the evil of an envier when he envies.' (Chapter 113)\n\nAccording to Al-Qurtubi (R), (…From the evil of the women who blow on knots) implies female sorcerers (sahirat) who blow on thread knots while making their spells. [Tafsir Al-Qurtubi (20/257)]\n\n\nVerses on sihr and sahara are profuse and known even to those with little knowledge of Islam."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "table": "duas",
+  "chunk": "duas_055.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 8,
+  "id_range": "790-797",
+  "source_chars": 5892,
+  "items": [
+    {
+      "key": [
+        790
+      ],
+      "id": 790,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 790,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ حَبِّبْ عُبَيْدَكَ هَذَا وَأُمَّهُ إِلَى عِبَادِكَ الْمُؤْمِنِينَ وَحَبِّبْ إِلَيْهِمُ الْمُؤْمِنِيْنَ",
+        "indopak": "اَللّٰهُمَّ حَبِّبْ عُبَيْدَكَ هٰذَا وَاُمَّهٗ اِلٰى عِبَادِكَ الْمُؤْمِنِيْنَ وَحَبِّبْ اِلَيْهِمُ الْمُؤْمِنِيْنَ",
+        "clean": "اللهم حبب عبيدك هذا وامه الي عبادك المومنين وحبب اليهم المومنين",
+        "transliteration": "Allaahumma habbib 'ubaidaka hadha wa ummahu ilaa 'ibadikal mu'minin, wa habbib ilayhimul mu'minin",
+        "reference": "Muslim: 2491",
+        "audio": 790,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Dua for other believer",
+        "content": null,
+        "translation": "O Allah, let there be love of these servants of yours, i.e. Abu Huraira and his mother, in the hearts of the believing servants and let their hearts be filled with the love of the believing servants.",
+        "note": "I came out quite pleased with the supplication of Allah's Apostle (ﷺ) and when I came near the door it was closed from within. My mother heard the noise of my footsteps and she said: Abu Huraira, just wait. And I heard the noise of falling of water. She took a bath and put on the cloth and quickly covered her head with a head-dress and opened the door and then said: Abu Huraira, I bear witness to the fact that there is no god but Allah and Muhammad is His bondsman and His Messenger (ﷺ). \n\nHe (Abu Huraira) said: I went back to Allah's Messenger (ﷺ) and (this time) I was shedding the tears of joy. I said: Allah's Messenger, be happy, for Allah has responded to your supplication and He has set on the right path the mother of Abu Huraira. He (the Holy Prophet) praised Allah, and extolled Him and uttered good words. \n\nI said: O Allah's Messenger (ﷺ), supplicate to Allah so that He may instill love of mine and that of my mother too in the believing servants and let our hearts be filled with their love, whereupon Allah's Messenger (ﷺ) said: O Allah, let there be love of these servants of yours, i.e. Abu Huraira and his mother, in the hearts of the believing servants and let their hearts be filled with the love of the believing servants. \n\n(Abu Huraira said: This prayer) was so well granted by Allah that no believer was ever born who heard of me and who saw me but did not love me."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "অপর মু'মিনের জন্য দোয়া",
+        "translation": "হে আল্লাহ্‌! তোমার এ ক্ষুদ্র বান্দা ও তার মাকে তোমার মুমিন বান্দাদের কাছে প্রিয় করে তোলো আর মুমিনদেরকে তাদের কাছে প্রিয় করে দাও!",
+        "note": "এরপর আল্লাহ্‌র নবী (ﷺ) এর দোয়া পেয়ে খুশিমনে বেরিয়ে পড়ি। (বাড়িতে) এসে দরজার কাছে গিয়ে দেখি তা বন্ধ। আমার পায়ের আওয়াজ শুনে আমার মা বলেন, 'আবু হুরায়রা! একটু দাড়াও!\" আমি পানি নাড়াচাড়ার শব্দ শুনতে পাই। তিনি গোসল করে জামা পরেন। এরপর চাদর গায়ে দিয়ে দরজা খুলে বলেন, “আবু হুরায়রা! আমি সাক্ষ্য দিচ্ছি, আল্লাহ্‌ ছাড়া সত্য কোনও মা’বুদ নেই, আর সাক্ষ্য দিচ্ছি মুহাম্মাদ (ﷺ) তাঁর দাস ও বার্তাবাহক।\n\nআমি আল্লাহ্‌র রাসূল (ﷺ) এর কাছে ফিরে আসি। আমার চোখে তখন আনন্দের অশ্রু। এসে বলি, “হে আল্লাহ্‌র রাসূল (ﷺ) সুসংবাদ নিন আল্লাহ্‌ আপনার ডাকে সাড়া দিয়েছেন, তিনি আবু হুরায়রার মাকে হিদায়াত দিয়েছেন!\" এ কথা শুনে তিনি আল্লাহ্‌র প্রশংসা-স্তুতি বর্ণনা করেন এবং কিছু কল্যাণজনক কথা বলেন।\n\nআমি বলি, “হে আল্লাহ্‌র রাসূল (ﷺ) আল্লাহ্‌র কাছে দোয়া করুন, তিনি যেন তার বান্দাদের কাছে আমাকে ও আমার মাকে প্রিয় করে দেন এবং তাদেরকে আমাদের কাছে প্রিয় করে দেন। তখন আল্লাহ্‌র রাসূল (ﷺ) বলেন - (উপরে উল্লেখিত দোয়া)\n\nএরপর আল্লাহ্‌র সৃষ্টি-করা যে মুমিনই আমার কথা শুনেছে অথবা আমাকে দেখেছে, সে-ই আমাকে ভালোবেসেছে।"
+      }
+    },
+    {
+      "key": [
+        791
+      ],
+      "id": 791,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 791,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 3642",
+        "audio": null,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Supplication of the Prophet (ﷺ) for Urwa Ibn Abil Jaad Bariki (RA)",
+        "content": "The incident was as follows: That the Prophet (ﷺ) gave him one Dinar so as to buy a sheep for him. `Urwa bought two sheep for him with the money. Then he sold one of the sheep for one Dinar, and brought one Dinar and a sheep to the Prophet (ﷺ). On that, the Prophet (ﷺ) invoked Allah to bless him in his deals. So `Urwa used to gain (from any deal) even if he bought dust.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      },
+      "reference_bn": {
+        "name": "উরওয়া ইবনু আবিল জা'দ বারিকি (রাঃ) এর জন্য নবী (ﷺ) এর দোয়া",
+        "content": "ঘটনাটি ছিল এ রকম: একটি ভেড়া কেনার জন্য নবী (ﷺ) তাকে এক দীনার দিয়েছিলেন। তিনি ওই দীনার দিয়ে নবী (ﷺ) এর জন্য দুটি ভেড়া কিনেন। তারপর এক দীনারের বিনিময়ে একটি ভেড়া বিক্রি করে দেন। এরপর এক দীনার ও একটি ভেড়া নিয়ে নবী (ﷺ)-এর কাছে আসেন। এর পরিপ্রেক্ষিতে নবী (ﷺ) তার বেচাকেনায় বরকতের জন্য দোয়া করেন। এর পর তিনি ধুলাবালি কিনলে, তাতেও তার লাভ হতো।"
+      }
+    },
+    {
+      "key": [
+        792
+      ],
+      "id": 792,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 792,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ بَارِكْ لَهُ فِي صَفْقَةِ يَمِيْنِهِ",
+        "indopak": "اَللّٰهُمَّ بَارِكْ لَهٗ فِيْ صَفْقَةِ يَمِيْنِهٖ",
+        "clean": "اللهم بارك له في صفقه يمينه",
+        "transliteration": "Allaahumma baarik lahu fi safqati yaminihi",
+        "reference": "Baihaqi: 6/112, Ahmed: 1750",
+        "audio": 792,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Dua for blessing one's business",
+        "content": "The Prophet (ﷺ) prayed for Urwa ibn Abil Jaad Bariki (RA) as follows:",
+        "translation": "Oh Allah! Put barakah on his trade.",
+        "note": "He lived in Kufa; And before returning home, he used to make a profit of forty thousand."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "কারও ব্যবসায় বরকতের জন্য দোয়া",
+        "content": "নবী (ﷺ) উরওয়া ইবনু আবিল জা'দ বারিকি (রাঃ) এর জন্য এভাবে দোয়া করেছিলেন -",
+        "translation": "হে আল্লাহ্‌! তার বেচাকেনায় বরকত দাও!",
+        "note": "তিনি কুফায় থাকতেন; আর ঘরে ফেরার আগে তিনি চল্লিশ হাজার মুনাফা অর্জন করতেন।"
+      }
+    },
+    {
+      "key": [
+        793
+      ],
+      "id": 793,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 793,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ عَلَيْكَ بِقُرَيْشٍ",
+        "indopak": "اَللّٰهُمَّ عَلَيْكَ بِقُرَيْشٍ",
+        "clean": "اللهم عليك بقريش",
+        "transliteration": "Allaahumma 'Alaika bi Quraish",
+        "reference": "Muslim: 1794",
+        "audio": 793,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Prophet (ﷺ) Dua against the enemy",
+        "content": null,
+        "translation": "O Allah, it is for Thee to deal with the Quraish.",
+        "note": "Prophet (ﷺ) invoked Allah's imprecations upon some enemy of Allah, and Allah responded his dua. One of the incidence was, in Makkah , polytheists gave much pain to Prophet (ﷺ). One day, while the Messenger of Allah (ﷺ) was saying his prayer near the Ka'ba, Abu Jahl commanded some of his evil companions to place foetus of the she-camel between the shoulders of Muhammad when he goes down in prostration (a posture in prayer). This heinous crime was commited by ‘Uqbaa ibn Abi Muait.When the Prophet (ﷺ) had finished his prayer, he invoked Allah's imprecations upon them in a loud voice. Then he said thrice: (the dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "শত্রুর বিরুদ্ধে নবী (ﷺ) দোয়া",
+        "translation": "হে আল্লাহ্‌! তুমি কুরাইশদের বিচার করো!",
+        "note": "নবী (ﷺ) তাঁর কয়েকজন শত্রুর বিরুদ্ধে দোয়া করেছিলেন এবং সেগুলোর সাড়া পেতে বেশি সময় লাগেনি। এর মধ্যে একটি ছিল: মক্কাতে মুশরিকরা আল্লাহ্‌র রাসূল (ﷺ) কে কষ্ট দিত। (একদিন) নবী (ﷺ) সিজদায় গেলে তাঁর দু' কাঁধের মাঝখানে উটের পচা নাড়িভুড়ি ফেলে দেওয়ার জন্য, আবু জাহেল কিছু লোককে নির্দেশ দেয়। পরিশেষে এ কাজটি করে উকবা ইবনু আবী মুআইত। নবী (ﷺ) সালাত শেষে উচ্চ আওয়াজে তাদের বিরুদ্ধে বদদোয়া করে তিনবার বলেন -(উপরে উল্লেখিত দোয়া)"
+      }
+    },
+    {
+      "key": [
+        794
+      ],
+      "id": 794,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 794,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ عَلَيْكَ بِأَبِي جَهْلِ بْنِ هِشَامٍ وَعُتْبَةَ بْنِ رَبِيْعَةَ وَشَيْبَةَ بْنِ رَبِيْعَةَ وَالْوَلِيْدِ بْنِ عُقْبَةَ وَأُمَيَّةَ بْنِ خَلَفٍ وَعُقْبَةَ بْنِ أَبِيْ مُعَيْطٍ",
+        "indopak": "اَللّٰهُمَّ عَلَيْكَ بِاَبِيْ جَهْلِ بْنِ هِشَامٍ وَعُتْبَةَ بْنِ رَبِيْعَةَ وَشَيْبَةَ بْنِ رَبِيْعَةَ وَالْوَلِيْدِ بْنِ عُقْبَةَ واُمَيَّةَ بْنِ خَلَفٍ وَعُقْبَةَ بْنِ اَبِيْ مُعَيْطٍ",
+        "clean": "اللهم عليك بابي جهل بن هشام وعتبه بن ربيعه وشيبه بن ربيعه والوليد بن عقبه واميه بن خلف وعقبه بن ابي معيط",
+        "transliteration": "Allaahumma ‘Alaika bi abi jahl ibn Hisham, wa Utbath ibn Rabi'ah, wa Shaibah ibn Rabi'ah, wal Walid ibn Uqbah, wa Umayyah ibn Khalaf, wa Uqbah ibn abi Mu'ait",
+        "reference": "Muslim: 1794",
+        "audio": 794,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Dua of the prophet (ﷺ) against the enemy",
+        "content": "When they heard his voice, laughter vanished from them and they feared his malediction. Then Prophet (ﷺ) said:",
+        "translation": "O Allah, it is for Thee to deal with Abu Jahl bin Hisham, 'Utba bin Rabi'a, Shaiba bin Rabi'a. Walid bin Uqba, Umayya bin Khalaf, Uqba bin Abu Mu'ait.",
+        "note": "Ibn Mas’ud (RA) said,”By One Who sent Muhammad (ﷺ) with truth, I saw (all) those he had named lying slain on the Day of Badr. Their dead bodies were dragged to be thrown into a pit near the battlefield”. In another narration, “I swear by Allah that I saw them lying slain in the battlefield of Badr. It being a hot day, their complexion had changed (showing signs of decay).”"
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "শত্রুর বিরুদ্ধে নবী (ﷺ) দোয়া",
+        "content": "নবী (ﷺ) এর আওয়াজ শুনে তাদের হাসি মিলিয়ে যায় এবং তাঁর দোয়ায় তারা ভীতসন্ত্রস্ত হয়ে ওঠে। এরপর নবী (ﷺ) বলেন -",
+        "translation": "হে আল্লাহ্‌! আবু জাহলো ইবনু হিশাম, উতবা ইবনু রবীআ, শাইবা ইবনু রবীআ, ওয়ালীদ ইবনু উকবা, উমাইয়া ইবনু খালাফ ও উকবা ইবনু আবী মুআইত - তুমি এসকল লোকদের বিচার করো।",
+        "note": "ইবনু মাসউদ (রাঃ) বলেন, ‘শপথ সেই সত্তার, যিনি মুহাম্মাদ (ﷺ) কে সত্য দিয়ে পাঠিয়েছেন! যাদের নাম উল্লেখ করা হলো, বদরে আমি তাদের লাশ পড়ে থাকতে দেখেছি। এরপর তাদের লাশ বদরের কুয়োর দিকে টেনে নিয়ে যাওয়া হয়েছে। অপর এক বর্ণনায় আছে, ‘শপথ আল্লাহ্‌র! বদরে আমি তাদের লাশ পড়ে থাকতে দেখেছি। সূর্যের উত্তাপে তাদের লাশ বিকৃত হয়ে গিয়েছিল। সেদিন ছিল প্রচণ্ড গরম।"
+      }
+    },
+    {
+      "key": [
+        795
+      ],
+      "id": 795,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 795,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اصْرَعْهُ",
+        "indopak": "اَللّٰهُمَّ اصْرَعْهُ",
+        "clean": "اللهم اصرعه",
+        "transliteration": "Allahum-mas ra'hu",
+        "reference": "Bukhari: 3911",
+        "audio": 795,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Dua of the Prophet (ﷺ) against Suraka Ibn Malik",
+        "content": null,
+        "translation": "O Allah! Cause him to fall down.",
+        "note": "Narrated by Anas bin Malik (RA): Allah's Messenger (ﷺ) arrived at Medina with Abu Bakr (RA), riding behind him on the same camel. Abu Bakr (RA) was an elderly man known to the people, while Allah's Messenger (ﷺ) was a youth that was unknown. Thus, if a man met Abu Bakr (RA), he would say, \"O Abu Bakr! Who is this man in front of you?\" Abu Bakr (RA) would say, \"This man shows me the Way,\" One would think that Abu Bakr (RA) meant the road, while in fact, Abu Bakr (RA) meant the way of virtue and good. Then Abu Bakr (RA) looked behind and saw a horse-rider pursuing them. He said, \"O Allah's Messenger (ﷺ)! This is a horse-rider pursuing us.\" The Prophet (ﷺ) looked behind and said - (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "সূরাকা ইবনু মালিকের বিরুদ্ধে নবী (ﷺ)-এর দোয়া",
+        "translation": "হে আল্লাহ্‌! তুমি তাকে (ঘোড়ার পিঠ থেকে) ফেলে দাও!",
+        "note": "আনাস ইব্‌নু মালিক (রাঃ) থেকে বর্ণিতঃ তিনি বলেন, আল্লাহ্‌র নবী (ﷺ) যখন মদীনায় এলেন তখন উষ্ট্রে পৃষ্ঠে আবূ বকর (রাঃ) তাঁর পশ্চাতে ছিলেন। আবূ বকর (রাঃ) ছিলেন বয়োজ্যেষ্ঠ ও পরিচিত। আর নবী (ﷺ) ছিলেন জাওয়ান এবং অপরিচিত। তখন বর্ননাকারী বলেন, যখন আবূ বকরের সঙ্গে কারো সাক্ষাৎ হত, সে জিজ্ঞেস করত হে আবূ বকর (রাঃ)! তোমার সম্মুখে উপবিষ্ট ঐ ব্যক্তি কে? আবূ বকর (রাঃ) বলতেন, তিনি আমার পথ প্রদর্শক। রাবী বলেন, প্রশ্নকারী সাধারন পথ মনে করত এবং তিনি সত্যপথ উদ্দেশ্য করতেন। তারপর একবার আবূ বকর (রাঃ) পিছনে চেয়ে হঠাৎ দেখতে পেলেন এক ঘোড় সওয়ার তাদের কাছেই এসে পড়েছে। তখন তিনি বললেন, হে আল্লাহ্‌র রসূল! এই যে একজন ঘোড় সওয়ার আমাদের পিছনে প্রায় কাছে পৌঁছে গেছে। তখন নবী (ﷺ) পিছনের দিকে তাকিয়ে দু’আ করলেন - (উপরে উল্লেখিত দোয়া)"
+      }
+    },
+    {
+      "key": [
+        796
+      ],
+      "id": 796,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 796,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَنْجِزْ لِي مَا وَعَدْتَنِي اَللَّهُمَّ آتِ مَا وَعَدْتَنِي اَللَّهُمَّ إِنْ تُهْلِكْ هَذِهِ الْعِصَابَةَ مِنْ أَهْلِ الْإِسْلَامِ لَا تُعْبَدُ فِي الْأَرْضِ",
+        "indopak": "اَللّٰهُمَّ اَنْجِزْ لِيْ مَا وَعَدْتَّنِيْ اَللّٰهُمَّ اٰتِ مَا وَعَدْتَّنِيْ اَللّٰهُمَّ اِنْ تُهْلِكْ هٰذِهِ الْعِصَابَةَ مِنْ اَهْلِ الْاِسْلَامِ لَا تُعْبَدُ فِيْ الْاَرْضِ",
+        "clean": "اللهم انجز لي ما وعدتني اللهم ات ما وعدتني اللهم ان تهلك هذه العصابه من اهل الاسلام لا تعبد في الارض",
+        "transliteration": "Allaahumma anjiz li ma wa ‘adtani, Allaahumma aati ma wa ‘adtani, Allaahumma in tuhlik hadhi-hil 'ishabata min ahlil Islaami, la tu'badu fil ardi",
+        "reference": "Muslim: 1763",
+        "audio": 796,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "Dua of the Prophet (ﷺ) on the day of the battle of Badr",
+        "content": null,
+        "translation": "O Allah! Fulfill what You promised for me. [O Allah! Bring about what You promised for me] O Allah! If you destroy this band of adherents to Islam, you will not be worshiped upon the earth.",
+        "note": "It has been narrated on the authority of `Umar bin al-Khattab (RA) who said: When it was the day on which the Battle of Badr was fought, the Messenger of Allah (ﷺ) cast a glance at the infidels, and they were one thousand while his own Companions were three hundred and nineteen. The Prophet (ﷺ) turned (his face) towards the Qibla. Then he stretched his hands and began his supplication to his Lord: (The dua mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "বদর যুদ্ধের দিন নবী (ﷺ) এর দোয়া",
+        "translation": "হে আল্লাহ্‌! আমাকে-দেওয়া প্রতিশ্রুতি পুরা করো। হে আল্লাহ্‌! আমার সঙ্গে ওয়াদাকৃত বিষয় আমাকে দাও। হে আল্লাহ্‌! তুমি যদি এ ক্ষুদ্র দলটি ধ্বংস করে দাও যারা ইসলামের অনুসরণ করছে, তা হলে পৃথিবীতে আর তোমার গোলামি করা হবে না।",
+        "note": "উমর ইবনুল খাত্তাব (রাঃ) থেকে বর্ণিত, তিনি বলেন, বদর যুদ্ধের দিন আল্লাহ্‌র রাসূল (ﷺ) মুশরিকদের দিকে তাকিয়ে দেখেন তাদের সংখ্যা হাজার খানেক, আর তাঁর সাহাবীদের সংখ্যা তিনশত এবং উনিশ জন। এরপর আল্লাহ্‌র নবী (ﷺ) কিবলামুখী হয়ে নিজের হাতদুটি প্রসারিত করেন এবং নিজের রবের কাছে এভাবে মিনতি পেশ করতে থাকেন-(উপরে দোয়াটি উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        797
+      ],
+      "id": 797,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 797,
+        "groups": null,
+        "uthmani": "إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ",
+        "indopak": "اِذْ تَسْتَغِيْثُوْنَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ اَنِّيْ مُمِدُّكُمْ بِاَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِيْنَ",
+        "clean": "اذ تستغيثون ربكم فاستجاب لكم اني ممدكم بالف من الملاءكه مردفين",
+        "transliteration": null,
+        "reference": "Muslim: 1763",
+        "audio": 797,
+        "cat_id": 39,
+        "subcat_id": 111
+      },
+      "source": {
+        "name": "The supplication of the believers and the help of Allah",
+        "content": null,
+        "translation": "[Remember] when you asked help of your Lord, and He answered you, \"Indeed, I will reinforce you with a thousand from the angels, following one another.\" (Sura Anfal 8:9)",
+        "note": "He (Rasulullah ﷺ) continued his supplication to his Lord, stretching his hands, facing the Qibla, until his mantle slipped down from his shoulders. So Abu Bakr (RA) came to him, picked up his mantle and put it on his shoulders. Then he embraced him from behind and said: O Prophet of Allah (ﷺ), this prayer of yours to your Lord will suffice you, and He will fulfill for you what He has promised you. So Allah, the Glorious and Exalted, revealed (the Qur'anic verse): (The ayaat is mentioned above) \n\nSo Allah helped him with angels."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "মু'মিনদের দোয়া ও আল্লাহর সাহায্য",
+        "translation": "আর স্মরণ করো, যখন তোমরা তোমাদের রবের নিকট ফরিয়াদ করছিলে, তখন তিনি তোমাদের ডাকে সাড়া দিয়েছিলেন যে, ‘নিশ্চয় আমি তোমাদেরকে পর পর আগমনকারী এক হাজার ফেরেশতা দ্বারা সাহায্য করছি’। (সূরা আল-আনফাল ৮:৯)",
+        "note": "কিবলামুখী হয়ে দু'হাত প্রসারিত করে তিনি (রাসুলুল্লাহ ﷺ) নিজের রবের কাছে এভাবে মিনতি পেশ করতে থাকেন; এক পর্যায়ে তাঁর দু' কাঁধ থেকে চাদরটি পড়ে যায়। আবু বকর (রাঃ) এসে চাদরটি নিয়ে তাঁর দু' কাঁধের উপর রেখে দেন। তারপর তাঁকে পেছন থেকে ধরে বলেন, “হে আল্লাহ্‌র নবী (ﷺ) আপনার রবের কাছে যে মিনতি পেশ করেছেন, তা আপনার জন্য যথেষ্ট; তিনি আপনাকে যার ওয়াদা দিয়েছেন, অচিরেই তিনি তা আপনাকে দেবেন।” এ প্রসঙ্গে আল্লাহ্‌ তা'আলা নাযিল করেন-(উপরে উল্লেখিত আয়াত)\n\nএরপর আল্লাহ্‌ তাঁকে ফেরেশতা দিয়ে সাহায্য করেছেন।"
+      }
+    }
+  ]
+}

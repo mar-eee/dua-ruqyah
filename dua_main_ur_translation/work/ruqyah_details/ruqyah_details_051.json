@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_051.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "102-103",
+  "source_chars": 3202,
+  "items": [
+    {
+      "key": [
+        102
+      ],
+      "id": 102,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 102,
+        "topic_id": null,
+        "cat_id": 5,
+        "subcat_id": 83
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Jealousy is more general than the evil eye. A person with an evil eye is a specifically jealous person. Therefore, every person with an evil eye is a jealous person, but not every jealous person is a person with an evil eye. Hence, the seeking of refuge with Allah mentioned in the Qur'an (Chapter 113) refers to the jealous. Therefore, if a Muslim seeks refuge with Allah from the evil of the jealous, the request includes people with evil eyes This is indicative of the comprehensiveness, inimitability and rhetoric of the Qur'an. [See Bada’i “u Al-Fawa id: 2/232 and Zad Al-Ma'ad: 4/167]\n\nJealousy is caused by resentment, hatred and the desire to see a person stripped of his blessing the evil eye, on the other hand, is caused by admiration and approval. \n\nJealousy and evil eye share the concept of influence: both of them can affect a target. However, they differ in their source: whilst jealousy stems from the heart's burning desire to see the targeted person have a lot of blessings, then see him deprived; the evil eye, on the other hand, emanates from the gaze of the eye Therefore, a person with an evil eye may affect a target from which he is not jealous; inanimate things, animals, crops or money. He may even affect himself with his own evil eye. This is a stare of admiration, followed by a certain disposition that affects the targeted person. \n\nA person may be jealous of something predictable, whilst a person with an evil eye may only affect what is actually present .\n\nMan does not get jealous of his own self or his wealth, but he may affect these with his evil eye.\n\nJealousy only comes from an evil, resentful soul; but evil eye may come from a righteous person who admires something without having the desire to see it taken away 'Amir Ibn Rabi'a (RA) affected Sahl Ibn Hunayf (RA) with the evil eye, despite the fact that he ('Amir) was among those who not only embraced Islam at an early period, but participated in the Battle of Badr.\n\nAmong the scholars who dealt with the difference between jealousy and evil eye, are: Ibn Al-Jawzi, Ibn Al-Qayyim, Ibn Hajar and An Nawawi (R).\n\nIt is recommended that if a Muslim sees something he likes, he should invoke Allah to bless it, whether it belongs to him or to someone else; according to the Prophet's (ﷺ) advice to Sahi Ibn Hunayf (RA): \"Why don't you invoke Allah to bless it \"; that is, to ask Allah to bless whatever he had, for the invocation of Allah thwarts the influence of the evil eye."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        103
+      ],
+      "id": 103,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 103,
+        "topic_id": null,
+        "cat_id": 5,
+        "subcat_id": 84
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Abu Sa'id Al-Khudris (RA) reported : \"The Prophet (ﷺ) used to seek refuge with Allah from the Jinn, then man's evil eye. But when the Chapters 113 and 114 of the Qur'an were revealed, he adopted them, and discarded any other inappropriate invocations.\" [At-Tirmidi: 2059, the Book of Medicine, and Ibn Majah: 3511]\n\nUmmu Salama (RA) reported: \"the Prophet (ﷺ) observed a girl in my house, whose face had a black spot and said, 'she is under the effect of an evil eye; so treat her with ruqya.\"\n\nAccording to the above traditions, the evil eye also comes from the Jinn. Therefore, a Muslim should invoke Allah & upon undressing, looking in the mirror, or starting any task in order to ward off the harm of the Jinr's evil eye, etc."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

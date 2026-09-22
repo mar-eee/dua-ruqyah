@@ -1,0 +1,507 @@
+{
+  "table": "duas",
+  "chunk": "duas_025.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 13,
+  "id_range": "315-327",
+  "source_chars": 5833,
+  "items": [
+    {
+      "key": [
+        315
+      ],
+      "id": 315,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 315,
+        "groups": null,
+        "uthmani": "إِنِّي صَائِمٌ، إِنِّي صَائِمٌ",
+        "indopak": "اِنِّيْ صَائِمٌ، اِنِّيْ صَائِمٌ",
+        "clean": "اني صاءم اني صاءم",
+        "transliteration": "Innee saa'imun, 'innee saa'imun",
+        "reference": "Bukhari: 1894",
+        "audio": 315,
+        "cat_id": 16,
+        "subcat_id": 59
+      },
+      "source": {
+        "name": "Dua when insulted while fasting",
+        "content": null,
+        "translation": "I am fasting. I am fasting.",
+        "note": "Narrated Abu Huraira (RA): The Messenger of Allah (ﷺ) said: Fasting is a shield; So if any one of you observes fasting, let him not commit adultery or foolishness; If someone fights him or insults him, let him say - (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "রোযাদারকে কেউ গালি দিলে",
+        "translation": "আমি রোযাদার! আমি রোযাদার!",
+        "note": "আবূ হুরায়রা (রাঃ) থেকে বর্ণিত, আল্লাহ্‌র রাসূল (ﷺ) বলেন, সিয়াম হলো ঢালস্বরূপ; সুতরাং তোমাদের কেউ সিয়াম পালন করলে, সে যেন যৌনাচার ও মূর্খসুলভ আচরণ না করে; কেউ তার সঙ্গে লড়াই করলে অথবা তাকে গালমন্দ করলে সে যেন বলে - (দোয়াটি উপরে উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        316
+      ],
+      "id": 316,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 316,
+        "groups": null,
+        "uthmani": "أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ، وَأَكَلَ طَعَامَكُمُ الْأَبْرَارُ، وَصَلَّتْ عَلَيْكُمُ الْمَلَائِكَةُ",
+        "indopak": "اَفْطَرَ عِنْدَكُمُ الصَّائِمُوْنَ، وَاَكَلَ طَعَامَكُمُ الْاَبْرَارُ، وَصَلَّتْ عَلَيْكُمُ الْمَلَائِكَةُ",
+        "clean": "افطر عندكم الصاءمون واكل طعامكم الابرار وصلت عليكم الملاءكه",
+        "transliteration": "Aftara 'indakumus-saa'imoona, wa 'akala ta'aamakumul-'abraaru, wa sallat 'alaykumul-malaa'ikah.",
+        "reference": "Sahih (Albani). Abu Dawud: 3854",
+        "audio": 316,
+        "cat_id": 16,
+        "subcat_id": 59
+      },
+      "source": {
+        "name": "When breaking fast in someone's home",
+        "content": null,
+        "translation": "With you, those who are fasting have broken their fast, you have fed those who are righteous, and the angels recite their prayers upon you.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "কোনো পরিবারের কাছে ইফতার করলে তাদের জন্য দোয়া",
+        "translation": "আপনাদের কাছে রোযাদাররা ইফতার করুন, আপনাদের খাবার যেন সৎলোকেরা খায়, আর আপনাদের জন্য ফিরিশতারা ক্ষমা প্রার্থনা করুন।"
+      }
+    },
+    {
+      "key": [
+        317
+      ],
+      "id": 317,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 317,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Muslim: 1150",
+        "audio": null,
+        "cat_id": 16,
+        "subcat_id": 59
+      },
+      "source": {
+        "name": "By one fasting when presented with food",
+        "content": "The Prophet (ﷺ) says: If any one of you is invited to a meal when he is fasting, he should say:\" I am fasting.\"",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      },
+      "reference_bn": {
+        "name": "রোযাদারের নিকট যদি খাবার উপস্থিত হয়, আর সে যদি রোজা না ভাঙ্গে তখন সে বলবে",
+        "content": "নবী (ﷺ) বলেছেনঃ যখন তোমাদের কেউ সিয়াম অবস্থায় আহার করার জন্য আমন্ত্রিত হয়, তখন সে যেন বলে, আমি সিয়াম পালনকারী।"
+      }
+    },
+    {
+      "key": [
+        318
+      ],
+      "id": 318,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 318,
+        "groups": null,
+        "uthmani": "اَلْحَمْدُ لِلَّهِ، سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُوْنَ، اَلْحَمْدُ لِلَّهِ، اَلْحَمْدُ لِلَّهِ، اَلْحَمْدُ لِلَّهِ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اَللّهُ أَكْبَرُ، (لَا إِلٰهَ إِلَّا أَنْتَ) سُبْحَانَكَ، إِنِّي ظَلَمْتُ نَفْسِيْ فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوْبَ إِلاَّ أَنْتَ",
+        "indopak": "اَلْحَمْدُ لِلّٰهِ، سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هٰذَا وَمَا كُنَّا لَهٗ مُقْرِنِيْنَ وَاِنَّا اِلٰى رَبِّنَا لَمُنْقَلِبُوْنَ، اَلْحَمْدُ لِلّٰهِ، اَلْحَمْدُ لِلّٰهِ، اَلْحَمْدُ لِلّٰهِ، اَللّٰهُ اَكْبَرُ، اَللّٰهُ اَكْبَرُ، اَللّٰهُ اَكْبَرُ، (لَا اِلٰهَ اِلَّا اَنْتَ) سُبْحَانَكَ، اِنِّيْ ظَلَمْتُ نَفْسِيْ فَاغْفِرْ لِيْ فَاِنَّهٗ لَا يَغْفِرُ الذُّنُوْبَ اِلَّا اَنْتَ",
+        "clean": "الحمد لله سبحان الذي سخر لنا هذا وما كنا له مقرنين وانا الي ربنا لمنقلبون الحمد لله الحمد لله الحمد لله الله اكبر الله اكبر الله اكبر لا اله الا انت سبحانك اني ظلمت نفسي فاغفر لي فانه لا يغفر الذنوب الا انت",
+        "transliteration": "Alhamdu lillaah. Subhaanal-ladhee sakhkhara lanaa haadhaa wa maa kunnaa lahu muqrineen. Wa 'innaa 'ilaa Rabbinaa lamunqaliboon. Alhamdu lillaah, alhamdu lillaah, alhamdu lillaah, Allahu 'Akbar, Allahu 'Akbar, Allahu 'Akbar, (laa ilahaa 'illaa 'Anta) subhaanaka 'innee dhalamtu nafsee faghfir lee, fa'innahu laa yaghfirudh-dhunooba 'illaa 'Anta",
+        "reference": "Sahih (Albani). Tirmidhi: 3446",
+        "audio": 318,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "When mounting an animal or any means of transport",
+        "content": "Rasulullah (ﷺ) used to say Bismillah while boarding the ride, he said the rest after setting down:",
+        "translation": "Praise is to Allah. Glory is to Him Who has provided this for us though we could never have had it by our efforts. Surely, unto our Lord we are returning. Praise is to Allah. Praise is to Allah. Praise is to Allah. Allah is the Most Great. Allah is the Most Great. Allah is the Most Great. Glory is to You. O Allah, I have wronged my own soul. Forgive me, for surely none forgives sins but You.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "বাহনে আরোহণের দোয়া",
+        "content": "রাসূলুল্লাহ্‌ (ﷺ) বাহনে আরোহণের সময় বিসমিল্লাহ বলতেন, উঠে বসার পর বলতেন -",
+        "translation": "প্রশংসা আল্লাহ্‌র জন্য। পবিত্র ও মহান তিনি, যিনি এদেরকে আমাদের বশীভূত করে দিয়েছেন, যদিও আমরা সমর্থ ছিলাম না এদেরকে বশীভূত করতে। প্রশংসা আল্লাহ্‌র জন্য (৩ বার), আল্লাহ্‌ সর্বশ্রেষ্ঠ (৩ বার) (আপনি ছাড়া কোনো ইলাহ নেই), আপনার পবিত্রতা ঘোষণা  করছি, আমি আমার নিজের উপর অত্যাচার করেছি কাজেই আপনি আমাকে ক্ষমা করুন। আপনি ছাড়া কেউ পাপ ক্ষমা করে না।"
+      }
+    },
+    {
+      "key": [
+        319
+      ],
+      "id": 319,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 319,
+        "groups": "[{\"id\": 319, \"name\": null, \"cat_id\": 17, \"subcat_id\": 60, \"content\": \"And when the Prophet (\\ufdfa) returned from his journey, he would recite it and add to it:\", \"uthmani\": \"\\u0622\\u064a\\u0650\\u0628\\u064f\\u0648\\u0646\\u064e\\u060c \\u062a\\u064e\\u0627\\u0626\\u0650\\u0628\\u064f\\u0648\\u0646\\u064e\\u060c \\u0639\\u064e\\u0627\\u0628\\u0650\\u062f\\u064f\\u0648\\u0646\\u064e\\u060c \\u0644\\u0650\\u0631\\u064e\\u0628\\u0651\\u0650\\u0646\\u064e\\u0627 \\u062d\\u064e\\u0627\\u0645\\u0650\\u062f\\u064f\\u0648\\u0646\\u064e\", \"indopak\": \"\\u0627\\u0670\\u064a\\u0650\\u0628\\u064f\\u0648\\u0652\\u0646\\u064e\\u060c \\u062a\\u064e\\u0627\\u0626\\u0650\\u0628\\u064f\\u0648\\u0652\\u0646\\u064e\\u060c \\u0639\\u064e\\u0627\\u0628\\u0650\\u062f\\u064f\\u0648\\u0652\\u0646\\u064e\\u060c \\u0644\\u0650\\u0631\\u064e\\u0628\\u0651\\u0650\\u0646\\u064e\\u0627 \\u062d\\u064e\\u0627\\u0645\\u0650\\u062f\\u064f\\u0648\\u0652\\u0646\\u064e\", \"clean\": \"\\u0627\\u064a\\u0628\\u0648\\u0646 \\u062a\\u0627\\u0621\\u0628\\u0648\\u0646 \\u0639\\u0627\\u0628\\u062f\\u0648\\u0646 \\u0644\\u0631\\u0628\\u0646\\u0627 \\u062d\\u0627\\u0645\\u062f\\u0648\\u0646\", \"transliteration\": \"Ayibuna, ta'ibuna, 'abiduna, li-Rabbina hamidun\", \"translation\": \"We are returning in safety, turning to our Rob, worshipping Him and praising Him.\", \"note\": null, \"reference\": \"Muslim: 1342\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُوْنَ اَللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى وَمِنَ الْعَمَلِ مَا تَرْضَى، اَللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ، اَللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيْفَةُ فِي الْأَهْلِ، اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمَنْظَرِ، وَسُوْءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ",
+        "indopak": "اَللّٰهُ اَكْبَرُ، اَللّٰهُ اَكْبَرُ، اَللّٰهُ اَكْبَرُ، سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هٰذَا وَمَا كُنَّا لَهٗ مُقْرِنِيْنَ، وَاِنَّا اِلٰى رَبِّنَا لَمُنْقَلِبُوْنَ اَللّٰهُمَّ اِنَّا نَسْاَلُكَ فِيْ سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوٰى وَمِنَ الْعَمَلِ مَا تَرْضٰى، اَللّٰهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهٗ، اَللّٰهُمَّ اَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيْفَةُ فِي الْاَهْلِ، اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنْ وَّعْثَاءِ السَّفَرِ، وَكَاٰبَةِ الْمَنْظَرِ، وَسُوْءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْاَهْلِ",
+        "clean": "الله اكبر الله اكبر الله اكبر سبحان الذي سخر لنا هذا وما كنا له مقرنين وانا الي ربنا لمنقلبون اللهم انا نسالك في سفرنا هذا البر والتقوي ومن العمل ما ترضي اللهم هون علينا سفرنا هذا واطو عنا بعده اللهم انت الصاحب في السفر والخليفه في الاهل اللهم اني اعوذ بك من وعثاء السفر وكابه المنظر وسوء المنقلب في المال والاهل",
+        "transliteration": "Allahu 'Akbar, Allahu 'Akbar, Allahu 'Akbar. Subhaanal-lathee sakhkhara lanaa haadhaa wa maa kunnaa lahu muqrineen. Wa 'innaa 'ilaa Rabbinaa lamunqaliboon. Allaahumma 'innaa nas'aluka fee safarinaa haadhal-birra wattaqwaa, waminal-'amali maa tardhaa, Allaahumma hawwin 'alaynaa safaranaa haadhaa watwi 'annaa bu'dahu, Allaahumma 'Antas-saahibu fis-safari, walkhaleefatu fil-'ahli, Allaahumma 'innee 'A'oodhu bika min wa'thaa'is-safari, wa ka-'aabatil-mandhari, wa soo'il-munqalabi fil-maali wal 'ahli",
+        "reference": null,
+        "audio": 319,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "While returning from travel",
+        "content": "Abdullah bin Umar (RA) said that the Prophet (ﷺ) used to recite this dua at the beginning of his journey:",
+        "translation": "Allah is the Most Great (3 times). Glory is to Him Who has provided this for us though we could never have had it by our efforts. Surely, unto our Lord we are returning. O Allah, we ask You on this our journey for goodness and piety, and for works that are pleasing to You. O Allah, lighten this journey for us and make its distance easy for us. O Allah, You are our Companion on the road and the One in Whose care we leave our family. O Allah, I seek refuge in You from this journey's hardships, and from the wicked sights in store and from finding our family and property in misfortune upon returning.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "সফর ও প্রত্যাবর্তনের দোয়া",
+        "content": "আব্দুল্লাহ ইবন উমর (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) সফরের শুরুতে এ দোয়াটি পড়তেন -",
+        "translation": "আল্লাহ্‌ সর্বশ্রেষ্ঠ (৩ বার)। পবিত্র তিনি যিনি এদেরকে আমাদের বশীভূত করেছেন, যদিও আমরা সমর্থ ছিলাম না এদেরকে বশীভূত করতে। হে আল্লাহ্‌, আমরা আমাদের এ সফরে আপনার কাছে মঙ্গলময় কর্ম এবং তাকওয়া প্রার্থনা করছি এবং আপনার পছন্দনীয় কর্ম করার তাওফীক প্রার্থনা করছি। হে আল্লাহ্‌, আপনি আমাদের জন্য এ সফরটি সহজ করে দিন এবং এর দূরত্ব সংকুচিত করে দিন। হে আল্লাহ্‌, সফরে আপনিই আমাদের সাথী এবং পরিবার পরিজনের কাছে আপনিই আমাদের খলীফা-স্থলাভিষিক্ত। হে আল্লাহ্‌, আমি সফরের কাঠিন্য, মনোকষ্টকর দৃশ্য এবং সম্পদ ও পরিবারে অকল্যাণময় প্রত্যাবর্তন থেকে আপনার আশ্রয় গ্রহণ করছি।"
+      },
+      "group_items": [
+        {
+          "group": 0,
+          "key": "content",
+          "source": "And when the Prophet (ﷺ) returned from his journey, he would recite it and add to it:",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "translation",
+          "source": "We are returning in safety, turning to our Rob, worshipping Him and praising Him.",
+          "target": ""
+        }
+      ]
+    },
+    {
+      "key": [
+        320
+      ],
+      "id": 320,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 320,
+        "groups": null,
+        "uthmani": "أَسْتَوْدِعُكَ اللَّهَ الَّذِيْ لَا تَضِيْعُ وَدَائِعُهُ",
+        "indopak": "اَسْتَوْدِعُكَ اللّٰهَ الَّذِيْ لَا تَضِيْعُ وَدَائِعُهٗ",
+        "clean": "استودعك الله الذي لا تضيع وداءعه",
+        "transliteration": "Astawdi'ukAllahal-ladhee laa tadhee'u wadaa'i'uhu",
+        "reference": "Sahih (Albani). Ibn Majah: 2825",
+        "audio": 320,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "Dua of the resident for the traveller",
+        "content": null,
+        "translation": "I leave you in the care of Allah, as nothing is lost that is in His care.",
+        "note": "The Messenger of Allah (ﷺ) gave me a send-off and said: (The dua is mentioned above). So, musaafir should say this dua to the farewell giver.But Musaafir and farewell giver both can supplicate this dua for each other."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "মুসাফিরের জন্য মুক্বীম বা অবস্থানকারীর দোয়া",
+        "translation": "তোমাকে গচ্ছিত রাখছি আল্লাহ্‌র কাছে, যার কাছে গচ্ছিত কিছুই বিনষ্ট হয় না।",
+        "note": "আবু হুরাইরা (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) আমাকে বিদায়কালে উপরের কথাগুলি বলেন। তাহলে, মুসাফির বিদায়-দাতাকে এ দোয়া বলবেন। তবে বিদায়কালে মুসাফির ও বিদায়দাতা উভয়েই এ দোয়া পরস্পরকে বলতে পারেন।"
+      }
+    },
+    {
+      "key": [
+        321
+      ],
+      "id": 321,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 321,
+        "groups": null,
+        "uthmani": "أَسْتَوْدِعُ اللَّهَ دِيْنَكَ وَأَمَانَتَكَ وَخَوَاتِيْمَ عَمَلِكَ",
+        "indopak": "اَسْتَوْدِعُ اللّٰهَ دِيْنَكَ وَاَمَانَتَكَ وَخَوَاتِيْمَ عَمَلِكَ",
+        "clean": "استودع الله دينك وامانتك وخواتيم عملك",
+        "transliteration": "Astawdi'ullaaha deenaka, wa 'amaanataka, wa khawaateema 'amalika",
+        "reference": "Sahih (Albani). Tirmidhi: 3443",
+        "audio": 321,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "Dua to bid farewell to the traveler #1",
+        "content": null,
+        "translation": "I leave your religion in the care of Allah, as well as your safety, and the last of your deeds.",
+        "note": "Abdullah ibn Umar (RA) said, The Messenger of Allah (ﷺ) said: when he bid farewell, he grab his hand and did musafaha and said the above mentioned dua.In another narration, Abdullah Ibn Yazid Khatmi (RA) said, The Messenger of Allah (ﷺ) bid farewell by saying these words. But in this case, he used plural (kum) instead of singular (ka): “Astad’iullaha diinaakum wa amaanatakum wa khawatima a’maalikum” I leave your religion in the care of Allah, as well as your safety, and the last of your deeds."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "মুসাফিরকে বিদায় জানানোর দোয়া #১",
+        "translation": "আল্লাহ্‌র কাছে গচ্ছিত রাখছি তোমার দীন, তোমার আমানত এবং তোমার কর্মের পরিণতি। (সফরের কারণে এগুলি যেন ক্ষতিগ্রস্ত না হয়)",
+        "note": "আব্দুল্লাহ ইবন উমর (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ): যখন কাউকে বিদায় জানাতেন তখন তার হাত ধরে মুসাফাহা (করমর্দন) করতেন এবং উপরের কথাগুলি বলতেন। অন্য হাদীসে আব্দুল্লাহ ইবন ইয়াযীদ খাতমী (রাঃ) বলেন, রাসূলুল্লাহ্‌, যখন কোনো বাহিনীকে বিদায় জানাতেন তখন এ কথা বলতেন। তবে এক্ষেত্রে একবচন (কা)-এর পরিবর্তে বহুবচন (কুম: তোমাদের) শব্দ ব্যবহার করতেন: ‘‘আস্‌তাউদি’উল্লা-হা দীনাকুম ওয়া আমানাতাকুম ওয়া ‘খাওয়া-তিমা আ'মা-লিকুম’’ আল্লাহ্‌র নিকট গচ্ছিত রাখছি তোমাদের দীন, তোমাদের আমানত এবং তোমাদের কর্মের পরিণতি।"
+      }
+    },
+    {
+      "key": [
+        322
+      ],
+      "id": 322,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 322,
+        "groups": null,
+        "uthmani": "زَوَّدَكَ اللَّهُ التَّقْوَى وَغَفَرَ لَكَ ذَنْبَكَ وَيَسَّرَ لَكَ الْخَيْرَ حَيْثُمَا كُنْتَ",
+        "indopak": "زَوَّدَكَ اللّٰهُ التَّقْوٰى وَغَفَرَ لَكَ ذَنْۢبَكَ وَيَسَّرَ لَكَ الْخَيْرَ حَيْثُمَا كُنْتَ",
+        "clean": "زودك الله التقوي وغفر لك ذنبك ويسر لك الخير حيثما كنت",
+        "transliteration": "Zawwadakal-laahut-taqwaa, wa ghafara thanbaka, wa yassara lakal-khayra haythu maa kunta",
+        "reference": "Hasan (Albani). Tirmidhi: 3444",
+        "audio": 322,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "Dua to bid farewell to the traveler #2",
+        "content": null,
+        "translation": "May Allah give you piety as your provision, forgive your sins, and make goodness easy for you wherever you are.",
+        "note": "Anas ibn Malik (RA) said, \"A man came to the Messenger of Allah (ﷺ) and said, 'I have decided to travel. Give me a Travel allowance.' Then he said these words and prayed for him."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "মুসাফিরকে বিদায় জানানোর দোয়া #২",
+        "translation": "আল্লাহ্‌ তাকওয়াকে তোমার পাথেয় হিসেবে প্রদান করুন, তোমার গোনাহ ক্ষমা করুন এবং তুমি যেখানেই থাক না কেন তোমার জন্য মঙ্গলকে সহজ করুন।",
+        "note": "আনাস ইবন মালিক (রাঃ) বলেন, এক ব্যক্তি রাসূলুল্লাহ্‌ (ﷺ) এর কাছে এসে বলে, আমি সফরের সিদ্ধান্ত নিয়েছি, আমাকে পাথেয় দিন। তখন তিনি এ কথাগুলো বলে তার জন্য দোয়া করেন।"
+      }
+    },
+    {
+      "key": [
+        323
+      ],
+      "id": 323,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 323,
+        "groups": null,
+        "uthmani": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "indopak": "اَعُوْذُ بِكَلِمَاتِ اللّٰهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "clean": "اعوذ بكلمات الله التامات من شر ما خلق",
+        "transliteration": "A'oodhu bikalimaatil-laahit-taammaati min sharri maa khalaq",
+        "reference": "Muslim: 2708",
+        "audio": 323,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "Dua of the traveller for the resident #1",
+        "content": null,
+        "translation": "I seek refuge in the Perfect Words of Allah from the evil of what He has created.",
+        "note": "We have seen that the Prophet (ﷺ) said: If a person goes to a place or stops somewhere on a journey and says this dua, then nothing can harm him while he is there."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "কোনো স্থানে প্রবেশ বা অবস্থানের দোয়া #",
+        "translation": "আল্লাহ্‌র পরিপূর্ণ বাক্যসমূহের আশ্রয় গ্রহণ করছি, তিনি যা কিছু সৃষ্টি করেছেন তার অকল্যাণ থেকে।",
+        "note": "আমরা দেখেছি যে, রাসূলুল্লাহ্‌ (ﷺ) বলেছেন, যদি কেউ কোনো স্থানে গমন করে বা সফরে কোথাও থামে এবং এ দোয়াটি বলে, তাহলে তথায় অবস্থানকালে কোনো কিছু তার ক্ষতি করতে পারবে না।"
+      }
+    },
+    {
+      "key": [
+        324
+      ],
+      "id": 324,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 324,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَّبَّ السَّمَاوَاتِ السَّبْعِ وَمَا أَظْلَلْنَ، وَرَبَّ الْأَرَضِيْنَ السَّبْعِ ومَا أَقْلَلْنَ، ورَبَّ الشَّيَاطِيْنِ ومَا أَضْلَلْنَ، ورَبَّ الرِّيَاحِ وَمَا ذَرَيْنَ، أَسْأَلُكَ خَيْرَ هَذِهِ الْقَرْيَةِ وَخَيْرَ أَهْلِهَا، (وَخَيْرَ مَا فِيهَا) وَنَعُوذُ بِكَ مِنْ شَرِّهَا وَشَرِّ أَهْلِهَا وشَرِّ مَا فِيهَا",
+        "indopak": "اَللّٰهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَمَا اَظْلَلْنَ، وَرَبَّ الْاَرَضِيْنَ السَّبْعِ ومَا اَقْلَلْنَ، ورَبَّ الشَّيَاطِيْنِ ومَا اَضْلَلْنَ، ورَبَّ الرِّيَاحِ وَمَا ذَرَيْنَ، اَسْاَلُكَ خَيْرَ هٰذِهِ الْقَرْيَةِ وَخَيْرَ اَهْلِهَا، (وَخَيْرَ مَا فِيْهَا) وَنَعُوْذُ بِكَ مِنْ شَرِّهَا وَشَرِّ اَهْلِهَا وشَرِّ مَا فِيْهَا",
+        "clean": "اللهم رب السماوات السبع وما اظللن ورب الارضين السبع وما اقللن ورب الشياطين وما اضللن ورب الرياح وما ذرين اسالك خير هذه القريه وخير اهلها وخير ما فيها ونعوذ بك من شرها وشر اهلها وشر ما فيها",
+        "transliteration": "Allaahumma Rabbas-samaawaatis-sab'i wa maa 'adhlalna, wa Rabbal-'aradheenas-sab'i wa maa 'aqlalna, wa Rabbash-shayaateeni wa maa 'adhlalna, wa Rabbar-riyaahi wa maa tharayna. 'As'aluka khayra haathihil-qaryati wa khayra 'ahlihaa, (wa khayra maa feehaa), wa na‛oodhu bika min sharrihaa, wa sharri 'ahlihaa, wa sharri maa feehaa",
+        "reference": "Hasan Ligairihi (Albani). Sahih Ibn Khuzaimah: 2565",
+        "audio": 324,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "Dua of the traveller for the resident #2",
+        "content": null,
+        "translation": "O Allah, Lord of the seven heavens and all they overshadow, Lord of the seven worlds and all they uphold, Lord of the devils and all they lead astray, Lord of the winds and all they scatter. I ask You for the goodness of this town and for the goodness of its people, and for the goodness it contains. I seek refuge in You from its evil, from the evil of its people and from the evil it contains.",
+        "note": "Suhaib (RA) said that the Prophet (ﷺ) used to say these words whenever he saw a town before entering it."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "কোনো স্থানে প্রবেশ বা অবস্থানের দোয়া #২",
+        "translation": "হে আল্লাহ্‌, সাত আসমান ও সেগুলোর নিম্নের সবকিছুর প্রতিপালক, সাত যমিন ও সেগুলোর উপরের সবকিছুর প্রতিপালক, শয়তানগণ ও তাদের দ্বারা বিভ্রান্তদের প্রতিপালক, বায়ুপ্রবাহ এবং যা কিছু তা বহন করে তার প্রতিপালক, আমি আপনার কাছে প্রার্থনা করছি এ জনপদের কল্যাণ, এর বাসিন্দাদের কল্যাণ (এবং এর মধ্যে যা কিছু বিদ্যমান তার কল্যাণ)। এবং আমরা আপনার আশ্রয় গ্রহণ করছি এ জনপদের অকল্যাণ, এর বাসিন্দাদের অকল্যাণ এবং এর মধ্যে যা কিছু বিদ্যমান তার অকল্যাণ থেকে।",
+        "note": "সুহাইব (রাঃ) বলেন, রাসূলুল্লাহ্‌ (ﷺ) কোনো জনপদ দেখলেই তথায় প্রবেশের পূর্বে এ কথাগুলো বলতেন।"
+      }
+    },
+    {
+      "key": [
+        325
+      ],
+      "id": 325,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 325,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِهَا وَخَيْرِ أَهْلِهَا وَأَعُوْذُ بِكَ مِنْ شَرِّهَا وَشَرِّ أَهْلِهَا",
+        "indopak": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ مِنْ خَيْرِهَا وَخَيْرِ اَهْلِهَا وَاَعُوْذُ بِكَ مِنْ شَرِّهَا وَشَرِّ اَهْلِهَا",
+        "clean": "اللهم اني اسالك من خيرها وخير اهلها واعوذ بك من شرها وشر اهلها",
+        "transliteration": "Allaahumma inni As'aluka min khayrihaa wa khayri 'ahlihaa wa 'a'oodhu bika min sharrihaa, wa sharri 'ahlihaa",
+        "reference": "Sahih (Albani). Tirmidhi: 3449",
+        "audio": 325,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "When entering the market",
+        "content": null,
+        "translation": "Ya Allah! I ask you for the blessing of this place and the goodness of it’s inhabitant’s. And I take refuge in you from harm of this place and harm of it’s inhabitant’s.",
+        "note": "It is narrated on the authority of 'Abdullah ibn Mas'ud (RA) that he stood at the entrance of the market, recited the du'a and entered the market."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "বাজার বা কর্মস্থলে প্রবেশের দোয়া",
+        "translation": "হে আল্লাহ্‌, আমি আপনার কাছে প্রার্থনা করছি এ স্থানের কল্যাণ ও এখানে অবস্থানরতদের কল্যাণ এবং আমি আপনার আশ্রয় গ্রহণ করছি এর অকল্যাণ এবং এখানে অবস্থানরতদের অকল্যাণ থেকে।",
+        "note": "আব্দুল্লাহ ইবনু মাসউদ (রাঃ) থেকে বর্ণিত, তিনি বাজারের প্রবেশমুখে দাঁড়িয়ে বাজারের দিকে মুখ করে এ দোয়াটি পড়ে বাজারে প্রবেশ করেন।"
+      }
+    },
+    {
+      "key": [
+        326
+      ],
+      "id": 326,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 326,
+        "groups": null,
+        "uthmani": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ، وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "indopak": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، يُحْيِيْ وَيُمِيْتُ، وَهُوَ حَيٌّ لَّا يَمُوْتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
+        "clean": "لا اله الا الله وحده لا شريك له له الملك وله الحمد يحيي ويميت وهو حي لا يموت بيده الخير وهو علي كل شيء قدير",
+        "transliteration": "Laa 'ilaaha 'illAllahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu, yuhyee wa yumeetu, wa Huwa hayyun laa yamootu, biyadihil-khayru, wa Huwa 'alaa kulli shay'in Qadeer",
+        "reference": "Hasan (Albani). Tirmidhi: 3428",
+        "audio": 326,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "When entering the market",
+        "content": "Umar ibnul khattab (RA) narrated that: the Messenger of Allah (ﷺ) said: “Whoever enters the marketplace and says:",
+        "translation": "None has the right to be worshipped but Allah alone, Who has no partener. His is the dominion and His is the praise. He brings life and He causes death, and He is living and does not die. In His Hand is all good, and He is Able to do all things.",
+        "note": "Allah will write a million rewards for him, remove a million sins from him and raise his status by one million levels."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "বাজারে ঢুকার সময়",
+        "content": "উমর ইবনুল খাত্তাব (রাঃ) থেকে বর্ণিত, আল্লাহ্‌র রাসূল (ﷺ) বলেন, “যে-ব্যক্তি বাজারে ঢুকে বলবে -",
+        "translation": "আল্লাহ্‌ ছাড়া কোনও হক্ব ইলাহ্ নেই; তিনি একক; তাঁর কোনও অংশীদার নেই; রাজত্ব তাঁর, প্রশংসাও তাঁর; তিনিই জীবন দেন, তিনিই মৃত্যু ঘটান; তিনি চিরঞ্জীব, মৃত্যুহীন; সকল কল্যাণ তাঁরই হাতে; তিনি সবকিছুর উপর ক্ষমতাবান।",
+        "note": "আল্লাহ্‌ তার জন্য দশ লাখ সাওয়াব লিখে দেবেন, তার (আমলনামা) থেকে দশ লাখ গোনাহ মুছে দেবেন এবং তার মর্যাদা দশ লাখ স্তর বাড়িয়ে দেবেন।”"
+      }
+    },
+    {
+      "key": [
+        327
+      ],
+      "id": 327,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 327,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّهِ",
+        "indopak": "بِسْمِ اللّٰهِ",
+        "clean": "بسم الله",
+        "transliteration": "Bismillaah",
+        "reference": "Sahih (Albani). Abu Dawud: 4982",
+        "audio": 327,
+        "cat_id": 17,
+        "subcat_id": 60
+      },
+      "source": {
+        "name": "When the mounted animal (or mean of transport) stumbles",
+        "content": "Abu al-Malih (RA) reported on the authority of a man: I was riding on a mount behind the prophet (ﷺ) It stumbled. Thereupon I said: May the devil perish! He said: do not say; may the devil perish! For you say that, he will swell so much so that he will be like a house, and say: by my power. But say: (The dua is mentioned above)",
+        "translation": "With the Name of Allah.",
+        "note": "Abu al-Malih (RA) reported on the authority of a man : I was riding on a mount behind the prophet (ﷺ). It stumbled. Thereupon I said: May the devil perish! He said: do not say; may the devil perish! For you say that, he will swell so much so that he will be like a house, and say: by my power. But say: (The dua is mentioned above) For when you say that, he will diminish so much so that he will be like a fly."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "বাহন হোঁচট খেলে",
+        "content": "আবুল মুলাইহ (রাঃ) থেকে বর্ণিত, এক সাহাবী বলেন, “একটি বাহনে আমি ছিলাম নবী (ﷺ)-এর সহ-আরোহী। তাঁর বাহনটি হোঁচট খেলে, আমি বলি, ‘শয়তান ধ্বংস হোক! তখন তিনি বলেন, ‘শয়তান ধ্বংস হোক-এ কথা বলো না; কারণ এ কথা বললে শয়তান (খুশিতে) ফুলে ঘরের মতো হয়ে যায়, আর সে বলে, আমার শক্তিতে (এটি হয়েছে)! বরং বলো - (দোয়াটি উপরে উল্লেখিত হয়েছে)",
+        "translation": "আল্লাহ্‌র নামে।",
+        "note": "আবুল মুলাইহ (রাঃ) থেকে বর্ণিত, এক সাহাবী বলেন, “একটি বাহনে আমি ছিলাম নবী (ﷺ)-এর সহ-আরোহী। তাঁর বাহনটি হোঁচট খেলে, আমি বলি, ‘শয়তান ধ্বংস হোক! তখন তিনি বলেন, ‘শয়তান ধ্বংস হোক-এ কথা বলো না; কারণ এ কথা বললে শয়তান (খুশিতে) ফুলে ঘরের মতো হয়ে যায়, আর সে বলে, আমার শক্তিতে (এটি হয়েছে)! বরং বলো - (দোয়াটি উপরে উল্লেখিত হয়েছে) কারণ, তুমি (বিসমিল্লাহ) বললে, সে ছোটো হতে হতে মাছির মতো হয়ে যায়।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_062.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "120-121",
+  "source_chars": 2207,
+  "items": [
+    {
+      "key": [
+        120
+      ],
+      "id": 120,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 120,
+        "topic_id": null,
+        "cat_id": 6,
+        "subcat_id": 101
+      },
+      "source": {
+        "topic_name": null,
+        "text": "You should not worry about extreme jinn cases since you would have already told potential patients to be very careful about committing sins. It is sins that cause jinn to speak and cause havoc and chaos in a patient and his home. Please refer to this article ‘how sins affect possessed muslims and why jinn speak in them’.\n\nWe would strongly recommend that you don’t treat or disgnose any patients who have manifesting jinn i.E. Speaking, crying, laughing etc. This is because it can be very dangerous. You should focus on getting the patient to stop sinning and making tauba and paying sadaqa to remove sins. Once the patient has completely changed their life and the jinn no longer manifests and speaks, you can diagnose and then treat them. We must remember that the sins of the patient will make Ruqyah less effective, hence the importance of stopping sins.\n\nIn general there is no need to touch female patients but if a jinnee does completely manifest in a female patient and the mahram is unable to restrain or control her jinnee then you can help the mahram out of necessity. Don’t just sit back and leave the mahram to deal with the situation especially when the jinnee starts attacking the patient or if the jinnee tries to make the patient jump out of the window. In such situations it becomes wajib for the raqi to intervene to stop the jinn from killing the patient if the raqi can see that the mahram can’t control the situation.\n\nIn order to prepare yourself for extreme jinn cases then you need to watch a video ‘practical self Ruqyah part 3’. In this video, there are some guidelines regarding how to control people with extreme jinn manifestation."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        121
+      ],
+      "id": 121,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 121,
+        "topic_id": null,
+        "cat_id": 6,
+        "subcat_id": 102
+      },
+      "source": {
+        "topic_name": null,
+        "text": "The whole point of this article is to remove the fear of becoming a raqi and to instill and foster some appreciation of the importance of a raqi and to encourage a person to become a raqi.\n\nIt is not obligatory to become a raqi but you shouldn’t stop becoming one because you are afraid of jinn.\n\nOne of the best deeds you can do after your obligatory ones, is to help your fellow Muslims and we hope and pray to Allah that some Muslims, BOTH sisters and brothers, take up the challenge and become raqis and with Allah is the success and cure!"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_001.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 5,
+  "id_range": "1-5",
+  "source_chars": 5797,
+  "items": [
+    {
+      "key": [
+        1
+      ],
+      "id": 1,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 1,
+        "topic_id": null,
+        "cat_id": 1,
+        "subcat_id": 1
+      },
+      "source": {
+        "topic_name": null,
+        "text": "‘Ruqyah ’ is the practice of treating illnesses through Qur’anic ayat and invocations as prescribed by the Messenger of Allah (ﷺ). It provides a cure for evil eye, magic and physical ailments.\n\nThe Qur’an offers perfect solace to a believer – both spiritually and physically. Ruqyah should therefore play an essential role in our lives. Allah (ﷻ) says:\n\n<ar> وَنُنَزِّلُ مِنَ الْقُرْ‌آنِ مَا هُوَ شِفَاءٌ وَرَ‌حْمَةٌ لِّلْمُؤْمِنِيْنَ </ar>\n\n<b>Translation:</b> “We send down in the Qur’an that which is a cure and a mercy for the believers.” (17:81-2)\n\nAs well providing a cure, Ruqyah is an excellent way for the believers to build their Iman and reaffirm their tawhid for Allah (ﷻ). Seeking treatment through the Qur’an demonstrates complete belief in the Book of Allah (ﷻ).\n\nThe Messenger of Allah (ﷺ) said: “Make good use of the two cures: honey and the Qur’an.” (Ibn Majah)\n\n‘A’ishah (RA) said: “When the Messenger of Allah (ﷺ) was ill, Jibril (‘alayhis-salam) performed Ruqyah on him.” (Muslim)\n\nIn another hadith, ‘A’ishah (RA) informs us that the Messenger of Allah (ﷺ) entered upon her and found a woman treating her with Ruqyah (through other than the words of Allah (ﷻ)). He (ﷺ) said: “Treat her with the book of Allah (ﷻ).” (Ibn Hibban)\n\nShe also said: “The Messenger of Allah (ﷺ) used to command me to perform Ruqyah from the evil eye.” (Muslim)\n\nUpon another occasion, the Messenger of Allah (ﷺ) saw a girl whose face had changed colour in the house of Umm Salamah (RA), so he (ﷺ) said: “Seek Ruqyah for her, because she has been affected by the evil eye.” (Bukhari)\n\n‘A’ishah (RA) also narrated that whenever the Messenger of Allah (ﷺ) would become sick, he would recite [the last 3 Surahs of the Qur’an] and then blow over his body.\n\nShe says: “During his last illness from which he passed away, the Messenger of Allah (ﷺ) used to blow over himself. But when his sickness intensified, I used to (recite and then) blow over him using his own hands because of their blessings.” (Bukhari)\n\nIn another hadith, she mentions that whenever anyone from his family would become ill, he (ﷺ) would blow over them with these three Surahs. (Muslim)\n\n<b>The Ruqyah that is acceptable in the Sharee'ah is that which fulfills three conditions:</b>\n\n\n<b>1.</b> The Ruqyah must be done with the Quran, with the Names and Attributes of Allaah The  Almighty, or with a supplication reported on the authority of the Prophet, sallallaahu ‘alayhi wa sallam.\n\n<b>2.</b> The Ruqyah must be composed of comprehensive Arabic words because it is not appropriate to use a language other than Arabic in supplication. It is only permissible for those who are not fluent in Arabic. Using foreign words in Ruqyah is unacceptable. This was stated by Shaykh Al-Islam Ibn Taymiyyah, may Allaah have mercy upon him.\n\n<b>3.</b> It must be known that Ruqyah has no effect on its own, but it is effective only by the will of Allaah The Almighty.\n\nOnce these three conditions are fulfilled, it becomes a valid Ruqyah. The Prophet, sallallaahu ‘alayhi wa sallam, mentioned that Ruqyah is permissible, provided that it does not include any of the features of Shirk (polytheism). [Muslim]"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        2
+      ],
+      "id": 2,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 2,
+        "topic_id": null,
+        "cat_id": 1,
+        "subcat_id": 2
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>The 3 Requirements</b>\n\nThere are many actions and incantations associated with Ruqyah which are not valid and contradict the teachings of the Shari’ah.\n\nIbn Hajar (ra) outlined three principles for Ruqyah, which must be adhered to in order for Ruqyah to be valid. They are:\n\nThe Ruqyah must be with Allah’s words or His Names and Attributes.\n\nThe Ruqyah should be in Arabic or of an understandable meaning (You shouldn’t write or say something which is illegible or obscure).\n\nYou should believe that they do not have an effect in of themselves, but rather the effect of the Ruqyah only occurs by the will of Allah. (Fath al-Bari)"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        3
+      ],
+      "id": 3,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 3,
+        "topic_id": null,
+        "cat_id": 1,
+        "subcat_id": 3
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>Intention</b>\n\n\nRuqyah is a du’a. The intention should always be to ask Allah to remove the evil by the words of the Qur’an.\n\n<b>Conviction (yaqin)</b>\n\n\nOne should recite loudly and clearly, with firm conviction and belief in Allah, who Alone gives cure.\n\n<b>Patience & Consistency</b>\n\n\nLike all treatment, consistency is key. Daily recitation, du‘a’ and other treatments must be maintained for positive results."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        4
+      ],
+      "id": 4,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 4,
+        "topic_id": null,
+        "cat_id": 1,
+        "subcat_id": 4
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Make wuḍu, offer two rak‘ats and make sincere du‘a’. Du‘a’, especially in tahajjud, brings great reprieve and assistance from Allah (ﷻ).\n\nMake abundant and sincere istighfar (seeking forgiveness from Allah ﷻ), and stay away from sins. One should restore people’s rights if they have wronged anyone or taken anything unjustly.\n\nGive Sadaqah as it wards off calamity (Bayhaqi). The Messenger of Allah (ﷺ) said: “Treat your sick by giving Sadaqah.” (Bayhaqi)\n\nRemove animate pictures from the home. Any amulets (ta‘widh) which contain illegible text or invokes upon other than Allah should also be taken out and disposed of in a river.\n\nRemain in a state of wuḍu through the day and also sleep with wuḍu."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        5
+      ],
+      "id": 5,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 5,
+        "topic_id": null,
+        "cat_id": 1,
+        "subcat_id": 5
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Begin Ruqyah by sending Salawat (salutations) upon the Prophet (ﷺ). Recite the Ruqyah loudly, clearly and with concentration, at least 3 or 7 times.\n\nOne may recite directly into the hands, blowing into them and rubbing them over the body. One can also recite whilst placing the hands over the part of the body that is in pain.\n\nOne may recite and blow on water. Keep the mouth close to the water, breathe into it and repeatedly blow over it. This can be used for drinking and bathing. Olive oil and other Sunnah medicines can be recited upon and applied to the body.\n\nWhen reciting on others, place the hand on the forehead of the affected person (mahram only), or on the part of the body in pain, recite and blow.\n\nIf one cannot recite, then Ruqyah can be listened to. This should be done with full concentration. One should listen carefully and ensure that they do not fall asleep."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_008.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "16-17",
+  "source_chars": 2805,
+  "items": [
+    {
+      "key": [
+        16
+      ],
+      "id": 16,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 16,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 19
+      },
+      "source": {
+        "topic_name": null,
+        "text": "All the scholars agreed that the sacrifice for the Jinn is haram; rather, it is a form of polytheism, because it is not done for Allah (SWT). Therefore, it is not lawful for a Muslim to eat from it, let alone to do it. Yet we see ignorant people, in all times and places, practising such evil acts. Yahya ibn Yahya (R) said: “Wahb (R) told me that once, in Makka, people dug a source (of water) and wanted to run its course, so they sacrificed an animal for the jinn (at the devils' request so that they would not ruin the water in return), and fed people. When Ibn Shihab (R) received the news, he said: “The sacrifice of the animal) is haram, and he has fed people with unlawful meat; for the Prophet (ﷺ) has prohibited offering slaughtered animals for Jinn\". [Ākām al-marjan (78)]\n\nAnyone who slaughters animals not for Allah is cursed. ‘Ali ibn Abi Talib (RA) reported that the Prophet (ﷺ) said: “Allah has cursed those who sacrifice for anyone besides Allah”. [Recorded by Muslim]"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        17
+      ],
+      "id": 17,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 17,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 20
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Allah (SWT) quotes the Jinn as saying: <b>(Certain men from among mankind used to seek refuge with certain men from among the Jinn, but they increased them in wickedness)</b>. [Surat al-Jinn, verse 7]\n\nAccording to ibn Kathir (R), it means “We used to consider that we had points of superiority over mankind, because they used to seek refuge with us when they attend a river or a deserted place – like the Arabs who used to seek protection with the great (personality) of the place from the Jinn and any other evil that might occur to them. Therefore, when the Jinn realized that mankind sought refuge with them, as they were terrified of them, they increased their fear and terror. Abu Qatada (R) said: “They increased their burden of oppression, that is of wickedness; the Jinn became more encouraged to oppress them”.\n\nAl-Suda'i (R) said: “A man would set out on a journey with his family, and when they landed at a particular place, he would say: 'I seek refuge with the master of this river from the harm of Jinn to me, my property, my children and my herd.' Abu Qatada (R) said: “When they sought refuge with them and not with Allah, the jinn afflicted them with more oppression and wickedness\".\n\n‘Abdullah ibn 'Amr (RA) stated that when the Messenger of Allahu (SWT) travelled and night fell, he would say: 'O earth, my Lord and your Lord is Allah; I seek refuge in Allah from your evil, the evil of what you contain, the evil of what has been created in you, and the evil of what creeps upon you; I seek refuge in Allah from: lions, large black snakes, other snakes, scorpions, the inhabitants of a settlement, and a parent and his offspring'. The Hadith was regarded as sound by al-Hafidh Ibn Hajar (R). \n\nAl-Qurtubi said (R): “It is clear that seeking refuge in the Jinn is a form of disbelief and polytheism”."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

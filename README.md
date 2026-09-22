@@ -166,6 +166,16 @@ cd dua_main_id_planned_json && python3 rebuild_indonesian_from_json.py
 
 The rebuild runs `PRAGMA integrity_check` and fails loudly if the JSON is broken. It writes `dua_main_ja_rebuilt.sqlite` / `dua_main_id_rebuilt.sqlite`.
 
+To recreate the untranslated planning chunks from the original English database:
+
+```bash
+python3 rechunk_planned_json.py
+```
+
+This creates 6 Indonesian `dua_infos` chunks and 10 `ruqyah_details` chunks for
+both Indonesian and Japanese. It does not change the completed Japanese
+`dua_infos` translation.
+
 ## Done When
 
 - structure check passes, rebuild succeeds, integrity check says `ok`

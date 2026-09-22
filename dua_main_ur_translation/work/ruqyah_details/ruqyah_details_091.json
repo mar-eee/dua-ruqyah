@@ -1,0 +1,78 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_091.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 3,
+  "id_range": "182-184",
+  "source_chars": 4870,
+  "items": [
+    {
+      "key": [
+        182
+      ],
+      "id": 182,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 182,
+        "topic_id": 7,
+        "cat_id": 14,
+        "subcat_id": 146
+      },
+      "source": {
+        "topic_name": "Wound healing disorders",
+        "text": "When performing Hijamah incisions are made in the skin to release blood. Normally these heal within a short period and leave minimal scarring (especially when a post Hijamah blood and healing herbal formula and/or low level laser therapy is applied afterward).\n\nIn some conditions however, the body's ability to heal and repair the incision is impaired, and results in either a longer healing time, no healing at all or excessive scarring and keloid formation.\n\nKeloids are thickened scars due to excessive synthesis of collagen after an acute injury, which can include the incision, required for Hijamah. Hypertrophic scarring and keloids most frequently arise in young adults and are particularly prevalent in dark-skinned individuals. They are equally common in males and females. These scars may also itch and/or be painful to touch. They are firm or hard, skin-coloured to bright red, smooth, elevated nodules and may have claw-like extensions far beyond the original wound. They are particularly frequently seen on earlobes, shoulders, upper back and anterior chest. Hijamah should be avoided in individuals who have a history of easily developing keloids and hypertrophic scarring. (This is not a contraindication but rather a precaution as we have experienced less occurrence of keloids if the patient is exposed to low level laser therapy after the procedure)\n\nHealing of the incisions can also be impaired by other factors that slow down or prevent complete healing and include issues such as the lack of growth factors, the presence of edema, poor blood flow, infection, hypoxia, arterial or venous insufficiency and neuropathy.\n\nOther systemic causes of impaired wound healing include metabolic disease, diabetes mellitus, the patients nutritional state, a history of smoking or drug use, exposure to radiation, aging, immune disorders, and abnormal collagen syndromes. A thorough history will reveal if the patient may have wound healing problems.\n\nDiabetes deserves special mention as it is a common disorder and when present gives rise to a high risk of major complications in the Hijamah incision, including infection and cellulitis and can even lead to amputation when performed on the extremities. Vascular, neuropathic, immune function, and biochemical abnormalities in diabetes each contribute to delayed healing. Even careful wound care in a patient with excellent glucose control may fail and result in these adverse effects. Special care should therefore be taken in diabetic patients in order to determine whether Hijamah is appropriate for the patient and if so, it should be done only in those areas and in a way that will not risk poor wound healing, subsequent infection and other adverse effects."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        183
+      ],
+      "id": 183,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 183,
+        "topic_id": 8,
+        "cat_id": 14,
+        "subcat_id": 146
+      },
+      "source": {
+        "topic_name": "Who should have Hijamah done",
+        "text": "In the hadith related by Jabir ibn Abdullaah (RA), the Nabi (SAW), said: <ar1>توافق الداء</ar1> meaning \"whichever fits the ailment\", in these 2 words the entire field of differential diagnosis and differential treatment was proven and emphasised. In this particular hadith the Nabi of Allaah (SAW) said this in respect of the 3 treatments of honey, hijamah and cauterisation. This indicates that albeit established that the contraindications are not present and the precautions are observed, Hijamah may not be the appropriate treatment for the patient.\n\nIn order to determine if Hijamah fits the patient and their ailment the Hajjaam should possess some basic skills of differential diagnosis. This includes both western and traditional medicine diagnostic skills in order to determine two essential aspects, viz:\n\n<b>1.</b> The constitution or body type of the patient\n\n<b>2.</b> The pattern of the illness\n\nBeing able to determine these two aspects will guide the Hajjaam as to whether Hijamah fits the ailment or not."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        184
+      ],
+      "id": 184,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 184,
+        "topic_id": 1,
+        "cat_id": 14,
+        "subcat_id": 147
+      },
+      "source": {
+        "topic_name": "Introduction",
+        "text": "Hippocrates said that: “It is more important to know what sort of person has a disease, than to know what sort of a disease a person has.\"\n\nThis principle has all but completely departed from the practice of modern medicine but still remains an integral part of the practice of traditional medicine like Unani-Tibb and TCM. It is perhaps the most important criteria in both the identification of the nature of the disease as well as the selection of a treatment method. Understanding the type of person, their temperament as well as their lifestyle, social and environmental influences and history can make the difference between a successful resolution of the presenting illness and a litany of inaccurate diagnoses and ineffective treatments.\n\nRecognising the body types is not difficult to master. There are 4 primary constitutions or body types within the Unani philosophy and 5 within the Traditional Chinese Medicine philosophy. These can be combined into 5 main body types for the purposes of determining the suitability of Hijamah. They are as follows:"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    }
+  ]
+}

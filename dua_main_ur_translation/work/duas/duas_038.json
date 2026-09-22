@@ -1,0 +1,477 @@
+{
+  "table": "duas",
+  "chunk": "duas_038.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 12,
+  "id_range": "525-536",
+  "source_chars": 4870,
+  "items": [
+    {
+      "key": [
+        525
+      ],
+      "id": 525,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 525,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ عَلَى ظُهُوْرِ الْجِبَالِ وَالْآكَامِ وَبُطُوْنِ الْأَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ",
+        "indopak": "اَللّٰهُمَّ عَلٰى ظُهُوْرِ الْجِبَالِ وَالْاٰكَامِ وَبُطُوْنِ الْاَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ",
+        "clean": "اللهم علي ظهور الجبال والاكام وبطون الاوديه ومنابت الشجر",
+        "transliteration": "Allaahumma ‘alaa dhuhuril jibaali wal aakaami wa butunil awdiyati wa manaabitish shajari",
+        "reference": "Bukhari: 1019",
+        "audio": 525,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "During droughts and heavy rains",
+        "content": null,
+        "translation": "O Allah! (Let it rain) on the summit of the mountain, plateau, where a variety of plants grow in the Valley.",
+        "note": "Narrated by Anas Ibn Malik (RA): A man came to the Messenger of Allah (ﷺ) and said, “O Messenger of Allah! Our animals have been destroyed and the roads have been cut off. Pray to Allah (for rain)!” The Prophet (ﷺ) prayed to Allah. As a result, it rained on us from one Jumu'ah to another Jumu'ah. Then a man came to the Prophet (ﷺ) and said, “O Messenger of Allah! Our homes have been destroyed, our roads have been cut off, and our cattle have been destroyed.” Then the Messenger of Allah (ﷺ) said: (The dua is mentioned above)\n\nThen the clouds move away from Medina in the same way that clothes are removed from the body."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "অনাবৃষ্টি ও অতিবৃষ্টির সময়",
+        "translation": "হে আল্লাহ্‌! (বৃষ্টি বর্ষিত হোক) পাহাড়ের চূড়ার উপর, মালভূমিতে, বিভিন্ন উপত্যকায় ও যেখানে গাছপালা গজায়।",
+        "note": "আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত, তিনি বলেন, এক ব্যক্তি আল্লাহ্‌র রাসূল (ﷺ)-এর কাছে এসে বলে, “হে আল্লাহ্‌র রাসূল! আমাদের জীবজন্তু গুলো ধ্বংস হয়ে গিয়েছে এবং রাস্তাঘাট বিচ্ছিন্ন হয়ে পড়েছে। আপনি আল্লাহ্‌র কাছে (বৃষ্টির জন্য) দোয়া করুন!” নবী (ﷺ) আল্লাহ্‌র কাছে দোয়া করেন। ফলে, এক জুমুআহ থেকে আরেক জুমুআহ পর্যন্ত আমাদের উপর বৃষ্টি বর্ষিত হয়। এরপর এক ব্যক্তি নবী (ﷺ)-এর কাছে এসে বলে, “হে আল্লাহ্‌র রাসূল! আমাদের বাড়িঘরগুলো ধ্বংস হয়ে গিয়েছে, রাস্তাঘাট বিচ্ছিন্ন হয়ে পড়েছে আর গবাদিপশুগুলো ধ্বংসের মুখে পতিত হয়েছে।” তখন আল্লাহ্‌র রাসূল (ﷺ) বলেন - (উপরে দোয়াটি উল্লেখিত হয়েছে)\n\nফলে মদীনা হতে মেঘ এমনভাবে কেটে গেল যেমন কাপড় ছিড়ে ফাঁক হয়ে যায়।"
+      }
+    },
+    {
+      "key": [
+        526
+      ],
+      "id": 526,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 526,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اسْقِنَا غَيْثًا مُغِيْثًا مَرِيْئًا مَرِيْعًا نَافِعًا غَيْرَ ضَارٍّ عَاجِلًا غَيْرَ آجِلٍ",
+        "indopak": "اَللّٰهُمَّ اسْقِنَا غَيْثًا مُّغِيْثًا مَرِيْئًا مَّرِيْعًا نَافِعًا غَيْرَ ضَارٍّ عَاجِلًا غَيْرَ اٰجِلٍ",
+        "clean": "اللهم اسقنا غيثا مغيثا مريءا مريعا نافعا غير ضار عاجلا غير اجل",
+        "transliteration": "Allaahumma 'asqinaa ghaythan mugheethan maree-an maree'an, naafi'an ghayra dhaarrin, 'aajilan ghayra 'aajil",
+        "reference": "Sahih (Albani). Abu Dawud: 1169",
+        "audio": 526,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Istisqa or prayer for Rain #1",
+        "content": "Narrated Jabir bin Abdillah (RA): (Because of draught) some people came to the Prophet (ﷺ) weeping. Then the Prophet (ﷺ) said -",
+        "translation": "O Allah, shower upon us abundant rain, beneficial not harmful, swiftly and not delayed.",
+        "note": "Soon the sky became overcast."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "ইসতিসক্বা বা মেঘ-বৃষ্টির প্রয়োজন হলে #১",
+        "content": "জাবির ইবনু আব্দিল্লাহ (রাঃ) থেকে বর্ণিত, তিনি বলেন, (বৃষ্টি না হওয়ায়) কিছু লোক কাঁদতে কাঁদতে নবী (ﷺ)-এর কাছে আসে। তখন নবী (ﷺ) বলেন -",
+        "translation": "হে আল্লাহ্‌! আমাদের এমন বৃষ্টি দাও, যা উপকারী, কল্যাণময় ও কার্যকরী; যা আমাদের উপকার করবে, কোনও ক্ষতি করবে না; দ্রুত বৃষ্টি দাও, বিলম্বিত নয়।",
+        "note": "এর পরপরই তাদের উপরকার আকাশ মেঘাচ্ছন্ন হয়ে ওঠে।"
+      }
+    },
+    {
+      "key": [
+        527
+      ],
+      "id": 527,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 527,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ أَغِثْنَا، اَللَّهُمَّ أَغِثْنَا، اَللَّهُمَّ أَغِثْنَا",
+        "indopak": "اَللّٰهُمَّ اَغِثْنَا، اَللّٰهُمَّ اَغِثْنَا، اَللّٰهُمَّ اَغِثْنَا",
+        "clean": "اللهم اغثنا اللهم اغثنا اللهم اغثنا",
+        "transliteration": "Allaahumma 'aghithnaa. Allaahumma 'aghithnaa. Allaahumma 'aghithnaa",
+        "reference": "Bukhari: 1014",
+        "audio": 527,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Istisqa or prayer for Rain #2",
+        "content": null,
+        "translation": "O Allah, give us rain. O Allah, give us rain. O Allah, give us rain.",
+        "note": "Narrated Anas: A man enters the mosque on Friday. The Messenger of Allah (ﷺ) was then standing and giving a sermon (speech). The man said, “O Messenger of Allah! (Our) wealth has been destroyed, roads have been cut off; Pray to Allah to give us rain. ”Hearing this, the Messenger of Allah (ﷺ) raised his hands and said:(The dua is mentioned  above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "ইসতিসক্বা বা মেঘ-বৃষ্টির প্রয়োজন হলে #২",
+        "translation": "হে আল্লাহ্‌! আমাদের বৃষ্টি দাও! হে আল্লাহ্‌! আমাদের বৃষ্টি দাও! হে আল্লাহ্‌! আমাদের বৃষ্টি দাও!",
+        "note": "আনাস (রাঃ) থেকে বর্ণিত, এক ব্যক্তি জুমুআর দিন মসজিদে প্রবেশ করে। আল্লাহ্‌র রাসূল (ﷺ) তখন দাঁড়িয়ে খুতবা (ভাষণ) দিচ্ছেন। ওই লোকটি বলে, “হে আল্লাহ্‌র রাসূল! (আমাদের) ধনসম্পদ ধ্বংস হয়ে গিয়েছে, রাস্তাঘাট বিচ্ছিন্ন হয়ে গিয়েছে; আল্লাহ্‌র কাছে দোয়া করুন, তিনি যেন আমাদের বৃষ্টি দেন।” এ কথা শুনে, আল্লাহ্‌র রাসূল (ﷺ) দু' হাত তুলে বলেন- (উপরে দোয়াটি উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        528
+      ],
+      "id": 528,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 528,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ اسْقِ عِبَادَكَ، وَبَهَائِمَكَ، وَانْشُرْ رَحْمَتَكَ، وَأَحْيِي بَلَدَكَ الْمَيِّتَ",
+        "indopak": "اَللّٰهُمَّ اسْقِ عِبَادَكَ، وَبَهَائِمَكَ، وَانْشُرْ رَحْمَتَكَ، وَاَحْيِيْ بَلَدَكَ الْمَيِّتَ",
+        "clean": "اللهم اسق عبادك وبهاءمك وانشر رحمتك واحيي بلدك الميت",
+        "transliteration": "Allahum-masqi 'ibaadaka, wa bahaa'imaka, wanshur rahmataka, wa 'ahyi baladakal-mayyita",
+        "reference": "Hasan (Albani). Abu Dawud: 1176",
+        "audio": 528,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Istiska or  prayer for Rain #3",
+        "content": "Messenger of Allah (ﷺ), used to say:",
+        "translation": "O Allah, give water to Your slaves, and Your livestock, and spread Your mercy, and revive Your dead land.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "ইসতিসক্বা বা মেঘ-বৃষ্টির প্রয়োজন হলে #৩",
+        "content": "বৃষ্টি চাওয়ার সময় আল্লাহ্‌র রাসূল (ﷺ) বলতেন -",
+        "translation": "হে আল্লাহ্‌! আপনি আপনার বান্দাগণকে ও জীব- জন্তুগুলোকে পানি পান করান, আর আপনার রহমত বিস্তৃত করুন এবং আপনার মৃত শহরকে সজীব করুন।"
+      }
+    },
+    {
+      "key": [
+        529
+      ],
+      "id": 529,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 529,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا، اَللَّهُمَّ عَلَى الْآكَامِ وَالظِّرَابِ، وَبُطُونِ الْأَوْدِيَةِ، وَمَنَابِتِ الشَّجَرِ",
+        "indopak": "اَللّٰهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا، اَللّٰهُمَّ عَلَى الْاٰكَامِ وَالظِّرَابِ، وَبُطُوْنِ الْاَوْدِيَةِ، وَمَنَابِتِ الشَّجَرِ",
+        "clean": "اللهم حوالينا ولا علينا اللهم علي الاكام والظراب وبطون الاوديه ومنابت الشجر",
+        "transliteration": "Allaahumma hawaalaynaa wa laa 'alaynaa. Allaahumma 'alal-'aakaami wadh-dhiraabi, wa butoonil-'awdiyati, wa manaabitish-shajar",
+        "reference": "Hasan (Albani). Abu Dawud: 1/218",
+        "audio": 529,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Dua for stopping heavy rains",
+        "content": null,
+        "translation": "O Allah, let it pass us and not fall upon us, but upon the hills and mountains, and the center of the valleys, and upon the forested lands.",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "অতিবৃষ্টি বন্ধের জন্য দোয়া",
+        "translation": "হে আল্লাহ্‌! আমাদের আশেপাশে (বর্ষিত হোক), আমাদের উপর না; হে আল্লাহ্‌! (বৃষ্টি বর্ষিত হোক) মালভূমি ও পাহাড়ে, উপত্যকা ও গাছপালা গজানোর জায়গায়।"
+      }
+    },
+    {
+      "key": [
+        530
+      ],
+      "id": 530,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 530,
+        "groups": null,
+        "uthmani": "مُطِرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ",
+        "indopak": "مُطِرْنَا بِفَضْلِ اللّٰهِ وَرَحْمَتِهٖ",
+        "clean": "مطرنا بفضل الله ورحمته",
+        "transliteration": "Mutirnaa bifadhlillaahi wa rahmatihi",
+        "reference": "Bukhari: 846",
+        "audio": 530,
+        "cat_id": 32,
+        "subcat_id": 98
+      },
+      "source": {
+        "name": "Thanking Allah after the rain",
+        "content": null,
+        "translation": "It has rained by the bounty of Allah and His mercy.",
+        "note": "Narrated Zaid bin Khalid Al-Juhani (RA): The Prophet (ﷺ) led us in the Fajr prayer at Hudaibiya after a rainy night. On completion of the prayer, he faced the people and said, \"Do you know what your Lord has said (revealed)?\" The people replied, \"Allah and His Apostle know better.\" He said, \"Allah has said, 'In this morning some of my slaves remained as true believers and some became non-believers; whoever said that (The dua is mentioned above) had belief in Me and he disbelieves in the stars, and whoever said that it rained because of a particular star had no belief in Me but believes in that star.'"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "বৃষ্টি পাওয়ার পর আল্লাহ্‌র শুকরিয়া",
+        "translation": "আল্লাহ্‌র অনুগ্রহ ও দয়ার ফলে আমরা বৃষ্টি পেয়েছি।",
+        "note": "যাইদ ইবনু খালিদ জুহানি (রাঃ) থেকে বর্ণিত, তিনি বলেন, ‘হুদাইবিয়ায় রাতের বেলা বৃষ্টি হওয়ার পর, আল্লাহ্‌র রাসূল (ﷺ) আমাদের নিয়ে ফজরের সালাত আদায় করেন। সালাত শেষে, তিনি লোকদের দিকে মুখ ফিরিয়ে বলেন, “তোমরা কি জানো, তোমাদের রব কী বলেছেন?” সাহাবীগণ বলেন, “আল্লাহ্‌ ও তাঁর রাসূলই ভালো জানেন!” নবী (ﷺ) বলেন, “(আল্লাহ্‌ বলেছেন) আমার বান্দাদের মধ্যে কেউ আজ সকাল যাপন করেছে আমার প্রতি ঈমান রেখে, আর কেউ আমার প্রতি কুফরি করে। যে বলেছে- (উপরে দোয়াটি উল্লেখিত হয়েছে) আমার উপর তার ঈমান আছে এবং সে তারকারাজির সঙ্গে কুফরি করেছে; আর যে বলেছে, “আমরা বৃষ্টি পেয়েছি অমুক অমুক তারকার কারণে, সে আমার সঙ্গে কুফরি করেছে, আর ঈমান এনেছে তারকার উপর!”"
+      }
+    },
+    {
+      "key": [
+        531
+      ],
+      "id": 531,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 531,
+        "groups": null,
+        "uthmani": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾",
+        "indopak": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ ﴿۱﴾ اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِیْنَ ۙ﴿۲﴾ الرَّحْمٰنِ الرَّحِیْمِ ۙ﴿۳﴾ مٰلِكِ یَوْمِ الدِّیْنِ ؕ﴿۴﴾ اِیَّاكَ نَعْبُدُ وَاِیَّاكَ نَسْتَعِیْنُ ؕ﴿۵﴾ اِهْدِنَا الصِّرَاطَ الْمُسْتَقِیْمَ ۙ﴿۶﴾ صِرَاطَ الَّذِیْنَ اَنْعَمْتَ عَلَیْهِمْ غَیْرِ الْمَغْضُوْبِ عَلَیْهِمْ وَلَا الضَّآلِّیْنَ ٪﴿۷﴾",
+        "clean": "بسم الله الرحمن الرحم  الحمد لله رب العلمن  الرحمن الرحم  ملك وم الدن  ااك نعبد وااك نستعن  اهدنا الصراط المستقم  صراط الذن انعمت علهم غر المغضوب علهم ولا الضالن ",
+        "transliteration": "(1) Bismillaahir Rahmaanir Raheem. (2) Alhamdu lillaahi Rabbil 'aalameen. (3) Ar-Rahmaanir-Raheem. (4) Maaliki Yawmid-Deen. (5) Iyyaaka na'budu wa lyyaaka nasta'een. (6) Ihdinas-Siraatal-Mustaqeem. (7) Siraatal-lazeena an'amta 'alaihim ghayril-maghdoobi 'alaihim wa lad-daaalleen",
+        "reference": "Bukhari: 5741",
+        "audio": 531,
+        "cat_id": 33,
+        "subcat_id": 99
+      },
+      "source": {
+        "name": "Dua of poisonous sting",
+        "content": "Surah Fatiha",
+        "translation": "(1) In the name of Allah, the Entirely Merciful, the Especially Merciful. (2) [All] praise is [due] to Allah, Lord of the worlds - (3) The Entirely Merciful, the Especially Merciful, (4) Sovereign of the Day of Recompense. (5) It is You we worship and You we ask for help. (6) Guide us to the straight path - (7) The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray. (Sura Fatiha: 1-7)",
+        "note": "Narrated Al-Aswad (RA): I asked `Aisha about treating poisonous stings (a snake-bite or a scorpion sting) with a Ruqya. She said, \"The Prophet (ﷺ) allowed the treatment of poisonous sting with Ruqya.\""
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "বিষাক্ত দংশন-এর দোয়া",
+        "content": "সূরা ফাতিহা",
+        "translation": "(১) পরম করুণাময় অতি দয়ালু আল্লাহ্‌র নামে। (২) সমস্ত প্রশংসা আল্লাহ্‌র জন্য, যিনি সৃষ্টিকুলের রব। (৩) দয়াময়, পরম দয়ালু, পরম করুণাময়, অতি দয়ালু। (৪) বিচার দিবসের মালিক। (৫) আপনারই আমরা ইবাদাত করি এবং আপনারই নিকট আমরা সাহায্য চাই। (৬) আমাদেরকে সরল পথ দেখান। পথের হিদায়াত দিন। (৭) তাদের পথ, যাদের উপর আপনি অনুগ্রহ করেছেন। যাদেরকে নিয়ামত দিয়েছেন।যাদের উপর (আপনার) ক্রোধ আপতিত হয়নি এবং যারা পথভ্রষ্টও নয়। (সূরা  ফাতিহা: ১-৭)",
+        "note": "‘আবদুর রহমান ইবনুল আসওয়াদের পিতা আসওয়াদ (রাঃ) থেকে বর্ণিতঃ তিনি বলেন, আমি ‘আয়েশা (রাঃ)-কে বিষাক্ত প্রাণীর দংশনের কারণে ঝাড়-ফুঁক করার বিষয়ে জিজ্ঞেস করলে তিনি বলেনঃ নবী (ﷺ) সকল প্রকার বিষাক্ত প্রাণীর দংশনে ঝাড়-ফুঁক করার অনুমতি দিয়েছেন।"
+      }
+    },
+    {
+      "key": [
+        532
+      ],
+      "id": 532,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 532,
+        "groups": null,
+        "uthmani": "بَارَكَ اللَّهُ لَكَ",
+        "indopak": "بَارَكَ اللّٰهُ لَكَ",
+        "clean": "بارك الله لك",
+        "transliteration": "Barakallahu lak",
+        "reference": "Sahih (Albani). Ibn Majah: 3508, 3509",
+        "audio": 532,
+        "cat_id": 33,
+        "subcat_id": 99
+      },
+      "source": {
+        "name": "When in fear of afflicting someone with one’s eye",
+        "content": "When one of you sees something in his brother's, or his own, or his own possessions that makes him wonder, let him say:",
+        "translation": "Allah give blessings to you.",
+        "note": "Because, for the evil eye is real."
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "কোনো কিছুর উপর নিজের চোখ লাগার ভয় থাকলে দোয়া",
+        "content": "যখন তোমাদের কেউ তার ভাইয়ের, অথবা নিজের কোনো বিষয়ে, অথবা নিজের কোনো সম্পদে এমন কিছু দেখে যা তাকে চমৎকৃত করে, তখন সে যেন বলে -",
+        "translation": "আল্লাহ্‌ তোমাকে বরকত দান করুন।",
+        "note": "কারণ, চোখ লাগার (বদ নজরের) বিষয়টি সত্য।"
+      }
+    },
+    {
+      "key": [
+        533
+      ],
+      "id": 533,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 533,
+        "groups": null,
+        "uthmani": null,
+        "indopak": null,
+        "clean": "",
+        "transliteration": null,
+        "reference": "Bukhari: 4439",
+        "audio": null,
+        "cat_id": 33,
+        "subcat_id": 99
+      },
+      "source": {
+        "name": "Dua of exorcise for various diseases",
+        "content": "‘Ayesha (RA) said that when the Prophet (ﷺ) was afflicted, he would recite Surah Nas, Falaq, blow on his body and wipe the body with his hands.",
+        "translation": null,
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": null,
+        "note": null
+      },
+      "reference_bn": {
+        "name": "বিভিন্ন রোগে ঝাড়-ফুঁকের দোয়া",
+        "content": "‘আয়েশা (রাঃ) বলেন, রাসূল (ﷺ) যখন পীড়িত হতেন, তখন সূরা নাস, ফালাক পড়ে নিজের শরীরে ফুঁ দিতেন এবং নিজের হাত দ্বারা শরীর মুছে ফেলতেন।"
+      }
+    },
+    {
+      "key": [
+        534
+      ],
+      "id": 534,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 534,
+        "groups": null,
+        "uthmani": "اَللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَأْسَ اِشْفِ وَأَنْتَ الشَّافِي لَا شِفَاءَ إِلاَّ شِفَاؤُكَ شِفَاءً لَا يُغَادِرُ سَقَمًا",
+        "indopak": "اَللّٰهُمَّ رَبَّ النَّاسِ اَذْهِبِ الْبَأْسَ اِشْفِ وَاَنْتَ الشَّافِيْ لَا شِفَاءَ اِلَّا شِفَاؤُكَ شِفَاءً لَّا يُغَادِرُ سَقَمًا",
+        "clean": "اللهم رب الناس اذهب الباس اشف وانت الشافي لا شفاء الا شفاءك شفاء لا يغادر سقما",
+        "transliteration": "Allaahumma Rabban-nas Adhhibil-ba’s, Ishfi wa Antash-Shafi, laa shifa’a illaa shifaa’uka, shifaa’an laa yughadiru saqama",
+        "reference": "Bukhari: 5743",
+        "audio": 534,
+        "cat_id": 33,
+        "subcat_id": 99
+      },
+      "source": {
+        "name": "Dua of sickness",
+        "content": null,
+        "translation": "O Allah, the Lord of the people! Remove the trouble and heal the patient, for You are the Healer. No healing is of any avail but Yours; healing that will leave behind no ailment.",
+        "note": "Narrated `Aisha (RA): The Prophet (ﷺ) used to treat some of his wives by passing his right hand over the place of ailment and used to say: (The dua is mentioned above)"
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "অসুস্থতার মাসনূন দোয়া",
+        "translation": "হে আল্লাহ্‌, হে মানুষের প্রতিপালক, অসুবিধা দূর করুন, সুস্থতা দান করুন, আপনিই শিফা বা সুস্থতা দানকারী, আপনার শিফা (সুস্থতা প্রদান বা রোগ নিরাময়) ছাড়া আর কোনো শিফা নেই, এমনভাবে শিফা দান করুন যার পরে আর কোনো অসুস্থতা-রোগব্যাধি অবশিষ্ট থাকবে না।",
+        "note": "‘আয়েশা (রাঃ) থেকে বর্ণিতঃ নবী (ﷺ) তাঁর কোন কোন স্ত্রীকে সূরা নাস ও সূরা ফালাক পড়ে ডান হাত দিয়ে বুলিয়ে দিতেন এবং পড়তেনঃ (দোয়াটি উপরে উল্লেখিত হয়েছে)"
+      }
+    },
+    {
+      "key": [
+        535
+      ],
+      "id": 535,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 535,
+        "groups": null,
+        "uthmani": "باِسْمِ اللَّهِ تُرْبَةُ أَرْضِنَا بِرِيْقَةِ بَعْضِنَا يُشْفَى (بِهِ) سَقِيْمُنَا بِإِذْنِ رَبِّنَا",
+        "indopak": "بِسْمِ اللّٰهِ تُرْبَةُ اَرْضِنَا بِرِيْقَةِ بَعْضِنَا يُشْفٰى (بِهٖ) سَقِيْمُنَا بِاِذْنِ رَبِّنَا",
+        "clean": "بسم الله تربه ارضنا بريقه بعضنا يشفي به سقيمنا باذن ربنا",
+        "transliteration": "Bismil-laahi, turbatu ardina, biriqati ba`dina, yushfa (bihi) saqimuna, bi 'idhni Rabbina",
+        "reference": "Bukhari: 5745, Muslim : 2194",
+        "audio": 535,
+        "cat_id": 33,
+        "subcat_id": 99
+      },
+      "source": {
+        "name": "Dua for sickness, wounds and pain",
+        "content": null,
+        "translation": "In the Name of Allah The earth of our land and the saliva of some of us cure our patient.",
+        "note": "Ayesha (RA) said that if there was any illness, pain or wound on any part of the body, Rasulullah (ﷺ) would place his (Shahadat) finger on the ground and lift it and recite this Dua. In another narration, he would put a little saliva of his mouth on his finger and put his finger on the ground and then put it in the place of pain and say this dua."
+      },
+      "target": {
+        "name": "",
+        "content": null,
+        "translation": "",
+        "note": ""
+      },
+      "reference_bn": {
+        "name": "অসুস্থতা, ক্ষত ও ব্যথার দোয়া",
+        "translation": "আল্লাহ্‌র নামে। আমাদের যমিনের মাটি, আমাদের কারো লালার সাথে, যেন আমাদের অসুস্থ ব্যক্তি সুস্থতা লাভ করে, আমাদের রবের অনুমতিতে।",
+        "note": "আয়েশা (রাঃ) বলেন, কারো দেহের কোথাও অসুস্থতা, ব্যাথা বা ক্ষত হলে রাসূলুল্লাহ্‌ (ﷺ) তাঁর (শাহাদাত) আঙুল মাটিতে রেখে তা উঠিয়ে এ দোয়াটি পাঠ করতেন। অন্য বর্ণনায় তিনি আঙুলে নিজের মুখের সামান্য লালা লাগিয়ে আঙুলটি মাটিতে রাখতেন এরপর তা ব্যাথার স্থানে রেখে এ দোয়াটি বলতেন।"
+      }
+    },
+    {
+      "key": [
+        536
+      ],
+      "id": 536,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 536,
+        "groups": "[{\"id\": 536, \"name\": null, \"cat_id\": 33, \"subcat_id\": 99, \"content\": \"Say 7 times:\", \"uthmani\": \"\\u0623\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u0650 (\\u0628\\u0650\\u0639\\u0650\\u0632\\u0651\\u064e\\u0629\\u0650 \\u0627\\u0644\\u0644\\u0651\\u064e\\u0647\\u0650) \\u0648\\u064e\\u0642\\u064f\\u062f\\u0652\\u0631\\u064e\\u062a\\u0650\\u0647\\u0650 \\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0651\\u0650 \\u0645\\u064e\\u0627 \\u0623\\u064e\\u062c\\u0650\\u062f\\u064f \\u0648\\u064e\\u0623\\u064f\\u062d\\u064e\\u0627\\u0630\\u0650\\u0631\\u064f\", \"indopak\": \"\\u0627\\u064e\\u0639\\u064f\\u0648\\u0652\\u0630\\u064f \\u0628\\u0650\\u0627\\u0644\\u0644\\u0651\\u0670\\u0647\\u0650 (\\u0628\\u0650\\u0639\\u0650\\u0632\\u0651\\u064e\\u0629\\u0650 \\u0627\\u0644\\u0644\\u0651\\u0670\\u0647) \\u0648\\u064e\\u0642\\u064f\\u062f\\u0652\\u0631\\u064e\\u062a\\u0650\\u0647\\u0656 \\u0645\\u0650\\u0646\\u0652 \\u0634\\u064e\\u0631\\u0651\\u0650 \\u0645\\u064e\\u0627 \\u0627\\u064e\\u062c\\u0650\\u062f\\u064f \\u0648\\u064e\\u0627\\u064f\\u062d\\u064e\\u0627\\u0630\\u0650\\u0631\\u064f\", \"clean\": \"\\u0627\\u0639\\u0648\\u0630 \\u0628\\u0627\\u0644\\u0644\\u0647 \\u0628\\u0639\\u0632\\u0647 \\u0627\\u0644\\u0644\\u0647 \\u0648\\u0642\\u062f\\u0631\\u062a\\u0647 \\u0645\\u0646 \\u0634\\u0631 \\u0645\\u0627 \\u0627\\u062c\\u062f \\u0648\\u0627\\u062d\\u0627\\u0630\\u0631\", \"transliteration\": \"A'oodhu billaahi (in another narration: A'oodhu bi-'izzatillahi) wa qudratihi min sharri maa 'ajidu wa 'uhaadhir\", \"translation\": \"I seek refuge in Allah and in His Power from the evil of what I find and of what I guard against.\", \"note\": \"Uthman ibn Abil 'As (RA) said that he informed the Messenger of Allah (\\ufdfa) about the explanation of his body. He said: Put your hand on the part of your body where there is pain and say Bismillah three times and this dua seven times. (The dua is mentioned above)\", \"reference\": \"Muslim: 2202, Sahih (Albani). Abu Dawud: 3891\", \"audio\": null, \"groups\": null, \"languageId\": \"en\"}]",
+        "uthmani": "بِسْمِ اللَّهِ",
+        "indopak": "بِسْمِ اللّٰهِ",
+        "clean": "بسم الله",
+        "transliteration": "Bismillaah",
+        "reference": null,
+        "audio": 536,
+        "cat_id": 33,
+        "subcat_id": 99
+      },
+      "source": {
+        "name": "Dua for your own pain",
+        "content": "Say three times:",
+        "translation": "In the Name of Allah. (3 Times)",
+        "note": null
+      },
+      "target": {
+        "name": "",
+        "content": "",
+        "translation": "",
+        "note": null
+      },
+      "reference_bn": {
+        "name": "নিজের ব্যাথার জন্য দোয়া",
+        "content": "৩ বার বলবে -",
+        "translation": "আল্লাহ্‌র নামে। (তিন বার)"
+      },
+      "group_items": [
+        {
+          "group": 0,
+          "key": "content",
+          "source": "Say 7 times:",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "translation",
+          "source": "I seek refuge in Allah and in His Power from the evil of what I find and of what I guard against.",
+          "target": ""
+        },
+        {
+          "group": 0,
+          "key": "note",
+          "source": "Uthman ibn Abil 'As (RA) said that he informed the Messenger of Allah (ﷺ) about the explanation of his body. He said: Put your hand on the part of your body where there is pain and say Bismillah three times and this dua seven times. (The dua is mentioned above)",
+          "target": ""
+        }
+      ]
+    }
+  ]
+}

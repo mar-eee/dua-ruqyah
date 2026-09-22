@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_086.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "171-172",
+  "source_chars": 5974,
+  "items": [
+    {
+      "key": [
+        171
+      ],
+      "id": 171,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 171,
+        "topic_id": 2,
+        "cat_id": 14,
+        "subcat_id": 142
+      },
+      "source": {
+        "topic_name": "For a man",
+        "text": "<b>1.</b> The area between the shoulder blades, most commonly in line with the inferior end of the scapula which is in line with the 7th thoracic vertebra. Sometimes other points lateral to the spinal column between the spinouts processes of the 6th to 9th thoracic vertebrae are used. This particular area is the best for performing general Hijamah as it is the area where toxins and impurities in the blood accumulate and stagnate especially around the 17th. 19th and 21st of the month. In Traditional Chinese Medicine this point is regarded as the meeting point of the blood and is used for all blood disorders whether due to deficiency or excess.\n\n<b>2.</b> The occipital area of the neck in the recesses formed between the upper portion of the sternocleidomastoid and the trapezius muscles. This is in the region of a commonly used acupuncture point called Feng Chi, which means \"wind pool\". It is believed that many pathogens enter the body at this area and that is why it is recommended to cover this area when it is cold or windy. Treating this area is helpful in resolving a number of common ailments of the head and neck, including headache, vertigo, pain/stiffness of neck, blurry vision, red/painful eyes, tinnitus, nasal obstruction, common cold, and rhinorrhea (runny nose, nasal discharge associated with allergies or hay fever or common cold). It's also very useful for insomnia, and tends to have a relaxing and balancing effect upon the nervous system.\n\n<b>3.</b> On the head in the midline, the exact point is normally directly above the apex of the ear as in the diagram below: In Traditional medicine this point corresponds with the acupuncture point called Bai Hui, meaning a hundred convergences and is the meeting point of all the yang energy of the body. It is commonly used to treat all mental, emotional disorders, but also useful for headaches, epilepsy, neurological and endocrine disorders.\n\n<b>4.</b> On the anterior aspect of the foot in a depression distal to the junction of the 2nd and 3rd metatarsal bones. This area is traditionally used to treat swelling, headache, dizziness / vertigo, abdominal pain, bloating, constipation. It can also aid groundedness and focus and treat ADD/ADHD, mania, restlessness, palpitations and epilepsy.\n\nIn women the same areas are used except for the Hijamah point on the head but the quantity of blood removed is less. Note that women are not in need of regular Hijamah as they do release blood through the menses, if they have experienced menopause then it is fine to do as long as they are still strong and not suffering from blood deficiency in which case one must observe the rules of performing Hijamah in illness."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        172
+      ],
+      "id": 172,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 172,
+        "topic_id": 3,
+        "cat_id": 14,
+        "subcat_id": 142
+      },
+      "source": {
+        "topic_name": "Days for performing Hijamah in strength",
+        "text": "Anas ibn Maalik (RA) reported that the Rasul (SAW) said, \"Whoever wants to perform Hijamah then let him search for the 17th, 19th and 21 st...\" [Saheeh Sunan ibn Maajah (3486)].\n\nThese are the generally accepted dates for Hijamah, irrespective of what day of the week they fall on, though there are other Ahadeeth that seem to prohibit having it done on particular days of the week, these Hadeeth are categorized as Daeef however and as such the days mentioned in them are not strictly prohibited, they are mentioned here for completeness:\n\nIbn Umar (RA) reported that the Rasul (SAW) said, \"Hijamah on an empty stomach is best. In it is a cure and a blessing. It improves the intellect and the memory. So cup yourselves with the blessing of Allaah on Thursday. Keep away from Hijamah on Wednesday, Friday, Saturday and Sunday to be safe. Perform Hijama on Monday and Tuesday for it is the day that Allaah saved Ayoub from a trial. He was inflicted with the trial on Wednesday. You will not find leprosy except (by being cupped) on Wednesday or Wednesday night.\" (Sunan ibn Maajah (3487)]\n\nIbn Umar (RA) reported that the Rasul (SAW) said, \"Hijamah on an empty stomach is best. It increases the intellect and improves the memory. It improves the memory of the one memorising. So whoever is going to be cupped then let it be) on a Thursday in the name of Allaah. Keep away from being cupped on a Friday, Saturday and Sunday. Be cupped on a Monday or Tuesday. Do not be cupped on a Wednesday because it is the day that Ayoub was befallen with a trial. You will not find leprosy except (by being cupped) on Wednesday or Wednesday night.\" [Sunan ibn Maajah (3488)].\n\nIn reconciling these it can be said that for Hijamah in strength, the dates are specified, they are the 17th, 19th or 21st of the lunar month and the best is when these dates coincide with a Monday, Tuesday or Thursday, though there is no prohibition for having this type of Hijamah done on any other day as long as it corresponds with the 17th, 19th and 21st.\n\n(There is difference of opinion regarding the prohibition on particular days of the week, since another way of reconciling is considering that the Nabi of Allaah (SAW) in the above two Ahadeeth was referring to that particular month in which the Hadeeth was narrated and referring directly to the days of that week and the week after. If Thursday was the 19th, then the previous Friday, Saturday and Sunday would be the 13th, 14th and 15th, and on these days of the Islaamic month it is mentioned that cupping should not be done, Monday and Tuesday would be the 16th and 17th which would be okay for cupping, since they are after the full moon. Wednesday being prohibited in this case would be the exact day of the year that corresponded with the illness of Nabi Ayyoob (AS), and Thursday being the ideal day to perform Hijamah.)\n\nIt is important to note that this type of Hijamah (i, e Hijamah in strength / Sunnah Hijamah) should be performed only in the seasons of spring and summer. When the climate is hot. However, in places like Hejaz where it is hot throughout the year it can also be performed in the other seasons.\n\nFurther detail is discussed in the chapters on the guidelines for performing Hijamah."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    }
+  ]
+}

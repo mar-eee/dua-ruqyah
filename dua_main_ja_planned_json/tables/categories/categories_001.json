@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "name": "ドゥアーの大切さ",
+    "name": "ドゥアーの大切さと必要性",
     "icon": "duar_gurutto",
     "dua_count": 21,
     "subcat_count": 7
   },
   {
     "id": 2,
-    "name": "ズィクルの徳",
+    "name": "ズィクルの徳と恵み",
     "icon": "zikirer_fozilot",
     "dua_count": 13,
     "subcat_count": 1
@@ -22,42 +22,42 @@
   },
   {
     "id": 4,
-    "name": "ドゥアーが受け入れられる人",
+    "name": "ドゥアーが受け入れられる人々",
     "icon": "jader_dua_kobul_hoy",
     "dua_count": 14,
     "subcat_count": 1
   },
   {
     "id": 5,
-    "name": "朝夕のズィクル",
+    "name": "朝と夕方のズィクル",
     "icon": "sokal_sondha",
     "dua_count": 45,
     "subcat_count": 3
   },
   {
     "id": 6,
-    "name": "眠り",
+    "name": "眠る時と目覚める時",
     "icon": "ghum",
     "dua_count": 31,
     "subcat_count": 2
   },
   {
     "id": 7,
-    "name": "衣服を着るとき",
+    "name": "衣服を着る時",
     "icon": "poshak",
     "dua_count": 8,
     "subcat_count": 1
   },
   {
     "id": 8,
-    "name": "家と暮らし",
+    "name": "家に関するドゥアー",
     "icon": "bari",
     "dua_count": 6,
     "subcat_count": 2
   },
   {
     "id": 9,
-    "name": "トイレ",
+    "name": "トイレに関するドゥアー",
     "icon": "toilet",
     "dua_count": 2,
     "subcat_count": 1
@@ -78,14 +78,14 @@
   },
   {
     "id": 12,
-    "name": "モスク",
+    "name": "モスクに関するドゥアー",
     "icon": "masjid",
     "dua_count": 13,
     "subcat_count": 5
   },
   {
     "id": 13,
-    "name": "礼拝",
+    "name": "礼拝の中のドゥアー",
     "icon": "salat",
     "dua_count": 96,
     "subcat_count": 17
@@ -99,7 +99,7 @@
   },
   {
     "id": 15,
-    "name": "死者・墓・葬儀礼拝",
+    "name": "死・墓・葬儀礼拝",
     "icon": "mrito_janaja",
     "dua_count": 25,
     "subcat_count": 5
@@ -113,7 +113,7 @@
   },
   {
     "id": 17,
-    "name": "旅",
+    "name": "旅のドゥアー",
     "icon": "sofor",
     "dua_count": 19,
     "subcat_count": 1
@@ -127,28 +127,28 @@
   },
   {
     "id": 19,
-    "name": "犠牲祭の供犠",
+    "name": "犠牲の供物（クルバーニー）",
     "icon": "korbani",
     "dua_count": 5,
     "subcat_count": 1
   },
   {
     "id": 20,
-    "name": "シャイターンからの守り",
+    "name": "シャイターン（悪魔）からの守り",
     "icon": "shoytaner_onisto",
     "dua_count": 26,
     "subcat_count": 6
   },
   {
     "id": 21,
-    "name": "悔い改めと赦しの願い",
+    "name": "悔い改めと赦しを求める",
     "icon": "towba_istegfar",
     "dua_count": 46,
     "subcat_count": 4
   },
   {
     "id": 22,
-    "name": "結婚",
+    "name": "結婚に関するドゥアー",
     "icon": "bibaho",
     "dua_count": 8,
     "subcat_count": 3
@@ -162,91 +162,91 @@
   },
   {
     "id": 24,
-    "name": "借金",
+    "name": "借金からの救い",
     "icon": "rin",
     "dua_count": 11,
     "subcat_count": 1
   },
   {
     "id": 25,
-    "name": "不安と悩み",
+    "name": "不安と悩みの時",
     "icon": "duschinta",
     "dua_count": 11,
     "subcat_count": 1
   },
   {
     "id": 26,
-    "name": "敵意・災難・不正",
+    "name": "敵意・災難・不正に遭った時",
     "icon": "shotruta_julum",
     "dua_count": 27,
     "subcat_count": 4
   },
   {
     "id": 27,
-    "name": "非難と善意の祈り",
+    "name": "非難・称賛・幸いを願う時",
     "icon": "ninda_kollan_kamonay",
     "dua_count": 11,
     "subcat_count": 2
   },
   {
     "id": 28,
-    "name": "礼儀と作法",
+    "name": "礼儀と良い作法",
     "icon": "adob_akhlak",
     "dua_count": 32,
     "subcat_count": 7
   },
   {
     "id": 29,
-    "name": "集まりの場で",
+    "name": "集まりの場でのドゥアー",
     "icon": "boithoke_bosle",
     "dua_count": 5,
     "subcat_count": 1
   },
   {
     "id": 30,
-    "name": "食事ともてなし",
+    "name": "食事と客をもてなす時",
     "icon": "khaddo_panio",
     "dua_count": 15,
     "subcat_count": 6
   },
   {
     "id": 31,
-    "name": "動物と鳥",
+    "name": "動物と鳥に関するドゥアー",
     "icon": "poshu_pakhi",
     "dua_count": 6,
     "subcat_count": 1
   },
   {
     "id": 32,
-    "name": "嵐・雨・自然",
+    "name": "嵐・雨・自然現象",
     "icon": "jhor_bristi",
     "dua_count": 21,
     "subcat_count": 1
   },
   {
     "id": 33,
-    "name": "病気と治療",
+    "name": "病気と治療のドゥアー",
     "icon": "osusthota",
     "dua_count": 35,
     "subcat_count": 3
   },
   {
     "id": 34,
-    "name": "ジン・魔術・病",
+    "name": "ジン・魔術・病からの守り",
     "icon": "jin_jadu",
     "dua_count": 35,
     "subcat_count": 2
   },
   {
     "id": 35,
-    "name": "クルアーンのドゥアー",
+    "name": "クルアーンにあるドゥアー",
     "icon": "quraner_dua",
     "dua_count": 84,
     "subcat_count": 4
   },
   {
     "id": 36,
-    "name": "アッラーの偉大な御名",
+    "name": "アッラーの最も偉大な御名",
     "icon": "isme_ajom",
     "dua_count": 7,
     "subcat_count": 1
@@ -260,42 +260,42 @@
   },
   {
     "id": 38,
-    "name": "ハディースのドゥアー",
+    "name": "ハディースにあるドゥアー",
     "icon": "hadiser_dua",
     "dua_count": 90,
     "subcat_count": 1
   },
   {
     "id": 39,
-    "name": "使徒（ﷺ）と教友たち",
+    "name": "使徒（ﷺ）と教友たちのドゥアー",
     "icon": "sahabider_dua",
     "dua_count": 18,
     "subcat_count": 1
   },
   {
     "id": 40,
-    "name": "祝福あるスンナのドゥアー",
+    "name": "スンナに基づく祝福あるドゥアー",
     "icon": "borkotmoy_masnun_dua",
     "dua_count": 15,
     "subcat_count": 1
   },
   {
     "id": 41,
-    "name": "さまざまなドゥアー",
+    "name": "いろいろな場面のドゥアー",
     "icon": "bibidho",
     "dua_count": 24,
     "subcat_count": 1
   },
   {
     "id": 42,
-    "name": "その時々に言うスンナの言葉",
+    "name": "その時に言うスンナの言葉",
     "icon": "kokhon_ki_bolte_hoy",
     "dua_count": 22,
     "subcat_count": 1
   },
   {
     "id": 43,
-    "name": "イード",
+    "name": "イードのドゥアー",
     "icon": "dua_kobuler_somoy",
     "dua_count": 4,
     "subcat_count": 1

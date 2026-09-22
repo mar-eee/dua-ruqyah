@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_025.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "40-41",
+  "source_chars": 5424,
+  "items": [
+    {
+      "key": [
+        40
+      ],
+      "id": 40,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 40,
+        "topic_id": 1,
+        "cat_id": 3,
+        "subcat_id": 41
+      },
+      "source": {
+        "topic_name": "Firstly",
+        "text": "The patient should strengthen himself, arm himself with patience and not give in to despair. The sick person should realize that patience in bearing calamities is the essential outcome of faith and belief in the divine will and decree. Belief in the divine will and decree is one of the six pillars of faith.\n\nHe should also understand that whatever calamity has befallen him has happened with Allah's knowledge and was decreed by Him fifty thousand years before He created the heavens and the earth. Allah says:\n\n<ar> أَلَمْ تَعْلَمْ أَنَّ اللَّـهَ يَعْلَمُ مَا فِي السَّمَاءِ وَالْأَرْضِ ۗ إِنَّ ذَٰلِكَ فِي كِتَابٍ ۚ إِنَّ ذَٰلِكَ عَلَى اللَّـهِ يَسِيرٌ ﴿٧٠﴾ </ar>\n\n<b>Translation:</b> “Know you not that Allah knows all that is in heaven and on the earth? Verily, it is (all) in the Book (Al-Lawh Al-Mahfooz). Verily, that is easy for Allah.\" (Al-Hajj 22:70)\n\n<ar> مَا أَصَابَ مِن مُّصِيبَةٍ فِي الْأَرْضِ وَلَا فِي أَنفُسِكُمْ إِلَّا فِي كِتَابٍ مِّن قَبْلِ أَن نَّبْرَأَهَا ۚ إِنَّ ذَٰلِكَ عَلَى اللَّـهِ يَسِيرٌ ﴿٢٢﴾ </ar>\n\n<b>Translation:</b> \"No calamity befalls on the earth or in yourselves but it is inscribed in the Book of Decrees (Al-Lawh AlMahfooz) before We bring it into existence. Verily, that is easy for Allah. In order that you may not grieve at the things over that you fail to get, nor rejoice over that which has been given to you.\" (Al-Hadeed 57:22-23) \n\nOnce a person understands that whatever befalls him happens with the knowledge of Allah and by His decree, then he must have faith, be patient, accept it and submit to the will of Allah. Once a person has faith and acceptance, then Allah will guide his heart and enable him to be content, to seek reward, to be patient and to give thanks. Whoever is blessed with guidance will find peace of mind, as Allah says:\n\n<ar> مَا أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ اللَّـهِ ۗ وَمَن يُؤْمِن بِاللَّـهِ يَهْدِ قَلْبَهُ ۚ وَاللَّـهُ بِكُلِّ شَيْءٍ عَلِيمٌ ﴿١١﴾ وَأَطِيعُوا اللَّـهَ وَأَطِيعُوا الرَّسُولَ ۚ فَإِن تَوَلَّيْتُمْ فَإِنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ ﴿١٢﴾ </ar>\n\n<b>Translation:</b> \"No calamity befalls, but by the Leave li.e. Decision and Qadar (Divine Preordainments)] of Allah, and whosoever believes in Allah, He guides his heart (to the true Faith with certainty, i.e. what has befallen him was already written for him by Allah from the Qadar (Divine Preordainments)). And Allah is the All-Knower of everything, Obey Allah, and obey the Messenger (Muhammad); but if you turn away, then the duty of Our Messenger is only to convey (the Message) clearly.\" (Al-Taghaabun 64:11-12) \n\nOne thing that will help a person to achieve that is belief in the will and decree of Allah, and the belief that man has no control over his affairs in this life, rather he does not have control over even the most personal of matters, or his provision, or his lifespan, or whether he is destined to be doomed or blessed. All of that is decreed for him. \n\nAnyone who is faced with calamity should understand that a good outcome comes with patience, and that relief will follow distress, and that with hardship comes ease. It was narrated that Ibn 'Abbaas ra. said: I was behind the Prophet (ﷺ) one day and he said to me:\n\n\"O young man, I will teach you some words (of advice). Be mindful of Allah, and Allah will protect you. Be mindful of Allah and you will find Him in front of you. If you ask, ask of Allah; if you seek help, seek help of Allah. Know that if the nation were to gather together to benefit you with anything, it would benefit you only with something that Allah has already decreed for you, and if they were to gather together to harm you with anything, they would harm you only with something that Allah has already decreed for you. The pens have been lifted and the pages have dried.\"[Saheeh Hadeeth. See Saheeh Al-Jaami' by Shaykh Al-Albaani (may Allah have mercy on him), no. 7957; Saheeh Muslim; AlTirmidhi] \n\nAccording to some reports: “Remember Allah at times of ease and He will remember you at times of hardship. Understand that whatever misses you would never have befallen you, and whatever befalls you would never have missed you. Understand that a good outcome comes with patience, that relief follows distress and that with hardship comes ease.\" \n\nThe person who has been smitten with a calamity must remember the promise of Allah, that a great reward and high status will come to the one who is patient, as the Prophet (ﷺ) said:\n\n\"A man would have a high status before Allah which he cannot attain by means of good deeds; Allah will continue to test him with things that he dislikes until He causes him to reach that status.\"[A Hasan Hadeeth. See Saheeh Al-Jaami' by Al-Albaani, no. 1625]"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        41
+      ],
+      "id": 41,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 41,
+        "topic_id": 2,
+        "cat_id": 3,
+        "subcat_id": 41
+      },
+      "source": {
+        "topic_name": "Secondly",
+        "text": "The patient should be certain that the Healer is Allah alone, and that the Ruqyah comes under the heading of following the means prescribed in Sharee'ah for seeking healing. What counts in Ruqyah is that what is recited --namely the words of Allah, which are as Allah says:\n\n<ar> وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ ۙ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا ﴿٨٢﴾ </ar>\n\n<b>Translation:</b> \"And We send down of the Qur'aan that which is a healing and a mercy to those who believe.\" (Al-Isra' 17:82) \n\nThe basic principle is that what counts in Ruqyah is what is recited, not the one who recites it, so we should not let out hearts become attached to individuals."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "type": "RUQYAH",
+    "name": "Introduction to Ruqyah",
+    "icon": "abt_ruqya"
+  },
+  {
+    "id": 2,
+    "type": "INSTANT",
+    "name": "Instant Ruqyah",
+    "icon": "do_ruqya"
+  },
+  {
+    "id": 3,
+    "type": "RUQYAH",
+    "name": "Protect Yourself From Jinn",
+    "icon": "jin"
+  },
+  {
+    "id": 4,
+    "type": "RUQYAH",
+    "name": "Black Magic (Sihr)",
+    "icon": "jadu-tona"
+  },
+  {
+    "id": 5,
+    "type": "RUQYAH",
+    "name": "Evil Eye & Envy",
+    "icon": "bodnozor"
+  },
+  {
+    "id": 6,
+    "type": "RUQYAH",
+    "name": "About Raqi",
+    "icon": "raqi"
+  },
+  {
+    "id": 7,
+    "type": "RUQYAH",
+    "name": "Ruqyah Materials",
+    "icon": "upokoron"
+  },
+  {
+    "id": 8,
+    "type": "RUQYAH",
+    "name": "7-day detoxification program",
+    "icon": "ditox"
+  },
+  {
+    "id": 9,
+    "type": "RUQYAH",
+    "name": "The Ruqyah bath against Sihr",
+    "icon": "jadur_ruqya"
+  },
+  {
+    "id": 10,
+    "type": "RUQYAH",
+    "name": "Full Ruqyah program",
+    "icon": "next_step"
+  },
+  {
+    "id": 11,
+    "type": "RUQYAH",
+    "name": "Waswasah - whisperings",
+    "icon": "was-wasa"
+  },
+  {
+    "id": 12,
+    "type": "RUQYAH",
+    "name": "Other Diseases",
+    "icon": "sickness_ruqya"
+  },
+  {
+    "id": 13,
+    "type": "RUQYAH",
+    "name": "Treatment for general problems",
+    "icon": "next_step"
+  },
+  {
+    "id": 14,
+    "type": "RUQYAH",
+    "name": "Types of Hijamah / Bloodletting",
+    "icon": "hijama"
+  },
+  {
+    "id": 15,
+    "type": "VIDEO",
+    "name": "Ruqya related Video",
+    "icon": "video"
+  }
+]

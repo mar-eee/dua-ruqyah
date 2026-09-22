@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_060.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "115-116",
+  "source_chars": 4248,
+  "items": [
+    {
+      "key": [
+        115
+      ],
+      "id": 115,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 115,
+        "topic_id": null,
+        "cat_id": 6,
+        "subcat_id": 96
+      },
+      "source": {
+        "topic_name": null,
+        "text": "You must sit down and learn this science by studying, there is no way around this. The more you know, the better the raqi you become.\n\n<b>The Following Is Brief Study Plan For A Prospective Raqi</b>\n\n<b>1.</b> Study the books: ‘Kitab Tawheed’ and ‘Kashfa Shoubahat’ by Imam Mohammad Abdul-Wahab. ‘Aqeedah Wasatiya’ and ‘Essay on the Jinn’ by Imam Ibn Taymeeyah. You should study these books by listening to Youtube lectures from the following channels: Criterion Productions (Luton Islamic Centre), Green Lane Masjid, Masjid Humera (of Ustadh Murtaza Khan) and Brixton Masjid.\n\n<b>2.</b> Study this article ‘The Problems with Jinn Catching’, and understand why it is a bidah, focusing particularly on the fatawa from Islamqa.info. YOU MUST GET INTO YOUR HEAD THAT WE DON’T ASK OR NEED JINN’S HELP. We also don’t like speaking to jinn because it could lead to shirk. We must not even use jinn to do diagnosis or any form of treatment.\n\n<b>3.</b> The next article that you should read is ‘101 Important Ruqyah Principles’ and then the ‘Importance of Ruqyah Diagnosis’, followed by ‘How Sins Affect Possessed Muslims’. After these, you may watch the videos in order and then finish reading the rest of the regarding Ruqyah on authentic websites.\n\n<b>4.</b> You need to learn hijama from a reputable hijamist or institute. Your aim is not to become a professional hijamist but to become a raqi that can offer the JET treatment to your patients.\n\n<b>5.</b> Learn the following parts of the Quran with tajweed (and that means you must recite these surahs and ayahs to your local imam or qari): Surahs Fatiha, Ikhlas & last two Quls. Also Ayah Kursi and the last two ayahs of Surah Baqarah. THAT’S ALL YOU NEED FOR READING ON PEOPLE."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        116
+      ],
+      "id": 116,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 116,
+        "topic_id": null,
+        "cat_id": 6,
+        "subcat_id": 97
+      },
+      "source": {
+        "topic_name": null,
+        "text": "As we mentioned earlier from Ibn Taymeeyah, if you do Ruqyah for the sake of Allah then he will protect you and this is obviously to do with thinking well of Allah.\n\n<b>The additional things you can do for protection are:</b>\n\n\n<b>1.</b> Keeping away from committing major sins or continuously doing the same minor sins.\n\n<b>2.</b> Morning and evening adhkar (please refer to the book Hisnul Muslim)\n\n<b>3.</b> The Quls after every salah.\n\n<b>4.</b> Adkhar before sleeping, the minimum being the Quls and Ayah Kursi\n\n<b>5.</b> Praying 2 rakah protection salah before you leave your home and then praying them again when you enter your home \n\n<b>6.</b> After magrib and fajr prayers, you say the below dhikr 10 times before you speak to anyone, reply to someone’s salam or move out of the tashahud position. Through this dhikr, Allah will protect you from every harm and He will also protect you from the shaytan. There is also a lot of reward to be gained from saying this dhikr.\n\n<ar> لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ </ar>\n\n<i><b>Transliteration:</b> Laa ‘ilaaha ‘illallaahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu yuhyee wa yumeetu wa Huwa ‘alaa kulli shay’in Qadeer.</i>\n\n<b>Translation:</b> None has the right to be worshiped but Allah alone, Who has no partner. His is the dominion and His is the praise. He brings life and He causes death, and He is Able to do all things. (Ten times after the Maghrib and Fajr prayers.)\n\n(At-Tirmizi 5/515, Ahmad 4/227, Zadul-Ma’ad 1/300).\n\n<b>7 Ajwa Dates For Protection Against Sihr</b>\n\n<b>Eating 7 ajwa dates in the morning gives you protection against sihr because of the hadith:</b>\n\n\nAl-Bukhaari (5445) and Muslim (2047) narrated from Sa‘d ibn Abi Waqqaas that the Prophet (ﷺ) said: “Whoever eats seven ‘ajwah dates in the morning, will not be harmed by any poison or witchcraft that day.”\n\nWe would NOT recommend that you take 7 ajwa dates everyday but you should take them whenever you feel that someone is trying to do sihr on you or when you visit a particular house, city, region or country that is well known for sihr.\n\nBecause of the situation you may find yourself in, it may mean that you occasionally take 7 ajwa dates for 2 or 3 weeks continuously or until the threat of sihr disappears.\n\nYou should take the 7 ajwa dates on an empty stomach after praying fajr and you should wait an hour for them to digest and then you may have your breakfast."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,681 @@
+{
+  "table": "ruqyah_instants",
+  "chunk": "ruqyah_instants_006.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 19,
+  "id_range": "70-88",
+  "source_chars": 5941,
+  "items": [
+    {
+      "key": [
+        70
+      ],
+      "id": 70,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 70,
+        "topic_id": 2,
+        "uthmani": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيتَ عَلَى إِبْرَاهِيمَ، وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+        "transliteration": "Alla-humma salli ‘ala muhammadiwa’ ala a-li muhammadin kama sallaita ‘ala ibrahima wa‘ ala a-li ibrahima innaka hamidum majeed. Alla-humma barik ‘ala muhammadiwa’ ala ali muhammadin, kama ba-rakta ‘ala ibrahima wa‘ ala a-li ibrahima innaka hamidum majid.",
+        "reference": "Sahih Al-Bukhari: 3370, Sahih Muslim: 406",
+        "cat_id": 2,
+        "subcat_id": 12,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/brief/13.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Bukhari : 3370",
+        "content": null,
+        "translation": "O Allah, send salah upon Muhammad and the family of Muhammad, as You have sent salah upon Ibraheem and the family of Ibraheem. You are Praiseworthy and Gloryworthy. O Allah! Bless Muhammad and the family of Muhammad, as You have blessed Ibraheem and the family of Ibraheem, in all the worlds. You are Praiseworthy and Gloryworthy."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "সুন্নাহ থেকে",
+        "name": "বুখারী : ৩৩৭০",
+        "translation": "হে আল্লাহ! আপনি (আপনার নিকটস্থ উচ্চসভায়) মুহাম্মাদকে সম্মানের সাথে স্মরণ করুন এবং তাঁর পরিবার-পরিজনকে, যেমন আপনি সম্মানের সাথে স্মরণ করেছেন ইবরাহীমকে ও তাঁর পরিবার-পরিজনদেরকে। নিশ্চয় আপনি অত্যন্ত প্রশংসিত ও মহামহিমান্বিত। হে আল্লাহ! আপনি মুহাম্মাদ ও তাঁর পরিবার পরিজনের উপর বরকত নাযিল করুন যেমন আপনি বরকত নাযিল করেছিলেন ইবরাহীম ও তাঁর পরিবার-পরিজনের উপর। নিশ্চয় আপনি অত্যন্ত প্রশংসিত ও মহামহিমান্বিত।"
+      }
+    },
+    {
+      "key": [
+        71
+      ],
+      "id": 71,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 71,
+        "topic_id": 1,
+        "uthmani": "وَذَا النُّونِ إِذ ذَّهَبَ مُغَاضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِي الظُّلُمَاتِ أَن لَّا إِلَـٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ ﴿٨٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/13.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Anbiya 21:87",
+        "content": null,
+        "translation": "(87) And [mention] the man of the fish, when he went off in anger and thought that We would not decree [anything] upon him. And he called out within the darknesses, “There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.\""
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "কোরআন থেকে",
+        "name": "আল-আম্বিয়া ২১:৮৭",
+        "translation": "আর স্মরণ কর যুন-নূন এর কথা, যখন সে রাগান্বিত অবস্থায় চলে গিয়েছিল এবং মনে করেছিল যে, আমি তার উপর ক্ষমতা প্রয়োগ করব না। তারপর সে অন্ধকার থেকে ডেকে বলেছিল, ‘আপনি ছাড়া কোন (সত্য) ইলাহ নেই’। আপনি পবিত্র মহান। নিশ্চয় আমি ছিলাম যালিম’।"
+      }
+    },
+    {
+      "key": [
+        72
+      ],
+      "id": 72,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 72,
+        "topic_id": 2,
+        "uthmani": "اَللّٰهُمَّ عَافِنِيْ فِيْ بَدَنِيْ، اَللّٰهُمَّ عَافِنِيْ فِيْ سَمْعِيْ، اَللّٰهُمَّ عَافِنِيْ فِيْ بَصَرِيْ، لَا إِلٰهَ إِلَّا أَنْتَ",
+        "transliteration": "Alla-humma ‘a-fini fi badani, Alla-humma‘ a-fini fi sam’ee Alla-humma ‘a-fini fi basari. Laa ila-ha illa anta.",
+        "reference": "Sunan Abu Dawud: 5090, Sunan At tirmidhi: 3480",
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/med/13.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud : 5090",
+        "content": "Say 3 times,",
+        "translation": "O Allah, make my body healthy, my hearing healthy and my eyesight healthy. There is no God but You.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": "",
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "সুন্নাহ থেকে",
+        "name": "আবূ দাউদ : ৫০৯২",
+        "content": "৩ বার বলবে,",
+        "translation": "হে আল্লাহ! আমাকে নিরাপত্তা দিন আমার শরীরে। হে আল্লাহ! আমাকে নিরাপত্তা দিন আমার শ্রবণশক্তিতে। হে আল্লাহ! আমাকে নিরাপত্তা দিন আমার দৃষ্টিশক্তিতে। আপনি ছাড়া কোনো হক্ব ইলাহ নেই।"
+      }
+    },
+    {
+      "key": [
+        73
+      ],
+      "id": 73,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 73,
+        "topic_id": 1,
+        "uthmani": "فَسُبْحَانَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ ﴿١٧﴾ وَلَهُ الْحَمْدُ فِي السَّمَاوَاتِ وَالْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ ﴿١٨﴾ يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ وَيُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا ۚ وَكَذَٰلِكَ تُخْرَجُونَ ﴿١٩﴾ وَمِنْ آيَاتِهِ أَنْ خَلَقَكُم مِّن تُرَابٍ ثُمَّ إِذَا أَنتُم بَشَرٌ تَنتَشِرُونَ ﴿٢٠﴾ وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ ﴿٢١﴾ وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْعَالِمِينَ ﴿٢٢﴾ وَمِنْ آيَاتِهِ مَنَامُكُم بِاللَّيْلِ وَالنَّهَارِ وَابْتِغَاؤُكُم مِّن فَضْلِهِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَسْمَعُونَ ﴿٢٣﴾ وَمِنْ آيَاتِهِ يُرِيكُمُ الْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ السَّمَاءِ مَاءً فَيُحْيِي بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ ﴿٢٤﴾ وَمِنْ آيَاتِهِ أَن تَقُومَ السَّمَاءُ وَالْأَرْضُ بِأَمْرِهِ ۚ ثُمَّ إِذَا دَعَاكُمْ دَعْوَةً مِّنَ الْأَرْضِ إِذَا أَنتُمْ تَخْرُجُونَ ﴿٢٥﴾ وَلَهُ مَن فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ كُلٌّ لَّهُ قَانِتُونَ ﴿٢٦﴾ وَهُوَ الَّذِي يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ وَهُوَ أَهْوَنُ عَلَيْهِ ۚ وَلَهُ الْمَثَلُ الْأَعْلَىٰ فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ ﴿٢٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/13.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ar-Rum 30:17-27",
+        "content": null,
+        "translation": "(17) So exalted is Allah when you reach the evening and when you reach the morning. (18) And to Him is [due all] praise throughout the heavens and the earth. And [exalted is He] at night and when you are at noon. (19) He brings the living out of the dead and brings the dead out of the living and brings to life the earth after its lifelessness. And thus will you be brought out. (20) And of His signs is that He created you from dust; then, suddenly you were human beings dispersing [throughout the earth]. (21) And of His signs is that He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy. Indeed in that are signs for a people who give thought. (22) And of His signs is the creation of the heavens and the earth and the diversity of your languages and your colors. Indeed in that are signs for those of knowledge. (23) And of His signs is your sleep by night and day and your seeking of His bounty. Indeed in that are signs for a people who listen. (24) And of His signs is [that] He shows you the lightening [causing] fear and aspiration, and He sends down rain from the sky by which He brings to life the earth after its lifelessness. Indeed in that are signs for a people who use reason. (25) And of His signs is that the heaven and earth remain by His command. Then when He calls you with a [single] call from the earth, immediately you will come forth. (26) And to Him belongs whoever is in the heavens and earth. All are to Him devoutly obedient. (27) And it is He who begins creation; then He repeats it, and that is [even] easier for Him. To Him belongs the highest attribute in the heavens and earth. And He is the Exalted in Might, the Wise."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "কোরআন থেকে",
+        "name": "আর-রূম ৩০:১৭-২৭",
+        "translation": "(১৭) অতএব তোমরা আল্লাহর তাসবীহ কর, যখন সন্ধ্যায় উপনীত হবে এবং সকালে উঠবে। (১৮) আর অপরাহ্নে ও যুহরের সময়ে; আর আসমান ও যমীনে সকল প্রশংসা একমাত্র তাঁরই। (১৯) তিনি মৃত থেকে জীবিতকে বের করেন এবং জীবিত থেকে মৃতকে বের করেন। আর তিনি যমীনকে জীবিত করেন তার মৃত্যুর পর। আর এভাবেই তোমরা উত্থিত হবে। (২০) আর তাঁর নিদর্শনাবলীর মধ্যে রয়েছে যে, তিনি তোমাদেরকে মাটি থেকে সৃষ্টি করেছেন, তারপর তোমরা মানুষ হয়ে ছড়িয়ে পড়ছ। (২১) আর তাঁর নিদর্শনাবলীর মধ্যে রয়েছে যে, তিনি তোমাদের জন্য তোমাদের থেকেই স্ত্রীদের সৃষ্টি করেছেন, যাতে তোমরা তাদের কাছে প্রশান্তি পাও। আর তিনি তোমাদের মধ্যে ভালবাসা ও দয়া সৃষ্টি করেছেন। নিশ্চয় এর মধ্যে নিদর্শনাবলী রয়েছে সে কওমের জন্য, যারা চিন্তা করে। (২২) আর তাঁর নিদর্শনাবলীর মধ্যে রয়েছে আসমান ও যমীনের সৃষ্টি এবং তোমাদের ভাষা ও তোমাদের বর্ণের ভিন্নতা। নিশ্চয় এর মধ্যে নিদর্শনাবলী রয়েছে জ্ঞানীদের জন্য। (২৩) আর তাঁর নিদর্শনাবলীর মধ্যে রয়েছে রাতে ও দিনে তোমাদের নিদ্রা এবং তাঁর অনুগ্রহ থেকে তোমাদের (জীবিকা) অন্বেষণ। নিশ্চয় এর মধ্যে নিদর্শনাবলী রয়েছে সে কওমের জন্য যারা শোনে। (২৪) আর তাঁর নিদর্শনাবলীর মধ্যে রয়েছে তিনি তোমাদেরকে ভয় ও ভরসাস্বরূপ বিদ্যুৎ দেখান, আর আসমান থেকে পানি বর্ষণ করেন। অতঃপর তা দ্বারা যমীনকে তার মৃত্যুর পর পুনর্জীবিত করেন। নিশ্চয় এর মধ্যে নিদর্শনাবলী রয়েছে সে কওমের জন্য যারা অনুধাবন করে। (২৫) আর তাঁর নিদর্শনাবলীর মধ্যে রয়েছে, তাঁরই নির্দেশে আসমান ও যমীন স্থিতিশীল থাকে। তারপর তিনি যখন তোমাদেরকে যমীন থেকে বের হয়ে আসার জন্য একবার আহবান করবেন তখনই তোমরা বের হয়ে আসবে। (২৬) আর আসমানসমূহ ও যমীনে যা কিছু আছে সব তাঁরই। সব কিছুই তাঁর অনুগত। (২৭) আর তিনিই সৃষ্টির সূচনা করেন তারপর তিনিই এর পুনরাবৃত্তি করবেন। আর এটা তো তাঁর জন্য অধিকতর সহজ। আসমান ও যমীনে সর্বোচ্চ মর্যাদা তাঁরই এবং তিনি পরাক্রমশালী, প্রজ্ঞাময়।"
+      }
+    },
+    {
+      "key": [
+        74
+      ],
+      "id": 74,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 74,
+        "topic_id": 2,
+        "uthmani": "اَللّٰهُمَّ إِنِّيْ أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدُ لاَ إِلٰهَ إِلاَّ أَنْتَ، الْمَنَّانُ بَدِيْعُ السَّمَوَاتِ وَالأَرْضِ، يَا ذَا الْجَلَالِ وَالْإِكْرَامِ يَا حَيُّ يَا قَيُّومُ",
+        "transliteration": "Allaahumma 'innee 'as'aluka bi'anna lakal-hamd laa 'ilaaha 'illaa 'Anta, Al-Mannaanu, Badee'as-samaawaati wal'ardhi yaa dhal-Jalaali wal-'Ikraam, yaa Hayyu yaa Qayyoom.",
+        "reference": "Musnad Al-Imam Ahmad: 3/158",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/13.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Musnad Ahmad : 3/158",
+        "content": null,
+        "translation": "O Allah, it is You Whom I beg for help, for to You all praise is due, and there is no god but You. You are the Compassionate, the Originator of the heavens and the earth, the Lord of Majesty and Splendor. You are the Living, the Eternal.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "সুন্নাহ থেকে",
+        "name": "আদাবুল মুফরাদ : ৭০৫",
+        "translation": "হে আল্লাহ নিশ্চয় আমি আপনার নিকট প্রার্থনা করছি (এই বলে) যে, সকল প্রশংসা আপনার, আপনি ছাড়া কোন প্রকৃত মাবুদ নেই, হে মহাদাতা, হে আসমানসমূহ ও পৃথিবীর উদ্ভাবক, হে মহত্ত্ব ও সম্মানের মালিক, হে চিরঞ্জীব, হে সর্বকৰ্তত্বময় অভিভাবক।"
+      }
+    },
+    {
+      "key": [
+        75
+      ],
+      "id": 75,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 75,
+        "topic_id": 1,
+        "uthmani": "قُلِ ادْعُوا اللَّـهَ أَوِ ادْعُوا الرَّحْمَـٰنَ ۖ أَيًّا مَّا تَدْعُوا فَلَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا ﴿١١٠﴾ وَقُلِ الْحَمْدُ لِلَّـهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ ۖ وَكَبِّرْهُ تَكْبِيرًا ﴿١١١﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/14.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Isra 17:110-111",
+        "content": null,
+        "translation": "(110) Say, “Call upon Allah or call upon the Most Merciful. Whichever [name] you call - to Him belong the best names.” And do not recite [too] loudly in your prayer or [too] quietly but seek between that an [intermediate] way. (111) And say, “Praise to Allah, who has not taken a son and has had no partner in [His] dominion and has no [need of a] protector out of weakness; and glorify Him with [great] glorification.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "কোরআন থেকে",
+        "name": "আল-ইসরা ১৭:১১০-১১১",
+        "translation": "(১১০) বল, ‘তোমরা (তোমাদের রবকে) ‘আল্লাহ’ নামে ডাক অথবা ‘রাহমান’ নামে ডাক, যে নামেই তোমরা ডাক না কেন, তাঁর জন্যই তো রয়েছে সুন্দর নামসমূহ। তুমি তোমার সালাতে স্বর উঁচু করো না এবং তাতে মৃদুও করো না; বরং এর মাঝামাঝি পথ অবলম্বন কর। (১১১) আর বল, ‘সমস্ত প্রশংসা আললাহরই, যিনি কোন সন্তান গ্রহণ করেননি, রাজত্বে তাঁর কোন শরীক নেই এবং অপমান থেকে বাঁচতে তাঁর কোন অভিভাবকের দরকার নেই।’ সুতরাং তুমি পূর্ণরূপে তাঁর বড়ত্ব ঘোষণা কর।"
+      }
+    },
+    {
+      "key": [
+        76
+      ],
+      "id": 76,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 76,
+        "topic_id": 2,
+        "uthmani": "اَللّٰهُمَّ بَارِكْ عَلَيْهِ وَأَذْهِبْ عَنْهُ حَرَّ الْعَيْنِ وَبَرْدَهَا وَوَصَبَهَا",
+        "transliteration": "Allahumma baarik ‘alaihi wa adh-hib ‘anhu harril ‘aini wa bardahaa wa wasabahaa.",
+        "reference": "Musnad Al-Imam Ahmad: 3/447, Al-Haakim's Al-Mustadrak, No. 3/411, Ibn Al-Atheer's Annihaayah, No. 5/116",
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/med/14.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Musnad Ahmad : 3/447",
+        "content": null,
+        "translation": "O Allah, I beg You to grant him Your blessings, to rid him of the evil eye's heat, cold and aches.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "সুন্নাহ থেকে",
+        "name": "মুসনাদ আহমদ : ৩/৪৪৭",
+        "translation": "হে আল্লাহ! তাকে বারাকাহ দিন এবং তার থেকে বদনজর এর উত্তাপ থেকে মুক্তি দিন এবং তাকে শীতলতা প্রদান করুন এবং তা স্থায়ী করুন।"
+      }
+    },
+    {
+      "key": [
+        77
+      ],
+      "id": 77,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 77,
+        "topic_id": 1,
+        "uthmani": "حم ﴿١﴾ تَنزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْعَلِيمِ ﴿٢﴾ غَافِرِ الذَّنبِ وَقَابِلِ التَّوْبِ شَدِيدِ الْعِقَابِ ذِي الطَّوْلِ ۖ لَا إِلَٰهَ إِلَّا هُوَ ۖ إِلَيْهِ الْمَصِيرُ ﴿٣﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/14.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ghafir 40:1-3",
+        "content": null,
+        "translation": "(1) Ha, Meem. (2) The revelation of the Book is from Allah, the Exalted in Might, the Knowing. (3) The forgiver of sin, acceptor of repentance, severe in punishment, owner of abundance. There is no deity except Him; to Him is the destination."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "কোরআন থেকে",
+        "name": "গাফির ৪০:১-৩",
+        "translation": "(১) হা-মীম। (২) মহাপরাক্রমশালী সর্বজ্ঞানী আল্লাহর পক্ষ থেকে এই কিতাব নাযিলকৃত। (৩) তিনি পাপ ক্ষমাকারী, তাওবা কবূলকারী, কঠোর আযাবদাতা, অনুগ্রহ বর্ষণকারী। তিনি ছাড়া কোন (সত্য) ইলাহ নেই। তাঁর দিকেই প্রত্যাবর্তন।"
+      }
+    },
+    {
+      "key": [
+        78
+      ],
+      "id": 78,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 78,
+        "topic_id": 2,
+        "uthmani": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنِّي أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لاَ إِلَهَ إِلاَّ أَنْتَ الْأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُواً أَحَدٌ",
+        "transliteration": "Allaahumma 'innee 'as'aluka yaaAllaahu bi'annakal-Waahidul-'Ahadus-Samadul-ladhee, lam yalid wa lam yoolad, wa lam yakun lahu kufuwan 'Ahad.",
+        "reference": "Musnad Al-Imam Ahmad: 5/350, Sahih Ibn Hibbaan: 891",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/14.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Musnad Ahmad : 5/350",
+        "content": null,
+        "translation": "O Allah, it is You Whom I beg for help, for I bear witness that there is no god but You, the One, the eternally Besought of all, Who begets not, nor is He begotten; and to Whom none is comparable.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "সুন্নাহ থেকে",
+        "name": "আবূ দাউদ : ১৪৯৩",
+        "translation": "হে আল্লাহ! আমি আপনার কাছে চাই। কেননা, আমি সাক্ষ্য দেই যে, নিশ্চয় আপনিই আল্লাহ, আপনি ছাড়া আর কোনো হক্ব ইলাহ নেই; আপনি একক সত্তা, অমুখাপেক্ষী-সকল কিছু আপনার মুখাপেক্ষী, যিনি কাউকে জন্ম দেন নি এবং জন্ম নেনও নি। আর যাঁর সমকক্ষ কেউ নেই।"
+      }
+    },
+    {
+      "key": [
+        79
+      ],
+      "id": 79,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 79,
+        "topic_id": 1,
+        "uthmani": "وَدَّ كَثِيرٌ مِّنْ أَهْلِ الْكِتَابِ لَوْ يَرُدُّونَكُم مِّن بَعْدِ إِيمَانِكُمْ كُفَّارًا حَسَدًا مِّنْ عِندِ أَنفُسِهِم مِّن بَعْدِ مَا تَبَيَّنَ لَهُمُ الْحَقُّ ۖ فَاعْفُوا وَاصْفَحُوا حَتَّىٰ يَأْتِيَ اللَّـهُ بِأَمْرِهِ ۗ إِنَّ اللَّـهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿١٠٩﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/15.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Al-Baqarah 2:109",
+        "content": null,
+        "translation": "(109) Many of the People of the Scripture wish they could turn you back to disbelief after you have believed, out of envy from themselves [even] after the truth has become clear to them. So pardon and overlook until Allah delivers His command. Indeed, Allah is over all things competent."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "কোরআন থেকে",
+        "name": "আল-বাক্বারা ২:১০৯",
+        "translation": "(১০৯) আহলে কিতাবের অনেকেই চায়, যদি তারা তোমাদেরকে ঈমান আনার পর কাফির অবস্থায় ফিরিয়ে নিতে পারত! সত্য স্পষ্ট হওয়ার পর তাদের পক্ষ থেকে হিংসাবশত (তারা এরূপ করে থাকে) সুতরাং তোমরা ক্ষমা কর এবং এড়িয়ে চল, যতক্ষণ না আল্লাহ তাঁর নির্দেশ দেন। নিশ্চয় আল্লাহ সব কিছুর উপর ক্ষমতাবান।"
+      }
+    },
+    {
+      "key": [
+        80
+      ],
+      "id": 80,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 80,
+        "topic_id": 2,
+        "uthmani": "أَسْأَلُ اللهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ",
+        "transliteration": "As'alullaahal-'Adheem Rabbal-'Arshil-'Adheemi 'an yashfiyak.",
+        "reference": "Sunan Abu Dawud: 3106, SunanTirmidhi: 2083, Musnad Al Imam Ahmad: 1/239",
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/med/15.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud : 3106",
+        "content": "Say 7 times,",
+        "translation": "I pray to Allah, the Magnificent, Lord of the Glorious Throne, to grant you healing.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": "",
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "সুন্নাহ থেকে",
+        "name": "তিরমিযী : ২০৮৩",
+        "content": "৭ বার বলবে,",
+        "translation": "আমি মহান আল্লাহ্‌র কাছে চাচ্ছি, যিনি মহান আরশের রব, তিনি যেন আপনাকে রোগমুক্তি প্রদান করেন।"
+      }
+    },
+    {
+      "key": [
+        81
+      ],
+      "id": 81,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 81,
+        "topic_id": 1,
+        "uthmani": "هُوَ الْحَيُّ لَا إِلَٰهَ إِلَّا هُوَ فَادْعُوهُ مُخْلِصِينَ لَهُ الدِّينَ ۗ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ﴿٦٥﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/15.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Ghafir 40:65",
+        "content": null,
+        "translation": "(65) He is the Ever-Living; there is no deity except Him, so call upon Him, [being] sincere to Him in religion. [All] praise is [due] to Allah, Lord of the worlds."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "কোরআন থেকে",
+        "name": "গাফির ৪০:৬৫",
+        "translation": "(৬৫) তিনি চিরঞ্জীব, তিনি ছাড়া কোন (সত্য) ইলাহ নেই। সুতরাং তোমরা দীনকে তাঁর জন্য একনিষ্ঠ করে তাঁকে ডাক। সকল প্রশংসা আল্লাহর যিনি সৃষ্টিকুলের রব।"
+      }
+    },
+    {
+      "key": [
+        82
+      ],
+      "id": 82,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 82,
+        "topic_id": 2,
+        "uthmani": "اَللَّهُمَّ أَذْهِبِ الْبَأْسَ، رَبَّ النَّاسِ، وَاشْفِ أَنْتَ الشَّافِي، لاَ شِفَاءَ إِلاَّ شِفَاؤُكَ، شِفَاءً لاَ يُغَادِرُ سَقَمًا.",
+        "transliteration": "Allahumma Azhibil Ba'as, Rabbannas, Washfi Anta Ash-Shafi, La-Shifa-A Illa-Shifa-Uka. Shifa-an la-yuga-diru saqama.",
+        "reference": "Sahih Al-Bukhari: 5675, Sahih Muslim: 2191",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/15.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Al-Bukhari : 5675",
+        "content": null,
+        "translation": "O Allah, Lord of mankind! It is You Who removes suffering. You are the Healer, and none can heal but You. I beg You to bring about healing that leaves behind no ailment."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "সুন্নাহ থেকে",
+        "name": "বুখারী : ৫৬৭৫",
+        "translation": "হে মানুষের প্রতিপালক! তুমি রোগ দূর করে দাও এবং আরোগ্য দান কর। তুমিই তো আরোগ্যদানকারী, তোমার আরোগ্য ভিন্ন আর কোন আরোগ্য নেই, এমন আরোগ্য দাও, যারপর কোন রোগ থাকে না।"
+      }
+    },
+    {
+      "key": [
+        83
+      ],
+      "id": 83,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 83,
+        "topic_id": 1,
+        "uthmani": "أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ اللَّـهُ مِن فَضْلِهِ ۖ فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ وَآتَيْنَاهُم مُّلْكًا عَظِيمًا ﴿٥٤﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/16.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "An-Nisa 4:54",
+        "content": null,
+        "translation": "(54) Or do they envy people for what Allah has given them of His bounty? But we had already given the family of Abraham the Scripture and wisdom and conferred upon them a great kingdom."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "কোরআন থেকে",
+        "name": "আন-নিসা ৪:৫৪",
+        "translation": "(৫৪) বরং তারা কি লোকদেরকে হিংসা করে, আল্লাহ স্বীয় অনুগ্রহে তাদেরকে যা দিয়েছেন তার কারণে? তাহলে তো আমি ইবরাহীমের বংশধরকে কিতাব ও হিকমত দান করেছি এবং তাদেরকে দিয়েছি বিশাল রাজত্ব।"
+      }
+    },
+    {
+      "key": [
+        84
+      ],
+      "id": 84,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 84,
+        "topic_id": 2,
+        "uthmani": "اَللَّهُمَّ بَرِّدْ قَلْبِي بِالثَّلْجِ وَالْبَرَدِ وَالْمَاءِ الْبَارِدِ اللَّهُمَّ نَقِّ قَلْبِي مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الأَبْيَضَ مِنَ الدَّنَسِ",
+        "transliteration": "Allahumma barrid qalbi bith thalji wal barad, wal ma-il ba-rid. Allahumma Naqqi Qalbi Minal Khataiya Kama Naqqaitath thaobal Abyada Minad Danas.",
+        "reference": "SunanTirmidhi: 3547",
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/med/16.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Tirmidhi : 3547",
+        "content": null,
+        "translation": "O Allah! Cool my heart with ice, hail and cool water, and purify it of all sins, as a white garment is cleansed of all dirt.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "সুন্নাহ থেকে",
+        "name": "তিরমিযী : ৩৫৪৭",
+        "translation": "হে আল্লাহ! তুমি আমার অন্তরকে বরফ, শিশির ও ঠান্ডা পানি দ্বারা শীতল করে দাও। হে আল্লাহ! আমার অন্তরকে গুনাহ হতে এমনভাবে পরিষ্কার-পরিচ্ছন্ন করে দাও যেরূপে তুমি সাদা কাপড়কে ময়লা হতে পরিষ্কার করেছ।"
+      }
+    },
+    {
+      "key": [
+        85
+      ],
+      "id": 85,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 85,
+        "topic_id": 1,
+        "uthmani": "وَإِمَّا يَنزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ ۖ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ ﴿٣٦﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/long/16.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Fussilat 41:36",
+        "content": null,
+        "translation": "(36) And if there comes to you from Satan an evil suggestion, then seek refuge in Allah . Indeed, He is the Hearing, the Knowing."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "কোরআন থেকে",
+        "name": "ফুসসিলাত ৪১:৩৬",
+        "translation": "(৩৬) আর যদি শয়তানের পক্ষ থেকে কোন কুমন্ত্রণা কখনো তোমাকে প্ররোচিত করে, তাহলে তুমি আল্লাহর নিকট আশ্রয় প্রার্থনা করবে। নিশ্চয়ই তিনি সর্বশ্রোতা, সর্বজ্ঞাত।"
+      }
+    },
+    {
+      "key": [
+        86
+      ],
+      "id": 86,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 86,
+        "topic_id": 2,
+        "uthmani": "اَللّٰهُمَّ عَافِنِيْ فِيْ بَدَنِيْ، اَللّٰهُمَّ عَافِنِيْ فِيْ سَمْعِيْ، اَللّٰهُمَّ عَافِنِيْ فِيْ بَصَرِيْ، لَا إِلٰهَ إِلَّا أَنْتَ",
+        "transliteration": "Alla-humma ‘a-fini fi badani, Alla-humma‘ a-fini fi sam’ee Alla-humma ‘a-fini fi basari. Laa ila-ha illa anta.",
+        "reference": "Sunan Abu Dawud: 5090, Sunan Tirmidhi: 3480",
+        "cat_id": 2,
+        "subcat_id": 14,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/long/24.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud : 5090",
+        "content": "Say 3 times:",
+        "translation": "O Allah, make my body healthy, my hearing healthy and my eyesight healthy. There is no God but You."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": "",
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "সুন্নাহ থেকে",
+        "name": "আবূ দাউদ : ৫০৯২",
+        "content": "৩ বার বলবে,",
+        "translation": "হে আল্লাহ! আমাকে নিরাপত্তা দিন আমার শরীরে। হে আল্লাহ! আমাকে নিরাপত্তা দিন আমার শ্রবণশক্তিতে। হে আল্লাহ! আমাকে নিরাপত্তা দিন আমার দৃষ্টিশক্তিতে। আপনি ছাড়া কোনো হক্ব ইলাহ নেই।"
+      }
+    },
+    {
+      "key": [
+        87
+      ],
+      "id": 87,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 87,
+        "topic_id": 1,
+        "uthmani": "وَإِن يَمْسَسْكَ اللَّـهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ ۖ وَإِن يُرِدْكَ بِخَيْرٍ فَلَا رَادَّ لِفَضْلِهِ ۚ يُصِيبُ بِهِ مَن يَشَاءُ مِنْ عِبَادِهِ ۚ وَهُوَ الْغَفُورُ الرَّحِيمُ ﴿١٠٧﴾",
+        "transliteration": null,
+        "reference": null,
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/quran/med/17.mp3"
+      },
+      "source": {
+        "topic_name": "From Quran",
+        "name": "Yunus 10:107",
+        "content": null,
+        "translation": "(107) And if Allah should touch you with adversity, there is no remover of it except Him; and if He intends for you good, then there is no repeller of His bounty. He causes it to reach whom He wills of His servants. And He is the Forgiving, the Merciful."
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": null,
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "কোরআন থেকে",
+        "name": "ইউনুস ১০:১০৭",
+        "translation": "(১০৭) ‘আর আল্লাহ যদি তোমাকে কোন ক্ষতি পৌঁছান, তবে তিনি ছাড়া তা দূর করার কেউ নেই। আর তিনি যদি তোমার কল্যাণ চান, তবে তাঁর অনুগ্রহের কোন প্রতিরোধকারী নেই। তিনি তার বান্দাদের যাকে ইচ্ছা তাকে তা দেন। আর তিনি পরম ক্ষমাশীল, অতি দয়ালু’।"
+      }
+    },
+    {
+      "key": [
+        88
+      ],
+      "id": 88,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 88,
+        "topic_id": 2,
+        "uthmani": "رَبُّنَا اللهُ الَّذِي فِي السَّمَاءِ، تَقَدَّسَ اسْمُكَ أَمْرُكَ فِي السَّمَاءِ وَالْأَرْضِ، كَمَا رَحْمَتُكَ فِي السَّمَاءِ فَاجْعَلْ رَحْمَتَكَ فِي الْأَرْضِ، اغْفِرْ لَنَا حُوبَنَا وَخَطَايَانَا، أَنْتَ رَبُّ الطَّيِّبِينَ، أَنْزِلْ رَحْمَةً مِنْ رَحْمَتِكَ وَشِفَاءً مِنْ شِفَائِكَ عَلَى هَذَا الْوَجَعِ، فَيَبْرَأَ.",
+        "transliteration": "Rabbunallahu alladhi fis samaa-i taqaddasasmuka amruka fissama-i wal ardhi kamaa rahmatuka fissmaa-i faj’al rahmataka fil ardhighfir lanaa hubanaa wa khataayaana anta rabbut tayyibiin. Anzil rahmatan min rahmatika wa shifaa-an min shifaa-ika ‘ala hadhal waja-’i fayabra-a.",
+        "reference": "Sunan Abu Dawud: 3892, Musnad Al-Imam Ahmad: 6/21, & Ibn Al-Qayyim's Zaad Al-Mee aad, No.3/141",
+        "cat_id": 2,
+        "subcat_id": 13,
+        "audio": "https://duaruqyah.com/ruqyaaudio/sunnah/med/17.mp3"
+      },
+      "source": {
+        "topic_name": "From Sunnah",
+        "name": "Abu Dawud : 3892",
+        "content": "Say 3 times:",
+        "translation": "O our Lord, Allah, You are in Heaven; holy be Your name. Your command reigns supreme in the heavens and on the earth. As Your mercy is in the heavens, have Your mercy on the earth. Forgive our sins. You are the Lord of the good. Send down of Your mercy and healing unto this ailment to cure it.”"
+      },
+      "target": {
+        "topic_name": "",
+        "name": "",
+        "content": "",
+        "translation": ""
+      },
+      "reference_bn": {
+        "topic_name": "সুন্নাহ থেকে",
+        "name": "আবু দাওউদ : ৩৮৯২",
+        "content": "৩ বার বলবে,",
+        "translation": "হে আমাদের পালনকর্তা, আল্লাহ, আপনি আসমানে আছেন; আপনার নাম পবিত্র। আপনার আদেশ আকাশে ও পৃথিবীতে সর্বোচ্চ রাজত্ব করে। যেমন আপনারর রহমত আসমানে রয়েছে, পৃথিবীতেঅ তেমনি আপনি রহমাত দিন। আমাদের পাপকে ক্ষমা করুন। আপনি উত্তম পালনকর্তা, আপনার দয়া ও শিফা এই রোগের নিরাময়ে নাযিল করুন।"
+      }
+    }
+  ]
+}

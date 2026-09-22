@@ -1,0 +1,78 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_095.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 3,
+  "id_range": "198-200",
+  "source_chars": 4604,
+  "items": [
+    {
+      "key": [
+        198
+      ],
+      "id": 198,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 198,
+        "topic_id": 4,
+        "cat_id": 14,
+        "subcat_id": 149
+      },
+      "source": {
+        "topic_name": "Hijamah and the lunar cycle",
+        "text": "In health it is generally recommended to perform Hijamah only on the 17th, 19th or 21st of the lunar month. These are the dates recommended in the Ahadeeth but there is no harm in doing it any time in the latter part of the lunar month from the 17th to the 27th, provided that the climate is suitable for it as detailed above.\n\nThe reason for this has to do with the effect of the moon on the blood. Just as the moon has an effect on the sea and produces high tides, in the same manner when the moon is full it brings forth impurities from the blood to the surface of the body and has other effects as well.\n\nit is interesting to note that the term \"lunatic\" is derived from lunar and indicates the effect of the moon and such behaviour. In fact, lunacy is more likely at the time of the full moon since this is when there is a lot of liver energy which can give rise to easy anger, flared tempers etc.\n\nMany who suffer from conditions such as epilepsy, migraine headaches, high blood pressure etc note that their symptoms are worse during a full moon that at other times of the month. Studies show that more assaults occur around the full moon. More crimes, self and unintentional poisonings and animal bites occur during the full moon cycle as well. The moon also has an impact on fertility, menstruation, and birth rate. Melatonin levels which are influenced by the phase of the moon correlate with the menstrual cycle. Admittance to hospitals and emergency units because of various causes also correlate with the moon phases. In addition, other events associated with human behavior, such as traffic accidents, crimes, and suicides, are more common during the full moon phase as well.\n\nStudies indicate that melatonin and endogenous steroid levels are affected by the phase of the moon and may be the means by which the physiological changes occur in response to the moon phase. The release of these neurohormones may be triggered by the electromagnetic radiation and/or the gravitational pull of the moon.\n\nIn a more recent study conducted in 2013 at the Psychiatric Hospital of the University of Basel, Switzerland, researchers found that around the time of full moon, sleep was affected with subjects experiencing decreased electroencephalogram (EEG) activity, taking longer to fall off to sleep, and also reporting decreased sleep quality. This also correlated with lower melatonin levels.\n\nIt is however not recommended to have Hijamah during the full moon phase itself, as it is understood that the blood will flow in excessive and unnecessary amounts, but afterwards (from the 17th onward) it is a means of removing the impurities and 'heat' from the body."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        199
+      ],
+      "id": 199,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 199,
+        "topic_id": 5,
+        "cat_id": 14,
+        "subcat_id": 149
+      },
+      "source": {
+        "topic_name": "Time of day",
+        "text": "It is recommended to perform general Hijamah in the early morning before 10 a.m. while the impurities in the blood are still settled in the areas bled for Hijamah and have not had time to circulate and diffuse in the general circulation. Once the patient starts to get involved in his/her daily activities there is a significant redistribution of blood which is allocated to areas of the body that are in greater need depending on the activity being performed. The patient also may eat something which will cause blood to move to the internal digestive organs.\n\nBy the afternoon, the blood starts to recede internally and this is why \"blood deficiency\" headaches tend to occur at this time. Office workers are especially prone to this and should not be treated with Hijamah after returning from work as this aggravates their blood deficiency issue.\n\nIf the patient has had an afternoon nap and is fresh in the evening then Hijamah may be performed provided the climate is hot and the patient has not eaten."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        200
+      ],
+      "id": 200,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 200,
+        "topic_id": 6,
+        "cat_id": 14,
+        "subcat_id": 149
+      },
+      "source": {
+        "topic_name": "Hijamah in illness",
+        "text": "Hijamah in illness can be performed at any time of the month, but it is preferred during the daytime and when the climate is warm or hot. If this is not possible care should be taken that the room where Hijamah is being performed is warm and there is no draught entering, (whether it be through an incompletely sealed door or window etc.).\n\nThe patient should also take extra precaution not to expose themselves to cold after the procedure and neither should they drink or eat cold or raw foods as these will divert heat to the interior of the body. For Hijamah during illness the amount of blood removed must correspond with the level of the pulse and the Hajjaam must have special training in order to apply the procedure effectively to treat the presenting illness. It is better that the treatment is also combined with herbal medication and dietary therapy in such cases."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    }
+  ]
+}

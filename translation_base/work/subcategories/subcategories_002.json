@@ -1,0 +1,1062 @@
+{
+  "table": "subcategories",
+  "chunk": "subcategories_002.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 50,
+  "id_range": "51-100",
+  "source_chars": 1471,
+  "items": [
+    {
+      "key": [
+        51
+      ],
+      "id": 51,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 51,
+        "cat_id": 14
+      },
+      "source": {
+        "name": "Dua Qunut"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "মাসনূন কুনুত"
+      }
+    },
+    {
+      "key": [
+        52
+      ],
+      "id": 52,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 52,
+        "cat_id": 14
+      },
+      "source": {
+        "name": "Tahajjud prayer (Qiyam Al Layl)"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "তাহাজ্জুদ সালাত"
+      }
+    },
+    {
+      "key": [
+        53
+      ],
+      "id": 53,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 53,
+        "cat_id": 14
+      },
+      "source": {
+        "name": "Some special prayers"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "বিশেষ কিছু সালাত"
+      }
+    },
+    {
+      "key": [
+        54
+      ],
+      "id": 54,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 54,
+        "cat_id": 15
+      },
+      "source": {
+        "name": "Things to do for the dead"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "মৃৃৃতের জন্য করনীয়"
+      }
+    },
+    {
+      "key": [
+        55
+      ],
+      "id": 55,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 55,
+        "cat_id": 15
+      },
+      "source": {
+        "name": "To bury the dead"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "মৃতকে কবরস্থ করা"
+      }
+    },
+    {
+      "key": [
+        56
+      ],
+      "id": 56,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 56,
+        "cat_id": 15
+      },
+      "source": {
+        "name": "Duas for visiting graves"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "কবর যিয়ারতের দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        57
+      ],
+      "id": 57,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 57,
+        "cat_id": 15
+      },
+      "source": {
+        "name": "Funeral prayers"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "জানাযার দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        58
+      ],
+      "id": 58,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 58,
+        "cat_id": 15
+      },
+      "source": {
+        "name": "Duas at the child's funeral"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "শিশুর জানাযায় দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        59
+      ],
+      "id": 59,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 59,
+        "cat_id": 16
+      },
+      "source": {
+        "name": "Duas to be recited in Ramadan"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "রমজানে পঠিত দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        60
+      ],
+      "id": 60,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 60,
+        "cat_id": 17
+      },
+      "source": {
+        "name": "Duas for Musafir"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "মুসাফিরের জন্য পঠিতব্য দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        61
+      ],
+      "id": 61,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 61,
+        "cat_id": 18
+      },
+      "source": {
+        "name": "Duas for Hajjis"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "হাজীদের জন্য পঠিতব্য দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        62
+      ],
+      "id": 62,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 62,
+        "cat_id": 19
+      },
+      "source": {
+        "name": "Duas for sacrificer"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "কুরবানী দানকারীর জন্য পঠিতব্য দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        63
+      ],
+      "id": 63,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 63,
+        "cat_id": 20
+      },
+      "source": {
+        "name": "Duas for expelling the devil and his whisperings"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "শয়তান ও তার কুমন্ত্রণা তাড়ানোর দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        64
+      ],
+      "id": 64,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 64,
+        "cat_id": 20
+      },
+      "source": {
+        "name": "Prayers for the safety of the child"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "সন্তানের নিরাপত্তা সম্পর্কিত দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        65
+      ],
+      "id": 65,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 65,
+        "cat_id": 20
+      },
+      "source": {
+        "name": "Other prayers related to evil"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "অনিষ্ট সম্পর্কিত অন্যান্য দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        66
+      ],
+      "id": 66,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 66,
+        "cat_id": 20
+      },
+      "source": {
+        "name": "If you feel waswasa (evil whispers) in your heart"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "অন্তরে কুমন্ত্রণা অনুভব করলে"
+      }
+    },
+    {
+      "key": [
+        67
+      ],
+      "id": 67,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 67,
+        "cat_id": 20
+      },
+      "source": {
+        "name": "Shelter from the evils of the Dajjal"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "দাজ্জালের অনিষ্ট থেকে আশ্রয়"
+      }
+    },
+    {
+      "key": [
+        68
+      ],
+      "id": 68,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 68,
+        "cat_id": 20
+      },
+      "source": {
+        "name": "When angry"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "রাগান্বিত অবস্থায় দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        69
+      ],
+      "id": 69,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 69,
+        "cat_id": 21
+      },
+      "source": {
+        "name": "Istigfaar which are mentioned in Hadith"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "যেসকল ইস্তেগফার হাদীসে বর্ণিত হয়েছে"
+      }
+    },
+    {
+      "key": [
+        70
+      ],
+      "id": 70,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 70,
+        "cat_id": 21
+      },
+      "source": {
+        "name": "The best prayer for forgiveness - Sayyidul Istigfar"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "ক্ষমা প্রার্থনার শ্রেষ্ঠ দোয়া - সাইয়্যেদুল ইস্তিগফার"
+      }
+    },
+    {
+      "key": [
+        71
+      ],
+      "id": 71,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 71,
+        "cat_id": 21
+      },
+      "source": {
+        "name": "The words of the Qur'an and Hadith about repentance"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "তাওবার ব্যপারে কুরআন ও হাদীসের বাণী"
+      }
+    },
+    {
+      "key": [
+        72
+      ],
+      "id": 72,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 72,
+        "cat_id": 22
+      },
+      "source": {
+        "name": "Sermon of Marriage"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "বিয়ের খুতবা"
+      }
+    },
+    {
+      "key": [
+        73
+      ],
+      "id": 73,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 73,
+        "cat_id": 22
+      },
+      "source": {
+        "name": "Blessings after marriage"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "বিবাহ পরবর্তী দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        74
+      ],
+      "id": 74,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 74,
+        "cat_id": 22
+      },
+      "source": {
+        "name": "Duas related to the newborn"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "নবজাতক সম্পর্কিত দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        75
+      ],
+      "id": 75,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 75,
+        "cat_id": 23
+      },
+      "source": {
+        "name": "Duas regarding to the family"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "পরিবারের জন্য পঠিতব্য দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        76
+      ],
+      "id": 76,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 76,
+        "cat_id": 24
+      },
+      "source": {
+        "name": "Duas for settling debt"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "ঋণমুক্তির দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        77
+      ],
+      "id": 77,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 77,
+        "cat_id": 25
+      },
+      "source": {
+        "name": "Duas for distressed"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "দুশ্চিন্তাগ্রস্তের জন্য পঠিতব্য দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        78
+      ],
+      "id": 78,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 78,
+        "cat_id": 26
+      },
+      "source": {
+        "name": "Duas in the time of hopelessness"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "ব্যর্থতার সময়ের দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        79
+      ],
+      "id": 79,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 79,
+        "cat_id": 26
+      },
+      "source": {
+        "name": "Duas in the time of fearing of harm"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "ক্ষতির আশঙ্কার সময়ের দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        80
+      ],
+      "id": 80,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 80,
+        "cat_id": 26
+      },
+      "source": {
+        "name": "Duas to be recited when one is in danger"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "বিপদ-কষ্টে নিপতিত হলে পঠিতব্য দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        81
+      ],
+      "id": 81,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 81,
+        "cat_id": 27
+      },
+      "source": {
+        "name": "Duas to be recited in condemnation and praise"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "নিন্দায় ও প্রশংসায় পঠিতব্য দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        82
+      ],
+      "id": 82,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 82,
+        "cat_id": 27
+      },
+      "source": {
+        "name": "Duas to be recited for the welfare of others"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "অপরের কল্যাণ কামনায় পঠিতব্য দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        83
+      ],
+      "id": 83,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 83,
+        "cat_id": 28
+      },
+      "source": {
+        "name": "Etiquette in sneezing and yawn"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "হাঁচি ও হাই তোলার ক্ষেত্রে শিষ্টাচার"
+      }
+    },
+    {
+      "key": [
+        84
+      ],
+      "id": 84,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 84,
+        "cat_id": 28
+      },
+      "source": {
+        "name": "Duas for sneezing"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "হাঁচির আদব ও দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        85
+      ],
+      "id": 85,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 85,
+        "cat_id": 28
+      },
+      "source": {
+        "name": "Duas at the end of the meeting"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "মজলিস / বৈঠক শেষের দোয়া"
+      }
+    },
+    {
+      "key": [
+        86
+      ],
+      "id": 86,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 86,
+        "cat_id": 28
+      },
+      "source": {
+        "name": "Duas recited upon seeing something pleasant or harmful"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "আনন্দদায়ক অথবা ক্ষতিকারক কিছু দেখলে পঠিতব্য দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        87
+      ],
+      "id": 87,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 87,
+        "cat_id": 28
+      },
+      "source": {
+        "name": "Duas about praise"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "প্রশংসা বিষয়ে দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        88
+      ],
+      "id": 88,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 88,
+        "cat_id": 28
+      },
+      "source": {
+        "name": "Etiquette of salutation"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "সালাম বিষয়ক আদব"
+      }
+    },
+    {
+      "key": [
+        89
+      ],
+      "id": 89,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 89,
+        "cat_id": 28
+      },
+      "source": {
+        "name": "Duas on various manners and etiquettes"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "বিবিধ আদব ও শিষ্টাচার বিষয়ক দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        90
+      ],
+      "id": 90,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 90,
+        "cat_id": 29
+      },
+      "source": {
+        "name": "Dua for a person in meeting"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "বৈঠককারীর জন্য পঠিতব্য দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        91
+      ],
+      "id": 91,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 91,
+        "cat_id": 30
+      },
+      "source": {
+        "name": "Etiquette of taking food and drink"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "খাবার ও পানীয় গ্রহণের শিষ্টাচার"
+      }
+    },
+    {
+      "key": [
+        92
+      ],
+      "id": 92,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 92,
+        "cat_id": 30
+      },
+      "source": {
+        "name": "Prayers at the beginning of the meal"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "খাওয়ার শুরুতে দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        93
+      ],
+      "id": 93,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 93,
+        "cat_id": 30
+      },
+      "source": {
+        "name": "If forget to mention the name of Allah in the beginning"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "শুরুতে আল্লাহ্‌র নাম বলতে ভুলে গেলে"
+      }
+    },
+    {
+      "key": [
+        94
+      ],
+      "id": 94,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 94,
+        "cat_id": 30
+      },
+      "source": {
+        "name": "Dua between eating and drinking"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "খাওয়া ও পান করার মাঝের দোয়া"
+      }
+    },
+    {
+      "key": [
+        95
+      ],
+      "id": 95,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 95,
+        "cat_id": 30
+      },
+      "source": {
+        "name": "Duas at the end of the meal"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "খাওয়া শেষে দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        96
+      ],
+      "id": 96,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 96,
+        "cat_id": 30
+      },
+      "source": {
+        "name": "Dua by the guest for the host"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "যে পানাহার করালো তার জন্য দোয়া"
+      }
+    },
+    {
+      "key": [
+        97
+      ],
+      "id": 97,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 97,
+        "cat_id": 31
+      },
+      "source": {
+        "name": "Duas regarding to animals"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "পশু-পাখি সম্পর্কিত দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        98
+      ],
+      "id": 98,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 98,
+        "cat_id": 32
+      },
+      "source": {
+        "name": "Duas related to nature"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "প্রকৃতি সম্পর্কিত দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        99
+      ],
+      "id": 99,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 99,
+        "cat_id": 33
+      },
+      "source": {
+        "name": "Duas for the sick person"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "অসুস্থ ব্যক্তির জন্য দোয়া সমূহ"
+      }
+    },
+    {
+      "key": [
+        100
+      ],
+      "id": 100,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 100,
+        "cat_id": 33
+      },
+      "source": {
+        "name": "Duas for the dead person"
+      },
+      "target": {
+        "name": ""
+      },
+      "reference_bn": {
+        "name": "মৃত ব্যক্তির জন্য দোয়া সমূহ"
+      }
+    }
+  ]
+}

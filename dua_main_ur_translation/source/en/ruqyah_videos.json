@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "Ruqya workshop (level 1, 2 & 3)",
+    "author": "Muhammad Tim Humble",
+    "link_id": 1,
+    "link": "https://www.youtube.com/playlist?list=PLo34sbHxDAVF60YnM6oVKADQN0hKcsj4J",
+    "cat_id": 15,
+    "subcat_id": 150
+  },
+  {
+    "id": 2,
+    "name": "Ruqyah course with muhammad tim humble",
+    "author": "Muhammad Tim Humble",
+    "link_id": 2,
+    "link": "https://youtube.com/playlist?list=PLuihjkTS1Xqhv9WB-epHOTXGWm7cCC4rL",
+    "cat_id": 15,
+    "subcat_id": 150
+  },
+  {
+    "id": 3,
+    "name": "Ruqya workshop (level 1, 2 & 3) - tim humble",
+    "author": "Muhammad Tim Humble",
+    "link_id": 3,
+    "link": "https://www.youtube.com/playlist?list=PLo34sbHxDAVF60YnM6oVKADQN0hKcsj4J",
+    "cat_id": 15,
+    "subcat_id": 150
+  },
+  {
+    "id": 4,
+    "name": "Self ruqyah - tim humble",
+    "author": "Muhammad Tim Humble",
+    "link_id": 4,
+    "link": "https://youtube.com/playlist?list=PLhHdKOqaO2RLDrXbpaKYK4B7NVrSSCjSE",
+    "cat_id": 15,
+    "subcat_id": 150
+  },
+  {
+    "id": 5,
+    "name": "Lectures in melbourne australia",
+    "author": "Sheikh Khalid Al-hibshi",
+    "link_id": 5,
+    "link": "https://www.youtube.com/playlist?list=PLowVKacjaHVFAHLA4NyHJL9P4PeJevhwH",
+    "cat_id": 15,
+    "subcat_id": 150
+  },
+  {
+    "id": 6,
+    "name": "The reality of magic & divorce",
+    "author": "Abu Ibraheem Hussnayn",
+    "link_id": 6,
+    "link": "https://www.youtube.com/playlist?list=PL1pJm30QoUz8y01FbagoH4exDnmF0Rj-J",
+    "cat_id": 15,
+    "subcat_id": 150
+  },
+  {
+    "id": 7,
+    "name": "Lectures in melbourne australia",
+    "author": "Sheikh Khalid Al-hibshi",
+    "link_id": 1,
+    "link": "https://www.youtube.com/playlist?list=PLowVKacjaHVFAHLA4NyHJL9P4PeJevhwHH",
+    "cat_id": 15,
+    "subcat_id": 151
+  },
+  {
+    "id": 8,
+    "name": "The world of jinns",
+    "author": "Sh. Ammar Shahin",
+    "link_id": 2,
+    "link": "https://www.youtube.com/watch?v=K74hgxI-6Ys",
+    "cat_id": 15,
+    "subcat_id": 151
+  },
+  {
+    "id": 9,
+    "name": "The magicians plot event london",
+    "author": "Sheikh Khalid Al-hibshi",
+    "link_id": 1,
+    "link": "https://www.youtube.com/watch?v=MIdFYEn1Hqk&list=PLowVKacjaHVF9CLn6PjfktxrgZ6VOMnzJ&index=3",
+    "cat_id": 15,
+    "subcat_id": 152
+  },
+  {
+    "id": 10,
+    "name": "The magicians plot event london",
+    "author": "Sheikh Khalid Al-hibshi",
+    "link_id": 2,
+    "link": "https://www.youtube.com/watch?v=cb3ex7ZHrTI&list=PLowVKacjaHVF9CLn6PjfktxrgZ6VOMnzJ&index=4",
+    "cat_id": 15,
+    "subcat_id": 152
+  },
+  {
+    "id": 11,
+    "name": "Episode 1: the reality of magic and divorce",
+    "author": "Abu Ibraheem Hussnayn",
+    "link_id": 3,
+    "link": "https://www.youtube.com/watch?v=t38MFGJfnMk&list=PL1pJm30QoUz8y01FbagoH4exDnmF0Rj-J&index=2",
+    "cat_id": 15,
+    "subcat_id": 152
+  },
+  {
+    "id": 12,
+    "name": "Episode 2: they seek to cause separation between man and his wife *must see*",
+    "author": "Abu Ibraheem Hussnayn",
+    "link_id": 4,
+    "link": "https://www.youtube.com/watch?v=-0A-kEzTxqI&list=PL1pJm30QoUz8y01FbagoH4exDnmF0Rj-J&index=3",
+    "cat_id": 15,
+    "subcat_id": 152
+  },
+  {
+    "id": 13,
+    "name": "Episode 4: being afflicted with magic can affect your relationship",
+    "author": "Abu Ibraheem Hussnayn",
+    "link_id": 5,
+    "link": "https://www.youtube.com/watch?v=G2M5RDRhHo4&list=PL1pJm30QoUz8y01FbagoH4exDnmF0Rj-J&index=6",
+    "cat_id": 15,
+    "subcat_id": 152
+  },
+  {
+    "id": 14,
+    "name": "Episode 6: coming together to overcome magic",
+    "author": "Abu Ibraheem Hussnayn",
+    "link_id": 6,
+    "link": "https://www.youtube.com/watch?v=ofcp4UOOXl4&list=PL1pJm30QoUz8y01FbagoH4exDnmF0Rj-J&index=8",
+    "cat_id": 15,
+    "subcat_id": 152
+  },
+  {
+    "id": 15,
+    "name": "How to identify a magician and / or someone working with a jinn?",
+    "author": "Abu Ibraheem Hussnayn",
+    "link_id": 7,
+    "link": "https://www.youtube.com/watch?v=970hdVVcrCk&list=PL1pJm30QoUz8y01FbagoH4exDnmF0Rj-J&index=14",
+    "cat_id": 15,
+    "subcat_id": 152
+  },
+  {
+    "id": 16,
+    "name": "Lectures in melbourne australia 03 - jinn and black magic by sheikh khalid al-hibshi",
+    "author": "Sheikh Khalid Al-hibshi",
+    "link_id": 8,
+    "link": "https://www.youtube.com/watch?v=5dqJWQ-V5Es&list=PLowVKacjaHVFAHLA4NyHJL9P4PeJevhwH&index=4",
+    "cat_id": 15,
+    "subcat_id": 152
+  },
+  {
+    "id": 17,
+    "name": "Abracadabra: the sinister world of magic - tim humble",
+    "author": "Muhammad Tim Humble",
+    "link_id": 9,
+    "link": "https://www.youtube.com/watch?v=tFZZ5zb0lnc",
+    "cat_id": 15,
+    "subcat_id": 152
+  },
+  {
+    "id": 18,
+    "name": "Lectures in melbourne australia 02 envy and the evil eye by sheikh khalid al-hibshi",
+    "author": "Sheikh Khalid Al-hibshi",
+    "link_id": 1,
+    "link": "https://www.youtube.com/watch?v=rJqQBkNHPLw&list=PLowVKacjaHVFAHLA4NyHJL9P4PeJevhwH&index=3",
+    "cat_id": 15,
+    "subcat_id": 153
+  },
+  {
+    "id": 19,
+    "name": "Misconception about the piety of the raqi",
+    "author": "Sheikh Khalid Al-hibshi",
+    "link_id": 1,
+    "link": "https://www.youtube.com/watch?v=SGsUZ5AdNiw",
+    "cat_id": 15,
+    "subcat_id": 154
+  },
+  {
+    "id": 20,
+    "name": "The first visit of sheikh khalid to great britain and advising the ruqaa.",
+    "author": "Sheikh Khalid Al-hibshi",
+    "link_id": 1,
+    "link": "https://www.youtube.com/watch?v=KQnrqou5fKA&list=PLowVKacjaHVF9CLn6PjfktxrgZ6VOMnzJ&index=5",
+    "cat_id": 15,
+    "subcat_id": 155
+  },
+  {
+    "id": 21,
+    "name": "How to perform ruqyah over yourself & family, part 1/2",
+    "author": "Abu Ibraheem Hussnayn",
+    "link_id": 2,
+    "link": "https://www.youtube.com/watch?v=vXu_-LhEqLE&list=PL1pJm30QoUz8y01FbagoH4exDnmF0Rj-J&index=12",
+    "cat_id": 15,
+    "subcat_id": 155
+  },
+  {
+    "id": 22,
+    "name": "How to perform ruqyah over yourself & family, part 2/2",
+    "author": "Abu Ibraheem Hussnayn",
+    "link_id": 3,
+    "link": "https://www.youtube.com/watch?v=liz1MrkFFq0&list=PL1pJm30QoUz8y01FbagoH4exDnmF0Rj-J&index=13",
+    "cat_id": 15,
+    "subcat_id": 155
+  },
+  {
+    "id": 23,
+    "name": "What is ruqyah and how to perform it – al hakeem",
+    "author": "Sheikh Khalid Al-hibshi",
+    "link_id": 4,
+    "link": "https://www.youtube.com/watch?v=BM8r-Vx53zw",
+    "cat_id": 15,
+    "subcat_id": 155
+  },
+  {
+    "id": 24,
+    "name": "First time self ruqya program by sheikh khalid al hibshi",
+    "author": "Sheikh Khalid Al-hibshi",
+    "link_id": 1,
+    "link": "https://www.youtube.com/watch?v=Kre-2pQ2f44&list=PLowVKacjaHVF9CLn6PjfktxrgZ6VOMnzJ&index=6",
+    "cat_id": 15,
+    "subcat_id": 156
+  },
+  {
+    "id": 25,
+    "name": "A simple guide to self ruqyah - muhammad tim humble",
+    "author": "Muhammad Tim Humble",
+    "link_id": 2,
+    "link": "https://www.youtube.com/watch?v=89q_8I_Lp20",
+    "cat_id": 15,
+    "subcat_id": 156
+  },
+  {
+    "id": 26,
+    "name": "How to destroy a taweez, an amulet? | Tim humble ruqyah q&a",
+    "author": "Muhammad Tim Humble",
+    "link_id": 1,
+    "link": "https://youtube.com/watch?v=PnO99VhrAtk&feature=share",
+    "cat_id": 15,
+    "subcat_id": 157
+  },
+  {
+    "id": 27,
+    "name": "The dark side - jinn - magic - ruqya | abu ibraheem husnayn",
+    "author": "Abu Ibraheem Husnayn",
+    "link_id": 1,
+    "link": "https://youtube.com/watch?v=nu_VJju300Q&feature=share",
+    "cat_id": 15,
+    "subcat_id": 158
+  },
+  {
+    "id": 28,
+    "name": "Exposing fake healers vs. Real quran ruqyah | thedeenshow #653",
+    "author": "Sheik Abu Mujahid",
+    "link_id": 2,
+    "link": "https://www.youtube.com/watch?v=fRSJUHWwdWk",
+    "cat_id": 15,
+    "subcat_id": 158
+  },
+  {
+    "id": 29,
+    "name": "Waswasah - causes and solutions | muhammad tim | fnr",
+    "author": "Muhammad Tim Humble",
+    "link_id": 1,
+    "link": "https://youtube.com/watch?v=TYtNezQU61w&feature=share",
+    "cat_id": 15,
+    "subcat_id": 159
+  },
+  {
+    "id": 30,
+    "name": "Q & a ruqyah with tim humble",
+    "author": "Muhammad Tim Humble",
+    "link_id": 1,
+    "link": "https://www.youtube.com/playlist?list=PL1pJm30QoUz_exd8o8PuFtHR5ez0CMrO7",
+    "cat_id": 15,
+    "subcat_id": 160
+  },
+  {
+    "id": 31,
+    "name": "Treatment audio's",
+    "author": "Shaykh Khalid al-Hibshi",
+    "link_id": 1,
+    "link": "https://youtube.com/playlist?list=PL3et_EvGWeiZ5Ulsq1SiUMdYEfdxNhgyG",
+    "cat_id": 15,
+    "subcat_id": 161
+  },
+  {
+    "id": 32,
+    "name": "Powerful ruqya to burn the jinn - sheikh khalid al-hibshi",
+    "author": "Sheikh Khalid Al-hibshi",
+    "link_id": 2,
+    "link": "https://youtube.com/watch?v=qtLcwALdvpU&feature=share",
+    "cat_id": 15,
+    "subcat_id": 161
+  },
+  {
+    "id": 33,
+    "name": "Ruqyah treatment - evil eye (ayn) and envy (hasad) audio",
+    "author": "Shaykh Khalid al-Hibshi",
+    "link_id": 3,
+    "link": "https://youtube.com/watch?v=j-UkbN-9_eE&feature=share",
+    "cat_id": 15,
+    "subcat_id": 161
+  },
+  {
+    "id": 34,
+    "name": "Ruqya against blockages in wealth rizq",
+    "author": "Sheikh Khalid Al-hibshi",
+    "link_id": 4,
+    "link": "https://youtube.com/watch?v=SYdaI94XKHc&feature=share",
+    "cat_id": 15,
+    "subcat_id": 161
+  },
+  {
+    "id": 35,
+    "name": "Ruqyah to get jinns/shayateen out of the body - evil eye, sihr, possession",
+    "author": "Sheikh Khalid Al-hibshi",
+    "link_id": 5,
+    "link": "https://www.youtube.com/watch?v=B2K1C1k9Rjo",
+    "cat_id": 15,
+    "subcat_id": 161
+  },
+  {
+    "id": 36,
+    "name": "Ruqyah audio cd by sheikh ahmed bin ali al-ajmy",
+    "author": "Sheikh Ahmed Bin Ali Al-ajmy",
+    "link_id": 6,
+    "link": "https://youtube.com/watch?v=1RBg2bDs_qk&feature=share",
+    "cat_id": 15,
+    "subcat_id": 161
+  },
+  {
+    "id": 37,
+    "name": "There is jin on your body? (Ayat ruqyah)",
+    "author": "Muzammil Hasballah",
+    "link_id": 7,
+    "link": "https://youtube.com/watch?v=nEe_4kI65Y4&feature=share",
+    "cat_id": 15,
+    "subcat_id": 161
+  },
+  {
+    "id": 38,
+    "name": "Al ruqyah al shariah full by sheikh saad al-ghamdi",
+    "author": "Sheikh Saad Al-ghamdi",
+    "link_id": 8,
+    "link": "https://youtube.com/watch?v=bOeqgYeai-o&feature=share",
+    "cat_id": 15,
+    "subcat_id": 161
+  },
+  {
+    "id": 39,
+    "name": "Diaries of an exorcist",
+    "author": "Abu Ibraheem Hussnayn",
+    "link_id": 1,
+    "link": "https://www.youtube.com/playlist?list=PLuihjkTS1Xqi3jKlw2SSuZxQYJNGIr_Mc",
+    "cat_id": 15,
+    "subcat_id": 162
+  },
+  {
+    "id": 40,
+    "name": "Diaries of an exorcist - jinns, exorcisms, black magic",
+    "author": "Abu Ibraheem Hussnayn",
+    "link_id": 1,
+    "link": "https://www.youtube.com/playlist?list=PL0l3xlkh7UnsV5C7mj8f-0-Hi3OczkIYS",
+    "cat_id": 15,
+    "subcat_id": 163
+  }
+]

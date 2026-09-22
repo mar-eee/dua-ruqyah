@@ -1,0 +1,144 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_041.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 6,
+  "id_range": "74-79",
+  "source_chars": 5382,
+  "items": [
+    {
+      "key": [
+        74
+      ],
+      "id": 74,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 74,
+        "topic_id": 3,
+        "cat_id": 4,
+        "subcat_id": 68
+      },
+      "source": {
+        "topic_name": "The Second Measure: (Al-Wudhu)",
+        "text": "Sihr does not affect a person in a state of wudhu', for he is protected by an angel sent by the Merciful (Allah SWT) Ibn 'Abbas (RA) reported: \"The Prophet (ﷺ) said, 'Wash these bodies, and Allah (SWT) will wash you. There is not a servant who sleeps in a state of wudhu, but that an angel accompanies him in his clothes, and there is not a moment that he moves in bed, but that the angel says: 'O Allah! Forgive Your Servant, for he has slept in a clean state.\" [Transmitted by At-Tabarani in Al-Awsat According to Al-Mundirs, the chain of transmission is very good (At-Targhb:2/13)]"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        75
+      ],
+      "id": 75,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 75,
+        "topic_id": 4,
+        "cat_id": 4,
+        "subcat_id": 68
+      },
+      "source": {
+        "topic_name": "The Third Measure (Observing congregational salat)",
+        "text": "Observing salat in congregation secures a Muslim person from Satan, and neglecting it makes Satan dominate him. And if Satan dominates a person, he harms him with sihr and other things which he can easily do. Abu Ad-darda' (RA) reported: \"I heard the Prophet (ﷺ) say, 'There are not three people in a town or in the countryside who do not observe congregational salat, but that Satan dominates them Remain with the community, for the wolf seizes the solitary sheep moving away from the flock. [Al-Bukhari: (Fath Al-Bari, 3/34) and Muslim: (An-Nawawi: 6/63)]"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        76
+      ],
+      "id": 76,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 76,
+        "topic_id": 5,
+        "cat_id": 4,
+        "subcat_id": 68
+      },
+      "source": {
+        "topic_name": "The Fourth Measure: Qiyyamu Al-layl (Observing optional salat during the night)",
+        "text": "Whosoever wishes to protect himself against sihr should observe salat during the night Neglecting it allows Satan to dominate a man If he does, then you will make yourself a hotbed for the effect of sihr on you. Ibn Mas'ud (RA) reported: \"When the Prophet (ﷺ) was asked about his opinion of a man who slept until salatul Fajr, without waking up for qiyyamul-layl, he said that Satan urinated in the man's ear.\" [Abu Dawud: 1/150 (a sound chain of transmission)]\n\nSa'id Ibn Mansur (RA) reported : “Ibn 'Umar (RA) said, 'Not a man wakes up in the morning without having observed salatul-witr, but that a rope measuring approximately seventy cubits will be put over his head in the morning.\" [According to Al-Hafiz, a very good chain of transmission (Fath:3/25)]"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        77
+      ],
+      "id": 77,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 77,
+        "topic_id": 6,
+        "cat_id": 4,
+        "subcat_id": 68
+      },
+      "source": {
+        "topic_name": "The Fifth Measure: Isti'da (seeking refuge with Allah (SWT) upon entering the toilet)",
+        "text": "A Muslim should seek refuge with Allah upon entering the toilet, because Satan takes advantage of the Muslim's presence in the toilet in order to harm him in this filthy place which is the home of Satanic Jinn. One day, a Jinn informed me that he entered and possessed a person. Because he did not seek refuge in Allah upon entering the toilet However, Allah supported me in driving him out of that person.\n\nFurthermore, one Jinn told me that Allah has given us a strong weapon to conquer them, but we do not use it I asked him what was it, and he said, \"the invocations laid down by the Prophet (ﷺ).\n\nIt is confirmed that the Prophet (ﷺ) used to say the following invocation upon entering the toilet: \n\n<ar> بِسْمِ اللهِ] اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُْثِ وَالْخَبَائِثِ] </ar>\n\n<i><b>Transliteration:</b> [Bismillahi] Allahumma 'inni a'udhu bika minal-khubthi wal-khaba’ith.</i>\n\n<b>Translation:</b> [In the Name of Allah]. (Then) O Allah , I seek protection in You from the male and female unclean spirits. (Bukhari 1/45, Muslim 2/1/283)\n\nThe addition of Bismillah at its beginning was reported by Said bin Mansur. (See Fathul-Bari 1/244)"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        78
+      ],
+      "id": 78,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 78,
+        "topic_id": 7,
+        "cat_id": 4,
+        "subcat_id": 68
+      },
+      "source": {
+        "topic_name": "The Sixth Measure: (seeking refuge with Allah [SWT] upon starting salat)",
+        "text": "Jubayr Ibn Mut'im (RA) reported: \"I saw the Prophet (ﷺ) A say, \n\n<ar> اللهُ أَكْبَـرُ كَبـيرا ،</ar>\n<ar>اللهُ أَكْبَـرُ كَبـيرا ،</ar>\n<ar>اللهُ أَكْبَـرُ كَبـيرا ،</ar>\n<ar>وَالْحَـمْدُ للهِ كَثـيرا ،</ar>\n<ar>وَالْحَـمْدُ للهِ كَثـيرا ،</ar>\n<ar>وَالْحَـمْدُ للهِ كَثـيرا ،</ar>\n<ar>وَسُبْـحانَ اللهِ بكْـرَةً وَأَصيـلا .( ثَلاثاً )</ar>\n<ar>أَعـوذُ بِاللهِ مِنَ الشَّـيْطانِ</ar>\n<ar>مِنْ نَفْخِـهِ وَنَفْـثِهِ وَهَمْـزِه </ar>\n\n<i><b>Transliteration:</b> Allahu 'Akbar Kabira, Allahu 'Akbar Kabira, Allahu 'Akbar Kabira, walhamdu lillahi kathira, walhamdu lillahi kathira, walhamdu lillahi kathira, wa Subhanallahi bukratan wa'asila. 'A `udhu billahi min ash-shaytan: min nafkhihi, wa nafthihi, wa hamzihi.</i>\n\n<b>Translation:</b> Allah is the Greatest, Most Great. Allah is the Greatest, Most Great. Allah is the Greatest, Most Great. Praise is to Allah, abundantly. Praise is to Allah, abundantly. Praise is to Allah, abundantly. Glory is to Allah, at the break of day and at its end. I seek refuge in Allah from Satan. From his breath, and from his voice, and from his whisper. [Abu Dawud 1/203, Ibn Majah 1/265, ai Ahmad 4/8<b>5.</b> Muslim recorded a similar Hadil 1/420]"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        79
+      ],
+      "id": 79,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 79,
+        "topic_id": 8,
+        "cat_id": 4,
+        "subcat_id": 68
+      },
+      "source": {
+        "topic_name": "The Seventh Measure: (protecting one's new wife against sihr at the time of marriage)",
+        "text": "<b>Soon after concluding the marriage contract, put your right hand upon her forehead and say:</b>\n\n\n<ar> َاَللّهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ خَيْرِهَا وَ خَيْرِ مَا جَبَلْتَهَا عَلَيْه وَ أَعُوْذُبِكَ مِنْ شَرِّهَا وَ شَرِّ مَا جَبَلْتَهَا عَلَيْه </ar>\n\n<i><b>Transliteration:</b> Allahumma inni as’aluka khairaha wa khaira ma jabaltaha `alaih wa a`oozubika min sharriha wa sharri ma jabaltaha `alaih.</i>\n\n<b>Translation:</b> O Allah! I ask you for any good that may come from her and any good that you have created in her natural disposition, and seek refuge with you from any evil that may come from her, and any evil that you have created in her natural disposition. [Abu Dawud; according to Al-Albani, a sound chain of transmission (151)]"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    }
+  ]
+}

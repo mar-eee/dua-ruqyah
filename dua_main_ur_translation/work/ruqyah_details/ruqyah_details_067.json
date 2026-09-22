@@ -1,0 +1,97 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_067.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "129-130",
+  "source_chars": 5841,
+  "items": [
+    {
+      "key": [
+        129
+      ],
+      "id": 129,
+      "part": 2,
+      "of": 4,
+      "frozen": {
+        "id": 129,
+        "topic_id": 2,
+        "cat_id": 7,
+        "subcat_id": 107
+      },
+      "source": {
+        "text": "shaykh Abu Muhammad Ibn Abi Jamrah Said: Some People Commented On This Hadith And Made Its General Statements Specific, Referring It To The Views Of People Who Have Medical Experience, But The One Who Says That Is Obviously Mistaken, Because If We Believe The Physicians – Whose Knowledge Is Based On Experience, The Foundation Of Which Is What Is Most Likely To Be Right – Then To Believe The One Who Does Not Speak On The Basis Of His Whims And Desires [i.e., The Prophet (ﷺ)] Is More Appropriate [than Believing The Doctors]. end Quote From Al-fath (10/145). \n\nal-karmaani Said: it May Be That The General Meaning Is The Intended Meaning, That It May Bring Healing For All Diseases, But That Is On Condition That It Is Put Together With Other Ingredients, And There Should Be No Haraam Component. Rather The General Meaning Of The Text Must Be What Is Intended, Because The Fact That An Exception Is Mentioned Indicates That It Is General In Application. The Prophet (ﷺ) Said It Intending That General Meaning; The Evidence For That Is The Fact That He Made An Exception. Therefore We Must Accept That It Is General In Meaning. End Quote. ‘umdat Al-qaari (31/301)\n\nthe Fact That The General Meaning Is What Was Intended Is Obvious, Because The Wording Indicates That. It Is Also Indicated By The Exception In The Phrase “except As-saam (death).” If The General Meaning Had Not Been Intended, There Would Have Been No Need To Mention The Exception. The Fact That An Exception Is Made For Death Indicates That For All Other Diseases, Black Seed May Be Useful As A Remedy, But That Is Dependent Upon There Being No Impediment And Upon The Conditions Being Met."
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        129
+      ],
+      "id": 129,
+      "part": 3,
+      "of": 4,
+      "frozen": {
+        "id": 129,
+        "topic_id": 2,
+        "cat_id": 7,
+        "subcat_id": 107
+      },
+      "source": {
+        "text": "shaykh Al-islam Ibn Taymiyah (may Allah Have Mercy On Him) Said: just Taking Appropriate Means And Measures Does Not Necessarily Lead To The Expected Results. If Rain Falls And Seeds Sprout, That Is Not Sufficient For Vegetation To Grow; Rather It Is Also Essential That There Be Fecundating Winds, By Allah’s Leave, And It Is Essential That There Be An Absence Of Impediments. It Is Essential For All Conditions To Be Met And All Impediments To Be Absent, And All Of That Happens By The Will And Decree Of Allah.\n\na Child Is Not Born As The Result Of Merely Depositing Semen In The Vagina. How Often That Happens, But No Child Is Born. Indeed It Is Essential That Allah Should Will To Create The Child, Then The Woman Conceives, Then The Embryo Begins To Grow In The Uterus, And All Other Conditions That Are Needed, And The Impediments That Must Be Absent, For The Creation Of A Child. End Quote. majmoo‘ Al-fataawa (8/70) \n\nshaykh Ibn Baaz (may Allah Have Mercy On Him) Said: many People Do Not Benefit From The Means And Measures, Or From Ruqyah Done By Reciting Qur’an Or Other Words, Because The Conditions Are Not Met And The Impediments Are Not Absent. If Every Sick Person Could Be Healed By Means Of Ruqyah Or Medical Treatment, No One Would Die. But It Is Allah, May He Be Glorified, In Whose Hand Is Control Of Healing. If He Wills That, He Makes The Means Thereof Easily Available, And If He Does Not Will That, The Means Will Be To No Avail. End Quote. majmoo‘ Fataawa Ibn Baaz (8/61)\n\nal-haafiz Ibn Hajar (may Allah Have Mercy On Him) Stated That The Way To Treat Disease Using The Black Seed Varies From One Disease To Another, And He Said: what Is Meant By This Seed Being A Healing For Every Disease Is That It Should Not Be Used On Its Own; Rather It May Be Used On Its Own Or With Other Ingredients. It May Be Used Ground Up Or Otherwise, And It May Be Eaten, Drunk, Used Like Snuff, Applied As A Poultice, And In Other Ways. end Quote From Al-fath (10/144). "
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        129
+      ],
+      "id": 129,
+      "part": 4,
+      "of": 4,
+      "frozen": {
+        "id": 129,
+        "topic_id": 2,
+        "cat_id": 7,
+        "subcat_id": 107
+      },
+      "source": {
+        "text": "the Ways In Which It Is Used Vary According To What People Of Experience And Knowledge Suggest, Or What Modern Medical Research Suggests, Based On Experience And On The Properties Of The Black Seed And Its Effect On Disease. \n\nal-bukhaari (5687) Narrated That Khaalid Ibn Sa‘d Said: We Went Out, And Ghaalib Ibn Abjar Was With Us, And He Fell Sick. When We Came To Madinah He Was Still Sick. Ibn Abi ‘ateeq Visited Him And Said To Us: You Should Use This Little Black Seed: Take Five Or Seven Of Them And Grind Them, Then Mix It With Olive Oil And Put Drops In His Nose, On This Side, And On This Side, For ‘aa’ishah Told Me That She Heard The Prophet (ﷺ) Say: “this Black Seed Is A Healing For Every Disease Except As-saam.” I Said: What Is As-saam? He Said: Death. \n\nbased On That, There Is Nothing Wrong With Stipulating That The Black Seed Should Be Taken In A Particular Manner, According To The Type Of Sickness, On Condition That This Method Is Proven To Be Beneficial, Either From Experience Or On The Basis Of Scientific Research.\n\nas For Stipulating That Soorat Al-ikhlaas Should Be Recited Three Times, Or That A Particular Du‘aa’ (supplication) Should Be Recited, There Is No Basis For Such Stipulations."
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        130
+      ],
+      "id": 130,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 130,
+        "topic_id": null,
+        "cat_id": 7,
+        "subcat_id": 108
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Honey is a Hebrew word, and it means ‘enchant’. Honey is the only food source for humans that is produced by an insect. One honeybee has to fly about 90,000 miles (or three times around the world) to make one pound of honey. Honey is made of 80% sugar and 20% water. And 1 tablespoon contains 64 calories.\n\nAllāh Glory be to Him said about honey:\n\n\n<ar> فِيهِ شِفَآءٌ لِّلنَّاسِ </ar>\n\nin which there is healing for people – [16:69]\n\nIbn al-Qayyim may Allah have mercy on him said regarding this ayah:\n\nThe words “healing from every disease” are like the verse in which Allah, may He be exalted, says (interpretation of the meaning): “Destroying everything by the Command of its Lord” [al-Ahqaaf 46:25]. That is, it (the storm or wind referred to in the previous verse) destroyed everything that could be destroyed, and the like. – Zaad al-Ma’ad.\n\nPlease note that use of honey is subject to the medical condition of the patient. If a patient is diabetic you should avoid use of honey."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

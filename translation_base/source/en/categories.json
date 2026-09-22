@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "name": "Dua's Importance",
+    "icon": "duar_gurutto",
+    "dua_count": 21,
+    "subcat_count": 7
+  },
+  {
+    "id": 2,
+    "name": "Dua's Excellence",
+    "icon": "zikirer_fozilot",
+    "dua_count": 13,
+    "subcat_count": 1
+  },
+  {
+    "id": 3,
+    "name": "Time of Dua",
+    "icon": "dua_kobuler_somoy",
+    "dua_count": 29,
+    "subcat_count": 1
+  },
+  {
+    "id": 4,
+    "name": "Dua Acceptance",
+    "icon": "jader_dua_kobul_hoy",
+    "dua_count": 14,
+    "subcat_count": 1
+  },
+  {
+    "id": 5,
+    "name": "Morning & Evening",
+    "icon": "sokal_sondha",
+    "dua_count": 45,
+    "subcat_count": 3
+  },
+  {
+    "id": 6,
+    "name": "Sleep",
+    "icon": "ghum",
+    "dua_count": 31,
+    "subcat_count": 2
+  },
+  {
+    "id": 7,
+    "name": "Cloths",
+    "icon": "poshak",
+    "dua_count": 8,
+    "subcat_count": 1
+  },
+  {
+    "id": 8,
+    "name": "Home",
+    "icon": "bari",
+    "dua_count": 6,
+    "subcat_count": 2
+  },
+  {
+    "id": 9,
+    "name": "Toilet",
+    "icon": "toilet",
+    "dua_count": 2,
+    "subcat_count": 1
+  },
+  {
+    "id": 10,
+    "name": "Adhaan & Iqamah",
+    "icon": "azan_ikamot",
+    "dua_count": 7,
+    "subcat_count": 4
+  },
+  {
+    "id": 11,
+    "name": "Ablution & Bath",
+    "icon": "oju",
+    "dua_count": 4,
+    "subcat_count": 2
+  },
+  {
+    "id": 12,
+    "name": "Mosque",
+    "icon": "masjid",
+    "dua_count": 13,
+    "subcat_count": 5
+  },
+  {
+    "id": 13,
+    "name": "Salah",
+    "icon": "salat",
+    "dua_count": 96,
+    "subcat_count": 17
+  },
+  {
+    "id": 14,
+    "name": "Witr & Other",
+    "icon": "bitorer_namaz",
+    "dua_count": 14,
+    "subcat_count": 6
+  },
+  {
+    "id": 15,
+    "name": "Grave / Funeral",
+    "icon": "mrito_janaja",
+    "dua_count": 25,
+    "subcat_count": 5
+  },
+  {
+    "id": 16,
+    "name": "Fasting",
+    "icon": "siam_iftar",
+    "dua_count": 8,
+    "subcat_count": 1
+  },
+  {
+    "id": 17,
+    "name": "Travel",
+    "icon": "sofor",
+    "dua_count": 19,
+    "subcat_count": 1
+  },
+  {
+    "id": 18,
+    "name": "Hajj & Umrah",
+    "icon": "hajj_omra",
+    "dua_count": 22,
+    "subcat_count": 1
+  },
+  {
+    "id": 19,
+    "name": "Sacrifice",
+    "icon": "korbani",
+    "dua_count": 5,
+    "subcat_count": 1
+  },
+  {
+    "id": 20,
+    "name": "Evil Protection",
+    "icon": "shoytaner_onisto",
+    "dua_count": 26,
+    "subcat_count": 6
+  },
+  {
+    "id": 21,
+    "name": "Forgiveness",
+    "icon": "towba_istegfar",
+    "dua_count": 46,
+    "subcat_count": 4
+  },
+  {
+    "id": 22,
+    "name": "Marriage",
+    "icon": "bibaho",
+    "dua_count": 8,
+    "subcat_count": 3
+  },
+  {
+    "id": 23,
+    "name": "Family",
+    "icon": "paribarik_dua",
+    "dua_count": 15,
+    "subcat_count": 1
+  },
+  {
+    "id": 24,
+    "name": "Debt",
+    "icon": "rin",
+    "dua_count": 11,
+    "subcat_count": 1
+  },
+  {
+    "id": 25,
+    "name": "Anxiety",
+    "icon": "duschinta",
+    "dua_count": 11,
+    "subcat_count": 1
+  },
+  {
+    "id": 26,
+    "name": "Danger",
+    "icon": "shotruta_julum",
+    "dua_count": 27,
+    "subcat_count": 4
+  },
+  {
+    "id": 27,
+    "name": "Condemnation/Praise",
+    "icon": "ninda_kollan_kamonay",
+    "dua_count": 11,
+    "subcat_count": 2
+  },
+  {
+    "id": 28,
+    "name": "Manners",
+    "icon": "adob_akhlak",
+    "dua_count": 32,
+    "subcat_count": 7
+  },
+  {
+    "id": 29,
+    "name": "Gathering",
+    "icon": "boithoke_bosle",
+    "dua_count": 5,
+    "subcat_count": 1
+  },
+  {
+    "id": 30,
+    "name": "Food",
+    "icon": "khaddo_panio",
+    "dua_count": 15,
+    "subcat_count": 6
+  },
+  {
+    "id": 31,
+    "name": "Animals",
+    "icon": "poshu_pakhi",
+    "dua_count": 6,
+    "subcat_count": 1
+  },
+  {
+    "id": 32,
+    "name": "Rain/Nature",
+    "icon": "jhor_bristi",
+    "dua_count": 21,
+    "subcat_count": 1
+  },
+  {
+    "id": 33,
+    "name": "Sickness",
+    "icon": "osusthota",
+    "dua_count": 35,
+    "subcat_count": 3
+  },
+  {
+    "id": 34,
+    "name": "Jinn/Diseases",
+    "icon": "jin_jadu",
+    "dua_count": 35,
+    "subcat_count": 2
+  },
+  {
+    "id": 35,
+    "name": "Quranic Dua",
+    "icon": "quraner_dua",
+    "dua_count": 84,
+    "subcat_count": 4
+  },
+  {
+    "id": 36,
+    "name": "Greatest Name of Allah",
+    "icon": "isme_ajom",
+    "dua_count": 7,
+    "subcat_count": 1
+  },
+  {
+    "id": 37,
+    "name": "Prophet's Dua",
+    "icon": "nobi_rasuler_dua",
+    "dua_count": 11,
+    "subcat_count": 1
+  },
+  {
+    "id": 38,
+    "name": "Duas of Hadith",
+    "icon": "hadiser_dua",
+    "dua_count": 90,
+    "subcat_count": 1
+  },
+  {
+    "id": 39,
+    "name": "Duas of Sahaba",
+    "icon": "sahabider_dua",
+    "dua_count": 18,
+    "subcat_count": 1
+  },
+  {
+    "id": 40,
+    "name": "Masnun Duas",
+    "icon": "borkotmoy_masnun_dua",
+    "dua_count": 15,
+    "subcat_count": 1
+  },
+  {
+    "id": 41,
+    "name": "Other Duas",
+    "icon": "bibidho",
+    "dua_count": 24,
+    "subcat_count": 1
+  },
+  {
+    "id": 42,
+    "name": "When to say what",
+    "icon": "kokhon_ki_bolte_hoy",
+    "dua_count": 22,
+    "subcat_count": 1
+  },
+  {
+    "id": 43,
+    "name": "Eid",
+    "icon": "dua_kobuler_somoy",
+    "dua_count": 4,
+    "subcat_count": 1
+  },
+  {
+    "id": 44,
+    "name": "40 Rabbana Duas",
+    "icon": "rabbana",
+    "dua_count": 40,
+    "subcat_count": 1
+  }
+]

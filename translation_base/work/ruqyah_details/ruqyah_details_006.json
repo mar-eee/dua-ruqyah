@@ -1,0 +1,34 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_006.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 1,
+  "id_range": "11-11",
+  "source_chars": 4713,
+  "items": [
+    {
+      "key": [
+        11
+      ],
+      "id": 11,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 11,
+        "topic_id": null,
+        "cat_id": 1,
+        "subcat_id": 11
+      },
+      "source": {
+        "topic_name": null,
+        "text": "There is no doubt that man suffers psychological diseases, such as anxiety about the future and grief for the past. Psychological diseases may have a greater impact on the body than physical diseases. Treating these diseases by means of something prescribed in sharee’ah – i.e., Ruqyah – is more successful than treating them by means of physical medicines, as is well known.\n\nAmong the means of treating them: the saheeh haseeth narrated from Ibn Mas’ood (may Allaah be pleased with him): “There is no believer who is stricken by anxiety, distress or grief, and he says, ‘Allaahumma inni ‘abduka ibnu ‘abdika ibnu amatika, naasiyati bi yadika, maadin fiyya hukmuka, ‘adlun fiyya qadaa’uka, as’aluka bi kulli ismin huwa laka sammayta bihi nafsaka aw ‘allamtahu ahadan min khalqika aw anzaltahu fi kitaabika aw asta’tharta bihi fi ‘ilm il-ghaybi ‘indaka an taj’ala al-Qur’aan al-‘azeem rabee’a qalbi wa noora sadri wa jalaa’a huzni wa dhahaaba hammi wa ghammi (O Allaah, I am Your slave, son of Your slave, son of Your maidservant. My forelock is in Your hand, Your command over me is forever executed and Your decree over me is just. I ask You by every name belonging to You which You have named Yourself with, or taught to any of Your creation, or revealed in Your Book, or You have preserved in the knowledge of the Unseen with You, that You make the Holy Qur’aan the life of my heart and the light of my breast, and a departure for my sorrow and a release for my anxiety and distress)’, but Allaah will relieve him.” This is one of the medicines prescribed in sharee’ah.\n\n<b>Similarly, one may say,</b>\n\n\n<ar> لَّا إِلَـٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ </ar>\n\n<b>Translation:</b> none has the right to be worshipped but You (O Allaah), Glorified (and Exalted) be You [above all that (evil) they associate with You]! Truly, I have been of the wrongdoers. [cf. al-Anbiyaa’ 21:87]\n\nIf you want to know more, please refer to the writings of the scholars on the topic of adhkaar (dhikr, remembering Allaah), such as al-Waabil al-Sayyib by Ibn al-Qayyim, al-Kalim al-Tayyib by Shaykh al-Islam Ibn Taymiyyah, al-Adhkaar by al-Nawawi, and Zaad al-Ma’aad, by Ibn al-Qayyim.\n\nBut when faith grows weak, the soul’s acceptance of remedies prescribed in sharee’ah also grows weak. People nowadays have begun to rely on physical medicines more than on the spiritual remedies prescribed in Islam. But when faith is strong, the spiritual remedies prescribed in Islam have a more complete effect; their effect may be faster than that of physical medicines. We are all aware of the story of the man whom the Messenger SAWS (ﷺ) sent on a campaign. He camped near some Arabs, but those people near whom he camped did not show him any hospitality. Allaah willed that their chief should be stung by a snake, and they said to one another, “Go to those people who are camped (near us), maybe you will find a raaqi (one who recites Ruqyah, i.e., incantations or prayers for healing) with them.” The Sahaabah said to them, “We will not recite Ruqyah for your chief until you give us such and such number of sheep.” They said, “We agree.” Then one of the Sahaabah went and recited over the one who had been stung; he recited Soorat al-Faatihah only, then that person who had been stung got up as if he was released from a chain. \n\nThis recitation of al-Faatihah had such an effect in this man because it came from a heart that was filled with faith. When they came back, the Prophet SAWS (ﷺ) said, “How did you know that it is a Ruqyah ?”\n\nBut in our own times there is this weakness of religious commitment and faith, and people have started to rely on outward physical matters, and this is causing them further suffering.\n\nOn the other hand there are those who cheat people and deceive them, claiming to be pious reciters of Qur’aan, but they consume people’s wealth unlawfully. People are of two extremes, one which thinks that recitation of Qur’aan has no effect at all, and the other extreme composed of cheaters who deceive people by reciting devious recitations, and some are moderate. [Shaykh Ibn ‘Uthaymeen, Fataawa Islamiyyah, 4/465, 466 ]\n\nBut as there is no contradiction between using permissible physical medicines as prescribed by doctors and using spiritual medicines such as Ruqyah and seeking refuge with Allaah and other du’aa’s that are proven in sound reports, the two may be combined, as the Prophet SAWS (ﷺ) did. It was proven that he used both kinds of treatment, and he said, “Strive to pursue that which will benefit you and seek refuge with Allaah, and do not feel helpless.” And he said: “Seek treatment, O slaves of Allaah, but do not seek treatment with things which are haraam.”"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

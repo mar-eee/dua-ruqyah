@@ -1,0 +1,78 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_090.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 3,
+  "id_range": "179-181",
+  "source_chars": 5376,
+  "items": [
+    {
+      "key": [
+        179
+      ],
+      "id": 179,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 179,
+        "topic_id": 4,
+        "cat_id": 14,
+        "subcat_id": 146
+      },
+      "source": {
+        "topic_name": "Anticoagulant drugs",
+        "text": "If a patient is on medication, the Hajjaam must determine whether it is safe to continue with Hijamah and that the medication will not cause excessive and potentially uncontrollable bleeding or other adverse effects.\n\nAmongst these medications the most dangerous are anticoagulant medicines. Anticoagulants are medicines that prevent the blood from clotting as quickly or as effectively as normal. Some people call anticoagulants blood thinners. However, the blood is not actually made any thinner - it just does not clot so easily whilst you take an anticoagulant.\n\nAnticoagulants are commonly used to treat and prevent blood clots that may occur in your blood vessels. Blood clots can block an artery or a vein. A blocked artery stops blood and oxygen from getting to a part of your body (for example, to a part of the heart, brain or lungs). The tissue supplied by a blocked artery becomes damaged, or dies, and this results in serious problems such as a stroke or heart attack. A blood clot in a large vein, such as a deep vein thrombosis (a clot in the leg vein), can lead to serious problems such as a pulmonary embolism (a clot that travels from the leg vein to the lungs).\n\nPatients on anticoagulant medication may exhibit excessive blood loss after Hijamah which in some cases can be fatal. The most common anticoagulants include warfarin and heparin, however these may go by different brand names and for this reason a Hajjaam should be familiar with basic pharmacology and be able to recognize anticoagulant use in prospective Hijamah patients. If you are using anticoagulants you should consult with your doctor before having Hijamah done.\n\nIf you are not sure whether you are using anticoagulant medication you can check your medication against this list of common names for anticoagulant medication, the list is not exhaustive and ideally your Hajjaam should have the knowledge and training to identify if you are using an anticoagulant or not:\n\n<b>Warfarin</b> - Coumadin, Jantoven, Marevan, Lawarin, Waran, Warfant\n\n<b>Dabigatran</b> - Pradaxa\n\n<b>Acenocoumarol</b> - G 23350, Nicoumalone, Nicumalon\n\n<b>Phenindione</b> - Dindevan, Fenindion, Phenylin-Zdorovye, Soluthrombine\n\n<b>Rivaroxaban</b> - Xarelto\n\nNote: Aspirin also has an effect of preventing clots by preventing platelets sticking together. However, it is classed as an antiplatelet agent rather than an anticoagulant."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        180
+      ],
+      "id": 180,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 180,
+        "topic_id": 5,
+        "cat_id": 14,
+        "subcat_id": 146
+      },
+      "source": {
+        "topic_name": "Anemia",
+        "text": "Anemia is a common condition in which the blood lacks adequate healthy red blood cells. Red blood cells carry oxygen to the body's tissues. Iron deficiency anemia is due to insufficient iron. Without enough iron, the body cannot produce enough hemoglobin, a substance in red blood cells that enables them to carry oxygen. As a result, iron deficiency anemia may leave an individual tired and short of breath.\n\nA number of recent studies are showing a link between excessive and unnecessary bloodletting and iron deficiency anemia, some even as severe as resulting in cardiomyopathy which is only seen in chronic severe iron deficiency anaemia.\n\nFor this reason care should be taken not to cause this type of anemia through Hijamah. This will most often occur when women who are menstruating normally receive Hijamah without a serious reason, or when Hijamah is practiced too often and/or too much blood is removed.\n\nFor the healthy person not living in a very hot climate, to have Hijamah once a year in the hot season is sufficient, provided the person exhibits signs of a healthy constitution and does not already suffer from anemia. If so, then it should be administered in a \"low dose\" only once every few years so as to encourage haematopoiesis. (For a women who is menstruating general Hijamah is not needed except where the woman is suffering from an abundance of blood as sometimes happens in the arab regions.)"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        181
+      ],
+      "id": 181,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 181,
+        "topic_id": 6,
+        "cat_id": 14,
+        "subcat_id": 146
+      },
+      "source": {
+        "topic_name": "Pregnancy",
+        "text": "During pregnancy there is a tremendous demand by the baby for nourishment which is provided by means of the mothers blood. For this reason the woman's appetite grows tremendously due to the increased production of blood in her body. This is the system that Allaah has created to provide for the child in the womb of the mother. The heat of the body is also concentrated internally during the pregnancy period which leaves the outer parts relatively cold and lacking in blood. The normal menstrual cycle also ceases, which in traditional medicine is seen as a sign that there is no need for the woman to lose blood in this period. As a result, if Hijamah is applied in such a stage then great harm is done to the body and to the developing baby, this can easily result in miscarriage.\n\nIt is shocking to me when I hear that women who are pregnant are having Hijamah done, and on more than one occasion I have come to know that this has resulted in miscarriage. The irresponsible Hajjaam then hides behind the claim of \"taqdeer\" when in fact this is medical malpractice and they will be held responsible in the court of Allaah for not adhering to basic medical guidelines in respect of care during pregnancy.\n\nPregnancy is a clear contraindication for Hijamah, it should not be done or even considered during pregnancy and should a Hajjaam either due to ignorance or pursuit of money cause a miscarriage then the Hajjaam is to blame and in my opinion should be charged with a crime by the legal system prevailing in that country."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    }
+  ]
+}

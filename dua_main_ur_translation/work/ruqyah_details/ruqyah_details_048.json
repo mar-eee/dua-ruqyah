@@ -1,0 +1,34 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_048.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 1,
+  "id_range": "99-99",
+  "source_chars": 2861,
+  "items": [
+    {
+      "key": [
+        99
+      ],
+      "id": 99,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 99,
+        "topic_id": null,
+        "cat_id": 5,
+        "subcat_id": 80
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>Evidence from The Qur'an on the Effect of Al-Ayn</b>\n\nAllah says: \n\n<ar> وَقَالَ يَا بَنِيَّ لَا تَدْخُلُوا مِن بَابٍ وَاحِدٍ وَادْخُلُوا مِنْ أَبْوَابٍ مُّتَفَرِّقَةٍ ۖ وَمَا أُغْنِي عَنكُم مِّنَ اللَّـهِ مِن شَيْءٍ ۖ إِنِ الْحُكْمُ إِلَّا لِلَّـهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ ﴿٦٧﴾ وَلَمَّا دَخَلُوا مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِي عَنْهُم مِّنَ اللَّـهِ مِن شَيْءٍ إِلَّا حَاجَةً فِي نَفْسِ يَعْقُوبَ قَضَاهَا ۚ وَإِنَّهُ لَذُو عِلْمٍ لِّمَا عَلَّمْنَاهُ وَلَـٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ ﴿٦٨﴾ </ar>\n\n<b>Translation:</b> He also said, 'O my sons, enter not by one door; enter by separate doors. Yet I cannot avail you anything against Allah; judgement belongs not to any but Allah. On Him have I relied, and on Him should reliant persons rely. And when they entered after the manner their father commanded them, it availed them nothing against Allah; but it was a need in Jacob's soul that he so satisfied Verily, he was possessed of a knowledge for that we had taught him; but most men know not.(12:67-68)\n\nAccording to Al-Hafidh Ibn Kathir (R), in this verse Allah informs the reader that when Allah's Messenger Jacob (As) sent Benjamin with his brothers went to Egypt, he advised them not to enter from one door, but to enter from different doors. This is because Jacob's (AS) sons, as the exegetes Ibn 'Abbás (RA), Muhammad Ibn Ka'b (R) , Mujahid (R), Adh-dhahak (R), Qaada and As-suday have held were so handsome that he feared for them from being afflicted with the evil eye. The evil eye is a reality and could bring a knight down from his horse.\n\nJacob's statement, (Yet I cannot avail you anything against Allah) means that such precaution will not stand against Allah's Qadha' (preordainment) and Qadar (destiny), for if Allah has decided something, nothing can overturn it.\n\nAccording to Ibn Kathir (R), (And when they entered after the manner their father commanded them, it availed them nothing against Allah; but it was a need in Jacob's soul that he so satisfied) is a means of soul that he sensatisfieds inga mean warding off the evil eye. [Tafsir Ibn Kathir: 2/485]\n\nAllah says: \n\n<ar> وَإِن يَكَادُ الَّذِينَ كَفَرُوا لَيُزْلِقُونَكَ بِأَبْصَارِهِمْ لَمَّا سَمِعُوا الذِّكْرَ وَيَقُولُونَ إِنَّهُ لَمَجْنُونٌ ﴿٥١﴾ </ar>\n\n<b>Translation:</b> The unbelievers well-nigh strike thee down with their glances, when they hear the Reminder, and they say, 'Surely he is a man possessed. (68:51) \n\nAccording to Ibn 'Abbas (RA) Mujahid (RA) and other exegetes, this is a reference to the evil eye of unbelievers which is indicative of their jealousy of Allah's Messenger (ﷺ) because they hated him. Were it not for Allah's protection, their evil eyes would have affected him. This is further evidence that the evil eye and its effects are a reality. [Tafsir Ibn Kathir: 4/410]"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

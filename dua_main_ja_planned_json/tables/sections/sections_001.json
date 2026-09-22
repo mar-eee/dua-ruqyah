@@ -2,106 +2,106 @@
   {
     "id": 1,
     "book_id": 1,
-    "name": "Introduction"
+    "name": "はじめに"
   },
   {
     "id": 2,
     "book_id": 1,
-    "name": "Supplication"
+    "name": "ドゥアーとは"
   },
   {
     "id": 3,
     "book_id": 1,
-    "name": "The Meanings Of The Word Du'a"
+    "name": "「ドゥアー」という言葉の意味"
   },
   {
     "id": 4,
     "book_id": 1,
-    "name": "Supplication And Fate"
+    "name": "ドゥアーと運命"
   },
   {
     "id": 5,
     "book_id": 1,
-    "name": "How To Supplicate"
+    "name": "ドゥアーの方法"
   },
   {
     "id": 6,
     "book_id": 1,
-    "name": "Conditions Of Supplication"
+    "name": "ドゥアーが受け入れられる条件"
   },
   {
     "id": 7,
     "book_id": 1,
-    "name": "Manners Of Du'a"
+    "name": "ドゥアーの礼儀"
   },
   {
     "id": 8,
     "book_id": 1,
-    "name": "Optimum Times For Du'a"
+    "name": "ドゥアーに適した時"
   },
   {
     "id": 9,
     "book_id": 1,
-    "name": "Recommended Supplications In Various Situations"
+    "name": "場面ごとのおすすめドゥアー"
   },
   {
     "id": 1,
     "book_id": 2,
-    "name": "Introduction"
+    "name": "はじめに"
   },
   {
     "id": 2,
     "book_id": 2,
-    "name": "By Blowing into your Cupped Hands and Reciting"
+    "name": "両手に息を吹きかけて読む方法"
   },
   {
     "id": 3,
     "book_id": 2,
-    "name": "Spitting or Blowing on the Place where you Feel the pain"
+    "name": "痛む場所に唾または息を軽く吹きかける方法"
   },
   {
     "id": 4,
     "book_id": 2,
-    "name": "Recite Qur'an over some Water and Blow into it, then Drink it and Bathe from it"
+    "name": "水にクルアーンを読み、息を吹きかけて飲み、浴びる方法"
   },
   {
     "id": 5,
     "book_id": 2,
-    "name": "Recite over some Olive Oil, Blow on it—then Rub or Massage it onto your Skin"
+    "name": "オリーブオイルに読み、息を吹きかけて肌に塗る方法"
   },
   {
     "id": 6,
     "book_id": 2,
-    "name": "Place a Hand on the Place of Pain and make Du'a"
+    "name": "痛む場所に手を置いてドゥアーする方法"
   },
   {
     "id": 7,
     "book_id": 2,
-    "name": "Supplicating whilst Performing Ruqyah on Yourself"
+    "name": "自分にルキヤを行いながらドゥアーする"
   },
   {
     "id": 8,
     "book_id": 2,
-    "name": "Mixing some Earth with Saliva and Wipe the Afflicted"
+    "name": "土と唾を少し混ぜて患部を拭う方法"
   },
   {
     "id": 9,
     "book_id": 2,
-    "name": "It is Permissible to Blow when making Ruqyah Before Reciting, whilst Reciting or after Reciting"
+    "name": "ルキヤで読む前・読んでいる間・読んだ後に息を吹きかけてもよい"
   },
   {
     "id": 10,
     "book_id": 2,
-    "name": "Ruqyah can be done Without Spitting or Blowing"
+    "name": "唾や息を吹きかけなくてもルキヤはできる"
   },
   {
     "id": 11,
     "book_id": 2,
-    "name": "Giving in Sadaqah, and Helping the Needy and Poor Muslims"
+    "name": "サダカを行い、困っているムスリムを助ける"
   },
   {
     "id": 12,
     "book_id": 2,
-    "name": "Prophetic and Natural Remedies"
+    "name": "預言者の教えに基づく自然な治療法"
   }
 ]

@@ -2,91 +2,91 @@
   {
     "id": 1,
     "type": "RUQYAH",
-    "name": "Introduction to Ruqyah",
+    "name": "ルキヤについて知る",
     "icon": "abt_ruqya"
   },
   {
     "id": 2,
     "type": "INSTANT",
-    "name": "Instant Ruqyah",
+    "name": "すぐに行えるルキヤ",
     "icon": "do_ruqya"
   },
   {
     "id": 3,
     "type": "RUQYAH",
-    "name": "Protect Yourself From Jinn",
+    "name": "ジンから身を守る",
     "icon": "jin"
   },
   {
     "id": 4,
     "type": "RUQYAH",
-    "name": "Black Magic (Sihr)",
+    "name": "魔術（シフル）へのルキヤ",
     "icon": "jadu-tona"
   },
   {
     "id": 5,
     "type": "RUQYAH",
-    "name": "Evil Eye & Envy",
+    "name": "邪視と嫉妬からの守り",
     "icon": "bodnozor"
   },
   {
     "id": 6,
     "type": "RUQYAH",
-    "name": "About Raqi",
+    "name": "ラーキー（ルキヤを行う人）について",
     "icon": "raqi"
   },
   {
     "id": 7,
     "type": "RUQYAH",
-    "name": "Ruqyah Materials",
+    "name": "ルキヤに使うもの",
     "icon": "upokoron"
   },
   {
     "id": 8,
     "type": "RUQYAH",
-    "name": "7-day detoxification program",
+    "name": "7日間の浄化プログラム",
     "icon": "ditox"
   },
   {
     "id": 9,
     "type": "RUQYAH",
-    "name": "The Ruqyah bath against Sihr",
+    "name": "魔術（シフル）に対するルキヤ入浴",
     "icon": "jadur_ruqya"
   },
   {
     "id": 10,
     "type": "RUQYAH",
-    "name": "Full Ruqyah program",
+    "name": "完全ルキヤ・プログラム",
     "icon": "next_step"
   },
   {
     "id": 11,
     "type": "RUQYAH",
-    "name": "Waswasah - whisperings",
+    "name": "ワスワス（ささやき）への対処",
     "icon": "was-wasa"
   },
   {
     "id": 12,
     "type": "RUQYAH",
-    "name": "Other Diseases",
+    "name": "その他の病気",
     "icon": "sickness_ruqya"
   },
   {
     "id": 13,
     "type": "RUQYAH",
-    "name": "Treatment for general problems",
+    "name": "よくある問題への対処",
     "icon": "next_step"
   },
   {
     "id": 14,
     "type": "RUQYAH",
-    "name": "Types of Hijamah / Bloodletting",
+    "name": "ヒジャーマ（瀉血療法）の種類",
     "icon": "hijama"
   },
   {
     "id": 15,
     "type": "VIDEO",
-    "name": "Ruqya related Video",
+    "name": "ルキヤ関連動画",
     "icon": "video"
   }
 ]

@@ -1,0 +1,34 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_078.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 1,
+  "id_range": "159-159",
+  "source_chars": 3285,
+  "items": [
+    {
+      "key": [
+        159
+      ],
+      "id": 159,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 159,
+        "topic_id": null,
+        "cat_id": 12,
+        "subcat_id": 131
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Night attacks and sexual assaults by Jinn are reported by a number of patients, and undoubtedly this is one of the most distressing things a patient can suffer. Most patients who report it are women.\n\nThese attacks almost always take place during the night while one is in bed, and most often when no one else is in the room. These attacks differ from dreams in the sense that the victim is often awake, as well as the fact that pain and physical effects such as rape are often present the next morning; however, some people experience the same feelings and images as part of a dream, either with or without physical trauma, and the following advice is appropriate for both cases.\n\nRegarding the Islamic faith and what the scholars have said about Jinn, there is no reason to deny that these attacks can take place, both through the medium of dreams and during being awake. This is consistent with what we know about the Jinn, and the reports are numerous and intrinsically trustworthy.\n\nWith regard to preventive measures, there are a number of things that can be done both general and specific. The general measures have already been dealt with in the previous chapters, namely the general protective measures and the 7-day Ruqyah program. The following are recommended as specific measures:\n\nIf one is already strictly adhering to the protective measures, has removed everything from the house which attracts Satans, and recites the recommended Adhkaar, especially those which are said in the morning and in the evening, and those which are said before going to sleep, one can also do the following:\n\n<b>1.</b> The supplication, which refers to the overcoming of an enemy to be said when you are in fear of an attack taking place (such as before sleeping, or when waking up suddenly at night) or during an attack:\n\n<ar>اَللَّهُمَّ إِنَّا نَجْعَلُكَ فِي نُحُورِهِمْ وَنَعُوذُ بِكَ مِنْ شُرُورِهِمْ</ar>\n\n<i><b>Transliteration:</b> Allaahumma 'innaa naj'aluka fee nuhoorihim wa nA'oodhu bika min shuroorihim.</i>\n\n<b>Translation:</b> O Allah, we ask You to restrain them by their necks and we seek refuge in You from their evil. [Abu Dawud 1537; Al-Hakim 2629]\n\n<b>2.</b> Taking a Ruqyah bath before sleeping, as described on page 62 onwards.\n\n<b>3.</b> Rubbing oneself with Ruqyah oil before sleeping. The production of the Ruqyah oil is described on page 57 onwards.\n\n<b>4.</b> Waking up for the night prayer (Tahajjud), for when Satan knows that one is responding to night attacks by doing one of the greatest voluntary forms of worship, then the incentive to attack one becomes considerably less; not to mention the general virtue of praying the night prayer, in terms of acceptance of supplications, and so on.\n\n<b>5.</b> Observing the etiquettes of bad dreams and nightmares, for those who experience attacks as part of a dream. See the chapter \"Sleeping Etiquettes\" in appendix. Try to recite the verse of the throne 11 times before going to sleep.\n\nIt is possible that having someone else in the room at night may help. There is no confirmed evidence, and it does not seem to affect the dreams, but it seems that people who suffer physical attacks while they are awake are mostly people who sleep alone, so it's worth mentioning here, without giving too much importance to it."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

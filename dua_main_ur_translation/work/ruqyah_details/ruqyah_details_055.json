@@ -1,0 +1,57 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_055.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "108-109",
+  "source_chars": 5169,
+  "items": [
+    {
+      "key": [
+        108
+      ],
+      "id": 108,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 108,
+        "topic_id": null,
+        "cat_id": 6,
+        "subcat_id": 89
+      },
+      "source": {
+        "topic_name": null,
+        "text": "The healer should be able to fluently read the Quran. The more he believes in the Quran and practices its teachings, the greater effect his recitation will have on the patient. While reciting the holy Quran, the healer has to focus on the meaning and feel the recitation. This will also make healing more efficient. Recitation needs to be powerful enough to remove sorcery and evil eye; therefore, the level of piousness of the healer needs to be defined. The conclusion reached is that the person must have experienced accepted prayers and obtained divine responses at least from time to time in difficult situations. In fact, being able to resolve serious problems by beseeching Allah and following teachings of Islam indicates a certain level of certitude in Allah and religious practice. It also shows that the person is accepted by Allah and their prayers are effective. The situation in the Ruqyah is similar: the healer appeals to Allah to cure the patient and uses Allah’s words from the Quran. It is obvious that the more faith we have, the more efficient we will be in healing; the level of faith is an important condition for a cure. \n\nThose who had negative experiences with their prayers being accepted should not be prevented from curing. However, if they do not succeed in having their prayers accepted (or do not even try to), I can only advise them to try their best to succeed in it because they do not know what Allah knows. It would be indeed a great pity to discover after death that none of their actions have been accepted. Besides there is never a guarantee that recitation will also be accepted and thus have any effect.\n\nIt is possible to read the Quran fast, but what is more important is to feel each verse and word we read. With practice, the reader is able to concentrate more and more on the meaning of the Quran. While reciting, they understand that verses apply to the harm caused as well as to the jinn or sorcerer. They should remember that they serve as intermediary only ‘transmitting’ Quran to the patient in order to release them from sorcery. Healer needs to understand that it is Allah who addresses the sorcery or the jinn, the healer destroys the harm by uttering Allah’s words, and it is due to Allah’s will that the sorcery can be removed. The reader staying aside means that they concentrate on recitation, so they can feel that Allah is speaking and addressing the evil. Reader stays aside the whole time and does not have the power to influence the evil themselves; they are just a neutral intermediary. Let us imagine Allah’s anger toward transgressing jinns, and how much Allah hates sorcery. Try to hate what Allah hates and be angry for what makes him angry. A believer should have goodness and love but also anger and hatred when Allah demands so; see what Allah says about punishing sorcerers: “Let not compassion move you in their case in a manner prescribed by Allah – if you believe in Allah and the Last Days” 24/2. Let us imagine what Allah would tell them if he was talking to them, these are the words you are reciting to them.\n\nWhile reciting, the healer takes intention to remove the evil from the person, and any other unsuspected sorcery one may have. Also, it is important to make the intention for harm to be returned to the sender if it is sorcery (we know that this technique works, but we do not know if it works every time). This is a remedy against sorcerers added to the supplication of the victim. So, healers should always make this intention while curing people and ask victims to do the same during their treatment. Except in cases when you think the sorcerer will fight back and you prefer to simplify the situation. If all sorcerers’ victims were sending evil back then we would get rid of sorcerers quickly by the grace of Allah, and we would be able to cure and protect ourselves and our homes. It is not necessary to know by heart all verses to be recited, reading them from the Quran would be sufficient. However, it is necessary to be able to read the verses clearly and comfortably."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        109
+      ],
+      "id": 109,
+      "part": 1,
+      "of": 5,
+      "frozen": {
+        "id": 109,
+        "topic_id": null,
+        "cat_id": 6,
+        "subcat_id": 90
+      },
+      "source": {
+        "text": "When treating jinns, we need to have constant protection because they often retaliate, once we remove them from people. The first protection is not to be afraid and to know that we are stronger than them with faith and Quran. Secondly, we should have no sin in our conscience: consciously disobeying Allah and refusing to repent creates a black point in our hearts which creates a window for jinns to attack. This will trigger both spiritual and physical weakening.\n\nFor example, a man does not lower his gaze in front of a woman. A jinn comes in his dream in the shape of a desirable woman. The person again does not lower his gaze and remember Allah, and looks at the woman with desire. This man’s protection has weakened and he becomes a target for attack. Spirituality has gone down as well as physical well-being has suffered: he may have low energy levels and may catch flu. If this happens, we immediately need to repent and carry on fighting. We can consider the Ruqyah as a treatment to improve our spirituality since we cannot afford to drift away from the religion more than we already have.",
+        "topic_name": null
+      },
+      "target": {
+        "text": "",
+        "topic_name": null
+      },
+      "split_field": "text"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_011.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 3,
+  "id_range": "20-22",
+  "source_chars": 3925,
+  "items": [
+    {
+      "key": [
+        20
+      ],
+      "id": 20,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 20,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 23
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Shaikh Abu Bakr al-Jaza'iri (R) says: “The Jinn, even the righteous among them, are less dignified in Allah's sight than humans. Allah has confirmed the dignity and honour of mankind when He then said:\n\n<ar> وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ وَالْبَحْرِ وَرَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا ﴿٧٠﴾ </ar>\n\n<b>Translation:</b> And We have certainly honored the children of Adam and carried them on the land and sea and provided for them of the good things and preferred them over much of what We have created, with [definite] preference. [Surat Bani Isra'il, verse 70].\n\nSuch honour was not mentioned for the Jinn, either in any of the Holy Books of Allah, or in the sayings of any of His Prophets. Therefore, it is clear that humans are more dignified than Jinn, and this is confirmed by the fact that the Jinn themselves feel a sense of inferiority before the humans. So whenever humans seek refuge in them and request their help, they feel both exalted and presumptuous - a state which is not common in their lives - so they serve the humans and increase them (humans) in wickedness. Allah (SWT) said:\n\n<ar> وَأَنَّهُ كَانَ رِجَالٌ مِّنَ الْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ الْجِنِّ فَزَادُوهُمْ رَهَقًا ﴿٦﴾ </ar>\n\n<b>Translation:</b> And there were men from mankind who sought refuge in men from the jinn, so they [only] increased them in burden. [AL JINN 72:6]\n\nThey feel weakness and baseness before a human believer who believes in Allah (SWT) and His Messenger, and is faithful in his worship to the Oneness of Allah (SWT). As for the person who does none of these, the righteous Jinn are better than him/her, and are more dignified than all the disbelievers of mankind”. ['Aqidat al-mu'min (The Creed of the Believer) (228).]"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        21
+      ],
+      "id": 21,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 21,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 24
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Shaikh al-Islam Ibn Taymiyya (R) said: “The Jinn's possession of humans can be out of a desire or passion – as it exists among humáns - and they might have sexual intercourse with them and have children; and this case is common, as mentioned by the scholars. The majority of scholars dislike marriage to Jinn, which might take place out of hatred towards the humans and as a punishment for them – if they (the humans) initially hurt them, by urinating on them, or pouring hot water or killing some of them – even if such acts were carried out unintentionally. Because there is so much ignorance and injustice among the Jinn, they would punish the possessed more than he or she deserves; this punishment could take the form of mockery or pure evil, as violent humans do among themselves.\n\n<b>The summary of jinn's reasons to possess mankind is as follows:</b>\n\n\n<b>1.</b> The passion for the male Jinn for a woman or that of the female Jinn for a man.\n\n<b>2.</b> A person's unjust act committed against the Jinn: pouring hot water on them, or falling on them from a higher place, etc.\n\n<b>3.</b> A Jinn's possession of a human unjustly, without any reason, which can occur under four conditions: \n\n<b>a)</b> severe anger; \n<b>b)</b> intense fear; \n<b>c)</b> ndulgence in desires and passions; \n<b>d)</b> complete negligence."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        22
+      ],
+      "id": 22,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 22,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 25
+      },
+      "source": {
+        "topic_name": null,
+        "text": "The Jinn exists in the form of a spirit, and the body of a human is permeable; therefore, the Jinn is able to enter the body of a human through any place he/she wants. The evidence for this is Allah's Verse: \n\n<ar> وَخَلَقَ الْجَانَّ مِن مَّارِجٍ مِّن نَّارٍ ﴿١٥﴾ </ar>\n\n<b>Translation:</b> He created the Jinn from a fusion of fire. [Surah al-Rahman, verse 15]\n\nIbn `Abbas (RA) said: \"From the fusion of fire; and the fusion of fire is the hot wind coming out from fire\". When the Jinn enters the body of a human, it heads directly for the brain, where it can affect any organ of the body from that central position. Medical research has proved that possessed people have some strange vibrations in their brains; and many Jinn have informed me that they do indeed settle in the brain."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

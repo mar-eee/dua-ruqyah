@@ -1,0 +1,97 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_020.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "30-31",
+  "source_chars": 5777,
+  "items": [
+    {
+      "key": [
+        30
+      ],
+      "id": 30,
+      "part": 4,
+      "of": 6,
+      "frozen": {
+        "id": 30,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 31
+      },
+      "source": {
+        "text": "<b>Sixth:</b> Sometimes, the Jinn might tell you that you are a pious man, and he/she will leave the possessed body out of respect for you. Say to him/her that you are only a weak Servant of Allah, and order him/her to leave in obedience to Allah and His Prophet (ﷺ).\n\n<b>Seventh:</b> Sometimes, you might face a stubborn Jinn; so in this case, bring a glass of water close to your mouth, recite over it the verses of ruqya, adding Surat Yā-Sīn, al-Sāffāt, al-Dukhan, and al-Jinn, then give it to the patient to drink. The Jinn will feel a lot of pain, and so will therefore obey you and leave, by the Will of Allah. [The evidence to support this act is the Hadith, recorded by al-Bukhari and Muslim, where the Prophet (ﷺ), during his illness, he used to blow on his hands and pass them over his body while reciting the Mu'awidhat (Surat al-Falaq and Surat al-Nas)]\n\n<b>Eight:</b> If you want to know the faith of the Jinn without asking him, then recite the following verses that address the people of the Book:\n\n<b>Surat al-Ma'ida, verse 72:</b>\n\n<ar> لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ ۖ وَقَالَ الْمَسِيحُ يَا بَنِي إِسْرَائِيلَ اعْبُدُوا اللَّهَ رَبِّي وَرَبَّكُمْ ۖ إِنَّهُ مَن يُشْرِكْ بِاللَّهِ فَقَدْ حَرَّمَ اللَّهُ عَلَيْهِ الْجَنَّةَ وَمَأْوَاهُ النَّارُ ۖ وَمَا لِلظَّالِمِينَ مِنْ أَنصَارٍ ﴿٧٢﴾ </ar>\n\n<b>Translation:</b> (72) They have certainly disbelieved who say, \"Allah is the Messiah, the son of Mary\" while the Messiah has said, \"O Children of Israel, worship Allah, my Lord and your Lord.\" Indeed, he who associates others with Allah - Allah has forbidden him Paradise, and his refuge is the Fire. And there are not for the wrongdoers any helpers.\n\n<b>Surat al-Tawba, verse 30:</b>\n\n<ar> وَقَالَتِ الْيَهُودُ عُزَيْرٌ ابْنُ اللَّهِ وَقَالَتِ النَّصَارَى الْمَسِيحُ ابْنُ اللَّهِ ۖ ذَٰلِكَ قَوْلُهُم بِأَفْوَاهِهِمْ ۖ يُضَاهِئُونَ قَوْلَ الَّذِينَ كَفَرُوا مِن قَبْلُ ۚ قَاتَلَهُمُ اللَّهُ ۚ أَنَّىٰ يُؤْفَكُونَ ﴿٣٠﴾ </ar>"
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        30
+      ],
+      "id": 30,
+      "part": 5,
+      "of": 6,
+      "frozen": {
+        "id": 30,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 31
+      },
+      "source": {
+        "text": "<b>Translation:</b> (30) The Jews say, \"Ezra is the son of Allah \"; and the Christians say, \"The Messiah is the son of Allah (SWT).\" That is their statement from their mouths; they imitate the saying of those who disbelieved [before them]. May Allah destroy them; how are they deluded?\n\n<b>Ninth:</b> Sometimes, the Jinn escapes when he/she has to make a pledge; in this case, recite in the ear of the patient: (يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ), four verses from Surah al-Rahman and then repeat them.\n\n<b>Tenth:</b> Sometimes, the Jinn gives you the impression that he/she has left, but still remains still inside the body, and may even be the one talking to you, so how would you know this?\n\nYou should place your hand on the patient's head, and you would feel a slight shivering, and the same effect if you place your hand on his/her knee. Likewise, if you place your hand on his/her jugular veins, you would feel an unusual pulse.\n\n<b>Eleventh:</b> Sometimes, the Jinn agrees to leave, but he/she is unable; either because he/she is still young or is less experienced. He/she would admit it himself/herself and ask you to help him/her out. In this case, you should recite the whole of Surah Ya-Sin over him, and make Adhan (call to Prayer) in his ear.\n\n<b>Twelfth:</b> The Ruqyah should be executed with a slow but heard recitation of the Qur'an, with submissiveness,\n\n<b>Thirteenth:</b> Sometimes, the Jinn makes certain conditions, so if these conditions include obedience to Allah and His Messenger, such as: I will leave this body provided he (the possessed one) observes Salat, or - in case of a possessed woman - she observes wearing the veil also; then there is no harm in accepting those conditions; yet you should let the Jinn know that those conditions are to be executed in obedience to Allah and His Messenger, not to him/her.\n\nBut if his/her conditions mean disobedience to Allah, then his/her demands should be rejected, and he/she should be punished for that."
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        30
+      ],
+      "id": 30,
+      "part": 6,
+      "of": 6,
+      "frozen": {
+        "id": 30,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 31
+      },
+      "source": {
+        "text": "<b>Fourteenth:</b> If the Jinn leaves the body, by the Will of Allah, then ask the patient and his/her people to prostrate in gratitude to Allah for ridding them of that oppressor. You, as well, need to prostrate to Allah, thanking Him for making you successful over the Jinn, and helping to remove that injustice from the patient.\n\n<b>Fifteenth:</b> If Allah sends the Jinn away, by your hands, do not say, “I removed or expelled him/her”, but rather “Allah then sent him/her away, or Allah mengine removed him/her”. Do not boast about your success; it is one of the great ways of letting Satan into your mind.\n\n<b>Sixteenth:</b> We advice people who undertake this method of healing to read the following books: “Ighatath al-lahfan”, “Talbees Iblis”, “alFurqan baina awliya' ar-Rahman, wa awliya' al-shaytan”, “Risalat al-Jinn\" by Ibn Taymiyya, “ālam al-Jinn wa shayatin\" and \"ākām alMarjān\", noting that, in the last publication, there are many weak traditions, so one should be careful.\n\nWe also advice reading the book: \"The Beginning of Creation” chapter in sahih al-Bukhari, with its interpretation in \"Fath al-bari”; the book of \"Medicine\" in sahih Muslim; Sunan Abu Dawud; “Mujma' alZawa'id\"; Sunan Ibn Mājah; and also the book \"al-tib al-nabawi\" by Ibn al-Qayyim."
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        31
+      ],
+      "id": 31,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 31,
+        "topic_id": null,
+        "cat_id": 3,
+        "subcat_id": 32
+      },
+      "source": {
+        "topic_name": null,
+        "text": "<b>There are some signs which will indicate that he has been touched by the jinn, These include the following:</b>\n\n\n<b>1.</b> Numbness in the patient's hands and feet \n\n<b>2.</b> Trembling or grinding the teeth \n\n<b>3.</b> Numbness in the right arm or leg \n\n<b>4.</b> Rapid blinking of the eyes \n\n<b>5.</b> Dizziness, nausea or vomiting \n\nIf any of these symptoms appear when the Qur'aan is read over the patient, then it may be understood as being due to the touch of the jinn. In that case, the program described above should be followed."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

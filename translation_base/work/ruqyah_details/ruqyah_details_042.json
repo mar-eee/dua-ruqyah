@@ -1,0 +1,188 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_042.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 8,
+  "id_range": "80-87",
+  "source_chars": 5486,
+  "items": [
+    {
+      "key": [
+        80
+      ],
+      "id": 80,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 80,
+        "topic_id": 9,
+        "cat_id": 4,
+        "subcat_id": 68
+      },
+      "source": {
+        "topic_name": "The Eightth Measure (Initiating Marital Life With salat)",
+        "text": "Abdullah Ibn Mas'ud (RA) said: \"On your wedding night; that is on the night when the marriage is to be consummated for the first time; and before intercourse, do two rak'as and ask your wife to follow suit behind you, and say the following invocation: \n\n<ar> اَللَّهُمَّ بَارِكْ لِيْ فِيْ أَهْلِيْ، وَبَارِكْ لَهُمْ فِيَّ، اَللَّهُمَّ اجْمَعْ بَيْنَنَا مَا جَمَعْتَ بِخَيْرٍ؛ وَفََرِّقْ بَيْنَنَا إِذَا فَرَّقْتَ إِلَى خَيْرٍ </ar>\n\n<i><b>Transliteration:</b> Allahumma barik li fi ahli, wa barik lahum fiyya, allahummajma' baynana majama'ta bikhayr, wa farriq baynana idha farraqta ilaa khayr.</i>\n\n<b>Translation:</b> O Allah! Make my wife blessed for me and make me blessed for her O Allah! If You unite us, unite us on what is good, and if you separate us, separate us on what is good. [Transmitted by At-Tabarani, and classed by Al-Albani as authentic]"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        81
+      ],
+      "id": 81,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 81,
+        "topic_id": 10,
+        "cat_id": 4,
+        "subcat_id": 68
+      },
+      "source": {
+        "topic_name": "The Nineth Measure: (protection from the Satan during intercourse)",
+        "text": "Ibn 'Abbas to (RA) reported: \"The Prophet (ﷺ) said, 'If you say the following invocation during sexual intercourse, and a baby is conceived, Satan would never harm that baby.\"\n\n<ar> بِاسْمِ اللَّهِ، اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ، وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا </ar>\n\n<i><b>Transliteration:</b> Bismillah, Allahumma jannibna-sh-shaitan, wa jannibi-sh-shaitan ma razaqtana.</i>\n\n<b>Translation:</b> In the name of Allah. O Allah! Keep us away from Satan, and keep Satan away from any blessing you bestow on us.) [Al-Bukhari (Fath Al-Bari:1/291) and Muslim\n\nOne Jinn told me, after his conversion to Islam and repentance, that he used to take part in a man's sexual intercourse with his wife, because that man did not say the above invocation. Glory be to Allah! We have so many valuable treasures but we do not appreciate their value."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        82
+      ],
+      "id": 82,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 82,
+        "topic_id": 11,
+        "cat_id": 4,
+        "subcat_id": 68
+      },
+      "source": {
+        "topic_name": "The Tenth Measure",
+        "text": "Make wudhu' before going to bed, recite Ayatul kursi and invoke Allah in bed until you fall asleep. It is confirmed that Satan told Abu Hurayra (RA): \"Whoever recites Ayatul kursi before going to bed, he will be guarded by Allah (RA) and no Satan will approach him throughout the night\" The Prophet (ﷺ) confirmed the Satan's statement and told Abu Hurayra (RA), \"Satan told you the truth, but he is a liar.\" [Al-Bukhari (Fath Al-Bari: 6/338) and Muslim (An-Nawawi: 17/17)]"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        83
+      ],
+      "id": 83,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 83,
+        "topic_id": 12,
+        "cat_id": 4,
+        "subcat_id": 68
+      },
+      "source": {
+        "topic_name": "The Eleventh Measure",
+        "text": "<b>Say 100 times after salatul Fajr:</b>\n\n\n<ar>لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ</ar>\n\n<i><b>Transliteration:</b> Laa ilahaa illAllahu wahdahu laa sharika lahu, lahul-mulku wa lahul-hamdu wa huwa 'alaa kulli shay'in qadir</i>\n\n<b>Translation:</b> None has the right to be worshipped but Allah alone, Who has no partner. His is the dominion and His is the praise, and He is Able to do all things.\n\nThe Prophet (ﷺ) said that whosoever says it will have a reward equal to the manumission of 10 slaves, will have ten good deeds added to and ten bad deeds erased from his register, and will be protected by this supplication the Satan throughout the day until the evening. No one is better than he who says this supplication except a man who says more.\""
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        84
+      ],
+      "id": 84,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 84,
+        "topic_id": 13,
+        "cat_id": 4,
+        "subcat_id": 68
+      },
+      "source": {
+        "topic_name": "The Twelfth Measure",
+        "text": "<b>Upon entering the mosque, say:</b>\n\n\n<ar> أَعُوذُ بِاللَّهِ العَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ </ar>\n\n<i><b>Transliteration:</b> A'oodhu billaahil-'Adheem, wa bi-Wajhihil-Kareem, wa Sultaanihil-qadeem, minash-Shaytaanir-rajeem.</i>\n\n<b>Translation:</b> I seek refuge in Almighty Allah, by His Noble Face, by His primordial power, from Satan the outcast.\n\nIt is confirmed that the Prophet (ﷺ) said, 'Whenever a Muslim says the above invocation, Satan says, 'He is defended against me for the rest of the day.\" [Abu Dawud: 1/127]"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        85
+      ],
+      "id": 85,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 85,
+        "topic_id": 14,
+        "cat_id": 4,
+        "subcat_id": 68
+      },
+      "source": {
+        "topic_name": "The Thirteenth Measure",
+        "text": "<b>Say the following invocation, three times in the morning and three times in the evening:</b>\n\n\n<ar> بِسْمِ اللهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ </ar>\n\n<i><b>Transliteration:</b> (Bismillahil-ladhi la yadurru ma'a ismihi shay'un fil-ardi wa la fis-sama'i wa Huwas-Sami'ul-'Alim.</i>\n\n<b>Translation:</b> In the name of Allah with Whose Name nothing on earth or in heaven harms, and He is the All-Seeing, All-Knowing. (Sunan Ibn Majah 3869)"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        86
+      ],
+      "id": 86,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 86,
+        "topic_id": 15,
+        "cat_id": 4,
+        "subcat_id": 68
+      },
+      "source": {
+        "topic_name": "The Fourteenth Measure",
+        "text": "<b>Upon leaving the house say,</b>\n\n\n<ar> بِسْمِ اللَّهِ، تَوَكَّلْتُ عَلَى اللَّهِ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلاَّ بِاللَّ </ar>\n\n<i><b>Transliteration:</b> Bismillaahi, tawakkaltu 'alallaahi, wa laa hawla wa laa quwwata illaa billaah.</i>\n\n<b>Translation:</b> In the Name of Allah, I have placed my trust in Allah, there is no might and no power except by Allah.\n\nWhen you say it, you will be told (without your awareness): \"You have been spared, protected and guided\" The Satan will keep away from you and will tell another: \"What can you do to a man who has been guided, protected and spared?\" [Abu Dawud: 4/325 and At-Tirmidi: 5/154]"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        87
+      ],
+      "id": 87,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 87,
+        "topic_id": 16,
+        "cat_id": 4,
+        "subcat_id": 68
+      },
+      "source": {
+        "topic_name": "The Fifteenth Measure",
+        "text": "<b>Say, Three times</b>\n\n\n<ar> أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ </ar>\n\n<i><b>Transliteration:</b> 'A'oodhu bikalimaatil-laahit-taammaati min sharri maa khalaqa.</i>\n\n<b>Translation:</b> I take refuge in Allaah's perfect words from the evil He has created.\n\n<b>In the morning and in the evening. [Muslim: (An-Nawawi: 17/32]</b>\n\n\nThese are all interesting protective measures against sihr in general and ar-rabt, in particular if applied sincerely and truthfully."
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    }
+  ]
+}

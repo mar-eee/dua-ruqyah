@@ -1,0 +1,57 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_066.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "128-129",
+  "source_chars": 4853,
+  "items": [
+    {
+      "key": [
+        128
+      ],
+      "id": 128,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 128,
+        "topic_id": 1,
+        "cat_id": 7,
+        "subcat_id": 107
+      },
+      "source": {
+        "topic_name": "Hadiths About Black Seed And Black Seed Oil",
+        "text": "<b>Introduction</b>\n\n\nBlack Seed Is A Plant. People Have Used The Seed To Make Medicine For Over 2000 Years. It Was Even Discovered In The Tomb Of King Tut.\n\nhistorically, Black Seed Has Been Used For Headache, Toothache, Nasal Congestion, And Intestinal Worms. It Has Also Been Used For “pink Eye” (conjunctivitis), Pockets Of Infection (abscesses), And Parasites.\n\ntoday, Black Seed Is Used For Treating Digestive Tract Conditions Including Gas, Colic, Diarrhea, Dysentery, Constipation, And Hemorrhoids. It Is Also Used For Respiratory Conditions Including Asthma, Allergies, Cough, Bronchitis, Emphysema, Flu, Swine Flu, And Congestion.\n\n<b>Hadiths About Black Seed And Black Seed Oil</b>\n\n\nMentioned By The Holy Prophet (ﷺ), \" Hold On To The Use Of The Black Seed For Indeed It Has A Remedy For Every Disease Except Death\" [al-bukhari And Muslim]\n\n\"Hold On,\" Indicates A Long-term Use - Hadith (Sayings Of The Prophet (ﷺ) Narrated By His Companions.)\n\nnarrated Khalid Bin Saad (ra): We Went Out And Ghalib Bin Abjar Was Accompanying Us. He Fell Ill On The Way And When We Arrived At Medina He Was Still Sick. Ibn Abi 'atiq Came To Visit Him And Said To Us, \"treat Him With Black Cumin. Take Five Or Seven Seeds And Crush Them (mix The Powder With Oil) And Drop The Resulting Mixture Into Both Nostrils, For `aisha Has Narrated To Me That She Heard The Prophet (ﷺ) Saying, 'this Black Cumin Is Healing For All Diseases Except As-sam.' Aisha Said, 'what Is As-sam?' He Said, 'death.\" [sahih Bukhari: 5687]\n\nnarrated Abu Huraira (ra): I Heard Allah's Apostle Saying, \"there Is Healing In Black Cumin For All Diseases Except Death.\" [jami` At-tirmidhi: 2041]\n\nsalim Bin Abdullah (ra) Narrates With Reference To His Father Hazrat Abdullah Bin Omar (ra) That Prophet Muhammad (ﷺ) Said, \"let Fall These Black Seeds Upon You, These Contain Cure For All Diseases Except Death.\" [ibn Majah: 3448]\n\nthe Same Narration Is Found In Sanad-e-ahmed From Hazrat Aisha (ra) And In Ibn-al-jozi And Trimizi From Abu Huraira (ra). Hazrat Buraida Narrates That Prophet Muhammad (sws) Stated - \"shooneez Is Cure For All Ailments Except Death.\" [ibn Majah: 3449]\n\nit Is Stated In The Books Of Seerat That Nabi-e-akram (ﷺ) Himself Used To Take Blackseed For Therapeutic Purpose But With The Syrup Of Honey.\n\nkhalid Bin Saad States That He Was Travelling With Ghalib Bin Jabr, When He Fell Ill During The Journey. Ibn Abi Ateeq (nephew Of Hazrat Aisha (ra) Came To Meet Us. On Seeing The Patient, He Took 5 Or 7 Seeds Of Kalonji And Ground It, Mixed It In Olive Oil And Dropped In Both Nostrils, Hazrat Aisha (ra) Told Us That Prophet Muhammad (ﷺ) Stated That There Was Cure In Blackseed For All Ailments Except Sam. I Asked Him, What Was Sam? He Said \"death\". Ghalib Bin Jabr Became Healthy With That Treatment. [sahih Bukhari: 5687]"
+      },
+      "target": {
+        "topic_name": "",
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        129
+      ],
+      "id": 129,
+      "part": 1,
+      "of": 4,
+      "frozen": {
+        "id": 129,
+        "topic_id": 2,
+        "cat_id": 7,
+        "subcat_id": 107
+      },
+      "source": {
+        "text": "al-bukhaari (5688) And Muslim (2215) Narrated From Abu Hurayrah (RA) That He Heard The Messenger Of Allah (ﷺ) Say Concerning The Black Seed: “in It There Is Healing For Every Disease, Except As-saam.” Ibn Shihaab Said: As-saam Is Death.\n\nthere Are Two Scholarly Views Concerning The Words “healing From Every Disease”. It Was Suggested That It Is To Be Understood According To The General Meaning, So It Includes All Diseases, Or That It Is General In Wording But Specific In Meaning, So What Is Meant Is Some Diseases.\n\nal-haafiz Ibn Hajar (may Allah Have Mercy On Him) Said: it Was Said That The Words “every Disease” Refer To Every Disease That Could Be Treated With It, Because It Is Beneficial In The Case Of Cold Diseases; As For Hot Diseases, It Is Not. \n\nal-khattaabi Said: the Words “from Every Disease” Are General Terms But What Is Meant By Them Is Something Specific, Because There Is No Medicine Made From Plants That Could Be Used To Treat All Diseases; Rather What Is Meant Is That It Is Healing For Every Disease That Is Caused By Moisture.\n\nabu Bakr Ibn Al-‘arabi Said: according To Physicians, Honey Is More Likely To Be A Remedy For Every Disease Than The Black Seed. Nevertheless, There Are Some Diseases That If A Person Drinks Honey, It Will Make Matters Worse. If What Is Meant By The Description Of Honey As Something “wherein Is Healing For Men” [an-nahl 16:69] Is That It Is Healing For Most Diseases, Then It Is More Appropriate To Say That With Regard To The Black Seed. End Quote.\n\nibn Al-qayyim (may Allah Have Mercy On Him) Said: the Words “healing From Every Disease” Are Like The Verse In Which Allah, May He Be Exalted, Says (interpretation Of The Meaning): “destroying Everything By The Command Of Its Lord” [al-ahqaaf 46:25]. That Is, It (the Storm Or Wind Referred To In The Previous Verse) Destroyed Everything That Could Be Destroyed, And The Like. End Quote. zaad Al-ma‘aad (4/297) ",
+        "topic_name": "Are There Any Guidelines Or Conditions With Regard To Using The Black Seed?"
+      },
+      "target": {
+        "text": "",
+        "topic_name": ""
+      },
+      "split_field": "text"
+    }
+  ]
+}

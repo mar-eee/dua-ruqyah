@@ -1,0 +1,75 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_083.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 1,
+  "id_range": "166-166",
+  "source_chars": 4026,
+  "items": [
+    {
+      "key": [
+        166
+      ],
+      "id": 166,
+      "part": 3,
+      "of": 5,
+      "frozen": {
+        "id": 166,
+        "topic_id": null,
+        "cat_id": 13,
+        "subcat_id": 138
+      },
+      "source": {
+        "text": "<b>1.</b> Do not stop Ruqyah. This is the b1 mistake that we see people make. One Jinn leaves, and so the person feels so much better that they stop treatment. One complete month of Ruqyah is recommend, at the same intensity as before, until one can comfortable say that the person is genuinely better. This will preserve one - with the grace of Allah - from many errors, thinking the patient is better, but something remains. This can either be because the Jinn are fooling you into thinking that they have gone, or because one Jinn has left and another, who was latent, becomes active. It also catches cases of the Jinn returning to the person after leaving, and cases where the person has been afflicted with something, such as the evil eye, leading to Jinn possession, in which the Jinn leaves, but the effects of the prior affliction remain. Note that the Raqi does not necessarily have to read for this period, but the patient and/or family members can read, and the Raqi can keep an eye on things, from time to time. \n\n<b>2.</b> Don't accept 90%. This is closely related to the point made above. A lot of people get to 90% better, then stop, because they think that is good enough. The affliction then has the chance to grow and flourish again. If you had cancer, you would not be content to stop with 90% of the malignant cancer removed, because you know that the 10% has the potential to grow again. Likewise, you should not be content with 90% of the affliction gone - aim for 100%. "
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        166
+      ],
+      "id": 166,
+      "part": 4,
+      "of": 5,
+      "frozen": {
+        "id": 166,
+        "topic_id": null,
+        "cat_id": 13,
+        "subcat_id": 138
+      },
+      "source": {
+        "text": "<b>3.</b> Different phases mean different modes of attack for the shaytan to take advantage of. If one door closes for the shayțan, he will simply move on to another method. So, it might be that the shaking and the fitting stops, but the whispering and the confusion increases. Then, the whispering stops, but laziness in the prayer kicks in. The key to successful treatment is remaining constant and patient in tackling the problem, and continuing to adapt to the changes that are happening. One one hand, this requires consistency: don't stop the Ruqyah program, no matter what happens. On the other hand, it requires adding specific things to deal with specific challenges. For example, adding the treatment against waswasah, in order to deal specifically with the whispering, while not stopping the usual Ruqyah program.\n\n<b>4.</b> Once the problem is gone, the person remains vulnerable. This is like a medical patient who has just undergone major surgery. Upon successful completion of the procedure, he remains vulnerable to illness and infection. This is also true of people who have completed Ruqyah ; they remain vulnerable. For this reason, even when the Ruqyah stops, the person must be extremely observant in protecting themselves from further problems. Finally, they should be willing to resume their treatment at the first sign of a relapse.\n\n<b>5.</b> It may even be that it is better if the problem persists, but only if one has the necessary patience: "
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        166
+      ],
+      "id": 166,
+      "part": 5,
+      "of": 5,
+      "frozen": {
+        "id": 166,
+        "topic_id": null,
+        "cat_id": 13,
+        "subcat_id": 138
+      },
+      "source": {
+        "text": "Atha bin Rabah (Ra) reported Abdullah bin Abbas (Ra) who pointed to a black woman who was promised paradise (Ummu Zuffar). He said that the woman once came to the Prophet (ﷺ) and said, \"I am suffering from the disease Ayan (epileptic seizures), and every time I get cramps, I lose consciousness, sometimes people seeing my nakedness. Pray to Allah, that I may be healed.\" The Messenger of Allah  (ﷺ) said, \"If you will be patient, you will come to paradise. If you want to be cured, I will pray to Allah.\" The woman replied, \"I will have patience. But pray that I will not be naked when I lose my consciousness.\" And the Messenger of Allah  (ﷺ) prayed for her. [Bukhari: 5652]\n\nFaith and patience are the keys to paradise, and whoever has patience will have success.\n\n... and the patient in tribulation and adversity and time of war. Such are they who are sincere. Such are the God-fearing. [Al-Baqarah: 177] \n\n<b>O ye who believe! Endure, outdo all others in endurance, be ready, and observe your duty to Allah, in order that ye may succeed. [Ali Imran: 200]</b>"
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    }
+  ]
+}

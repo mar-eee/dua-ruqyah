@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_002.json",
+  "source_language": "en",
+  "target_language": "TARGET",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "6-7",
+  "source_chars": 1715,
+  "items": [
+    {
+      "key": [
+        6
+      ],
+      "id": 6,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 6,
+        "topic_id": null,
+        "cat_id": 1,
+        "subcat_id": 6
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Ruqyah comes from the heart and mouth of the reciter, so if it is accompanied with some of his saliva and breath, that will maximise the strength and effectiveness of the remedy. The stronger the heart of the person is, the stronger the Ruqyah he recites becomes.\n\nCombining both Ruqyah (from the heart and mouth) and spitting with one’s saliva (aspects of the inner self) form a powerful antidote to the evil of the magicians and devils.\n\nThere is another secret behind blowing when performing Ruqyah : blowing is done by both pure and evil souls, as Allah said:\n\n<ar> وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ﴿٤﴾ </ar>\n\n<b>Translation:</b> “And from the evil of the blowers in knots.” (113:4)\n\nThose who do magic tie knots and blow onto them words of magic, mixing them with their saliva which work on the victims even in their absence. However, the pure souls counter this by blowing with the powerful words of the Almighty. (Adapted from Zad al-Ma‘ad)\n\n‘If one’s faith, soul, and spirit are strong, and if he internalises the meaning and essence of Surah al-Fatihah, recites it and then blows on the affected person followed by his spittle, this will counter the effects incurred by evil beings. And Allah knows best.’ (Ibn al-Qayyim, Zad al-Ma‘ad)"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        7
+      ],
+      "id": 7,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 7,
+        "topic_id": null,
+        "cat_id": 1,
+        "subcat_id": 7
+      },
+      "source": {
+        "topic_name": null,
+        "text": "One may pray and blow into water as a form of remedy. In the authentic narration of Muṣannaf ibn Abi Shaybah, ‘A’ishah (RA) permitted that water can be prayed on and then given to the sick to drink or to be poured over them.\n\nSalih (rahimahullah), the son of Imam Ahmad (rahimahullah), said: “Whenever I became ill, my father would take a cup of water and recite over it, then tell me to drink some of it and wash my hands and face in it.” (Manaqib al-Imam Ahmad)"
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}

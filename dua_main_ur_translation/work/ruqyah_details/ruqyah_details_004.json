@@ -1,0 +1,77 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_004.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 1,
+  "id_range": "9-9",
+  "source_chars": 4856,
+  "items": [
+    {
+      "key": [
+        9
+      ],
+      "id": 9,
+      "part": 1,
+      "of": 4,
+      "frozen": {
+        "id": 9,
+        "topic_id": null,
+        "cat_id": 1,
+        "subcat_id": 9
+      },
+      "source": {
+        "text": "Scholars have varying opinions regarding the permissibility of writing verses from the Quran on a piece of paper, tablet, dish or vessel and then washing it with water and giving this water to the patient to drink as a remedy. Some of them considered it an innovation in religion, such as the Maaliki scholar Ibn Al-‘Arabi, may Allaah have mercy upon him, whereas some of the righteous predecessors held that it was permissible and they quoted a narration on the authority of Ibn ‘Abbaas, may Allaah be pleased with him.\n\nIn this regard, the Hanbali scholar, Ibn Al-Qayyim, may Allaah have mercy upon him, mentioned on the authority of Mujaahid and Abu Qilaabah, may Allaah have mercy upon them, that a group of the righteous predecessors were of the view that it was permissible to write verses from the Quran, wash them with water and then let the patient drink it. Another scholar supporting this view was the Shaafi‘i scholar, An-Nawawi, may Allaah have mercy upon him. He mentioned that Al-Hasan Al-Basri, Mujaahid, Abu Qilaabah and Al-Awzaa‘i, may Allaah have mercy upon them, held that it was permissible, whereas An-Nakha‘i, may Allaah have mercy upon him, considered it to be disliked. An-Nawawi, may Allaah have mercy upon him, added that it was permissible according to the requisites of the Shaafi‘i School of Fiqh, and that Al-Qaadhi Husayn, Al-Baghawi and others, may Allaah have mercy upon them, held it to be permissible.",
+        "topic_name": null
+      },
+      "target": {
+        "text": "",
+        "topic_name": null
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        9
+      ],
+      "id": 9,
+      "part": 2,
+      "of": 4,
+      "frozen": {
+        "id": 9,
+        "topic_id": null,
+        "cat_id": 1,
+        "subcat_id": 9
+      },
+      "source": {
+        "text": "Ibn Taymiyyah, may Allaah have mercy upon him, quoted the view of Ahmad, may Allaah have mercy upon him, and mentioned that it was permissible to write some verses from the Quran using permissible ink and wash them with water and then let the patient drink it. Referring to this, ‘Abdullaah ibn Ahmad, may Allaah have mercy upon him, reported on the authority of his father (i.e. Ahmad ibn Hanbal, may Allaah have mercy upon him) that Ibn ‘Abbaas, may Allaah be pleased with him, said that when a woman faces difficulty in childbirth, the following may be written for her:\n\n<ar> بِسْمِ اللهِ، لَا إِلَهَ إِلَّا اللهُ الْحَلِيْمُ الْكَرِيْمُ، سُبْحَانَ اللهِ رَبِّ الْعَرْشِ الْعَظِيْمِ، اَلْحَمْد للهِ رَبِّ الْعَالَمِيْنَ </ar>\n\n<i><b>Transliteration:</b> \"Bismillaah. Laa ilaaha illa Allaah Al-Haleem Al-Kareem. Subhaanallaah Rabil-‘Arsh Al-‘Atheem. Al-Hamdulillaahi Rabil-‘Aalameen.</i>\n\n<b>Translation:</b> In the name of Allaah, none is worthy of worship but Allaah, the Forbearing the Generous. Exalted is Allaah the Lord of the Great Throne. All perfect praise be to Allaah, The Lord of the worlds.\n\n<ar> كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوا إِلَّا عَشِيَّةً أَوْ ضُحَاهَا ﴿٤٦﴾ </ar>\n\n<b>Translation:</b> It will be, on the Day they see it, as though they had not remained [in the world] except for an afternoon or a morning thereof. [Quran 79: 46]\n\n<ar> فَاصْبِرْ كَمَا صَبَرَ أُولُو الْعَزْمِ مِنَ الرُّسُلِ وَلَا تَسْتَعْجِل لَّهُمْ ۚ كَأَنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ يَلْبَثُوا إِلَّا سَاعَةً مِّن نَّهَارٍ ۚ بَلَاغٌ ۚ فَهَلْ يُهْلَكُ إِلَّا الْقَوْمُ الْفَاسِقُونَ ﴿٣٥﴾ </ar>\n\n<b>Translation:</b> On the Day they see that which they are promised - as though they had not remained [in the world] except an hour of a day. [This is] notification. And will [any] be destroyed except the defiantly disobedient people? [Quran 46: 35]"
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    },
+    {
+      "key": [
+        9
+      ],
+      "id": 9,
+      "part": 3,
+      "of": 4,
+      "frozen": {
+        "id": 9,
+        "topic_id": null,
+        "cat_id": 1,
+        "subcat_id": 9
+      },
+      "source": {
+        "text": "He, may Allaah have mercy upon him, also reported on the authority of his father, may Allaah have mercy upon him, that it was permissible to write verses from the Quran on a clean vessel, wash it with water and let the patient drink it. Wakee', may Allaah have mercy upon him, added to the narration of Ibn ‘Abbaas, may Allaah be pleased with him, that the woman drinks from the water and the part of her body below the navel is sprinkled with it.\n\nConsequently, we see that it is permissible to do this when the following prerequisites are satisfied: Using pure ink when writing the Quran and writing it on a pure object. One should not write the verses with blood, as some ignorant people do, because blood is impure and the Book of Allaah and His verses are not to be exposed to impurities.\n\n<b>The Hanbali scholar, Ibn Muflih , may Allaah have mercy upon him, mentioned that Ibn Taymiyyah, may Allaah have mercy upon him, used to write on the forehead of the patient in cases of nosebleeding:</b>\n\n\n<ar> وَقِيلَ يَا أَرْضُ ابْلَعِي مَاءَكِ وَيَا سَمَاءُ أَقْلِعِي وَغِيضَ الْمَاءُ وَقُضِيَ الْأَمْرُ وَاسْتَوَتْ عَلَى الْجُودِيِّ ۖ وَقِيلَ بُعْدًا لِّلْقَوْمِ الظَّالِمِينَ ﴿٤٤﴾ </ar>\n\n<b>Translation:</b> And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished. [Quran 11: 44] \n\nIbn Muflih, may Allaah have mercy upon him, added that it was not permissible to write it with blood because blood is impure and the words of Allaah The Almighty must not be written with it."
+      },
+      "target": {
+        "text": ""
+      },
+      "split_field": "text"
+    }
+  ]
+}

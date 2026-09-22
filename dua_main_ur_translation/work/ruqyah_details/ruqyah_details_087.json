@@ -1,0 +1,56 @@
+{
+  "table": "ruqyah_details",
+  "chunk": "ruqyah_details_087.json",
+  "source_language": "en",
+  "target_language": "ur",
+  "status": "pending",
+  "rows": 2,
+  "id_range": "173-174",
+  "source_chars": 2993,
+  "items": [
+    {
+      "key": [
+        173
+      ],
+      "id": 173,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 173,
+        "topic_id": null,
+        "cat_id": 14,
+        "subcat_id": 143
+      },
+      "source": {
+        "topic_name": null,
+        "text": "When a patient is complaining of a particular condition, i.e. they are not in good health, but suffering from a particular illness for which Hijamah is indicated then this is termed Hijama-bil-Mardh (Hijamah in illness).\n\nIn illness the rules of Hijamah are different. For this reason Imam Ahmad ibn Hanbal would have Hijamah at any time of the month and hour of the day as a result of the need of performing Hijamah due to illness. When performing Hijamah for a specific illness it should be done at those points of the body indicated for the illness and the rules of the amount of blood being removed etc. should be adhered to for maximum benefit. These are discussed in the Hijamah treatment guide. This type of Hijamah is very specialized and involves two major aspects, the correct selection of points (or superficial veins) to bleed and removing the correct amount of blood in order to effect cure of the patient's illness. It is also highly recommended to use herbal preparations in association with the Hijamah to address deficiencies/excesses present and treat cold or heat that is present."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    },
+    {
+      "key": [
+        174
+      ],
+      "id": 174,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 174,
+        "topic_id": null,
+        "cat_id": 14,
+        "subcat_id": 144
+      },
+      "source": {
+        "topic_name": null,
+        "text": "Phlebotomy is often confused with Hijamah yet the two are very different in their method and effect on the body. Phlebotomy is the bleeding of veins via the use of a hypodermic needle and results in releasing of blood from the inner parts of the body as opposed to the outer part which is achieved through traditional Hijamah. It will also be regarded as part of bloodletting, but not Hijamah, as there are significant differences in the use of these two types of bloodletting.\n\nTo understand the difference it is important to remember that the land of Hijaaz (where the Ahadeeth of Hijamah are reported) is hot. Hot and cold temperatures have different effects on the blood flow and distribution in the body. In hot countries, and other countries in the hot season, the blood and heat of the body flows more within the outer part of the body, and the inner parts remain cool and relatively deficient of blood. For this reason perspiration increases in summer, and because of the inner organs etc. being cooler, foods take longer to digest, and many summer-heat type illnesses occur. In cold countries, and in winter, the blood and heat of a person's body goes to the inner portions. As a result the digestive system is strengthened, more sleep is experienced, and food is digested easily.\n\nFor this reason rich foods digest easily in winter, and take more time in summer. This is also the reason honey; dates and other heat creating foods do not affect the people of Hijaaz. In Hijamah, the blood in the outer parts of the body is removed, and in Hijaaz the heat is more on the outer parts of the body, therefore, Hijamah is more beneficial in hot countries and hot climates. In phlebotomy blood is let from the hypodermic veins and reduces heat from the inner parts of the body, therefore it will not be beneficial in hot countries and climates and was hence not a practice of the Nabi (SAW)."
+      },
+      "target": {
+        "topic_name": null,
+        "text": ""
+      }
+    }
+  ]
+}
