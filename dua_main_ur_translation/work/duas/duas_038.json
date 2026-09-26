@@ -3,7 +3,7 @@
   "chunk": "duas_038.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 12,
   "id_range": "525-536",
   "source_chars": 4870,
@@ -34,10 +34,10 @@
         "note": "Narrated by Anas Ibn Malik (RA): A man came to the Messenger of Allah (ﷺ) and said, “O Messenger of Allah! Our animals have been destroyed and the roads have been cut off. Pray to Allah (for rain)!” The Prophet (ﷺ) prayed to Allah. As a result, it rained on us from one Jumu'ah to another Jumu'ah. Then a man came to the Prophet (ﷺ) and said, “O Messenger of Allah! Our homes have been destroyed, our roads have been cut off, and our cattle have been destroyed.” Then the Messenger of Allah (ﷺ) said: (The dua is mentioned above)\n\nThen the clouds move away from Medina in the same way that clothes are removed from the body."
       },
       "target": {
-        "name": "",
+        "name": "قحط اور موسلا دھار بارش کے وقت",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! پہاڑوں کی چوٹیوں، بلند میدانوں، وادیوں کے اندرونی حصوں اور درخت اگنے کی جگہوں پر بارش برسا۔",
+        "note": "حضرت انس بن مالک رضی اللہ عنہ سے روایت ہے کہ ایک شخص رسول اللہ ﷺ کی خدمت میں حاضر ہوا اور عرض کیا: ’’اللہ کے رسول! ہمارے مویشی ہلاک ہو گئے اور راستے منقطع ہو گئے ہیں؛ اللہ سے بارش کی دعا فرمائیے۔‘‘ رسول اللہ ﷺ نے دعا فرمائی تو ایک جمعہ سے دوسرے جمعہ تک بارش ہوتی رہی۔ پھر ایک شخص نے آ کر عرض کیا: ’’اللہ کے رسول! ہمارے گھر گر گئے، راستے منقطع ہو گئے اور مویشی ہلاک ہو گئے ہیں۔‘‘ اس پر رسول اللہ ﷺ نے یہ دعا فرمائی۔ (دعا اوپر مذکور ہے۔)\n\nپھر بادل مدینہ سے یوں چھٹ گئے جیسے جسم سے کپڑا اتار دیا جاتا ہے۔"
       },
       "reference_bn": {
         "name": "অনাবৃষ্টি ও অতিবৃষ্টির সময়",
@@ -71,10 +71,10 @@
         "note": "Soon the sky became overcast."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "طلبِ بارش (استسقاء) کی دعا #1",
+        "content": "حضرت جابر بن عبداللہ رضی اللہ عنہما سے روایت ہے کہ قحط کے باعث کچھ لوگ روتے ہوئے رسول اللہ ﷺ کی خدمت میں حاضر ہوئے۔ اس پر آپ ﷺ نے یہ دعا فرمائی:",
+        "translation": "اے اللہ! ہم پر ایسی بارش برسا جو فریاد رسی کرنے والی، خوش گوار، سرسبزی لانے والی، نفع بخش اور ضرر سے پاک ہو؛ جلد برسنے والی ہو، دیر سے آنے والی نہ ہو۔",
+        "note": "اس کے فوراً بعد آسمان پر بادل چھا گئے۔"
       },
       "reference_bn": {
         "name": "ইসতিসক্বা বা মেঘ-বৃষ্টির প্রয়োজন হলে #১",
@@ -109,10 +109,10 @@
         "note": "Narrated Anas: A man enters the mosque on Friday. The Messenger of Allah (ﷺ) was then standing and giving a sermon (speech). The man said, “O Messenger of Allah! (Our) wealth has been destroyed, roads have been cut off; Pray to Allah to give us rain. ”Hearing this, the Messenger of Allah (ﷺ) raised his hands and said:(The dua is mentioned  above)"
       },
       "target": {
-        "name": "",
+        "name": "طلبِ بارش (استسقاء) کی دعا #2",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! ہمیں بارش عطا فرما۔ اے اللہ! ہمیں بارش عطا فرما۔ اے اللہ! ہمیں بارش عطا فرما۔",
+        "note": "حضرت انس رضی اللہ عنہ سے روایت ہے کہ جمعہ کے دن ایک شخص مسجد میں داخل ہوا۔ رسول اللہ ﷺ اس وقت کھڑے خطبہ دے رہے تھے۔ اس شخص نے عرض کیا: ’’اللہ کے رسول! ہمارا مال تباہ ہو گیا اور راستے منقطع ہو گئے ہیں؛ اللہ سے دعا فرمائیے کہ ہمیں بارش عطا کرے۔‘‘ یہ سن کر رسول اللہ ﷺ نے دونوں ہاتھ اٹھائے اور یہ دعا فرمائی۔ (دعا اوپر مذکور ہے۔)"
       },
       "reference_bn": {
         "name": "ইসতিসক্বা বা মেঘ-বৃষ্টির প্রয়োজন হলে #২",
@@ -146,9 +146,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "طلبِ بارش (استسقاء) کی دعا #3",
+        "content": "رسول اللہ ﷺ بارش طلب کرتے وقت یہ دعا پڑھتے تھے:",
+        "translation": "اے اللہ! اپنے بندوں اور اپنے مویشیوں کو پانی عطا فرما، اپنی رحمت پھیلا دے اور اپنی مردہ زمین کو زندہ کر دے۔",
         "note": null
       },
       "reference_bn": {
@@ -183,9 +183,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "موسلا دھار بارش رکنے کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! ہمارے اردگرد بارش برسا، ہم پر نہیں۔ اے اللہ! بلند میدانوں، پہاڑیوں، وادیوں کے اندرونی حصوں اور درخت اگنے کی جگہوں پر بارش برسا۔",
         "note": null
       },
       "reference_bn": {
@@ -219,10 +219,10 @@
         "note": "Narrated Zaid bin Khalid Al-Juhani (RA): The Prophet (ﷺ) led us in the Fajr prayer at Hudaibiya after a rainy night. On completion of the prayer, he faced the people and said, \"Do you know what your Lord has said (revealed)?\" The people replied, \"Allah and His Apostle know better.\" He said, \"Allah has said, 'In this morning some of my slaves remained as true believers and some became non-believers; whoever said that (The dua is mentioned above) had belief in Me and he disbelieves in the stars, and whoever said that it rained because of a particular star had no belief in Me but believes in that star.'"
       },
       "target": {
-        "name": "",
+        "name": "بارش کے بعد اللہ کا شکر",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "ہمیں اللہ کے فضل اور اس کی رحمت سے بارش ملی۔",
+        "note": "حضرت زید بن خالد جہنی رضی اللہ عنہ سے روایت ہے کہ بارش والی رات کے بعد رسول اللہ ﷺ نے حدیبیہ میں ہمیں فجر کی نماز پڑھائی۔ نماز سے فارغ ہو کر آپ ﷺ لوگوں کی طرف متوجہ ہوئے اور فرمایا: ’’کیا تم جانتے ہو کہ تمہارے رب نے کیا فرمایا ہے؟‘‘ صحابہ کرام نے عرض کیا: ’’اللہ اور اس کے رسول زیادہ جانتے ہیں۔‘‘ آپ ﷺ نے فرمایا: ’’اللہ تعالیٰ نے ارشاد فرمایا ہے: آج صبح میرے بندوں میں سے کچھ مجھ پر ایمان رکھنے والے رہے اور کچھ کافر ہو گئے۔ جس نے کہا: (دعا اوپر مذکور ہے)، وہ مجھ پر ایمان لایا اور ستاروں کا انکار کیا؛ اور جس نے کہا کہ فلاں ستارے کی وجہ سے بارش ہوئی، اس نے میرا انکار کیا اور ستارے پر ایمان لایا۔‘‘"
       },
       "reference_bn": {
         "name": "বৃষ্টি পাওয়ার পর আল্লাহ্‌র শুকরিয়া",
@@ -256,10 +256,10 @@
         "note": "Narrated Al-Aswad (RA): I asked `Aisha about treating poisonous stings (a snake-bite or a scorpion sting) with a Ruqya. She said, \"The Prophet (ﷺ) allowed the treatment of poisonous sting with Ruqya.\""
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "زہریلے ڈنک کے لیے دعا",
+        "content": "سورۂ فاتحہ",
+        "translation": "(1) اللہ کے نام سے جو نہایت مہربان، بہت رحم فرمانے والا ہے۔ (2) تمام تعریفیں اللہ ہی کے لیے ہیں، جو تمام جہانوں کا رب ہے۔ (3) نہایت مہربان، بہت رحم فرمانے والا۔ (4) روزِ جزا کا مالک۔ (5) ہم تیری ہی عبادت کرتے ہیں اور تجھی سے مدد مانگتے ہیں۔ (6) ہمیں سیدھا راستہ دکھا۔ (7) ان لوگوں کا راستہ جن پر تو نے انعام فرمایا؛ نہ ان کا جن پر غضب کیا گیا، اور نہ گمراہوں کا۔ (سورۂ فاتحہ: 1-7)",
+        "note": "امام اسود رحمہ اللہ سے روایت ہے، انہوں نے فرمایا: میں نے حضرت عائشہ رضی اللہ عنہا سے سانپ یا بچھو جیسے زہریلے جانور کے ڈسنے کا رقیہ سے علاج کرنے کے بارے میں پوچھا۔ انہوں نے فرمایا: رسول اللہ ﷺ نے زہریلے جانور کے ڈسنے کا رقیہ سے علاج کرنے کی اجازت دی ہے۔"
       },
       "reference_bn": {
         "name": "বিষাক্ত দংশন-এর দোয়া",
@@ -294,10 +294,10 @@
         "note": "Because, for the evil eye is real."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "اپنی نظر لگنے کا اندیشہ ہو تو دعا",
+        "content": "جب تم میں سے کوئی اپنے بھائی، اپنی ذات یا اپنی کسی چیز میں ایسی بات دیکھے جو اسے پسند آئے تو کہے:",
+        "translation": "اللہ تمہیں برکت عطا فرمائے۔",
+        "note": "کیونکہ نظرِ بد حق ہے۔"
       },
       "reference_bn": {
         "name": "কোনো কিছুর উপর নিজের চোখ লাগার ভয় থাকলে দোয়া",
@@ -332,8 +332,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "مختلف بیماریوں کے لیے دم کی دعا",
+        "content": "حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ ﷺ بیمار ہوتے تو سورۂ ناس اور سورۂ فلق پڑھ کر اپنے جسم پر دم کرتے اور اپنے ہاتھوں سے جسم پر پھیرتے تھے۔",
         "translation": null,
         "note": null
       },
@@ -368,10 +368,10 @@
         "note": "Narrated `Aisha (RA): The Prophet (ﷺ) used to treat some of his wives by passing his right hand over the place of ailment and used to say: (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "بیماری کی مسنون دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! لوگوں کے رب، تکلیف دور فرما اور شفا عطا فرما؛ تو ہی شفا دینے والا ہے۔ تیری شفا کے سوا کوئی شفا نہیں؛ ایسی شفا عطا فرما جو کوئی بیماری باقی نہ چھوڑے۔",
+        "note": "حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ ﷺ اپنی بعض ازواج کے مرض کی جگہ پر دایاں ہاتھ پھیرتے اور یہ دعا پڑھتے تھے۔ (دعا اوپر مذکور ہے۔)"
       },
       "reference_bn": {
         "name": "অসুস্থতার মাসনূন দোয়া",
@@ -405,10 +405,10 @@
         "note": "Ayesha (RA) said that if there was any illness, pain or wound on any part of the body, Rasulullah (ﷺ) would place his (Shahadat) finger on the ground and lift it and recite this Dua. In another narration, he would put a little saliva of his mouth on his finger and put his finger on the ground and then put it in the place of pain and say this dua."
       },
       "target": {
-        "name": "",
+        "name": "بیماری، زخم اور درد کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ کے نام سے۔ ہماری زمین کی مٹی، ہم میں سے بعض کے لعاب کے ساتھ، ہمارے رب کے حکم سے ہمارے مریض کو شفا دے۔",
+        "note": "حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ جسم کے کسی حصے میں بیماری، درد یا زخم ہوتا تو رسول اللہ ﷺ اپنی شہادت کی انگلی زمین پر رکھ کر اٹھاتے اور یہ دعا پڑھتے تھے۔ ایک دوسری روایت میں ہے کہ آپ ﷺ اپنی انگلی پر منہ کا تھوڑا سا لعاب لگاتے، پھر اسے زمین پر رکھتے، اس کے بعد درد کی جگہ پر لگاتے اور یہ دعا پڑھتے تھے۔"
       },
       "reference_bn": {
         "name": "অসুস্থতা, ক্ষত ও ব্যথার দোয়া",
@@ -442,9 +442,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "اپنے جسم کے درد کی دعا",
+        "content": "تین مرتبہ کہیں:",
+        "translation": "اللہ کے نام سے۔ (3 مرتبہ)",
         "note": null
       },
       "reference_bn": {
@@ -457,19 +457,19 @@
           "group": 0,
           "key": "content",
           "source": "Say 7 times:",
-          "target": ""
+          "target": "7 مرتبہ کہیں:"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "I seek refuge in Allah and in His Power from the evil of what I find and of what I guard against.",
-          "target": ""
+          "target": "میں اللہ اور اس کی قدرت کی پناہ لیتا ہوں، اس چیز کے شر سے جسے میں محسوس کرتا ہوں اور جس کا مجھے اندیشہ ہے۔"
         },
         {
           "group": 0,
           "key": "note",
           "source": "Uthman ibn Abil 'As (RA) said that he informed the Messenger of Allah (ﷺ) about the explanation of his body. He said: Put your hand on the part of your body where there is pain and say Bismillah three times and this dua seven times. (The dua is mentioned above)",
-          "target": ""
+          "target": "حضرت عثمان بن ابی العاص رضی اللہ عنہ نے رسول اللہ ﷺ سے اپنے جسم میں ہونے والے درد کی شکایت کی۔ رسول اللہ ﷺ نے فرمایا: ’’جسم کے جس حصے میں درد ہو، وہاں اپنا ہاتھ رکھو؛ تین مرتبہ ’بسم اللہ‘ کہو، پھر یہ دعا سات مرتبہ پڑھو۔‘‘ (دعا اوپر مذکور ہے۔)"
         }
       ]
     }

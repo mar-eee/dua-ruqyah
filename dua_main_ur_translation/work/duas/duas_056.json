@@ -3,7 +3,7 @@
   "chunk": "duas_056.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 18,
   "id_range": "798-815",
   "source_chars": 5953,
@@ -34,8 +34,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "مجاہدین کے لیے اللہ کی مدد #1",
+        "content": "ابن عباس رضی اللہ عنہ سے روایت ہے کہ اس دن ایک مسلمان اپنے آگے بھاگنے والے ایک مشرک کا تعاقب کر رہا تھا۔ اچانک اس نے اپنے اوپر کوڑے کی ضرب کی آواز سنی اور ایک سوار کو یہ کہتے سنا: حیزوم! آگے بڑھو۔ [1] پھر اس نے سامنے موجود مشرک کی طرف دیکھا تو وہ چت گرا پڑا تھا۔ غور سے دیکھا تو اس کی ناک پر نشان تھا اور چہرہ یوں چِرا ہوا تھا جیسے کوڑا لگا ہو، اور زہر کے اثر سے وہ حصہ سبز پڑ گیا تھا۔ وہ انصاری رسول اللہ ﷺ کے پاس آیا اور آپ کو یہ واقعہ سنایا۔ آپ ﷺ نے فرمایا: تم نے سچ کہا، یہ تیسرے آسمان سے آنے والی مدد تھی۔ اس دن مسلمانوں نے ستر آدمیوں کو قتل کیا اور ستر کو قیدی بنایا۔ [2]",
         "translation": null,
         "note": null
       },
@@ -70,9 +70,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "مجاہدین کے لیے اللہ کی مدد #2",
         "content": null,
-        "translation": "",
+        "translation": "(9) اے ایمان والو! اپنے اوپر اللہ کی اس نعمت کو یاد کرو جب لشکر تم پر چڑھ آئے تو ہم نے ان پر ایک آندھی اور ایسے لشکر بھیجے جنہیں تم نے نہیں دیکھا، اور اللہ تمہارے اعمال کو خوب دیکھنے والا ہے۔ (10) جب وہ تمہارے اوپر سے اور تمہارے نیچے سے تم پر چڑھ آئے، جب نگاہیں پھر گئیں، دل حلق تک آ پہنچے اور تم اللہ کے بارے میں طرح طرح کے گمان کرنے لگے۔ (11) اس موقع پر مومن آزمائے گئے اور بری طرح جھنجھوڑ دیے گئے۔",
         "note": null
       },
       "reference_bn": {
@@ -106,10 +106,10 @@
         "note": "In the battle of Ahzaab, those who fought with The Messenger of Allah (ﷺ), they were five kinds: Polytheists of Makkah, Polytheists of various tribes of Arab, Jews who came from outside the madina, Banu Quraiza and the hypocrites. There were ten thousands disbelievers in the front of trench and with the Prophet (ﷺ), there were three thousands Muslims. The disbelievers surrounded Prophet (ﷺ) for 1 month. There was no fighting between them, but there was an incident where a fighting took place Ali ibn Abi Taalib (RA) with Amar ibn Udd Amiri. Ali (RA) killed him. This was the fourth year after Hijrah. In that battle The Messenger of Allah (ﷺ) invoked Allah against them - (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "غزوۂ احزاب کے دن نبی ﷺ کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! کتاب نازل فرمانے والے، جلد حساب لینے والے! ان اتحادی لشکروں کو شکست دے۔ اے اللہ! انہیں شکست دے اور جھنجھوڑ کر رکھ دے۔",
+        "note": "غزوۂ احزاب میں رسول اللہ ﷺ کے خلاف آنے والوں میں پانچ گروہ شامل تھے: مکہ کے مشرکین، عرب کے مختلف قبائل کے مشرکین، مدینہ سے باہر کے یہود، بنو قریظہ اور منافقین۔ خندق کے سامنے کافروں کی تعداد دس ہزار تھی، جبکہ نبی ﷺ کے ساتھ تین ہزار مسلمان تھے۔ انہوں نے تقریباً ایک (1) ماہ تک نبی ﷺ اور مسلمانوں کا محاصرہ کیے رکھا۔ باقاعدہ عمومی جنگ نہیں ہوئی، البتہ علی بن ابی طالب رضی اللہ عنہ اور عمرو بن عبد ود عامری کے درمیان مقابلہ ہوا جس میں علی رضی اللہ عنہ نے اسے قتل کر دیا۔ راجح قول کے مطابق یہ ہجرت کا پانچواں سال تھا۔ اس غزوے میں رسول اللہ ﷺ نے ان کے خلاف یہ دعا فرمائی: (دعا اوپر درج ہے)"
       },
       "reference_bn": {
         "name": "আহযাব যুদ্ধের দিন নবী (ﷺ) এর দোয়া",
@@ -143,10 +143,10 @@
         "note": "This hadith has been narrated on the authority of Salama ibnul akwa (RA) who said: We fought by the side of the Messenger of Allah (ﷺ) at Hunain. When we encountered the enemy, the Messenger of Allah (ﷺ) got down from his mule. picked up a handful of dust from the ground, threw it into their (enemy) faces and said: (the dua is mentioned above)\n\nThere was no one among the enemy whose eyes were not filled with the dust from this handful. So, they turned back fleeing. and Allah the Exalted and Glorious defeated them, and the Messenger of Allah (ﷺ) distributed their booty among the Muslims."
       },
       "target": {
-        "name": "",
+        "name": "غزوۂ حنین کے دن نبی ﷺ کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "یہ چہرے بگڑ جائیں!",
+        "note": "یہ حدیث سلمہ بن اکوع رضی اللہ عنہ سے مروی ہے۔ وہ فرماتے ہیں: ہم غزوۂ حنین میں رسول اللہ ﷺ کے ساتھ لڑے۔ جب دشمن سے آمنا سامنا ہوا تو رسول اللہ ﷺ اپنے خچر سے اترے، زمین سے ایک مٹھی مٹی اٹھائی، اسے دشمن کے چہروں کی طرف پھینکا اور فرمایا: (دعا اوپر درج ہے)\n\nدشمنوں میں سے کوئی ایسا نہ رہا جس کی آنکھیں اس ایک مٹھی مٹی سے نہ بھر گئی ہوں۔ چنانچہ وہ پیٹھ پھیر کر بھاگ گئے، اللہ عزوجل نے انہیں شکست دی اور رسول اللہ ﷺ نے ان کا مالِ غنیمت مسلمانوں میں تقسیم فرما دیا۔"
       },
       "reference_bn": {
         "name": "হুনাইন যুদ্ধের দিন নবী (ﷺ)-এর দোয়া",
@@ -180,9 +180,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "بابرکت مسنون دعا #1",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں سخت آزمائش، بدبختی آ پہنچنے، بری تقدیر اور دشمنوں کی شماتت سے تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -216,9 +216,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "بابرکت مسنون دعا #2",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں عجز، سستی، بزدلی، بخل، انتہائی بڑھاپے اور عذابِ قبر سے تیری پناہ مانگتا ہوں۔ اے اللہ! میرے نفس کو اس کا تقویٰ عطا فرما اور اسے پاک کر دے؛ تو ہی اسے سب سے بہتر پاک کرنے والا ہے، تو ہی اس کا کارساز اور مالک ہے۔ اے اللہ! میں ایسے علم سے جو نفع نہ دے، ایسے دل سے جس میں خشوع نہ ہو، ایسے نفس سے جو سیر نہ ہو اور ایسی دعا سے جو قبول نہ ہو، تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -252,9 +252,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "بابرکت مسنون دعا #3",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں تیری نعمت چھن جانے، تیری عطا کردہ عافیت بدل جانے، تیرے اچانک عذاب اور تیری ہر ناراضی سے تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -288,9 +288,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "بابرکت مسنون دعا #4",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! مجھے اپنی محبت اور اس شخص کی محبت عطا فرما جس کی محبت تیرے ہاں میرے لیے فائدہ مند ہو۔ اے اللہ! میری پسندیدہ چیزوں میں سے جو کچھ تو نے مجھے عطا کیا ہے، اسے اپنے پسندیدہ کاموں میں میرے لیے قوت بنا دے۔ اے اللہ! اور میری پسندیدہ چیزوں میں سے جو کچھ تو نے مجھ سے روک لیا ہے، اس کے بدلے مجھے اپنے پسندیدہ کاموں کے لیے فراغت عطا فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -324,9 +324,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "بابرکت مسنون دعا #5",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! ہمیں زیادہ عطا فرما اور کم نہ کر، ہمیں عزت دے اور رسوا نہ کر، ہمیں عطا فرما اور محروم نہ رکھ، ہمیں ترجیح دے اور کسی کو ہمارے مقابلے میں ترجیح نہ دے، ہمیں راضی کر دے اور ہم سے راضی ہو جا۔",
         "note": null
       },
       "reference_bn": {
@@ -360,9 +360,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "بابرکت مسنون دعا #6",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں تجھ سے ہدایت، تقویٰ، پاک دامنی اور بے نیازی مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -396,9 +396,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "بابرکت مسنون دعا #7",
         "content": null,
-        "translation": "",
+        "translation": "اے دلوں کو پھیرنے والے! میرے دل کو اپنے دین پر ثابت رکھ۔",
         "note": null
       },
       "reference_bn": {
@@ -432,9 +432,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "بابرکت مسنون دعا #8",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! ہمارے تمام معاملات کا انجام اچھا فرما اور ہمیں دنیا کی رسوائی اور آخرت کے عذاب سے بچا۔",
         "note": null
       },
       "reference_bn": {
@@ -468,9 +468,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "وبائیں اور بیماریاں #1",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں برص، دیوانگی، جذام اور بری بیماریوں سے تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -504,9 +504,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "وبائیں اور بیماریاں #2",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! کھڑے ہونے کی حالت میں اسلام کے ذریعے میری حفاظت فرما، بیٹھنے کی حالت میں اسلام کے ذریعے میری حفاظت فرما اور لیٹنے کی حالت میں اسلام کے ذریعے میری حفاظت فرما۔ کسی دشمن یا حاسد کو مجھ پر خوش نہ ہونے دے۔ اے اللہ! میں تجھ سے ہر اس خیر کا سوال کرتا ہوں جس کے خزانے تیرے ہاتھ میں ہیں، اور ہر اس شر سے تیری پناہ مانگتا ہوں جس کے خزانے تیرے ہاتھ میں ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -540,9 +540,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "وبائیں اور بیماریاں #3",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میرے بڑھاپے اور عمر کے اختتام کے وقت اپنے رزق میں سب سے زیادہ کشادگی عطا فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -576,9 +576,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "وبائیں اور بیماریاں #4",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں عجز، سستی، بزدلی، بخل، انتہائی بڑھاپے، سنگ دلی، غفلت، محتاجی، ذلت اور مسکنت سے تیری پناہ مانگتا ہوں۔ میں فقر، کفر، نافرمانی، مخالفت، نفاق، شہرت طلبی اور دکھاوے سے تیری پناہ مانگتا ہوں۔ اور میں بہرے پن، گونگے پن، دیوانگی، جذام، برص اور بری بیماریوں سے تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -612,9 +612,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "وبائیں اور بیماریاں #5",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں برے دن، بری رات، بری گھڑی، برے ساتھی اور مستقل گھر کے برے پڑوسی سے تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -648,9 +648,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "وبائیں اور بیماریاں #6",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! جو کچھ تو نے مجھے سکھایا ہے اس سے مجھے فائدہ عطا فرما، مجھے وہ علم سکھا جو میرے لیے فائدہ مند ہو اور میرے علم میں اضافہ فرما۔",
         "note": null
       },
       "reference_bn": {

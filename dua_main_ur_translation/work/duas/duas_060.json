@@ -3,7 +3,7 @@
   "chunk": "duas_060.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 22,
   "id_range": "885-906",
   "source_chars": 5580,
@@ -34,9 +34,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "سعی شروع کرتے وقت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "بے شک صفا اور مروہ اللہ کی نشانیوں میں سے ہیں۔ میں اسی سے آغاز کرتا ہوں جس سے اللہ نے آغاز فرمایا۔",
         "note": null
       },
       "reference_bn": {
@@ -70,9 +70,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "کعبے کی طرف رخ کر کے پڑھی جانے والی دعا",
+        "content": "صفا پر چڑھ کر بیت اللہ کی طرف رخ کریں اور اللہ کی وحدانیت، بڑائی اور حمد بیان کرتے ہوئے کہیں:",
+        "translation": "اللہ کے سوا کوئی معبودِ برحق نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں۔ بادشاہی اسی کی ہے اور حمد اسی کے لیے ہے۔ وہ زندہ کرتا ہے اور موت دیتا ہے، اور وہ ہر چیز پر قادر ہے۔ اللہ کے سوا کوئی معبودِ برحق نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں۔ اس نے اپنا وعدہ پورا کیا، اپنے بندے کی مدد فرمائی اور اکیلے ہی اتحادی لشکروں کو شکست دی۔",
         "note": null
       },
       "reference_bn": {
@@ -107,9 +107,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "حج کی نیت کرتے وقت تلبیہ کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں حج کے لیے حاضر ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -143,9 +143,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "عمرے کی نیت کرتے وقت تلبیہ کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں عمرے کے لیے حاضر ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -179,9 +179,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "کعبہ کی زیارت کے وقت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! تو ہی سلامتی والا ہے اور سلامتی تیری ہی طرف سے ہے؛ اے ہمارے رب! ہمیں سلامتی کے ساتھ زندہ رکھ۔",
         "note": null
       },
       "reference_bn": {
@@ -215,9 +215,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "طواف میں دو رکنوں کے درمیان کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! ہمیں دنیا میں بھلائی عطا فرما، آخرت میں بھی بھلائی عطا فرما اور ہمیں آگ کے عذاب سے بچا۔",
         "note": null
       },
       "reference_bn": {
@@ -251,10 +251,10 @@
         "note": "If it is on behalf of the family, then Wamin Ahli Baiti will be added after ‘Takbabbal Minni’. If the sacrifice is from someone else or if it is an Akika animal, take the name of that person or child after ‘Takabbal Min’.\r\n\r\nIt is clear that no additional Dua on this subject is authentic."
       },
       "target": {
-        "name": "",
+        "name": "قربانی کا جانور ذبح کرنے سے پہلے کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ کے نام سے، اور اللہ سب سے بڑا ہے۔ اے اللہ! یہ تیری ہی طرف سے ہے اور تیرے ہی لیے ہے۔ اے اللہ! اسے میری طرف سے قبول فرما۔",
+        "note": "اگر قربانی اہل خانہ کی طرف سے ہو تو ”تقبّل منی“ کے بعد ”ومن اہل بیتی“ کہا جائے۔ اگر قربانی کسی اور شخص کی طرف سے ہو یا عقیقے کا جانور ہو تو ”تقبّل من“ کے بعد اس شخص یا بچے کا نام لیا جائے۔\n\nواضح رہے کہ اس موقع کے لیے کوئی مزید دعا صحیح سند سے ثابت نہیں۔"
       },
       "reference_bn": {
         "name": "কুরবানীর পশু হলে পড়বে-",
@@ -288,9 +288,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رزق، نیک اعمال اور اچھے اخلاق کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میری تمام خطائیں اور گناہ بخش دے۔ اے اللہ! مجھے سہارا دے، مجھے زندگی عطا فرما، مجھے رزق دے، اور نیک اعمال اور اچھے اخلاق کی طرف میری رہنمائی فرما۔ بے شک ان کی طرف صرف تو ہی ہدایت دے سکتا ہے، اور ان کی برائی کو صرف تو ہی دور کر سکتا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -324,9 +324,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "مصیبت کے وقت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "بے شک ہم اللہ ہی کے ہیں اور اسی کی طرف لوٹنے والے ہیں۔ اے اللہ! میں اپنی اس مصیبت پر تیرے ہاں اجر کی امید رکھتا ہوں، پس مجھے اس پر اجر عطا فرما اور اس کے بدلے مجھے اس سے بہتر چیز عطا فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -360,9 +360,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "گم شدہ چیز واپس ملنے کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! گم شدہ چیز لوٹانے والے، بھٹکے ہوئے کو راستہ دکھانے والے! تو ہی گمراہی سے نکال کر ہدایت دیتا ہے۔ اپنی قدرت اور اقتدار سے میری گم شدہ چیز مجھے واپس لوٹا دے، کیونکہ وہ تیری ہی عطا اور تیرے ہی فضل سے ملی تھی۔",
         "note": null
       },
       "reference_bn": {
@@ -396,9 +396,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "بے چینی کے وقت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اللہ کے سوا کوئی معبودِ برحق نہیں، وہ نہایت بردبار، بہت کرم فرمانے والا ہے۔ اللہ پاک ہے، سات آسمانوں کا رب اور عرشِ عظیم کا رب۔ تمام تعریفیں اللہ رب العالمین کے لیے ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -432,9 +432,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "جنگ کے لیے جاتے وقت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں تیری مدد سے لڑتا ہوں اور تیری مدد سے حملہ کرتا ہوں۔ گناہ سے بچنے کی طاقت اور نیکی کرنے کی قوت صرف اللہ ہی سے ملتی ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -468,10 +468,10 @@
         "note": "If someone is made the amir (commander) of a small or large army (or on behalf of a contemporary ruler) he will bequeath to him the fear of Allah about himself and to treat the Muslims (Soldiers) under him well. Then say - (the Dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "لشکر کو دی جانے والی ہدایت",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ کے نام سے اللہ کی راہ میں جہاد کرو۔ ان لوگوں سے لڑو جو اللہ کا انکار کرتے ہیں۔ جہاد کرو، مالِ غنیمت میں خیانت نہ کرو، بدعہدی نہ کرو، لاشوں کا مثلہ نہ کرو اور کسی بچے کو قتل نہ کرو۔",
+        "note": "جب کسی شخص کو چھوٹے یا بڑے لشکر کا امیر مقرر کیا جائے تو اسے اپنے بارے میں اللہ سے ڈرنے اور اپنے ماتحت مسلمان سپاہیوں کے ساتھ اچھا سلوک کرنے کی نصیحت کی جائے، پھر یہ ہدایت دی جائے: (الفاظ اوپر درج ہیں)"
       },
       "reference_bn": {
         "name": "যুদ্ধে অগ্রগামীদের জন্য দোয়া",
@@ -505,9 +505,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "کسی کو مسکراتا دیکھ کر دعا",
         "content": null,
-        "translation": "",
+        "translation": "اللہ آپ کو ہمیشہ ہنستا مسکراتا رکھے۔",
         "note": null
       },
       "reference_bn": {
@@ -541,9 +541,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "قرض پورا ادا کرنے والے کے لیے دعا",
         "content": null,
-        "translation": "",
+        "translation": "آپ نے میرا حق پورا ادا کر دیا، اللہ بھی آپ کو پورا بدلہ عطا فرمائے۔",
         "note": null
       },
       "reference_bn": {
@@ -577,9 +577,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "جنگ کے لیے جانے والوں سے خطاب #1",
         "content": null,
-        "translation": "",
+        "translation": "اے لوگو! دشمن سے مقابلے کی تمنا نہ کرو اور اللہ سے عافیت مانگو۔ لیکن اگر دشمن سے مقابلہ ہو جائے تو ثابت قدم رہو، اور جان لو کہ جنت تلواروں کے سائے تلے ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -613,9 +613,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "جنگ کے لیے جانے والوں سے خطاب #2",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! کتاب نازل فرمانے والے، بادلوں کو چلانے والے اور اتحادی لشکروں کو شکست دینے والے! انہیں شکست دے اور ان کے مقابلے میں ہماری مدد فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -649,9 +649,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "جنگ کے لیے جانے والوں سے خطاب #3",
         "content": null,
-        "translation": "",
+        "translation": "جب ہم کسی دشمن قوم کے میدان میں اترتے ہیں تو ان لوگوں کی صبح بہت بری ہوتی ہے جنہیں خبردار کر دیا گیا تھا۔",
         "note": null
       },
       "reference_bn": {
@@ -685,9 +685,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "نفع بخش علم کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! جو علم تو نے مجھے سکھایا ہے اس سے مجھے فائدہ عطا فرما، مجھے وہ علم سکھا جو میرے لیے فائدہ مند ہو، اور مجھے ایسا علم عطا فرما جس کے ذریعے تو مجھے فائدہ پہنچائے۔",
         "note": null
       },
       "reference_bn": {
@@ -721,10 +721,10 @@
         "note": "He responded to his Salam. He then sat down. The Prophet (ﷺ) said: Ten (rewards)."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "سلام کرنے کا طریقہ",
+        "content": "عمران بن حصین رضی اللہ عنہ سے روایت ہے کہ ایک شخص نبی ﷺ کی خدمت میں آیا اور کہا:",
+        "translation": "آپ پر سلامتی ہو۔",
+        "note": "آپ ﷺ نے اس کے سلام کا جواب دیا۔ پھر وہ بیٹھ گیا تو نبی ﷺ نے فرمایا: دس نیکیاں۔"
       },
       "reference_bn": {
         "name": "সালামের পদ্ধতি",
@@ -737,37 +737,37 @@
           "group": 0,
           "key": "content",
           "source": "Another man came and said:",
-          "target": ""
+          "target": "پھر ایک اور شخص آیا اور کہا:"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "Peace and Allah's mercy be upon you",
-          "target": ""
+          "target": "آپ پر سلامتی اور اللہ کی رحمت ہو۔"
         },
         {
           "group": 0,
           "key": "note",
           "source": "He responded to his salutation when he sat down. He said: Twenty (rewards).",
-          "target": ""
+          "target": "آپ ﷺ نے اس کے سلام کا جواب دیا۔ جب وہ بیٹھ گیا تو فرمایا: بیس نیکیاں۔"
         },
         {
           "group": 1,
           "key": "content",
           "source": "Another man came and said:",
-          "target": ""
+          "target": "پھر ایک اور شخص آیا اور کہا:"
         },
         {
           "group": 1,
           "key": "translation",
           "source": "Peace and Allah's mercy and blessings be upon you",
-          "target": ""
+          "target": "آپ پر سلامتی، اللہ کی رحمت اور اس کی برکتیں ہوں۔"
         },
         {
           "group": 1,
           "key": "note",
           "source": "He responded to him and said when he sat down: Thirty (rewards).",
-          "target": ""
+          "target": "آپ ﷺ نے اس کے سلام کا جواب دیا۔ جب وہ بیٹھ گیا تو فرمایا: تیس نیکیاں۔"
         }
       ]
     },
@@ -797,9 +797,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "کھانے کے اختتام پر دعا",
         "content": null,
-        "translation": "",
+        "translation": "تمام تعریفیں اللہ کے لیے ہیں، جو کھلاتا ہے مگر خود نہیں کھاتا۔ اس نے ہم پر احسان کیا، ہمیں ہدایت دی، کھلایا، پلایا اور ہر اچھی نعمت سے نوازا۔ تمام تعریفیں اللہ کے لیے ہیں؛ اسے کبھی چھوڑا نہیں جا سکتا، اس کے احسان کا پورا بدلہ نہیں دیا جا سکتا، اس کی ناشکری نہیں کی جا سکتی اور اس سے کبھی بے نیاز نہیں ہوا جا سکتا۔ تمام تعریفیں اللہ کے لیے ہیں، جس نے ہمیں کھانا کھلایا، پینے کو دیا، بے لباسی میں لباس پہنایا، گمراہی سے نکال کر ہدایت دی، نابینائی سے نکال کر بصیرت عطا کی اور اپنی بہت سی مخلوقات پر ہمیں نمایاں فضیلت عطا فرمائی۔ تمام تعریفیں اللہ رب العالمین کے لیے ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -833,9 +833,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "کھانا ختم کرنے کے بعد کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! تو نے کھلایا اور پلایا، مال دار کیا اور کفایت فرمائی، ہدایت دی اور زندگی عطا کی؛ پس جو کچھ تو نے عطا فرمایا اس پر تمام حمد تیرے ہی لیے ہے۔",
         "note": null
       },
       "reference_bn": {

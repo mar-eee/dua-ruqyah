@@ -3,7 +3,7 @@
   "chunk": "duas_057.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 17,
   "id_range": "816-832",
   "source_chars": 5654,
@@ -34,9 +34,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "وبائیں اور بیماریاں #7",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! مجھے میری سماعت اور بصارت سے بہرہ مند رکھ اور انہیں میری وفات تک سلامت رکھ۔ جس نے مجھ پر ظلم کیا اس کے خلاف میری مدد فرما اور اس سے میرا بدلہ لے۔",
         "note": null
       },
       "reference_bn": {
@@ -70,8 +70,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "دجال سے حفاظت",
+        "content": "جو شخص سورۂ کہف کی ابتدائی دس آیات حفظ کر لے، وہ مسیح دجال سے محفوظ رہے گا۔ ہر نماز میں آخری تشہد کے بعد اور سلام پھیرنے سے پہلے مسیح دجال کے فتنے سے اللہ کی پناہ بھی مانگنی چاہیے۔",
         "translation": null,
         "note": null
       },
@@ -106,9 +106,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "شرک سے حفاظت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں تیری پناہ مانگتا ہوں کہ جانتے بوجھتے کسی کو تیرا شریک ٹھہراؤں، اور جو کچھ لاعلمی میں ہو جائے اس پر تجھ سے مغفرت مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -142,10 +142,10 @@
         "note": "Aaishah would then say :"
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "برکت کی دعا دینے والے کے لیے جواب #1",
+        "content": "عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ ﷺ کو ایک بکری ہدیے میں دی گئی تو آپ نے اسے تقسیم کرنے کا حکم فرمایا۔ جب خادم تقسیم کرکے واپس آتا تو عائشہ رضی اللہ عنہا پوچھتیں: لوگوں نے کیا کہا؟ وہ جواب دیتا: انہوں نے یہ دعا دی:",
+        "translation": "اللہ آپ سب کو برکت عطا فرمائے۔",
+        "note": "عائشہ رضی اللہ عنہا جواب میں فرماتیں:"
       },
       "reference_bn": {
         "name": "বরকতের দোয়া করলে #১",
@@ -158,31 +158,31 @@
           "group": 0,
           "key": "name",
           "source": "Dua to one who pray blessings for you #2",
-          "target": ""
+          "target": "برکت کی دعا دینے والے کے لیے جواب #2"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "And may Allah bless them.",
-          "target": ""
+          "target": "اور اللہ انہیں بھی برکت عطا فرمائے۔"
         },
         {
           "group": 1,
           "key": "name",
           "source": "Dua to one who says 'May Allah bless you #3",
-          "target": ""
+          "target": "برکت کی دعا دینے والے کے لیے جواب #3"
         },
         {
           "group": 1,
           "key": "translation",
           "source": "And May Allah bless you.",
-          "target": ""
+          "target": "اور اللہ آپ کو بھی برکت عطا فرمائے۔"
         },
         {
           "group": 1,
           "key": "note",
           "source": "So we pray in the same way in the hope of the same reward.",
-          "target": ""
+          "target": "یوں ہم بھی ویسی ہی دعا دیتے ہیں، تاکہ ہمیں بھی وہی اجر ملے۔"
         }
       ]
     },
@@ -212,10 +212,10 @@
         "note": "However, the Prophet (ﷺ) liked to take good omens. That is why when he heard a good word or a good word from a man, he liked it and said, I have taken your good word from your mouth. [2]"
       },
       "target": {
-        "name": "",
+        "name": "بدشگونی کی ممانعت",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! تیری تقدیر کے سوا کسی شگون کا کوئی اثر نہیں، تیری بھلائی کے سوا کوئی بھلائی نہیں اور تیرے سوا کوئی معبودِ برحق نہیں۔ [1]",
+        "note": "البتہ نبی ﷺ نیک فال پسند فرماتے تھے۔ چنانچہ جب آپ کسی شخص سے کوئی اچھی بات سنتے تو اسے پسند فرماتے اور کہتے: میں نے تمہارے منہ سے نیک فال پائی ہے۔ [2]"
       },
       "reference_bn": {
         "name": "অশুভ লক্ষণ গ্রহণকে অপছন্দ করে দোয়া",
@@ -249,8 +249,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "نبی ﷺ پر درود بھیجنے کی فضیلت",
+        "content": "نبی ﷺ نے فرمایا: ”جو شخص مجھ پر ایک مرتبہ درود بھیجتا ہے، اللہ اس پر دس رحمتیں نازل فرماتا ہے۔“ [1]\n\nآپ ﷺ نے یہ بھی فرمایا: ”میری قبر کو میلہ گاہ نہ بناؤ۔ مجھ پر درود بھیجا کرو، کیونکہ تم جہاں بھی ہو تمہارا درود مجھ تک پہنچتا ہے۔“ [2]\n\nآپ ﷺ نے فرمایا: ”بخیل وہ ہے جس کے سامنے میرا ذکر ہو اور وہ مجھ پر درود نہ بھیجے۔“ [3]\n\nآپ ﷺ نے فرمایا: ”اللہ کے کچھ فرشتے زمین میں گھومتے رہتے ہیں اور میری امت کا سلام مجھ تک پہنچاتے ہیں۔“ [4]\n\nآپ ﷺ نے یہ بھی فرمایا: ”جو شخص مجھے سلام بھیجتا ہے، اللہ میری روح مجھے لوٹا دیتا ہے تاکہ میں اس کے سلام کا جواب دوں۔“ [5]",
         "translation": null,
         "note": null
       },
@@ -285,9 +285,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "جانور ذبح یا قربان کرتے وقت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اللہ کے نام سے، اور اللہ سب سے بڑا ہے۔ [اے اللہ! یہ تیری ہی طرف سے ہے اور تیرے ہی لیے ہے۔] اے اللہ! اسے میری طرف سے قبول فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -321,10 +321,10 @@
         "note": "Also \"If you hear the barking of dogs or the braying of asses at night, seek refuge in Allah for they see what you do not.\" [1]"
       },
       "target": {
-        "name": "",
+        "name": "گدھے کی آواز یا کتوں کے بھونکنے کی آواز سن کر",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "میں شیطان مردود سے اللہ کی پناہ مانگتا ہوں۔",
+        "note": "رات کے وقت کتوں کے بھونکنے یا گدھوں کے رینکنے کی آواز سنو تو اللہ کی پناہ مانگو، کیونکہ وہ ایسی چیزیں دیکھتے ہیں جو تم نہیں دیکھتے۔ [1]"
       },
       "reference_bn": {
         "name": "গাধা বা কুকুরের ডাক শুনলে",
@@ -358,9 +358,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "سرکش شیطانوں کے فریب سے بچنے کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "میں اللہ کے ان کامل کلمات کی پناہ مانگتا ہوں جن سے کوئی نیک یا بد آگے نہیں بڑھ سکتا؛ ہر اس چیز کے شر سے جسے اس نے پیدا کیا، وجود بخشا اور پھیلایا؛ اس چیز کے شر سے جو آسمان سے اترتی ہے اور اس چیز کے شر سے جو اس میں چڑھتی ہے؛ اس چیز کے شر سے جسے اس نے زمین میں پھیلایا اور اس چیز کے شر سے جو اس میں سے نکلتی ہے؛ رات اور دن کے فتنوں کے شر سے، اور رات کو آنے والے ہر آنے والے کے شر سے، سوائے اس کے جو خیر لے کر آئے، اے نہایت رحم فرمانے والے!",
         "note": null
       },
       "reference_bn": {
@@ -394,10 +394,10 @@
         "note": "Allah would forgive him even if he was one who fled during the advance of an army.\" [1]\n\nHe (ﷺ) said: \"The nearest the Lord comes to His servant is in the middle of the night, so if you are able to be of those who remember Allah at that time, then be so.\" [2]\n\nHe (ﷺ) also said: \"The nearest a servant is to his Lord is when he is prostrating, so supplicate much therein.\" [3]\n\nHe (ﷺ) also said: \"Verily my heart becomes preoccupied, and verily I seek Allah\"s forgiveness a hundred times a day.\" [4]"
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "مغفرت اور توبہ",
+        "content": "نبی ﷺ نے مزید فرمایا: جو شخص یہ کہے:",
+        "translation": "میں عظمت والے اللہ سے مغفرت مانگتا ہوں، جس کے سوا کوئی معبودِ برحق نہیں، وہ زندہ و قائم رہنے والا اور سب کو قائم رکھنے والا ہے، اور میں اسی کے حضور توبہ کرتا ہوں۔",
+        "note": "اللہ اسے بخش دے گا، اگرچہ وہ میدانِ جنگ سے فرار ہوا ہو۔ [1]\n\nآپ ﷺ نے فرمایا: ”رب اپنے بندے کے سب سے زیادہ قریب رات کے آخری حصے میں ہوتا ہے، اس لیے اگر تم اس وقت اللہ کا ذکر کرنے والوں میں شامل ہو سکو تو ضرور ہو جاؤ۔“ [2]\n\nآپ ﷺ نے یہ بھی فرمایا: ”بندہ اپنے رب کے سب سے زیادہ قریب سجدے کی حالت میں ہوتا ہے، اس لیے اس میں کثرت سے دعا کیا کرو۔“ [3]\n\nآپ ﷺ نے یہ بھی فرمایا: ”میرے دل پر بھی ایک پردہ سا آ جاتا ہے، اور میں روزانہ سو مرتبہ اللہ سے مغفرت مانگتا ہوں۔“ [4]"
       },
       "reference_bn": {
         "name": "ক্ষমা প্রার্থনা ও তাওবা করা",
@@ -432,9 +432,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "نیا پھل دیکھنے کی دعا",
+        "content": "ابو ہریرہ رضی اللہ عنہ فرماتے ہیں کہ لوگ نیا پھل نبی ﷺ کی خدمت میں لاتے تھے۔ نبی ﷺ اسے قبول فرماتے اور کہتے:",
+        "translation": "اے اللہ! ہمارے پھلوں میں برکت عطا فرما، ہمارے شہر میں برکت عطا فرما، ہمارے صاع میں برکت عطا فرما اور ہمارے مُد میں برکت عطا فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -469,9 +469,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "دل کو گناہوں کی رغبت سے بچانے کی دعا",
+        "content": "دل کو گناہوں کی طرف مائل ہونے سے بچانے کے لیے نبی ﷺ یہ دعا فرماتے تھے:",
+        "translation": "اے اللہ! میں برے اخلاق، برے اعمال اور بری خواہشات سے تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -506,9 +506,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "کان، آنکھ، زبان، دل اور شرم گاہ کے شر سے حفاظت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں اپنی سماعت کے شر، اپنی بصارت کے شر، اپنی زبان کے شر، اپنے دل کے شر اور اپنی شرم گاہ کے شر سے تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -542,9 +542,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "دل کو اللہ کی اطاعت پر قائم رکھنے کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! دلوں کو پھیرنے والے، ہمارے دلوں کو اپنی اطاعت کی طرف پھیر دے۔ [1]",
         "note": null
       },
       "reference_bn": {
@@ -556,13 +556,13 @@
           "group": 0,
           "key": "content",
           "source": "In another narration, Rasulullah (ﷺ) used to say this more and more:",
-          "target": ""
+          "target": "ایک دوسری روایت میں ہے کہ رسول اللہ ﷺ یہ دعا کثرت سے فرمایا کرتے تھے:"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "O Changer of the hearts, make my heart firm upon Your religion. [2]",
-          "target": ""
+          "target": "اے دلوں کو پھیرنے والے! میرے دل کو اپنے دین پر ثابت رکھ۔ [2]"
         }
       ]
     },
@@ -592,10 +592,10 @@
         "note": "We have seen that the believer never expects gratitude or recompense from anyone who benefits him. On the other hand, it is the duty of the beneficent believer to express gratitude to the benefactor, to praise him, to openly acknowledge his beneficence, and to pray for him. The Prophet (ﷺ) said: If someone does good to someone and he gives thanks to the benefactor by saying this, then it will be best appreciated."
       },
       "target": {
-        "name": "",
+        "name": "محسن کا شکریہ ادا کرنا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ آپ کو بہترین جزا عطا فرمائے۔",
+        "note": "مومن جب کسی کے ساتھ بھلائی کرتا ہے تو اس سے شکریے یا بدلے کی توقع نہیں رکھتا۔ دوسری طرف جس شخص کو فائدہ پہنچے، اس کی ذمہ داری ہے کہ محسن کا شکریہ ادا کرے، اس کی تعریف کرے، اس کے احسان کا کھلے دل سے اعتراف کرے اور اس کے لیے دعا کرے۔ نبی ﷺ نے فرمایا: جب کسی کے ساتھ بھلائی کی جائے اور وہ اپنے محسن سے یہ الفاظ کہے تو اس نے کامل انداز میں اس کی تعریف کر دی۔"
       },
       "reference_bn": {
         "name": "কেউ আপনার সাথে সদাচারণ করলে তার জন্য দোয়া",
@@ -629,9 +629,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "آئینہ دیکھنے کی دعا",
+        "content": "رسول اللہ ﷺ آئینہ دیکھتے وقت یہ دعا فرماتے تھے:",
+        "translation": "اے اللہ! جس طرح تو نے میری صورت اچھی بنائی ہے، اسی طرح میرے اخلاق بھی اچھے بنا دے۔",
         "note": null
       },
       "reference_bn": {
@@ -666,8 +666,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "نبی ﷺ پر درود بھیجنے کی فضیلت",
+        "content": "ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ نبی ﷺ نے فرمایا: جو شخص مجھ پر ایک مرتبہ درود بھیجتا ہے، اللہ اس پر دس رحمتیں نازل فرماتا ہے۔",
         "translation": null,
         "note": null
       },

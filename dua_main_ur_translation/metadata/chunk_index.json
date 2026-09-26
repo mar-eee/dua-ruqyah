@@ -2,12 +2,7 @@
   "budget_chars": 6000,
   "max_rows_per_file": 50,
   "part_size_chars": 2000,
-  "excluded_tables": [
-    "book_details",
-    "books",
-    "drawer_items",
-    "sections"
-  ],
+  "excluded_tables": [],
   "tables_without_text": [
     "drawer_item_actions",
     "ids"
@@ -38,9 +33,9 @@
     "subcat_count"
   ],
   "totals": {
-    "files": 260,
-    "chars": 1302886,
-    "rows": 1965
+    "files": 313,
+    "chars": 1531275,
+    "rows": 2081
   },
   "tables": {
     "categories": {
@@ -2245,6 +2240,492 @@
           "id_range": "51-74",
           "source_chars": 1373,
           "items": 24,
+          "status": "pending"
+        }
+      ]
+    },
+    "sections": {
+      "source": "en",
+      "translate_fields": [
+        "name"
+      ],
+      "key_fields": [
+        "id",
+        "book_id"
+      ],
+      "total_rows": 21,
+      "total_source_chars": 846,
+      "files": [
+        {
+          "file": "work/sections/sections_001.json",
+          "rows": 21,
+          "id_range": "1-12",
+          "source_chars": 846,
+          "items": 21,
+          "status": "pending"
+        }
+      ]
+    },
+    "books": {
+      "source": "bn",
+      "translate_fields": [
+        "name",
+        "writer",
+        "translator",
+        "editor"
+      ],
+      "key_fields": [
+        "id"
+      ],
+      "total_rows": 3,
+      "total_source_chars": 223,
+      "files": [
+        {
+          "file": "work/books/books_001.json",
+          "rows": 3,
+          "id_range": "1-4",
+          "source_chars": 223,
+          "items": 3,
+          "status": "pending"
+        }
+      ]
+    },
+    "book_details": {
+      "source": "bn",
+      "translate_fields": [
+        "topic_name",
+        "description"
+      ],
+      "key_fields": [
+        "id",
+        "book_id",
+        "section_id"
+      ],
+      "total_rows": 86,
+      "total_source_chars": 219077,
+      "files": [
+        {
+          "file": "work/book_details/book_details_001.json",
+          "rows": 6,
+          "id_range": "1-6",
+          "source_chars": 4774,
+          "items": 6,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_002.json",
+          "rows": 2,
+          "id_range": "7-8",
+          "source_chars": 5273,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_003.json",
+          "rows": 3,
+          "id_range": "9-11",
+          "source_chars": 5608,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_004.json",
+          "rows": 1,
+          "id_range": "12-12",
+          "source_chars": 4413,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_005.json",
+          "rows": 4,
+          "id_range": "13-16",
+          "source_chars": 5926,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_006.json",
+          "rows": 6,
+          "id_range": "17-22",
+          "source_chars": 5616,
+          "items": 6,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_007.json",
+          "rows": 1,
+          "id_range": "23-23",
+          "source_chars": 4984,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_008.json",
+          "rows": 4,
+          "id_range": "24-27",
+          "source_chars": 5738,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_009.json",
+          "rows": 5,
+          "id_range": "28-32",
+          "source_chars": 5398,
+          "items": 5,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_010.json",
+          "rows": 9,
+          "id_range": "33-41",
+          "source_chars": 5898,
+          "items": 9,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_011.json",
+          "rows": 4,
+          "id_range": "42-45",
+          "source_chars": 4600,
+          "items": 5,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_012.json",
+          "rows": 1,
+          "id_range": "45-45",
+          "source_chars": 3982,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_013.json",
+          "rows": 1,
+          "id_range": "46-46",
+          "source_chars": 5183,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_014.json",
+          "rows": 1,
+          "id_range": "124-124",
+          "source_chars": 3488,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_015.json",
+          "rows": 1,
+          "id_range": "125-125",
+          "source_chars": 3042,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_016.json",
+          "rows": 1,
+          "id_range": "126-126",
+          "source_chars": 4882,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_017.json",
+          "rows": 1,
+          "id_range": "127-127",
+          "source_chars": 1675,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_018.json",
+          "rows": 1,
+          "id_range": "128-128",
+          "source_chars": 4347,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_019.json",
+          "rows": 2,
+          "id_range": "129-130",
+          "source_chars": 5616,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_020.json",
+          "rows": 2,
+          "id_range": "130-131",
+          "source_chars": 5120,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_021.json",
+          "rows": 1,
+          "id_range": "132-132",
+          "source_chars": 1931,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_022.json",
+          "rows": 1,
+          "id_range": "133-133",
+          "source_chars": 4427,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_023.json",
+          "rows": 1,
+          "id_range": "134-134",
+          "source_chars": 3993,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_024.json",
+          "rows": 1,
+          "id_range": "135-135",
+          "source_chars": 3196,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_025.json",
+          "rows": 2,
+          "id_range": "136-137",
+          "source_chars": 5847,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_026.json",
+          "rows": 1,
+          "id_range": "138-138",
+          "source_chars": 5880,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_027.json",
+          "rows": 2,
+          "id_range": "139-140",
+          "source_chars": 4402,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_028.json",
+          "rows": 1,
+          "id_range": "141-141",
+          "source_chars": 5760,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_029.json",
+          "rows": 2,
+          "id_range": "141-142",
+          "source_chars": 5440,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_030.json",
+          "rows": 1,
+          "id_range": "143-143",
+          "source_chars": 5853,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_031.json",
+          "rows": 1,
+          "id_range": "144-144",
+          "source_chars": 4347,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_032.json",
+          "rows": 1,
+          "id_range": "145-145",
+          "source_chars": 3142,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_033.json",
+          "rows": 1,
+          "id_range": "146-146",
+          "source_chars": 3131,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_034.json",
+          "rows": 1,
+          "id_range": "147-147",
+          "source_chars": 4565,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_035.json",
+          "rows": 1,
+          "id_range": "148-148",
+          "source_chars": 2598,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_036.json",
+          "rows": 1,
+          "id_range": "149-149",
+          "source_chars": 4522,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_037.json",
+          "rows": 1,
+          "id_range": "150-150",
+          "source_chars": 2275,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_038.json",
+          "rows": 1,
+          "id_range": "151-151",
+          "source_chars": 4428,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_039.json",
+          "rows": 1,
+          "id_range": "152-152",
+          "source_chars": 4371,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_040.json",
+          "rows": 1,
+          "id_range": "153-153",
+          "source_chars": 2273,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_041.json",
+          "rows": 1,
+          "id_range": "154-154",
+          "source_chars": 4436,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_042.json",
+          "rows": 1,
+          "id_range": "155-155",
+          "source_chars": 2721,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_043.json",
+          "rows": 2,
+          "id_range": "156-157",
+          "source_chars": 4959,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_044.json",
+          "rows": 1,
+          "id_range": "158-158",
+          "source_chars": 2203,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_045.json",
+          "rows": 1,
+          "id_range": "159-159",
+          "source_chars": 4680,
+          "items": 1,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_046.json",
+          "rows": 1,
+          "id_range": "160-160",
+          "source_chars": 5720,
+          "items": 3,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_047.json",
+          "rows": 2,
+          "id_range": "160-161",
+          "source_chars": 5837,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_048.json",
+          "rows": 2,
+          "id_range": "162-163",
+          "source_chars": 4941,
+          "items": 2,
+          "status": "pending"
+        },
+        {
+          "file": "work/book_details/book_details_049.json",
+          "rows": 1,
+          "id_range": "163-163",
+          "source_chars": 5636,
+          "items": 3,
+          "status": "pending"
+        }
+      ]
+    },
+    "drawer_items": {
+      "source": "bn",
+      "translate_fields": [
+        "title",
+        "hero_title1",
+        "hero_title2",
+        "content"
+      ],
+      "key_fields": [
+        "id"
+      ],
+      "total_rows": 6,
+      "total_source_chars": 8243,
+      "files": [
+        {
+          "file": "work/drawer_items/drawer_items_001.json",
+          "rows": 3,
+          "id_range": "19-21",
+          "source_chars": 4512,
+          "items": 4,
+          "status": "pending"
+        },
+        {
+          "file": "work/drawer_items/drawer_items_002.json",
+          "rows": 3,
+          "id_range": "22-24",
+          "source_chars": 3731,
+          "items": 4,
           "status": "pending"
         }
       ]

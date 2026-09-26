@@ -3,7 +3,7 @@
   "chunk": "duas_052.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 8,
   "id_range": "758-765",
   "source_chars": 5937,
@@ -34,9 +34,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "قرض سے نجات کی دعا",
+        "content": "رسول اللہ ﷺ ہمیں حکم دیتے تھے کہ بستر پر جاتے وقت یہ الفاظ کہیں:",
+        "translation": "اے اللہ! آسمانوں کے رب، زمین کے رب اور عرشِ عظیم کے رب! ہمارے رب اور ہر چیز کے رب! دانے اور گٹھلی کو پھاڑنے والے، تورات، انجیل اور فرقان کو نازل کرنے والے! میں ہر اس چیز کے شر سے تیری پناہ مانگتا ہوں جس کی پیشانی تیرے قبضے میں ہے۔ اے اللہ! تو اول ہے، تجھ سے پہلے کچھ نہیں؛ تو آخر ہے، تیرے بعد کچھ نہیں؛ تو ظاہر ہے، تجھ سے اوپر کچھ نہیں؛ اور تو باطن ہے، تجھ سے ورے کچھ نہیں۔ ہمارا قرض ادا کر دے اور ہمیں فقر سے بے نیاز فرما دے۔",
         "note": null
       },
       "reference_bn": {
@@ -71,10 +71,10 @@
         "note": "Narrated Abdullah ibn Mas'ud (RA): We did not know what we should say when we sat during prayer. The Messenger of Allah (ﷺ) was taught (by Allah). He then narrated the tradition to the same effect. Then He said: He used to teach us also some other words, but he did not teach them as he taught us the tashahhud: (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "وسیع مفہوم والی جامع دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے ہمارے رب! ہمارے باہمی تعلقات درست فرما، ہمیں اسلام کی راہ دکھا، ہمیں اندھیروں سے نکال کر روشنی کی طرف لے جا، اور ظاہر و پوشیدہ ہر بے حیائی کو ہم سے دور فرما۔ ہماری سماعت، بصارت، دلوں، ازواج اور اولاد میں برکت عطا فرما اور ہماری توبہ قبول فرما؛ بے شک تو ہی بہت توبہ قبول کرنے والا، نہایت رحم فرمانے والا ہے۔ ہمیں اپنی نعمتوں کا شکر گزار، ان پر تیری حمد کرنے والا اور ان کا اقرار کرنے والا بنا، اور اپنی نعمت ہم پر کامل فرما۔",
+        "note": "عبداللہ بن مسعود رضی اللہ عنہ سے روایت ہے: ہمیں معلوم نہ تھا کہ نماز میں بیٹھتے وقت کیا کہیں۔ رسول اللہ ﷺ کو تشہد سکھایا گیا۔ پھر عبداللہ بن مسعود رضی اللہ عنہ نے تشہد والی روایت بیان کی اور فرمایا: آپ ﷺ ہمیں کچھ اور کلمات بھی سکھاتے تھے، اگرچہ انہیں تشہد کی طرح نہیں سکھاتے تھے: (دعا اوپر مذکور ہے)"
       },
       "reference_bn": {
         "name": "ব্যাপক অর্থবোধক ও সর্বোত্তম বাক্যাবলির সাহায্যে দোয়া",
@@ -108,9 +108,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "دنیا و آخرت کی بھلائی کی جامع دعا",
+        "content": "نبی محمد ﷺ اپنے رب سے یوں دعا فرمایا کرتے تھے:",
+        "translation": "اے اللہ! میں تجھ سے بہترین سوال، بہترین دعا، بہترین کامیابی، بہترین عمل، بہترین اجر، بہترین زندگی اور بہترین موت مانگتا ہوں۔ مجھے ثابت قدم رکھ، میرے اعمال کا ترازو بھاری کر، میرے ایمان کو سچا اور پختہ بنا، میرے درجات بلند فرما، میری نماز قبول فرما، میری خطا بخش دے، اور میں تجھ سے جنت کے بلند ترین درجات مانگتا ہوں۔ آمین۔\n\nاے اللہ! میں تجھ سے بھلائی کی ابتدا، اس کی انتہا، اس کی جامع صورت، اس کا اول و آخر، اس کا ظاہر و باطن اور جنت کے بلند ترین درجات مانگتا ہوں۔ آمین۔ اے اللہ! میں تجھ سے اس چیز کی بھلائی مانگتا ہوں جو مجھے پیش آئے، اس کام کی بھلائی جو میں کروں، اپنے عمل کی بھلائی، پوشیدہ امور کی بھلائی، ظاہر امور کی بھلائی اور جنت کے بلند ترین درجات مانگتا ہوں۔ آمین۔\n\nاے اللہ! میں تجھ سے سوال کرتا ہوں کہ میرا ذکر بلند فرما، میرا بوجھ اتار دے، میرا معاملہ درست فرما، میرے دل کو پاک کر، میری عصمت کی حفاظت فرما، میرے دل کو روشن کر، میرا گناہ بخش دے، اور میں تجھ سے جنت کے بلند ترین درجات مانگتا ہوں۔ آمین۔\n\nاے اللہ! میں تجھ سے سوال کرتا ہوں کہ میری ذات، میری سماعت، میری بصارت، میری روح، میری جسمانی ساخت، میرے اخلاق، میرے اہل و عیال، میری زندگی، میری موت اور میرے اعمال میں برکت عطا فرما۔ میری نیکیاں قبول فرما، اور میں تجھ سے جنت کے بلند ترین درجات مانگتا ہوں۔ آمین۔",
         "note": null
       },
       "reference_bn": {
@@ -145,9 +145,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "کھوئی ہوئی چیز کا بہتر بدل مانگنے کی دعا",
+        "content": "نبی ﷺ اپنی دعاؤں میں فرمایا کرتے تھے:",
+        "translation": "اے اللہ! جو رزق تو نے مجھے عطا کیا ہے اس پر مجھے قناعت دے اور اس میں میرے لیے برکت عطا فرما، اور میری ہر کھوئی ہوئی چیز کا مجھے بہتر بدل عطا فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -182,10 +182,10 @@
         "note": "Narrated by ‘Aisha (RA): Allah's Messenger (ﷺ), said, \"None will be called to account on the Day of Resurrection, but will be ruined.\" I said \"O Allah's Messenger (ﷺ)! Hasn't Allah said: 'Then as for him who will be given his record in his right hand, he surely will receive an easy reckoning? (84:7-8)  \n\nAllah's Messenger (ﷺ) said, \"That (Verse) means only the presentation of the accounts, but anybody whose account (record) is questioned on the Day of Resurrection, will surely be punished.\""
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "آسان حساب کی دعا",
+        "content": "عائشہ رضی اللہ عنہا سے روایت ہے کہ میں نے نبی ﷺ کو ایک نماز میں یہ کہتے سنا:",
+        "translation": "اے اللہ! میرا حساب آسان فرما۔",
+        "note": "عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: \"قیامت کے دن جس سے بھی حساب میں پوچھ گچھ کی گئی وہ ہلاک ہو جائے گا۔\" میں نے عرض کیا: \"یا رسول اللہ! کیا اللہ نے یہ نہیں فرمایا: 'پس جسے اس کا نامۂ اعمال دائیں ہاتھ میں دیا جائے گا، اس سے آسان حساب لیا جائے گا' (84:7-8)؟\" رسول اللہ ﷺ نے فرمایا: \"اس سے مراد صرف اعمال کا پیش کیا جانا ہے؛ قیامت کے دن جس کے حساب کی چھان بین ہوئی اسے ضرور عذاب دیا جائے گا۔\""
       },
       "reference_bn": {
         "name": "সহজ হিসাবের জন্য দোয়া",
@@ -220,9 +220,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "ذکر، شکر اور عمدہ عبادت میں اللہ کی مدد",
+        "content": "معاذ بن جبل رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے ان کا ہاتھ پکڑ کر فرمایا: \"اے معاذ! اللہ کی قسم، میں تم سے محبت کرتا ہوں۔ میں تمہیں نصیحت کرتا ہوں کہ ہر نماز کے بعد یہ دعا کہنا کبھی نہ چھوڑنا:\"",
+        "translation": "اے اللہ! اپنا ذکر کرنے، اپنا شکر ادا کرنے اور بہترین طریقے سے اپنی عبادت کرنے میں میری مدد فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -257,10 +257,10 @@
         "note": "Abdullah Ibn Mas’ud (RA) narrated, he said, “I was praying at the mosque. In the meantime, The Messenger of Allah (ﷺ) entered into the mosque. Abu Bakr (RA) and ‘Umar (RA) were with Him. I recited surah An-Nisah. After completing the recitation, I praised Allah and sent salah upon prophet (ﷺ) then I make dua for myself. Then The Messenger of Allah (ﷺ) said, “Ask! You will be given (what you want).” Then He (ﷺ) said, “Whoever wants to recite the Qur'an in it’s pure form, then he should recite it as Ibn Umm ‘Abd (Abdullah Ibn Mas’ud).\n\nThen I came back to my home. Sometimes later Abu Bakr (RA) came to me and said, “Did you remember the things you are wanting in your supplication?” I replied, “Yes. Those are: (The dua is mentioned above)”\n\nThen ‘Umar (RA) came to this slave of Allah to give the glad tidings. After reaching, he saw Abu Bakr (RA) was leaving from me. Then he [‘Umar (RA)] said, “If you did this, then you are always outdid me.”"
       },
       "target": {
-        "name": "",
+        "name": "پختہ ایمان، دائمی نعمت اور نبی ﷺ کی رفاقت کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! میں تجھ سے ایسا پختہ ایمان مانگتا ہوں جس سے میں کبھی نہ پھروں، ایسی نعمت جو کبھی ختم نہ ہو، اور ہمیشہ رہنے والی جنت کے بلند ترین درجے میں اپنے نبی محمد ﷺ کی رفاقت مانگتا ہوں۔",
+        "note": "عبداللہ بن مسعود رضی اللہ عنہ سے روایت ہے: میں مسجد میں نماز پڑھ رہا تھا کہ رسول اللہ ﷺ مسجد میں تشریف لائے۔ آپ کے ساتھ ابو بکر اور عمر رضی اللہ عنہما بھی تھے۔ میں نے سورہ نساء کی تلاوت کی۔ تلاوت مکمل کرنے کے بعد اللہ کی حمد کی، نبی ﷺ پر درود بھیجا اور پھر اپنے لیے دعا کی۔ رسول اللہ ﷺ نے فرمایا: \"مانگو، تمہیں عطا کیا جائے گا۔\" پھر آپ ﷺ نے فرمایا: \"جو شخص قرآن کو اسی تازگی کے ساتھ پڑھنا چاہے جیسے وہ نازل ہوا تھا، اسے ابن ام عبد، یعنی عبداللہ بن مسعود، کی قراءت کے مطابق پڑھنا چاہیے۔\"\n\nپھر میں اپنے گھر واپس آ گیا۔ کچھ دیر بعد ابو بکر رضی اللہ عنہ میرے پاس آئے اور پوچھا: \"تمہیں یاد ہے کہ تم نے اپنی دعا میں کیا مانگا تھا؟\" میں نے عرض کیا: \"جی ہاں، وہ یہ تھا: (دعا اوپر مذکور ہے)\"\n\nاس کے بعد عمر رضی اللہ عنہ بھی مجھے خوش خبری دینے آئے۔ انہوں نے ابو بکر رضی اللہ عنہ کو میرے پاس سے نکلتے دیکھا تو فرمایا: \"اگر آپ یہ کام کر چکے ہیں تو نیکی میں ہمیشہ ہی مجھ سے سبقت لے جاتے ہیں۔\""
       },
       "reference_bn": {
         "name": "পরিপূর্ণ ঈমান, অশেষ অনুগ্রহ এবং রাসুল (ﷺ) সাহচর্য চাওয়ার দোয়া",
@@ -294,10 +294,10 @@
         "note": "Imran bin Husain (RA) narrated: “The Prophet (ﷺ) said to my father: ‘O Husain, how many deities do you worship?’ He said: ‘Seven. Six in the earth, and one above the heavens.’ He (ﷺ) said: ‘So which of them do you take for your ardent requests and fears?’ He said: ‘The one above the heavens.’ He (ﷺ) said: ‘O Husain, if you would but accept Islam, I would teach you two phrases that would benefit you.’ He said: “So when Husain accepted Islam, he said: ‘O Messenger of Allah, teach me the two phrases you promised me.’ So, he (ﷺ) said: “Say: (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "درست رہنمائی اور نفس کے شر سے حفاظت کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! مجھے صحیح راہ کی سمجھ عطا فرما اور مجھے میرے نفس کے شر سے بچا۔",
+        "note": "عمران بن حصین رضی اللہ عنہما سے روایت ہے کہ نبی ﷺ نے ان کے والد سے فرمایا: \"اے حصین! تم کتنے معبودوں کی عبادت کرتے ہو؟\" انہوں نے کہا: \"سات؛ چھ زمین میں اور ایک آسمان کے اوپر۔\" آپ ﷺ نے فرمایا: \"شدید رغبت اور خوف کے وقت تم ان میں سے کس کو پکارتے ہو؟\" انہوں نے کہا: \"اسے جو آسمان کے اوپر ہے۔\" آپ ﷺ نے فرمایا: \"اے حصین! اگر تم اسلام قبول کر لو تو میں تمہیں دو ایسے کلمات سکھاؤں گا جو تمہیں فائدہ دیں گے۔\" جب حصین رضی اللہ عنہ نے اسلام قبول کر لیا تو عرض کیا: \"یا رسول اللہ! وہ دو کلمات مجھے سکھا دیجیے جن کا آپ نے مجھ سے وعدہ فرمایا تھا۔\" آپ ﷺ نے فرمایا: \"کہو: (دعا اوپر مذکور ہے)\""
       },
       "reference_bn": {
         "name": "সঠিক দিকনির্দেশনা এবং নফসের অনিষ্ট থেকে সুরক্ষার দোয়া",

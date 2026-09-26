@@ -1,0 +1,81 @@
+{
+  "table": "books",
+  "chunk": "books_001.json",
+  "source_language": "bn",
+  "target_language": "ur",
+  "status": "done",
+  "rows": 3,
+  "id_range": "1-4",
+  "source_chars": 223,
+  "items": [
+    {
+      "key": [
+        1
+      ],
+      "id": 1,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 1
+      },
+      "source": {
+        "name": "দোয়া-মোনাজাত: কখন ও কীভাবে?",
+        "writer": "শাইখ ফায়সাল ইবন আলী আল-বা‘দানী",
+        "translator": "আব্দুল্লাহ শহীদ আব্দুর রহমান",
+        "editor": "আলী হাসান তৈয়ব"
+      },
+      "target": {
+        "name": "دعا و مناجات: کب اور کیسے؟",
+        "writer": "شیخ فیصل بن علی البعدانی",
+        "translator": "عبداللہ شہید عبدالرحمن",
+        "editor": "علی حسن طیب"
+      }
+    },
+    {
+      "key": [
+        3
+      ],
+      "id": 3,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 3
+      },
+      "source": {
+        "name": "ফেরেশতারা যাদের জন্য দোয়া করেন",
+        "writer": "ড. ফযলে ইলাহী (মক্কী)",
+        "translator": null,
+        "editor": "মুফতি মুহাম্মদ আবুল কাসেম গাজী"
+      },
+      "target": {
+        "name": "وہ لوگ جن کے لیے فرشتے دعا کرتے ہیں",
+        "writer": "ڈاکٹر فضل الٰہی (مکی)",
+        "translator": null,
+        "editor": "مفتی محمد ابوالقاسم غازی"
+      }
+    },
+    {
+      "key": [
+        4
+      ],
+      "id": 4,
+      "part": 1,
+      "of": 1,
+      "frozen": {
+        "id": 4
+      },
+      "source": {
+        "name": "দোয়া প্রসঙ্গ",
+        "writer": "আকরামুজ্জামান বিন আব্দুস সালাম",
+        "translator": null,
+        "editor": null
+      },
+      "target": {
+        "name": "دعا کے مباحث",
+        "writer": "اکرام الزماں بن عبدالسلام",
+        "translator": null,
+        "editor": null
+      }
+    }
+  ]
+}

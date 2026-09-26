@@ -3,7 +3,7 @@
   "chunk": "duas_049.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 9,
   "id_range": "719-727",
   "source_chars": 5974,
@@ -34,9 +34,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "ہر بھلائی مانگنے اور ہر شر سے پناہ کی جامع دعا",
+        "content": "عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ ﷺ نے انہیں یہ دعا سکھائی:",
+        "translation": "اے اللہ! میں تجھ سے ہر طرح کی بھلائی مانگتا ہوں، جلد ملنے والی بھی اور بعد میں ملنے والی بھی، وہ بھی جسے میں جانتا ہوں اور وہ بھی جسے میں نہیں جانتا۔ اور میں ہر طرح کے شر سے تیری پناہ مانگتا ہوں، جلد آنے والے سے بھی اور بعد میں آنے والے سے بھی، اس سے بھی جسے میں جانتا ہوں اور اس سے بھی جسے میں نہیں جانتا۔ اے اللہ! میں تجھ سے وہ بھلائی مانگتا ہوں جو تیرے بندے اور نبی نے تجھ سے مانگی، اور اس شر سے تیری پناہ مانگتا ہوں جس سے تیرے بندے اور نبی نے تیری پناہ مانگی۔ اے اللہ! میں تجھ سے جنت اور ہر اس قول و عمل کا سوال کرتا ہوں جو جنت کے قریب کر دے، اور جہنم اور ہر اس قول و عمل سے تیری پناہ مانگتا ہوں جو جہنم کے قریب کر دے۔ اور میں تجھ سے سوال کرتا ہوں کہ میرے حق میں کیے گئے اپنے ہر فیصلے کو خیر بنا دے۔",
         "note": null
       },
       "reference_bn": {
@@ -71,10 +71,10 @@
         "note": "Shakal bin Humaid (RA) said: \"I came to the Prophe t(ﷺ) and said: 'O Messenger of Allah (ﷺ), teach me a way of seeking refuge so that I may seek refuge by it.\" He (ﷺ) said: \"So he took my hand and said: 'Say: (the dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "کان، آنکھ، زبان، دل اور شرم گاہ کے شر سے پناہ کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! میں اپنے کان کے شر، اپنی آنکھ کے شر، اپنی زبان کے شر، اپنے دل کے شر اور اپنی شرم گاہ کے شر سے تیری پناہ مانگتا ہوں۔",
+        "note": "شکل بن حمید رضی اللہ عنہ کہتے ہیں: میں نبی ﷺ کی خدمت میں حاضر ہوا اور عرض کیا: \"یا رسول اللہ! مجھے کوئی ایسی دعا سکھا دیجیے جس کے ذریعے میں پناہ مانگا کروں۔\" آپ ﷺ نے میرا ہاتھ پکڑا اور فرمایا: \"کہو: (دعا اوپر مذکور ہے)\""
       },
       "reference_bn": {
         "name": "চক্ষু, কর্ণ, জিহ্বা ও অন্তরের অনিষ্ট হতে বাঁচার দোয়া",
@@ -108,9 +108,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "وباؤں اور بیماریوں سے پناہ کی دعا",
+        "content": "انس رضی اللہ عنہ سے روایت ہے کہ نبی ﷺ فرمایا کرتے تھے:",
+        "translation": "اے اللہ! میں برص، پاگل پن، جذام اور بری بیماریوں سے تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -145,9 +145,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "برے اخلاق، اعمال اور خواہشات سے پناہ کی دعا",
+        "content": "قطبہ بن مالک رضی اللہ عنہ سے روایت ہے کہ نبی ﷺ فرمایا کرتے تھے:",
+        "translation": "اے اللہ! میں برے اخلاق، برے اعمال، بری خواہشات اور بیماریوں سے تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -182,10 +182,10 @@
         "note": "Aishah (RA) narrated: “I said: ‘O Messenger of Allah (ﷺ), what is your view if I know when the Night of Al-Qadr is, then what should I say in it?” He (ﷺ) said: ‘Say: (The above dua has been mentioned)"
       },
       "target": {
-        "name": "",
+        "name": "معافی مانگنے کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! بے شک تو بہت معاف کرنے والا، بڑا کرم والا ہے، معاف کرنا پسند کرتا ہے، پس مجھے معاف فرما دے۔",
+        "note": "عائشہ رضی اللہ عنہا سے روایت ہے کہ میں نے عرض کیا: \"یا رسول اللہ! اگر مجھے معلوم ہو جائے کہ شبِ قدر کون سی رات ہے تو اس میں کیا کہوں؟\" آپ ﷺ نے فرمایا: \"کہو: (دعا اوپر مذکور ہے)\""
       },
       "reference_bn": {
         "name": "ক্ষমা চাওয়ার দোয়া",
@@ -219,10 +219,10 @@
         "note": "Narrated by Mu'adh bin Jabal (RA): \"One morning, the Messenger of Allah (ﷺ) was prevented from coming to us for Fajr Salat, until we were just about to look for the eye of the sun (meaning sunrise). Then he came out quickly, had the Salat prepared for. The Messenger of Allah (ﷺ) performed the Salat, and he performed his Salat in a relatively quick manner. When he said the Salam, he called aloud with his voice saying to us: 'Stay in your rows as you are.' Then he turned coming near to us, then he said:\n\n'I am going to narrate to you what kept me from you this morning: I got up during the night, I performed Wudu and prayed as much as I was able to, and I dozed off during my Salat, and fell deep asleep. Then I saw my Lord, Blessed and Most High, in the best of appearances. He said: 'O Muhammad!' I said: 'My Lord here I am my Lord!' He said: 'What is it that the most exalted group busy themselves with?' I said: 'I do not know Lord.' And He said it three times.\" He said: \"So I saw Him place His Palm between my shoulders, and I sensed the coolness of His Fingertips between my breast. Then everything was disclosed for me, and I became aware. \n\nSo He said: 'O Muhammad!' I said: 'Here I am my Lord!' He said: 'What is it that the most exalted group busy themselves with?' I said: 'In the acts that atone.' He said: 'And what are they?' I said: 'The footsteps to the congregation, the gatherings in the Masajid after the Salat, Isbagh Al-Wudu during difficulties.' [1] He said: 'Then what else?' I said: 'Feeding others, being lenient in speech, and Salat during the night while the people are sleeping.' He said: 'Ask.' I said: (The dua mentioned above)\n\nThe Messenger of Allah (ﷺ) said: \"Indeed it is true, so study it and learn it.\" [2]"
       },
       "target": {
-        "name": "",
+        "name": "نیک اعمال اور اللہ کی محبت مانگنے کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! میں تجھ سے نیک کام کرنے، برے کام چھوڑنے اور مسکینوں سے محبت کرنے کی توفیق مانگتا ہوں، اور یہ کہ تو مجھے بخش دے اور مجھ پر رحم فرما۔ جب تو کسی قوم کو آزمائش میں ڈالنے کا ارادہ فرمائے تو مجھے آزمائش میں پڑے بغیر وفات دے۔ میں تجھ سے تیری محبت، تجھ سے محبت کرنے والوں کی محبت اور ایسے عمل کی محبت مانگتا ہوں جو تیری محبت کے قریب کر دے۔",
+        "note": "معاذ بن جبل رضی اللہ عنہ سے روایت ہے: ایک صبح رسول اللہ ﷺ فجر کی نماز کے لیے ہمارے پاس آنے میں اتنی دیر ہوئی کہ ہم سورج نکلنے کے قریب پہنچ گئے۔ پھر آپ ﷺ جلدی سے تشریف لائے، نماز کی اقامت کہی گئی اور آپ نے نسبتاً مختصر نماز پڑھائی۔ سلام پھیرنے کے بعد آپ نے بلند آواز سے فرمایا: \"اپنی صفوں میں اسی طرح ٹھہرے رہو۔\" پھر ہماری طرف متوجہ ہو کر قریب تشریف لائے اور فرمایا:\n\n\"میں تمہیں بتاتا ہوں کہ آج صبح مجھے تمہارے پاس آنے میں کیوں دیر ہوئی۔ میں رات کو اٹھا، وضو کیا اور جتنی نماز میرے لیے مقدر تھی پڑھی۔ نماز میں مجھے اونگھ آئی اور پھر گہری نیند آ گئی۔ اچانک میں نے اپنے رب تبارک و تعالیٰ کو بہترین صورت میں دیکھا۔ اس نے فرمایا: 'اے محمد!' میں نے عرض کیا: 'اے میرے رب! میں حاضر ہوں۔' اس نے فرمایا: 'مقرب فرشتے کس معاملے میں گفتگو کر رہے ہیں؟' میں نے عرض کیا: 'اے میرے رب! میں نہیں جانتا۔' اس نے یہ سوال تین مرتبہ فرمایا۔\" آپ ﷺ نے فرمایا: \"پھر میں نے دیکھا کہ اس نے اپنی ہتھیلی میرے کندھوں کے درمیان رکھی، یہاں تک کہ میں نے اس کی انگلیوں کی ٹھنڈک اپنے سینے میں محسوس کی۔ تب ہر چیز مجھ پر ظاہر ہو گئی اور میں جان گیا۔\n\nپھر اس نے فرمایا: 'اے محمد!' میں نے عرض کیا: 'اے میرے رب! میں حاضر ہوں۔' اس نے فرمایا: 'مقرب فرشتے کس معاملے میں گفتگو کر رہے ہیں؟' میں نے عرض کیا: 'گناہوں کو مٹانے والے اعمال کے بارے میں۔' اس نے فرمایا: 'وہ کیا ہیں؟' میں نے عرض کیا: 'جماعت کی طرف قدم چل کر جانا، نماز کے بعد مسجدوں میں بیٹھنا اور ناگوار حالات میں بھی وضو مکمل کرنا۔' [1] اس نے فرمایا: 'پھر اور کیا؟' میں نے عرض کیا: 'لوگوں کو کھانا کھلانا، نرم گفتگو کرنا اور رات کو جب لوگ سو رہے ہوں نماز پڑھنا۔' اس نے فرمایا: 'مانگو۔' تب میں نے عرض کیا: (دعا اوپر مذکور ہے)\n\nرسول اللہ ﷺ نے فرمایا: \"یہ خواب یقیناً سچا ہے، لہٰذا اسے پڑھو اور سیکھو۔\" [2]"
       },
       "reference_bn": {
         "name": "সৎকর্ম ও আল্লাহর ভালোবাসা চাওয়ার দোয়া",
@@ -256,9 +256,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "اسلام کے ذریعے ہر حال میں حفاظت کی دعا",
+        "content": "رسول اللہ ﷺ یوں دعا فرمایا کرتے تھے:",
+        "translation": "اے اللہ! کھڑے ہونے کی حالت میں اسلام کے ذریعے میری حفاظت فرما، بیٹھنے کی حالت میں اسلام کے ذریعے میری حفاظت فرما اور لیٹنے کی حالت میں اسلام کے ذریعے میری حفاظت فرما۔ کسی دشمن یا حسد کرنے والے کو مجھ پر خوش ہونے کا موقع نہ دے۔ اے اللہ! میں تجھ سے ہر وہ بھلائی مانگتا ہوں جس کے خزانے تیرے ہاتھ میں ہیں، اور ہر اس شر سے تیری پناہ مانگتا ہوں جس کے خزانے تیرے ہاتھ میں ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -293,9 +293,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "مضبوط ایمان اور دشمنوں سے حفاظت کی دعا",
+        "content": "ابن عمر رضی اللہ عنہما فرماتے ہیں کہ رسول اللہ ﷺ بہت کم کسی مجلس سے اٹھتے مگر اپنے صحابہ کے لیے یہ دعا ضرور فرماتے:",
+        "translation": "اے اللہ! ہمیں اپنے خوف میں سے اتنا حصہ عطا فرما جو ہمارے اور تیری نافرمانیوں کے درمیان حائل ہو جائے، اپنی اطاعت میں سے اتنا عطا فرما جس کے ذریعے تو ہمیں اپنی جنت تک پہنچا دے، اور یقین میں سے اتنا عطا فرما جس کے ذریعے تو دنیا کی مصیبتیں ہم پر آسان کر دے۔ جب تک تو ہمیں زندہ رکھے، ہماری سماعت، بصارت اور قوت سے ہمیں فائدہ پہنچا اور انہیں ہماری زندگی کے آخر تک سلامت رکھ۔ ہمارا بدلہ انہی سے لے جنہوں نے ہم پر ظلم کیا اور ہمارے دشمنوں کے مقابلے میں ہماری مدد فرما۔ ہماری مصیبت ہمارے دین میں نہ رکھ، دنیا کو ہماری سب سے بڑی فکر اور ہمارے علم کی انتہا نہ بنا، اور ہم پر ایسے لوگوں کو مسلط نہ کر جو ہم پر رحم نہ کریں۔",
         "note": null
       },
       "reference_bn": {
@@ -330,10 +330,10 @@
         "note": "Saad ibn Abi Waqqas (RA) used to teach these sentences to his sons in the same way that a teacher teaches handwriting to children. And he used to say that the Messenger of Allah (ﷺ) used to seek refuge (in Allah) in all these matters towards the end of the prayer - (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "دنیا اور قبر کی آزمائش سے پناہ",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! میں بخل سے تیری پناہ مانگتا ہوں، بزدلی سے تیری پناہ مانگتا ہوں، نکمی عمر کی طرف لوٹائے جانے سے تیری پناہ مانگتا ہوں، دنیا کی آزمائش سے تیری پناہ مانگتا ہوں اور قبر کے عذاب سے تیری پناہ مانگتا ہوں۔",
+        "note": "سعد بن ابی وقاص رضی اللہ عنہ اپنے بیٹوں کو یہ کلمات اسی طرح سکھاتے تھے جیسے استاد بچوں کو لکھنا سکھاتا ہے۔ وہ فرماتے تھے کہ رسول اللہ ﷺ نماز کے آخر میں ان سب امور سے اللہ کی پناہ مانگا کرتے تھے: (دعا اوپر مذکور ہے)"
       },
       "reference_bn": {
         "name": "দুনিয়া ও কবরের পরীক্ষা থেকে আশ্রয় চাওয়া",

@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "result": {
+      "type": "string",
+      "enum": ["completed", "skipped", "all_done", "failed"]
+    },
+    "action": {
+      "type": "string",
+      "enum": ["review", "translate", "audit"]
+    },
+    "table": {
+      "type": "string"
+    },
+    "files_processed": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "first_chunk": {
+      "type": ["integer", "null"]
+    },
+    "last_chunk": {
+      "type": ["integer", "null"]
+    },
+    "verification_passed": {
+      "type": "boolean"
+    },
+    "token_pressure": {
+      "type": "string",
+      "enum": ["low", "medium", "high"]
+    },
+    "recommended_delay_hours": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 8
+    },
+    "next_action": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "corrections": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": [
+    "result",
+    "action",
+    "table",
+    "files_processed",
+    "first_chunk",
+    "last_chunk",
+    "verification_passed",
+    "token_pressure",
+    "recommended_delay_hours",
+    "next_action",
+    "summary",
+    "corrections"
+  ]
+}

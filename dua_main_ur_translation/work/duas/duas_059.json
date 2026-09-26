@@ -3,7 +3,7 @@
   "chunk": "duas_059.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 27,
   "id_range": "858-884",
   "source_chars": 5887,
@@ -34,10 +34,10 @@
         "note": "Anas (RA) said that the Prophet (ﷺ) placed his feet on the two jaws of a goat with white and black horns and sacrificed him saying Bismillahi wAllahu akbar."
       },
       "target": {
-        "name": "",
+        "name": "جانور ذبح کرتے وقت",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ کے نام سے، اور اللہ سب سے بڑا ہے۔",
+        "note": "انس رضی اللہ عنہ فرماتے ہیں کہ نبی ﷺ نے دو سیاہ و سفید، سینگوں والے مینڈھے قربان کیے۔ آپ نے اپنا پاؤں ان کے پہلوؤں پر رکھا اور بسم اللہ، اللہ اکبر کہتے ہوئے انہیں ذبح فرمایا۔"
       },
       "reference_bn": {
         "name": "পশু জবেহ বা নাহর করার সময়",
@@ -71,9 +71,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "فتح حاصل ہونے یا فتح کی امید کے وقت",
         "content": null,
-        "translation": "",
+        "translation": "اللہ سب سے بڑا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -107,10 +107,10 @@
         "note": "A man came to the Prophet (ﷺ) and said: As-salaamu 'alaykum! He responded to his salutation. He then sat down. The Prophet (ﷺ) said: Ten. Another man came and said: As-salaamu 'alaykum wara'hmatullaah! He responded to his salutation when he sat down. He said: Twenty. Another man came and said: As-salaamu 'alaykum wara'hmatullaahi wa barakaatuh! He responded to him and said when he sat down: Thirty."
       },
       "target": {
-        "name": "",
+        "name": "کسی سے ملاقات کے وقت",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "آپ پر سلامتی ہو، اور اللہ کی رحمت اور اس کی برکتیں نازل ہوں۔",
+        "note": "ایک شخص نبی ﷺ کی خدمت میں آیا اور کہا: السلام علیکم۔ آپ نے اس کے سلام کا جواب دیا۔ جب وہ بیٹھ گیا تو آپ ﷺ نے فرمایا: دس۔ پھر ایک اور شخص آیا اور کہا: السلام علیکم ورحمۃ اللہ۔ آپ نے اس کے سلام کا جواب دیا، اور جب وہ بیٹھ گیا تو فرمایا: بیس۔ پھر ایک اور شخص آیا اور کہا: السلام علیکم ورحمۃ اللہ وبرکاتہ۔ آپ نے اس کے سلام کا جواب دیا، اور جب وہ بیٹھ گیا تو فرمایا: تیس۔"
       },
       "reference_bn": {
         "name": "কারো সাথে দেখা হলে",
@@ -144,9 +144,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "شیطان کے وسوسوں اور فریب سے بچنے کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "میں شیطان مردود سے اللہ کی پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -180,9 +180,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "سورج طلوع ہونے کے وقت کی دعا",
+        "content": "سورج طلوع ہونے کے وقت یہ دعا پڑھی جائے:",
+        "translation": "تمام تعریفیں اور بے شمار شکر اللہ کے لیے ہیں، جس نے ہمیں آج کا دن دکھایا اور ہمارے گزشتہ گناہوں کے سبب ہمیں ہلاک نہیں کیا۔",
         "note": null
       },
       "reference_bn": {
@@ -217,9 +217,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "فتنے سے پناہ کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! ہم تیری پناہ مانگتے ہیں کہ الٹے پاؤں پھر جائیں یا اپنے دین کے معاملے میں فتنے میں مبتلا کر دیے جائیں۔",
         "note": null
       },
       "reference_bn": {
@@ -253,9 +253,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "دنیا اور آخرت میں عافیت کا سوال",
         "content": null,
-        "translation": "",
+        "translation": "میں اللہ سے دنیا اور آخرت میں عافیت مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -289,9 +289,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "درست رہنمائی کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں تجھ سے اپنے معاملے میں درست رہنمائی مانگتا ہوں اور اپنے نفس کے شر سے تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -325,9 +325,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "ڈوبتے ہوئے چاند کے شر سے حفاظت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "میں اس چھا جانے والے تاریک چاند کے شر سے اللہ کی پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -361,9 +361,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "نفس کے شر سے حفاظت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! مجھے میرے نفس کے شر سے بچا اور میرے لیے اپنے معاملے کی سب سے درست راہ پر چلنے کا پختہ ارادہ مقدر فرما۔ اے اللہ! میرے وہ سب گناہ بخش دے جو میں نے چھپ کر یا علانیہ کیے، جو مجھ سے خطا سے یا جان بوجھ کر ہوئے، اور جو میں نے لاعلمی میں کیے۔",
         "note": null
       },
       "reference_bn": {
@@ -397,9 +397,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "تشہد #1",
         "content": null,
-        "translation": "",
+        "translation": "تمام بابرکت قول، تمام نمازیں اور تمام پاکیزہ اعمال اللہ ہی کے لیے ہیں۔ اے نبی! آپ پر سلام ہو، نیز اللہ کی رحمت اور اس کی برکتیں ہوں۔ ہم پر اور اللہ کے نیک بندوں پر بھی سلام ہو۔ میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبودِ برحق نہیں، اور میں گواہی دیتا ہوں کہ محمد ﷺ اللہ کے رسول ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -433,9 +433,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "تشہد #2",
         "content": null,
-        "translation": "",
+        "translation": "تمام قولی عبادتیں اللہ ہی کے لیے ہیں، تمام پاکیزہ اعمال اللہ ہی کے لیے ہیں، اور تمام پاکیزہ قول و نمازیں اللہ ہی کے لیے ہیں۔ اے نبی! آپ پر سلام ہو، نیز اللہ کی رحمت اور اس کی برکتیں ہوں۔ ہم پر اور اللہ کے نیک بندوں پر بھی سلام ہو۔ میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبودِ برحق نہیں، اور میں گواہی دیتا ہوں کہ محمد ﷺ اللہ کے بندے اور رسول ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -469,9 +469,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "نماز میں چھینک آنے پر",
         "content": null,
-        "translation": "",
+        "translation": "تمام تعریفیں اللہ کے لیے ہیں؛ بہت زیادہ، پاکیزہ اور بابرکت حمد، جس میں اور جس پر برکت دی گئی ہے، ویسی حمد جیسی ہمارے رب کو پسند ہے اور جس سے وہ راضی ہوتا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -505,9 +505,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رکوع کی دعا #9",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں نے تیرے لیے رکوع کیا، تجھ پر ایمان لایا اور تیرے سامنے سرِ تسلیم خم کیا۔ تو میرا رب ہے۔ میری سماعت، میری بصارت، میرا مغز، میری ہڈیاں، میرے پٹھے اور وہ سب کچھ جسے میرے قدم اٹھائے ہوئے ہیں، اللہ رب العالمین کے سامنے جھک گئے۔",
         "note": null
       },
       "reference_bn": {
@@ -541,9 +541,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "نماز کے آغاز کی دعا #1",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! تو پاک ہے اور تیری ہی حمد ہے، تیرا نام بابرکت ہے، تیری عظمت بلند ہے اور تیرے سوا کوئی معبودِ برحق نہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -577,9 +577,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رکوع کی دعا #10",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! تو پاک ہے اور تیری ہی حمد ہے، تیرے سوا کوئی معبودِ برحق نہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -613,9 +613,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رکوع کے بعد قومے کی دعا #7",
         "content": null,
-        "translation": "",
+        "translation": "تمام تعریفیں میرے رب ہی کے لیے ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -649,9 +649,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "دعائے ماثورہ #16",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں سستی سے تیری پناہ مانگتا ہوں، بزدلی سے تیری پناہ مانگتا ہوں، انتہائی بڑھاپے سے تیری پناہ مانگتا ہوں اور بخل سے تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -685,9 +685,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رکوع کے بعد قومے کی دعا #8",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ، ہمارے رب! تیرے لیے اتنی حمد ہے جو آسمانوں کو بھر دے، زمین کو بھر دے اور اس کے بعد ہر اس چیز کو بھر دے جسے تو چاہے۔ اے اللہ! مجھے برف، اولوں اور ٹھنڈے پانی سے پاک فرما۔ اے اللہ! مجھے گناہوں اور خطاؤں سے اس طرح پاک کر دے جیسے سفید کپڑا میل سے صاف کیا جاتا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -721,9 +721,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "رات کو بیدار ہونے کے بعد نماز سے پہلے کا ذکر",
+        "content": "رسول اللہ ﷺ رات کو بیدار ہوتے تو 10 مرتبہ کہتے:",
+        "translation": "اللہ سب سے بڑا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -736,79 +736,79 @@
           "group": 0,
           "key": "content",
           "source": "10 times:",
-          "target": ""
+          "target": "10 مرتبہ:"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "All Praise is for Allah.",
-          "target": ""
+          "target": "تمام تعریفیں اللہ کے لیے ہیں۔"
         },
         {
           "group": 1,
           "key": "content",
           "source": "10 times:",
-          "target": ""
+          "target": "10 مرتبہ:"
         },
         {
           "group": 1,
           "key": "translation",
           "source": "Glory and praise is to Allah.",
-          "target": ""
+          "target": "اللہ پاک ہے اور اسی کی حمد ہے۔"
         },
         {
           "group": 2,
           "key": "content",
           "source": "10 times:",
-          "target": ""
+          "target": "10 مرتبہ:"
         },
         {
           "group": 2,
           "key": "translation",
           "source": "Glory is to the King, the Holy.",
-          "target": ""
+          "target": "پاک ہے وہ بادشاہ جو نہایت پاک ذات ہے۔"
         },
         {
           "group": 3,
           "key": "content",
           "source": "10 times:",
-          "target": ""
+          "target": "10 مرتبہ:"
         },
         {
           "group": 3,
           "key": "translation",
           "source": "I seek Allah’s forgiveness.",
-          "target": ""
+          "target": "میں اللہ سے مغفرت مانگتا ہوں۔"
         },
         {
           "group": 4,
           "key": "content",
           "source": "10 times:",
-          "target": ""
+          "target": "10 مرتبہ:"
         },
         {
           "group": 4,
           "key": "translation",
           "source": "There is none worthy of worship but Allah.",
-          "target": ""
+          "target": "اللہ کے سوا کوئی معبودِ برحق نہیں۔"
         },
         {
           "group": 5,
           "key": "content",
           "source": "then he would say 10 times:",
-          "target": ""
+          "target": "پھر 10 مرتبہ کہتے:"
         },
         {
           "group": 5,
           "key": "translation",
           "source": "O Allah, I seek refuge with you from the hardships of this world, and the hardships of the day of resurrection.",
-          "target": ""
+          "target": "اے اللہ! میں دنیا کی تنگی اور قیامت کے دن کی تنگی سے تیری پناہ مانگتا ہوں۔"
         },
         {
           "group": 5,
           "key": "note",
           "source": "Shariq al-Hawzani and I came to Aisha (RA) and asked her: By which (prayer) the Messenger of Allah (ﷺ) began when he woke up at night? She replied: You asked me about a thing which no one asked me before. The Messenger of Allah (ﷺ) when woke up at night (Then she mentioned above dhikr) after that he would commence the prayer.",
-          "target": ""
+          "target": "شُریق ہوزنی رحمہ اللہ عائشہ رضی اللہ عنہا کے پاس حاضر ہوئے اور عرض کیا: رسول اللہ ﷺ رات کو بیدار ہونے کے بعد نماز کس چیز سے شروع کرتے تھے؟ انہوں نے فرمایا: تم نے مجھ سے ایسی بات پوچھی ہے جو تم سے پہلے کسی نے نہیں پوچھی۔ رسول اللہ ﷺ رات کو بیدار ہوتے تو اوپر درج اذکار پڑھتے، پھر نماز شروع فرماتے۔"
         }
       ]
     },
@@ -838,10 +838,10 @@
         "note": "Asim ibn Humayd said: I asked Aisha (RA): By what words the Messenger of Allah (ﷺ) would begin his tahajjud prayer at night? She replied: You ask me about a thing of which no one asked me before you. (Then she mentioned the above dua)"
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "نمازِ تہجد شروع کرنے کی دعا #2",
+        "content": "نبی ﷺ رات کی نماز کے لیے کھڑے ہوتے تو سب سے پہلے 10 مرتبہ کہتے:",
+        "translation": "اللہ سب سے بڑا ہے۔",
+        "note": "عاصم بن حمید رحمہ اللہ فرماتے ہیں: میں نے عائشہ رضی اللہ عنہا سے پوچھا کہ رسول اللہ ﷺ رات کی نماز کن الفاظ سے شروع فرماتے تھے؟ انہوں نے جواب دیا: تم نے مجھ سے ایسی بات پوچھی ہے جو تم سے پہلے کسی نے نہیں پوچھی۔ پھر انہوں نے اوپر درج دعا بیان کی۔"
       },
       "reference_bn": {
         "name": "তাহাজ্জুদ সালাত শুরুর দোয়া #২",
@@ -854,49 +854,49 @@
           "group": 0,
           "key": "content",
           "source": "10 times:",
-          "target": ""
+          "target": "10 مرتبہ:"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "Glory is to Allah.",
-          "target": ""
+          "target": "اللہ پاک ہے۔"
         },
         {
           "group": 1,
           "key": "content",
           "source": "10 times:",
-          "target": ""
+          "target": "10 مرتبہ:"
         },
         {
           "group": 1,
           "key": "translation",
           "source": "I seek Allah’s forgiveness.",
-          "target": ""
+          "target": "میں اللہ سے مغفرت مانگتا ہوں۔"
         },
         {
           "group": 2,
           "key": "content",
           "source": "then he would say:",
-          "target": ""
+          "target": "پھر کہتے:"
         },
         {
           "group": 2,
           "key": "translation",
           "source": "O Allah, forgive me and guide me [to righteousness], provide me subsistence and grant my body health.",
-          "target": ""
+          "target": "اے اللہ! مجھے بخش دے، مجھے ہدایت عطا فرما، مجھے رزق دے اور مجھے عافیت عطا فرما۔"
         },
         {
           "group": 3,
           "key": "content",
           "source": "and also he would say:",
-          "target": ""
+          "target": "اور یہ بھی کہتے:"
         },
         {
           "group": 3,
           "key": "translation",
           "source": "I seek refuge in Allah from the tightness (or suffocation) of my standing on the day of judgement.",
-          "target": ""
+          "target": "میں قیامت کے دن کھڑے ہونے کی تنگی سے اللہ کی پناہ مانگتا ہوں۔"
         }
       ]
     },
@@ -926,9 +926,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "مسافر کے لیے مقیم کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! اس کے لیے زمین کی مسافت سمیٹ دے اور اس کا سفر آسان فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -962,9 +962,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "جمرہ پر کنکریاں مارنے کے بعد کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! اسے حجِ مبرور بنا اور گناہ بخش دے۔",
         "note": null
       },
       "reference_bn": {
@@ -998,9 +998,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "حج میں پڑھی جانے والی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! ایسا حج نصیب فرما جس میں نہ دکھاوا ہو اور نہ شہرت طلبی۔",
         "note": null
       },
       "reference_bn": {
@@ -1034,9 +1034,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "حج کے سفر میں رخصت کرتے وقت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "میں تمہارے دین، تمہاری امانت اور تمہارے اعمال کے انجام کو اللہ کے سپرد کرتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -1070,9 +1070,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "حاجی کو رخصت کرتے وقت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اللہ تقویٰ کو تمہارا زادِ راہ بنائے، تمہارے گناہ بخش دے اور تم جہاں بھی ہو تمہارے لیے خیر آسان فرما دے۔",
         "note": null
       },
       "reference_bn": {
@@ -1106,9 +1106,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "حج میں سبز نشانات کے درمیان پڑھی جانے والی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے میرے رب! بخش دے اور رحم فرما؛ بے شک تو ہی سب سے غالب، سب سے زیادہ کرم فرمانے والا ہے۔",
         "note": null
       },
       "reference_bn": {

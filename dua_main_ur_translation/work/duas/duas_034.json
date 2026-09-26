@@ -3,7 +3,7 @@
   "chunk": "duas_034.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 20,
   "id_range": "460-479",
   "source_chars": 5841,
@@ -34,9 +34,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "’اللہ تمہیں برکت دے‘ کہنے والے کے لیے دعا",
+        "content": "حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ ﷺ کے پاس ایک بھیڑ لائی گئی اور آپ ﷺ نے اسے تقسیم کرنے کا حکم دیا۔ جب خادم اسے تقسیم کر کے واپس آیا تو حضرت عائشہ رضی اللہ عنہا نے پوچھا: ’’لوگوں نے کیا کہا؟‘‘ اس نے جواب دیا: ’’انہوں نے دعا کی:‘‘",
+        "translation": "اللہ تم سب کو برکت دے۔",
         "note": null
       },
       "reference_bn": {
@@ -49,25 +49,25 @@
           "group": 0,
           "key": "content",
           "source": "Aaishah (RA) then said:",
-          "target": ""
+          "target": "حضرت عائشہ رضی اللہ عنہا نے پھر کہا:"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "And may Allah bless them.",
-          "target": ""
+          "target": "اور اللہ انہیں برکت دے۔"
         },
         {
           "group": 1,
           "key": "content",
           "source": "So we return their supplication in a similar way and our reward will remain with us:",
-          "target": ""
+          "target": "چنانچہ ہم بھی ان کی دعا کا اسی طرح جواب دیتے ہیں اور ہمارا اجر ہمارے پاس باقی رہتا ہے:"
         },
         {
           "group": 1,
           "key": "translation",
           "source": "And May Allah bless you.",
-          "target": ""
+          "target": "اور اللہ تمہیں برکت دے۔"
         }
       ]
     },
@@ -97,9 +97,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "بدشگونی منسوب کرنے کی ممانعت",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! تیرے فیصلے کے سوا کوئی شگون مؤثر نہیں، تیری بھلائی کے سوا کوئی بھلائی نہیں، اور تیرے سوا کوئی معبودِ برحق نہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -133,8 +133,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "چھینک کے بارے میں نبی ﷺ کی ہدایت #1",
+        "content": "حضرت براء بن عازب رضی اللہ عنہ سے روایت ہے: رسول اللہ ﷺ نے ہمیں سات کاموں کا حکم دیا اور سات کاموں سے منع فرمایا۔ آپ ﷺ نے ہمیں حکم دیا: جنازے کے پیچھے چلنا، بیمار کی عیادت کرنا، دعوت قبول کرنا، مظلوم کی مدد کرنا، قسمیں پوری کرنا، سلام کا جواب دینا اور چھینکنے والے کو جواب دینا (یعنی ’’اللہ تم پر رحم کرے‘‘ کہنا، بشرطیکہ چھینکنے والا ’’تمام تعریفیں اللہ کے لیے ہیں‘‘ کہے)۔ آپ ﷺ نے ہمیں چاندی کے برتن اور پلیٹیں استعمال کرنے، سونے کی انگوٹھیاں پہننے، ریشم کے کپڑے، دیباج (خالص ریشم کا کپڑا)، قسی اور استبرق (ریشم کی دو قسمیں) استعمال کرنے سے منع فرمایا۔",
         "translation": null,
         "note": null
       },
@@ -169,8 +169,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "چھینک کے بارے میں نبی ﷺ کی ہدایت #2",
+        "content": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے: میں نے رسول اللہ ﷺ کو فرماتے ہوئے سنا: ’’ایک مسلمان کے دوسرے مسلمان پر پانچ حقوق ہیں: سلام کا جواب دینا، بیمار کی عیادت کرنا، جنازے کے ساتھ چلنا، دعوت قبول کرنا اور چھینکنے والے کی چھینک کا جواب دینا۔‘‘",
         "translation": null,
         "note": null
       },
@@ -205,8 +205,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "چھینک کے بارے میں نبی ﷺ کی ہدایت #3",
+        "content": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: بے شک اللہ چھینک کو پسند کرتا ہے اور جمائی کو ناپسند کرتا ہے۔ جب تم میں سے کوئی چھینکے اور ’’الحمدللہ‘‘ کہے تو ہر سننے والے پر لازم ہے کہ وہ ’’یرحمک اللہ‘‘ (اللہ تم پر رحم کرے) کہے۔ جب تم میں سے کسی کو جمائی آئے تو وہ حتی الامکان اسے روکے اور ’’ہا ہا‘‘ نہ کہے، کیونکہ اس پر شیطان ہنستا ہے۔",
         "translation": null,
         "note": null
       },
@@ -241,8 +241,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "چھینک کا جواب کتنی مرتبہ دینا چاہیے؟",
+        "content": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے: میں نے رسول اللہ ﷺ کو فرماتے ہوئے سنا: جب تم میں سے کوئی چھینکے تو اس کے پاس بیٹھا شخص کہے: ’’یرحمک اللہ‘‘۔ اگر وہ تین مرتبہ سے زیادہ چھینکے تو سمجھ لو کہ اسے نزلہ ہے؛ اس لیے تین مرتبہ کے بعد اسے ’’یرحمک اللہ‘‘ کہنا ضروری نہیں۔",
         "translation": null,
         "note": null
       },
@@ -277,8 +277,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "چھینکنے کے آداب",
+        "content": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے: جب رسول اللہ ﷺ کو چھینک آتی تو آپ ﷺ اپنا ہاتھ یا کپڑا منہ پر رکھ لیتے اور آواز پست رکھتے۔",
         "translation": null,
         "note": null
       },
@@ -313,8 +313,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "جمائی کے آداب",
+        "content": "رسول اللہ ﷺ نے فرمایا: جب تم میں سے کسی کو جمائی آئے تو وہ اپنے ہاتھ سے اپنا منہ بند رکھے، کیونکہ شیطان اس میں داخل ہوتا ہے۔",
         "translation": null,
         "note": null
       },
@@ -349,9 +349,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "چھینک آنے پر دعا #1",
+        "content": "رسول اللہ ﷺ نے فرمایا: جب تم میں سے کسی کو چھینک آئے تو وہ کہے:",
+        "translation": "تمام تعریفیں اللہ کے لیے ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -386,9 +386,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "چھینک آنے پر دعا #2",
+        "content": "یا چھینکنے والا یہ کہے:",
+        "translation": "ہر حال میں حمد اللہ ہی کے لیے ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -423,9 +423,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "چھینک آنے پر دعا #3",
+        "content": "اگر تم چھینکنے والے کو ’’الحمدللہ‘‘ کہتے سنو تو سننے والا کہے:",
+        "translation": "اللہ تم پر رحم کرے۔",
         "note": null
       },
       "reference_bn": {
@@ -460,10 +460,10 @@
         "note": "Special instructions have been given in the hadith to answer the sneeze dua like answering the salutation. These Sunnahs are neglected in our society."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "چھینک آنے پر دعا #4",
+        "content": "جب کوئی شخص چھینکنے والے سے ’’یرحمک اللہ‘‘ کہے تو چھینکنے والا جواب میں کہے:",
+        "translation": "اللہ تمہیں ہدایت دے اور تمہارے معاملات درست فرما دے۔",
+        "note": "حدیث میں چھینک کی دعا کا جواب سلام کے جواب کی طرح دینے کی خصوصی ہدایات آئی ہیں۔ ہمارے معاشرے میں یہ سنتیں نظر انداز کی جاتی ہیں۔"
       },
       "reference_bn": {
         "name": "হাঁচির ক্ষেত্রে যা বলতে হবে #৪",
@@ -498,9 +498,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "چھینک آنے پر دعا #5",
+        "content": "جو شخص کسی کی چھینک کا جواب دے، اسے ’’یرحمک اللہ‘‘ کہنا چاہیے۔ پھر چھینکنے والا دوبارہ کہے:",
+        "translation": "اللہ ہم پر اور تم پر رحم فرمائے، اور ہمیں اور تمہیں بخش دے۔",
         "note": null
       },
       "reference_bn": {
@@ -535,10 +535,10 @@
         "note": "Narrated Abu Musa Ashari (RA): The Jews used to come to the Prophet (ﷺ) and sneeze. They hoped that the Prophet (ﷺ) would say for them ‘Yar’ hamukalla-hu (may Allah have mercy on you!) But the Prophet (ﷺ) would say- (the above prayer)"
       },
       "target": {
-        "name": "",
+        "name": "کافر کو چھینک آنے پر کیا کہا جائے",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ تمہیں ہدایت دے اور تمہارے معاملات درست فرما دے۔",
+        "note": "حضرت ابو موسیٰ اشعری رضی اللہ عنہ سے روایت ہے: یہودی رسول اللہ ﷺ کے پاس آ کر چھینکتے تھے۔ انہیں امید ہوتی کہ رسول اللہ ﷺ ان کے لیے ’’یرحمک اللہ‘‘ (اللہ تم پر رحم کرے) کہیں گے، لیکن رسول اللہ ﷺ فرماتے: (اوپر مذکور دعا)"
       },
       "reference_bn": {
         "name": "অমুসলিমদের হাঁচির জবাবে যা বলতে হয়",
@@ -572,10 +572,10 @@
         "note": "Ibn 'Umar (RA) said: It would be counted that at any one sitting, the Messenger of Allah (ﷺ) before getting up would say one hundred times:(The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "مجلس وغیرہ میں پڑھی جانے والی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے میرے رب! مجھے بخش دے، میری توبہ قبول فرما، بے شک تو بہت توبہ قبول کرنے والا، نہایت بخشنے والا ہے۔",
+        "note": "حضرت ابن عمر رضی اللہ عنہما نے فرمایا: ہر مجلس میں شمار کیا جاتا تھا کہ رسول اللہ ﷺ اٹھنے سے پہلے سو مرتبہ یہ دعا پڑھتے: (دعا اوپر مذکور ہے)"
       },
       "reference_bn": {
         "name": "মজলিসে যা বলতে হয়",
@@ -609,10 +609,10 @@
         "note": "Aishah (RA) said: 'Allah's Messenger (ﷺ) did not sit in a gathering, and did not recite the Qur'an, and did not perform any prayer without concluding by saying: (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "مجلس کے اختتام کی دعا (کفارۂ مجلس)",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! تو پاک ہے اور تمام تعریفیں تیرے لیے ہیں۔ میں گواہی دیتا ہوں کہ تیرے سوا کوئی معبودِ برحق نہیں۔ میں تجھ سے مغفرت مانگتا ہوں اور تیری طرف توبہ کرتا ہوں۔",
+        "note": "حضرت عائشہ رضی اللہ عنہا نے فرمایا: رسول اللہ ﷺ جب بھی کسی مجلس میں بیٹھتے، قرآن پڑھتے یا نماز ادا کرتے تو اختتام پر یہ دعا پڑھتے: (دعا اوپر مذکور ہے)"
       },
       "reference_bn": {
         "name": "বৈঠকের শেষে কাফ্‌ফারা হিসেবে দোয়া",
@@ -646,9 +646,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "خوش کن خبر ملنے پر",
+        "content": "جب رسول اللہ ﷺ کو کوئی خوشی کی خبر ملتی تو آپ ﷺ فرماتے:",
+        "translation": "تمام تعریفیں اللہ کے لیے ہیں جس کی نعمت سے نیک کام پایۂ تکمیل کو پہنچتے ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -683,9 +683,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "ناپسندیدہ خبر ملنے پر",
+        "content": "اور جب کوئی ناگوار بات پیش آتی تو آپ ﷺ یہ پڑھتے:",
+        "translation": "ہر حال میں حمد اللہ ہی کے لیے ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -720,10 +720,10 @@
         "note": "It is a crime to slander a person from behind and praise him from the front. In the case of praise, one's special nature or quality can be praised. It is forbidden in the Hadith to praise someone or to say that someone is good. In the case of praise, I have to say: I think such a person is good; Confirmation cannot be expressed."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "کسی کی تعریف کے لیے مسنون ذکر",
+        "content": "رسول اللہ ﷺ نے فرمایا: اگر تمہیں کبھی کسی کی تعریف کرنی پڑے تو کہو:",
+        "translation": "میں فلاں کو ایسا ایسا سمجھتا ہوں، اور اللہ ہی اس کا حساب لینے والا ہے۔ میں اللہ کے سامنے کسی کو پاک قرار نہیں دیتا؛ میرا گمان ہے کہ وہ ایسا ایسا ہے۔",
+        "note": "کسی شخص کی پیٹھ پیچھے برائی کرنا اور اس کے سامنے تعریف کرنا گناہ ہے۔ تعریف کی صورت میں صرف اس کی کسی خاص خوبی یا وصف کا ذکر کیا جا سکتا ہے۔ حدیث میں کسی شخص کی تعریف کرنے یا اسے اچھا کہنے سے منع کیا گیا ہے۔ تعریف کرتے وقت یوں کہنا چاہیے: ’’میرا خیال ہے کہ فلاں شخص اچھا ہے‘‘؛ قطعی تصدیق نہیں کرنی چاہیے۔"
       },
       "reference_bn": {
         "name": "কাউকে প্রশংসা করার মাসনূন যিক্‌র",
@@ -758,10 +758,10 @@
         "note": "It was the custom of the Companions that they would feel discomfort if anyone called them righteous or praised them. If someone praise them, they would say- (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "تعریف کرنے والے کے لیے دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! جو کچھ یہ لوگ کہتے ہیں اس پر میرا مؤاخذہ نہ فرما، میری ان کوتاہیوں کو بخش دے جنہیں یہ نہیں جانتے، [اور مجھے ان کے گمان سے بہتر بنا دے]۔",
+        "note": "صحابہ کرام کا معمول تھا کہ جب کوئی انہیں نیک یا قابلِ تعریف کہتا تو وہ بے چین ہو جاتے۔ اگر کوئی ان کی تعریف کرتا تو وہ یہ دعا پڑھتے: (دعا اوپر مذکور ہے)"
       },
       "reference_bn": {
         "name": "প্রশংসিতের দোয়া",

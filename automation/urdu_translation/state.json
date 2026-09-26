@@ -1,0 +1,45 @@
+﻿{
+    "version":  1,
+    "enabled":  true,
+    "next_run_at":  "2026-09-26T15:38:34.4395514+09:00",
+    "last_run_at":  "2026-09-26T11:38:34.4395514+09:00",
+    "last_result":  "completed",
+    "last_action":  "translate",
+    "last_table":  "duas",
+    "last_files_processed":  [
+                                 "work/duas/duas_061.json",
+                                 "work/duas/duas_062.json",
+                                 "work/duas/duas_063.json"
+                             ],
+    "last_input_tokens":  4283941,
+    "last_output_tokens":  35198,
+    "last_total_tokens":  4319139,
+    "last_token_pressure":  "medium",
+    "last_rate_limits":  {
+                             "checkedAt":  "2026-09-26T11:38:34.4395514+09:00",
+                             "ordinaryUsageAllowed":  true,
+                             "limits":  [
+                                            {
+                                                "limitId":  "codex",
+                                                "planType":  "plus",
+                                                "rateLimitReachedType":  null,
+                                                "primary":  {
+                                                                "usedPercent":  0,
+                                                                "windowDurationMins":  300,
+                                                                "resetsAt":  1790408317
+                                                            },
+                                                "secondary":  {
+                                                                  "usedPercent":  0,
+                                                                  "windowDurationMins":  10080,
+                                                                  "resetsAt":  1790995117
+                                                              }
+                                            }
+                                        ],
+                             "resetCreditsAvailable":  2
+                         },
+    "quota_mode":  "normal",
+    "next_action_hint":  "After at least 2 hours, translate and fully review only work/duas/duas_064.json. Do not work on postponed books or book_details.",
+    "consecutive_failures":  0,
+    "last_log":  "G:\\dua-ruqyah\\automation\\urdu_translation\\logs\\20260926-113834-events.jsonl",
+    "last_summary":  "Translated and fully reviewed dua rows 907–979 in natural Pakistani Urdu. Added precise REVIEW_061_063.md evidence, updated PLAN.md and GLOSSARY.json, and regenerated WORK_STATUS.md; duas now stands at 63/64 chunks."
+}

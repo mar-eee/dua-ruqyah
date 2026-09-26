@@ -3,7 +3,7 @@
   "chunk": "duas_039.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 12,
   "id_range": "537-548",
   "source_chars": 5602,
@@ -34,9 +34,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "اپنی اور دوسروں کی شفا کے لیے دعا",
+        "content": "سورۂ اخلاص",
+        "translation": "اللہ کے نام سے جو نہایت مہربان، بہت رحم فرمانے والا ہے۔ (1) کہہ دیجیے: وہ اللہ ایک ہے۔ (2) اللہ بے نیاز ہے۔ (3) نہ اس نے کسی کو جنا اور نہ وہ جنا گیا۔ (4) اور کوئی اس کا ہم سر نہیں۔ (Surah Al-Ikhlas: 1-4)",
         "note": null
       },
       "reference_bn": {
@@ -49,31 +49,31 @@
           "group": 0,
           "key": "content",
           "source": "Surah Falaq",
-          "target": ""
+          "target": "سورۂ فلق"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "In the name of Allah, the Entirely Merciful, the Especially Merciful.  (1) Say, \"I seek refuge in the Lord of daybreak (2) From the evil of that which He created (3) And from the evil of darkness when it settles (4) And from the evil of the blowers in knots (5) And from the evil of an envier when he envies.\" (Sura Falaq: 1-5)",
-          "target": ""
+          "target": "اللہ کے نام سے جو نہایت مہربان، بہت رحم فرمانے والا ہے۔ (1) کہہ دیجیے: میں صبح کے رب کی پناہ مانگتا ہوں، (2) ہر اس چیز کے شر سے جو اس نے پیدا کی، (3) اور اندھیری رات کے شر سے جب وہ چھا جائے، (4) اور گرہوں میں پھونکنے والیوں کے شر سے، (5) اور حسد کرنے والے کے شر سے جب وہ حسد کرے۔ (Surah Al-Falaq: 1-5)"
         },
         {
           "group": 1,
           "key": "content",
           "source": "Surah Nas",
-          "target": ""
+          "target": "سورۂ ناس"
         },
         {
           "group": 1,
           "key": "translation",
           "source": "In the name of Allah, the Entirely Merciful, the Especially Merciful. (1) Say, \"I seek refuge in the Lord of mankind, (2) The Sovereign of mankind. (3) The God of mankind, (4) From the evil of the retreating whisperer - (5) Who whispers [evil] into the breasts of mankind - (6) From among the jinn and mankind.\" (Sura Nas: 1-6)",
-          "target": ""
+          "target": "اللہ کے نام سے جو نہایت مہربان، بہت رحم فرمانے والا ہے۔ (1) کہہ دیجیے: میں لوگوں کے رب، (2) لوگوں کے بادشاہ، (3) لوگوں کے معبود کی پناہ مانگتا ہوں، (4) اس وسوسہ ڈالنے والے کے شر سے جو پیچھے ہٹ جاتا ہے، (5) جو لوگوں کے سینوں میں وسوسہ ڈالتا ہے، (6) خواہ وہ جنوں میں سے ہو یا انسانوں میں سے۔ (Surah An-Nas: 1-6)"
         },
         {
           "group": 1,
           "key": "note",
           "source": "Narrated `Aisha (RA):\n\nDuring the Prophet's fatal illness, he used to recite the Mu'auwidhat (Surat An-Nas and Surat Al- Falaq) and then blow his breath over his body. When his illness was aggravated, I used to recite those two Suras and blow my breath over him and make him rub his body with his own hand for its blessings.\" (Ma`mar asked Az-Zuhri: How did the Prophet (ﷺ) use to blow? Az-Zuhri said: He used to blow on his hands and then passed them over his face.)\n\nWe have already learned to recite the Surahs in this way even during regular dhikr while lying in bed at night.",
-          "target": ""
+          "target": "حضرت عائشہ رضی اللہ عنہا سے روایت ہے:\n\nرسول اللہ ﷺ اپنی وفات کے مرض میں معوذتین (سورۂ ناس اور سورۂ فلق) پڑھ کر اپنے جسم پر دم کرتے تھے۔ جب مرض نے شدت اختیار کی تو میں یہ دونوں سورتیں پڑھ کر آپ ﷺ پر دم کرتی اور برکت کی خاطر آپ ہی کا ہاتھ آپ کے جسم پر پھیرتی تھی۔ (معمر رحمہ اللہ نے زہری رحمہ اللہ سے پوچھا: رسول اللہ ﷺ کس طرح دم کرتے تھے؟ زہری رحمہ اللہ نے فرمایا: آپ ﷺ اپنے دونوں ہاتھوں پر دم کرتے، پھر انہیں اپنے چہرے پر پھیر لیتے تھے۔)\n\nہم یہ طریقہ پہلے ہی رات کو بستر پر لیٹتے وقت معمول کے اذکار پڑھنے کے ضمن میں سیکھ چکے ہیں۔"
         }
       ]
     },
@@ -103,8 +103,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "مریض کی عیادت کی فضیلت #1",
+        "content": "ثُوَیر بن ابی فاختہ اپنے والد سے روایت کرتے ہیں کہ انہوں نے کہا: حضرت علی رضی اللہ عنہ نے میرا ہاتھ پکڑا اور فرمایا: ہمارے ساتھ حسن رضی اللہ عنہ کی عیادت کے لیے چلو۔ ہم وہاں پہنچے تو ابو موسیٰ رضی اللہ عنہ ان کے پاس موجود تھے۔ حضرت علی رضی اللہ عنہ نے پوچھا: ’اے ابو موسیٰ! آپ عیادت کے لیے آئے ہیں یا محض ملاقات کے لیے؟‘ انہوں نے جواب دیا: ’نہیں، عیادت کے لیے آیا ہوں۔‘ حضرت علی رضی اللہ عنہ نے فرمایا: میں نے رسول اللہ ﷺ کو فرماتے سنا: ’جو مسلمان صبح کسی مسلمان کی عیادت کرے، شام تک ستر ہزار فرشتے اس کے لیے رحمت کی دعا کرتے رہتے ہیں؛ اور جو شام کو عیادت کرے، صبح تک ستر ہزار فرشتے اس کے لیے رحمت کی دعا کرتے رہتے ہیں، اور جنت میں اس کے لیے پھلوں کا ایک باغ ہوگا۔‘",
         "translation": null,
         "note": null
       },
@@ -139,8 +139,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "مریض کی عیادت کی فضیلت #2",
+        "content": "حضرت ثوبان رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ’جو شخص کسی مریض کی عیادت کرتا ہے، وہ جنت کے پھلوں کے باغ میں رہتا ہے۔‘",
         "translation": null,
         "note": null
       },
@@ -175,10 +175,10 @@
         "note": "Whenever Allah's Messenger (ﷺ) paid a visit to a patient, or a patient was brought to him, he used to invoke Allah, saying (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "بیماری کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے لوگوں کے رب! تکلیف دور فرما اور شفا عطا فرما۔ تو ہی شفا دینے والا ہے۔ تیری شفا کے سوا کوئی شفا نہیں؛ ایسی شفا عطا فرما جو کوئی بیماری باقی نہ چھوڑے۔",
+        "note": "رسول اللہ ﷺ جب کسی مریض کی عیادت کے لیے تشریف لے جاتے یا کسی مریض کو آپ ﷺ کے پاس لایا جاتا تو یہ دعا فرماتے تھے۔ (دعا اوپر مذکور ہے۔)"
       },
       "reference_bn": {
         "name": "অসুস্থ ব্যক্তির জন্য দোয়া",
@@ -212,10 +212,10 @@
         "note": "The Prophet (ﷺ) used to say this dua when he went to see a sick person."
       },
       "target": {
-        "name": "",
+        "name": "مریض کے لیے دعا #1",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "فکر کی کوئی بات نہیں؛ ان شاء اللہ یہ بیماری گناہوں سے پاک کرنے والی ہے۔",
+        "note": "رسول اللہ ﷺ کسی مریض کی عیادت کے لیے جاتے تو یہ دعا فرمایا کرتے تھے۔"
       },
       "reference_bn": {
         "name": "রোগীর জন্য দোয়া #১",
@@ -249,10 +249,10 @@
         "note": "Ibn 'Abbas (RA) narrated that the Prophet (ﷺ) said: \"There is no Muslim worshiper who visits one who is ill - other than at the time of death - and he says seven times: (The dua is mentioned above) except when he will be cured.\" (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "مریض کے لیے دعا #2",
+        "content": "سات مرتبہ:",
+        "translation": "میں عظمت والے اللہ سے، جو عرشِ عظیم کا رب ہے، سوال کرتا ہوں کہ وہ آپ کو شفا عطا فرمائے۔",
+        "note": "حضرت ابن عباس رضی اللہ عنہما سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ’جو مسلمان کسی ایسے مریض کی عیادت کرے جس کی موت کا وقت نہ آیا ہو، پھر اس کے پاس یہ دعا سات مرتبہ پڑھے تو اسے ضرور شفا دی جائے گی۔‘ (دعا اوپر مذکور ہے۔)"
       },
       "reference_bn": {
         "name": "রোগীর জন্য দোয়া #২",
@@ -287,9 +287,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "حالتِ نزع میں مریض کی دعا #1",
+        "content": "حضرت عائشہ رضی اللہ عنہا سے روایت ہے، وہ فرماتی ہیں: رسول اللہ ﷺ مجھ سے ٹیک لگائے ہوئے تھے کہ میں نے آپ ﷺ کو یہ کہتے سنا:",
+        "translation": "اے اللہ! مجھے بخش دے، مجھ پر رحم فرما اور مجھے رفیقِ اعلیٰ سے ملا دے۔",
         "note": null
       },
       "reference_bn": {
@@ -324,9 +324,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "حالتِ نزع میں مریض کی دعا #2",
+        "content": "حضرت ابو سعید خدری اور حضرت ابو ہریرہ رضی اللہ عنہما سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: جو شخص کہے:",
+        "translation": "اللہ کے سوا کوئی معبودِ برحق نہیں اور اللہ سب سے بڑا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -339,55 +339,55 @@
           "group": 0,
           "key": "content",
           "source": "His Lord affirms his statement and says: ‘There is none worthy of worship except Me, and I am the Greatest,’",
-          "target": ""
+          "target": "اس کا رب اس کی تصدیق کرتے ہوئے فرماتا ہے: ’میرے سوا کوئی معبودِ برحق نہیں اور میں سب سے بڑا ہوں۔‘"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "None has the right to be worshipped except Allah Alone.",
-          "target": ""
+          "target": "اللہ کے سوا کوئی معبودِ برحق نہیں، وہ یکتا ہے۔"
         },
         {
           "group": 1,
           "key": "content",
           "source": "Allah says: ‘There is none worthy of worship except for Me and I am Alone.’when he says:",
-          "target": ""
+          "target": "جب وہ یہ کہتا ہے تو اللہ فرماتا ہے: ’میرے سوا کوئی معبودِ برحق نہیں اور میں یکتا ہوں۔‘"
         },
         {
           "group": 1,
           "key": "translation",
           "source": "None has the right to be worshipped except Allah, Alone without partner.",
-          "target": ""
+          "target": "اللہ کے سوا کوئی معبودِ برحق نہیں؛ وہ یکتا ہے، اس کا کوئی شریک نہیں۔"
         },
         {
           "group": 2,
           "key": "content",
           "source": "Allah says: ‘There is none worthy of worship except Me, to Me belongs all that exists, and to Me is the praise.’ when he says:",
-          "target": ""
+          "target": "جب وہ یہ کہتا ہے تو اللہ فرماتا ہے: ’میرے سوا کوئی معبودِ برحق نہیں، بادشاہی میری ہے اور تمام تعریف بھی میرے ہی لیے ہے۔‘"
         },
         {
           "group": 2,
           "key": "translation",
           "source": "None has the right to be worshipped except Allah, to Him belongs all sovereignty and praise.",
-          "target": ""
+          "target": "اللہ کے سوا کوئی معبودِ برحق نہیں؛ اسی کی بادشاہی ہے اور اسی کے لیے تمام تعریف ہے۔"
         },
         {
           "group": 3,
           "key": "content",
           "source": "Allah says: ‘There is none worthy of worship except Me, and there is no might or power except by Me.’ when he says:",
-          "target": ""
+          "target": "جب وہ یہ کہتا ہے تو اللہ فرماتا ہے: ’میرے سوا کوئی معبودِ برحق نہیں اور قوت و طاقت صرف میری ہی توفیق سے ہے۔‘"
         },
         {
           "group": 3,
           "key": "translation",
           "source": "None has the right to be worshipped except Allah and there is no might and no power except with Allah.",
-          "target": ""
+          "target": "اللہ کے سوا کوئی معبودِ برحق نہیں اور گناہ سے بچنے اور نیکی کرنے کی طاقت صرف اللہ ہی کی توفیق سے ہے۔"
         },
         {
           "group": 3,
           "key": "note",
           "source": "Then Allah said, None has the right to be worshipped except Allah and there is no might and no power except with Allah. And he (ﷺ) used to say, \"Hell will not burn a person who dies while reciting these duas while he is ill.\"",
-          "target": ""
+          "target": "پھر اللہ فرماتا ہے: ’میرے سوا کوئی معبودِ برحق نہیں اور قوت و طاقت صرف میری ہی توفیق سے ہے۔‘ رسول اللہ ﷺ فرمایا کرتے تھے: ’جو شخص بیماری میں یہ کلمات کہے اور پھر فوت ہو جائے، اسے جہنم کی آگ نہیں کھائے گی۔‘"
         }
       ]
     },
@@ -417,10 +417,10 @@
         "note": "He will go to paradise."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "قریب المرگ شخص کو تلقین #1",
+        "content": "حضرت معاذ بن جبل رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: جس شخص کے آخری الفاظ یہ ہوں:",
+        "translation": "اللہ کے سوا کوئی معبودِ برحق نہیں۔",
+        "note": "وہ جنت میں داخل ہوگا۔"
       },
       "reference_bn": {
         "name": "মুমূর্ষ ব্যক্তিকে যে দোয়া পড়তে উদ্বুদ্ধ করা উচিত #১",
@@ -455,9 +455,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "قریب المرگ شخص کو تلقین #2",
+        "content": "رسول اللہ ﷺ نے فرمایا: اپنے قریب المرگ لوگوں کو یہ کلمہ کہنے کی تلقین کرو:",
+        "translation": "اللہ کے سوا کوئی معبودِ برحق نہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -492,9 +492,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "حالتِ نزع میں مریض کی دعا #1",
+        "content": "رسول اللہ ﷺ نے وفات کے وقت اپنے دونوں ہاتھ پانی میں ڈالے، پھر انہیں اپنے چہرے پر پھیرا اور فرمایا:",
+        "translation": "اللہ کے سوا کوئی معبودِ برحق نہیں؛ بے شک موت کی سختیاں ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -529,9 +529,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "حالتِ نزع میں مریض کی دعا #2",
         "content": null,
-        "translation": "",
+        "translation": "اللہ کے سوا کوئی معبودِ برحق نہیں، اللہ سب سے بڑا ہے۔ اللہ کے سوا کوئی معبودِ برحق نہیں، وہ یکتا ہے۔ اللہ کے سوا کوئی معبودِ برحق نہیں؛ وہ یکتا ہے، اس کا کوئی شریک نہیں۔ اللہ کے سوا کوئی معبودِ برحق نہیں؛ اسی کی بادشاہی ہے اور اسی کے لیے تمام تعریف ہے۔ اللہ کے سوا کوئی معبودِ برحق نہیں، اور گناہ سے بچنے اور نیکی کرنے کی طاقت صرف اللہ ہی کی توفیق سے ہے۔",
         "note": null
       },
       "reference_bn": {

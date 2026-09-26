@@ -3,7 +3,7 @@
   "chunk": "duas_033.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 19,
   "id_range": "441-459",
   "source_chars": 5800,
@@ -34,10 +34,10 @@
         "note": "Narrated Ibn 'Abbas (RA) : When you meet an influential person who is causing terror and you fear that he will attack you, you will say three times: (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "ظالم کے خلاف دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ سب سے بڑا ہے۔ اللہ اپنی تمام مخلوق سے زیادہ غالب ہے، اور اس چیز سے بھی زیادہ غالب ہے جس کا مجھے خوف اور اندیشہ ہے۔ میں اس اللہ کی پناہ لیتا ہوں جس کے سوا کوئی معبودِ برحق نہیں، جو ساتوں آسمانوں کو تھامے ہوئے ہے تاکہ وہ اس کے حکم کے بغیر زمین پر نہ گریں۔ میں تیرے بندے فلاں (شخص کا نام لیں)، اس کے لشکروں، پیروکاروں اور جن و انس میں سے اس کے حامیوں کے شر سے تیری پناہ لیتا ہوں۔ اے اللہ! ان کے شر سے مجھے اپنی پناہ میں لے۔ تیری ثنا بلند ہے، تیری پناہ زبردست ہے، تیرا نام بابرکت ہے اور تیرے سوا کوئی معبودِ برحق نہیں۔",
+        "note": "حضرت ابن عباس رضی اللہ عنہما سے روایت ہے: جب تم کسی بااثر شخص سے ملو جو دہشت پھیلا رہا ہو اور تمہیں اندیشہ ہو کہ وہ تم پر حملہ کرے گا، تو یہ دعا تین مرتبہ پڑھو: (دعا اوپر مذکور ہے)"
       },
       "reference_bn": {
         "name": "জুলুমের আশঙ্কা দেখা দিলে",
@@ -71,9 +71,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "دشمنوں کے خلاف دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! کتاب نازل فرمانے والے، جلد حساب لینے والے! کافروں کے گروہوں کو شکست دے۔ اے اللہ! انہیں شکست دے اور انہیں ہلا کر رکھ دے۔",
         "note": null
       },
       "reference_bn": {
@@ -107,9 +107,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "ظالم کے خلاف دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! مجھے اپنی سماعت اور بصارت سے فائدہ اٹھانے دے، اور میری موت تک انہیں صحیح سالم رکھ۔ جو لوگ مجھ پر ظلم کرتے ہیں، ان کے مقابلے میں میری مدد فرما اور ان سے میرا بدلہ لے۔",
         "note": null
       },
       "reference_bn": {
@@ -143,9 +143,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "ظالموں میں شامل نہ کیے جانے کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! ہمیں ظالم لوگوں کے ساتھ شامل نہ فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -179,9 +179,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "قرض کی ادائیگی کی دعا #1",
+        "content": "اگر قرض کا بوجھ پہاڑ جتنا بھی ہو تو یہ دعا پڑھنے سے اللہ قرض سے نجات عطا فرما دے گا:",
+        "translation": "اے اللہ! مجھے اپنا حلال اتنا عطا فرما کہ حرام سے بچا رہوں، اور اپنے فضل سے مجھے اپنے سوا سب سے بے نیاز کر دے۔",
         "note": null
       },
       "reference_bn": {
@@ -216,9 +216,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "قرض کی ادائیگی کی دعا #2",
+        "content": "رسول اللہ ﷺ نے فرمایا:",
+        "translation": "اے اللہ! میں فکر اور غم، بے بسی اور سستی، بخل اور بزدلی، قرض کے بوجھ اور لوگوں کے غلبے سے تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -253,9 +253,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "اولاد کو اللہ کی پناہ میں دینے کی دعا",
+        "content": "رسول اللہ ﷺ حضرت حسن و حسین رضی اللہ عنہما کو اس طرح اللہ کی پناہ میں دیا کرتے تھے:",
+        "translation": "میں تم دونوں کو اللہ کے کامل کلمات کی پناہ میں دیتا ہوں، ہر شیطان، ہر موذی جانور اور ہر نظرِ بد سے۔",
         "note": null
       },
       "reference_bn": {
@@ -290,9 +290,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "خطرے کے وقت کی دعا",
+        "content": "رسول اللہ ﷺ خطرے کے وقت یہ دعا پڑھا کرتے تھے:",
+        "translation": "اے اللہ! تیرے سوا کوئی معبودِ برحق نہیں۔ تو پاک ہے۔ بے شک میں ظالموں میں سے تھا۔",
         "note": null
       },
       "reference_bn": {
@@ -327,10 +327,10 @@
         "note": "Woe unto the Arabs from a danger that has come near. An opening has been made in the wall of Gog and Magog like this,\" making a circle with his thumb and index finger. Zainab bint Jahsh (RA) said, \"O Allah's Messenger (ﷺ)! Shall we be destroyed even though there are pious persons among us?\" He said, \"Yes, when the evil person will increase.\""
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "گھبراہٹ کے وقت",
+        "content": "حضرت زینب بنت جحش رضی اللہ عنہا سے روایت ہے کہ ایک مرتبہ رسول اللہ ﷺ خوف زدہ حالت میں ان کے پاس تشریف لائے اور فرمایا:",
+        "translation": "اللہ کے سوا کوئی معبودِ برحق نہیں۔",
+        "note": "قریب آنے والی آفت سے عربوں کے لیے ہلاکت ہے۔ یاجوج و ماجوج کی دیوار میں اتنا سوراخ ہو گیا ہے، (یہ کہتے ہوئے آپ ﷺ نے اپنے انگوٹھے اور شہادت کی انگلی سے دائرہ بنایا)۔ حضرت زینب بنت جحش رضی اللہ عنہا نے کہا: ’’اللہ کے رسول ﷺ! کیا ہم ہلاک کر دیے جائیں گے، حالانکہ ہمارے درمیان نیک لوگ بھی موجود ہیں؟‘‘ آپ ﷺ نے فرمایا: ’’ہاں، جب برے لوگ بڑھ جائیں گے۔‘‘"
       },
       "reference_bn": {
         "name": "আতঙ্কিত হলে",
@@ -365,9 +365,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "جس کی آپ نے دل آزاری کی ہو، اس کے لیے دعا",
+        "content": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے، انہوں نے رسول اللہ ﷺ کو فرماتے ہوئے سنا:",
+        "translation": "اے اللہ! میں نے اہلِ ایمان میں سے جس کی بھی دل آزاری کی ہو، قیامت کے دن اسے اپنے قرب کا ذریعہ بنا دے۔",
         "note": null
       },
       "reference_bn": {
@@ -402,10 +402,10 @@
         "note": "It is to be said when you must ensure you have knowledge that the certain characteristic is present in that person."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "کسی مسلمان کی تعریف کرنے کا طریقہ",
+        "content": "رسول اللہ ﷺ نے فرمایا: تم میں سے کسی کو اپنے بھائی کی تعریف کرنی ہو تو یوں کہے:",
+        "translation": "میں فلاں کو ایسا ایسا سمجھتا ہوں، اور اللہ ہی اس کا حساب لینے والا ہے۔ میں اللہ کے سامنے کسی کو پاک قرار نہیں دیتا؛ میرا گمان ہے کہ وہ ایسا ایسا ہے۔",
+        "note": "یہ اس وقت کہا جائے جب تمہیں یقین ہو کہ یہ وصف اس شخص میں موجود ہے۔"
       },
       "reference_bn": {
         "name": "অপর মুসলিমের প্রশংসা করতে চাইলে যা বলবে",
@@ -440,9 +440,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "جس کی تعریف کی گئی ہو، اس کے لیے دعا",
+        "content": "رسول اللہ ﷺ کے ایک صحابی کی عادت تھی کہ جب ان کی تعریف کی جاتی تو وہ کہتے:",
+        "translation": "اے اللہ! جو کچھ یہ لوگ کہتے ہیں اس پر میرا مؤاخذہ نہ فرما، میری ان کوتاہیوں کو بخش دے جنہیں یہ نہیں جانتے، اور مجھے ان کے گمان سے بہتر بنا دے۔",
         "note": null
       },
       "reference_bn": {
@@ -477,9 +477,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "جو اللہ سے آپ کے گناہوں کی مغفرت کی دعا کرے، اس کے لیے",
+        "content": "عبداللہ بن سرجس رضی اللہ عنہ نے رسول اللہ ﷺ سے عرض کیا: ’’اے اللہ کے رسول!‘‘",
+        "translation": "اللہ آپ کو بخشے۔",
         "note": null
       },
       "reference_bn": {
@@ -492,25 +492,25 @@
           "group": 0,
           "key": "content",
           "source": "In response, The Messenger of Allah (ﷺ) said:",
-          "target": ""
+          "target": "اس کے جواب میں رسول اللہ ﷺ نے فرمایا:"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "May Allah forgive you too. [1]",
-          "target": ""
+          "target": "اللہ تمہیں بھی بخشے۔ [1]"
         },
         {
           "group": 1,
           "key": "content",
           "source": "When the people heard this, they said, Allah's Apostle (ﷺ) seek forgiveness for you? He said: Yes, and also for you all. Then he then recited this verse। [2]",
-          "target": ""
+          "target": "جب لوگوں نے یہ بات سنی تو انہوں نے حضرت عبداللہ بن سرجس رضی اللہ عنہ سے پوچھا: ’’کیا رسول اللہ ﷺ نے آپ کے لیے مغفرت کی دعا فرمائی؟‘‘ انہوں نے جواب دیا: ’’ہاں، اور تم سب کے لیے بھی۔‘‘ پھر انہوں نے یہ آیت تلاوت کی۔ [2]"
         },
         {
           "group": 1,
           "key": "translation",
           "source": "Ask forgiveness for your sin and for the believing men and believing women. (Surah Muhammad 47:19)",
-          "target": ""
+          "target": "اپنے گناہ کی مغفرت مانگیے اور مومن مردوں اور مومن عورتوں کے لیے بھی۔ (Surah Muhammad 47:19)"
         }
       ]
     },
@@ -540,10 +540,10 @@
         "note": "Then he has done the most that he can of praise."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "جب کوئی آپ کے ساتھ بھلائی کرے",
+        "content": "رسول اللہ ﷺ نے فرمایا: جس کے ساتھ کوئی بھلائی کی جائے اور وہ کہے:",
+        "translation": "اللہ تمہیں جزائے خیر عطا فرمائے۔",
+        "note": "تو اس نے تعریف کا حق ادا کر دیا۔"
       },
       "reference_bn": {
         "name": "কেউ আপনার জন্য ভালো কাজ করলে",
@@ -578,8 +578,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "دجال سے حفاظت",
+        "content": "رسول اللہ ﷺ نے فرمایا: جو شخص سورہ کہف کی ابتدائی دس آیات زبانی یاد کر لے، وہ دجال سے محفوظ رہے گا۔",
         "translation": null,
         "note": null
       },
@@ -614,8 +614,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "چار چیزوں سے پناہ مانگنے کی دعا",
+        "content": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: جب تم میں سے کوئی آخری تشہد سے فارغ ہو جائے تو چار چیزوں سے اللہ کی پناہ مانگے: جہنم کے عذاب، قبر کے عذاب، زندگی اور موت کے فتنے، اور مسیحِ دجال کے شر سے۔",
         "translation": null,
         "note": null
       },
@@ -650,9 +650,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "جو اللہ کے لیے آپ سے محبت کرے، اس کے جواب میں",
+        "content": "اگر کوئی مسلمان بھائی دوسرے سے کہنا چاہے کہ وہ اس سے اللہ کے لیے محبت کرتا ہے تو اسے کہنا چاہیے:",
+        "translation": "میں تم سے اللہ کے لیے محبت کرتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -665,13 +665,13 @@
           "group": 0,
           "key": "content",
           "source": "He will respond by saying:",
-          "target": ""
+          "target": "وہ جواب میں کہے گا:"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "May He for Whose sake you love me, love you.",
-          "target": ""
+          "target": "جس ذات کی خاطر تم مجھ سے محبت کرتے ہو، وہ تم سے محبت کرے۔"
         }
       ]
     },
@@ -701,10 +701,10 @@
         "note": "`Abdur-Rahman (RA) then said, \"Where is your market?\" So they showed him the Qainuqa' market. (He went there and) returned with a profit in the form of dried yogurt and butter. He continued going (to the market) till one day he came, bearing the traces of yellow scent. The Prophet (ﷺ) asked, \"What is this (scent)?\" He replied, \"I got married.\" The Prophet (ﷺ) asked, \"How much Mahr did you give her?\" He replied, \"I gave her a datestone of gold or a gold piece equal to the weight of a date-stone.\" The Prophet (ﷺ) said, \"Arrange a marriage banquet even with a sheep."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "جس نے آپ کو اپنے مال میں سے کچھ دیا ہو",
+        "content": "جب حضرت سعد بن ربیع رضی اللہ عنہ نے حضرت عبدالرحمن بن عوف رضی اللہ عنہ کو اپنا نصف مال دینے اور اپنی دو بیویوں میں سے ایک کو طلاق دینے کی پیش کش کی تو حضرت عبدالرحمن رضی اللہ عنہ نے کہا:",
+        "translation": "اللہ تمہارے اہل و عیال اور مال میں برکت دے۔",
+        "note": "حضرت عبدالرحمن رضی اللہ عنہ نے پھر کہا: ’’تمہاری منڈی کہاں ہے؟‘‘ لوگوں نے انہیں قینقاع کی منڈی دکھا دی۔ وہ وہاں گئے اور خشک دہی اور مکھن کی شکل میں نفع لے کر واپس آئے۔ وہ اسی طرح منڈی جاتے رہے، یہاں تک کہ ایک دن زرد خوشبو کے آثار لیے ہوئے آئے۔ رسول اللہ ﷺ نے پوچھا: ’’یہ کیا ہے؟‘‘ انہوں نے جواب دیا: ’’میں نے شادی کر لی ہے۔‘‘ رسول اللہ ﷺ نے پوچھا: ’’تم نے اسے کتنا مہر دیا؟‘‘ انہوں نے جواب دیا: ’’کھجور کی ایک گٹھلی کے وزن کے برابر سونا۔‘‘ رسول اللہ ﷺ نے فرمایا: ’’ولیمہ کرو، خواہ ایک بھیڑ ہی سے ہو۔‘‘"
       },
       "reference_bn": {
         "name": "কেউ সম্পদ দিয়ে সাহায্য করতে চাইলে, তার জন্য দোয়া",
@@ -739,9 +739,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "قرض ادا کرنے والے کے لیے دعا",
+        "content": "قرض واپس کرتے وقت رسول اللہ ﷺ نے فرمایا:",
+        "translation": "اللہ تمہارے اہل و عیال اور مال میں برکت دے۔ قرض کا بدلہ تو شکر ادا کرنا اور اسے واپس کرنا ہے۔",
         "note": null
       },
       "reference_bn": {

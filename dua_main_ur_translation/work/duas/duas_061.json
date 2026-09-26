@@ -3,7 +3,7 @@
   "chunk": "duas_061.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 25,
   "id_range": "907-931",
   "source_chars": 5728,
@@ -34,10 +34,10 @@
         "note": "Then raise both hands (towards the sky so high), So that the whiteness of the armpits (i.e. the inner part of the armpits) can be seen. Then, with the back to the assembled people (facing the Ka'bah), turn your cloth over (lower part up, upper part down, right part left, and left part right). At this time keep the hand (in the same way towards the sky) high. Then you will return to the people, get down from the pulpit, and pray two rak'aats of Salatul istesqaah."
       },
       "target": {
-        "name": "",
+        "name": "بارش کی دعا (نمازِ استسقاء)",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "تمام تعریف اللہ کے لیے ہے، جو تمام جہانوں کا رب، نہایت مہربان، بہت رحم فرمانے والا اور روزِ جزا کا مالک ہے۔ اللہ کے سوا کوئی معبودِ برحق نہیں؛ وہ جو چاہتا ہے کرتا ہے۔ اے اللہ! تو ہی اللہ ہے، تیرے سوا کوئی معبودِ برحق نہیں۔ تو بے نیاز ہے اور ہم محتاج ہیں۔ ہم پر بارش نازل فرما، اور جو کچھ تو نازل فرمائے اسے ایک مدت تک ہمارے لیے قوت اور سامانِ زندگی بنا دے۔",
+        "note": "پھر دونوں ہاتھ آسمان کی طرف اتنے بلند کریں کہ بغلوں کی سفیدی، یعنی اندرونی حصہ، نظر آنے لگے۔ پھر لوگوں کی طرف پشت اور قبلے کی طرف رخ کر کے اپنی چادر پلٹ لیں: نیچے والا حصہ اوپر، اوپر والا نیچے، دایاں حصہ بائیں اور بایاں حصہ دائیں کر لیں۔ اس دوران ہاتھ اسی طرح آسمان کی طرف بلند رکھیں۔ اس کے بعد لوگوں کی طرف رخ کریں، منبر سے اتریں اور نمازِ استسقاء کی دو رکعتیں ادا کریں۔"
       },
       "reference_bn": {
         "name": "বৃষ্টি চাওয়ার দোয়া (সালাতুল ইসতিসক্বা)",
@@ -71,9 +71,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "بارش کے نقصان سے بچنے کی دعا #1",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! ہم اس شر سے تیری پناہ مانگتے ہیں جس کے ساتھ یہ بھیجی گئی ہے۔ اے اللہ! اسے نفع بخش موسلا دھار بارش بنا دے۔",
         "note": null
       },
       "reference_bn": {
@@ -107,9 +107,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "آندھی کے نقصان سے بچنے کی دعا #2",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! ہم تجھ سے اس ہوا کی بھلائی، اس میں موجود بھلائی اور اس کام کی بھلائی مانگتے ہیں جس کا اسے حکم دیا گیا ہے؛ اور اس ہوا کے شر، اس میں موجود شر اور اس کام کے شر سے تیری پناہ مانگتے ہیں جس کا اسے حکم دیا گیا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -143,9 +143,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "آندھی کے نقصان سے بچنے کی دعا #3",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! اس ہوا کو بارش برسانے والی بنا، بے فیض نہ بنا۔",
         "note": null
       },
       "reference_bn": {
@@ -179,9 +179,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "آندھی کے نقصان سے بچنے کی دعا #4",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں تجھ سے اس کام کی بھلائی مانگتا ہوں جس کا اس ہوا کو حکم دیا گیا ہے، اور اس کام کے شر سے تیری پناہ مانگتا ہوں جس کا اسے حکم دیا گیا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -215,9 +215,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "بارش کے وقت کی دعا #2",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! خوش گوار، نفع بخش بارش نازل فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -251,9 +251,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "لاعلاج بیماری میں دعا #1",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! مجھے اس وقت تک زندہ رکھ جب تک میرے لیے زندگی بہتر ہے، اور جب میرے لیے وفات بہتر ہو تو مجھے وفات دے دے۔",
         "note": null
       },
       "reference_bn": {
@@ -287,9 +287,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "لاعلاج بیماری میں دعا #2",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! اپنے اس بندے کو شفا عطا فرما، تاکہ وہ تیری خاطر دشمن کو زک پہنچا سکے یا تیری رضا کے لیے جنازے کے ساتھ چل سکے۔",
         "note": null
       },
       "reference_bn": {
@@ -323,9 +323,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "شہادت اور مدینہ میں وفات کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! مجھے اپنی راہ میں شہادت نصیب فرما اور اپنے رسول ﷺ کے شہر مدینہ میں مجھے وفات دے۔",
         "note": null
       },
       "reference_bn": {
@@ -359,9 +359,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "درد دور ہونے کی دعا #1",
+        "content": "پہلے 3 مرتبہ بسم اللہ کہیں، پھر 7 مرتبہ یہ دعا پڑھیں:",
+        "translation": "میں اللہ کی عزت اور قدرت کی پناہ لیتا ہوں، اس درد کے شر سے جو میں محسوس کر رہا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -396,9 +396,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "دینِ اسلام پر خاتمے کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! بے شک تو نے فرمایا ہے: ”مجھ سے دعا کرو، میں تمہاری دعا قبول کروں گا“، اور یقیناً تو وعدہ خلافی نہیں کرتا۔ میں تجھ سے سوال کرتا ہوں: جس طرح تو نے مجھے اسلام کی ہدایت دی ہے، اسے مجھ سے نہ چھیننا، یہاں تک کہ مجھے اس حال میں وفات دے کہ میں مسلمان ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -432,9 +432,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "درد دور ہونے کی دعا #2",
+        "content": "اسے سات مرتبہ پڑھیں:",
+        "translation": "میں اللہ کی عزت اور ہر چیز پر اس کی قدرت کی پناہ لیتا ہوں، اس تکلیف کے شر سے جو میں محسوس کر رہا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -469,9 +469,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "اپنی ذات یا مال کی کوئی چیز پسند آنے پر",
         "content": null,
-        "translation": "",
+        "translation": "وہی ہوتا ہے جو اللہ چاہے؛ اللہ کی مدد کے بغیر کوئی قوت نہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -505,9 +505,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "ہر قسم کے گناہوں سے مغفرت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میری وہ خطائیں بخش دے جو سنجیدگی یا ہنسی مذاق میں، بھول چوک سے یا جان بوجھ کر ہوئی ہیں؛ یہ سب مجھ میں موجود ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -541,9 +541,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "گناہوں اور خطاؤں کی مغفرت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میرے گناہ، میری خطا اور میرے دانستہ کیے ہوئے گناہ بخش دے۔",
         "note": null
       },
       "reference_bn": {
@@ -577,9 +577,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "اسلام پر ثابت قدمی کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اسلام اور اہلِ اسلام کے کارساز! مجھے اسلام پر ثابت قدم رکھ، یہاں تک کہ میں تجھ سے آ ملوں۔",
         "note": null
       },
       "reference_bn": {
@@ -613,9 +613,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "انصار اور مہاجرین کے لیے دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! حقیقی زندگی تو صرف آخرت کی زندگی ہے؛ پس مہاجرین اور انصار کو بخش دے۔",
         "note": null
       },
       "reference_bn": {
@@ -649,9 +649,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "دانستہ اور نادانستہ گناہوں کی مغفرت مانگنا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میری خطا، میری نادانی، اپنے معاملات میں میری زیادتی اور وہ سب کچھ بخش دے جسے تو مجھ سے زیادہ جانتا ہے۔ اے اللہ! ہنسی مذاق میں اور سنجیدگی سے، بھول چوک سے اور جان بوجھ کر کیے ہوئے میرے گناہ بخش دے؛ یہ سب مجھ میں موجود ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -685,9 +685,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "ناجائز خواہشات سے حفاظت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میرا گناہ بخش دے، میرے دل کو پاک کر دے اور میری عصمت کی حفاظت فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -721,9 +721,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "تکبیر کے الفاظ #1",
+        "content": "عبداللہ بن مسعود رضی اللہ عنہ اس طرح تکبیر کہا کرتے تھے:",
+        "translation": "اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے۔ اللہ کے سوا کوئی معبودِ برحق نہیں۔ اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے اور تمام تعریف اللہ ہی کے لیے ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -758,9 +758,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "تکبیر کے الفاظ #2",
+        "content": "عبداللہ بن عباس رضی اللہ عنہما فرمایا کرتے تھے:",
+        "translation": "اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے اور تمام تعریف اللہ ہی کے لیے ہے۔ اللہ سب سے بڑا اور نہایت باعظمت ہے۔ اللہ سب سے بڑا ہے کہ اس نے ہمیں ہدایت دی۔",
         "note": null
       },
       "reference_bn": {
@@ -795,10 +795,10 @@
         "note": "Women will also recite this takbeer, but in a low voice. So that non mahram can't hear the sound of this takbeer. Umm Atiyah (RA) said, ‘Even we used to take menstruating women out to the Eidgah. They stood behind the men; They used to recite takbeer after hearing their takbeer and they also used to recite dua after hearing their dua. They hoped for the blessings and holiness of that day.' [2]\r\n\r\nOn the other hand, it is bid'ah to recite the takbeer of the congregation in one voice or the recitation of the takbeer by all at the same time. Since the sunnah of the Prophet (ﷺ) is: In the dhikr of Allaah, each person will recite his own dhikr alone. So it is not right for anyone to deviate from the ideals of him and his companions. [3]"
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "تکبیر کے الفاظ #3",
+        "content": "ایک اور روایت میں ہے:",
+        "translation": "اللہ سب سے بڑا ہے، بہت بڑا۔ اللہ سب سے بڑا ہے، بہت بڑا۔ اللہ سب سے بڑا اور نہایت باعظمت ہے۔ اللہ سب سے بڑا ہے اور تمام تعریف اللہ ہی کے لیے ہے۔",
+        "note": "خواتین بھی یہ تکبیر کہیں، مگر پست آواز سے تاکہ کوئی غیر محرم مرد اسے نہ سن سکے۔ ام عطیہ رضی اللہ عنہا فرماتی ہیں: ”ہم حائضہ عورتوں کو بھی عیدگاہ لے جاتی تھیں۔ وہ مردوں کے پیچھے رہتیں، ان کی تکبیر سن کر تکبیر کہتیں اور ان کی دعا سن کر دعا مانگتیں، اور اس دن کی برکت اور پاکیزگی کی امید رکھتیں۔“ [2]\r\n\r\nالبتہ سب کا ایک آواز سے اجتماعی تکبیر کہنا، یا ایک شخص کے کہنے کے بعد سب کا بیک وقت تکبیر کہنا بدعت ہے۔ اللہ کے ذکر میں نبی ﷺ کی سنت یہ ہے کہ ہر شخص اپنا ذکر الگ الگ کرے؛ اس لیے آپ ﷺ اور صحابہ کرام کے طریقے سے ہٹنا درست نہیں۔ [3]"
       },
       "reference_bn": {
         "name": "তকবীরের শব্দাবলী #৩",
@@ -833,10 +833,10 @@
         "note": "In the case of plural, 'Minka' will be replaced by 'Minkum'."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "عید کے دن باہم ملاقات کی دعا",
+        "content": "صحابہ کرام عید کے دن باہم ملتے تو کہتے تھے:",
+        "translation": "اللہ ہم سے اور آپ سے نیک اعمال قبول فرمائے۔",
+        "note": "واحد مخاطب کے لیے «مِنْکَ» اور جمع مخاطبین کے لیے «مِنْکُمْ» پڑھیں۔"
       },
       "reference_bn": {
         "name": "ঈদের দিনে পরস্পরে সাক্ষাৎকালে দোয়া",
@@ -871,9 +871,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #1",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! ہماری طرف سے قبول فرما؛ بے شک تو ہی خوب سننے والا، خوب جاننے والا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -907,9 +907,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #2",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! ہم دونوں کو اپنے مسلم و فرمانبردار بندے بنا، اور ہماری اولاد میں سے بھی اپنی مسلم و فرمانبردار امت بنا۔ ہمیں ہماری عبادت کے طریقے دکھا اور ہماری توبہ قبول فرما۔ بے شک تو ہی بہت توبہ قبول کرنے والا، نہایت رحم فرمانے والا ہے۔",
         "note": null
       },
       "reference_bn": {

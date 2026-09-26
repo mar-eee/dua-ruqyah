@@ -3,7 +3,7 @@
   "chunk": "duas_046.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 26,
   "id_range": "656-681",
   "source_chars": 5885,
@@ -34,9 +34,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "امن اور رزق کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے میرے رب! اسے پُرامن شہر بنا اور اس کے ان باشندوں کو پھلوں کا رزق عطا فرما جو اللہ اور یومِ آخرت پر ایمان لائیں۔",
         "note": null
       },
       "reference_bn": {
@@ -70,9 +70,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "صبر، ثابت قدمی اور نصرت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! ہم پر صبر انڈیل دے، ہمارے قدم جما دے، اور کافر قوم کے مقابلے میں ہماری مدد فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -106,9 +106,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "فاسق قوم سے جدائی کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "پس ہمارے اور نافرمان قوم کے درمیان جدائی فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -142,9 +142,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رزق کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اور ہمیں رزق عطا فرما؛ تو سب سے بہتر رزق دینے والا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -178,9 +178,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "نیک اولاد کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اگر تو ہمیں نیک اولاد عطا فرمائے تو ہم ضرور شکر گزاروں میں شامل ہوں گے۔",
         "note": null
       },
       "reference_bn": {
@@ -214,9 +214,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "مصیبت سے نجات کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اگر تو ہمیں اس مصیبت سے نجات دے تو ہم ضرور شکر گزاروں میں شامل ہوں گے۔",
         "note": null
       },
       "reference_bn": {
@@ -250,9 +250,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "کشتی پر سوار ہونے کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اللہ ہی کے نام سے اس کا چلنا اور لنگر انداز ہونا ہے؛ بے شک میرا رب بہت بخشنے والا، نہایت رحم فرمانے والا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -286,9 +286,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "اللہ کی پناہ مانگنا",
         "content": null,
-        "translation": "",
+        "translation": "اللہ کی پناہ! بے شک وہ میرا آقا ہے، اس نے مجھے اچھا ٹھکانا دیا ہے۔ یقیناً ظالم کامیاب نہیں ہوتے۔",
         "note": null
       },
       "reference_bn": {
@@ -322,9 +322,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "اسلام پر وفات اور صالحین میں شمولیت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے آسمانوں اور زمین کے پیدا کرنے والے! دنیا اور آخرت میں تو ہی میرا کارساز ہے۔ مجھے اسلام کی حالت میں وفات دے اور نیک لوگوں میں شامل فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -358,9 +358,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "بے اولاد شخص کی اولاد کے لیے دعا",
         "content": null,
-        "translation": "",
+        "translation": "اور مجھے اپنے بعد اپنے قرابت داروں کا اندیشہ ہے، جبکہ میری بیوی بانجھ ہے؛ پس اپنے پاس سے مجھے ایک وارث عطا فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -394,9 +394,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "والدین کے لیے دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے میرے رب! ان دونوں پر رحم فرما، جیسے انہوں نے بچپن میں مجھے پالا تھا۔",
         "note": null
       },
       "reference_bn": {
@@ -430,9 +430,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "مدد کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے میرے رب! میری مدد فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -466,9 +466,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "برکت والی منزل کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے میرے رب! مجھے کسی بابرکت منزل پر اتار، اور تو سب سے بہتر ٹھکانا دینے والا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -502,9 +502,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "ظالموں میں شامل نہ ہونے کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے میرے رب! مجھے ظالم قوم میں شامل نہ کرنا۔",
         "note": null
       },
       "reference_bn": {
@@ -538,9 +538,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "حق فیصلے اور نجات کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "پس میرے اور ان کے درمیان دو ٹوک فیصلہ فرما، اور مجھے اور میرے ساتھ موجود مومنوں کو نجات دے۔",
         "note": null
       },
       "reference_bn": {
@@ -574,9 +574,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "جنت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! انہیں ہمیشہ رہنے والی ان جنتوں میں داخل فرما جن کا تو نے ان سے وعدہ کیا ہے، اور ان کے آبا و اجداد، ازواج اور اولاد میں سے جو نیک ہوں انہیں بھی۔ بے شک تو ہی زبردست، حکمت والا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -610,9 +610,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "برائیوں سے حفاظت کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اور انہیں برائیوں سے بچا۔ جسے تو اس دن برائیوں سے بچا لے، اس پر تو نے رحم فرمایا؛ اور یہی بڑی کامیابی ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -646,9 +646,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "متکبروں سے پناہ",
         "content": null,
-        "translation": "",
+        "translation": "بے شک میں نے اپنے رب اور تمہارے رب کی پناہ لی ہے، ہر ایسے متکبر سے جو یومِ حساب پر ایمان نہیں رکھتا۔",
         "note": null
       },
       "reference_bn": {
@@ -682,9 +682,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "اپنا معاملہ اللہ کے سپرد کرنا",
         "content": null,
-        "translation": "",
+        "translation": "اور میں اپنا معاملہ اللہ کے سپرد کرتا ہوں؛ بے شک اللہ بندوں کو خوب دیکھنے والا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -718,9 +718,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "جنت میں گھر کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے میرے رب! اپنے پاس جنت میں میرے لیے ایک گھر بنا دے۔",
         "note": null
       },
       "reference_bn": {
@@ -754,9 +754,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "کافروں کے خلاف بددعا",
         "content": null,
-        "translation": "",
+        "translation": "اے میرے رب! روئے زمین پر کافروں میں سے کسی کو بستا نہ چھوڑ۔",
         "note": null
       },
       "reference_bn": {
@@ -790,10 +790,10 @@
         "note": "Abdullah ibn Mas’ud (RA) said, The Messenger of Allah (ﷺ) said, “If anyone afflicted with anxiety, inquietude state and he says the above mentioned dua, then Allah will remove his distress and anxiety and altered it with happiness. Companions then said, ”So, we have to learn these words! He said,“Obviously! Whomsoever listens to these words, should memorize them.” This hadith's chain of narration is acceptable. [2]\n\nN.B. Women should say this dua like this:\n\n“Allaahumma inni amatuka, wa bintu ‘abdika wa bintu amatika….”\n\nMeaning: “Oh Allah! I am your slave girl, a daughter of your slave and a daughter of your slave girl….”\n\nIn many hadiths, it is encouraged to make dua by the greatest name of Allah. In many narrations, it is said that if anyone ask Allah by this name then Allah will accept his dua."
       },
       "target": {
-        "name": "",
+        "name": "اللہ کے ناموں کے وسیلے سے دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! میں تیرا بندہ، تیرے بندے کا بیٹا اور تیری بندی کا بیٹا ہوں۔ میری پیشانی تیرے ہاتھ میں ہے۔ میرے بارے میں تیرا حکم نافذ اور تیرا فیصلہ عدل پر مبنی ہے۔ میں تجھ سے تیرے ہر اس نام کے وسیلے سے مانگتا ہوں جو تیرا ہے: جس سے تو نے خود کو موسوم کیا، یا اپنی کتاب میں نازل کیا، یا اپنی مخلوق میں سے کسی کو سکھایا، یا جسے اپنے پاس علمِ غیب میں خاص رکھا؛ کہ قرآن کو میرے دل کی بہار، میری نگاہ کا نور (اور میرے سینے کا نور)، میرے غم کو دور کرنے والا اور میری پریشانی کو ختم کرنے والا بنا دے۔ [1]",
+        "note": "حضرت عبداللہ بن مسعود رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ’’جو شخص پریشانی، بے چینی یا غم میں مبتلا ہو کر مذکورہ بالا دعا پڑھے، اللہ اس کی پریشانی اور غم دور کر کے اسے خوشی میں بدل دیتا ہے۔‘‘ صحابہ کرام نے عرض کیا: پھر ہمیں یہ کلمات سیکھ لینے چاہییں؟ آپ ﷺ نے فرمایا: ’’کیوں نہیں! جو یہ کلمات سنے اسے چاہیے کہ انہیں یاد کر لے۔‘‘ اس حدیث کی سند قابلِ قبول ہے۔ [2]\n\nنوٹ: خواتین اس دعا کا آغاز یوں کریں:\n\n“Allaahumma inni amatuka, wa bintu ‘abdika wa bintu amatika….”\n\nمعنی: ’’اے اللہ! میں تیری بندی، تیرے بندے کی بیٹی اور تیری بندی کی بیٹی ہوں…۔‘‘\n\nبہت سی احادیث میں اللہ کے اسمِ اعظم کے وسیلے سے دعا کرنے کی ترغیب دی گئی ہے۔ متعدد روایات میں آیا ہے کہ اللہ سے اس نام کے وسیلے سے مانگا جائے تو وہ دعا قبول فرماتا ہے۔"
       },
       "reference_bn": {
         "name": "আল্লাহ্‌র নামের ওসীলার দোয়া",
@@ -827,10 +827,10 @@
         "note": "\"Buraidah (RA) said, “The Prophet (ﷺ) heard a man supplicating with this dua, So he said: \n\n‘By the One in Whose Hand is my soul, he has asked Allah by His Greatest Name, the one which if He is called upon by it, He responds, and when He is asked by it, He gives.\""
       },
       "target": {
-        "name": "",
+        "name": "اللہ کا اسمِ اعظم #1",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! میں تجھ سے اس گواہی کے وسیلے سے مانگتا ہوں کہ تو ہی اللہ ہے؛ تیرے سوا کوئی معبودِ برحق نہیں۔ تو یکتا، بے نیاز ہے؛ نہ تو نے کسی کو جنا اور نہ تو جنا گیا، اور کوئی تیرے برابر نہیں۔",
+        "note": "حضرت بریدہ رضی اللہ عنہ فرماتے ہیں: رسول اللہ ﷺ نے ایک شخص کو یہ دعا مانگتے سنا تو فرمایا: ’’اس ذات کی قسم جس کے ہاتھ میں میری جان ہے! اس نے اللہ سے اس کے اسمِ اعظم کے وسیلے سے مانگا ہے؛ یہ وہ نام ہے کہ جب اس کے ذریعے اللہ کو پکارا جائے تو وہ قبول فرماتا ہے، اور جب اس کے ذریعے مانگا جائے تو عطا فرماتا ہے۔‘‘"
       },
       "reference_bn": {
         "name": "মহান আল্লাহ্‌র ইসমু আযম #১",
@@ -864,10 +864,10 @@
         "note": "I was sitting with the Messenger of Allah (ﷺ) and a man was praying. When he bowed, prostrated and recited the tashahhud, he supplicated, and in his supplication he said: (the above mentioned dua). The Prophet (ﷺ) said, 'Do you know what he has supplicated with?' They said, \"Allah (SWT) and His Messenger know best.\" He said, 'By the One in Whose Hand is my soul, he called upon Allah by His greatest Name, which, if He is called by it, He responds, and if He is asked by it, He gives.'"
       },
       "target": {
-        "name": "",
+        "name": "اللہ کا اسمِ اعظم #2",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! میں تجھ سے مانگتا ہوں، کیونکہ تمام تعریف تیرے ہی لیے ہے۔ تیرے سوا کوئی معبودِ برحق نہیں۔ اے بہت عطا فرمانے والے! اے آسمانوں اور زمین کو بے مثال پیدا کرنے والے! اے جلال اور اکرام والے! اے ہمیشہ زندہ! اے سب کو قائم رکھنے والے! میں تجھ ہی سے مانگتا ہوں۔",
+        "note": "حضرت انس بن مالک رضی اللہ عنہ فرماتے ہیں: میں رسول اللہ ﷺ کے ساتھ بیٹھا تھا جبکہ ایک شخص نماز پڑھ رہا تھا۔ جب وہ رکوع، سجدہ اور تشہد سے فارغ ہو کر دعا کرنے لگا تو اس نے مذکورہ بالا کلمات کہے۔ رسول اللہ ﷺ نے فرمایا: ’’کیا تم جانتے ہو کہ اس نے کن کلمات کے ساتھ دعا کی؟‘‘ صحابہ کرام نے عرض کیا: ’’اللہ اور اس کا رسول بہتر جانتے ہیں۔‘‘ آپ ﷺ نے فرمایا: ’’اس ذات کی قسم جس کے ہاتھ میں میری جان ہے! اس نے اللہ کو اس کے اسمِ اعظم کے ساتھ پکارا ہے؛ یہ وہ نام ہے کہ جب اس کے ذریعے اللہ کو پکارا جائے تو وہ قبول فرماتا ہے، اور جب اس کے ذریعے مانگا جائے تو عطا فرماتا ہے۔‘‘"
       },
       "reference_bn": {
         "name": "মহান আল্লাহ্‌র ইসমু আযম #২",
@@ -901,10 +901,10 @@
         "note": "Sa'd ibn Abi Waqqas (RA) said, the Messenger of Allah (ﷺ) said, “The supplication of Dhun-Nun (Prophet Yunus As) when he supplicated, while in the belly of the whale was: (The Dua is mentioned above)’ So indeed, no Muslim man supplicates with it for anything, ever, except Allah responds to him.”"
       },
       "target": {
-        "name": "",
+        "name": "اللہ کا اسمِ اعظم #3 (دعائے یونس)",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "تیرے سوا کوئی معبودِ برحق نہیں، تو پاک ہے؛ بے شک میں ظالموں میں سے تھا۔",
+        "note": "حضرت سعد بن ابی وقاص رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ’’ذوالنون، یعنی یونس علیہ السلام، نے مچھلی کے پیٹ میں یہ دعا مانگی تھی: (دعا اوپر مذکور ہے)۔ جو مسلمان بھی کسی معاملے میں اس دعا کے ساتھ اللہ سے مانگے، اللہ اس کی دعا ضرور قبول فرماتا ہے۔‘‘"
       },
       "reference_bn": {
         "name": "মহান আল্লাহ্‌র ইসমু আযম #৩ (দোয়া ইউনূস)",
@@ -938,9 +938,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "اللہ کا اسمِ اعظم #4",
         "content": null,
-        "translation": "",
+        "translation": "اور تمہارا معبود ایک ہی معبود ہے؛ اس کے سوا کوئی معبودِ برحق نہیں۔ وہ نہایت مہربان، بہت رحم فرمانے والا ہے۔",
         "note": null
       },
       "reference_bn": {

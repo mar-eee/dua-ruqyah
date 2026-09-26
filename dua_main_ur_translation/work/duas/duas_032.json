@@ -3,7 +3,7 @@
   "chunk": "duas_032.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 15,
   "id_range": "426-440",
   "source_chars": 5475,
@@ -34,10 +34,10 @@
         "note": "That danger will not touch him."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "کسی مصیبت زدہ شخص کو دیکھنے پر",
+        "content": "رسول اللہ ﷺ نے فرمایا: جو شخص کسی مصیبت زدہ شخص کو دیکھے اور یہ کہے:",
+        "translation": "تمام تعریفیں اللہ کے لیے ہیں جس نے مجھے اس مصیبت سے محفوظ رکھا جس میں تمہیں مبتلا کیا، اور اپنی بہت سی مخلوق پر مجھے فضیلت عطا فرمائی۔",
+        "note": "یہ مصیبت اسے نہیں پہنچے گی۔"
       },
       "reference_bn": {
         "name": "বিপদগ্রস্ত কাউকে দেখলে",
@@ -72,10 +72,10 @@
         "note": "Whenever a matter would distress him, the Prophet (ﷺ) would say (above dua)"
       },
       "target": {
-        "name": "",
+        "name": "معاملات دشوار ہو جانے پر",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے ہمیشہ زندہ رہنے والے، اے سب کو قائم رکھنے والے! میں تیری رحمت کے وسیلے سے فریاد کرتا ہوں۔",
+        "note": "جب بھی رسول اللہ ﷺ کے سامنے کوئی پریشان کن معاملہ پیش آتا تو آپ ﷺ یہ دعا پڑھتے۔"
       },
       "reference_bn": {
         "name": "কঠিন কাজে পতিত ব্যক্তির দোয়া",
@@ -109,10 +109,10 @@
         "note": "Abu Huraira (RA) reported Allah's Messenger (ﷺ) as saying: A strong believer is better and is more lovable to Allah than a weak believer, and there is good in everyone, (but) cherish that which gives you benefit (in the Hereafter) and seek help from Allah and do not lose heart, and if anything (in the form of trouble) comes to you, don't say: If I had not done that, it would not have happened so and so, but say: (The dua is mentioned above) and your\" if\" opens the (gate) for the Satan."
       },
       "target": {
-        "name": "",
+        "name": "مایوسی کے وقت کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ نے یہی مقدر فرمایا، اور وہ جو چاہتا ہے کرتا ہے۔",
+        "note": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ’’طاقت ور مومن کمزور مومن سے بہتر اور اللہ کو زیادہ محبوب ہے، اور دونوں میں بھلائی ہے۔ اس چیز کے حصول کی کوشش کرو جو تمہیں (آخرت میں) فائدہ دے، اللہ سے مدد مانگو اور ہمت نہ ہارو۔ اگر تمہیں کوئی مصیبت پہنچے تو یہ نہ کہو کہ اگر میں یوں کرتا تو ایسا ہوتا، بلکہ یہ کہو: (دعا اوپر مذکور ہے)، کیونکہ تمہارا ’اگر‘ کہنا شیطان کے عمل کا دروازہ کھول دیتا ہے۔‘‘"
       },
       "reference_bn": {
         "name": "ব্যর্থতার সময়ের দোয়া",
@@ -146,9 +146,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "معاملات دشوار ہو جانے پر",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! کوئی چیز آسان نہیں، سوائے اس کے جسے تو آسان کر دے، اور تو چاہے تو مشکل کو آسان کر دیتا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -182,9 +182,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "دشمن یا صاحبِ اقتدار لوگوں کا سامنا ہونے پر دعا #1",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! ہم ان کے مقابلے میں تجھی کو اپنا محافظ بناتے ہیں اور ان کے شر سے تیری پناہ مانگتے ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -218,10 +218,10 @@
         "note": "Narrated from Abdullah Ibn Masood (RA) and Abdullah Ibn Abbas (RA), they said: If anyone fears harm from any ruler, administrator or powerful person, he should recite this dua."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "دشمن یا صاحبِ اقتدار لوگوں کا سامنا ہونے پر دعا #2",
+        "content": "رسول اللہ ﷺ نے فرمایا: اگر کسی کو دشمن یا صاحبِ اقتدار لوگوں کا سامنا ہونے کا خوف ہو تو اسے یہ کہنا چاہیے:",
+        "translation": "اے اللہ! ساتوں آسمانوں کے رب اور عرشِ عظیم کے رب! فلاں بن فلاں [یہاں شخص کا نام لیں] اور تیری مخلوق میں سے اس کے حامیوں کے مقابلے میں مجھے اپنی پناہ میں لے، نیز اپنی تمام مخلوق کے شر سے بھی، تاکہ ان میں سے کوئی مجھ پر زیادتی یا سرکشی نہ کرے۔ تیری پناہ زبردست ہے، تیری ثنا بلند ہے اور تیرے سوا کوئی معبودِ برحق نہیں۔",
+        "note": "حضرت عبداللہ بن مسعود رضی اللہ عنہ اور حضرت عبداللہ بن عباس رضی اللہ عنہما سے روایت ہے، انہوں نے فرمایا: اگر کسی حاکم، منتظم یا طاقت ور شخص سے نقصان کا اندیشہ ہو تو اسے یہ دعا پڑھنی چاہیے۔"
       },
       "reference_bn": {
         "name": "শত্রু এবং শক্তিধর ব্যক্তির সাক্ষাতকালে দোয়া #২",
@@ -256,9 +256,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "کسی سے نقصان کا خوف ہو تو اپنے دفاع کی دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! تو جس طرح چاہے، مجھے ان سے محفوظ رکھ۔",
         "note": null
       },
       "reference_bn": {
@@ -292,10 +292,10 @@
         "note": "Umm Salama (RA) reported Allah's Messenger (ﷺ) as saying: If any Muslim who suffers some calamity says, what Allah has commanded him,\" We are from Allah and unto Him we return. O Allah take me out of my plight and bring to me after it something better. When Abu Salama died Umm Salama said: What Muslim is better than Abu Salama whose family was the first to emigrate to the Messenger of Allah (ﷺ). I then said the words, and Allah gave me God's Messenger (ﷺ) in exchange."
       },
       "target": {
-        "name": "",
+        "name": "مصیبت میں مبتلا شخص کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "بے شک ہم اللہ ہی کے ہیں اور اسی کی طرف لوٹ کر جانے والے ہیں۔ اے اللہ! میری اس مصیبت پر مجھے اجر عطا فرما اور اس کے بدلے مجھے اس سے بہتر عطا فرما۔",
+        "note": "حضرت ام سلمہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: جب کسی مسلمان کو کوئی مصیبت پہنچے اور وہ وہی کہے جس کا اللہ نے اسے حکم دیا ہے: ’’بے شک ہم اللہ ہی کے ہیں اور اسی کی طرف لوٹ کر جانے والے ہیں۔ اے اللہ! میری اس مصیبت پر مجھے اجر عطا فرما اور اس کے بدلے مجھے اس سے بہتر عطا فرما۔‘‘ تو اللہ اسے اس مصیبت کے بدلے اس سے بہتر عطا فرماتا ہے۔ جب ابو سلمہ کا انتقال ہوا تو حضرت ام سلمہ رضی اللہ عنہا نے کہا: ابو سلمہ سے بہتر کون سا مسلمان ہو سکتا ہے؟ ان کا گھرانہ رسول اللہ ﷺ کی طرف ہجرت کرنے والوں میں سب سے پہلے تھا۔ پھر میں نے وہ کلمات کہے تو اللہ تعالیٰ نے ابو سلمہ کے بدلے رسول اللہ ﷺ کو میرا شوہر بنا دیا۔"
       },
       "reference_bn": {
         "name": "বিপদ-কষ্টে নিপতিত ব্যক্তির দোয়া",
@@ -329,10 +329,10 @@
         "note": "Umar (RA) narrated that: The Messenger of Allah (ﷺ) said: “Whoever sees a person afflicted and say: (The dua is mentioned above) then he shall be saved from that affliction for as long as he lives.” Grandson of Husain (RA), Muhammad al-Bakir said, dua should be uttered silently without hearing the afflicted person."
       },
       "target": {
-        "name": "",
+        "name": "بیمار یا معذور شخص کو دیکھنے کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "تمام تعریفیں اللہ کے لیے ہیں جس نے مجھے اس مصیبت سے محفوظ رکھا جس میں تمہیں مبتلا کیا، اور اپنی بہت سی مخلوق پر مجھے فضیلت عطا فرمائی۔",
+        "note": "حضرت عمر رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: جو شخص کسی مصیبت زدہ کو دیکھ کر یہ دعا پڑھے، وہ جب تک زندہ رہے اس مصیبت سے محفوظ رہے گا۔ حضرت حسین رضی اللہ عنہ کے پوتے محمد باقر رحمہ اللہ نے فرمایا: کسی مصیبت یا تکلیف میں مبتلا شخص کے پاس یہ دعا اس طرح پڑھے کہ وہ سن نہ سکے۔"
       },
       "reference_bn": {
         "name": "বিপদগ্রস্তকে দেখলে বলার দোয়া",
@@ -366,10 +366,10 @@
         "note": "Abu Huraira (RA) reported that a person came to Allah's Messenger (ﷺ) and said:\" Allah's Messenger, I was stung by a scorpion during the night. Thereupon he said: Had you recited these words in the evening:\" I seek refuge in the Perfect Word of Allah from the evil of what He created,\" it would not have done any harm to you.\""
       },
       "target": {
-        "name": "",
+        "name": "کیڑے مکوڑوں کے ڈنک سے حفاظت کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "میں اللہ کے کامل کلمات کی پناہ لیتا ہوں، اس کی پیدا کی ہوئی ہر چیز کے شر سے۔",
+        "note": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ ایک شخص رسول اللہ ﷺ کے پاس آیا اور عرض کیا: اللہ کے رسول! مجھے رات بچھو نے ڈنک مارا، جس سے مجھے بہت تکلیف ہوئی۔ آپ ﷺ نے فرمایا: اگر تم شام کے وقت یہ کلمات پڑھ لیتے: ’’میں اللہ کے کامل کلمات کی پناہ لیتا ہوں، اس کی پیدا کی ہوئی ہر چیز کے شر سے‘‘ تو وہ تمہیں کوئی نقصان نہ پہنچاتا۔"
       },
       "reference_bn": {
         "name": "সাপ বিচ্ছু থেকে আত্মরক্ষার যিক্‌র",
@@ -403,10 +403,10 @@
         "note": "Ali (RA) said: ”In the day of Badr war, after fighting for some while I was rushing to come to the Messenger of Allah (ﷺ) to see what he was doing. I saw him in a state of prostration and only saying these words : ya ‘hayyu ya qayyum (O Ever Living One, O Eternal One) and didn’t increase over that. Then again I went to the war. After some time I returned to him. Again I saw him in a state of prostration and only saying those same words.Then again I went to the war. After some time  I returned to him and saw him in a state of prostration and only saying those same words. Then Allah granted him (ﷺ) victory.\n\nWe can see in this hadith how to make dua by dhikr. This type of dua brings best result."
       },
       "target": {
-        "name": "",
+        "name": "دشمنوں پر فتح کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے ہمیشہ زندہ رہنے والے، اے سب کو قائم رکھنے والے!",
+        "note": "حضرت علی رضی اللہ عنہ نے فرمایا: جنگِ بدر کے دن کچھ دیر جنگ کرنے کے بعد میں رسول اللہ ﷺ کو دیکھنے کے لیے تیزی سے واپس آیا کہ آپ کیا کر رہے ہیں۔ میں نے دیکھا کہ آپ ﷺ سجدے کی حالت میں تھے اور صرف یہ کلمات کہہ رہے تھے: ’’یا حی یا قیوم‘‘ (اے ہمیشہ زندہ رہنے والے، اے سب کو قائم رکھنے والے)، اور اس سے زیادہ نہیں کہہ رہے تھے۔ پھر میں دوبارہ جنگ میں چلا گیا۔ کچھ دیر بعد واپس آیا تو پھر آپ ﷺ کو سجدے کی حالت میں پایا اور آپ وہی کلمات کہہ رہے تھے۔ پھر میں جنگ میں چلا گیا۔ کچھ دیر بعد دوبارہ واپس آیا تو آپ ﷺ سجدے کی حالت میں وہی کلمات کہہ رہے تھے۔ پھر اللہ تعالیٰ نے آپ ﷺ کو فتح عطا فرمائی۔\n\nاس حدیث سے معلوم ہوتا ہے کہ ذکر کے ذریعے بھی دعا کی جا سکتی ہے۔ ایسا عاجزانہ ذکر دعا کے بہترین ثمرات لاتا ہے۔"
       },
       "reference_bn": {
         "name": "শত্রুদের উপর বিজয় লাভের প্রার্থনা",
@@ -440,9 +440,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "فکر اور غم کی حالت میں دعا #1",
+        "content": "حضرت ابن عباس رضی اللہ عنہما سے روایت ہے کہ رسول اللہ ﷺ مصیبت یا سختی کے وقت یہ کلمات پڑھا کرتے تھے:",
+        "translation": "اللہ کے سوا کوئی معبودِ برحق نہیں، جو عظمت والا، بہت بردبار ہے۔ اللہ کے سوا کوئی معبودِ برحق نہیں، جو عرشِ عظیم کا رب ہے۔ اللہ کے سوا کوئی معبودِ برحق نہیں، جو آسمانوں کا رب، زمین کا رب اور عرشِ کریم کا رب ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -477,10 +477,10 @@
         "note": "Ayesha (RA) said, \"The Messenger of Allah (ﷺ), used to gather all his family together and say: If any of you are ever in trouble or in danger, say this.\""
       },
       "target": {
-        "name": "",
+        "name": "فکر اور غم کی حالت میں دعا #2",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ ہی میرا رب ہے، میں اس کے ساتھ کسی کو شریک نہیں کرتا۔",
+        "note": "حضرت عائشہ رضی اللہ عنہا سے روایت ہے، وہ بیان کرتی ہیں: رسول اللہ ﷺ اپنے تمام اہلِ خانہ کو جمع کرتے اور فرماتے: اگر تم میں سے کوئی مصیبت یا خطرے میں مبتلا ہو تو یہ کہے۔"
       },
       "reference_bn": {
         "name": "দুশ্চিন্তা বা বিপদগ্রস্তের দোয়া #২",
@@ -514,9 +514,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "فکر اور غم کی حالت میں دعا #3",
+        "content": "رسول اللہ ﷺ جنگ کے دوران یہ دعا پڑھا کرتے تھے:",
+        "translation": "اے اللہ! تو ہی میرا سہارا اور میرا مددگار ہے۔ تیری ہی مدد سے میں پیش قدمی کرتا ہوں، حملہ کرتا ہوں اور لڑتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -551,10 +551,10 @@
         "note": "This dua was recited by Ibrahim (As) when he was thrown into the fire. And Muhammad (ﷺ) recited this prayer when the people said to him, \"The people are united against you!\""
       },
       "target": {
-        "name": "",
+        "name": "فکر اور غم کی حالت میں دعا #4",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ ہمارے لیے کافی ہے، اور وہ بہترین کارساز ہے۔",
+        "note": "یہ دعا حضرت ابراہیم علیہ السلام نے اس وقت پڑھی جب انہیں آگ میں پھینکا گیا تھا۔ نبی کریم محمد ﷺ نے بھی اس وقت یہ دعا پڑھی جب لوگوں نے آپ ﷺ سے کہا: ’’لوگ تمہارے خلاف متحد ہو گئے ہیں!‘‘"
       },
       "reference_bn": {
         "name": "দুশ্চিন্তা বা বিপদগ্রস্তের দোয়া #৪",

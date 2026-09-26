@@ -3,7 +3,7 @@
   "chunk": "duas_035.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 15,
   "id_range": "480-494",
   "source_chars": 5646,
@@ -34,10 +34,10 @@
         "note": "By the One in Whose Hand is the soul of Muhammad, you will not enter Paradise until you believe, and you will not believe until you love one another. Shall I not tell you of something that will help you to achieve that? Spread (the greeting of) salaam amongst yourselves.` [1]\n\nThe person who can combine three things, can combines faith-\n1. Justice for oneself,\n2. Give salaam to everyone in the world, and\n3. Give charity despite having few wealth [2]\n\nOnce a man asked prophet (ﷺ) which deed is best in islam ? prophet (ﷺ) replied that, “To feed people and give salaam to the persons who are known or unknown to you. [3]"
       },
       "target": {
-        "name": "",
+        "name": "سلام پھیلانا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "تم پر سلامتی ہو، اور اللہ کی رحمت اور اس کی برکتیں۔",
+        "note": "اس ذات کی قسم جس کے ہاتھ میں محمد ﷺ کی جان ہے، تم جنت میں داخل نہیں ہو گے جب تک ایمان نہ لاؤ، اور تم کامل مومن نہیں ہو گے جب تک ایک دوسرے سے محبت نہ کرو۔ کیا میں تمہیں ایسی چیز نہ بتاؤں جس سے تمہارے درمیان محبت پیدا ہو؟ آپس میں سلام پھیلاؤ۔ [1]\n\nجو شخص تین باتیں جمع کر لے، اس نے ایمان کی خوبیوں کو جمع کر لیا:\n1. اپنی ذات کے معاملے میں بھی انصاف کرنا،\n2. ہر ایک کو سلام کہنا، اور\n3. مال کی کمی کے باوجود خرچ کرنا۔ [2]\n\nایک شخص نے رسول اللہ ﷺ سے پوچھا: اسلام میں کون سا عمل افضل ہے؟ رسول اللہ ﷺ نے فرمایا: ’’لوگوں کو کھانا کھلانا اور جاننے والوں اور ناواقف لوگوں، سب کو سلام کہنا۔‘‘ [3]"
       },
       "reference_bn": {
         "name": "সালামের প্রসার",
@@ -71,9 +71,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "کافر کے سلام کا جواب",
+        "content": "اہلِ کتاب جب تمہیں سلام کریں تو جواب میں کہو:",
+        "translation": "اور تم پر بھی۔",
         "note": null
       },
       "reference_bn": {
@@ -108,10 +108,10 @@
         "note": "Sulaiman ibn Surad (RA) said: The Messenger of Allah (ﷺ) said: Saying these words will remove the anger of the angry person.\n\nWe have seen that suppressing anger and forgiving those who are angry is one of the ways to gain Allah's mercy. Therefore, when a believer feels anger, he should say this sentence again and again, looking at the meaning."
       },
       "target": {
-        "name": "",
+        "name": "غصہ ضبط کرنے کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "میں مردود شیطان سے اللہ کی پناہ مانگتا ہوں۔",
+        "note": "حضرت سلیمان بن صرد رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: یہ کلمات کہنے سے غصے والے کا غصہ دور ہو جاتا ہے۔\n\nہم نے دیکھا ہے کہ غصہ دبانا اور جس پر غصہ آیا ہو اسے معاف کرنا اللہ کی رحمت حاصل کرنے کے طریقوں میں سے ہے۔ اس لیے جب کسی مومن کو غصہ آئے تو اسے معنی پر غور کرتے ہوئے یہ جملہ بار بار کہنا چاہیے۔"
       },
       "reference_bn": {
         "name": "ক্রোধ নিয়ন্ত্রণের দোয়া",
@@ -145,9 +145,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "جس کی آپ نے دل آزاری کی ہو، اس کے لیے دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! میں نے اہلِ ایمان میں سے جس کی بھی دل آزاری کی ہو، قیامت کے دن اسے اپنے قرب کا ذریعہ بنا دے۔",
         "note": null
       },
       "reference_bn": {
@@ -181,10 +181,10 @@
         "note": "Abu Saeed Khudri (RA) and Abu Hurairah (RA) said that the Messenger of Allah (ﷺ) said that when a servant says these words, Allah responds to him and if someone says these words while he is ill and then dies, the fire will not touch him."
       },
       "target": {
-        "name": "",
+        "name": "اللہ کی قبولیت اور مغفرت کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ کے سوا کوئی معبودِ برحق نہیں، اللہ سب سے بڑا ہے۔ اللہ کے سوا کوئی معبودِ برحق نہیں، وہ اکیلا ہے۔ اللہ کے سوا کوئی معبودِ برحق نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں۔ اللہ کے سوا کوئی معبودِ برحق نہیں، بادشاہی اسی کی ہے اور حمد بھی اسی کے لیے ہے۔ اللہ کے سوا کوئی معبودِ برحق نہیں، اور اللہ کی مدد کے بغیر نہ کوئی طاقت ہے نہ قوت۔",
+        "note": "حضرت ابو سعید خدری اور حضرت ابو ہریرہ رضی اللہ عنہما سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: جب کوئی بندہ یہ کلمات کہتا ہے تو اللہ اس کی دعا قبول فرماتا ہے، اور اگر کوئی شخص بیماری کی حالت میں یہ کلمات کہے، پھر فوت ہو جائے تو آگ اسے نہیں چھوئے گی۔"
       },
       "reference_bn": {
         "name": "আল্লাহ্‌র সাড়া লাভ ও ক্ষমা লাভের দোয়া",
@@ -218,10 +218,10 @@
         "note": "Ayesha said, \"The Messenger of Allah (ﷺ), used to recite this du'a at the beginning of the night (tahajjud) prayer.\"\n\nIt should be noted that every researcher, scholar, mufti and truth-seeking believer should recite this dua more and more at the beginning of tahajjud, in prostration and at all other times. It is very important to seek guidance from Allah Almighty through this dua without relying entirely on one's own research, knowledge or anything else."
       },
       "target": {
-        "name": "",
+        "name": "محقق، مفتی اور طالبِ حق کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! جبریل، میکائیل اور اسرافیل علیہم السلام کے رب! آسمانوں اور زمین کے پیدا کرنے والے، غیب اور حاضر کے جاننے والے! تو ہی اپنے بندوں کے درمیان ان باتوں میں فیصلہ کرے گا جن میں وہ اختلاف کرتے رہے۔ جس حق میں اختلاف کیا گیا، اپنے اذن سے میری اس کی طرف رہنمائی فرما؛ بے شک تو جسے چاہتا ہے سیدھے راستے کی طرف ہدایت دیتا ہے۔",
+        "note": "حضرت عائشہ رضی اللہ عنہا نے فرمایا: رسول اللہ ﷺ تہجد کی نماز کے آغاز میں یہ دعا پڑھا کرتے تھے۔\n\nیہ بات قابلِ ذکر ہے کہ ہر محقق، عالم، مفتی اور حق کے متلاشی مومن کو تہجد کے آغاز میں، سجدے میں اور دوسرے تمام اوقات میں یہ دعا کثرت سے پڑھنی چاہیے۔ اپنی تحقیق، علم یا کسی اور چیز پر مکمل بھروسا کرنے کے بجائے اس دعا کے ذریعے اللہ تعالیٰ سے ہدایت مانگنا بہت اہم ہے۔"
       },
       "reference_bn": {
         "name": "গবেষক, মুফতী ও সত্যানুসন্ধানীর দোয়া",
@@ -255,10 +255,10 @@
         "note": "We have seen that the believer never expects gratitude or recompense from anyone who benefits him. On the other hand, it is the duty of the beneficent believer to express gratitude to the benefactor, to praise him, to openly acknowledge his beneficence, and to pray for him. The Prophet (ﷺ) said: If someone does good to someone and he gives thanks to the benefactor by saying this, then it will be best appreciated."
       },
       "target": {
-        "name": "",
+        "name": "محسن کا شکریہ ادا کرنا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ تمہیں جزائے خیر عطا فرمائے۔",
+        "note": "ہم نے دیکھا ہے کہ مومن اپنے کسی محسن سے بدلے یا شکریے کی توقع نہیں رکھتا۔ دوسری طرف جس مومن پر احسان کیا گیا ہو، اس کا فرض ہے کہ وہ اپنے محسن کا شکریہ ادا کرے، اس کی تعریف کرے، اس کے احسان کا کھلے طور پر اعتراف کرے اور اس کے لیے دعا کرے۔ رسول اللہ ﷺ نے فرمایا: جو شخص کسی کے ساتھ بھلائی کرے اور وہ اس محسن کا شکریہ ادا کرتے ہوئے یہ کلمات کہے تو اس نے بہترین قدردانی کی۔"
       },
       "reference_bn": {
         "name": "উপকারীর কৃতজ্ঞতা প্রকাশক দোয়া",
@@ -292,10 +292,10 @@
         "note": "Adbullaah Ibn Sarjis (RA) said: \"I went to see The Prophet (ﷺ) and ate from his food and then said to him [1]: (The Dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "مغفرت کی دعا کا جواب",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ آپ کو بخشے!",
+        "note": "حضرت عبداللہ بن سرجس رضی اللہ عنہ نے فرمایا: ’’میں رسول اللہ ﷺ کی خدمت میں حاضر ہوا، آپ ﷺ کے کھانے میں سے کھایا، پھر آپ ﷺ سے عرض کیا: [1] (دعا اوپر مذکور ہے)‘‘"
       },
       "reference_bn": {
         "name": "কেউ যদি বলে, ‘আল্লাহ্‌ আপনাকে ক্ষমা করুন’, তার জন্য দোয়া",
@@ -307,13 +307,13 @@
           "group": 0,
           "key": "content",
           "source": "...He replied:",
-          "target": ""
+          "target": "آپ ﷺ نے جواب دیا:"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "And you. [2]",
-          "target": ""
+          "target": "اور تمہیں بھی۔ [2]"
         }
       ]
     },
@@ -343,9 +343,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "جو اللہ کے لیے آپ سے محبت کا اظہار کرے، اس کے لیے",
         "content": null,
-        "translation": "",
+        "translation": "جس ذات کی خاطر تم مجھ سے محبت کرتے ہو، وہ تم سے محبت کرے۔",
         "note": null
       },
       "reference_bn": {
@@ -379,10 +379,10 @@
         "note": "Aaishah (RA) reported that the Messenger of Allah (ﷺ) was given a sheep and he ordered for it's distribution. When the servant would come back [from distributing it] , 'Aaishah (RA) would ask: \"What did they say?\", he replied: \"They would supplicate: (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "’اللہ تمہیں برکت دے‘ کہنے والے کے لیے دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ تم سب کو برکت دے۔",
+        "note": "حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ ﷺ کے پاس ایک بھیڑ لائی گئی اور آپ ﷺ نے اسے تقسیم کرنے کا حکم دیا۔ جب خادم اسے تقسیم کر کے واپس آیا تو حضرت عائشہ رضی اللہ عنہا نے پوچھا: ’’انہوں نے کیا کہا؟‘‘ اس نے جواب دیا: ’’انہوں نے دعا کی: (دعا اوپر مذکور ہے)‘‘"
       },
       "reference_bn": {
         "name": "কেউ যদি বলে, ‘আল্লাহ্‌ আপনার উপর বরকত দিন’, তার জন্য দোয়া",
@@ -394,37 +394,37 @@
           "group": 0,
           "key": "content",
           "source": "..'Aaishah (RA) would then say:",
-          "target": ""
+          "target": "پھر حضرت عائشہ رضی اللہ عنہا نے کہا:"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "And may Allah bless them.",
-          "target": ""
+          "target": "اور اللہ انہیں برکت دے۔"
         },
         {
           "group": 0,
           "key": "note",
           "source": "[For a male]\n\n'Wa feeka barakAllah'\n\n[For a female]\n\n'Wa feeki barakAllah'\r\n\n[For a group of people]\n\n'Wa feekum barakAllah'",
-          "target": ""
+          "target": "[مرد کے لیے]\n\n’’وَفِيكَ بَارَكَ اللّٰهُ‘‘\n\n[عورت کے لیے]\n\n’’وَفِيكِ بَارَكَ اللّٰهُ‘‘\n\n[لوگوں کے ایک گروہ کے لیے]\n\n’’وَفِيكُمْ بَارَكَ اللّٰهُ‘‘"
         },
         {
           "group": 1,
           "key": "content",
           "source": "So we return their supplication in a similar way and our reward remains with us:",
-          "target": ""
+          "target": "چنانچہ ہم بھی ان کی دعا کا اسی طرح جواب دیتے ہیں اور ہمارا اجر ہمارے پاس باقی رہتا ہے:"
         },
         {
           "group": 1,
           "key": "translation",
           "source": "And May Allah bless you",
-          "target": ""
+          "target": "اور اللہ تمہیں برکت دے۔"
         },
         {
           "group": 1,
           "key": "note",
           "source": "[For a male]\n\n'Wa feeka barakAllah'\n\n[For a female]\n\n'Wa feeki barakAllah'\n\n[For a group of people]\n\n'Wa feekum barakAllah'",
-          "target": ""
+          "target": "[مرد کے لیے]\n\n’’وَفِيكَ بَارَكَ اللّٰهُ‘‘\n\n[عورت کے لیے]\n\n’’وَفِيكِ بَارَكَ اللّٰهُ‘‘\n\n[لوگوں کے ایک گروہ کے لیے]\n\n’’وَفِيكُمْ بَارَكَ اللّٰهُ‘‘"
         }
       ]
     },
@@ -454,9 +454,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "جس نے آپ کو اپنے مال میں سے کچھ دیا ہو",
         "content": null,
-        "translation": "",
+        "translation": "اللہ تمہارے اہل و عیال اور مال میں برکت دے۔",
         "note": null
       },
       "reference_bn": {
@@ -490,10 +490,10 @@
         "note": "Ibn 'Abbas (RA) said, \"The Messenger of Allah (ﷺ), recited the verses of prostration and recited this du'a.\" (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "قرآن کی تلاوت کے دوران سجدے کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! اسے میرے لیے اپنے ہاں اجر کے طور پر لکھ دے، اس کے ذریعے مجھ سے گناہ کا بوجھ اتار دے، اسے میرے لیے اپنے ہاں ذخیرہ بنا دے، اور اسے میری طرف سے قبول فرما جیسے تو نے اپنے بندے داؤد علیہ السلام کی طرف سے قبول فرمایا۔",
+        "note": "حضرت ابن عباس رضی اللہ عنہما نے فرمایا: رسول اللہ ﷺ نے سجدے والی آیات کی تلاوت کی اور یہ دعا پڑھی۔ (دعا اوپر مذکور ہے)"
       },
       "reference_bn": {
         "name": "তিলাওয়াতের সিজদার দোয়া",
@@ -527,8 +527,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "مجلس کے بارے میں #1",
+        "content": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: جو شخص ایسی مجلس میں بیٹھے جہاں وہ اللہ کو یاد نہ کرے، وہ مجلس اس کے لیے اللہ کی طرف سے باعثِ حسرت ہوگی؛ اور جو شخص ایسی جگہ لیٹے جہاں وہ اللہ کو یاد نہ کرے، وہ جگہ بھی اس کے لیے اللہ کی طرف سے باعثِ حسرت ہوگی۔",
         "translation": null,
         "note": null
       },
@@ -563,8 +563,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "مجلس کے بارے میں #2",
+        "content": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: جو لوگ ایسی مجلس سے اٹھیں جس میں انہوں نے اللہ کو یاد نہ کیا ہو، وہ ایسے ہیں گویا گدھے کی لاش کے پاس سے اٹھے ہوں، اور وہ مجلس ان کے لیے باعثِ حسرت ہوگی۔",
         "translation": null,
         "note": null
       },
@@ -599,9 +599,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "کسی بھی مجلس یا اجتماع میں پڑھی جانے والی دعا",
+        "content": "حضرت عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے: ہم شمار کیا کرتے تھے کہ رسول اللہ ﷺ مجلس کے بعد سو مرتبہ یہ دعا پڑھا کرتے تھے:",
+        "translation": "اے میرے رب! مجھے بخش دے، میری توبہ قبول فرما، بے شک تو بہت توبہ قبول کرنے والا، نہایت رحم فرمانے والا ہے۔",
         "note": null
       },
       "reference_bn": {

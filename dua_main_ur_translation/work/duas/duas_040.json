@@ -3,7 +3,7 @@
   "chunk": "duas_040.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 12,
   "id_range": "549-560",
   "source_chars": 5746,
@@ -34,10 +34,10 @@
         "note": "Allah will surely give him something better than that. After the death of Abu Salamah, I recite this du'a according to the instructions of the Messenger of Allah (ﷺ), then Allah has given me better than him, that is, to the Messenger of Allah (ﷺ)."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "مصیبت کے وقت",
+        "content": "حضرت ام سلمہ رضی اللہ عنہا سے روایت ہے، انہوں نے فرمایا: میں نے رسول اللہ ﷺ کو فرماتے ہوئے سنا: جب اللہ کا کوئی بندہ مصیبت میں مبتلا ہو تو یہ کہے:",
+        "translation": "ہم اللہ ہی کے ہیں اور اسی کی طرف لوٹ کر جانے والے ہیں۔ اے اللہ! میری اس مصیبت پر مجھے اجر عطا فرما، اور اس کے عوض مجھے اس سے بہتر عطا فرما۔",
+        "note": "اللہ تعالیٰ اسے اس مصیبت کے بدلے ضرور اس سے بہتر عطا فرماتا ہے۔ حضرت ام سلمہ رضی اللہ عنہا فرماتی ہیں: ابو سلمہ رضی اللہ عنہ کی وفات کے بعد میں نے رسول اللہ ﷺ کی ہدایت کے مطابق یہ دعا پڑھی، تو اللہ تعالیٰ نے مجھے ان سے بہتر شوہر، یعنی رسول اللہ ﷺ، عطا فرمایا۔"
       },
       "reference_bn": {
         "name": "বিপদ-মুসিবতের মুখোমুখি হলে",
@@ -72,10 +72,10 @@
         "note": "Umm Salama (RA) reported Allah's Messenger (ﷺ) as saying: Whenever you visit the sick or the dead, supplicate for good because angels say\" Amen\" to whatever you say. She added: When Abu Salama died, I went to the Messenger of Allah (ﷺ) and said: Messenger of Allah, Abu Salama has died. He told me to recite:(The dua is mentioned above)\n\nSo I said (this), and Allah gave me in exchange Muhammad (ﷺ), who is better for me than him (Abu Salama)."
       },
       "target": {
-        "name": "",
+        "name": "مریض یا میت کے پاس پڑھی جانے والی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! مجھے اور انہیں بخش دے، اور ان کے بعد مجھے بہتر بدلہ عطا فرما۔",
+        "note": "حضرت ام سلمہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ’’جب تم کسی مریض یا میت کے پاس جاؤ تو بھلائی کی دعا کرو، کیونکہ تم جو کچھ کہتے ہو فرشتے اس پر آمین کہتے ہیں۔‘‘ وہ فرماتی ہیں: جب ابو سلمہ رضی اللہ عنہ کا انتقال ہوا تو میں رسول اللہ ﷺ کے پاس حاضر ہوئی اور عرض کیا: اللہ کے رسول! ابو سلمہ کا انتقال ہوگیا ہے۔ آپ ﷺ نے مجھے مذکورہ بالا دعا پڑھنے کی ہدایت فرمائی۔\n\nمیں نے یہ دعا پڑھی تو اللہ تعالیٰ نے مجھے ان سے بہتر بدل، یعنی محمد ﷺ، عطا فرمایا۔"
       },
       "reference_bn": {
         "name": "অসুস্থ ও মৃতব্যক্তির পাশে",
@@ -109,10 +109,10 @@
         "note": "The Messenger of Allah (ﷺ) came to Abu Salama (as he died). His eyes were fixedly open. He closed them, and then said: (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "مرد میت کی آنکھیں بند کرتے وقت دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! انہیں بخش دے، ہدایت یافتہ لوگوں میں ان کا درجہ بلند فرما، اور ان کے بعد رہ جانے والے اہلِ خانہ کی نگہبانی فرما۔ اے تمام جہانوں کے رب! ہمیں اور انہیں بخش دے، ان کی قبر کشادہ فرما اور اس میں ان کے لیے روشنی کر دے۔",
+        "note": "رسول اللہ ﷺ ابو سلمہ رضی اللہ عنہ کے انتقال کے وقت ان کے پاس تشریف لائے۔ ان کی آنکھیں کھلی رہ گئی تھیں؛ آپ ﷺ نے انہیں بند کیا اور فرمایا: ’’جب روح قبض کی جاتی ہے تو نگاہ اس کے پیچھے جاتی ہے۔‘‘ پھر آپ ﷺ نے مذکورہ بالا دعا پڑھی۔"
       },
       "reference_bn": {
         "name": "পুরুষ মৃতব্যক্তির চোখ বন্ধ করার সময় দোয়া",
@@ -146,9 +146,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "خاتون میت کی آنکھیں بند کرتے وقت دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! انہیں بخش دے، ہدایت یافتہ لوگوں میں ان کا درجہ بلند فرما، اور ان کے بعد رہ جانے والے اہلِ خانہ کی نگہبانی فرما۔ اے تمام جہانوں کے رب! ہمیں اور انہیں بخش دے، ان کی قبر کشادہ فرما اور اس میں ان کے لیے روشنی کر دے۔",
         "note": null
       },
       "reference_bn": {
@@ -182,10 +182,10 @@
         "note": "The Prophet (ﷺ) used to seek Refuge with Allah for Al-Hasan and Al-Husain and say: \"Your forefather (i.e. Abraham) used to seek Refuge with Allah for Ishmael and Isaac by reciting the following: (the dua is mentioned above)\n\nAll believing fathers and mothers should recite these verses in the morning and in the evening, blow their children and make dua. Besides, everyone should recite the dua in the morning and evening for their own protection."
       },
       "target": {
-        "name": "",
+        "name": "نظرِ بد اور بیماری سے حفاظت کی دعا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "میں تم دونوں کو اللہ کے کامل کلمات کی پناہ میں دیتا ہوں، ہر شیطان، ہر موذی جانور اور ہر نظرِ بد سے۔",
+        "note": "رسول اللہ ﷺ حضرت حسن اور حضرت حسین رضی اللہ عنہما کو ان کلمات کے ذریعے اللہ کی پناہ میں دیا کرتے تھے اور فرماتے تھے: ’’تمہارے جد حضرت ابراہیم علیہ السلام بھی انہی کلمات کے ذریعے اپنے دونوں بیٹوں، حضرت اسماعیل اور حضرت اسحاق علیہما السلام، کو اللہ کی پناہ میں دیا کرتے تھے۔‘‘\n\nہر مسلمان ماں باپ کو چاہیے کہ صبح و شام یہ کلمات پڑھ کر اپنے بچوں پر دم کریں اور ان کے لیے دعا کریں۔ نیز ہر شخص اپنی حفاظت کے لیے بھی صبح و شام یہ دعا پڑھے۔"
       },
       "reference_bn": {
         "name": "বদনজর ও রোগব্যাধি থেকে হিফাযতের দোয়া",
@@ -219,9 +219,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "نظرِ بد سے حفاظت",
+        "content": "سورۂ فلق",
+        "translation": "(1) کہہ دیجیے: میں صبح کے رب کی پناہ مانگتا ہوں، (2) ہر اس چیز کے شر سے جو اس نے پیدا کی، (3) اور اندھیری رات کے شر سے جب وہ چھا جائے، (4) اور گرہوں میں پھونکنے والیوں کے شر سے، (5) اور حسد کرنے والے کے شر سے جب وہ حسد کرے۔ (Surah Al-Falaq: 1-5)",
         "note": null
       },
       "reference_bn": {
@@ -234,19 +234,19 @@
           "group": 0,
           "key": "content",
           "source": "Surah Nas",
-          "target": ""
+          "target": "سورۂ ناس"
         },
         {
           "group": 0,
           "key": "translation",
           "source": "(1) Say, \"I seek refuge in the Lord of mankind, (2) The Sovereign of mankind. (3) The God of mankind, (4) From the evil of the retreating whisperer - (5) Who whispers [evil] into the breasts of mankind - (6) From among the jinn and mankind.\" (Sura Nas: 1-6)",
-          "target": ""
+          "target": "(1) کہہ دیجیے: میں لوگوں کے رب، (2) لوگوں کے بادشاہ، (3) لوگوں کے معبود کی پناہ مانگتا ہوں، (4) اس وسوسہ ڈالنے والے کے شر سے جو پیچھے ہٹ جاتا ہے، (5) جو لوگوں کے سینوں میں وسوسہ ڈالتا ہے، (6) خواہ وہ جنوں میں سے ہو یا انسانوں میں سے۔ (Surah An-Nas: 1-6)"
         },
         {
           "group": 0,
           "key": "note",
           "source": "Abu Sayed Khudri (RA) said: “The Messenger of Allah (ﷺ) used to recite various dua's for protection from the eyes of humans and jinn. When Surah Falaq and Surah Nas were revealed, he omitted all other supplications. ” [2]",
-          "target": ""
+          "target": "حضرت ابو سعید خدری رضی اللہ عنہ فرماتے ہیں: رسول اللہ ﷺ انسانوں اور جنوں کی نظرِ بد سے حفاظت کے لیے مختلف دعائیں پڑھا کرتے تھے۔ جب سورۂ فلق اور سورۂ ناس نازل ہوئیں تو آپ ﷺ نے دوسری دعائیں چھوڑ دیں۔ [2]"
         }
       ]
     },
@@ -276,10 +276,10 @@
         "note": "Abu Sayed Khudri (RA) said, Gabriel (As) came to the Messenger of Allah (ﷺ) (he was feverish at that time). Gabriel (As) said, Muhammad, are you sick? He said: Yes. Then he said the above words."
       },
       "target": {
-        "name": "",
+        "name": "بیماری اور نظرِ بد کی مسنون دعا اور رقیہ",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ کے نام سے میں آپ پر رقیہ کرتا ہوں، ہر اس چیز سے جو آپ کو تکلیف دیتی ہے، ہر جان اور حسد کرنے والی نظر کے شر سے۔ اللہ آپ کو شفا عطا فرمائے۔ اللہ کے نام سے میں آپ پر رقیہ کرتا ہوں۔",
+        "note": "حضرت ابو سعید خدری رضی اللہ عنہ فرماتے ہیں: جبریل علیہ السلام رسول اللہ ﷺ کے پاس آئے؛ اس وقت آپ ﷺ بخار میں مبتلا تھے۔ جبریل علیہ السلام نے پوچھا: اے محمد! کیا آپ بیمار ہیں؟ آپ ﷺ نے فرمایا: ہاں۔ تب انہوں نے مذکورہ بالا کلمات پڑھے۔"
       },
       "reference_bn": {
         "name": "অসুস্থতা ও বদনজরের মাসনূন দোয়া",
@@ -313,9 +313,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "نظرِ بد لگنے کا اندیشہ ہو تو دعا",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! نظرِ بد کی گرمی، سردی اور مسلسل درد دور فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -349,9 +349,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "پسندیدہ چیز دیکھنے پر نظرِ بد سے بچانے کی دعا",
+        "content": "نبی ﷺ نے فرمایا: ’’جب تم میں سے کوئی اپنے بھائی، خود اپنے اندر یا اپنے مال میں کوئی پسندیدہ چیز دیکھے تو اس کے لیے برکت کی دعا کرے۔‘‘",
+        "translation": "اللہ تمہیں برکت عطا فرمائے۔",
         "note": null
       },
       "reference_bn": {
@@ -386,9 +386,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "سرکش شیطانوں کی چالوں سے حفاظت کی دعا",
+        "content": "شیطان کا مقابلہ کرنے کے لیے جبریل علیہ السلام نے نبی ﷺ سے فرمایا:",
+        "translation": "میں اللہ کے ان کامل کلمات کی پناہ لیتا ہوں جن سے کوئی نیک یا بد شخص تجاوز نہیں کر سکتا، ہر اس چیز کے شر سے جسے اس نے پیدا کیا، وجود بخشا اور پھیلایا؛ آسمان سے اترنے والی چیزوں کے شر سے اور آسمان کی طرف چڑھنے والی چیزوں کے شر سے؛ زمین میں پھیلی ہوئی چیزوں کے شر سے اور زمین سے نکلنے والی چیزوں کے شر سے؛ رات اور دن کے فتنوں کے شر سے اور رات کے وقت آنے والی ہر چیز کے شر سے، سوائے اس کے جو بھلائی لے کر آئے، اے رحمان!",
         "note": null
       },
       "reference_bn": {
@@ -423,9 +423,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "جن، سحر اور بیماریوں کے علاج کے لیے پڑھی جانے والی آیات #1",
+        "content": "وضو کرنے کے بعد ان آیات اور سورتوں کو ترتیل کے ساتھ پڑھیں۔ علما کہتے ہیں کہ انہیں کئی ماہ تک بار بار پڑھنے یا کیسٹ کے ذریعے سننے سے اچھے نتائج سامنے آتے ہیں۔",
+        "translation": "(1) اللہ کے نام سے جو نہایت مہربان، بہت رحم فرمانے والا ہے۔ (2) تمام تعریفیں اللہ ہی کے لیے ہیں، جو تمام جہانوں کا رب ہے۔ (3) نہایت مہربان، بہت رحم فرمانے والا۔ (4) روزِ جزا کا مالک۔ (5) ہم تیری ہی عبادت کرتے ہیں اور تجھی سے مدد مانگتے ہیں۔ (6) ہمیں سیدھا راستہ دکھا۔ (7) ان لوگوں کا راستہ جن پر تو نے انعام فرمایا؛ نہ ان کا جن پر غضب کیا گیا، اور نہ گمراہوں کا۔",
         "note": null
       },
       "reference_bn": {
@@ -460,9 +460,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "جن، سحر اور بیماریوں کے علاج کے لیے پڑھی جانے والی آیات #2",
         "content": null,
-        "translation": "",
+        "translation": "(1) الف، لام، میم۔ (2) یہ وہ کتاب ہے جس میں کوئی شک نہیں؛ اللہ کا تقویٰ رکھنے والوں کے لیے ہدایت ہے۔ (3) جو غیب پر ایمان لاتے ہیں، نماز قائم کرتے ہیں اور جو کچھ ہم نے انہیں عطا کیا ہے اس میں سے خرچ کرتے ہیں۔ (4) اور جو اس پر ایمان لاتے ہیں جو آپ کی طرف نازل کیا گیا اور جو آپ سے پہلے نازل کیا گیا، اور آخرت پر یقین رکھتے ہیں۔ (5) یہی لوگ اپنے رب کی طرف سے ہدایت پر ہیں اور یہی کامیاب ہیں۔",
         "note": null
       },
       "reference_bn": {

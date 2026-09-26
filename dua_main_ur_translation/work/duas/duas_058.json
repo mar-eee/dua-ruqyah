@@ -3,7 +3,7 @@
   "chunk": "duas_058.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 25,
   "id_range": "833-857",
   "source_chars": 5856,
@@ -34,10 +34,10 @@
         "note": "This hadith tell us to increase sending prayers upon the Prophet. Only authentically proved prayers from the Quran and Sunnah should be recited in this regard."
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "درود پڑھنے کی فضیلت",
+        "content": "اُبی بن کعب رضی اللہ عنہ فرماتے ہیں: میں نے عرض کیا: یا رسول اللہ ﷺ! میں آپ پر کثرت سے درود پڑھتا ہوں، اپنی دعا کا کتنا حصہ آپ پر درود کے لیے مخصوص کروں؟ آپ ﷺ نے فرمایا: جتنا چاہو۔ میں نے عرض کیا: ایک چوتھائی؟ آپ ﷺ نے فرمایا: جتنا چاہو، لیکن اس سے زیادہ کرو تو تمہارے لیے بہتر ہے۔ میں نے عرض کیا: پھر آدھا؟ آپ ﷺ نے فرمایا: جتنا چاہو، اور اس سے زیادہ کرو تو تمہارے لیے بہتر ہے۔ میں نے عرض کیا: پھر دو تہائی؟ آپ ﷺ نے فرمایا: جتنا چاہو، لیکن اس سے زیادہ کرو تو تمہارے لیے بہتر ہے۔ میں نے عرض کیا: کیا میں اپنی پوری دعا ہی آپ پر درود کے لیے مخصوص کر دوں؟ آپ ﷺ نے فرمایا: تب تمہاری پریشانیاں دور کر دی جائیں گی اور تمہارے گناہ بخش دیے جائیں گے۔",
         "translation": null,
-        "note": ""
+        "note": "یہ حدیث نبی ﷺ پر کثرت سے درود بھیجنے کی ترغیب دیتی ہے۔ اس مقصد کے لیے وہی درود پڑھنا چاہیے جو قرآن و سنت سے صحیح طور پر ثابت ہو۔"
       },
       "reference_bn": {
         "name": "দুরুদ পাঠের ফযীলত",
@@ -71,9 +71,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "جنت کا سوال اور جہنم سے پناہ",
+        "content": "نبی ﷺ یہ دعا فرمایا کرتے تھے:",
+        "translation": "اے اللہ! میں تجھ سے جنت مانگتا ہوں اور جہنم سے تیری پناہ مانگتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -108,10 +108,10 @@
         "note": "Anas ibn Malik (RA) said, \"My mother took me to the Messenger of Allah (ﷺ), and said, 'O Messenger of Allah!' Pray to Allah for this little servant of yours, Anas. Then the Prophet (ﷺ) said: (The dua is mentioned above)"
       },
       "target": {
-        "name": "",
+        "name": "جب کوئی دعا کی درخواست کرے",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! اس کے مال اور اولاد میں اضافہ فرما اور جو کچھ تو نے اسے عطا کیا ہے اس میں برکت دے۔",
+        "note": "انس بن مالک رضی اللہ عنہ فرماتے ہیں: میری والدہ مجھے رسول اللہ ﷺ کی خدمت میں لے گئیں اور عرض کیا: یا رسول اللہ ﷺ! آپ کے اس ننھے خادم انس کے لیے اللہ سے دعا فرمائیے۔ اس پر نبی ﷺ نے یہ دعا فرمائی: (دعا اوپر درج ہے)"
       },
       "reference_bn": {
         "name": "কেউ দোয়া চাইলে কি বলতে হবে?",
@@ -145,9 +145,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "حیرت کے وقت",
+        "content": "کوئی حیرت انگیز بات سن کر صحابہ کرام نے کہا:",
+        "translation": "اللہ پاک ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -182,8 +182,8 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
+        "name": "خوش خبری ملنے پر",
+        "content": "نبی ﷺ کو کوئی خوش خبری ملتی تو آپ اللہ کا شکر ادا کرنے کے لیے سجدے میں گر جاتے تھے۔",
         "translation": null,
         "note": null
       },
@@ -218,9 +218,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "پریشانی کے وقت کی دعا",
+        "content": "نبی ﷺ کو کوئی پریشانی پیش آتی تو یہ دعا فرماتے تھے:",
+        "translation": "اے ہمیشہ زندہ رہنے والے! اے خود قائم اور سب کو قائم رکھنے والے! میں تیری رحمت کے وسیلے سے مدد چاہتا ہوں۔",
         "note": null
       },
       "reference_bn": {
@@ -255,10 +255,10 @@
         "note": "The Prophet (peace and blessings of Allaah be upon him) said to Abu Umama Bahili (may Allaah be pleased with him), “Shall I not teach you a du'aa/dhikr that is better than all day and night (naafil) dhikr?\r\n\r\nLearn this du'aa/dhikr yourself, and teach it to those who will come after you.\""
       },
       "target": {
-        "name": "",
+        "name": "نہایت خوب صورت دعا اور ذکر",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ کے لیے حمد ہے اس کی مخلوق کی تعداد کے برابر، اللہ کے لیے حمد ہے اس کی مخلوق کے بھراؤ کے برابر، اللہ کے لیے حمد ہے زمین اور آسمان میں موجود چیزوں کی تعداد کے برابر، اللہ کے لیے حمد ہے زمین اور آسمان میں موجود چیزوں کے بھراؤ کے برابر، اللہ کے لیے حمد ہے اتنی تعداد کے برابر جتنی اس کی کتاب نے شمار کر رکھی ہے، اللہ کے لیے حمد ہے ہر چیز کی تعداد کے برابر، اور اللہ کے لیے حمد ہے ہر چیز کے بھراؤ کے برابر۔\n\nاللہ پاک ہے اس کی مخلوق کی تعداد کے برابر، اللہ پاک ہے اس کی مخلوق کے بھراؤ کے برابر، اللہ پاک ہے زمین اور آسمان میں موجود چیزوں کی تعداد کے برابر، اللہ پاک ہے زمین اور آسمان میں موجود چیزوں کے بھراؤ کے برابر، اللہ پاک ہے اتنی تعداد کے برابر جتنی اس کی کتاب نے شمار کر رکھی ہے، اللہ پاک ہے ہر چیز کی تعداد کے برابر، اور اللہ پاک ہے ہر چیز کے بھراؤ کے برابر۔",
+        "note": "رسول اللہ ﷺ نے ابو امامہ باہلی رضی اللہ عنہ سے فرمایا: ”کیا میں تمہیں ایسی دعا اور ذکر نہ سکھاؤں جو پورے دن رات کے نفلی ذکر سے بھی بہتر ہو؟“\n\nاس دعا اور ذکر کو خود سیکھو اور اپنے بعد آنے والوں کو بھی سکھاؤ۔"
       },
       "reference_bn": {
         "name": "একটি অতীব সুন্দর দু'আ বা যিকির",
@@ -292,10 +292,10 @@
         "note": "Narrated 'Umar ibn Abi Salamah (RA): I was a boy under the care of the Messenger of Allah (ﷺ). While eating, I would put my hands in different places of the pot. Then the Messenger of Allah (ﷺ) said to me, “This boy! Say Bismillah, eat, and the next part of your right to eat! \"After the meal, I'm going to follow the instructions."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "کسی اچھے کام کے آغاز میں",
+        "content": "کھانے، پینے، لکھنے، پڑھنے یا کوئی اچھا کام شروع کرتے وقت بسم اللہ کہیے:",
+        "translation": "اللہ کے نام سے۔",
+        "note": "عمر بن ابی سلمہ رضی اللہ عنہ سے روایت ہے، وہ فرماتے ہیں: میں رسول اللہ ﷺ کی کفالت میں ایک بچہ تھا۔ کھاتے وقت میرا ہاتھ برتن میں مختلف جگہوں پر گھومتا تھا۔ رسول اللہ ﷺ نے مجھ سے فرمایا: ”بیٹے! بسم اللہ کہو، دائیں ہاتھ سے کھاؤ اور اپنے سامنے سے کھاؤ۔“ اس کے بعد میں ہمیشہ اسی طریقے سے کھاتا رہا۔"
       },
       "reference_bn": {
         "name": "কোন কিছু আরম্ভ করার পূর্বে",
@@ -330,10 +330,10 @@
         "note": "And never say of anything, \"Indeed, I will do that tomorrow,\" Except [when adding], \"If Allah wills.\" And remember your Lord when you forget [it] and say, \"Perhaps my Lord will guide me to what is nearer than this to right conduct.\""
       },
       "target": {
-        "name": "",
+        "name": "آئندہ کوئی کام کرنے کا ارادہ ہو",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اگر اللہ نے چاہا۔",
+        "note": "اور کسی چیز کے بارے میں ہرگز نہ کہنا کہ میں یہ کام کل ضرور کروں گا، مگر یہ کہ اللہ چاہے۔ جب بھول جاؤ تو اپنے رب کو یاد کرو اور کہو: امید ہے میرا رب مجھے اس سے زیادہ قریب راہِ راست کی ہدایت دے گا۔"
       },
       "reference_bn": {
         "name": "ভবিষ্যতে কোন কিছু করার উদ্দেশ্যে",
@@ -367,9 +367,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "اللہ کی بڑائی کی کوئی نشانی دیکھ کر",
         "content": null,
-        "translation": "",
+        "translation": "اللہ سب سے بڑا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -403,9 +403,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "کوئی حیرت انگیز اچھی چیز دیکھ کر",
         "content": null,
-        "translation": "",
+        "translation": "اللہ پاک ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -439,10 +439,10 @@
         "note": "It was narrated from Anas that : the Messenger of Allah (ﷺ) said: 'Allah does not bestow a blessing upon any slave and he says: 'Al-hamdu Lillah (praise is to Allah),' except that what he gives (the praise) is better than what he received (the blessing).\""
       },
       "target": {
-        "name": "",
+        "name": "کچھ اچھا کھانے یا خوش خبری سننے پر",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "تمام تعریفیں اللہ کے لیے ہیں۔",
+        "note": "انس رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: اللہ جب کسی بندے کو کوئی نعمت عطا فرمائے اور وہ اس پر ”الحمد للہ“ کہے تو اس کی پیش کردہ حمد اسے ملنے والی نعمت سے بہتر ہوتی ہے۔"
       },
       "reference_bn": {
         "name": "ভালো কিছু খাওয়া / শুভ সংবাদ শোনা",
@@ -476,9 +476,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "خطرے، بری خبر، گم شدگی یا چوری کے وقت",
+        "content": "کسی خطرے یا بری خبر کا علم ہو، کوئی چیز گم یا چوری ہو جائے، یا کوئی تکلیف پہنچے تو کہیے:",
+        "translation": "بے شک ہم اللہ ہی کے ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -513,9 +513,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "کوئی اچھی چیز دیکھ کر اظہارِ پسندیدگی",
         "content": null,
-        "translation": "",
+        "translation": "جو اللہ نے چاہا، وہی ہوا۔",
         "note": null
       },
       "reference_bn": {
@@ -549,10 +549,10 @@
         "note": "We have seen that the believer never expects gratitude or recompense from anyone who benefits him. On the other hand, it is the duty of the beneficent believer to express gratitude to the benefactor, to praise him, to openly acknowledge his beneficence, and to pray for him. The Prophet (ﷺ) said: If someone does good to someone and he gives thanks to the benefactor by saying this, then it will be best appreciated. [2]"
       },
       "target": {
-        "name": "",
+        "name": "محسن کا شکریہ ادا کرنا",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اللہ آپ کو بہترین جزا عطا فرمائے۔ [1]",
+        "note": "مومن جب کسی کے ساتھ بھلائی کرتا ہے تو اس سے شکریے یا بدلے کی توقع نہیں رکھتا۔ دوسری طرف جس شخص کو فائدہ پہنچے، اس کی ذمہ داری ہے کہ محسن کا شکریہ ادا کرے، اس کی تعریف کرے، اس کے احسان کا کھلے دل سے اعتراف کرے اور اس کے لیے دعا کرے۔ نبی ﷺ نے فرمایا: جب کسی کے ساتھ بھلائی کی جائے اور وہ اپنے محسن سے یہ الفاظ کہے تو اس نے کامل انداز میں اس کی تعریف کر دی۔ [2]"
       },
       "reference_bn": {
         "name": "উপকারীর কৃতজ্ঞতা প্রকাশে",
@@ -586,10 +586,10 @@
         "note": "After sneezing \"Alhamdu lillahi 'ala qulli ha-l\". have to be said or at least say \"Al-Hamdulillah\"."
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "چھینک آنے پر دعا",
+        "content": "نبی ﷺ نے فرمایا: تم میں سے کسی کو چھینک آئے تو وہ کہے:",
+        "translation": "تمام تعریفیں اللہ کے لیے ہیں۔ [1]",
+        "note": "چھینک آنے پر ”الحمد للہ علیٰ کل حال“ کہنا چاہیے، یا کم از کم ”الحمد للہ“ کہا جائے۔"
       },
       "reference_bn": {
         "name": "হাঁচির ক্ষেত্রে যা বলতে হবে",
@@ -624,9 +624,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "چھینکنے والا الحمد للہ کہے تو جواب",
         "content": null,
-        "translation": "",
+        "translation": "اللہ آپ پر رحم فرمائے۔",
         "note": null
       },
       "reference_bn": {
@@ -660,10 +660,10 @@
         "note": "So know, [O Muhammad], that there is no deity except Allah and ask forgiveness for your sin and for the believing men and believing women. And Allah knows of your movement and your resting place."
       },
       "target": {
-        "name": "",
+        "name": "گناہ کا ذکر ہونے پر",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "میں اللہ سے مغفرت مانگتا ہوں۔",
+        "note": "پس جان لیجیے کہ اللہ کے سوا کوئی معبودِ برحق نہیں، اور اپنے گناہ نیز مومن مردوں اور مومن عورتوں کے لیے مغفرت مانگیے۔ اللہ تمہاری آمد و رفت اور تمہارے ٹھکانے کو جانتا ہے۔"
       },
       "reference_bn": {
         "name": "পাপের অনুশোচনায় বা গুনাহর কথা বললে",
@@ -697,9 +697,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "”آپ کیسے ہیں؟“ کے جواب میں",
         "content": null,
-        "translation": "",
+        "translation": "تمام تعریفیں اللہ کے لیے ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -733,9 +733,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "ناگوار واقعے یا بری بات کے وقت",
+        "content": "کوئی بری بات سنیں، یا اللہ کے عذاب اور غضب کا ذکر سنیں یا یاد آئے تو کہیں:",
+        "translation": "ہم اللہ کی پناہ مانگتے ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -770,9 +770,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "موت یا کسی ناگوار واقعے کی خبر سن کر",
         "content": null,
-        "translation": "",
+        "translation": "بے شک ہم اللہ ہی کے ہیں اور اسی کی طرف لوٹنے والے ہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -806,9 +806,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "دعا کے آخر میں",
         "content": null,
-        "translation": "",
+        "translation": "اے اللہ! ہماری دعا قبول فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -842,9 +842,9 @@
         "note": null
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
+        "name": "اوپر چڑھتے وقت",
+        "content": "جابر بن عبداللہ رضی اللہ عنہ فرماتے ہیں: جب ہم بلندی کی طرف چڑھتے تو کہتے:",
+        "translation": "اللہ سب سے بڑا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -879,10 +879,10 @@
         "note": "Can be read while going up and down the stairs/elevator"
       },
       "target": {
-        "name": "",
-        "content": "",
-        "translation": "",
-        "note": ""
+        "name": "نیچے اترتے وقت",
+        "content": "اور جب ہم نیچے اترتے تو کہتے:",
+        "translation": "اللہ پاک ہے۔",
+        "note": "سیڑھیوں یا لفٹ کے ذریعے اوپر چڑھتے اور نیچے اترتے وقت بھی یہ پڑھا جا سکتا ہے۔"
       },
       "reference_bn": {
         "name": "নিচে নামার সময়",
@@ -917,9 +917,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "گمان سے کوئی بات کہنے کے بعد",
         "content": null,
-        "translation": "",
+        "translation": "اللہ ہی بہتر جانتا ہے۔",
         "note": null
       },
       "reference_bn": {

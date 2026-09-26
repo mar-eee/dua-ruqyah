@@ -3,7 +3,7 @@
   "chunk": "duas_064.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 22,
   "id_range": "980-1001",
   "source_chars": 3194,
@@ -34,9 +34,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #21",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! ہمیں ظالم لوگوں میں شامل نہ فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -70,9 +70,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #22",
         "content": null,
-        "translation": "",
+        "translation": "ہم نے اللہ ہی پر بھروسا کیا۔ اے ہمارے رب! ہمارے اور ہماری قوم کے درمیان حق کے ساتھ فیصلہ فرما، اور تو سب سے بہتر فیصلہ کرنے والا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -106,9 +106,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #23",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! ہم پر صبر انڈیل دے اور ہمیں اسلام کی حالت میں وفات دے۔",
         "note": null
       },
       "reference_bn": {
@@ -142,9 +142,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #24",
         "content": null,
-        "translation": "",
+        "translation": "(85) اے ہمارے رب! ہمیں ظالم قوم کے لیے آزمائش نہ بنا۔ (86) اور اپنی رحمت سے ہمیں کافر قوم سے نجات عطا فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -178,9 +178,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #25",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! بے شک تو جانتا ہے جو ہم چھپاتے ہیں اور جو ہم ظاہر کرتے ہیں، اور زمین و آسمان کی کوئی چیز اللہ سے پوشیدہ نہیں۔",
         "note": null
       },
       "reference_bn": {
@@ -214,9 +214,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #26",
         "content": null,
-        "translation": "",
+        "translation": "اے میرے رب! مجھے اور میری اولاد میں سے بھی کچھ کو نماز قائم کرنے والا بنا۔ اے ہمارے رب! میری دعا قبول فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -250,9 +250,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #27",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! مجھے، میرے والدین اور سب مومنوں کو اس دن بخش دے جب حساب قائم ہوگا۔",
         "note": null
       },
       "reference_bn": {
@@ -286,9 +286,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #28",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! اپنے پاس سے ہمیں رحمت عطا فرما اور ہمارے معاملے میں ہمارے لیے راہِ راست آسان فرما۔",
         "note": null
       },
       "reference_bn": {
@@ -322,9 +322,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #29",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! ہمیں اندیشہ ہے کہ وہ ہمیں سزا دینے میں جلدی کرے گا یا حد سے بڑھ جائے گا۔",
         "note": null
       },
       "reference_bn": {
@@ -358,9 +358,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #30",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! ہم ایمان لائے، پس ہمیں بخش دے، ہم پر رحم فرما، اور تو سب رحم کرنے والوں سے بہتر ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -394,9 +394,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #31",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! جہنم کا عذاب ہم سے پھیر دے؛ بے شک اس کا عذاب چمٹ جانے والا ہے۔ (66) بے شک وہ بہت برا ٹھکانا اور قیام گاہ ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -430,9 +430,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #32",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! ہماری بیویوں اور اولاد کو ہماری آنکھوں کی ٹھنڈک بنا، اور ہمیں متقیوں کا پیشوا بنا۔",
         "note": null
       },
       "reference_bn": {
@@ -466,9 +466,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #33",
         "content": null,
-        "translation": "",
+        "translation": "بے شک ہمارا رب بہت بخشنے والا، بڑا قدر دان ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -502,9 +502,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #34",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! تیری رحمت اور علم نے ہر چیز کو گھیر رکھا ہے، پس ان لوگوں کو بخش دے جنہوں نے توبہ کی اور تیرے راستے کی پیروی کی، اور انہیں جہنم کے عذاب سے بچا۔",
         "note": null
       },
       "reference_bn": {
@@ -538,9 +538,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #35",
         "content": null,
-        "translation": "",
+        "translation": "(8) اے ہمارے رب! انہیں ہمیشہ رہنے والی ان جنتوں میں داخل فرما جن کا تو نے ان سے وعدہ کیا ہے، اور ان کے آبا و اجداد، ازواج اور اولاد میں سے جو نیک ہوں، انہیں بھی۔ بے شک تو ہی زبردست، حکمت والا ہے۔ (9) اور انہیں برے اعمال کے وبال سے بچا۔ اس دن جسے تو برے اعمال کے وبال سے بچا لے، اس پر تو نے یقیناً رحم فرمایا، اور یہی بڑی کامیابی ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -574,9 +574,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #36",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! ہمیں اور ہمارے ان بھائیوں کو بخش دے جو ایمان میں ہم سے پہلے گزر چکے ہیں، اور ہمارے دلوں میں ایمان والوں کے لیے کوئی کینہ نہ رکھ۔",
         "note": null
       },
       "reference_bn": {
@@ -610,9 +610,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #37",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! بے شک تو نہایت شفیق، بہت رحم فرمانے والا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -646,9 +646,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #38",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! ہم نے تجھی پر بھروسا کیا، تیری ہی طرف رجوع کیا اور تیری ہی طرف لوٹنا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -682,9 +682,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #39",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! ہمیں کافروں کے لیے آزمائش نہ بنا، اور ہمیں بخش دے۔ اے ہمارے رب! بے شک تو ہی زبردست، حکمت والا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -718,9 +718,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "رَبَّنَا کی دعائیں #40",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! ہمارے لیے ہمارا نور مکمل فرما اور ہمیں بخش دے۔ بے شک تو ہر چیز پر پوری قدرت رکھتا ہے۔",
         "note": null
       },
       "reference_bn": {
@@ -754,9 +754,9 @@
         "note": null
       },
       "target": {
-        "name": "",
+        "name": "مظلوم کی دعا #11",
         "content": null,
-        "translation": "",
+        "translation": "اے ہمارے رب! ہمیں اندیشہ ہے کہ وہ ہمیں سزا دینے میں جلدی کرے گا یا حد سے بڑھ جائے گا۔",
         "note": null
       },
       "reference_bn": {
@@ -790,10 +790,10 @@
         "note": "Whoever recites this in the morning, has completed his obligation to thank Allah for that day; and whoever says it in the evening, has completed his obligation for that night."
       },
       "target": {
-        "name": "",
+        "name": "شام کی دعا #6",
         "content": null,
-        "translation": "",
-        "note": ""
+        "translation": "اے اللہ! اس شام مجھے یا تیری مخلوق میں سے کسی کو جو بھی نعمت ملی، وہ صرف تیری ہی طرف سے ہے؛ تیرا کوئی شریک نہیں۔ پس تمام حمد تیرے ہی لیے ہے اور تمام شکر بھی تیرے ہی لیے ہے۔",
+        "note": "جو شخص یہ دعا صبح کے وقت پڑھے، اس نے اس دن اللہ کا شکر ادا کرنے کی ذمہ داری پوری کر دی؛ اور جو اسے شام کے وقت پڑھے، اس نے اس رات اللہ کا شکر ادا کرنے کی ذمہ داری پوری کر دی۔"
       },
       "reference_bn": {
         "name": "বিকালের যিক্‌রসমূহ #৬",

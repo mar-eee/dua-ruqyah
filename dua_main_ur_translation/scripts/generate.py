@@ -10,7 +10,7 @@ paragraph is never split.
 Run from the folder that holds dua_main_en.sqlite and dua_main_bn.sqlite:
     python3 translation_base/scripts/generate.py
 """
-import json, os, re, sqlite3, shutil, sys
+import argparse, json, os, re, sqlite3, shutil, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 BASE = os.path.dirname(HERE)
@@ -24,9 +24,8 @@ BUDGET    = 6000   # translatable source characters per work file
 MAX_ROWS  = 50     # never put more than this many rows in one file
 PART_SIZE = 2000   # target size of one part when a big row is split
 
-# Book tables are excluded by instruction. drawer_items (app screens: privacy
-# policy, copyright notice, about us) is excluded too - not devotional content.
-EXCLUDE = {'books', 'book_details', 'drawer_items'}
+# Every user-visible table is required, including books and app drawer screens.
+EXCLUDE = set()
 # No translatable text at all.
 NO_TEXT = {'ids', 'drawer_item_actions'}
 
@@ -41,6 +40,7 @@ SOURCE = {
     'ruqyah_categories': 'en', 'ruqyah_subcategories': 'en',
     'ruqyah_details': 'en', 'ruqyah_instants': 'en',
     'ruqyah_videos': 'bn',
+    'books': 'bn', 'book_details': 'bn', 'drawer_items': 'bn',
 }
 
 TRANSLATE = {
@@ -54,6 +54,9 @@ TRANSLATE = {
     'ruqyah_details': ['topic_name', 'text'],
     'ruqyah_instants': ['topic_name', 'name', 'content', 'translation'],
     'ruqyah_videos': ['name', 'author'],
+    'books': ['name', 'writer', 'translator', 'editor'],
+    'book_details': ['topic_name', 'description'],
+    'drawer_items': ['title', 'hero_title1', 'hero_title2', 'content'],
 }
 
 # Fields copied through untouched. Everything not in TRANSLATE is frozen.
@@ -77,11 +80,15 @@ GROUP_FIELDS = ['name', 'content', 'translation', 'note']
 
 # Longest prose field per table, used when a row must be split into parts.
 SPLIT_FIELD = {'dua_infos': 'description', 'ruqyah_details': 'text',
-               'duas': 'translation', 'ruqyah_instants': 'translation'}
+               'duas': 'translation', 'ruqyah_instants': 'translation',
+               'book_details': 'description'}
 
 # Row identity. `sections` is keyed on (id, book_id): it has 21 rows but only
 # 12 distinct ids, so keying on id alone would silently merge rows.
-KEY = {'sections': ('id', 'book_id')}
+KEY = {
+    'sections': ('id', 'book_id'),
+    'book_details': ('id', 'book_id', 'section_id'),
+}
 
 
 def keyof(table, row):
@@ -228,7 +235,113 @@ def pack(units):
     return files
 
 
-def main():
+def _work_doc(table, name, group):
+    ids = sorted({u['id'] for u in group})
+    nkeys = len({tuple(u['key']) for u in group})
+    return {
+        'table': table,
+        'chunk': name,
+        'source_language': SOURCE[table],
+        'target_language': 'TARGET',
+        'status': 'pending',
+        'rows': nkeys,
+        'id_range': f'{ids[0]}-{ids[-1]}',
+        'source_chars': sum(u['size'] for u in group),
+        'items': [{k: v for k, v in u.items() if k != 'size'} for u in group],
+    }
+
+
+def _write_json(path, value):
+    with open(path, 'x', encoding='utf-8') as f:
+        json.dump(value, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+
+
+def add_missing_tables():
+    """Add newly required tables without touching existing work or sources."""
+    index_path = os.path.join(BASE, 'metadata', 'chunk_index.json')
+    with open(index_path, encoding='utf-8') as f:
+        doc = json.load(f)
+
+    missing = [table for table in TRANSLATE if table not in doc['tables']]
+    if not missing:
+        print('No required tables are missing from the chunk index.')
+        return
+
+    prepared = {}
+    for table in missing:
+        outdir = os.path.join(BASE, 'work', table)
+        if os.path.exists(outdir):
+            raise RuntimeError(f'refusing to overwrite existing directory: {outdir}')
+        for lang in ('en', 'bn'):
+            source_path = os.path.join(BASE, 'source', lang, f'{table}.json')
+            if os.path.exists(source_path):
+                raise RuntimeError(f'refusing to overwrite existing source: {source_path}')
+        units = build_units(table)
+        if not units:
+            raise RuntimeError(f'no routed source rows found for required table: {table}')
+        prepared[table] = (units, pack(units))
+
+    additions = {}
+    added_totals = {'files': 0, 'chars': 0, 'rows': 0}
+    for table, (units, files) in prepared.items():
+        for lang, db in (('en', EN), ('bn', BN)):
+            rows = rows_of(db, table)
+            if not rows:
+                continue
+            source_dir = os.path.join(BASE, 'source', lang)
+            os.makedirs(source_dir, exist_ok=True)
+            _write_json(os.path.join(source_dir, f'{table}.json'), rows)
+
+        outdir = os.path.join(BASE, 'work', table)
+        os.makedirs(outdir)
+        entries = []
+        for i, group in enumerate(files, 1):
+            name = f'{table}_{i:03d}.json'
+            work_doc = _work_doc(table, name, group)
+            _write_json(os.path.join(outdir, name), work_doc)
+            entries.append({
+                'file': f'work/{table}/{name}',
+                'rows': work_doc['rows'],
+                'id_range': work_doc['id_range'],
+                'source_chars': work_doc['source_chars'],
+                'items': len(group),
+                'status': 'pending',
+            })
+
+        row_count = len({tuple(u['key']) for u in units})
+        source_chars = sum(u['size'] for u in units)
+        additions[table] = {
+            'source': SOURCE[table],
+            'translate_fields': TRANSLATE[table],
+            'key_fields': list(KEY.get(table, ('id',))),
+            'total_rows': row_count,
+            'total_source_chars': source_chars,
+            'files': entries,
+        }
+        added_totals['files'] += len(entries)
+        added_totals['chars'] += source_chars
+        added_totals['rows'] += row_count
+
+    doc['tables'].update(additions)
+    doc['excluded_tables'] = sorted(set(doc.get('excluded_tables', ())) - set(additions))
+    for key in added_totals:
+        doc['totals'][key] += added_totals[key]
+
+    tmp_path = index_path + '.tmp'
+    with open(tmp_path, 'w', encoding='utf-8') as f:
+        json.dump(doc, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+    os.replace(tmp_path, index_path)
+
+    print('Added required tables without changing existing chunks:')
+    for table, info in additions.items():
+        print(f"  {table:22s} {len(info['files']):4d} files  "
+              f"{info['total_rows']:5d} rows  {info['total_source_chars']:8d} chars  "
+              f"src={info['source']}")
+
+
+def fresh_generate():
     for d in ('work', 'source', 'metadata'):
         shutil.rmtree(os.path.join(BASE, d), ignore_errors=True)
 
@@ -256,19 +369,7 @@ def main():
         entries = []
         for i, group in enumerate(files, 1):
             name = f'{t}_{i:03d}.json'
-            ids = sorted({u['id'] for u in group})
-            nkeys = len({tuple(u['key']) for u in group})
-            doc = {
-                'table': t,
-                'chunk': name,
-                'source_language': SOURCE[t],
-                'target_language': 'TARGET',
-                'status': 'pending',
-                'rows': nkeys,
-                'id_range': f'{ids[0]}-{ids[-1]}',
-                'source_chars': sum(u['size'] for u in group),
-                'items': [{k: v for k, v in u.items() if k != 'size'} for u in group],
-            }
+            doc = _work_doc(t, name, group)
             with open(os.path.join(outdir, name), 'w', encoding='utf-8') as f:
                 json.dump(doc, f, ensure_ascii=False, indent=2)
                 f.write('\n')
@@ -314,6 +415,26 @@ def main():
     print(f"source chars: {totals['chars']}")
     for t, v in index.items():
         print(f"  {t:22s} {len(v['files']):4d} files  {v['total_rows']:5d} rows  {v['total_source_chars']:8d} chars  src={v['source']}")
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    mode = parser.add_mutually_exclusive_group(required=True)
+    mode.add_argument(
+        '--add-missing',
+        action='store_true',
+        help='add newly required tables without touching existing work',
+    )
+    mode.add_argument(
+        '--fresh',
+        action='store_true',
+        help='destructively regenerate the entire workspace from the databases',
+    )
+    args = parser.parse_args()
+    if args.add_missing:
+        add_missing_tables()
+    else:
+        fresh_generate()
 
 
 if __name__ == '__main__':
