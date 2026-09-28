@@ -1326,3 +1326,26 @@ checked, plus the nested JSON inside `duas.groups`.
 - Unbalanced HTML tags: **0**. Invisible characters in prose: **0**. Mojibake: **0**.
 - Foreign keys resolve; audio and video URLs well-formed; row counts unchanged.
 - `PRAGMA integrity_check` = `ok`.
+
+### Indonesian completed: `dua_main_id_planned_json/tables/ruqyah_categories/ruqyah_categories_001.json`
+
+- Status: `pending` → `complete` (Indonesian)
+- ID range: `1-15`; rows: `15`
+- Completed on: `2026-09-28`
+- Translated and rechecked fields: `name`
+- Source: all exact English rows in `dua_main_en.sqlite`; no Bengali fallback needed.
+- References: not applicable; this chunk contains no reference or transliteration fields.
+- Verification: All 15 exact English IDs matched and all names reviewed. JSON, UTF-8, 2-space indentation, trailing newline, row/key order, types, icons, protected fields, nullness and digits passed; no Bengali remains. Equivalent Node.js rebuild passed; reopened SQLite integrity ok; all 15 tables / 3082 rows match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.
+- Review notes: All names reviewed for meaning, completeness, natural Indonesian, spelling and grammar. Related subcategories checked and left unchanged; existing Indonesian term penyakit ain retained. Instant Ruqyah rendered as Ruqyah langsung for direct access to recitations; Raqi as peruqyah; Hijamah as bekam with the separate bloodletting meaning preserved.
+- Status recorded in the existing shared work_status registry in Japanese metadata, following the plan's status instruction; all schema metadata unchanged. Python unavailable; equivalent Node.js rebuild used.
+- Final artifact: `dua_main_id_rebuilt.sqlite`; temporary backup, helper and intermediate database removed after verification.
+
+### Indonesian independent recheck: `dua_main_id_planned_json/tables/ruqyah_categories/ruqyah_categories_001.json`
+
+- Status: complete; reviewed on `2026-09-28`
+- ID range: `1-15`; rows: `15`
+- Reviewed fields: `name`; corrected ID: `11`
+- References: not applicable; no reference or transliteration fields.
+- Verification: All 15 records reviewed one by one against exact English IDs. JSON, UTF-8, 2-space indentation, trailing newline, row/key order, IDs, type values, icons, protected fields, nullness and digits verified; no Bengali or unintended English in names. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.
+- Review notes: Changed Waswas dan bisikan to Waswas (bisikan) to preserve the English explanatory relationship. All other 14 names retained after reviewing meaning, natural wording, Islamic terminology, spelling, grammar, capitalization and completeness. Python unavailable; equivalent Node.js rebuild used unchanged Indonesian schema metadata.
+- Temporary backup, helper and verification database removed; `dua_main_id_rebuilt.sqlite` also removed as requested, superseding the preceding batch's retained-artifact note.

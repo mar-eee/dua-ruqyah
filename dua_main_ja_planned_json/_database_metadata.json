@@ -1211,9 +1211,8 @@
         "translation",
         "note"
       ],
-      "reference_rule": "Copied from dua_main_en.sqlite, kept in English, with README spacing normalization and ASCII apostrophe at ID 304; all reference numbers preserved.",
-      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
       "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
       "unchanged_fields_by_instruction": [
         "id",
         "groups",
@@ -1247,9 +1246,8 @@
         "translation",
         "note"
       ],
-      "reference_rule": "Copied from dua_main_en.sqlite and kept in English; README formatting normalized at IDs 332, 336, 338, 339; honorific rendered in ASCII English at ID 340. All reference numbers preserved.",
-      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
       "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
       "unchanged_fields_by_instruction": [
         "id",
         "groups",
@@ -1310,9 +1308,8 @@
         "translation",
         "note"
       ],
-      "reference_rule": "Copied from dua_main_en.sqlite and kept in English; README spacing/punctuation normalized at IDs 348, 354, 361 and 362; all numbers preserved.",
-      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
       "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
       "unchanged_fields_by_instruction": [
         "id",
         "groups",
@@ -1372,9 +1369,8 @@
         "translation",
         "note"
       ],
-      "reference_rule": "Copied from dua_main_en.sqlite and kept in English; README spacing/language normalization at IDs 381 and 390; all numbers preserved.",
-      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
       "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
       "unchanged_fields_by_instruction": [
         "id",
         "groups",
@@ -1432,9 +1428,8 @@
         "translation",
         "note"
       ],
-      "reference_rule": "Copied from dua_main_en.sqlite and kept in English; README spacing/language normalization at IDs 417, 420, 421, 422, 423, 424, 431, 432; all reference numbers preserved.",
-      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
       "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
       "unchanged_fields_by_instruction": [
         "id",
         "groups",
@@ -1490,9 +1485,8 @@
         "translation",
         "note"
       ],
-      "reference_rule": "Copied from dua_main_en.sqlite and kept in English; only colon spacing normalized at ID 475; all numbers preserved.",
-      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
       "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
       "unchanged_fields_by_instruction": [
         "id",
         "groups",
@@ -1549,9 +1543,8 @@
         "translation",
         "note"
       ],
-      "reference_rule": "Copied from dua_main_en.sqlite and kept in English; README formatting normalized at IDs 480, 498, 505, 506; all numbers preserved.",
-      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
       "reference_rule": "References are not translated. Top-level reference values were copied from dua_main_en.sqlite and kept in English.",
+      "transliteration_rule": "Copied verbatim from dua_main_en.sqlite.",
       "unchanged_fields_by_instruction": [
         "id",
         "groups",
@@ -2329,9 +2322,9 @@
       ],
       "rows": 15,
       "id_range": "987-1001",
-      "updated_at": "2026-09-09",
+      "updated_at": "2026-08-28",
       "verification": "All 15 exact English IDs matched; all 31 non-null name, translation and note fields translated and rechecked record by record for accuracy, completeness, natural Indonesian, spelling, grammar and terminology. Content remains null. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nullness, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs and digits verified. No Bengali in editable fields; references ASCII English; references and transliteration copied verbatim. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows exactly match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.",
-      "note": "Repeated prayers aligned with earlier reviewed Indonesian wording at IDs 987, 989, 991, 993, 995 and 999; IDs 988 and 1000 use identical wording. Preserved English source scope, including the shorter verse 9 excerpt at ID 994, the torment wording at ID 998, and both morning/evening statements in the note at ID 1001. Final review improved the eternal-residence sentence and inclusive wording at ID 994. English remained the source; no Bengali fallback required. Python unavailable in this session; equivalent Node.js rebuild used unchanged Indonesian schema metadata.",
+      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB. Qur'anic Rabbana verses; wording reused from earlier chunks where the verse already appeared.",
       "independent_recheck": {
         "status": "complete",
         "reviewed_at": "2026-09-09",
@@ -2350,11 +2343,7 @@
         "reference_status": "English, not translated; unchanged and matched English verbatim.",
         "verification": "Every record and all 31 non-null name, translation and note fields rechecked against all 15 exact English rows for accuracy, completeness, natural Indonesian, spelling, grammar and terminology; content remains null. JSON, UTF-8, 2-space indent, trailing newline, row/key order, nullness, protected fields, Arabic, audio, category/subcategory IDs, HTML, URLs, digits and Bengali checks passed. References and transliteration unchanged from review backup and matched English verbatim. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows exactly match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.",
         "note": "Improved the ever-adhering punishment wording at ID 990 and clarified the completed return and final destination at ID 997. All other translated fields reviewed and retained, including the full note at ID 1001, the shorter English verse excerpt at ID 994 and torment wording at ID 998. Python unavailable in this session; equivalent Node.js rebuild used unchanged Indonesian schema metadata."
-      },
-      "rows": 15,
-      "id_range": "987-1001",
-      "updated_at": "2026-08-28",
-      "note": "Translated top-level human-readable fields from dua_main_en.sqlite following README.md. Arabic fields unchanged; transliteration and reference copied from the English DB. Qur'anic Rabbana verses; wording reused from earlier chunks where the verse already appeared."
+      }
     },
     "tables/dua_infos/dua_infos_001.json": {
       "language": "Japanese",
@@ -3080,6 +3069,66 @@
       "id_range": "19-24",
       "updated_at": "2026-09-08",
       "note": "Translated from the English drawer_items rows matched by item_type; the content JSON string keeps its section order, types and spacer heights unchanged."
+    },
+    "dua_main_id_planned_json/tables/duas/duas_001.json": {
+      "language": "Indonesian",
+      "status": "translated",
+      "translated_fields": [
+        "name",
+        "content",
+        "translation",
+        "note"
+      ],
+      "reference_rule": "References were copied from dua_main_en.sqlite, kept in English, and normalized to README.md formatting.",
+      "transliteration_rule": "Top-level transliteration values were copied from dua_main_en.sqlite.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "groups",
+        "uthmani",
+        "indopak",
+        "clean",
+        "audio",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 34,
+      "id_range": "1-34",
+      "updated_at": "2026-08-28",
+      "note": "Translated all top-level human-readable fields into Indonesian following README.md; Arabic and groups were preserved."
+    },
+    "dua_main_id_planned_json/tables/ruqyah_categories/ruqyah_categories_001.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "translated_fields": [
+        "name"
+      ],
+      "source": "dua_main_en.sqlite; exact ruqyah_categories IDs",
+      "reference_rule": "Not applicable: no reference or transliteration fields in this chunk.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "type",
+        "icon"
+      ],
+      "rows": 15,
+      "id_range": "1-15",
+      "updated_at": "2026-09-28",
+      "verification": "All 15 exact English IDs matched and all names reviewed. JSON, UTF-8, 2-space indentation, trailing newline, row/key order, types, icons, protected fields, nullness and digits passed; no Bengali remains. Equivalent Node.js rebuild passed; reopened SQLite integrity ok; all 15 tables / 3082 rows match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.",
+      "note": "Related subcategories checked for meaning; they remain English and unchanged. Uses existing Indonesian penyakit ain terminology. Python unavailable; equivalent Node.js rebuild used unchanged Indonesian schema metadata.",
+      "independent_recheck": {
+        "status": "complete",
+        "reviewed_at": "2026-09-28",
+        "id_range": "1-15",
+        "rows": 15,
+        "reviewed_fields": [
+          "name"
+        ],
+        "corrected_ids": [
+          11
+        ],
+        "reference_status": "Not applicable: no reference or transliteration fields.",
+        "verification": "All 15 records reviewed one by one against exact English IDs. JSON, UTF-8, 2-space indentation, trailing newline, row/key order, IDs, type values, icons, protected fields, nullness and digits verified; no Bengali or unintended English in names. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.",
+        "note": "Corrected ID 11 from Waswas dan bisikan to Waswas (bisikan), preserving the explanatory relationship in Waswasah - whisperings. Other 14 names retained after accuracy, completeness, natural wording, Islamic terminology, spelling, grammar and capitalization review. Python unavailable; equivalent Node.js rebuild used unchanged schema metadata. All temporary files, including dua_main_id_rebuilt.sqlite, removed as requested."
+      }
     }
   }
 }
