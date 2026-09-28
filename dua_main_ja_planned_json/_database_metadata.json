@@ -3129,6 +3129,38 @@
         "verification": "All 15 records reviewed one by one against exact English IDs. JSON, UTF-8, 2-space indentation, trailing newline, row/key order, IDs, type values, icons, protected fields, nullness and digits verified; no Bengali or unintended English in names. Equivalent Node.js rebuild passed; reopened integrity ok; all 15 tables / 3082 rows match JSON; schema, sequences and pragmas verified. SHA-256 checks confirm no other translation file changed.",
         "note": "Corrected ID 11 from Waswas dan bisikan to Waswas (bisikan), preserving the explanatory relationship in Waswasah - whisperings. Other 14 names retained after accuracy, completeness, natural wording, Islamic terminology, spelling, grammar and capitalization review. Python unavailable; equivalent Node.js rebuild used unchanged schema metadata. All temporary files, including dua_main_id_rebuilt.sqlite, removed as requested."
       }
+    },
+    "dua_main_id_planned_json/tables/ruqyah_details/ruqyah_details_001.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "translated_fields": [
+        "text",
+        "topic_name"
+      ],
+      "source": "Exact ruqyah_details IDs in dua_main_en.sqlite",
+      "reference_rule": "Inline English references and citation numbers preserved; no separate reference field.",
+      "transliteration_rule": "Standalone and inline transliteration text preserved verbatim from the English source; display label translated.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 40,
+      "id_range": "1-40",
+      "updated_at": "2026-09-28",
+      "verification": "All 40 exact English IDs matched; all 40 text fields and four non-null topic_name fields translated and rechecked record by record. JSON, UTF-8, 2-space indentation, trailing newline, row/key order, protected values and nullness passed. All 521 paragraph segments and original newline runs preserved, including whitespace-only lines; HTML tag sequence and nesting valid; 51 Arabic blocks, all Arabic characters, seven standalone transliterations and inline transliterations preserved. Inline reference strings, citation numbers and all digits retained. No Bengali or unintended English prose remains. Equivalent Node.js rebuild passed; reopened SQLite integrity ok; all 15 tables / 3082 rows match JSON; schema, sequences and pragmas verified. Git scope check confirms no other translation file changed; source databases, Indonesian schema metadata and rebuild script hashes unchanged.",
+      "note": "Second pass corrected timing in ID 15, wording about the jinn in ID 23, persuade in ID 29, added oil in ID 33, and wording in ID 40; restored parenthetical glosses and bracketed meanings where needed. Retained source citation/numbering quirks (including 17:81-2 in ID 1, verse 7 in ID 17, item 16 in ID 25), source honorifics, quotation structure and protected Arabic/transliteration spelling. Repaired ordinary prose typos and malformed wording without adding claims, including Sinn in ID 34, mengine in ID 30 and the missing eating verb in ID 38. Existing English reference text and source book titles remain protected; no separate reference field exists. No Bengali fallback needed. Python unavailable; equivalent Node.js rebuild followed the existing Python script. All task temporary files and dua_main_id_rebuilt.sqlite removed after verification.",
+      "second_pass": {
+        "status": "complete",
+        "reviewed_fields": [
+          "text",
+          "topic_name"
+        ],
+        "rows": 40,
+        "non_null_topic_names": 4,
+        "reviewed_at": "2026-09-28"
+      }
     }
   }
 }
