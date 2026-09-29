@@ -49,11 +49,12 @@ CORRUPTION = [
 def load_glossary():
     p = os.path.join(BASE, 'GLOSSARY.json')
     if not os.path.exists(p):
-        return {}, {}, {}
+        return {}, {}, {}, {}
     with open(p, encoding='utf-8') as f:
         g = json.load(f)
     canonical = {k: v for k, v in g.get('canonical', {}).items() if v}
-    return canonical, g.get('watch_variants', {}), g.get('overrides', {})
+    return (canonical, g.get('watch_variants', {}), g.get('overrides', {}),
+            g.get('number_overrides', {}))
 
 
 def files_for(arg):
@@ -63,7 +64,7 @@ def files_for(arg):
     return sorted(glob.glob(pat))
 
 
-def check_pair(where, src, tgt, problems):
+def check_pair(where, src, tgt, problems, allow_number_change=False):
     """Checks that compare one source string against its translation."""
     if src is None or tgt is None:
         if (src is None) != (tgt is None):
@@ -84,7 +85,7 @@ def check_pair(where, src, tgt, problems):
         problems.append((where, 'arabic text lost', f'{len(sa)} arabic chars in source, {len(ta)} in target'))
     # digits carry hadith / verse / volume numbers
     sn, tn = NUMBER.findall(_ascii_digits(src)), NUMBER.findall(_ascii_digits(tgt))
-    if collections.Counter(sn) != collections.Counter(tn):
+    if not allow_number_change and collections.Counter(sn) != collections.Counter(tn):
         lost = collections.Counter(sn) - collections.Counter(tn)
         added = collections.Counter(tn) - collections.Counter(sn)
         if lost or added:
@@ -97,7 +98,7 @@ def check_pair(where, src, tgt, problems):
 
 def main():
     arg = sys.argv[1] if len(sys.argv) > 1 else None
-    canonical, watch, overrides = load_glossary()
+    canonical, watch, overrides, number_overrides = load_glossary()
     problems, seen_terms = [], collections.defaultdict(collections.Counter)
     n_files = n_items = n_done = 0
 
@@ -118,12 +119,14 @@ def main():
                 problems.append((tag, 'field set changed',
                                  f"source={sorted(it['source'])} target={sorted(it['target'])}"))
             for f in it['source']:
-                check_pair(f'{tag} .{f}', it['source'][f], it['target'].get(f), problems)
+                override_key = f'{doc["table"]}.{f}.{it["id"]}'
+                check_pair(f'{tag} .{f}', it['source'][f], it['target'].get(f), problems,
+                           override_key in number_overrides)
                 t = it['target'].get(f)
                 if t:
                     n_done += 1
                     src_text = it['source'][f] or ''
-                    if f'{doc["table"]}.{f}.{it["id"]}' in overrides:
+                    if override_key in overrides:
                         continue
                     for term, want in canonical.items():
                         if re.search(r'(?<![A-Za-z])' + re.escape(term) + r'(?![A-Za-z])',

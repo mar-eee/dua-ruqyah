@@ -4,7 +4,8 @@
     "verify.py enforces it: if a source field mentions the term on the left, the translation must contain the value on the right.",
     "Leave a value empty to switch that check off.",
     "`watch_variants` is for spellings that drifted in a previous language. Add any you catch; verify.py reports when more than one is used.",
-    "`overrides` switches the canonical-term check off for one field, when the ENGLISH source is itself wrong. Give a reason."
+    "`overrides` switches the canonical-term check off for one field, when the ENGLISH source is itself wrong. Give a reason.",
+    "`number_overrides` permits a documented source-conflict field to follow the supplied primary text when the source's numbers are wrong. Give a reason."
   ],
   "language": "ur",
   "canonical": {
@@ -285,7 +286,14 @@
     "ruqyah_details.text.124": "The contradictory senna recipes, durations and medicinal claims are retained as attributed source material, not approved dosing. The claim of no side effects remains inside an attributed quotation. The awkward 'spread of hair' is rendered as hair shedding, matching the classical Arabic expression intishar al-shar in Zad al-Maad. All source quantities and numerals are preserved; clinical concerns are documented in the batch review.",
     "ruqyah_details.text.125": "The source's ingested-magic treatment, repeated-course interval and claimed diagnostic role of other therapies remain the author's recommendations. All cautions, including the original pregnancy/nursing prohibition, are retained without certifying them as current medical guidance.",
     "ruqyah_details.text.126": "The Palestinian-oil preference is presented as the author's inference, not part of Quran 24:35. The verse's supplied Arabic is preserved verbatim and its meaning translated completely. The oil hadith was checked against Tirmidhi 1851; Tirmidhi appears only in the normalized English citation.",
-    "ruqyah_details.text.127": "The Ajwa narrator is Amir ibn Sad reporting from his father Sad ibn Abi Waqqas, as in Bukhari 5445 and Muslim 2047b; the garbled second Amr attribution and Companion honorific for the son are corrected. Broader claims about other dates, later treatment, and dates being indispensable to a balanced fruit diet remain attributed opinions. Sihr occurs only within a normalized English book citation and need not force an extra Urdu term into the prose."
+    "ruqyah_details.text.127": "The Ajwa narrator is Amir ibn Sad reporting from his father Sad ibn Abi Waqqas, as in Bukhari 5445 and Muslim 2047b; the garbled second Amr attribution and Companion honorific for the son are corrected. Broader claims about other dates, later treatment, and dates being indispensable to a balanced fruit diet remain attributed opinions. Sihr occurs only within a normalized English book citation and need not force an extra Urdu term into the prose.",
+    "ruqyah_details.text.128": "Bukhari, Muslim and Ibn Majah occur in normalized English citations. Ibn Majah 3449 is not Buraidah's report as the source claims, but the Khalid bin Sad/Ghalib/Aisha report; Urdu flags the attribution without silently changing the number. Other clinical claims remain attributed to the author.",
+    "ruqyah_details.text.129": "Muslim occurs only in a normalized English citation in this four-part text. The original IslamQA argument and all cited numbers are preserved; no redundant Urdu collection name is inserted solely for glossary matching.",
+    "ruqyah_details.text.131": "Bukhari and Muslim occur only in normalized English citations. The Umm Qays report was checked against Bukhari 5713. The separate Anas report in Bukhari 5696 refers to sea costus, which the source conflates with Indian costus. Historical medical claims are attributed, not certified.",
+    "ruqyah_details.text.139": "Muslim, Abu Dawud, Tirmidhi and Ibn Majah occur only in normalized English citations. The source labels the angel report Sahih despite disputed grading; Urdu notes this. The Bukhari 5371 cupping citation is false and is corrected to the relevant Bukhari 5696 text. The source's detoxification explanation is attributed rather than included in hadith wording."
+  },
+  "number_overrides": {
+    "ruqyah_details.text.139": "The supplied Bukhari 5371 citation is unrelated to cupping. The relevant report on the best treatments, including cupping and sea costus, is Bukhari 5696; Urdu corrects that number and wording after checking https://sunnah.com/bukhari:5696 and https://sunnah.com/bukhari:5371 ."
   },
   "settled_wording": {
     "salah / prayer": "نماز",
