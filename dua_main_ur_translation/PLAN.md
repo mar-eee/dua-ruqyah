@@ -256,11 +256,11 @@ Source: **EN** · fields: `topic_name`, `text` · key: `id`
 | [x] | `work/ruqyah_details/ruqyah_details_068.json` | 2 | 131-132 | 5,419 | 2 |
 | [x] | `work/ruqyah_details/ruqyah_details_069.json` | 5 | 133-137 | 5,956 | 5 |
 | [x] | `work/ruqyah_details/ruqyah_details_070.json` | 4 | 138-141 | 5,329 | 4 |
-| [ ] | `work/ruqyah_details/ruqyah_details_071.json` | 6 | 142-147 | 5,638 | 6 |
-| [ ] | `work/ruqyah_details/ruqyah_details_072.json` | 2 | 148-149 | 5,899 | 4 |
-| [ ] | `work/ruqyah_details/ruqyah_details_073.json` | 1 | 149-149 | 5,264 | 3 |
-| [ ] | `work/ruqyah_details/ruqyah_details_074.json` | 3 | 149-151 | 5,430 | 4 |
-| [ ] | `work/ruqyah_details/ruqyah_details_075.json` | 4 | 152-155 | 5,334 | 4 |
+| [x] | `work/ruqyah_details/ruqyah_details_071.json` | 6 | 142-147 | 5,638 | 6 |
+| [x] | `work/ruqyah_details/ruqyah_details_072.json` | 2 | 148-149 | 5,899 | 4 |
+| [x] | `work/ruqyah_details/ruqyah_details_073.json` | 1 | 149-149 | 5,264 | 3 |
+| [x] | `work/ruqyah_details/ruqyah_details_074.json` | 3 | 149-151 | 5,430 | 4 |
+| [x] | `work/ruqyah_details/ruqyah_details_075.json` | 4 | 152-155 | 5,334 | 4 |
 | [ ] | `work/ruqyah_details/ruqyah_details_076.json` | 2 | 156-157 | 3,978 | 2 |
 | [ ] | `work/ruqyah_details/ruqyah_details_077.json` | 1 | 158-158 | 4,802 | 1 |
 | [ ] | `work/ruqyah_details/ruqyah_details_078.json` | 1 | 159-159 | 3,285 | 1 |
