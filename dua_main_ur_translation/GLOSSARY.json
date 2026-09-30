@@ -301,12 +301,17 @@
     "ruqyah_details.text.160": "Psoriasis and eczema have medical causes. The author's claims about sihr, stopping prescribed medicines, vinegar on broken skin and a six-month herbal preparation are attributed, not endorsed; Urdu adds explicit advice to retain prescribed treatment and seek dermatology guidance.",
     "ruqyah_details.text.161": "Stomach symptoms do not prove ingested sihr. The emetic, senna/rhubarb mixture and detox claims are presented as the author's views; Urdu retains the consultation warning and advises assessment for persistent symptoms.",
     "ruqyah_details.text.162": "The source's As-Sura 49-50 is Ash-Shura 42:49-50. Infertility is not evidence of sin or magic; Urdu attributes Hasan al-Basri's counsel rather than blaming a couple. Al-Baqarah ends at verse 286, so its erroneous 284-287 range is corrected to 284-286. Citation numbers are otherwise kept as supplied.",
-    "ruqyah_details.text.163": "The narrator is Uthman ibn Abi al-As. The source's malformed HTML and Roman transliteration are preserved as supplied; Urdu meaning follows the displayed Arabic. Muslim 2202 gives a related variant; source Arabic is not silently replaced."
+    "ruqyah_details.text.163": "The narrator is Uthman ibn Abi al-As. The source's malformed HTML and Roman transliteration are preserved as supplied; Urdu meaning follows the displayed Arabic. Muslim 2202 gives a related variant; source Arabic is not silently replaced.",
+    "ruqyah_details.text.166": "Bukhari and Tirmidhi occur only in normalized English citations in the five-part source; Urdu keeps them in citation form rather than adding redundant collection names. The cancer comparison is explicitly a metaphor, not medical guidance.",
+    "ruqyah_details.text.169": "Bukhari, Muslim, Abu Dawud, Tirmidhi and Ibn Majah occur in normalized English citations and are not duplicated in Urdu. The source's Bukhari 5371 is about a deceased debtor, not cupping; the relevant Bukhari 5696 names cupping and sea costus among the best treatments, so Urdu corrects both reference and the incomplete English gloss.",
+    "ruqyah_details.text.176": "Bukhari and Muslim appear only in the retained normalized English citation. The source's supplement/heat/stasis interpretation is attributed to the author, not embedded in the hadith.",
+    "ruqyah_details.text.195": "Bukhari appears only in the normalized English citation. Ibn Majah 3487 is graded weak by Darussalam on Sunnah.com; the source's Sahih label is not adopted as a verified grading."
   },
   "number_overrides": {
     "ruqyah_details.text.139": "The supplied Bukhari 5371 citation is unrelated to cupping. The relevant report on the best treatments, including cupping and sea costus, is Bukhari 5696; Urdu corrects that number and wording after checking https://sunnah.com/bukhari:5696 and https://sunnah.com/bukhari:5371 .",
     "ruqyah_details.text.155": "The source cites Muslim 2203 for Ibn Abbas's charcoal/whispering report, but Muslim 2203 concerns the devil's interference with prayer. The quoted Ibn Abbas wording is Abu Dawud 5112; Urdu corrects the reference after checking https://sunnah.com/muslim:2203 and https://sunnah.com/abudawud:5112 .",
-    "ruqyah_details.text.162": "Al-Baqarah ends at 286, so the source's 284-287 is impossible and Urdu correctly gives 284-286; checked https://quran.com/2/286 ."
+    "ruqyah_details.text.162": "Al-Baqarah ends at 286, so the source's 284-287 is impossible and Urdu correctly gives 284-286; checked https://quran.com/2/286 .",
+    "ruqyah_details.text.169": "The cited Bukhari 5371 concerns a deceased debtor, not cupping. Urdu corrects this to the relevant Bukhari 5696; checked https://sunnah.com/bukhari:5371 and https://sunnah.com/bukhari:5696 ."
   },
   "settled_wording": {
     "salah / prayer": "نماز",

@@ -3,7 +3,7 @@
   "chunk": "ruqyah_details_090.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 3,
   "id_range": "179-181",
   "source_chars": 5376,
@@ -26,9 +26,10 @@
         "text": "If a patient is on medication, the Hajjaam must determine whether it is safe to continue with Hijamah and that the medication will not cause excessive and potentially uncontrollable bleeding or other adverse effects.\n\nAmongst these medications the most dangerous are anticoagulant medicines. Anticoagulants are medicines that prevent the blood from clotting as quickly or as effectively as normal. Some people call anticoagulants blood thinners. However, the blood is not actually made any thinner - it just does not clot so easily whilst you take an anticoagulant.\n\nAnticoagulants are commonly used to treat and prevent blood clots that may occur in your blood vessels. Blood clots can block an artery or a vein. A blocked artery stops blood and oxygen from getting to a part of your body (for example, to a part of the heart, brain or lungs). The tissue supplied by a blocked artery becomes damaged, or dies, and this results in serious problems such as a stroke or heart attack. A blood clot in a large vein, such as a deep vein thrombosis (a clot in the leg vein), can lead to serious problems such as a pulmonary embolism (a clot that travels from the leg vein to the lungs).\n\nPatients on anticoagulant medication may exhibit excessive blood loss after Hijamah which in some cases can be fatal. The most common anticoagulants include warfarin and heparin, however these may go by different brand names and for this reason a Hajjaam should be familiar with basic pharmacology and be able to recognize anticoagulant use in prospective Hijamah patients. If you are using anticoagulants you should consult with your doctor before having Hijamah done.\n\nIf you are not sure whether you are using anticoagulant medication you can check your medication against this list of common names for anticoagulant medication, the list is not exhaustive and ideally your Hajjaam should have the knowledge and training to identify if you are using an anticoagulant or not:\n\n<b>Warfarin</b> - Coumadin, Jantoven, Marevan, Lawarin, Waran, Warfant\n\n<b>Dabigatran</b> - Pradaxa\n\n<b>Acenocoumarol</b> - G 23350, Nicoumalone, Nicumalon\n\n<b>Phenindione</b> - Dindevan, Fenindion, Phenylin-Zdorovye, Soluthrombine\n\n<b>Rivaroxaban</b> - Xarelto\n\nNote: Aspirin also has an effect of preventing clots by preventing platelets sticking together. However, it is classed as an antiplatelet agent rather than an anticoagulant."
       },
       "target": {
-        "topic_name": "",
-        "text": ""
-      }
+        "topic_name": "خون جمنے سے روکنے والی دوائیں",
+        "text": "اگر مریض دوا لے رہا ہے تو حجامہ کرنے والے کو پہلے معلوم کرنا چاہیے کہ اس کے ساتھ حجامہ محفوظ ہے یا نہیں، اور کہیں دوا زیادہ یا بے قابو خون بہنے یا دوسرے نقصانات کا خطرہ تو نہیں بڑھاتی۔\n\nخون جمنے سے روکنے والی دوائیں، یعنی اینٹی کوایگولنٹس، خاص اہمیت رکھتی ہیں۔ یہ خون کو حقیقت میں ’’پتلا‘‘ نہیں کرتیں، بلکہ اس کے جمنے کی رفتار یا صلاحیت کم کرتی ہیں۔\n\nیہ دوائیں رگوں میں خون کے لوتھڑے بننے سے بچانے یا ان کا علاج کرنے کے لیے دی جاتی ہیں۔ لوتھڑا شریان بند کرے تو جسم کے کسی حصے، مثلاً دل، دماغ یا پھیپھڑوں، کو خون اور آکسیجن نہیں پہنچتی؛ اس سے فالج یا دل کا دورہ جیسی سنگین صورت پیدا ہوسکتی ہے۔ ٹانگ کی گہری رگ میں لوتھڑا بنے تو وہ پھیپھڑوں تک پہنچ کر خطرناک رکاوٹ پیدا کرسکتا ہے۔\n\nایسی دوا لینے والے شخص میں تر حجامہ کے بعد زیادہ خون بہہ سکتا ہے، اور شدید صورت میں جان کو خطرہ ہوسکتا ہے۔ وارفرین اور ہیپارین معروف مثالیں ہیں، مگر تجارتی نام مختلف ہوتے ہیں۔ معالج کو دواؤں کے بنیادی اثرات اور مریض کی ادویات پہچاننے کی تربیت ہونی چاہیے۔ اگر آپ اینٹی کوایگولنٹ لے رہے ہیں تو حجامہ سے پہلے اپنے ڈاکٹر سے مشورہ کریں؛ دوا خود سے ہرگز بند نہ کریں۔\n\nاگر اپنی دوا کے بارے میں یقین نہیں تو اس فہرست سے ابتدائی مدد مل سکتی ہے، مگر یہ مکمل نہیں اور تربیت یافتہ معالج کو خود تصدیق کرنی چاہیے:\n\n<b>Warfarin</b> — Coumadin, Jantoven, Marevan, Lawarin, Waran, Warfant\n\n<b>Dabigatran</b> — Pradaxa\n\n<b>Acenocoumarol</b> — G 23350, Nicoumalone, Nicumalon\n\n<b>Phenindione</b> — Dindevan, Fenindion, Phenylin-Zdorovye, Soluthrombine\n\n<b>Rivaroxaban</b> — Xarelto\n\nنوٹ: ایسپرین بھی پلیٹ لیٹس کو چپکنے سے روک کر خون جمنے پر اثر ڈالتی ہے، مگر اسے اینٹی پلیٹ لیٹ دوا کہتے ہیں، اینٹی کوایگولنٹ نہیں۔"
+      },
+      "status": "done"
     },
     {
       "key": [
@@ -48,9 +49,10 @@
         "text": "Anemia is a common condition in which the blood lacks adequate healthy red blood cells. Red blood cells carry oxygen to the body's tissues. Iron deficiency anemia is due to insufficient iron. Without enough iron, the body cannot produce enough hemoglobin, a substance in red blood cells that enables them to carry oxygen. As a result, iron deficiency anemia may leave an individual tired and short of breath.\n\nA number of recent studies are showing a link between excessive and unnecessary bloodletting and iron deficiency anemia, some even as severe as resulting in cardiomyopathy which is only seen in chronic severe iron deficiency anaemia.\n\nFor this reason care should be taken not to cause this type of anemia through Hijamah. This will most often occur when women who are menstruating normally receive Hijamah without a serious reason, or when Hijamah is practiced too often and/or too much blood is removed.\n\nFor the healthy person not living in a very hot climate, to have Hijamah once a year in the hot season is sufficient, provided the person exhibits signs of a healthy constitution and does not already suffer from anemia. If so, then it should be administered in a \"low dose\" only once every few years so as to encourage haematopoiesis. (For a women who is menstruating general Hijamah is not needed except where the woman is suffering from an abundance of blood as sometimes happens in the arab regions.)"
       },
       "target": {
-        "topic_name": "",
-        "text": ""
-      }
+        "topic_name": "خون کی کمی",
+        "text": "انیمیا یا خون کی کمی میں صحت مند سرخ خلیے کافی نہیں ہوتے۔ یہ خلیے جسم کے بافتوں تک آکسیجن پہنچاتے ہیں۔ آئرن کی کمی ہو تو ہیموگلوبن مناسب مقدار میں نہیں بنتا، جس سے تھکن اور سانس پھولنے جیسی علامات ہوسکتی ہیں۔\n\nمصنف بعض مطالعات کا حوالہ دیتے ہیں جن میں بار بار یا غیر ضروری خون نکالنے کو آئرن کی کمی سے جوڑا گیا ہے؛ شدید اور طویل خون کی کمی دل کے عضلے کو بھی متاثر کرسکتی ہے۔\n\nلہٰذا حجامہ کی وجہ سے خون کی کمی پیدا ہونے یا بڑھنے سے بچیں۔ مصنف خاص طور پر باقاعدہ ماہواری والی عورتوں، بہت زیادہ بار حجامہ کرانے والوں اور زیادہ خون نکلوائے جانے والوں کا ذکر کرتے ہیں۔\n\nمصنف کی روایتی رائے میں صحت مند شخص، جو بہت گرم علاقے میں نہیں رہتا اور جسے انیمیا نہیں، اگر عمومی حجامہ کرانا چاہے تو گرم موسم میں سال میں ایک بار کافی ہے۔ خون کی کمی کی صورت میں وہ چند سال میں ایک بار بھی صرف کم مقدار کی تجویز دیتے ہیں، گویا خون بننے کا عمل ابھرے؛ یہ طبی طور پر ثابت شدہ علاج نہیں۔ وہ باقاعدہ ماہواری والی عورت کے لیے عام حجامہ غیر ضروری سمجھتے ہیں، سوائے ایسی کیفیت کے جسے وہ خون کی زیادتی کہتے ہیں۔ خون کی کمی میں خون نکالنے کا فیصلہ ہمیشہ ڈاکٹر سے کریں۔"
+      },
+      "status": "done"
     },
     {
       "key": [
@@ -70,9 +72,10 @@
         "text": "During pregnancy there is a tremendous demand by the baby for nourishment which is provided by means of the mothers blood. For this reason the woman's appetite grows tremendously due to the increased production of blood in her body. This is the system that Allaah has created to provide for the child in the womb of the mother. The heat of the body is also concentrated internally during the pregnancy period which leaves the outer parts relatively cold and lacking in blood. The normal menstrual cycle also ceases, which in traditional medicine is seen as a sign that there is no need for the woman to lose blood in this period. As a result, if Hijamah is applied in such a stage then great harm is done to the body and to the developing baby, this can easily result in miscarriage.\n\nIt is shocking to me when I hear that women who are pregnant are having Hijamah done, and on more than one occasion I have come to know that this has resulted in miscarriage. The irresponsible Hajjaam then hides behind the claim of \"taqdeer\" when in fact this is medical malpractice and they will be held responsible in the court of Allaah for not adhering to basic medical guidelines in respect of care during pregnancy.\n\nPregnancy is a clear contraindication for Hijamah, it should not be done or even considered during pregnancy and should a Hajjaam either due to ignorance or pursuit of money cause a miscarriage then the Hajjaam is to blame and in my opinion should be charged with a crime by the legal system prevailing in that country."
       },
       "target": {
-        "topic_name": "",
-        "text": ""
-      }
+        "topic_name": "حمل",
+        "text": "حمل میں بچے کی نشوونما کے لیے ماں کے جسم سے غذا اور خون کی فراہمی ضروری ہوتی ہے۔ مصنف بھوک اور خون کی مقدار میں تبدیلی کو اسی عمل سے جوڑتے ہیں۔ روایتی طب کے مطابق وہ کہتے ہیں کہ اس مدت میں حرارت اندرونی حصوں میں رہتی ہے اور باہر کے حصے نسبتاً سرد اور کم خون والے ہوتے ہیں۔ ماہواری کا رکنا بھی وہ خون نہ نکالنے کی علامت سمجھتے ہیں۔ ان کا خیال ہے کہ اس حالت میں حجامہ ماں اور بچے کو نقصان پہنچا سکتا ہے، حتیٰ کہ حمل ضائع ہونے کا خطرہ بھی ہوسکتا ہے۔\n\nمصنف کہتے ہیں کہ انہیں حاملہ عورتوں کا حجامہ ہونے کے واقعات اور اس کے بعد حمل ضائع ہونے کی خبریں ملی ہیں۔ ایسے واقعات سے کسی خاص اسقاط کی وجہ خود بخود ثابت نہیں ہوتی، مگر حمل میں غیر ضروری خون نکالنے اور جلد پر چیرا لگانے سے بچنے کی احتیاط اہم ہے۔ وہ اس صورت میں ’’تقدیر‘‘ کو اپنی غلطی کا عذر بنانے والے غیر ذمہ دار معالجین پر سخت تنقید کرتے ہیں۔\n\nمصنف حمل کو حجامہ نہ کرنے کی واضح وجہ سمجھتے ہیں، اور ان کی رائے ہے کہ غفلت یا مالی فائدے کی خاطر نقصان پہنچانے والے معالج کا قانونی احتساب ہونا چاہیے۔ مقامی قانون اور کسی واقعے کی طبی ذمہ داری کا فیصلہ متعلقہ اداروں کا کام ہے۔"
+      },
+      "status": "done"
     }
   ]
 }

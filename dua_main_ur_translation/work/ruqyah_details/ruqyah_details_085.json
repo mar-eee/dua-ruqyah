@@ -3,7 +3,7 @@
   "chunk": "ruqyah_details_085.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 2,
   "id_range": "169-170",
   "source_chars": 4637,
@@ -27,8 +27,9 @@
       },
       "target": {
         "topic_name": null,
-        "text": ""
-      }
+        "text": "حجامہ کی اہمیت کے لیے صرف ذاتی رائے پر انحصار کرنے کے بجائے متعلقہ روایات دیکھنی چاہییں:\n\n’’حجامہ میں شفا ہے۔‘‘ [Sahih Muslim]\n\n’’تمہارے بہترین علاجوں میں حجامہ ہے۔‘‘ [Sahih Al Bukhari]\n\n’’لوگ جن طریقوں سے علاج کرتے ہیں، ان میں حجامہ نہایت مفید ہے۔‘‘ [Sahih Al Bukhari and Sahih Muslim]\n\nمعراج کی رات فرشتوں کی طرف سے نبی کریم ﷺ کو امت کے لیے حجامہ کی تاکید پہنچنے کی روایت بھی بیان کی جاتی ہے: ’’اے محمد! اپنی امت کو حجامہ کی ترغیب دیجیے۔‘‘ [Sunan Tirmidhi]\n\nرسول اللہ ﷺ نے سر درد کے لیے سر پر [Bukhari]، چوٹ کے بعد پاؤں پر [Ibn Majah]، گردن پر [Abu Dawud]، کولہے کی تکلیف میں کولہے پر [Abu Dawud] اور کندھوں کے درمیان حجامہ کرایا، جیسا کہ مختلف روایات میں ذکر ہے۔ آخری مقام کے بارے میں مصدر نے ’’جسم کی صفائی‘‘ کا مقصد بھی لکھا ہے [Ahmad]، مگر اسے حدیث کے الفاظ نہ سمجھیں۔\n\nعبد اللہ بن عباس رضی اللہ عنہما سے روایت ہے کہ نبی کریم ﷺ نے فرمایا: ’’معراج کی رات فرشتوں کی جس جماعت کے پاس سے گزرا، انہوں نے حجامہ کی تاکید کی۔‘‘ [Sunan Ibn Majah]\n\n’’تم جن بہترین علاجوں سے اپنا علاج کرتے ہو، ان میں حجامہ اور قسطِ بحری شامل ہیں۔‘‘ [Bukhari: 5696]\n\n’’لوگوں کے لیے علاج کے مفید طریقوں میں حجامہ شامل ہے۔‘‘ [Bukhari and Muslim]\n\nابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے حجامہ کو مفید علاجوں میں شمار فرمایا۔ [Sunan Abu Dawud, Sunan Ibn Majah] ان روایات سے ہر بیماری یا ہر شخص کے لیے حجامہ کی طبی موزونیت ثابت نہیں ہوتی۔"
+      },
+      "status": "done"
     },
     {
       "key": [
@@ -48,9 +49,10 @@
         "text": "The simplest method of Hijamah is that used for general health promotion and the Nabi (SAW) used the most common method. In this type of Hijamah there is no serious complaint by the patient that would warrant a special type of Hijamah or the use of \"special\" Hijamah points other than the standard points on the back, neck or head. This is traditionally termed as Hijamah-bi-Sihhat (Hijamah in the condition of health), many also refer to it as \"sunnah cupping\". Both terms are not correct however as the Rasul of Allaah (SAW) had cupping done both in health and as a treatment for particular pains and ailments, and it is also rare to find someone nowadays with absolutely no illness. I prefer the term Hijamah in strength, referring to performing Hijamah for someone who is of general good health and strength.\n\nSuch a patient may however complain of general symptoms such as a feeling of sluggishness, tiredness etc, they may also have a regular habit of doing Hijamah and are aware of the benefits it has for them personally, or they are trying this method of health preservation for the first time under recommendation from their friends or acquaintances. Their general health is good, and very importantly their pulse is strong indicating a healthy amount of blood and also a good amount of heat in the blood. They may also be suffering from a constitutional blood or heat excess as is common in hot climates.\n\nIf the pulse is weak or deep then this type of Hijamah is not indicated as it means that there is deficient blood or the heat of the body is internal and not in the exterior parts of the body. (The method of feeling and interpreting the pulse is detailed in the Hijamah Treatment Guide for Practitioners)\n\nIn this type of Hijamah care is taken to observe the rules of Hijamah with regard to the condition of the patient, as well as the season, climate, day of the lunar month and time of the day in which Hijamah is performed as this greatly influences the nature of blood that will be removed. Not observing these and performing this type of general Hijamah outside of its recommended times will not result in any benefit for the patient and will very often result in long term harm for the patients health. This may not be apparent immediately after the procedure, but will be noticed in the months and even years to come afterward.\n\n<b>When applying Hijamah in the condition of strength the areas being cupped are standard, these are mentioned in the Ahadeeth:</b>\n\n\nAbu Kabsha (Radhiallaahu Anhu) narrates that Rasulullaah (Sallallaahu Alayhi Wasallam) used to undergo cupping on the head and between his shoulders and he used to say, 'Whosoever removes this blood, it will not harm him that he does not take any other medical treatment.' (Mishkāt p. 389)\n\n<b>From examining the various Ahadeeth and by consensus of those experienced practitioners of Hijamah the areas used in this general form of Hijamah are;</b>"
       },
       "target": {
-        "topic_name": "",
-        "text": ""
-      }
+        "topic_name": "تعارف",
+        "text": "عمومی صحت کے لیے حجامہ کا سب سے سادہ طریقہ عام مقامات پر کیا جاتا ہے؛ مصنف کے مطابق نبی کریم ﷺ نے بھی معروف مقامات پر حجامہ کرایا۔ اس صورت میں مریض کو کوئی خاص تکلیف نہیں ہوتی جس کے لیے سر، گردن یا پشت کے معمول کے مقامات کے علاوہ مخصوص مقام چننا پڑے۔ اسے بعض لوگ ’’حجامہ بالصحت‘‘ یا ’’سنت حجامہ‘‘ کہتے ہیں۔ مصنف دونوں اصطلاحات کو نامناسب سمجھتے ہیں، کیونکہ رسول اللہ ﷺ نے صحت کی حالت میں بھی اور مخصوص درد یا مرض کے علاج کے لیے بھی حجامہ کرایا تھا۔ وہ عمومی صحت اور قوت رکھنے والے شخص کے لیے ’’حالتِ قوت میں حجامہ‘‘ کی اصطلاح پسند کرتے ہیں۔\n\nایسے شخص کو کبھی سستی یا تھکن جیسی عمومی شکایت ہوسکتی ہے۔ کوئی ذاتی تجربے کی بنا پر باقاعدہ حجامہ کراتا ہے، اور کوئی دوستوں کے مشورے سے پہلی بار آزماتا ہے۔ مصنف کے روایتی طبی معیار کے مطابق اس کی عمومی صحت اچھی، نبض مضبوط، خون کی مقدار مناسب اور جسم میں حرارت کافی ہونی چاہیے۔ گرم علاقوں میں بعض افراد میں، اس تعبیر کے مطابق، خون یا حرارت کی زیادتی ہوسکتی ہے۔\n\nاگر نبض کمزور یا گہری ہو تو مصنف اسے اس قسم کے حجامہ کے لیے مناسب نہیں سمجھتے؛ ان کے مطابق یہ خون کی کمی یا جسم کے اندرونی حصوں میں حرارت رہنے کی علامت ہوسکتی ہے۔ نبض جانچنے اور اس کی تعبیر کی تفصیل اہلِ عمل کے لیے حجامہ کے رہنما میں دی گئی ہے۔ نبض سے ایسے نتائج اخذ کرنا مستند طبی تشخیص کا بدل نہیں۔\n\nمصنف مریض کی حالت کے ساتھ موسم، آب و ہوا، قمری تاریخ اور دن کے وقت کو بھی اہم قرار دیتے ہیں۔ ان کے خیال میں ناموافق وقت پر عمومی حجامہ فائدہ نہیں دیتا اور بعد کے مہینوں یا برسوں میں نقصان بھی ہوسکتا ہے۔ یہ روایتی رائے ہے؛ فیصلہ صحت کی جانچ اور تربیت یافتہ ماہر کے مشورے سے کریں۔\n\n<b>مصنف کے مطابق حالتِ قوت میں حجامہ کے لیے روایات میں یہ عام مقامات ملتے ہیں:</b>\n\nابو کبشہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ سر اور دونوں کندھوں کے درمیان حجامہ کراتے تھے اور فرماتے تھے کہ اس مقام سے خون نکالنے والے کے لیے دوسرے علاج نہ لینے میں مضائقہ نہیں۔ [Mishkat p. 389]\n\n<b>ان روایات اور تجربہ کار حجامہ کرنے والوں کی رائے کے مطابق عام حجامہ کے مقامات یہ ہیں:</b>"
+      },
+      "status": "done"
     }
   ]
 }

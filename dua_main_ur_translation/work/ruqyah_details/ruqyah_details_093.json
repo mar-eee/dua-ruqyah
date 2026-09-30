@@ -3,7 +3,7 @@
   "chunk": "ruqyah_details_093.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 4,
   "id_range": "190-193",
   "source_chars": 5157,
@@ -26,9 +26,10 @@
         "text": "Of these only the Fire, Wood and to a lesser extent Earth constitutions are suited to regular Hijamah. These constitutions display an excess of either (liver/ heart) heat and blood in the case of the fire type, (liver) heat and stagnation in the case of the wood type, or stagnation and (stomach) heat in the case of the Earth type. They therefore benefit tremendously from Hijamah done as a general health preservation modality.\n\nFor the other constitutions, Hijamah is not generally indicated and if done must be done keeping in mind the principles of Hijamah done in illness. Too much blood must also not be removed as these individuals are already either deficient in blood (metal type) or deficient in heat (water type). There are times however when Hijamah applied in specific areas and for specific illnesses can be beneficial."
       },
       "target": {
-        "topic_name": "",
-        "text": ""
-      }
+        "topic_name": "حجامہ کے لیے موزوں سمجھے جانے والے مزاج",
+        "text": "مصنف کے روایتی مزاجی نظام میں آتشیں، لکڑی والا اور کسی حد تک خاکی مزاج ہی باقاعدہ عمومی حجامہ کے لیے موزوں سمجھے جاتے ہیں۔ ان کے مطابق آتشیں مزاج میں جگر یا دل کی ’’حرارت‘‘ اور خون کی زیادتی، لکڑی والے میں جگر کی حرارت اور جمود، اور خاکی میں معدے کی حرارت اور جمود ہوتا ہے؛ اسی لیے وہ عمومی صحت کے حجامہ سے خاص فائدے کا دعویٰ کرتے ہیں۔\n\nدھاتی اور آبی مزاج کے لیے وہ عمومی حجامہ مناسب نہیں سمجھتے۔ اگر کسی خاص بیماری میں کیا جائے تو کم خون نکالنے اور بیماری والے حجامہ کے اصول اپنانے کو کہتے ہیں، کیونکہ ان کے خیال میں ایک قسم میں خون اور دوسری میں حرارت کم ہوتی ہے۔ بعض مخصوص مقامات اور بیماریوں میں فائدے کا امکان بھی بیان کرتے ہیں۔ یہ مزاجی اصول مستند طبی جانچ کا بدل نہیں۔"
+      },
+      "status": "done"
     },
     {
       "key": [
@@ -48,9 +49,10 @@
         "text": "In TCM, one method of understanding the basic nature of an illness is to assess the ailment in terms of the \"8 patterns\". These are in fact 4 sets of opposing concepts viz.\n\nHot / Cold\nInternal / External \nExcess / Deficiency\nYin / Yang\n\nWhen determining if an illness is suited to treatment by Hijamah we are mostly concerned with 2 of these sets, viz. hot/cold and excess/deficiency. There are a number of ways to determine and differentiate how the ailment relates to these concepts such as through asking about the presenting symptoms, as well as looking at the tongue and feeling the pulse.\n\nPulse and tongue diagnosis are specialist fields that require practical training and therefore full detail is not provided on these aspects of diagnosis. Briefly, for Hijamah to be suitable for the ailment, the pulse should be rapid, floating or surging, not slow, deep or weak, it also should not be floating and hollow in the center.\n\nAsking about the symptoms in order to determine the nature of the illness is a method that is accessible to most and can provide enough information in the majority of cases to come to a diagnosis vis. a vie the pattern of illness.\n\nWhen determining heat we differentiate between excess heat or deficient heat.\n\nExcess heat has the following characteristics: Main Signs: Fever (sometimes), thirst, red face, red eyes, constipation. Urine is scanty and dark.\n\nPulse: Rapid and Full\nTongue: Red with a yellow coating\n\nThe following are some general signs of an Excess Heat pattern though the exact symptoms depend on the organ(s) affected.\n\n<b>1.</b> Raised, red skin eruption that feels hot e.g. acute urticaria \n\n<b>2.</b> Any burning painful sensation e.g. urine or stomach pain \n\n<b>3.</b> Loss of blood with large quantities of bright red blood indicates Heat in the Blood\n\n<b>4.</b> Extreme mental restlessness/manic behavior (Heat in the Heart) \n\n<b>5.</b> Thick, yellow, sticky, malodorous secretions/ excretions\n\nExcess Heat patterns are caused by excess of energy and blood in the body and individuals presenting with this type of pattern will respond very well to Hijamah."
       },
       "target": {
-        "topic_name": "",
-        "text": ""
-      }
+        "topic_name": "تعارف",
+        "text": "روایتی چینی طب میں بیماری کی نوعیت سمجھنے کے لیے ’’8 نمونوں‘‘ کا تصور ہے۔ یہ دراصل 4 متقابل جوڑے ہیں:\n\nگرم / سرد\nاندرونی / بیرونی\nزیادتی / کمی\nیین / یانگ\n\nحجامہ کی موزونیت کے لیے مصنف ان میں سے 2 جوڑوں، یعنی گرم/سرد اور زیادتی/کمی، پر زیادہ توجہ دیتے ہیں۔ علامات پوچھنے، زبان دیکھنے اور نبض محسوس کرنے سے، اس نظام کے مطابق، ان میں فرق کرنے کی کوشش کی جاتی ہے۔\n\nنبض اور زبان کی تعبیر خصوصی عملی تربیت مانگتی ہے، اس لیے یہاں تفصیل نہیں۔ مختصراً مصنف کہتے ہیں کہ موزونیت کی صورت میں نبض تیز، سطح پر محسوس ہونے والی یا زور دار ہو؛ سست، گہری، کمزور یا سطح پر مگر درمیان سے کھوکھلی نہ ہو۔ یہ روایتی تشخیصی اشارے ہیں، طبی جانچ کی جگہ نہیں لیتے۔\n\nان کے مطابق اکثر معاملات میں علامات پوچھ کر مرض کے نمونے کا ابتدائی اندازہ لگایا جاسکتا ہے۔\n\nحرارت کو اس نظریے میں ’’زیادتی والی‘‘ اور ’’کمی سے پیدا ہونے والی‘‘ دو صورتوں میں بانٹتے ہیں۔\n\nزیادتی والی حرارت کی اہم نشانیاں: کبھی بخار، پیاس، سرخ چہرہ یا آنکھیں، قبض، کم اور گہرا پیشاب۔\n\nنبض: تیز اور بھری ہوئی۔\nزبان: سرخ، اس پر پیلی تہہ۔\n\nمتاثرہ عضو کے لحاظ سے فرق ہوسکتا ہے؛ عمومی نشانیاں یہ بیان کی جاتی ہیں:\n\n<b>1.</b> ابھرا ہوا سرخ اور گرم محسوس ہونے والا دانہ یا چھپاکی۔\n\n<b>2.</b> جلن کے ساتھ درد، مثلاً پیشاب یا معدے میں۔\n\n<b>3.</b> بہت زیادہ روشن سرخ خون نکلنا، جسے روایتی طور پر ’’خون میں حرارت‘‘ کہا جاتا ہے۔\n\n<b>4.</b> شدید ذہنی بے چینی یا انفعالی رویہ، جسے ’’دل کی حرارت‘‘ سے منسوب کیا جاتا ہے۔\n\n<b>5.</b> گاڑھا، پیلا، چپچپا اور بدبو دار اخراج۔\n\nاس نظام کے مطابق ایسی کیفیت جسم میں توانائی اور خون کی زیادتی سے پیدا ہوتی ہے اور مصنف اس میں حجامہ کے اچھے نتیجے کا دعویٰ کرتے ہیں۔ یہ دعویٰ ثابت شدہ تشخیص نہیں۔"
+      },
+      "status": "done"
     },
     {
       "key": [
@@ -70,9 +72,10 @@
         "text": "Main Signs: Afternoon fever or feeling of heat in afternoon, dry mouth, dry throat at night, night sweats, fever in 5 hearts, dry stools, scanty-dark urine, mental restlessness and fidgeting, vague anxiety. (More specific signs depend on Organ involved)\n\nPulse: Floating-Empty and Rapid or Thin and Rapid Tongue: Red, in severe cases peeled. No Coating.\n\n<b>Other signs that may be present:</b>\n\n\nDeficiency heat affecting the Lung - Malar flush, dry cough.\n\nDeficiency heat affecting the Liver - Headaches, dry eyes, irritability.\n\nDeficiency heat affecting the Heart - palpitations, insomnia and feelings of restlessness.\n\nDeficiency heat can be caused by many factors, stress being a major one. Excessive sexual indulgence, overwork, smoking, alcohol and drug abuse, all deplete the fluids and give rise to this type of heat as well. Long-standing emotional distress can also cause this pattern.\n\nSuch patients are suited to Hijamah but only with small quantities of blood removed. If the patient is suffering from excessive sweating then Hijamah is contraindicated."
       },
       "target": {
-        "topic_name": "",
-        "text": ""
-      }
+        "topic_name": "کمی سے پیدا ہونے والی حرارت کی نشانیاں",
+        "text": "اہم نشانیاں: دوپہر کے بعد بخار یا گرمی محسوس ہونا، منہ خشک ہونا، رات کو گلا خشک ہونا، رات کا پسینہ، ’’5 مقامات کی حرارت‘‘ کا احساس، خشک پاخانہ، کم اور گہرا پیشاب، ذہنی بے چینی، بار بار حرکت کرنا اور غیر واضح گھبراہٹ۔ متاثرہ عضو کے لحاظ سے دوسری نشانیاں بھی ہوسکتی ہیں۔\n\nنبض: سطح پر مگر کمزور اور تیز، یا باریک اور تیز۔\nزبان: سرخ؛ شدید حالت میں سطح اتری ہوئی اور تہہ غائب۔\n\n<b>دوسری ممکنہ نشانیاں:</b>\n\nپھیپھڑوں سے منسوب کمی: گال سرخ ہونا اور خشک کھانسی۔\n\nجگر سے منسوب کمی: سر درد، خشک آنکھیں اور چڑچڑاپن۔\n\nدل سے منسوب کمی: دھڑکن، بے خوابی اور بے قراری۔\n\nمصنف کے مطابق اس روایتی کیفیت کی کئی وجوہ ہوسکتی ہیں، جن میں ذہنی دباؤ اہم ہے۔ وہ زیادہ جنسی سرگرمی، حد سے زیادہ کام، تمباکو، شراب، منشیات اور طویل جذباتی پریشانی کو بھی جسمانی مائعات کی کمی سے جوڑتے ہیں۔\n\nوہ ایسے افراد کے لیے صرف تھوڑی مقدار میں خون نکال کر حجامہ کا مشورہ دیتے ہیں؛ بہت زیادہ پسینہ آنے کی صورت میں اسے منع کرتے ہیں۔ یہ مزاجی اندازہ طبی تشخیص کا بدل نہیں۔"
+      },
+      "status": "done"
     },
     {
       "key": [
@@ -92,9 +95,10 @@
         "text": "Irrespective of the constitution, circulation problems are well treated by Hijamah provided that the area affected is treated directly. In order to determine if the circulation is affected in a particular area of the body, the practitioner will have to take a thorough history and examine the area. Though full detail is beyond the scope of this book and must be learned through a course in clinical diagnostic skills in addition to other subjects, there are some signs that indicate poor circulation, viz:\n\n<b>1.</b> The are feels cold to the touch when compared to other areas.\n\n<b>2.</b> There are prominent spider veins which appear purplish in nature.\n\n<b>3.</b> The patient experiences pain of a sharp and stabbing nature in the area.\n\n<b>4.</b> There are purple spots on the tongue corresponding with the affected body area.\n\nIn these cases Hijamah may be beneficial though some special techniques must be employed such as bleeding of the spider veins etc. (This is detailed in the Hijamah Treatment Guide for Practitioners)"
       },
       "target": {
-        "topic_name": "",
-        "text": ""
-      }
+        "topic_name": "دورانِ خون کے مسائل",
+        "text": "مصنف کے مطابق مزاج کی قسم کچھ بھی ہو، اگر کسی خاص حصے میں دورانِ خون کا مسئلہ ہو تو اسی مقام پر حجامہ فائدہ دے سکتا ہے۔ اس کے لیے معالج کو مکمل طبی تاریخ لینی اور متعلقہ جگہ کا معائنہ کرنا چاہیے۔ مفصل جانچ اس کتاب کے دائرے سے باہر ہے اور باقاعدہ طبی تربیت چاہتی ہے۔ مصنف چند نشانیاں گنواتے ہیں:\n\n<b>1.</b> جسم کے دوسرے حصوں کے مقابلے میں وہ جگہ چھونے پر ٹھنڈی ہو۔\n\n<b>2.</b> جامنی رنگ کی باریک نمایاں رگیں، یعنی اسپائیڈر وینز، نظر آئیں۔\n\n<b>3.</b> اس جگہ تیز، چبھتا ہوا درد ہو۔\n\n<b>4.</b> زبان پر اس حصے سے منسوب جامنی دھبے ہوں۔\n\nمصنف بعض ایسی صورتوں میں اسپائیڈر وینز سے خون نکالنے جیسے خصوصی طریقوں کا ذکر کرتے ہیں؛ تفصیل معالجین کے لیے رہنما میں ہے۔ دورانِ خون کا مسئلہ ہو تو خود سے رگ نہ چھیڑیں، بلکہ طبی معائنہ کروائیں۔"
+      },
+      "status": "done"
     }
   ]
 }

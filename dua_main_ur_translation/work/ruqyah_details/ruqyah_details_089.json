@@ -3,7 +3,7 @@
   "chunk": "ruqyah_details_089.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 3,
   "id_range": "176-178",
   "source_chars": 3895,
@@ -26,9 +26,10 @@
         "text": "As is discussed above, Hijamah is not without its risks, and it is not for everybody to undertake. The Hajjaam must see that the patient is fit for Hijamah and must know how to adapt the procedure based on the constitution of the patient and their current state of health. This is also borne out by the hadith:\n\nJabir bin Abdullaah (RA) relates that he heard Rasulullaah (SAW) saying: \"If there is any good in your treatments it is in the blade of the Hajjaam, a drink of honey or branding by fire (cauterisation/ moxibustion), whichever suits the ailment, and I do not like to be cauterized\" (Bukhari & Muslim)\n\nThis hadith infers that one must know if Hijamah is the best treatment for the patient, or another treatment would be more suitable. It is interesting to note that in this same hadith the 3 main principles of treatment are referred to, viz, supplementing (with honey), draining heat (by Hijamah) and treating cold and stasis (with fire).\n\nIn order to know if Hijamah will suit the patient the Hajjaam must first know the contraindications and precautions for practicing Hijamah. Contraindications being those conditions if present, in which Hijamah should not be done and precautions being those in which it is not prohibited, but caution should be observed, especially in terms of how much blood is removed."
       },
       "target": {
-        "topic_name": "",
-        "text": ""
-      }
+        "topic_name": "تعارف",
+        "text": "جیسا کہ اوپر بیان ہوا، حجامہ بے خطر نہیں اور ہر شخص کے لیے مناسب بھی نہیں۔ حجامہ کرنے والے کو مریض کی حالت، طبی تاریخ اور موجودہ صحت جانچ کر فیصلہ کرنا چاہیے کہ یہ عمل مناسب ہے یا نہیں، اور اگر ہو تو طریقہ کیسے بدلے گا۔ متعلقہ حدیث میں بھی علاج کے مرض کے موافق ہونے کا ذکر ہے:\n\nجابر بن عبد اللہ رضی اللہ عنہما سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ’’اگر تمہارے علاجوں میں بھلائی ہے تو حجامہ کے آلے میں، شہد پینے میں یا آگ سے داغنے میں ہے، جب وہ مرض کے موافق ہو؛ اور میں داغنے کو پسند نہیں کرتا۔‘‘ [Bukhari & Muslim]\n\nمصنف اس سے یہ اصول اخذ کرتے ہیں کہ مریض کے لیے حجامہ بہتر ہے یا کوئی اور علاج، یہ سمجھنا ضروری ہے۔ وہ اسی روایت میں علاج کی 3 روایتی جہتیں دیکھتے ہیں: شہد کے ذریعے تقویت، حجامہ کے ذریعے ’’حرارت نکالنا‘‘، اور داغنے کے ذریعے ’’سردی یا جمود‘‘ کا علاج۔ یہ ان کی طبی تعبیر ہے، حدیث کے صریح الفاظ نہیں۔\n\nموزونیت جاننے کے لیے معالج کو حجامہ کی ممانعتوں اور احتیاطوں کا علم ہونا چاہیے۔ ممانعت سے مراد ایسی حالت ہے جس میں عمل نہ کیا جائے؛ احتیاط وہ صورت ہے جس میں عمل ممکن تو ہو، مگر خاص طور پر نکالے جانے والے خون کی مقدار اور دوسرے خطرات کا خیال رکھنا پڑے۔"
+      },
+      "status": "done"
     },
     {
       "key": [
@@ -48,9 +49,10 @@
         "text": "“Do not bleed the one who is sweating, do not sweat the one who is bleeding”\n\nThe first rule of preventing adverse effects of Hijamah is not to perform the procedure for a person who is suffering from excessive perspiration. In traditional medicine this is understood as a weakness of the body in its ability to hold the pores closed, which therefore results in excessive and easy perspiration. (This should not be confused with night sweats which are a different phenomenon mostly due to heat forcing the pores open at night.)\n\nA person who suffers from easy and excessive sweating is already suffering from a loss of body fluids and bleeding such a person will only aggravate this condition. They will also tend to bleed more easily and may exhibit excessive and uncontrolled blood loss should Hijamah be performed. Excessive sweating, or hyperhidrosis, can be a warning sign of thyroid problems, diabetes or infection. It is also more common in people who are overweight or out of shape. Such an individual is not normally suffering from an \"excess heat\" type of condition where Hijamah is indicated.\n\nThe second part of this precaution, viz. do not sweat the one who is one bleeding, means that medication which is used to cause sweating (diaphoretics) should not be used in a person who is bleeding (as it will increase blood loss unnecessarily)."
       },
       "target": {
-        "topic_name": "",
-        "text": ""
-      }
+        "topic_name": "بہت زیادہ پسینہ آنا",
+        "text": "’’جسے بہت پسینہ آتا ہو اس کا خون نہ نکالو، اور جس سے خون بہہ رہا ہو اسے پسینہ نہ دلاؤ۔‘‘\n\nمصنف حجامہ کے نقصان سے بچنے کے لیے پہلے اصول کے طور پر بہت زیادہ پسینہ آنے والے شخص کا حجامہ نہ کرنے کو کہتے ہیں۔ روایتی طب میں اسے جسم کے مسام بند رکھنے کی کمزوری سمجھا جاتا ہے؛ اسے رات کے پسینے سے الگ کیفیت بتایا جاتا ہے۔\n\nمصنف کے مطابق شدید پسینے سے جسمانی مائعات پہلے ہی کم ہورہے ہوتے ہیں، اس لیے خون نکالنا کمی بڑھا سکتا ہے؛ انہیں زیادہ یا بے قابو خون بہنے کا خدشہ بھی بیان کرتے ہیں۔ بہت زیادہ پسینہ آنا بعض اوقات تھائرائڈ کے مسئلے، ذیابیطس یا انفیکشن کی علامت ہوسکتا ہے، اور زیادہ وزن یا کم جسمانی سرگرمی والے افراد میں بھی پایا جاتا ہے۔ ایسے شخص کو روایتی اصطلاح میں لازماً ’’حرارت کی زیادتی‘‘ والا مریض نہ سمجھیں؛ اصل وجہ کی طبی جانچ ضروری ہے۔\n\nاصول کا دوسرا حصہ یہ ہے کہ جس شخص سے خون بہہ رہا ہو اسے پسینہ لانے والی دوائیں نہ دی جائیں، کیونکہ مصنف کے مطابق اس سے غیر ضروری خون کی کمی بڑھ سکتی ہے۔ دوا کے بارے میں فیصلہ طبی ماہر کرے۔"
+      },
+      "status": "done"
     },
     {
       "key": [
@@ -70,9 +72,10 @@
         "text": "Hemophilia is a genetic disorder that impairs the body's ability to control blood clotting or coagulation, which is used to stop bleeding when a blood vessel is broken, or to heal the incision that is created by the Hajjaam. It is more common in males than females and is characterized by lower blood plasma clotting factor levels of the coagulation factors needed for a normal clotting process.\n\nThus when a blood vessel is injured, a temporary scab does form, but the missing coagulation factors prevent fibrin formation, which is necessary to maintain the blood clot. A hemophiliac does not bleed more intensely than a person without it, but can bleed for a much longer time. In severe hemophiliacs even a minor incision from Hijamah can result in blood loss lasting days or weeks, or even never healing completely. \n\nFor this reason it is not recommended to perform Hijamah on a hemophiliac, unless it is in association with their medical practitioner who understands the severity and nature of the patients hemophilia and regards Hijamah as safe for the patient.\n\nThe Hajjaam should take a proper history of the patient in order to determine if the patient is a hemophiliac."
       },
       "target": {
-        "topic_name": "",
-        "text": ""
-      }
+        "topic_name": "ہیموفیلیا",
+        "text": "ہیموفیلیا ایک موروثی بیماری ہے جس میں خون جمنے کا عمل متاثر ہوتا ہے۔ رگ کو چوٹ لگنے یا حجامہ کا چیرا بھرنے کے لیے خون کا جمنا ضروری ہے۔ یہ بیماری مردوں میں نسبتاً زیادہ پائی جاتی ہے اور اس میں خون جمانے والے عوامل کی مقدار یا کارکردگی کم ہوتی ہے۔\n\nرگ زخمی ہو تو عارضی بندش بن سکتی ہے، مگر متعلقہ عوامل کی کمی سے مضبوط جالا، یعنی فائبِرن، ٹھیک طرح نہیں بنتا۔ ہیموفیلیا کے مریض کا خون لازماً زیادہ تیزی سے نہیں بہتا، مگر دیر تک بہہ سکتا ہے۔ شدید حالت میں حجامہ کا معمولی چیرا بھی کئی دن یا ہفتوں تک خون بہنے، یا زخم دیر سے بھرنے کا سبب بن سکتا ہے۔\n\nاس لیے ہیموفیلیا کے مریض کو حجامہ نہ کرائیں، الا یہ کہ اس کے علاج کرنے والے طبی ماہر نے بیماری کی نوعیت اور شدت دیکھ کر اسے محفوظ قرار دیا ہو۔ حجامہ کرنے والے کو مریض کی طبی تاریخ ضرور معلوم کرنی چاہیے۔"
+      },
+      "status": "done"
     }
   ]
 }
