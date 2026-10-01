@@ -1,6 +1,6 @@
 # Urdu Translation Work Status
 
-Generated: `2026-10-01T22:26:43+09:00`
+Generated: `2026-10-01T22:47:46+09:00`
 
 > Status is calculated from work files. It does not treat the partial chunk index as the full project scope.
 
@@ -17,15 +17,15 @@ Generated: `2026-10-01T22:26:43+09:00`
 | `duas` | EN | 1001 | 64/64 | 2834/2834 | translated/declared done; review gate still required |
 | `ruqyah_instants` | EN | 308 | 1/20 | 54/939 | in progress |
 | `ruqyah_details` | EN | 200 | 35/95 | 139/307 | in progress |
-| `dua_infos` | BN | 42 | 25/70 | 89/238 | in progress |
+| `dua_infos` | BN | 42 | 30/70 | 103/238 | in progress |
 | `book_details` | BN | 86 | 0/49 | 0/176 | pending |
 | `ids` | BN | 1001 | n/a | n/a | preserve and verify |
 | `drawer_item_actions` | EN | 0 | n/a | n/a | preserve and verify |
 
 ## Totals
 
-- Existing indexed chunks declared done: **140/313 (44.7%)**
-- Existing indexed target fields filled: **3739/5117 (73.1%)**
+- Existing indexed chunks declared done: **145/313 (46.3%)**
+- Existing indexed target fields filled: **3753/5117 (73.3%)**
 - Required tables missing from the index: **none**
 - Final build: **BLOCKED**
 - Natural-Urdu review: **not inferable from filled fields; record review evidence per chunk**
