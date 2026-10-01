@@ -308,11 +308,11 @@ Source: **BN** · fields: `name`, `description` · key: `id`
 | [x] | `work/dua_infos/dua_infos_018.json` | 1 | 9-9 | 5,495 | 3 |
 | [x] | `work/dua_infos/dua_infos_019.json` | 1 | 9-9 | 5,164 | 3 |
 | [x] | `work/dua_infos/dua_infos_020.json` | 2 | 9-10 | 4,910 | 2 |
-| [ ] | `work/dua_infos/dua_infos_021.json` | 2 | 11-12 | 5,623 | 3 |
-| [ ] | `work/dua_infos/dua_infos_022.json` | 1 | 12-12 | 5,427 | 3 |
-| [ ] | `work/dua_infos/dua_infos_023.json` | 2 | 13-14 | 5,951 | 2 |
-| [ ] | `work/dua_infos/dua_infos_024.json` | 1 | 15-15 | 4,842 | 3 |
-| [ ] | `work/dua_infos/dua_infos_025.json` | 1 | 15-15 | 5,405 | 4 |
+| [x] | `work/dua_infos/dua_infos_021.json` | 2 | 11-12 | 5,623 | 3 |
+| [x] | `work/dua_infos/dua_infos_022.json` | 1 | 12-12 | 5,427 | 3 |
+| [x] | `work/dua_infos/dua_infos_023.json` | 2 | 13-14 | 5,951 | 2 |
+| [x] | `work/dua_infos/dua_infos_024.json` | 1 | 15-15 | 4,842 | 3 |
+| [x] | `work/dua_infos/dua_infos_025.json` | 1 | 15-15 | 5,405 | 4 |
 | [ ] | `work/dua_infos/dua_infos_026.json` | 1 | 16-16 | 2,741 | 1 |
 | [ ] | `work/dua_infos/dua_infos_027.json` | 1 | 17-17 | 4,939 | 1 |
 | [ ] | `work/dua_infos/dua_infos_028.json` | 1 | 18-18 | 5,461 | 3 |
