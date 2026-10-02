@@ -3277,6 +3277,73 @@
         "note": "Corrected only IDs 94, 99, 108, 110, 115 and 116: Indonesian grammar in the final paragraph (94); knight as kesatria (99); scope of a certain level across faith and religious practice (108); future-completed time frame (110); removed unsupported ownership wording from the Masjid Humera descriptor (115); made avoidance apply unambiguously to both major sins and repeated minor sins (116). All seven topic names and remaining 34 records retained. Documented source anomalies, incomplete quotations and references remain unchanged. Python unavailable; Node.js reproduced the existing rebuild procedure.",
         "cleanup": "Temporary review backup/state, validator, results and dua_main_id_rebuilt.sqlite removed after verification."
       }
+    },
+    "dua_main_id_planned_json/tables/ruqyah_details/ruqyah_details_004.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "previous_status": "pending",
+      "translated_fields": [
+        "text",
+        "topic_name"
+      ],
+      "source": "Exact ruqyah_details IDs in dua_main_en.sqlite",
+      "reference_rule": "English references, gradings and bibliographic titles preserved verbatim; no separate reference field.",
+      "transliteration_rule": "Transliterations copied verbatim; display labels translated.",
+      "unchanged_fields_by_instruction": [
+        "id",
+        "topic_id",
+        "cat_id",
+        "subcat_id"
+      ],
+      "rows": 40,
+      "id_range": "121-160",
+      "updated_at": "2026-10-02",
+      "verification": "All 40 exact English IDs (121-160), all 40 text fields and 13 non-null topic_name fields translated and independently rechecked line by line against dua_main_en.sqlite and README.md. Instructions, warnings, conditions, sequences, negations, religious statements, terminology, names and honorifics reviewed. JSON/UTF-8, 2-space indentation, trailing newline, row/key order, nullness and protected fields pass. All 471 paragraph segments, newline runs, whitespace edges, digits, double quotation marks, parentheses counts, 33 Arabic blocks and Arabic characters, 12 transliterations and protected references verified. Both U+200B characters at ID 136 preserved; no U+2028, U+2029 or U+0085 line separators occur in this source chunk. Repaired 31 malformed closing bold tags at ID 122 under the latest instruction to correct broken HTML; all other HTML tags preserved and nesting passes. No Bengali, unintended English prose, unresolved temporary placeholders or broken newline escapes. Remaining English is protected citations/gradings, reference titles, names, transliterations and explicitly identified terminology. Equivalent Node.js rebuild passed; reopened integrity_check ok; all 15 tables / 3082 rows exactly match JSON; schema SQL, sequences and pragmas verified. SHA-256 checks confirm every other translation file, source database, Indonesian schema metadata and rebuild script unchanged.",
+      "note": "Second-pass corrections: repaired source HTML (122); restored the scope of the authenticity claim (123); retained normality wording (124); standardized habbatussauda and clarified digestive gas as perut kembung (128); clarified divine will and restored explanatory parentheses (129); preserved parentheses structure in honey etymology wording (130); avoided restricting other diseases to hair and preserved parenthesis count (131); corrected dry-spitting instruction (132); corrected a couple of years to approximately two years (134); removed unsupported oil specification for musk (136); restored parentheses (138), parenthetical gloss (139) and healer description (140); removed an unsupported between-the-sermons restriction (141); corrected regularity versus frequency and Indonesian wording (147); refined bracketed Quran translation grammar and immersion wording (149); removed unsupported scholar/two-form specifications (160). All 40 records and 13 topic names reviewed; remaining records retained after the first pass. English source used for every ID; no Bengali fallback. Source anomalies retained rather than silently rewriting meaning: differing senna quantities/timing and hair-spread wording (123-124), original narration/citation spellings, honey etymology claim (130), repeated ingredient sequence (136), magician wording (137), Israa description (139), damaged honorific legalaw resolved as an honorific and original mismatched citation bracket retained (142), first/third-person statement (158), and the original medical claims and advice throughout. Original incomplete quotation marks retained as requested. Python is unavailable; Node.js reproduced the repository rebuild procedure.",
+      "second_pass": {
+        "status": "complete",
+        "reviewed_at": "2026-10-02",
+        "rows": 40,
+        "reviewed_fields": [
+          "text",
+          "topic_name"
+        ],
+        "non_null_topic_names": 13,
+        "corrected_ids": [
+          122,
+          123,
+          124,
+          128,
+          129,
+          130,
+          131,
+          132,
+          134,
+          136,
+          138,
+          139,
+          140,
+          141,
+          147,
+          149,
+          160
+        ]
+      },
+      "repaired_source_html_issues": [
+        {
+          "id": 122,
+          "repaired_closing_bold_tags": 31,
+          "status": "Repaired under latest instruction to correct broken HTML; all other markup preserved"
+        }
+      ],
+      "unicode_preservation": {
+        "zero_width_spaces": 2,
+        "ids": [
+          136
+        ],
+        "status": "Both U+200B characters and all original newline runs preserved"
+      },
+      "cleanup": "All .r004 task temporary files and dua_main_id_rebuilt.sqlite removed after successful verification."
     }
   }
 }
