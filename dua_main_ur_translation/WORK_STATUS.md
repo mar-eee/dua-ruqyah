@@ -1,6 +1,6 @@
 # Urdu Translation Work Status
 
-Generated: `2026-10-02T05:35:07+09:00`
+Generated: `2026-10-02T21:28:34+09:00`
 
 > Status is calculated from work files. It does not treat the partial chunk index as the full project scope.
 
@@ -17,22 +17,22 @@ Generated: `2026-10-02T05:35:07+09:00`
 | `duas` | EN | 1001 | 64/64 | 2834/2834 | translated/declared done; review gate still required |
 | `ruqyah_instants` | EN | 308 | 1/20 | 54/939 | in progress |
 | `ruqyah_details` | EN | 200 | 35/95 | 139/307 | in progress |
-| `dua_infos` | BN | 42 | 40/70 | 137/238 | in progress |
+| `dua_infos` | BN | 42 | 45/70 | 158/238 | in progress |
 | `book_details` | BN | 86 | 0/49 | 0/176 | pending |
 | `ids` | BN | 1001 | n/a | n/a | preserve and verify |
 | `drawer_item_actions` | EN | 0 | n/a | n/a | preserve and verify |
 
 ## Totals
 
-- Existing indexed chunks declared done: **155/313 (49.5%)**
-- Existing indexed target fields filled: **3787/5117 (74.0%)**
+- Existing indexed chunks declared done: **160/313 (51.1%)**
+- Existing indexed target fields filled: **3808/5117 (74.4%)**
 - Required tables missing from the index: **none**
 - Final build: **BLOCKED**
 - Natural-Urdu review: **not inferable from filled fields; record review evidence per chunk**
 
 ## Next action
 
-Continue with `work/ruqyah_instants/ruqyah_instants_002.json`, then run the per-file verifier and naturalness review.
+Continue with `work/dua_infos/dua_infos_046.json`, then run the per-file verifier and naturalness review.
 
 ## Completion rule
 
