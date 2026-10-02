@@ -2,91 +2,91 @@
   {
     "id": 1,
     "type": "RUQYAH",
-    "name": "Introduction to Ruqyah",
+    "name": "Pengenalan ruqyah",
     "icon": "abt_ruqya"
   },
   {
     "id": 2,
     "type": "INSTANT",
-    "name": "Instant Ruqyah",
+    "name": "Ruqyah langsung",
     "icon": "do_ruqya"
   },
   {
     "id": 3,
     "type": "RUQYAH",
-    "name": "Protect Yourself From Jinn",
+    "name": "Lindungi diri dari jin",
     "icon": "jin"
   },
   {
     "id": 4,
     "type": "RUQYAH",
-    "name": "Black Magic (Sihr)",
+    "name": "Ilmu hitam (sihir)",
     "icon": "jadu-tona"
   },
   {
     "id": 5,
     "type": "RUQYAH",
-    "name": "Evil Eye & Envy",
+    "name": "Penyakit ain dan iri hati",
     "icon": "bodnozor"
   },
   {
     "id": 6,
     "type": "RUQYAH",
-    "name": "About Raqi",
+    "name": "Tentang peruqyah",
     "icon": "raqi"
   },
   {
     "id": 7,
     "type": "RUQYAH",
-    "name": "Ruqyah Materials",
+    "name": "Bahan-bahan ruqyah",
     "icon": "upokoron"
   },
   {
     "id": 8,
     "type": "RUQYAH",
-    "name": "7-day detoxification program",
+    "name": "Program detoksifikasi 7 hari",
     "icon": "ditox"
   },
   {
     "id": 9,
     "type": "RUQYAH",
-    "name": "The Ruqyah bath against Sihr",
+    "name": "Mandi ruqyah untuk mengatasi sihir",
     "icon": "jadur_ruqya"
   },
   {
     "id": 10,
     "type": "RUQYAH",
-    "name": "Full Ruqyah program",
+    "name": "Program ruqyah lengkap",
     "icon": "next_step"
   },
   {
     "id": 11,
     "type": "RUQYAH",
-    "name": "Waswasah - whisperings",
+    "name": "Waswas (bisikan)",
     "icon": "was-wasa"
   },
   {
     "id": 12,
     "type": "RUQYAH",
-    "name": "Other Diseases",
+    "name": "Penyakit lainnya",
     "icon": "sickness_ruqya"
   },
   {
     "id": 13,
     "type": "RUQYAH",
-    "name": "Treatment for general problems",
+    "name": "Pengobatan untuk masalah umum",
     "icon": "next_step"
   },
   {
     "id": 14,
     "type": "RUQYAH",
-    "name": "Types of Hijamah / Bloodletting",
+    "name": "Jenis-jenis bekam / pengeluaran darah",
     "icon": "hijama"
   },
   {
     "id": 15,
     "type": "VIDEO",
-    "name": "Ruqya related Video",
+    "name": "Video tentang ruqyah",
     "icon": "video"
   }
 ]
