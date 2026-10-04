@@ -171,10 +171,23 @@
         "description"
       ],
       "row_count": 42,
-      "chunk_count": 2,
+      "chunk_count": 15,
       "chunk_files": [
         "tables/dua_infos/dua_infos_001.json",
-        "tables/dua_infos/dua_infos_002.json"
+        "tables/dua_infos/dua_infos_002.json",
+        "tables/dua_infos/dua_infos_003.json",
+        "tables/dua_infos/dua_infos_004.json",
+        "tables/dua_infos/dua_infos_005.json",
+        "tables/dua_infos/dua_infos_006.json",
+        "tables/dua_infos/dua_infos_007.json",
+        "tables/dua_infos/dua_infos_008.json",
+        "tables/dua_infos/dua_infos_009.json",
+        "tables/dua_infos/dua_infos_010.json",
+        "tables/dua_infos/dua_infos_011.json",
+        "tables/dua_infos/dua_infos_012.json",
+        "tables/dua_infos/dua_infos_013.json",
+        "tables/dua_infos/dua_infos_014.json",
+        "tables/dua_infos/dua_infos_015.json"
       ]
     },
     "duas": {

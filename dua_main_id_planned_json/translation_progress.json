@@ -1,0 +1,264 @@
+{
+  "schema_version": 1,
+  "target_language": {
+    "code": "id",
+    "regional_variety": "id-ID",
+    "script": "Latin",
+    "style": "natural standard Indonesian"
+  },
+  "scope": {
+    "table": "dua_infos",
+    "output_directory": "tables/dua_infos",
+    "workbook_column_mapping": null,
+    "record_count": 42,
+    "translatable_fields_per_record": ["name", "description"],
+    "record_ids": [
+      1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14,
+      15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28,
+      29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42
+    ]
+  },
+  "source_title_inventory": {
+    "1": "দোয়ার অর্থ",
+    "2": "আল্লাহর যিকরের সাধারণ ফযীলত",
+    "3": "দোয়া ক্ববুলের সময় ও স্থান",
+    "4": "দোয়া করার আদব বা বৈশিষ্ট্য",
+    "5": "যে সকল স্থানে হাত তুলে দোয়া করা যায়",
+    "6": "দোয়ার প্রকারভেদ",
+    "7": "যেসব কারণে দোয়া কবুল হয় না",
+    "8": "দোয়া করার নিয়মকানুন",
+    "9": "যাদের দোয়া কবুল হয়",
+    "10": "দোয়ার মহত্ত্ব",
+    "11": "দোয়া কবুলের শর্ত ও যেসব কারণে দোয়া কবুল হয় না",
+    "12": "দোয়া কবুলের শর্তাবলি",
+    "13": "যিকর বা আল্লাহর স্মরণের মর্মকথা",
+    "14": "তাওয়াক্কা করে দোয়া পরিত্যাগ",
+    "15": "আল্লাহ ছাড়া অন্য কারো কাছে দোয়া",
+    "16": "মুসলিম সমাজের দোয়া কেন্দ্রিক শিরক",
+    "17": "কুরআন আলোচনা ও গবেষণার ফযীলত",
+    "18": "যিকর বিষয়ক কয়েকটি বিধান",
+    "19": "তাওহীদের প্রতি ঈমান",
+    "20": "রিসালাতের প্রতি ঈমান",
+    "21": "আল্লাহর ভালোবাসা ও আল্লাহর জন্য ভালোবাসা",
+    "22": "ভালবাসার মাপকাঠি রাসুলের (ﷺ) অনুসরণ",
+    "23": "আল্লাহর জন্য ভালবাসা-ই ঈমান",
+    "24": "ঈমানী ভালোবাসার অন্তরায়",
+    "25": "অতিরিক্ত কিছু নফল সালাত",
+    "26": "মানুষের জীবনে দোয়ার গুরুত্ব",
+    "27": "আল্লাহর কাছে যা চাওয়া বেশি গুরুত্বপূ",
+    "28": "রুকিয়াহ বা ঝাড়ফুঁকের মাধ্যমে চিকিৎসা",
+    "29": "নবি (ﷺ)-এর উদ্দেশে দরুদ পড়ার মহত্ত্ব",
+    "30": "ইস্তিগফারের মূলনীতি",
+    "31": "তাওবা-ইস্তিগফারের ফযীলত ও নির্দেশনা",
+    "32": "দোয়া বা প্রার্থনা জ্ঞাপক যিকর",
+    "33": "দোয়ার কতিপয় মাসনুন নিয়ম ও আদব",
+    "34": "শুধু আল্লাহর কাছেই চাওয়া",
+    "35": "কুরআনী যিকরের বিশেষ ফযীলত",
+    "36": "কুরআন তিলাওয়াতের আদব ও নিয়ম",
+    "37": "আত্মশুদ্ধিমূলক মানসিক ও দৈহিক কর্ম",
+    "38": "হতাশা বর্জন ও আল্লাহর প্রতি সু-ধারণা",
+    "39": "কৃতজ্ঞতা ও সন্তুষ্টি",
+    "40": "নির্লোভ",
+    "41": "নফল সিয়াম ও নফল দান",
+    "42": "কিয়ামুল লাইল, তাহাজ্জুদ ও রাতের যিকর"
+  },
+  "source_field_count_per_record": 2,
+  "source_snapshot": {
+    "language": "bn",
+    "database": "dua_main_bn.sqlite",
+    "git_commit": "eacd42a",
+    "original_chunks_git_blob_sha1": {
+      "tables/dua_infos/dua_infos_001.json": "e86f1cdc73fcfe4470a51365ba0903dc6a22e517",
+      "tables/dua_infos/dua_infos_002.json": "fce5e9be4e7ba6511d29325d2b6260ce6a5a4e6b"
+    },
+    "note": "The source snapshot predates the lossless 2-to-15-file rechunk; translated rows are compared by ID against the two original Bengali chunks."
+  },
+  "default_status_for_unlisted_records": {
+    "translation": "not_started",
+    "meaning_review": "not_checked",
+    "literary_review": "not_checked",
+    "arabic_preservation": "not_checked",
+    "quran_verification": "not_checked",
+    "hadith_verification": "not_checked",
+    "human_review": "not_checked"
+  },
+  "record_overrides": {
+    "dua_infos:1": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "not_applicable", "human_review": "not_checked"},
+    "dua_infos:2": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "not_applicable", "hadith_verification": "not_checked", "human_review": "not_checked"},
+    "dua_infos:3": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "not_checked", "hadith_verification": "not_checked", "human_review": "not_checked"},
+    "dua_infos:4": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "not_checked", "human_review": "not_checked"},
+    "dua_infos:5": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:6": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "not_checked", "human_review": "not_checked"},
+    "dua_infos:7": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:8": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "protected_spans_checked_exact; honorific_placement_pending", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:9": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "protected_spans_checked_exact; honorific_placement_pending", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:10": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:11": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "not_applicable", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:12": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:13": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:14": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:15": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:16": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "not_checked", "hadith_verification": "not_checked", "human_review": "not_checked"},
+    "dua_infos:17": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:18": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:19": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "not_applicable", "human_review": "not_checked"},
+    "dua_infos:20": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "not_applicable", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:21": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:22": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:23": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "not_applicable", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:24": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:25": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "not_applicable", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:26": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:27": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:28": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "not_checked", "human_review": "not_checked"},
+    "dua_infos:29": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:30": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "not_applicable", "hadith_verification": "not_applicable", "human_review": "not_checked"},
+    "dua_infos:31": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "not_applicable", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:32": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:33": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:34": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:35": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact; source_quran_errors_flagged", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:36": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:37": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:38": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:39": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "checked_exact", "quran_verification": "partial", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:40": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "not_applicable", "hadith_verification": "partial", "human_review": "not_checked"},
+    "dua_infos:41": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "not_applicable", "hadith_verification": "not_checked", "human_review": "not_checked"},
+    "dua_infos:42": {"translation": "complete", "meaning_review": "assistant_checked", "literary_review": "assistant_checked", "arabic_preservation": "not_applicable", "quran_verification": "not_applicable", "hadith_verification": "partial", "human_review": "not_checked"}
+  },
+  "batch_history": [
+    {
+      "date": "2026-10-04",
+      "files": ["tables/dua_infos/dua_infos_001.json", "tables/dua_infos/dua_infos_002.json"],
+      "record_ids": [1, 2, 3, 4, 5, 6, 7],
+      "output_sha256": {
+        "tables/dua_infos/dua_infos_001.json": "BA55D048F31F6DC39DAB15A04E66E5F7208C7DCCD2DFDBD56ABEFF0D680F19F0",
+        "tables/dua_infos/dua_infos_002.json": "AB2648A7BD761661569018EB8A9207B96792EC122FF02C5AEFF1B76EE6CBBDD2"
+      },
+      "review_notes": "REVIEW_DUA_INFOS_001_002.md"
+    },
+    {
+      "date": "2026-10-04",
+      "files": ["tables/dua_infos/dua_infos_003.json", "tables/dua_infos/dua_infos_004.json"],
+      "record_ids": [8, 9, 10, 11, 12],
+      "output_sha256": {
+        "tables/dua_infos/dua_infos_003.json": "8648C1CF2A27A51BFBC0A14904EF5B072C502B6E6A7BABB8EC5A46EB4D12A71B",
+        "tables/dua_infos/dua_infos_004.json": "3A033A8E8C63FA5D726CF9B25B172CC96E21CD55F9160EDB7209FC7BE00B2891"
+      },
+      "review_notes": "REVIEW_DUA_INFOS_003_004.md"
+    },
+    {
+      "date": "2026-10-04",
+      "files": ["tables/dua_infos/dua_infos_005.json", "tables/dua_infos/dua_infos_006.json"],
+      "record_ids": [13, 14, 15, 16, 17, 18, 19],
+      "output_sha256": {
+        "tables/dua_infos/dua_infos_005.json": "FCA05774417F5CDB2A878DAFF45A4FD119CACA2A0A155E915D3AF76ED6E566D3",
+        "tables/dua_infos/dua_infos_006.json": "83DE9B00EA1E6924C8AAFD25C59F01C2C0DCCDA423ED7581EAD1212674A859F2"
+      },
+      "review_notes": "REVIEW_DUA_INFOS_005_006.md"
+    },
+    {
+      "date": "2026-10-04",
+      "files": ["tables/dua_infos/dua_infos_007.json", "tables/dua_infos/dua_infos_008.json"],
+      "record_ids": [20, 21, 22, 23, 24, 25, 26, 27],
+      "output_sha256": {
+        "tables/dua_infos/dua_infos_007.json": "C87B725BB351D2670385B24EC1FA7E56E924CE510C7C57EEE169368760E70276",
+        "tables/dua_infos/dua_infos_008.json": "9BCC4989D40D96188E95C9C203C5E9AD12943578DBD357FD0E321C45137D0A46"
+      },
+      "review_notes": "REVIEW_DUA_INFOS_007_008.md"
+    },
+    {
+      "date": "2026-10-05",
+      "files": ["tables/dua_infos/dua_infos_009.json", "tables/dua_infos/dua_infos_010.json"],
+      "record_ids": [28, 29, 30, 31, 32],
+      "output_sha256": {
+        "tables/dua_infos/dua_infos_009.json": "600544DAD7294913306D28E5D726E00AF4034CA445280134A45E1C288ADBEE4D",
+        "tables/dua_infos/dua_infos_010.json": "A3060822E0722764427D44ADC2B4AB7449ACCB45D02B7D6AE615AF9EFB849DA0"
+      },
+      "review_notes": "REVIEW_DUA_INFOS_009_010.md"
+    },
+    {
+      "date": "2026-10-05",
+      "files": ["tables/dua_infos/dua_infos_011.json", "tables/dua_infos/dua_infos_012.json"],
+      "record_ids": [33, 34],
+      "output_sha256": {
+        "tables/dua_infos/dua_infos_011.json": "071D69802E9E8C3BA3A02F2CAB76C82D51F6BB8003C85E3AC3BFB1A7EDD5402C",
+        "tables/dua_infos/dua_infos_012.json": "52F8119E6007D0BD7F1EC60C1087D425444D1256F5A2309B03D52B7B7322B261"
+      },
+      "review_notes": "REVIEW_DUA_INFOS_011_012.md"
+    },
+    {
+      "date": "2026-10-05",
+      "files": ["tables/dua_infos/dua_infos_013.json", "tables/dua_infos/dua_infos_014.json"],
+      "record_ids": [35, 36, 37, 38, 39, 40],
+      "output_sha256": {
+        "tables/dua_infos/dua_infos_013.json": "62F730BD2692240E5AD9F706C82625BA05CA8301BCD3F50352015DB4F2E737D5",
+        "tables/dua_infos/dua_infos_014.json": "589E591212F14543D3C2CD28AF5320D8445B3733C8CB6024182914E743583D9B"
+      },
+      "review_notes": "REVIEW_DUA_INFOS_013_014.md"
+    }
+  ],
+  "saved_batch": {
+    "date": "2026-10-05",
+    "files": ["tables/dua_infos/dua_infos_015.json"],
+    "record_ids": [41, 42],
+    "output_sha256": {
+      "tables/dua_infos/dua_infos_015.json": "4B6E266CFE8D81D44118F7FE0AA1452E19F5D4B7FE7306F0389822435B450063"
+    },
+    "checks": [
+      "Two original source IDs, JSON keys, and 24 paragraph positions preserved",
+      "No Arabic-script quotation spans occur in these two source rows",
+      "No Bengali-script characters remain in translated fields; per-paragraph markup and salawat counts match",
+      "Indonesian SQLite rebuild passed integrity and foreign-key checks; both rows round-tripped"
+    ]
+  },
+  "summary": {
+    "dua_infos_translated_records": 42,
+    "dua_infos_total_records": 42,
+    "dua_infos_remaining_records": 0,
+    "dua_infos_translation_complete": true,
+    "language_complete": false,
+    "human_reviewed_records": 0
+  },
+  "next_record": null,
+  "unresolved_items": [
+    {"record": "dua_infos:1", "issue": "Bangla source says Quran 17:110 is about praising Allah/Ar-Rahman; the verse speaks of calling upon Him. Indonesian meaning follows the verse; source needs correction."},
+    {"record": "dua_infos:6", "issue": "Bangla meaning of Quran 6:17 omits the final clause about Allah's power when He grants good; Indonesian meaning includes it."},
+    {"record": "dua_infos:3-7", "issue": "Most hadith wordings, numbering systems, grades, and several Quran Arabic excerpts still require independent source-by-source review. No human scholarly review has occurred."},
+    {"record": "dua_infos:8", "issue": "Bangla gloss of Arabic an tu'afiyani says forgive me; Indonesian follows the Arabic meaning of well-being. Source correction pending."},
+    {"record": "dua_infos:9", "issue": "Source cites Bukhari 755 for three accepted supplications, but that number is Sa'd's narrative; Indonesian uses Tirmidhi 3448. The parental-for/against-child variants need review. Source Arabic in paragraph 45 appears transcriptionally irregular."},
+    {"record": "dua_infos:9", "issue": "Bangla source omits negation in Ibn Majah 1753; Indonesian follows the verified not-rejected wording."},
+    {"record": "dua_infos:10", "issue": "Source cites Tirmidhi 2370 for two unrelated supplication reports. Indonesian uses 3370 and 3373; source grades require reconciliation."},
+    {"record": "dua_infos:8-12", "issue": "Quran and hadith quotation verification is partial, not complete; no human scholarly review. Honorific placement in records 8-9 differs from source outside protected Arabic; see review notes."},
+    {"record": "dua_infos:14", "issue": "Source grades Ibn Majah 3827 hasan; Sunnah.com displays Darussalam grade da'if. Indonesian attributes grading to the source; scholarly reconciliation pending."},
+    {"record": "dua_infos:15", "issue": "Source cross-references for distress include ambiguous 'কম:৩৩' and Luqman 31:23. Indonesian uses Ar-Rum 30:33 and Luqman 31:32 based on verse content; source correction requires editorial approval."},
+    {"record": "dua_infos:17", "issue": "Source cites Bukhari 7091 for the two-enviable-people report; Indonesian corrects to Bukhari 5025. Source calls Ibn Majah 215 sahih, while Sunnah.com Darussalam grade is hasan. Other narrations remain partially checked."},
+    {"record": "dua_infos:18", "issue": "Source misnumbers Abu Dawud 282 and the Yusairah Tirmidhi report. Indonesian cites Abu Dawud 1502, 1501 and Tirmidhi 3583. Source's assertion that Nasa'i 1010 records recitation in bowing and prostration needs independent verification. Juristic differences and source grades need scholarly review."},
+    {"record": "dua_infos:19", "issue": "Source cites Az-Zukhruf 43:1 for the polytheists' admission of God as creator; Indonesian cites 43:9, which matches the passage. Source correction requires editorial approval."},
+    {"record": "dua_infos:13-19", "issue": "Quran meanings and hadith wording/grades have only selected primary-source checks, not comprehensive verification; no human native-speaker or scholarly review has occurred."},
+    {"record": "dua_infos:20", "issue": "Source Bukhari 13445 for exaggerated-praise report corrected to Bukhari 3445. Historical and barzakh-life claims need independent source and scholarly review."},
+    {"record": "dua_infos:21", "issue": "Bengali paragraph 18 appears to omit a negation, literally endorsing hostility to a professing believer while context requires the opposite. Indonesian follows contextual intended meaning; source correction pending."},
+    {"record": "dua_infos:23", "issue": "Source Al-Albani number 198 corrected to 998 for strongest-bond report; source Muslim 2566 for visit-a-brother story corrected to 2567a. Grades and variants require further review."},
+    {"record": "dua_infos:24", "issue": "Source calls Tirmidhi 1997 sahih; Sunnah.com Darussalam grade is hasan. Indonesian attributes source grading; broader discussion of love and enmity needs scholarly review."},
+    {"record": "dua_infos:25", "issue": "Source calls Tirmidhi 586 hasan; Tirmidhi says hasan gharib but Sunnah.com Darussalam displays da'if. Source Bukhari 1880 corrected to 1981 for three-recommendations report. Prayer guidance needs scholarly review."},
+    {"record": "dua_infos:27", "issue": "Protected Arabic in paragraph 19 may have a transcription irregularity. Indonesian meanings in paragraphs 63 and 73 follow supplied Arabic and Muslim 2739 rather than inconsistent Bengali glosses. Compare source Arabic against cited editions."},
+    {"record": "dua_infos:20-27", "issue": "Only selected Quran and hadith references checked; no complete quotation or native-speaker/scholarly review. See REVIEW_DUA_INFOS_007_008.md."},
+    {"record": "dua_infos:28", "issue": "Ruqyah and healing claims are the author's religious discussion, not established clinical efficacy. Divination reports in paragraphs 28-31 and their exact wording, citations, and grades require verification."},
+    {"record": "dua_infos:29", "issue": "Source calls Abu Dawud 1047 weak and 2042 hasan; Sunnah.com displays Al-Albani grades sahih for both. Indonesian attributes grades to source; reconcile authorities and variants."},
+    {"record": "dua_infos:31", "issue": "Source calls Ibn Majah 3818 sahih, while Sunnah.com displays Darussalam grade hasan. Indonesian attributes grading to source. Tirmidhi 3540 is a checked numbering addition."},
+    {"record": "dua_infos:32", "issue": "Muslim 224 does not establish misconduct by the former governor or explicit refusal to pray; those are author interpretations. Financial, legal, and restitution claims, especially paragraphs 40-41, need qualified scholarly and contextual review."},
+    {"record": "dua_infos:28-32", "issue": "Only selected Quran and hadith references checked; no complete quotation, native-speaker, or scholarly review. See REVIEW_DUA_INFOS_009_010.md."},
+    {"record": "dua_infos:33", "issue": "Source Muslim no. 275 for impatience report indexed as Muslim 2735c; source Rabi'ah narrator for Ya Dzal-Jalali report differs from Tirmidhi 3525 Anas. Ninety-nine Names list, wiping-face grades, qibla and hand-practice rulings require qualified review."},
+    {"record": "dua_infos:34", "issue": "Unseen-being invocation and absent-person shirk claims are disputed, high-stakes religious guidance; source cites weak-hadith collections. Shoelace/salt, fallen-stick, and alternate destitution wording need narration checks; do not apply polemical descriptions as judgments on individuals."},
+    {"record": "dua_infos:33-34", "issue": "Only selected Quran and hadith references checked; no full Arabic quotation, native-speaker, or scholarly review. See REVIEW_DUA_INFOS_011_012.md."},
+    {"record": "dua_infos:35", "issue": "Protected Quran Arabic differs from the canonical text in 39:23 (khuludu/juludu) and 7:205 (wajifatan/wakhifatan). Arabic preserved exactly per skill; correct authoritative source before publication. Bukhari 5027 narrator and possible missing Bengali negation in paragraph 11 also need source review."},
+    {"record": "dua_infos:37", "issue": "Three-day Paradise story source identifies Abdullah bin Umar, while commonly cited versions identify Abdullah bin Amr; verify original route. Arabic excerpt covers 41:34 only, while the Bengali and Indonesian meaning covers 41:34-35."},
+    {"record": "dua_infos:38", "issue": "Author's claims about depression and faith are not clinical facts, diagnoses, or grounds for judging individuals. Yusuf 12:87 does not diagnose mental illness. Medical and theological review pending."},
+    {"record": "dua_infos:40", "issue": "Source grading of Ibn Majah 4102, Tirmidhi 2465 and Tirmidhi 2003 differs from displayed Darussalam grades; Indonesian attributes grades to source pending reconciliation."},
+    {"record": "dua_infos:35-40", "issue": "Only selected Quran and hadith references checked; no complete quotation, native-speaker, or scholarly review. See REVIEW_DUA_INFOS_013_014.md."},
+    {"record": "dua_infos:41", "issue": "Several specific voluntary-fasting schedules and broad claims about prophetic spending lack individual hadith source checks. See REVIEW_DUA_INFOS_015.md."},
+    {"record": "dua_infos:42", "issue": "Source has an impossible '112 o'clock' time, an incomplete Amr bin Abasah quotation, and a Tirmidhi report whose narrator, disease wording, and grading differ by route. See REVIEW_DUA_INFOS_015.md."},
+    {"record": "dua_infos:41-42", "issue": "Only selected hadith references checked; no full quotation, native-speaker, or scholarly review. See REVIEW_DUA_INFOS_015.md."}
+  ],
+  "review_notes": "REVIEW_DUA_INFOS_015.md"
+}

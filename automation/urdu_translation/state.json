@@ -1,24 +1,24 @@
 ﻿{
     "version":  1,
     "enabled":  true,
-    "next_run_at":  "2026-10-04T15:58:34.6804027+09:00",
-    "last_run_at":  "2026-10-04T11:58:34.6804027+09:00",
+    "next_run_at":  "2026-10-05T00:03:34.3872281+09:00",
+    "last_run_at":  "2026-10-04T20:03:34.3872281+09:00",
     "last_result":  "completed",
     "last_action":  "review",
     "last_table":  "duas",
     "last_files_processed":  [
-                                 "duas_016.json",
-                                 "duas_017.json",
-                                 "duas_018.json",
-                                 "duas_019.json",
-                                 "duas_020.json"
+                                 "work/duas/duas_026.json",
+                                 "work/duas/duas_027.json",
+                                 "work/duas/duas_028.json",
+                                 "work/duas/duas_029.json",
+                                 "work/duas/duas_030.json"
                              ],
-    "last_input_tokens":  4247640,
-    "last_output_tokens":  20766,
-    "last_total_tokens":  4268406,
+    "last_input_tokens":  3666400,
+    "last_output_tokens":  20635,
+    "last_total_tokens":  3687035,
     "last_token_pressure":  "medium",
     "last_rate_limits":  {
-                             "checkedAt":  "2026-10-04T11:58:34.6804027+09:00",
+                             "checkedAt":  "2026-10-04T20:03:34.3872281+09:00",
                              "ordinaryUsageAllowed":  true,
                              "limits":  [
                                             {
@@ -26,12 +26,12 @@
                                                 "planType":  "plus",
                                                 "rateLimitReachedType":  null,
                                                 "primary":  {
-                                                                "usedPercent":  23,
+                                                                "usedPercent":  21,
                                                                 "windowDurationMins":  300,
-                                                                "resetsAt":  1791086334
+                                                                "resetsAt":  1791115434
                                                             },
                                                 "secondary":  {
-                                                                  "usedPercent":  11,
+                                                                  "usedPercent":  18,
                                                                   "windowDurationMins":  10080,
                                                                   "resetsAt":  1791580229
                                                               }
@@ -40,8 +40,8 @@
                              "resetCreditsAvailable":  2
                          },
     "quota_mode":  "normal",
-    "next_action_hint":  "Review duas_021.json through duas_025.json; keep books and book_details postponed.",
+    "next_action_hint":  "Freshly review duas_031.json through duas_035.json; keep books and book_details postponed.",
     "consecutive_failures":  0,
-    "last_log":  "G:\\dua-ruqyah\\automation\\urdu_translation\\logs\\20261004-115834-events.jsonl",
-    "last_summary":  "Freshly reviewed 66 entries and 196 translated fields, including 12 nested targets. Corrected mechanical Urdu, imprecise titles, supplication syntax, al-Salam’s rendering, and omitted narration detail. Updated REVIEW_016_020.md, PLAN.md, and WORK_STATUS.md. No database was built."
+    "last_log":  "G:\\dua-ruqyah\\automation\\urdu_translation\\logs\\20261004-200334-events.jsonl",
+    "last_summary":  "Freshly reviewed all 243 user-visible targets in chunks 026–030. Corrected Urdu accuracy and naturalness, updated GLOSSARY.json, PLAN.md, REVIEW_026_030.md, and regenerated WORK_STATUS.md. All five chunks are marked done and passed separate verification; no Bengali or unintended Latin prose remains."
 }

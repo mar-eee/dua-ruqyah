@@ -166,15 +166,12 @@ cd dua_main_id_planned_json && python3 rebuild_indonesian_from_json.py
 
 The rebuild runs `PRAGMA integrity_check` and fails loudly if the JSON is broken. It writes `dua_main_ja_rebuilt.sqlite` / `dua_main_id_rebuilt.sqlite`.
 
-To recreate the untranslated planning chunks from the original English database:
-
-```bash
-python3 rechunk_planned_json.py
-```
-
-This creates 6 Indonesian `dua_infos` chunks and 10 `ruqyah_details` chunks for
-both Indonesian and Japanese. It does not change the completed Japanese
-`dua_infos` translation.
+Indonesian `dua_infos` is split into 15 size-balanced files under
+`dua_main_id_planned_json/tables/dua_infos/` (`dua_infos_001.json` through
+`dua_infos_015.json`). Each file contains 1–4 complete entries, so you can
+translate one file per prompt. See the [chunk map](dua_main_id_planned_json/tables/dua_infos/README.md)
+for the ID ranges. The chunk list in `_database_metadata.json` controls the
+Indonesian database rebuild; keep it in sync if you rearrange files.
 
 ## Done When
 

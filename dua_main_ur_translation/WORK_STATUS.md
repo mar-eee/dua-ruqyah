@@ -1,6 +1,6 @@
 # Urdu Translation Work Status
 
-Generated: `2026-10-04T12:11:50+09:00`
+Generated: `2026-10-05T00:10:29+09:00`
 
 > Status is calculated from work files. It does not treat the partial chunk index as the full project scope.
 

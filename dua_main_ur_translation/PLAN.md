@@ -32,7 +32,7 @@ content. Their chunks were added without regenerating or replacing earlier work.
 For authoritative whole-project progress, use `WORK_STATUS.md`.
 
 Natural-Urdu review evidence is tracked in `REVIEW_*.md`. The current durable
-review sequence covers dua chunks 001–020, all ruqyah-instants chunks 001–020,
+review sequence covers dua chunks 001–030, all ruqyah-instants chunks 001–020,
 all ruqyah-details chunks 001–095, `ruqyah_categories_001`, and
 `ruqyah_subcategories_001`–`004`.
 
