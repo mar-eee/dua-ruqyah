@@ -3,7 +3,7 @@
   "chunk": "ruqyah_instants_009.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 18,
   "id_range": "126-143",
   "source_chars": 5982,
@@ -32,10 +32,10 @@
         "translation": "(107) And if Allah should touch you with adversity, there is no remover of it except Him; and if He intends for you good, then there is no repeller of His bounty. He causes it to reach whom He wills of His servants. And He is the Forgiving, the Merciful"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یونس 10:107",
         "content": null,
-        "translation": ""
+        "translation": "(107) اور اگر اللہ آپ کو کوئی تکلیف پہنچائے تو اس کے سوا اسے دور کرنے والا کوئی نہیں، اور اگر وہ آپ کے لیے بھلائی چاہے تو اس کے فضل کو کوئی پھیرنے والا نہیں۔ وہ اپنے بندوں میں سے جسے چاہتا ہے اپنے فضل سے نوازتا ہے، اور وہ بہت بخشنے والا، نہایت مہربان ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -67,10 +67,10 @@
         "translation": "I pray to Allah, the Magnificent, Lord of the Glorious Throne, to grant you healing.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
-        "content": "",
-        "translation": ""
+        "topic_name": "سنت سے",
+        "name": "ابو داؤد: 3106",
+        "content": "7 بار کہیں:",
+        "translation": "میں اللہِ عظیم سے، جو عرشِ عظیم کا رب ہے، سوال کرتا ہوں کہ وہ آپ کو شفا عطا فرمائے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -103,10 +103,10 @@
         "translation": "(21) If We had sent down this Qur'an upon a mountain, you would have seen it humbled and coming apart from fear of Allah . And these examples We present to the people that perhaps they will give thought. (22) He is Allah, other than whom there is no deity, Knower of the unseen and the witnessed. He is the Entirely Merciful, the Especially Merciful. (23) He is Allah, other than whom there is no deity, the Sovereign, the Pure, the Perfection, the Bestower of Faith, the Overseer, the Exalted in Might, the Compeller, the Superior. Exalted is Allah above whatever they associate with Him. (24) He is Allah, the Creator, the Inventor, the Fashioner; to Him belong the best names. Whatever is in the heavens and earth is exalting Him. And He is the Exalted in Might, the Wise."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ حشر 59:21-24",
         "content": null,
-        "translation": ""
+        "translation": "(21) اگر ہم یہ قرآن کسی پہاڑ پر نازل کرتے تو تم اسے اللہ کے خوف سے جھکا ہوا، پھٹا پڑتا دیکھتے۔ یہ مثالیں ہم لوگوں کے لیے بیان کرتے ہیں تاکہ وہ غور کریں۔ (22) وہی اللہ ہے جس کے سوا کوئی معبودِ برحق نہیں؛ غائب اور حاضر کو جاننے والا۔ وہی نہایت مہربان، بہت رحم فرمانے والا ہے۔ (23) وہی اللہ ہے جس کے سوا کوئی معبودِ برحق نہیں؛ بادشاہ، نہایت پاک، سراسر سلامتی، امن دینے والا، نگہبان، زبردست، غالب اور کبریائی والا۔ اللہ ان چیزوں سے پاک ہے جنہیں وہ اس کا شریک ٹھہراتے ہیں۔ (24) وہی اللہ ہے، پیدا کرنے والا، وجود بخشنے والا، صورتیں بنانے والا۔ اسی کے لیے بہترین نام ہیں۔ آسمانوں اور زمین کی ہر چیز اس کی تسبیح کرتی ہے؛ اور وہی زبردست، حکمت والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -138,10 +138,10 @@
         "translation": "(67) And he said, \"O my sons, do not enter from one gate but enter from different gates; and I cannot avail you against [the decree of] Allah at all. The decision is only for Allah ; upon Him I have relied, and upon Him let those who would rely [indeed] rely.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یوسف 12:67",
         "content": null,
-        "translation": ""
+        "translation": "(67) اور اس نے کہا: ’’اے میرے بیٹو! ایک دروازے سے داخل نہ ہونا بلکہ مختلف دروازوں سے داخل ہونا۔ میں اللہ کے مقابلے میں تمہارے کسی کام نہیں آ سکتا۔ حکم صرف اللہ ہی کا ہے۔ اسی پر میں نے بھروسا کیا، اور بھروسا کرنے والوں کو اسی پر بھروسا کرنا چاہیے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -173,10 +173,10 @@
         "translation": "O our Lord, Allah, You are in Heaven; holy be Your name. Your command reigns supreme in the heavens and on the earth. As Your mercy is in the heavens, have Your mercy on the earth. Forgive our sins. You are the Lord of the good. Send down of Your mercy and healing unto this ailment to cure it.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
-        "content": "",
-        "translation": ""
+        "topic_name": "سنت سے",
+        "name": "ابو داؤد: 3892",
+        "content": "3 بار کہیں:",
+        "translation": "ہمارا رب وہ اللہ ہے جو آسمان پر ہے۔ تیرا نام پاک ہے۔ تیرا حکم آسمان اور زمین میں نافذ ہے۔ جس طرح تیری رحمت آسمان میں ہے، اسی طرح زمین میں بھی اپنی رحمت فرما۔ ہمارے گناہ اور خطائیں بخش دے۔ تو پاکیزہ لوگوں کا رب ہے۔ اپنی رحمت میں سے رحمت اور اپنی شفا میں سے شفا اس تکلیف پر نازل فرما، تاکہ یہ دور ہو جائے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -209,10 +209,10 @@
         "translation": "(17) And if Allah should touch you with adversity, there is no remover of it except Him. And if He touches you with good - then He is over all things competent."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انعام 6:17",
         "content": null,
-        "translation": ""
+        "translation": "(17) اور اگر اللہ آپ کو کوئی تکلیف پہنچائے تو اس کے سوا اسے دور کرنے والا کوئی نہیں، اور اگر وہ آپ کو کوئی بھلائی پہنچائے تو وہ ہر چیز پر پوری قدرت رکھتا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -244,10 +244,10 @@
         "translation": "(14) And [even] if We opened to them a gate from the heaven and they continued therein to ascend, (15) They would say, \"Our eyes have only been dazzled. Rather, we are a people affected by magic.\" (16) And We have placed within the heaven great stars and have beautified it for the observers. (17) And We have protected it from every devil expelled [from the mercy of Allah ] (18) Except one who steals a hearing and is pursued by a clear burning flame."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ حجر 15:14-18",
         "content": null,
-        "translation": ""
+        "translation": "(14) اور اگر ہم ان کے لیے آسمان کا کوئی دروازہ کھول دیں اور وہ مسلسل اس میں چڑھتے رہیں، (15) تب بھی کہیں گے: ’’ہماری نگاہیں تو بند کر دی گئی ہیں، بلکہ ہم پر جادو کر دیا گیا ہے۔‘‘ (16) اور یقیناً ہم نے آسمان میں برج بنائے اور اسے دیکھنے والوں کے لیے آراستہ کیا۔ (17) اور اسے ہر مردود شیطان سے محفوظ رکھا، (18) مگر جو چوری چھپے سن لے تو ایک روشن شعلہ اس کے پیچھے لگ جاتا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -279,10 +279,10 @@
         "translation": "May your suffering end. May you be purified by Allah's Grace.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "بخاری: 5656",
         "content": null,
-        "translation": ""
+        "translation": "فکر کی کوئی بات نہیں؛ ان شاء اللہ یہ بیماری گناہوں سے پاک کرنے والی ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -314,10 +314,10 @@
         "translation": "(1) By those [angels] lined up in rows (2) And those who drive [the clouds] (3) And those who recite the message, (4) Indeed, your God is One, (5) Lord of the heavens and the earth and that between them and Lord of the sunrises. (6) Indeed, We have adorned the nearest heaven with an adornment of stars (7) And as protection against every rebellious devil (8) [So] they may not listen to the exalted assembly [of angels] and are pelted from every side, (9) Repelled; and for them is a constant punishment, (10) Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness]. (11) Then inquire of them, [O Muhammad], “Are they a stronger [or more difficult] creation or those [others] We have created?” Indeed, We created men from sticky clay."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ صافات 37:1-11",
         "content": null,
-        "translation": ""
+        "translation": "(1) قسم ہے صف باندھنے والوں کی، (2) پھر سختی سے جھڑکنے والوں کی، (3) پھر ذکر کی تلاوت کرنے والوں کی؛ (4) بے شک تمہارا معبود ایک ہی ہے، (5) جو آسمانوں اور زمین کا، ان کے درمیان کی ہر چیز کا اور تمام مشرقوں کا رب ہے۔ (6) بے شک ہم نے قریب ترین آسمان کو ستاروں کی زینت سے آراستہ کیا، (7) اور ہر سرکش شیطان سے محفوظ رکھا۔ (8) وہ ملأِ اعلیٰ کی بات نہیں سن سکتے اور ہر طرف سے ان پر شعلے پھینکے جاتے ہیں، (9) انہیں دھتکارنے کے لیے، اور ان کے لیے دائمی عذاب ہے؛ (10) مگر جو اچانک کوئی بات اچک لے تو ایک چمکتا ہوا شعلہ اس کے پیچھے لگ جاتا ہے۔ (11) پس ان سے پوچھیے: کیا انہیں پیدا کرنا زیادہ مشکل ہے یا ان مخلوقات کو جنہیں ہم نے پیدا کیا؟ بے شک ہم نے انہیں چپکنے والی مٹی سے پیدا کیا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -349,10 +349,10 @@
         "translation": "(39) And why did you, when you entered your garden, not say, 'What Allah willed [has occurred]; there is no power except in Allah '? Although you see me less than you in wealth and children,"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ کہف 18:39",
         "content": null,
-        "translation": ""
+        "translation": "(39) اور جب تم اپنے باغ میں داخل ہوئے تو کیوں نہ کہا: ’’جو اللہ نے چاہا، وہی ہوا؛ اللہ کے سوا کسی میں کوئی قوت نہیں۔‘‘ اگر تم مجھے مال اور اولاد میں اپنے سے کم دیکھتے ہو،"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -384,10 +384,10 @@
         "translation": "O Allah! Grant my soul taqwa, and purify it; You are the best to purify it; You are its best Protector and Guardian. O Allah, I seek refuge in You from knowledge that is not beneficial, a heart that is not submissive (to You), a soul that is never contented, and a supplication that is not answerable."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "مسلم: 2722",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ! میرے نفس کو اس کا تقویٰ عطا فرما اور اسے پاک کر؛ تو ہی اسے سب سے بہتر پاک کرنے والا ہے، تو ہی اس کا کارساز اور مالک ہے۔ اے اللہ! میں ایسے علم سے تیری پناہ مانگتا ہوں جو نفع نہ دے، ایسے دل سے جو نہ جھکے، ایسے نفس سے جو سیر نہ ہو، اور ایسی دعا سے جو قبول نہ کی جائے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -419,10 +419,10 @@
         "translation": "(13) And to Him belongs that which reposes by night and by day, and He is the Hearing, the Knowing."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انعام 6:13",
         "content": null,
-        "translation": ""
+        "translation": "(13) اور اسی کا ہے جو کچھ رات اور دن میں ٹھہرتا ہے، اور وہ خوب سننے والا، خوب جاننے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -454,10 +454,10 @@
         "translation": "(43) Do you not see that Allah drives clouds? Then He brings them together, then He makes them into a mass, and you see the rain emerge from within it. And He sends down from the sky, mountains [of clouds] within which is hail, and He strikes with it whom He wills and averts it from whom He wills. The flash of its lightening almost takes away the eyesight. (44) Allah alternates the night and the day. Indeed in that is a lesson for those who have vision."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نور 24:43-44",
         "content": null,
-        "translation": ""
+        "translation": "(43) کیا آپ نے نہیں دیکھا کہ اللہ بادلوں کو چلاتا ہے، پھر انہیں باہم ملا دیتا ہے، پھر انہیں تہ بہ تہ کر دیتا ہے، تو آپ دیکھتے ہیں کہ ان کے درمیان سے بارش نکلتی ہے۔ اور وہ آسمان میں موجود اولوں کے پہاڑوں سے اولے برساتا ہے؛ پھر جسے چاہتا ہے ان سے نقصان پہنچاتا ہے اور جس سے چاہتا ہے انہیں پھیر دیتا ہے۔ اس کی بجلی کی چمک قریب ہے کہ نگاہیں اچک لے۔ (44) اللہ رات اور دن کو الٹتا پھیرتا ہے۔ بے شک اس میں اہلِ بصیرت کے لیے بڑی عبرت ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -489,10 +489,10 @@
         "translation": "O Allah, we beg You to grant us good as Your Prophet Muhammad begged of You, and we seek refuge in You from evil as Your Prophet Muhammad sought in You. You are the One whose help is sought, and the One that answers prayers. There is no help or power except from Allah."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "ترمذی: 3521",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ! ہم تجھ سے ہر وہ بھلائی مانگتے ہیں جو تیرے نبی محمد ﷺ نے تجھ سے مانگی، اور ہر اس شر سے تیری پناہ مانگتے ہیں جس سے تیرے نبی محمد ﷺ نے تیری پناہ مانگی۔ تو ہی ہے جس سے مدد مانگی جاتی ہے، اور مقصد تک پہنچانا تیرے ہی اختیار میں ہے۔ نیکی کی قوت اور برائی سے بچنے کی طاقت صرف اللہ ہی کی توفیق سے ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -524,10 +524,10 @@
         "translation": "(129) But if they turn away, [O Muhammad], say, “Sufficient for me is Allah ; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ توبہ 9:129",
         "content": null,
-        "translation": ""
+        "translation": "(129) پھر اگر وہ منہ موڑیں تو کہہ دیجیے: ’’مجھے اللہ کافی ہے؛ اس کے سوا کوئی معبودِ برحق نہیں۔ اسی پر میں نے بھروسا کیا، اور وہ عرشِ عظیم کا رب ہے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -559,10 +559,10 @@
         "translation": "(36) Is not Allah sufficient for His Servant [Prophet Muhammad]? And [yet], they threaten you with those [they worship] other than Him. And whoever Allah leaves astray - for him there is no guide."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ زمر 39:36",
         "content": null,
-        "translation": ""
+        "translation": "(36) کیا اللہ اپنے بندے کے لیے کافی نہیں؟ اور یہ لوگ آپ کو ان سے ڈراتے ہیں جنہیں وہ اللہ کے سوا پوجتے ہیں۔ اور جسے اللہ گمراہ کر دے اسے کوئی راہ دکھانے والا نہیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -594,10 +594,10 @@
         "translation": "O Allah, send salah upon Muhammad and the family of Muhammad, as You have sent salah upon Ibraheem and the family of Ibraheem. You are Praiseworthy and Gloryworthy. O Allah! Bless Muhammad and the family of Muhammad, as You have blessed Ibraheem and the family of Ibraheem, in all the worlds. You are Praiseworthy and Gloryworthy."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "بخاری: 3370",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ! محمد ﷺ اور آلِ محمد پر رحمت نازل فرما، جیسے تُو نے ابراہیم علیہ السلام اور آلِ ابراہیم پر رحمت نازل فرمائی؛ بے شک تُو سزاوارِ حمد، بزرگی والا ہے۔ اے اللہ! محمد ﷺ اور آلِ محمد پر برکت نازل فرما، جیسے تُو نے ابراہیم علیہ السلام اور آلِ ابراہیم پر برکت نازل فرمائی؛ بے شک تُو سزاوارِ حمد، بزرگی والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -629,10 +629,10 @@
         "translation": "(38) And if you asked them, “Who created the heavens and the earth?” they would surely say, “ Allah .” Say, “Then have you considered what you invoke besides Allah ? If Allah intended me harm, are they removers of His harm; or if He intended me mercy, are they withholders of His mercy?” Say, “Sufficient for me is Allah ; upon Him [alone] rely the [wise] reliers.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ زمر 39:38",
         "content": null,
-        "translation": ""
+        "translation": "(38) اور اگر آپ ان سے پوچھیں کہ آسمانوں اور زمین کو کس نے پیدا کیا تو وہ ضرور کہیں گے: ’’اللہ نے۔‘‘ کہہ دیجیے: ’’بھلا بتاؤ، جنہیں تم اللہ کے سوا پکارتے ہو، اگر اللہ مجھے کوئی نقصان پہنچانا چاہے تو کیا وہ اس نقصان کو دور کر سکتی ہیں؟ یا اگر وہ مجھ پر رحمت فرمانا چاہے تو کیا وہ اس کی رحمت کو روک سکتی ہیں؟‘‘ کہہ دیجیے: ’’مجھے اللہ کافی ہے؛ بھروسا کرنے والے اسی پر بھروسا کرتے ہیں۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",

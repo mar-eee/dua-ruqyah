@@ -3,7 +3,7 @@
   "chunk": "ruqyah_instants_006.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 19,
   "id_range": "70-88",
   "source_chars": 5941,
@@ -32,10 +32,10 @@
         "translation": "O Allah, send salah upon Muhammad and the family of Muhammad, as You have sent salah upon Ibraheem and the family of Ibraheem. You are Praiseworthy and Gloryworthy. O Allah! Bless Muhammad and the family of Muhammad, as You have blessed Ibraheem and the family of Ibraheem, in all the worlds. You are Praiseworthy and Gloryworthy."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "بخاری: 3370",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ! محمد ﷺ اور آلِ محمد پر رحمت نازل فرما، جیسے تُو نے ابراہیم علیہ السلام اور آلِ ابراہیم پر رحمت نازل فرمائی؛ بے شک تُو سزاوارِ حمد، بزرگی والا ہے۔ اے اللہ! محمد ﷺ اور آلِ محمد پر برکت نازل فرما، جیسے تُو نے ابراہیم علیہ السلام اور آلِ ابراہیم پر برکت نازل فرمائی؛ بے شک تُو سزاوارِ حمد، بزرگی والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -67,10 +67,10 @@
         "translation": "(87) And [mention] the man of the fish, when he went off in anger and thought that We would not decree [anything] upon him. And he called out within the darknesses, “There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انبیاء 21:87",
         "content": null,
-        "translation": ""
+        "translation": "(87) اور مچھلی والے کو یاد کیجیے، جب وہ ناراض ہو کر چلے گئے اور سمجھے کہ ہم ان پر گرفت نہ کریں گے۔ پھر انہوں نے اندھیروں میں پکارا: تیرے سوا کوئی معبودِ برحق نہیں، تو پاک ہے؛ بے شک میں ظالموں میں سے تھا۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -102,10 +102,10 @@
         "translation": "O Allah, make my body healthy, my hearing healthy and my eyesight healthy. There is no God but You.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
-        "content": "",
-        "translation": ""
+        "topic_name": "سنت سے",
+        "name": "ابو داؤد: 5090",
+        "content": "3 بار کہیں:",
+        "translation": "اے اللہ! میرے بدن کو عافیت عطا فرما۔ اے اللہ! میری سماعت کو عافیت عطا فرما۔ اے اللہ! میری بصارت کو عافیت عطا فرما۔ تیرے سوا کوئی معبودِ برحق نہیں۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -138,10 +138,10 @@
         "translation": "(17) So exalted is Allah when you reach the evening and when you reach the morning. (18) And to Him is [due all] praise throughout the heavens and the earth. And [exalted is He] at night and when you are at noon. (19) He brings the living out of the dead and brings the dead out of the living and brings to life the earth after its lifelessness. And thus will you be brought out. (20) And of His signs is that He created you from dust; then, suddenly you were human beings dispersing [throughout the earth]. (21) And of His signs is that He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy. Indeed in that are signs for a people who give thought. (22) And of His signs is the creation of the heavens and the earth and the diversity of your languages and your colors. Indeed in that are signs for those of knowledge. (23) And of His signs is your sleep by night and day and your seeking of His bounty. Indeed in that are signs for a people who listen. (24) And of His signs is [that] He shows you the lightening [causing] fear and aspiration, and He sends down rain from the sky by which He brings to life the earth after its lifelessness. Indeed in that are signs for a people who use reason. (25) And of His signs is that the heaven and earth remain by His command. Then when He calls you with a [single] call from the earth, immediately you will come forth. (26) And to Him belongs whoever is in the heavens and earth. All are to Him devoutly obedient. (27) And it is He who begins creation; then He repeats it, and that is [even] easier for Him. To Him belongs the highest attribute in the heavens and earth. And He is the Exalted in Might, the Wise."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ روم 30:17-27",
         "content": null,
-        "translation": ""
+        "translation": "(17) پس شام کے وقت اور صبح کے وقت اللہ کی پاکی بیان کرو۔ (18) آسمانوں اور زمین میں تمام حمد اسی کے لیے ہے، اور دن کے پچھلے پہر اور دوپہر کے وقت بھی۔ (19) وہ زندہ کو مردہ سے نکالتا ہے، مردہ کو زندہ سے نکالتا ہے اور زمین کو اس کی موت کے بعد زندہ کرتا ہے؛ اور اسی طرح تم بھی نکالے جاؤ گے۔ (20) اور اس کی نشانیوں میں سے یہ ہے کہ اس نے تمہیں مٹی سے پیدا کیا، پھر اچانک تم انسان بن کر پھیلنے لگے۔ (21) اور اس کی نشانیوں میں سے یہ ہے کہ اس نے تمہارے لیے تم ہی میں سے جوڑے بنائے تاکہ تم ان کے پاس سکون پاؤ، اور تمہارے درمیان محبت اور رحمت رکھ دی۔ بے شک اس میں غور و فکر کرنے والوں کے لیے نشانیاں ہیں۔ (22) اور اس کی نشانیوں میں آسمانوں اور زمین کی پیدائش اور تمہاری زبانوں اور رنگوں کا اختلاف بھی ہے۔ بے شک اس میں علم رکھنے والوں کے لیے نشانیاں ہیں۔ (23) اور اس کی نشانیوں میں رات اور دن کے وقت تمہارا سونا اور اس کا فضل تلاش کرنا بھی ہے۔ بے شک اس میں سننے والوں کے لیے نشانیاں ہیں۔ (24) اور اس کی نشانیوں میں سے یہ ہے کہ وہ تمہیں خوف اور امید دلانے والی بجلی دکھاتا ہے اور آسمان سے پانی برساتا ہے، پھر اس کے ذریعے زمین کو اس کی موت کے بعد زندہ کرتا ہے۔ بے شک اس میں عقل سے کام لینے والوں کے لیے نشانیاں ہیں۔ (25) اور اس کی نشانیوں میں سے یہ ہے کہ آسمان اور زمین اس کے حکم سے قائم ہیں۔ پھر جب وہ تمہیں زمین سے ایک بار پکارے گا تو تم فوراً نکل آؤ گے۔ (26) اور آسمانوں اور زمین میں جو کوئی ہے اسی کا ہے؛ سب اسی کے فرمانبردار ہیں۔ (27) وہی پہلی بار مخلوق کو پیدا کرتا ہے، پھر اسے دوبارہ پیدا کرے گا، اور یہ اس کے لیے زیادہ آسان ہے۔ آسمانوں اور زمین میں اسی کی سب سے بلند شان ہے، اور وہی غالب، حکمت والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -173,10 +173,10 @@
         "translation": "O Allah, it is You Whom I beg for help, for to You all praise is due, and there is no god but You. You are the Compassionate, the Originator of the heavens and the earth, the Lord of Majesty and Splendor. You are the Living, the Eternal.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "مسند احمد: 3/158",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ! میں اس وسیلے سے تجھ سے سوال کرتا ہوں کہ تمام حمد تیرے ہی لیے ہے؛ تیرے سوا کوئی معبودِ برحق نہیں۔ تو بہت احسان فرمانے والا اور آسمانوں اور زمین کو بے مثال پیدا کرنے والا ہے۔ اے جلال و اکرام والے! اے ہمیشہ زندہ رہنے والے! اے سب کو قائم رکھنے والے!"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -208,10 +208,10 @@
         "translation": "(110) Say, “Call upon Allah or call upon the Most Merciful. Whichever [name] you call - to Him belong the best names.” And do not recite [too] loudly in your prayer or [too] quietly but seek between that an [intermediate] way. (111) And say, “Praise to Allah, who has not taken a son and has had no partner in [His] dominion and has no [need of a] protector out of weakness; and glorify Him with [great] glorification.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اسراء 17:110-111",
         "content": null,
-        "translation": ""
+        "translation": "(110) کہہ دیجیے: اللہ کہہ کر پکارو یا رحمان کہہ کر پکارو؛ جس نام سے بھی پکارو، اسی کے لیے بہترین نام ہیں۔ اپنی نماز نہ بہت بلند آواز سے پڑھو اور نہ بہت آہستہ، بلکہ ان دونوں کے درمیان راستہ اختیار کرو۔ (111) اور کہہ دیجیے: تمام تعریفیں اللہ کے لیے ہیں جس نے کوئی بیٹا نہیں بنایا، بادشاہی میں اس کا کوئی شریک نہیں اور نہ عاجزی کے سبب اسے کسی مددگار کی ضرورت ہے۔ اور اس کی خوب بڑائی بیان کرو۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -243,10 +243,10 @@
         "translation": "O Allah, I beg You to grant him Your blessings, to rid him of the evil eye's heat, cold and aches.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "مسند احمد: 3/447",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ! اسے برکت عطا فرما اور اس سے نظرِ بد کی گرمی، سردی اور تکلیف دور فرما۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -278,10 +278,10 @@
         "translation": "(1) Ha, Meem. (2) The revelation of the Book is from Allah, the Exalted in Might, the Knowing. (3) The forgiver of sin, acceptor of repentance, severe in punishment, owner of abundance. There is no deity except Him; to Him is the destination."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ غافر 40:1-3",
         "content": null,
-        "translation": ""
+        "translation": "(1) حا، میم۔ (2) اس کتاب کا نزول اللہ کی طرف سے ہے، جو غالب، سب کچھ جاننے والا ہے۔ (3) گناہ بخشنے والا، توبہ قبول کرنے والا، سخت سزا دینے والا اور بڑے فضل والا ہے۔ اس کے سوا کوئی معبودِ برحق نہیں؛ اسی کی طرف لوٹ کر جانا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -313,10 +313,10 @@
         "translation": "O Allah, it is You Whom I beg for help, for I bear witness that there is no god but You, the One, the eternally Besought of all, Who begets not, nor is He begotten; and to Whom none is comparable.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "مسند احمد: 5/350",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ! میں تجھ سے سوال کرتا ہوں۔ میں گواہی دیتا ہوں کہ تو ہی اللہ ہے؛ تیرے سوا کوئی معبودِ برحق نہیں۔ تو یکتا اور بے نیاز ہے؛ نہ تو نے کسی کو جنا، نہ تو جنا گیا، اور نہ کوئی تیرا ہم سر ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -348,10 +348,10 @@
         "translation": "(109) Many of the People of the Scripture wish they could turn you back to disbelief after you have believed, out of envy from themselves [even] after the truth has become clear to them. So pardon and overlook until Allah delivers His command. Indeed, Allah is over all things competent."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ بقرہ 2:109",
         "content": null,
-        "translation": ""
+        "translation": "(109) اہلِ کتاب میں سے بہت سے لوگ چاہتے ہیں کہ تمہارے ایمان لانے کے بعد تمہیں پھر کفر کی طرف لوٹا دیں۔ حق واضح ہو جانے کے بعد بھی وہ اپنے دلوں کے حسد کی وجہ سے ایسا چاہتے ہیں۔ پس معاف کرو اور درگزر سے کام لو، یہاں تک کہ اللہ اپنا حکم لے آئے۔ بے شک اللہ ہر چیز پر پوری قدرت رکھتا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -383,10 +383,10 @@
         "translation": "I pray to Allah, the Magnificent, Lord of the Glorious Throne, to grant you healing.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
-        "content": "",
-        "translation": ""
+        "topic_name": "سنت سے",
+        "name": "ابو داؤد: 3106",
+        "content": "7 بار کہیں:",
+        "translation": "میں اللہِ عظیم سے، جو عرشِ عظیم کا رب ہے، سوال کرتا ہوں کہ وہ آپ کو شفا عطا فرمائے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -419,10 +419,10 @@
         "translation": "(65) He is the Ever-Living; there is no deity except Him, so call upon Him, [being] sincere to Him in religion. [All] praise is [due] to Allah, Lord of the worlds."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ غافر 40:65",
         "content": null,
-        "translation": ""
+        "translation": "(65) وہی ہمیشہ زندہ ہے؛ اس کے سوا کوئی معبودِ برحق نہیں۔ پس دین کو اسی کے لیے خالص کرتے ہوئے اسی کو پکارو۔ تمام تعریفیں اللہ کے لیے ہیں، جو تمام جہانوں کا رب ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -454,10 +454,10 @@
         "translation": "O Allah, Lord of mankind! It is You Who removes suffering. You are the Healer, and none can heal but You. I beg You to bring about healing that leaves behind no ailment."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "بخاری: 5675",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ، لوگوں کے رب! تکلیف دور فرما اور شفا عطا فرما۔ تو ہی شفا دینے والا ہے۔ تیری شفا کے سوا کوئی شفا نہیں؛ ایسی شفا عطا فرما جو کوئی بیماری باقی نہ چھوڑے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -489,10 +489,10 @@
         "translation": "(54) Or do they envy people for what Allah has given them of His bounty? But we had already given the family of Abraham the Scripture and wisdom and conferred upon them a great kingdom."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نساء 4:54",
         "content": null,
-        "translation": ""
+        "translation": "(54) کیا یہ لوگوں سے اس فضل کی وجہ سے حسد کرتے ہیں جو اللہ نے انہیں عطا فرمایا ہے؟ حالانکہ ہم نے آلِ ابراہیم کو کتاب اور حکمت عطا کی اور انہیں عظیم سلطنت بخشی۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -524,10 +524,10 @@
         "translation": "O Allah! Cool my heart with ice, hail and cool water, and purify it of all sins, as a white garment is cleansed of all dirt.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "ترمذی: 3547",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ! میرے دل کو برف، اولوں اور ٹھنڈے پانی سے ٹھنڈا کر دے۔ اے اللہ! میرے دل کو خطاؤں سے اسی طرح پاک کر دے جیسے تو نے سفید کپڑے کو میل سے پاک کیا۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -559,10 +559,10 @@
         "translation": "(36) And if there comes to you from Satan an evil suggestion, then seek refuge in Allah . Indeed, He is the Hearing, the Knowing."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ فصلت 41:36",
         "content": null,
-        "translation": ""
+        "translation": "(36) اور اگر شیطان کی طرف سے کوئی وسوسہ آپ کو ابھارے تو اللہ کی پناہ مانگ لیجیے۔ بے شک وہی خوب سننے والا، خوب جاننے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -594,10 +594,10 @@
         "translation": "O Allah, make my body healthy, my hearing healthy and my eyesight healthy. There is no God but You."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
-        "content": "",
-        "translation": ""
+        "topic_name": "سنت سے",
+        "name": "ابو داؤد: 5090",
+        "content": "3 بار کہیں:",
+        "translation": "اے اللہ! میرے بدن کو عافیت عطا فرما۔ اے اللہ! میری سماعت کو عافیت عطا فرما۔ اے اللہ! میری بصارت کو عافیت عطا فرما۔ تیرے سوا کوئی معبودِ برحق نہیں۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -630,10 +630,10 @@
         "translation": "(107) And if Allah should touch you with adversity, there is no remover of it except Him; and if He intends for you good, then there is no repeller of His bounty. He causes it to reach whom He wills of His servants. And He is the Forgiving, the Merciful."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یونس 10:107",
         "content": null,
-        "translation": ""
+        "translation": "(107) اور اگر اللہ آپ کو کوئی تکلیف پہنچائے تو اس کے سوا اسے دور کرنے والا کوئی نہیں، اور اگر وہ آپ کے لیے بھلائی چاہے تو اس کے فضل کو کوئی پھیرنے والا نہیں۔ وہ اپنے بندوں میں سے جسے چاہتا ہے اپنے فضل سے نوازتا ہے، اور وہ بہت بخشنے والا، نہایت مہربان ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -665,10 +665,10 @@
         "translation": "O our Lord, Allah, You are in Heaven; holy be Your name. Your command reigns supreme in the heavens and on the earth. As Your mercy is in the heavens, have Your mercy on the earth. Forgive our sins. You are the Lord of the good. Send down of Your mercy and healing unto this ailment to cure it.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
-        "content": "",
-        "translation": ""
+        "topic_name": "سنت سے",
+        "name": "ابو داؤد: 3892",
+        "content": "3 بار کہیں:",
+        "translation": "ہمارا رب وہ اللہ ہے جو آسمان پر ہے۔ تیرا نام پاک ہے۔ تیرا حکم آسمان اور زمین میں نافذ ہے۔ جس طرح تیری رحمت آسمان میں ہے، اسی طرح زمین میں بھی اپنی رحمت فرما۔ ہمارے گناہ اور خطائیں بخش دے۔ تو پاکیزہ لوگوں کا رب ہے۔ اپنی رحمت میں سے رحمت اور اپنی شفا میں سے شفا اس تکلیف پر نازل فرما، تاکہ یہ دور ہو جائے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",

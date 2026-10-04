@@ -3,7 +3,7 @@
   "chunk": "ruqyah_instants_011.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 16,
   "id_range": "158-173",
   "source_chars": 5835,
@@ -32,10 +32,10 @@
         "translation": "(79) And Pharaoh said, \"Bring to me every learned magician.\" (80) So when the magicians came, Moses said to them, \"Throw down whatever you will throw.\" (81) And when they had thrown, Moses said, \"What you have brought is [only] magic. Indeed, Allah will expose its worthlessness. Indeed, Allah does not amend the work of corrupters. (82) And Allah will establish the truth by His words, even if the criminals dislike it.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یونس 10:79-82",
         "content": null,
-        "translation": ""
+        "translation": "(79) اور فرعون نے کہا: ’’ہر ماہر جادوگر کو میرے پاس لاؤ۔‘‘ (80) پھر جب جادوگر آ گئے تو موسیٰ نے ان سے کہا: ’’جو کچھ تم ڈالنے والے ہو، ڈال دو۔‘‘ (81) پھر جب انہوں نے پھینکا تو موسیٰ نے کہا: ’’تم جو کچھ لائے ہو یہ سحر ہے؛ بے شک اللہ اسے باطل کر دے گا۔ یقیناً اللہ فساد کرنے والوں کے کام کو درست نہیں کرتا۔ (82) اور اللہ اپنے کلمات کے ذریعے حق کو ثابت کر دیتا ہے، خواہ مجرم اسے ناپسند کریں۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -67,10 +67,10 @@
         "translation": "(44) And if We had made it a non-Arabic Qur'an, they would have said, “Why are its verses not explained in detail [in our language]? Is it a foreign [recitation] and an Arab [messenger]?” Say, “It is, for those who believe, a guidance and cure.” And those who do not believe - in their ears is deafness, and it is upon them blindness. Those are being called from a distant place."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ فصلت 41:44",
         "content": null,
-        "translation": ""
+        "translation": "(44) اور اگر ہم اسے غیر عربی قرآن بناتے تو وہ کہتے: ’’اس کی آیات کھول کر کیوں نہ بیان کی گئیں؟ کیا کلام عجمی اور رسول عربی؟‘‘ کہہ دیجیے: ’’یہ ایمان والوں کے لیے ہدایت اور شفا ہے۔‘‘ اور جو ایمان نہیں لاتے، ان کے کانوں میں بوجھ ہے اور یہ قرآن ان کے لیے اندھا پن ہے۔ یہ لوگ ایسے ہیں جیسے انہیں کسی دور جگہ سے پکارا جا رہا ہو۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -102,10 +102,10 @@
         "translation": "(65) They said, \"O Moses, either you throw or we will be the first to throw.\" (66) He said, \"Rather, you throw.\" And suddenly their ropes and staffs seemed to him from their magic that they were moving [like snakes]. (67) And he sensed within himself apprehension, did Moses. (68) Allah said, \"Fear not. Indeed, it is you who are superior. (69) And throw what is in your right hand; it will swallow up what they have crafted. What they have crafted is but the trick of a magician, and the magician will not succeed wherever he is.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ طٰہٰ 20:65-69",
         "content": null,
-        "translation": ""
+        "translation": "(65) انہوں نے کہا: ’’اے موسیٰ! یا تو تم ڈالو یا ہم پہلے ڈالیں۔‘‘ (66) موسیٰ نے کہا: ’’بلکہ تم ہی ڈالو۔‘‘ پھر اچانک ان کی رسیاں اور لاٹھیاں ان کے سحر کے سبب موسیٰ کو یوں محسوس ہوئیں جیسے دوڑ رہی ہوں۔ (67) تو موسیٰ نے اپنے دل میں کچھ خوف محسوس کیا۔ (68) ہم نے کہا: ’’ڈرو نہیں؛ یقیناً تم ہی غالب رہو گے۔ (69) اور جو کچھ تمہارے دائیں ہاتھ میں ہے اسے ڈال دو؛ وہ ان کی بنائی ہوئی چیزوں کو نگل جائے گا۔ انہوں نے جو کچھ بنایا ہے وہ محض جادوگر کا فریب ہے، اور جادوگر جہاں بھی آئے کامیاب نہیں ہوتا۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -137,10 +137,10 @@
         "translation": "(57) O mankind, there has to come to you instruction from your Lord and healing for what is in the breasts and guidance and mercy for the believers."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یونس 10:57",
         "content": null,
-        "translation": ""
+        "translation": "(57) اے لوگو! تمہارے پاس تمہارے رب کی طرف سے نصیحت، سینوں کے امراض کے لیے شفا، اور ایمان والوں کے لیے ہدایت اور رحمت آ چکی ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -172,10 +172,10 @@
         "translation": "(43) Moses said to them, \"Throw whatever you will throw.\" (44) So they threw their ropes and their staffs and said, \"By the might of Pharaoh, indeed it is we who are predominant.\" (45) Then Moses threw his staff, and at once it devoured what they falsified. (46) So the magicians fell down in prostration [to Allah ]. (47) They said, \"We have believed in the Lord of the worlds, (48) The Lord of Moses and Aaron.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ شعراء 26:43-48",
         "content": null,
-        "translation": ""
+        "translation": "(43) موسیٰ نے ان سے کہا: ’’جو کچھ تم ڈالنے والے ہو، ڈال دو۔‘‘ (44) پھر انہوں نے اپنی رسیاں اور لاٹھیاں ڈالیں اور کہا: ’’فرعون کی عزت کی قسم! ہم ہی ضرور غالب رہیں گے۔‘‘ (45) پھر موسیٰ نے اپنی لاٹھی ڈالی تو یکایک وہ ان کی گھڑی ہوئی چیزوں کو نگلنے لگی۔ (46) پھر جادوگر سجدے میں گرا دیے گئے۔ (47) انہوں نے کہا: ’’ہم تمام جہانوں کے رب پر ایمان لائے، (48) موسیٰ اور ہارون کے رب پر۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -207,10 +207,10 @@
         "translation": "(82) And We send down the Qur'an that is healing and mercy for the believers, but it does not increase the wrongdoers except in loss."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اسراء 17:82",
         "content": null,
-        "translation": ""
+        "translation": "(82) اور ہم قرآن میں سے وہ نازل کرتے ہیں جو ایمان والوں کے لیے شفا اور رحمت ہے، مگر ظالموں کے خسارے ہی میں اضافہ کرتا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -242,10 +242,10 @@
         "translation": "(1) The Hour has come near, and the moon has split [in two]. (2) And if they see a miracle, they turn away and say, \"Passing magic.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ قمر 54:1-2",
         "content": null,
-        "translation": ""
+        "translation": "(1) قیامت قریب آ گئی اور چاند شق ہو گیا۔ (2) اور اگر وہ کوئی نشانی دیکھتے ہیں تو منہ موڑ لیتے ہیں اور کہتے ہیں: ’’یہ تو مسلسل چلنے والا سحر ہے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -277,10 +277,10 @@
         "translation": "(80) And when I am ill, it is He who cures me."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ شعراء 26:80",
         "content": null,
-        "translation": ""
+        "translation": "(80) اور جب میں بیمار ہوتا ہوں تو وہی مجھے شفا دیتا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -312,10 +312,10 @@
         "translation": "(44) And you will remember what I [now] say to you, and I entrust my affair to Allah . Indeed, Allah is Seeing of [His] servants.\" (45) So Allah protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (46) The Fire, they are exposed to it morning and evening. And the Day the Hour appears [it will be said], \"Make the people of Pharaoh enter the severest punishment.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ غافر 40:44-46",
         "content": null,
-        "translation": ""
+        "translation": "(44) عنقریب تمہیں یاد آ جائے گا جو میں تم سے کہہ رہا ہوں، اور میں اپنا معاملہ اللہ کے سپرد کرتا ہوں؛ بے شک اللہ بندوں کو خوب دیکھنے والا ہے۔ (45) پھر اللہ نے اسے ان کی بری چالوں سے بچا لیا اور آلِ فرعون کو بدترین عذاب نے آ گھیرا۔ (46) وہ آگ ہے جس کے سامنے وہ صبح و شام پیش کیے جاتے ہیں، اور جس دن قیامت قائم ہوگی، حکم ہوگا: ’’آلِ فرعون کو سخت ترین عذاب میں داخل کرو۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -347,10 +347,10 @@
         "translation": "(14) Fight them; Allah will punish them by your hands and will disgrace them and give you victory over them and satisfy the breasts of a believing people (15) And remove the fury in the believers' hearts. And Allah turns in forgiveness to whom He wills; and Allah is Knowing and Wise."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ توبہ 9:14-15",
         "content": null,
-        "translation": ""
+        "translation": "(14) ان سے لڑو؛ اللہ تمہارے ہاتھوں انہیں عذاب دے گا، انہیں رسوا کرے گا، تمہیں ان پر فتح دے گا اور اہلِ ایمان کے دلوں کو شفا دے گا۔ (15) اور ان کے دلوں کا غصہ دور کرے گا۔ اللہ جس کی چاہتا ہے توبہ قبول فرماتا ہے، اور اللہ خوب جاننے والا، حکمت والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -382,10 +382,10 @@
         "translation": "(97) Say, \"Whoever is an enemy to Gabriel - it is [none but] he who has brought the Qur'an down upon your heart, [O Muhammad], by permission of Allah, confirming that which was before it and as guidance and good tidings for the believers.\" (98) Whoever is an enemy to Allah and His angels and His messengers and Gabriel and Michael - then indeed, Allah is an enemy to the disbelievers."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ بقرہ 2:97-98",
         "content": null,
-        "translation": ""
+        "translation": "(97) کہہ دیجیے: ’’جو کوئی جبریل کا دشمن ہو، تو بے شک اسی نے یہ قرآن اللہ کے اذن سے آپ کے دل پر نازل کیا ہے؛ یہ اپنے سے پہلے کی کتابوں کی تصدیق کرتا ہے اور ایمان والوں کے لیے ہدایت اور خوش خبری ہے۔‘‘ (98) جو اللہ، اس کے فرشتوں، اس کے رسولوں، جبریل اور میکائیل کا دشمن ہو تو بے شک اللہ کافروں کا دشمن ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -417,10 +417,10 @@
         "translation": "(81) And say, “Truth has come, and falsehood has departed. Indeed is falsehood, [by nature], ever bound to depart.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اسراء 17:81",
         "content": null,
-        "translation": ""
+        "translation": "(81) اور کہہ دیجیے: ’’حق آ گیا اور باطل مٹ گیا؛ بے شک باطل مٹنے ہی والا ہے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -452,10 +452,10 @@
         "translation": "(26) Say, \"O Allah, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand is [all] good. Indeed, You are over all things competent. (27) You cause the night to enter the day, and You cause the day to enter the night; and You bring the living out of the dead, and You bring the dead out of the living. And You give provision to whom You will without account.\" (28) Let not believers take disbelievers as allies rather than believers. And whoever [of you] does that has nothing with Allah, except when taking precaution against them in prudence. And Allah warns you of Himself, and to Allah is the [final] destination. (29) Say, \"Whether you conceal what is in your breasts or reveal it, Allah knows it. And He knows that which is in the heavens and that which is on the earth. And Allah is over all things competent. (30) The Day every soul will find what it has done of good present [before it] and what it has done of evil, it will wish that between itself and that [evil] was a great distance. And Allah warns you of Himself, and Allah is Kind to [His] servants.\" (31) Say, [O Muhammad], \"If you should love Allah, then follow me, [so] Allah will love you and forgive you your sins. And Allah is Forgiving and Merciful.\" (32) Say, \"Obey Allah and the Messenger.\" But if they turn away - then indeed, Allah does not like the disbelievers."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ آل عمران 3:26-32",
         "content": null,
-        "translation": ""
+        "translation": "(26) کہہ دیجیے: اے اللہ! بادشاہی کے مالک! تو جسے چاہے بادشاہی دیتا ہے اور جس سے چاہے چھین لیتا ہے؛ جسے چاہے عزت دیتا اور جسے چاہے ذلت دیتا ہے۔ تمام بھلائی تیرے ہی ہاتھ میں ہے؛ بے شک تو ہر چیز پر پوری قدرت رکھتا ہے۔ (27) تو رات کو دن میں داخل کرتا ہے اور دن کو رات میں داخل کرتا ہے، زندہ کو مردہ سے نکالتا ہے اور مردہ کو زندہ سے نکالتا ہے، اور جسے چاہے بے حساب رزق دیتا ہے۔ (28) ایمان والے اہلِ ایمان کو چھوڑ کر کافروں کو دوست نہ بنائیں۔ جو ایسا کرے گا اس کا اللہ سے کوئی تعلق نہیں، سوائے اس کے کہ تم ان سے بچاؤ کی کوئی تدبیر اختیار کرو۔ اللہ تمہیں اپنی ذات سے خبردار کرتا ہے، اور اللہ ہی کی طرف لوٹ کر جانا ہے۔ (29) کہہ دیجیے: ’’جو کچھ تمہارے سینوں میں ہے اسے چھپاؤ یا ظاہر کرو، اللہ اسے جانتا ہے۔ اور وہ جانتا ہے جو کچھ آسمانوں اور زمین میں ہے؛ اور اللہ ہر چیز پر پوری قدرت رکھتا ہے۔ (30) جس دن ہر شخص اپنے کیے ہوئے نیک عمل اور اپنے کیے ہوئے برے عمل کو موجود پائے گا، وہ چاہے گا کہ کاش اس کے اور اس برائی کے درمیان بہت دور کا فاصلہ ہوتا۔ اللہ تمہیں اپنی ذات سے خبردار کرتا ہے، اور اللہ بندوں پر بہت شفقت فرمانے والا ہے۔‘‘ (31) کہہ دیجیے: ’’اگر تم اللہ سے محبت کرتے ہو تو میری پیروی کرو؛ اللہ تم سے محبت کرے گا اور تمہارے گناہ بخش دے گا۔ اور اللہ بہت بخشنے والا، نہایت مہربان ہے۔‘‘ (32) کہہ دیجیے: ’’اللہ اور رسول کی اطاعت کرو۔‘‘ پھر اگر وہ منہ موڑیں تو بے شک اللہ کافروں سے محبت نہیں کرتا۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -487,10 +487,10 @@
         "translation": "(107) Our Lord, remove us from it, and if we were to return [to evil], we would indeed be wrongdoers.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ مؤمنون 23:107",
         "content": null,
-        "translation": ""
+        "translation": "(107) اے ہمارے رب! ہمیں اس سے نکال دے، پھر اگر ہم دوبارہ وہی کریں تو یقیناً ہم ظالم ہوں گے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -522,10 +522,10 @@
         "translation": "(130) \"O company of jinn and mankind, did there not come to you messengers from among you, relating to you My verses and warning you of the meeting of this Day of yours?\" They will say, \"We bear witness against ourselves\"; and the worldly life had deluded them, and they will bear witness against themselves that they were disbelievers."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انعام 6:130",
         "content": null,
-        "translation": ""
+        "translation": "(130) اے جنوں اور انسانوں کے گروہ! کیا تمہارے پاس خود تم ہی میں سے رسول نہیں آئے تھے جو تمہیں میری آیات سناتے اور تمہارے اسی دن کی ملاقات سے ڈراتے تھے؟ وہ کہیں گے: ’’ہم اپنے خلاف گواہی دیتے ہیں۔‘‘ دنیا کی زندگی نے انہیں دھوکے میں رکھا، اور وہ اپنے خلاف گواہی دیں گے کہ وہ کافر تھے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -557,10 +557,10 @@
         "translation": "(72) And [recall] when you slew a man and disputed over it, but Allah was to bring out that which you were concealing."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ بقرہ 2:72",
         "content": null,
-        "translation": ""
+        "translation": "(72) اور یاد کرو جب تم نے ایک شخص کو قتل کر دیا تھا، پھر اس کے بارے میں ایک دوسرے پر الزام ڈالنے لگے؛ حالانکہ اللہ وہ بات ظاہر کرنے والا تھا جسے تم چھپا رہے تھے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",

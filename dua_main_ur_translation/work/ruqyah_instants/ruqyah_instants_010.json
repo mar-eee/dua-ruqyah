@@ -3,7 +3,7 @@
   "chunk": "ruqyah_instants_010.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 14,
   "id_range": "144-157",
   "source_chars": 5580,
@@ -32,10 +32,10 @@
         "translation": "(1) Blessed is He in whose hand is dominion, and He is over all things competent - (2) [He] who created death and life to test you [as to] which of you is best in deed - and He is the Exalted in Might, the Forgiving - (3) [And] who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency. So return [your] vision [to the sky]; do you see any breaks? (4) Then return [your] vision twice again. [Your] vision will return to you humbled while it is fatigued."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ ملک 67:1-4",
         "content": null,
-        "translation": ""
+        "translation": "(1) بڑی برکت والا ہے وہ جس کے ہاتھ میں بادشاہی ہے، اور وہ ہر چیز پر پوری قدرت رکھتا ہے۔ (2) جس نے موت اور زندگی کو پیدا کیا تاکہ تمہیں آزمائے کہ تم میں عمل کے اعتبار سے کون بہتر ہے؛ اور وہ زبردست، بہت بخشنے والا ہے۔ (3) جس نے سات آسمان تہ بہ تہ بنائے۔ تم رحمٰن کی تخلیق میں کوئی بے ربطی نہیں دیکھو گے۔ پھر نگاہ دوڑاؤ، کیا تمہیں کوئی شگاف دکھائی دیتا ہے؟ (4) پھر بار بار نگاہ دوڑاؤ؛ تمہاری نگاہ نامراد اور تھکی ہاری لوٹ آئے گی۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -67,10 +67,10 @@
         "translation": "(7) Let a man of wealth spend from his wealth, and he whose provision is restricted - let him spend from what Allah has given him. Allah does not charge a soul except [according to] what He has given it. Allah will bring about, after hardship, ease."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ طلاق 65:7",
         "content": null,
-        "translation": ""
+        "translation": "(7) وسعت والا اپنی وسعت کے مطابق خرچ کرے، اور جس کی روزی تنگ کر دی گئی ہو وہ اس میں سے خرچ کرے جو اللہ نے اسے دیا ہے۔ اللہ کسی جان کو اس سے زیادہ مکلف نہیں کرتا جتنا اسے عطا کیا ہے۔ اللہ تنگی کے بعد آسانی پیدا کر دے گا۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -102,10 +102,10 @@
         "translation": "(51) And indeed, those who disbelieve would almost make you slip with their eyes when they hear the message, and they say, \"Indeed, he is mad.\" (52) But it is not except a reminder to the worlds."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ قلم 68:51-52",
         "content": null,
-        "translation": ""
+        "translation": "(51) اور بے شک کافر جب ذکر سنتے ہیں تو یوں لگتا ہے جیسے اپنی نگاہوں سے آپ کو پھسلا دیں گے، اور کہتے ہیں: ’’یقیناً یہ دیوانہ ہے۔‘‘ (52) حالانکہ یہ تو تمام جہانوں کے لیے نصیحت ہی ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -137,10 +137,10 @@
         "translation": "(62) Unquestionably, [for] the allies of Allah there will be no fear concerning them, nor will they grieve (63) Those who believed and were fearing Allah."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یونس 10:62-63",
         "content": null,
-        "translation": ""
+        "translation": "(62) سن لو! بے شک اللہ کے اولیاء پر نہ کوئی خوف ہوگا اور نہ وہ غمگین ہوں گے؛ (63) یہ وہ لوگ ہیں جو ایمان لائے اور تقویٰ اختیار کرتے رہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -172,10 +172,10 @@
         "translation": "(38) And preferred the life of the world, (39) Then indeed, Hellfire will be [his] refuge. (40) But as for he who feared the position of his Lord and prevented the soul from [unlawful] inclination,"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نازعات 79:38-40",
         "content": null,
-        "translation": ""
+        "translation": "(38) اور دنیا کی زندگی کو ترجیح دی، (39) تو بے شک جہنم ہی اس کا ٹھکانا ہے۔ (40) اور جو شخص اپنے رب کے حضور کھڑا ہونے سے ڈرا اور نفس کو خواہش سے روکا،"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -207,10 +207,10 @@
         "translation": "(86) He said, “I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یوسف 12:86",
         "content": null,
-        "translation": ""
+        "translation": "(86) انہوں نے کہا: ’’میں اپنی پریشانی اور غم کی فریاد صرف اللہ ہی سے کرتا ہوں، اور اللہ کی طرف سے وہ کچھ جانتا ہوں جو تم نہیں جانتے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -242,10 +242,10 @@
         "translation": "(7) So when vision is dazzled (8) And the moon darkens (9) And the sun and the moon are joined, (10) Man will say on that Day, \"Where is the [place of] escape?\" (11) No! There is no refuge. (12) To your Lord, that Day, is the [place of] permanence."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ قیامہ 75:7-12",
         "content": null,
-        "translation": ""
+        "translation": "(7) پھر جب نگاہیں چندھیا جائیں گی، (8) اور چاند بے نور ہو جائے گا، (9) اور سورج اور چاند جمع کر دیے جائیں گے، (10) اس دن انسان کہے گا: ’’بھاگنے کی جگہ کہاں ہے؟‘‘ (11) ہرگز نہیں! کوئی جائے پناہ نہیں۔ (12) اس دن قرار گاہ آپ کے رب ہی کے پاس ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -277,10 +277,10 @@
         "translation": "(28) Those who have believed and whose hearts are assured by the remembrance of Allah . Unquestionably, by the remembrance of Allah hearts are assured.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ رعد 13:28",
         "content": null,
-        "translation": ""
+        "translation": "(28) یہ وہ لوگ ہیں جو ایمان لائے اور جن کے دل اللہ کے ذکر سے مطمئن ہوتے ہیں۔ سن لو! اللہ کے ذکر ہی سے دلوں کو اطمینان ملتا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -312,10 +312,10 @@
         "translation": "(102) And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Harut and Marut. But the two angels do not teach anyone unless they say, \"We are a trial, so do not disbelieve [by practicing magic].\" And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allah . And the people learn what harms them and does not benefit them. But the Children of Israel certainly knew that whoever purchased the magic would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew. (103) And if they had believed and feared Allah, then the reward from Allah would have been [far] better, if they only knew."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ بقرہ 2:102-103",
         "content": null,
-        "translation": ""
+        "translation": "(102) اور وہ اس چیز کے پیچھے لگ گئے جو سلیمان کی بادشاہی میں شیاطین پڑھا کرتے تھے۔ سلیمان نے کفر نہیں کیا بلکہ شیاطین نے کفر کیا؛ وہ لوگوں کو سحر سکھاتے تھے، اور اس چیز کے پیچھے بھی لگے جو بابل میں دو فرشتوں، ہاروت اور ماروت، پر اتاری گئی تھی۔ وہ دونوں کسی کو کچھ نہیں سکھاتے تھے جب تک یہ نہ کہہ دیتے: ’’ہم تو محض آزمائش ہیں، لہٰذا کفر نہ کرو۔‘‘ پھر بھی لوگ ان دونوں سے وہ چیز سیکھتے جس کے ذریعے مرد اور اس کی بیوی کے درمیان جدائی ڈال دیتے، حالانکہ اللہ کے اذن کے بغیر وہ اس کے ذریعے کسی کو نقصان نہیں پہنچا سکتے تھے۔ وہ ایسی چیز سیکھتے جو انہیں نقصان دیتی اور فائدہ نہ دیتی۔ اور انہیں خوب معلوم تھا کہ جس نے سحر کو اختیار کیا، آخرت میں اس کا کوئی حصہ نہیں۔ بہت ہی برا تھا وہ مول جس کے بدلے انہوں نے اپنی جانیں بیچ ڈالیں، کاش وہ جانتے۔ (103) اور اگر وہ ایمان لاتے اور تقویٰ اختیار کرتے تو اللہ کے ہاں ملنے والا اجر کہیں بہتر ہوتا، کاش وہ جانتے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -347,10 +347,10 @@
         "translation": "(27) Allah keeps firm those who believe, with the firm word, in worldly life and in the Hereafter. And Allah sends astray the wrongdoers. And Allah does what He wills."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ ابراہیم 14:27",
         "content": null,
-        "translation": ""
+        "translation": "(27) اللہ ایمان والوں کو دنیا کی زندگی میں بھی اور آخرت میں بھی قولِ ثابت کے ذریعے ثابت قدم رکھتا ہے، اور اللہ ظالموں کو گمراہ کر دیتا ہے۔ اللہ جو چاہتا ہے کرتا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -382,10 +382,10 @@
         "translation": "(104) And Moses said, \"O Pharaoh, I am a messenger from the Lord of the worlds (105) [Who is] obligated not to say about Allah except the truth. I have come to you with clear evidence from your Lord, so send with me the Children of Israel.\" (106) [Pharaoh] said, \"If you have come with a sign, then bring it forth, if you should be of the truthful.\" (107) So Moses threw his staff, and suddenly it was a serpent, manifest. (108) And he drew out his hand; thereupon it was white [with radiance] for the observers. (109) Said the eminent among the people of Pharaoh, \"Indeed, this is a learned magician (110) Who wants to expel you from your land [through magic], so what do you instruct?\" (111) They said, \"Postpone [the matter of] him and his brother and send among the cities gatherers (112) Who will bring you every learned magician.\" (113) And the magicians came to Pharaoh. They said, \"Indeed for us is a reward if we are the predominant.\" (114) He said, \"Yes, and, [moreover], you will be among those made near [to me].\" (115) They said, \"O Moses, either you throw [your staff], or we will be the ones to throw [first].\" (116) He said, \"Throw,\" and when they threw, they bewitched the eyes of the people and struck terror into them, and they presented a great [feat of] magic. (117) And We inspired to Moses, \"Throw your staff,\" and at once it devoured what they were falsifying. (118) So the truth was established, and abolished was what they were doing. (119) And Pharaoh and his people were overcome right there and became debased. (120) And the magicians fell down in prostration [to Allah ]. (121) They said, \"We have believed in the Lord of the worlds, (122) The Lord of Moses and Aaron.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اعراف 7:104-122",
         "content": null,
-        "translation": ""
+        "translation": "(104) اور موسیٰ نے کہا: ’’اے فرعون! میں تمام جہانوں کے رب کی طرف سے رسول ہوں۔ (105) میرے لیے لازم ہے کہ اللہ کے بارے میں حق کے سوا کچھ نہ کہوں۔ میں تمہارے پاس تمہارے رب کی طرف سے واضح نشانی لے کر آیا ہوں، اس لیے بنی اسرائیل کو میرے ساتھ بھیج دے۔‘‘ (106) اس نے کہا: ’’اگر تم کوئی نشانی لائے ہو تو اسے پیش کرو، اگر سچے ہو۔‘‘ (107) موسیٰ نے اپنی لاٹھی ڈال دی تو اچانک وہ ایک واضح اژدہا بن گئی۔ (108) اور اپنا ہاتھ نکالا تو دیکھنے والوں کے سامنے وہ روشن سفید تھا۔ (109) فرعون کی قوم کے سرداروں نے کہا: ’’یقیناً یہ بڑا ماہر جادوگر ہے۔ (110) یہ چاہتا ہے کہ تمہیں تمہاری سرزمین سے نکال دے؛ اب تم کیا مشورہ دیتے ہو؟‘‘ (111) انہوں نے کہا: ’’اسے اور اس کے بھائی کو کچھ مہلت دے اور شہروں میں جمع کرنے والے بھیج، (112) جو ہر ماہر جادوگر کو تمہارے پاس لے آئیں۔‘‘ (113) جادوگر فرعون کے پاس آئے اور بولے: ’’اگر ہم غالب آ گئے تو کیا ہمیں ضرور انعام ملے گا؟‘‘ (114) اس نے کہا: ’’ہاں، اور تم مقرب لوگوں میں شامل ہو جاؤ گے۔‘‘ (115) انہوں نے کہا: ’’اے موسیٰ! یا تو تم ڈالو یا ہم ہی ڈالیں؟‘‘ (116) موسیٰ نے کہا: ’’تم ہی ڈالو۔‘‘ پھر جب انہوں نے ڈالا تو لوگوں کی آنکھوں پر جادو کر دیا، انہیں دہشت زدہ کر دیا اور بہت بڑا سحر پیش کیا۔ (117) اور ہم نے موسیٰ کی طرف وحی کی: ’’اپنی لاٹھی ڈال دو۔‘‘ یکایک وہ ان کی بنائی ہوئی جھوٹی چیزوں کو نگلنے لگی۔ (118) پس حق ثابت ہوگیا اور جو کچھ وہ کرتے تھے باطل ہوگیا۔ (119) وہیں وہ مغلوب ہوگئے اور ذلیل ہو کر رہ گئے۔ (120) اور جادوگر سجدے میں گرا دیے گئے۔ (121) انہوں نے کہا: ’’ہم تمام جہانوں کے رب پر ایمان لائے، (122) موسیٰ اور ہارون کے رب پر۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -417,10 +417,10 @@
         "translation": "(34) And they will say, “Praise to Allah, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative ."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ فاطر 35:34",
         "content": null,
-        "translation": ""
+        "translation": "(34) اور وہ کہیں گے: ’’تمام حمد اللہ کے لیے ہے جس نے ہم سے ہر غم دور کر دیا۔ بے شک ہمارا رب بہت بخشنے والا، قدر دان ہے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -452,10 +452,10 @@
         "translation": "(77) Moses said, \"Do you say [thus] about the truth when it has come to you? Is this magic? But magicians will not succeed.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یونس 10:77",
         "content": null,
-        "translation": ""
+        "translation": "(77) موسیٰ نے کہا: ’’جب حق تمہارے پاس آ گیا تو کیا تم اس کے بارے میں کہتے ہو کہ یہ سحر ہے؟ کیا یہ سحر ہے؟ حالانکہ جادوگر کامیاب نہیں ہوتے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -487,10 +487,10 @@
         "translation": "(1) Did We not expand for you, [O Muhammad], your breast? (2) And We removed from you your burden (3) Which had weighed upon your back (4) And raised high for you your repute. (5) For indeed, with hardship [will be] ease. (6) Indeed, with hardship [will be] ease. (7) So when you have finished [your duties], then stand up [for worship]. (8) And to your Lord direct [your] longing."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انشراح 94:1-8",
         "content": null,
-        "translation": ""
+        "translation": "(1) کیا ہم نے آپ کا سینہ آپ کے لیے کشادہ نہیں کر دیا؟ (2) اور آپ سے آپ کا بوجھ اتار دیا، (3) جو آپ کی پشت پر گراں تھا، (4) اور آپ کے لیے آپ کے ذکر کو بلند کر دیا۔ (5) پس یقیناً مشکل کے ساتھ آسانی ہے۔ (6) بے شک مشکل کے ساتھ آسانی ہے۔ (7) پھر جب آپ فارغ ہوں تو عبادت میں محنت کریں، (8) اور اپنے رب ہی کی طرف رغبت رکھیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",

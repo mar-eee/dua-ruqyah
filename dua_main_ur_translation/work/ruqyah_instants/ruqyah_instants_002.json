@@ -3,7 +3,7 @@
   "chunk": "ruqyah_instants_002.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 14,
   "id_range": "19-32",
   "source_chars": 5222,
@@ -32,10 +32,10 @@
         "translation": "(284) To Allah belongs whatever is in the heavens and whatever is in the earth. Whether you show what is within yourselves or conceal it, Allah will bring you to account for it. Then He will forgive whom He wills and punish whom He wills, and Allah is over all things competent. (285) The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], \"We make no distinction between any of His messengers.\" And they say, \"We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.\" (286) Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ بقرہ 2:284-286",
         "content": null,
-        "translation": ""
+        "translation": "(284) آسمانوں اور زمین میں جو کچھ ہے سب اللہ ہی کا ہے۔ جو کچھ تمہارے دلوں میں ہے، خواہ اسے ظاہر کرو یا چھپاؤ، اللہ تم سے اس کا حساب لے گا۔ پھر جسے چاہے بخش دے گا اور جسے چاہے عذاب دے گا؛ اللہ ہر چیز پر پوری قدرت رکھتا ہے۔ (285) رسول اس چیز پر ایمان لائے جو ان کے رب کی طرف سے ان پر نازل کی گئی، اور مومن بھی۔ سب اللہ، اس کے فرشتوں، اس کی کتابوں اور اس کے رسولوں پر ایمان لائے۔ وہ کہتے ہیں: ’’ہم اس کے رسولوں میں سے کسی میں تفریق نہیں کرتے۔‘‘ اور کہتے ہیں: ’’ہم نے سنا اور اطاعت کی۔ اے ہمارے رب! ہم تیری بخشش چاہتے ہیں اور تیری ہی طرف لوٹنا ہے۔‘‘ (286) اللہ کسی جان پر اس کی طاقت سے بڑھ کر بوجھ نہیں ڈالتا۔ جو نیکی اس نے کمائی اس کا فائدہ اسی کو ہے، اور جو برائی کمائی اس کا وبال بھی اسی پر ہے۔ ’’اے ہمارے رب! اگر ہم بھول جائیں یا خطا کر بیٹھیں تو ہمیں نہ پکڑنا۔ اے ہمارے رب! ہم پر وہ بھاری بوجھ نہ ڈالنا جو تو نے ہم سے پہلے لوگوں پر ڈالا تھا۔ اے ہمارے رب! ہم پر ایسا بوجھ نہ ڈالنا جسے اٹھانے کی ہم میں طاقت نہ ہو۔ ہمیں معاف فرما، ہمیں بخش دے اور ہم پر رحم فرما۔ تو ہی ہمارا کارساز ہے، پس کافر قوم کے مقابلے میں ہماری مدد فرما۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -67,10 +67,10 @@
         "translation": "In the name of Allah, with whose name nothing in the heavens or earth can cause harm, and He is the All-Hearing, All-Knowing."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
-        "content": "",
-        "translation": ""
+        "topic_name": "سنت سے",
+        "name": "ابو داؤد: 5088",
+        "content": "3 بار کہیں:",
+        "translation": "اللہ کے نام سے، جس کے نام کے ساتھ زمین و آسمان کی کوئی چیز نقصان نہیں پہنچا سکتی، اور وہی سب کچھ سننے والا، سب کچھ جاننے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -103,10 +103,10 @@
         "translation": "(137) So if they believe in the same as you believe in, then they have been [rightly] guided; but if they turn away, they are only in dissension, and Allah will be sufficient for you against them. And He is the Hearing, the Knowing."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ بقرہ 2:137",
         "content": null,
-        "translation": ""
+        "translation": "(137) پھر اگر وہ بھی اسی طرح ایمان لائیں جیسے تم ایمان لائے ہو تو ہدایت پا لیں گے، اور اگر منہ موڑیں تو وہ محض مخالفت میں پڑے ہیں۔ پس ان کے مقابلے میں اللہ آپ کے لیے کافی ہوگا، اور وہی سب کچھ سننے والا، سب کچھ جاننے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -138,10 +138,10 @@
         "translation": "I seek refuge in Allah's Face and His perfect words, which neither the good nor the evil can ever escape, from the evil of what comes down from heaven, or goes up to it, from the evil of what comes out of the earth, or gets into it, from the trials of night and day, and from the unexpected occurrences of night and day, except the ones carrying good. O, Allah, You are the Merciful.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "الجامع: 74",
         "content": null,
-        "translation": ""
+        "translation": "میں اللہ کے چہرۂ کریم اور اس کے تمام کامل کلمات کی پناہ مانگتا ہوں، جن سے کوئی نیک یا بد شخص تجاوز نہیں کر سکتا؛ ہر اس چیز کے شر سے جسے اس نے پیدا کیا، وجود بخشا اور پھیلایا؛ اس چیز کے شر سے جو آسمان سے اترتی ہے اور اس چیز کے شر سے جو اس میں چڑھتی ہے؛ اس چیز کے شر سے جسے اس نے زمین میں پھیلایا اور اس چیز کے شر سے جو اس میں سے نکلتی ہے؛ رات اور دن کے فتنوں کے شر سے، اور رات کو آنے والی ہر چیز کے شر سے، سوائے اس کے جو خیر لے کر آئے، اے رحمان!"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -173,10 +173,10 @@
         "translation": "(137) So if they believe in the same as you believe in, then they have been [rightly] guided; but if they turn away, they are only in dissension, and Allah will be sufficient for you against them. And He is the Hearing, the Knowing. (138) [And say, \"Ours is] the religion of Allah . And who is better than Allah in [ordaining] religion? And we are worshippers of Him.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ بقرہ 2:137-138",
         "content": null,
-        "translation": ""
+        "translation": "(137) پھر اگر وہ بھی اسی طرح ایمان لائیں جیسے تم ایمان لائے ہو تو ہدایت پا لیں گے، اور اگر منہ موڑیں تو وہ محض مخالفت میں پڑے ہیں۔ پس ان کے مقابلے میں اللہ آپ کے لیے کافی ہوگا، اور وہی سب کچھ سننے والا، سب کچھ جاننے والا ہے۔ (138) اللہ ہی کا رنگ اختیار کرو؛ اور اللہ سے بہتر رنگ کس کا ہو سکتا ہے؟ ہم اسی کی عبادت کرنے والے ہیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -208,10 +208,10 @@
         "translation": "I seek refuge in all of Allah's perfect Words from the evil of what He has created.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "مسلم: 2708",
         "content": null,
-        "translation": ""
+        "translation": "میں اللہ کے تمام کامل کلمات کے ذریعے ہر اس چیز کے شر سے پناہ مانگتا ہوں جو اس نے پیدا کی ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -243,10 +243,10 @@
         "translation": "(64) But Allah is the best guardian, and He is the most merciful of the merciful.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یوسف 12:64",
         "content": null,
-        "translation": ""
+        "translation": "(64) پس اللہ ہی سب سے بہتر حفاظت فرمانے والا ہے، اور وہ سب رحم کرنے والوں سے بڑھ کر رحم فرمانے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -278,10 +278,10 @@
         "translation": "In the name of Allah I am doing this Ruqyah unto you to get rid of what is harming you and of the evil of spirits and envious eyes. May Allah cure you! In the name of Allah I am doing this Ruqyah unto you."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "مسلم: 2186",
         "content": null,
-        "translation": ""
+        "translation": "اللہ کے نام سے میں آپ پر رقیہ کرتا ہوں، ہر اس چیز سے جو آپ کو تکلیف دیتی ہے، ہر جان اور حسد کرنے والی نظر کے شر سے۔ اللہ آپ کو شفا عطا فرمائے۔ اللہ کے نام سے میں آپ پر رقیہ کرتا ہوں۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -313,10 +313,10 @@
         "translation": "(163) And your god is one God. There is no deity [worthy of worship] except Him, the Entirely Merciful, the Especially Merciful. (164) Indeed, in the creation of the heavens and earth, and the alternation of the night and the day, and the [great] ships which sail through the sea with that which benefits people, and what Allah has sent down from the heavens of rain, giving life thereby to the earth after its lifelessness and dispersing therein every [kind of] moving creature, and [His] directing of the winds and the clouds controlled between the heaven and the earth are signs for a people who use reason."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ بقرہ 2:163-164",
         "content": null,
-        "translation": ""
+        "translation": "(163) اور تمہارا معبود ایک ہی معبود ہے؛ اس کے سوا کوئی معبودِ برحق نہیں۔ وہ نہایت مہربان، بہت رحم فرمانے والا ہے۔ (164) بے شک آسمانوں اور زمین کی پیدائش، رات اور دن کے بدلنے، ان کشتیوں میں جو لوگوں کے فائدے کی چیزیں لے کر سمندر میں چلتی ہیں، اس پانی میں جو اللہ نے آسمان سے اتارا اور اس کے ذریعے مردہ زمین کو زندگی بخشی اور اس میں ہر قسم کے جان دار پھیلا دیے، ہواؤں کے رخ بدلنے اور آسمان و زمین کے درمیان تابع کیے ہوئے بادلوں میں ان لوگوں کے لیے نشانیاں ہیں جو عقل سے کام لیتے ہیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -348,10 +348,10 @@
         "translation": "In the name of Allah, with whose name nothing in the heavens or the earth can cause any harm, and He is the All-Hearing, AllKnowing.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
-        "content": "",
-        "translation": ""
+        "topic_name": "سنت سے",
+        "name": "ابو داؤد: 5088",
+        "content": "تین بار کہیں:",
+        "translation": "اللہ کے نام سے، جس کے نام کے ساتھ زمین و آسمان کی کوئی چیز نقصان نہیں پہنچا سکتی، اور وہی سب کچھ سننے والا، سب کچھ جاننے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -384,10 +384,10 @@
         "translation": "(163) And your god is one God. There is no deity [worthy of worship] except Him, the Entirely Merciful, the Especially Merciful. (164) Indeed, in the creation of the heavens and earth, and the alternation of the night and the day, and the [great] ships which sail through the sea with that which benefits people, and what Allah has sent down from the heavens of rain, giving life thereby to the earth after its lifelessness and dispersing therein every [kind of] moving creature, and [His] directing of the winds and the clouds controlled between the heaven and the earth are signs for a people who use reason."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ بقرہ 2:163-164",
         "content": null,
-        "translation": ""
+        "translation": "(163) اور تمہارا معبود ایک ہی معبود ہے؛ اس کے سوا کوئی معبودِ برحق نہیں۔ وہ نہایت مہربان، بہت رحم فرمانے والا ہے۔ (164) بے شک آسمانوں اور زمین کی پیدائش، رات اور دن کے بدلنے، ان کشتیوں میں جو لوگوں کے فائدے کی چیزیں لے کر سمندر میں چلتی ہیں، اس پانی میں جو اللہ نے آسمان سے اتارا اور اس کے ذریعے مردہ زمین کو زندگی بخشی اور اس میں ہر قسم کے جان دار پھیلا دیے، ہواؤں کے رخ بدلنے اور آسمان و زمین کے درمیان تابع کیے ہوئے بادلوں میں ان لوگوں کے لیے نشانیاں ہیں جو عقل سے کام لیتے ہیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -419,10 +419,10 @@
         "translation": "I seek refuge in Allah's Glorious Face and His perfect words, which neither the good nor the evil can ever escape, from the evil of what comes down from heaven, or goes up to it, from the evil of what comes out of the earth, or gets into it, from the trials of night and day, and from the unexpected occurrences of night and day, except ones carrying good. O You, the Merciful One."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "الجامع: 74",
         "content": null,
-        "translation": ""
+        "translation": "میں اللہ کے چہرۂ کریم اور اس کے تمام کامل کلمات کی پناہ مانگتا ہوں، جن سے کوئی نیک یا بد شخص تجاوز نہیں کر سکتا؛ ہر اس چیز کے شر سے جسے اس نے پیدا کیا، وجود بخشا اور پھیلایا؛ اس چیز کے شر سے جو آسمان سے اترتی ہے اور اس چیز کے شر سے جو اس میں چڑھتی ہے؛ اس چیز کے شر سے جسے اس نے زمین میں پھیلایا اور اس چیز کے شر سے جو اس میں سے نکلتی ہے؛ رات اور دن کے فتنوں کے شر سے، اور رات کو آنے والی ہر چیز کے شر سے، سوائے اس کے جو خیر لے کر آئے، اے رحمان!"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -454,10 +454,10 @@
         "translation": "(1) Say, \"O disbelievers, (2) I do not worship what you worship. (3) Nor are you worshippers of what I worship. (4) Nor will I be a worshipper of what you worship. (5) Nor will you be worshippers of what I worship. (6) For you is your religion, and for me is my religion.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ کافرون 109:1-6",
         "content": null,
-        "translation": ""
+        "translation": "(1) کہہ دیجیے: اے کافرو! (2) میں اُن کی عبادت نہیں کرتا جن کی تم عبادت کرتے ہو۔ (3) اور نہ تم اُس کی عبادت کرنے والے ہو جس کی میں عبادت کرتا ہوں۔ (4) اور نہ میں اُن کی عبادت کرنے والا ہوں جن کی تم نے عبادت کی۔ (5) اور نہ تم اُس کی عبادت کرنے والے ہو جس کی میں عبادت کرتا ہوں۔ (6) تمہارے لیے تمہارا دین اور میرے لیے میرا دین۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -489,10 +489,10 @@
         "translation": "In the name of Allah. I seek refuge in Allah and His might from the evil of what I find and fear."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
-        "content": "",
-        "translation": ""
+        "topic_name": "سنت سے",
+        "name": "مسلم: 222",
+        "content": "3 بار ”بسم اللہ“ کہیں، پھر 7 بار یہ دعا پڑھیں:",
+        "translation": "میں اللہ اور اس کی قدرت کی پناہ لیتا ہوں، اس چیز کے شر سے جسے میں محسوس کرتا ہوں اور جس کا مجھے اندیشہ ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",

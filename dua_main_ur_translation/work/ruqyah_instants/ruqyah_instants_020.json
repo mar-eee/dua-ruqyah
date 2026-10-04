@@ -3,7 +3,7 @@
   "chunk": "ruqyah_instants_020.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 18,
   "id_range": "291-308",
   "source_chars": 4236,
@@ -32,10 +32,10 @@
         "translation": "(22) So is one whose breast Allah has expanded to [accept] Islam and he is upon a light from his Lord [like one whose heart rejects it]? Then woe to those whose hearts are hardened against the remembrance of Allah . Those are in manifest error. (23) Allah has sent down the best statement: a consistent Book wherein is reiteration. The skins shiver therefrom of those who fear their Lord; then their skins and their hearts relax at the remembrance of Allah . That is the guidance of Allah by which He guides whom He wills. And one whom Allah leaves astray - for him there is no guide."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ زمر 39:22-23",
         "content": null,
-        "translation": ""
+        "translation": "(22) بھلا جس شخص کا سینہ اللہ نے اسلام کے لیے کھول دیا ہے اور وہ اپنے رب کی طرف سے نور پر ہے، کیا وہ سخت دل شخص جیسا ہو سکتا ہے؟ سو ان لوگوں کے لیے ہلاکت ہے جن کے دل اللہ کے ذکر سے سخت ہو گئے ہیں۔ یہی لوگ کھلی گمراہی میں ہیں۔ (23) اللہ نے بہترین کلام نازل کیا ہے: ایسی کتاب جس کی آیات باہم ملتی جلتی اور بار بار دہرائی جاتی ہیں۔ اس سے ان لوگوں کے رونگٹے کھڑے ہو جاتے ہیں جو اپنے رب سے ڈرتے ہیں، پھر ان کے جسم اور دل اللہ کے ذکر سے نرم پڑ جاتے ہیں۔ یہ اللہ کی ہدایت ہے، اس کے ذریعے وہ جسے چاہتا ہے ہدایت دیتا ہے۔ اور جسے اللہ گمراہ کر دے اسے کوئی ہدایت دینے والا نہیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -67,10 +67,10 @@
         "translation": "(61) And Allah will save those who feared Him by their attainment; no evil will touch them, nor will they grieve."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ زمر 39:61",
         "content": null,
-        "translation": ""
+        "translation": "(61) اور اللہ متقی لوگوں کو ان کی کامیابی کے سبب نجات دے گا؛ نہ انہیں کوئی برائی چھوئے گی اور نہ وہ غمگین ہوں گے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -102,10 +102,10 @@
         "translation": "(13) Indeed, those who have said, \"Our Lord is Allah,\" and then remained on a right course - there will be no fear concerning them, nor will they grieve."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ احقاف 46:13",
         "content": null,
-        "translation": ""
+        "translation": "(13) بے شک جن لوگوں نے کہا: ’’ہمارا رب اللہ ہے‘‘، پھر اس پر ثابت قدم رہے، ان پر نہ کوئی خوف ہوگا اور نہ وہ غمگین ہوں گے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -137,10 +137,10 @@
         "translation": "(7) Let a man of wealth spend from his wealth, and he whose provision is restricted - let him spend from what Allah has given him. Allah does not charge a soul except [according to] what He has given it. Allah will bring about, after hardship, ease."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ طلاق 65:7",
         "content": null,
-        "translation": ""
+        "translation": "(7) وسعت والا اپنی وسعت کے مطابق خرچ کرے، اور جس کی روزی تنگ کر دی گئی ہو وہ اس میں سے خرچ کرے جو اللہ نے اسے دیا ہے۔ اللہ کسی جان کو اس سے زیادہ مکلف نہیں کرتا جتنا اسے عطا کیا ہے۔ اللہ تنگی کے بعد آسانی پیدا کر دے گا۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -172,10 +172,10 @@
         "translation": "(1) Did We not expand for you, [O Muhammad], your breast? (2) And We removed from you your burden (3) Which had weighed upon your back (4) And raised high for you your repute. (5) For indeed, with hardship [will be] ease. (6) Indeed, with hardship [will be] ease. (7) So when you have finished [your duties], then stand up [for worship]. (8) And to your Lord direct [your] longing."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انشراح 94:1-8",
         "content": null,
-        "translation": ""
+        "translation": "(1) کیا ہم نے آپ کا سینہ آپ کے لیے کشادہ نہیں کر دیا؟ (2) اور آپ سے آپ کا بوجھ اتار دیا، (3) جو آپ کی پشت پر گراں تھا، (4) اور آپ کے لیے آپ کے ذکر کو بلند کر دیا۔ (5) پس یقیناً مشکل کے ساتھ آسانی ہے۔ (6) بے شک مشکل کے ساتھ آسانی ہے۔ (7) پھر جب آپ فارغ ہوں تو عبادت میں محنت کریں، (8) اور اپنے رب ہی کی طرف رغبت رکھیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -207,10 +207,10 @@
         "translation": "(1) When the victory of Allah has come and the conquest, (2) And you see the people entering into the religion of Allah in multitudes, (3) Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of repentance."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نصر 110:1-3",
         "content": null,
-        "translation": ""
+        "translation": "(1) جب اللہ کی مدد اور فتح آ جائے، (2) اور آپ لوگوں کو اللہ کے دین میں گروہ در گروہ داخل ہوتے دیکھیں، (3) تو اپنے رب کی حمد کے ساتھ تسبیح کیجیے اور اس سے بخشش مانگیے۔ بے شک وہ بہت توبہ قبول کرنے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -242,10 +242,10 @@
         "translation": "(61) And He is the subjugator over His servants, and He sends over you guardian-angels until, when death comes to one of you, Our messengers take him, and they do not fail [in their duties]."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انعام 6:61",
         "content": null,
-        "translation": ""
+        "translation": "(61) اور وہ اپنے بندوں پر پوری طرح غالب ہے اور تم پر نگہبان بھیجتا ہے، یہاں تک کہ جب تم میں سے کسی کو موت آتی ہے تو ہمارے بھیجے ہوئے فرشتے اس کی جان قبض کر لیتے ہیں، اور وہ کوئی کوتاہی نہیں کرتے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -277,10 +277,10 @@
         "translation": "(64) Say, \"It is Allah who saves you from it and from every distress; then you [still] associate others with Him.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انعام 6:64",
         "content": null,
-        "translation": ""
+        "translation": "(64) کہہ دیجیے: ’’اللہ ہی تمہیں اس سے اور ہر مصیبت سے نجات دیتا ہے، پھر بھی تم شرک کرتے ہو۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -312,10 +312,10 @@
         "translation": "(128) There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you and to the believers is kind and merciful. (129) But if they turn away, [O Muhammad], say, \"Sufficient for me is Allah ; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ توبہ 9:128-129",
         "content": null,
-        "translation": ""
+        "translation": "(128) یقیناً تمہارے پاس تمہی میں سے ایک رسول آئے ہیں۔ تمہارا مشقت میں پڑنا ان پر بہت گراں ہے، وہ تمہاری بھلائی کے نہایت خواہش مند ہیں اور مومنوں کے لیے بہت شفقت کرنے والے، بہت رحم فرمانے والے ہیں۔ (129) پھر اگر وہ منہ موڑیں تو کہہ دیجیے: ’’مجھے اللہ کافی ہے؛ اس کے سوا کوئی معبودِ برحق نہیں۔ اسی پر میں نے بھروسا کیا، اور وہ عرشِ عظیم کا رب ہے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -347,10 +347,10 @@
         "translation": "(64) He said, \"Should I entrust you with him except [under coercion] as I entrusted you with his brother before? But Allah is the best guardian, and He is the most merciful of the merciful.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یوسف 12:64",
         "content": null,
-        "translation": ""
+        "translation": "(64) انہوں نے کہا: ’’کیا میں اس کے بارے میں تم پر اسی طرح اعتبار کروں جیسے اس سے پہلے اس کے بھائی کے بارے میں کیا تھا؟ پس اللہ ہی سب سے بہتر حفاظت فرمانے والا ہے، اور وہ سب رحم کرنے والوں سے بڑھ کر رحم فرمانے والا ہے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -382,10 +382,10 @@
         "translation": "(9) Indeed, it is We who sent down the Qur'an and indeed, We will be its guardian."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ حجر 15:9",
         "content": null,
-        "translation": ""
+        "translation": "(9) بے شک ہم ہی نے یہ قرآن نازل کیا ہے اور ہم ہی اس کی حفاظت کرنے والے ہیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -417,10 +417,10 @@
         "translation": "(30) He said, \"My Lord, support me against the corrupting people.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ عنکبوت 29:30",
         "content": null,
-        "translation": ""
+        "translation": "(30) انہوں نے کہا: ’’اے میرے رب! فساد برپا کرنے والی قوم کے مقابلے میں میری مدد فرما۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -452,10 +452,10 @@
         "translation": "(10) And indeed, [appointed] over you are keepers, (11) Noble and recording; (12) They know whatever you do."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انفطار 82:10-12",
         "content": null,
-        "translation": ""
+        "translation": "(10) یقیناً تم پر نگہبان مقرر ہیں، (11) معزز لکھنے والے، (12) وہ جانتے ہیں کہ تم کیا کرتے ہو۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -487,10 +487,10 @@
         "translation": "(4) There is no soul but that it has over it a protector."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ طارق 86:4",
         "content": null,
-        "translation": ""
+        "translation": "(4) ہر جان پر ایک نگہبان مقرر ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -522,10 +522,10 @@
         "translation": "(1) Say, \"O disbelievers, (2) I do not worship what you worship. (3) Nor are you worshippers of what I worship. (4) Nor will I be a worshipper of what you worship. (5) Nor will you be worshippers of what I worship. (6) For you is your religion, and for me is my religion.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ کافرون 109:1-6",
         "content": null,
-        "translation": ""
+        "translation": "(1) کہہ دیجیے: اے کافرو! (2) میں اُن کی عبادت نہیں کرتا جن کی تم عبادت کرتے ہو۔ (3) اور نہ تم اُس کی عبادت کرنے والے ہو جس کی میں عبادت کرتا ہوں۔ (4) اور نہ میں اُن کی عبادت کرنے والا ہوں جن کی تم نے عبادت کی۔ (5) اور نہ تم اُس کی عبادت کرنے والے ہو جس کی میں عبادت کرتا ہوں۔ (6) تمہارے لیے تمہارا دین اور میرے لیے میرا دین۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -557,10 +557,10 @@
         "translation": "(1) Say, \"He is Allah, [who is] One, (2) Allah, the Eternal Refuge. (3) He neither begets nor is born, (4) Nor is there to Him any equivalent.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اخلاص 112:1-4",
         "content": null,
-        "translation": ""
+        "translation": "(1) کہہ دیجیے: وہ اللہ ایک ہے۔ (2) اللہ بے نیاز ہے۔ (3) نہ اس نے کسی کو جنا اور نہ وہ جنا گیا۔ (4) اور کوئی اس کا ہم سر نہیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -592,10 +592,10 @@
         "translation": "(1) Say, \"I seek refuge in the Lord of daybreak (2) From the evil of that which He created (3) And from the evil of darkness when it settles (4) And from the evil of the blowers in knots (5) And from the evil of an envier when he envies.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ فلق 113:1-5",
         "content": null,
-        "translation": ""
+        "translation": "(1) کہہ دیجیے: میں صبح کے رب کی پناہ مانگتا ہوں، (2) ہر اس چیز کے شر سے جو اس نے پیدا کی، (3) اور اندھیری رات کے شر سے جب وہ چھا جائے، (4) اور گرہوں میں پھونکنے والیوں کے شر سے، (5) اور حسد کرنے والے کے شر سے جب وہ حسد کرے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -627,10 +627,10 @@
         "translation": "(1) Say, \"I seek refuge in the Lord of mankind, (2) The Sovereign of mankind. (3) The God of mankind, (4) From the evil of the retreating whisperer - (5) Who whispers [evil] into the breasts of mankind - (6) From among the jinn and mankind.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ ناس 114:1-6",
         "content": null,
-        "translation": ""
+        "translation": "(1) کہہ دیجیے: میں لوگوں کے رب، (2) لوگوں کے بادشاہ، (3) لوگوں کے معبود کی پناہ مانگتا ہوں، (4) اس وسوسہ ڈالنے والے کے شر سے جو پیچھے ہٹ جاتا ہے، (5) جو لوگوں کے سینوں میں وسوسہ ڈالتا ہے، (6) خواہ وہ جنوں میں سے ہو یا انسانوں میں سے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",

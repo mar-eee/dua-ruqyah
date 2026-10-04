@@ -3,7 +3,7 @@
   "chunk": "ruqyah_instants_008.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 21,
   "id_range": "105-125",
   "source_chars": 5791,
@@ -32,10 +32,10 @@
         "translation": "(247) And their prophet said to them, \"Indeed, Allah has sent to you Saul as a king.\" They said, \"How can he have kingship over us while we are more worthy of kingship than him and he has not been given any measure of wealth?\" He said, \"Indeed, Allah has chosen him over you and has increased him abundantly in knowledge and stature. And Allah gives His sovereignty to whom He wills. And Allah is all-Encompassing [in favor] and Knowing.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ بقرہ 2:247",
         "content": null,
-        "translation": ""
+        "translation": "(247) اور ان کے نبی نے ان سے کہا: ’’بے شک اللہ نے طالوت کو تمہارے لیے بادشاہ مقرر کیا ہے۔‘‘ انہوں نے کہا: ’’اسے ہم پر بادشاہی کیسے مل سکتی ہے، حالانکہ ہم بادشاہی کے اس سے زیادہ حق دار ہیں اور اسے مال کی فراوانی بھی نہیں دی گئی؟‘‘ نبی نے کہا: ’’بے شک اللہ نے اسے تم پر منتخب کیا ہے اور اسے علم اور جسم میں فراخی عطا کی ہے۔ اللہ اپنی بادشاہی جسے چاہتا ہے عطا فرماتا ہے، اور اللہ بڑی وسعت والا، خوب جاننے والا ہے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -67,10 +67,10 @@
         "translation": "I seek refuge in Your pleasure from Your wrath, in Your pardon from Your punishment, and in You from You. Never can my praise of You be as much as Your praise of Yourself.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "مسلم: 486",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ! میں تیری ناراضی سے تیری رضا کی پناہ مانگتا ہوں، تیرے عذاب سے تیری عافیت کی پناہ مانگتا ہوں، اور تجھ سے تیری ہی پناہ مانگتا ہوں۔ میں کماحقہ تیری حمد بیان نہیں کر سکتا؛ تُو ویسا ہی ہے جیسا تُو نے خود اپنی تعریف فرمائی ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -102,10 +102,10 @@
         "translation": "(117) And We inspired Moses, “Throw your staff,” and at once it devoured what they were falsifying. (118) So the truth was established, and abolished was what they were doing. (119) And Pharaoh and his people were overcome right there and became debased. (120) And the magicians fell down in prostration [to Allah ]. (121) They said, “We have believed in the Lord of the worlds, (122) The Lord of Moses and Aaron.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اعراف 7:117-122",
         "content": null,
-        "translation": ""
+        "translation": "(117) اور ہم نے موسیٰ کی طرف وحی کی: ’’اپنی لاٹھی ڈال دو۔‘‘ یکایک وہ ان کی بنائی ہوئی جھوٹی چیزوں کو نگلنے لگی۔ (118) پس حق ثابت ہوگیا اور جو کچھ وہ کرتے تھے باطل ہوگیا۔ (119) وہیں وہ مغلوب ہوگئے اور ذلیل ہو کر رہ گئے۔ (120) اور جادوگر سجدے میں گرا دیے گئے۔ (121) انہوں نے کہا: ’’ہم تمام جہانوں کے رب پر ایمان لائے، (122) موسیٰ اور ہارون کے رب پر۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -137,10 +137,10 @@
         "translation": "(32) And do not wish for that by which Allah has made some of you exceed others. For men is a share of what they have earned, and for women is a share of what they have earned. And ask Allah of his bounty. Indeed Allah is ever, of all things, Knowing."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نساء 4:32",
         "content": null,
-        "translation": ""
+        "translation": "(32) اور اس چیز کی تمنا نہ کرو جس کے ذریعے اللہ نے تم میں سے بعض کو بعض پر فضیلت دی ہے۔ مردوں کے لیے ان کی کمائی کا حصہ ہے اور عورتوں کے لیے ان کی کمائی کا حصہ ہے۔ اور اللہ سے اس کا فضل مانگو۔ بے شک اللہ ہر چیز کو خوب جاننے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -172,10 +172,10 @@
         "translation": "O Allah, I am Your slave, son of Your bondman and bondwoman. My forehead is in Your Hand. Your command concerning me prevails, and Your judgement of me is just. By each of Your names, with which You have described Yourself, which You have revealed in Your Book, which You may have taught to some of your creatures, or which You have decided to keep unknown, I pray to You to make the Qur'an the delight of my heart, the light of my breast, and the remover of my grief and distress.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "مسند احمد: 1/391",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ! میں تیرا بندہ، تیرے بندے کا بیٹا اور تیری بندی کا بیٹا ہوں۔ میری پیشانی تیرے ہاتھ میں ہے، میرے بارے میں تیرا حکم نافذ ہے اور میرے حق میں تیرا فیصلہ سراسر عدل ہے۔ میں تجھ سے تیرے ہر اس نام کے وسیلے سے سوال کرتا ہوں جو تو نے اپنا رکھا، اپنی مخلوق میں سے کسی کو سکھایا، اپنی کتاب میں نازل کیا یا اپنے پاس علمِ غیب میں مخصوص رکھا ہے، کہ تو قرآن کو میرے دل کی بہار، میرے سینے کا نور، میرے غم کو دور کرنے والا اور میری پریشانی کو ختم کرنے والا بنا دے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -207,10 +207,10 @@
         "translation": "(77) Moses said, “Do you say [thus] about the truth when it has come to you? Is this magic? But magicians will not succeed.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یونس 10:77",
         "content": null,
-        "translation": ""
+        "translation": "(77) موسیٰ نے کہا: ’’جب حق تمہارے پاس آ گیا تو کیا تم اس کے بارے میں کہتے ہو کہ یہ سحر ہے؟ کیا یہ سحر ہے؟ حالانکہ جادوگر کامیاب نہیں ہوتے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -242,10 +242,10 @@
         "translation": "(54) Or do they envy people for what Allah has given them of His bounty? But we had already given the family of Abraham the Scripture and wisdom and conferred upon them a great kingdom."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نساء 4:54",
         "content": null,
-        "translation": ""
+        "translation": "(54) کیا یہ لوگوں سے اس فضل کی وجہ سے حسد کرتے ہیں جو اللہ نے انہیں عطا فرمایا ہے؟ حالانکہ ہم نے آلِ ابراہیم کو کتاب اور حکمت عطا کی اور انہیں عظیم سلطنت بخشی۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -277,10 +277,10 @@
         "translation": "O Allah, it is Your mercy that I seek. I beg You not to abandon me to myself, even for as short as a wink. I beg You to set right all my affairs. There is no god but You.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "ابو داؤد: 5090",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ! میں تیری رحمت کا امیدوار ہوں، مجھے پلک جھپکنے کے برابر بھی میرے نفس کے حوالے نہ کر اور میرے تمام معاملات درست فرما دے۔ تیرے سوا کوئی معبودِ برحق نہیں۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -312,10 +312,10 @@
         "translation": "(81) And when they had thrown, Moses said, “What you have brought is [only] magic. Indeed, Allah will expose its worthlessness. Indeed, Allah does not amend the work of corrupters. (82) And Allah will establish the truth by His words, even if the criminals dislike it.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یونس 10:81-82",
         "content": null,
-        "translation": ""
+        "translation": "(81) پھر جب انہوں نے پھینکا تو موسیٰ نے کہا: ’’تم جو کچھ لائے ہو یہ سحر ہے؛ بے شک اللہ اسے باطل کر دے گا۔ یقیناً اللہ فساد کرنے والوں کے کام کو درست نہیں کرتا۔ (82) اور اللہ اپنے کلمات کے ذریعے حق کو ثابت کر دیتا ہے، خواہ مجرم اسے ناپسند کریں۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -347,10 +347,10 @@
         "translation": "(73) But if bounty comes to you from Allah, he will surely say, as if there had never been between you and him any affection. \"Oh, I wish I had been with them so I could have attained a great attainment.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نساء 4:73",
         "content": null,
-        "translation": ""
+        "translation": "(73) اور اگر تمہیں اللہ کی طرف سے کوئی فضل پہنچ جائے تو وہ ضرور کہے گا، گویا تمہارے اور اس کے درمیان کبھی کوئی دوستی ہی نہ تھی: ’’کاش میں بھی ان کے ساتھ ہوتا تو بڑی کامیابی حاصل کرتا۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -382,10 +382,10 @@
         "translation": "There is no god but Allah, the Magnificent, the Forbearing; there is no god but Allah, Lord of the heavens and the earth, and Lord of the Glorious Throne.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "بخاری: 6345",
         "content": null,
-        "translation": ""
+        "translation": "اللہ کے سوا کوئی معبودِ برحق نہیں، وہ عظمت والا، نہایت بردبار ہے۔ اللہ کے سوا کوئی معبودِ برحق نہیں، وہ عرشِ عظیم کا رب ہے۔ اللہ کے سوا کوئی معبودِ برحق نہیں، وہ آسمانوں کا رب، زمین کا رب اور عرشِ کریم کا رب ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -417,10 +417,10 @@
         "translation": "(69) And throw what is in your right hand; it will swallow up what they have crafted. What they have crafted is but the trick of a magician, and the magician will not succeed wherever he is.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ طٰہٰ 20:69",
         "content": null,
-        "translation": ""
+        "translation": "(69) اور جو کچھ تمہارے دائیں ہاتھ میں ہے اسے ڈال دو؛ وہ ان کی بنائی ہوئی چیزوں کو نگل جائے گا۔ انہوں نے جو کچھ بنایا ہے وہ محض جادوگر کا فریب ہے، اور جادوگر جہاں بھی آئے کامیاب نہیں ہوتا۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -452,10 +452,10 @@
         "translation": "(197) And those you call upon besides Him are unable to help you, nor can they help themselves.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اعراف 7:197",
         "content": null,
-        "translation": ""
+        "translation": "(197) اور جنہیں تم اس کے سوا پکارتے ہو وہ نہ تمہاری مدد کر سکتے ہیں اور نہ خود اپنی مدد کر سکتے ہیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -487,10 +487,10 @@
         "translation": "O You Lord of Majesty and Splendor, O You the Living, the Self-subsistent, by Your Grace I seek help.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "ترمذی: 3524",
         "content": null,
-        "translation": ""
+        "translation": "اے جلال و اکرام والے! اے ہمیشہ زندہ رہنے والے! اے سب کو قائم رکھنے والے! میں تیری رحمت کے وسیلے سے فریاد کرتا ہوں۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -522,10 +522,10 @@
         "translation": "(115) Then did you think that We created you uselessly and that to Us you would not be returned?” (116) So exalted is Allah, the Sovereign, the Truth; there is no deity except Him, Lord of the Noble Throne. (117) And whoever invokes besides Allah another deity for which he has no proof - then his account is only with his Lord. Indeed, the disbelievers will not succeed. (118) And, [O Muhammad], say, “My Lord, forgive and have mercy, and You are the best of the merciful.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ مؤمنون 23:115-118",
         "content": null,
-        "translation": ""
+        "translation": "(115) کیا تم نے یہ سمجھ رکھا تھا کہ ہم نے تمہیں بے مقصد پیدا کیا ہے اور تم ہماری طرف لوٹائے نہیں جاؤ گے؟ (116) پس اللہ بہت بلند ہے، حقیقی بادشاہ؛ اس کے سوا کوئی معبودِ برحق نہیں، وہ عرشِ کریم کا رب ہے۔ (117) اور جو اللہ کے ساتھ کسی دوسرے معبود کو پکارتا ہے، جس کے لیے اس کے پاس کوئی دلیل نہیں، اس کا حساب اس کے رب ہی کے پاس ہے۔ یقیناً کافر کامیاب نہیں ہوتے۔ (118) اور کہہ دیجیے: ’’اے میرے رب! بخش دے اور رحم فرما، اور تو سب رحم کرنے والوں سے بہتر ہے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -557,10 +557,10 @@
         "translation": "(59) If only they had been satisfied with what Allah and His Messenger gave them and said, \"Sufficient for us is Allah ; Allah will give us of His bounty, and [so will] His Messenger; indeed, we are desirous toward Allah,\" [it would have been better for them]."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ توبہ 9:59",
         "content": null,
-        "translation": ""
+        "translation": "(59) اور کاش وہ اس پر راضی رہتے جو اللہ اور اس کے رسول نے انہیں دیا، اور کہتے: ’’ہمیں اللہ کافی ہے؛ عنقریب اللہ اپنے فضل سے ہمیں عطا فرمائے گا اور اس کا رسول بھی۔ بے شک ہم اللہ ہی کی طرف رغبت رکھتے ہیں۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -592,10 +592,10 @@
         "translation": "Allah, Allah, He is my Lord. I do not associate anyone with Him.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "ابو داؤد: 1525",
         "content": null,
-        "translation": ""
+        "translation": "اللہ، اللہ ہی میرا رب ہے، میں اس کے ساتھ کسی چیز کو شریک نہیں کرتا۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -627,10 +627,10 @@
         "translation": "(31) O our people, respond to the Messenger of Allah and believe in him; Allah will forgive for your sins and protect you from painful punishment."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ احقاف 46:31",
         "content": null,
-        "translation": ""
+        "translation": "(31) اے ہماری قوم! اللہ کی طرف بلانے والے کی دعوت قبول کرو اور اس پر ایمان لاؤ؛ اللہ تمہارے گناہ بخش دے گا اور تمہیں دردناک عذاب سے پناہ دے گا۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -662,10 +662,10 @@
         "translation": "(74) They swear by Allah that they did not say [anything against the Prophet] while they had said the word of disbelief and disbelieved after their [pretense of] Islam and planned that which they were not to attain. And they were not resentful except [for the fact] that Allah and His Messenger had enriched them of His bounty. So if they repent, it is better for them; but if they turn away, Allah will punish them with a painful punishment in this world and the Hereafter. And there will not be for them on earth any protector or helper."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ توبہ 9:74",
         "content": null,
-        "translation": ""
+        "translation": "(74) وہ اللہ کی قسم کھاتے ہیں کہ انہوں نے کچھ نہیں کہا، حالانکہ انہوں نے کفر کی بات ضرور کہی، اور اسلام لانے کے بعد کفر کیا، اور اس کام کا ارادہ کیا جسے وہ پا نہ سکے۔ انہیں صرف اس بات نے ناراض کیا کہ اللہ اور اس کے رسول نے اپنے فضل سے انہیں غنی کر دیا۔ پھر اگر وہ توبہ کر لیں تو ان کے لیے بہتر ہوگا، اور اگر منہ موڑیں تو اللہ انہیں دنیا اور آخرت میں دردناک عذاب دے گا، اور زمین میں ان کا نہ کوئی سرپرست ہوگا نہ مددگار۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -697,10 +697,10 @@
         "translation": "Allaah is Sufficient for me, none has the right to be worshipped except Him, upon Him I rely and He is Lord of the exalted throne."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
-        "content": "",
-        "translation": ""
+        "topic_name": "سنت سے",
+        "name": "ابو داؤد: 5081",
+        "content": "7 بار کہیں:",
+        "translation": "مجھے اللہ کافی ہے، اس کے سوا کوئی معبودِ برحق نہیں، اسی پر میں نے بھروسا کیا، اور وہی عرشِ عظیم کا رب ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -733,10 +733,10 @@
         "translation": "(33) O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allah ]. (34) So which of the favors of your Lord would you deny? (35) There will be sent upon you a flame of fire and smoke, and you will not defend yourselves. (36) So which of the favors of your Lord would you deny?"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ رحمٰن 55:33-36",
         "content": null,
-        "translation": ""
+        "translation": "(33) اے جنوں اور انسانوں کے گروہ! اگر تم آسمانوں اور زمین کے کناروں سے نکل سکتے ہو تو نکل جاؤ؛ تم اللہ کی عطا کردہ قوت و اختیار کے بغیر نہیں نکل سکو گے۔ (34) پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟ (35) تم دونوں پر آگ کا شعلہ اور دھواں چھوڑا جائے گا، پھر تم اپنا دفاع نہیں کر سکو گے۔ (36) پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",

@@ -3,7 +3,7 @@
   "chunk": "ruqyah_instants_005.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 17,
   "id_range": "53-69",
   "source_chars": 5786,
@@ -32,10 +32,10 @@
         "translation": "(18) Allah witnesses that there is no deity except Him, and [so do] the angels and those of knowledge - [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise. (19) Indeed, the religion in the sight of Allah is Islam. And those who were given the Scripture did not differ except after knowledge had come to them - out of jealous animosity between themselves. And whoever disbelieves in the verses of Allah, then indeed, Allah is swift in [taking] account. (20) So if they argue with you, say, \"I have submitted myself to Allah [in Islam], and [so have] those who follow me.\" And say to those who were given the Scripture and [to] the unlearned, \"Have you submitted yourselves?\" And if they submit [in Islam], they are rightly guided; but if they turn away - then upon you is only the [duty of] notification. And Allah is Seeing of [His] servants."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ آل عمران 3:18-20",
         "content": null,
-        "translation": ""
+        "translation": "(18) اللہ گواہی دیتا ہے کہ اس کے سوا کوئی معبودِ برحق نہیں، اور فرشتے اور اہلِ علم بھی؛ وہ انصاف کو قائم رکھنے والا ہے۔ اس کے سوا کوئی معبودِ برحق نہیں؛ وہ زبردست، حکمت والا ہے۔ (19) بے شک اللہ کے نزدیک دین صرف اسلام ہے۔ اور اہلِ کتاب نے علم آ جانے کے بعد محض باہمی ضد کی وجہ سے اختلاف کیا۔ اور جو اللہ کی آیات کا انکار کرے تو بے شک اللہ جلد حساب لینے والا ہے۔ (20) پھر اگر یہ لوگ آپ سے جھگڑیں تو کہہ دیجیے: میں نے اپنا رخ اللہ کے سامنے جھکا دیا، اور میرے پیروکاروں نے بھی۔ اور اہلِ کتاب اور ان پڑھ لوگوں سے کہہ دیجیے: کیا تم نے بھی اسلام قبول کر لیا؟ پس اگر وہ اسلام قبول کر لیں تو ہدایت پا جائیں گے، اور اگر منہ موڑیں تو آپ پر صرف پیغام پہنچا دینا ہے۔ اور اللہ بندوں کو خوب دیکھنے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -67,10 +67,10 @@
         "translation": "In the name of Allah. I seek refuge in Allah and His might from the evil of what I find and fear.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
-        "content": "",
-        "translation": ""
+        "topic_name": "سنت سے",
+        "name": "مسلم: 222",
+        "content": "3 بار ”بسم اللہ“ کہیں، پھر 7 بار یہ دعا پڑھیں:",
+        "translation": "میں اللہ اور اس کی قدرت کی پناہ لیتا ہوں، اس چیز کے شر سے جسے میں محسوس کرتا ہوں اور جس کا مجھے اندیشہ ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -103,10 +103,10 @@
         "translation": "O Allah, we beg You to grant us good as Your Prophet Muhammad begged of You, and we seek refuge in You from evil as Your Prophet Muhammad sought in You. You are the only One whose help is sought, and the only One that answers prayers. There is no help or power except from Allah."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "ترمذی: 3521",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ! ہم تجھ سے ہر وہ بھلائی مانگتے ہیں جو تیرے نبی محمد ﷺ نے تجھ سے مانگی، اور ہر اس شر سے تیری پناہ مانگتے ہیں جس سے تیرے نبی محمد ﷺ نے تیری پناہ مانگی۔ تو ہی ہے جس سے مدد مانگی جاتی ہے، اور مقصد تک پہنچانا تیرے ہی اختیار میں ہے۔ نیکی کی قوت اور برائی سے بچنے کی طاقت صرف اللہ ہی کی توفیق سے ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -138,10 +138,10 @@
         "translation": "(26) Say, “O Allah, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand is [all] good. Indeed, You are over all things competent. (27) You cause the night to enter the day, and You cause the day to enter the night; and You bring the living out of the dead, and You bring the dead out of the living. And You give provision to whom You will without account.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ آل عمران 3:26-27",
         "content": null,
-        "translation": ""
+        "translation": "(26) کہہ دیجیے: اے اللہ! بادشاہی کے مالک! تو جسے چاہے بادشاہی دیتا ہے اور جس سے چاہے چھین لیتا ہے؛ جسے چاہے عزت دیتا اور جسے چاہے ذلت دیتا ہے۔ تمام بھلائی تیرے ہی ہاتھ میں ہے؛ بے شک تو ہر چیز پر پوری قدرت رکھتا ہے۔ (27) تو رات کو دن میں داخل کرتا ہے اور دن کو رات میں داخل کرتا ہے، زندہ کو مردہ سے نکالتا ہے اور مردہ کو زندہ سے نکالتا ہے، اور جسے چاہے بے حساب رزق دیتا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -173,10 +173,10 @@
         "translation": "O Allah, it is You Whom I beg for help, for to You all praise is due, and there is no god but You. You are the Compassionate, the Originator of the heavens and the earth, the Lord of Majesty and Splendor. You are the Living, the Eternal."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "مسند احمد: 3/158",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ! میں اس وسیلے سے تجھ سے سوال کرتا ہوں کہ تمام حمد تیرے ہی لیے ہے؛ تیرے سوا کوئی معبودِ برحق نہیں۔ تو بہت احسان فرمانے والا اور آسمانوں اور زمین کو بے مثال پیدا کرنے والا ہے۔ اے جلال و اکرام والے! اے ہمیشہ زندہ رہنے والے! اے سب کو قائم رکھنے والے!"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -208,10 +208,10 @@
         "translation": "(85) And whoever desires other than Islam as religion - never will it be accepted from him, and he, in the Hereafter, will be among the losers."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ آل عمران 3:85",
         "content": null,
-        "translation": ""
+        "translation": "(85) اور جو شخص اسلام کے سوا کوئی اور دین چاہے تو وہ دین اس سے ہرگز قبول نہ کیا جائے گا، اور آخرت میں وہ خسارہ اٹھانے والوں میں سے ہوگا۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -243,10 +243,10 @@
         "translation": "In the name of Allah I am doing this Ruqyah unto you to remove what is harming you and remove the evil of spirits and envious eyes. May Allah grant you healing! In the name of Allah I am doing this Ruqyah unto you."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "مسلم: 2186",
         "content": null,
-        "translation": ""
+        "translation": "اللہ کے نام سے میں آپ پر رقیہ کرتا ہوں، ہر اس چیز سے جو آپ کو تکلیف دیتی ہے، ہر جان اور حسد کرنے والی نظر کے شر سے۔ اللہ آپ کو شفا عطا فرمائے۔ اللہ کے نام سے میں آپ پر رقیہ کرتا ہوں۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -278,10 +278,10 @@
         "translation": "There is no god but Allah, the Magnificent, the Forbearing; there is no god but Allah, Lord of the Tremendous Throne, Lord of the heavens and the earth, and Lord of the Glorious Throne."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "بخاری: 6345",
         "content": null,
-        "translation": ""
+        "translation": "اللہ کے سوا کوئی معبودِ برحق نہیں، وہ عظمت والا، نہایت بردبار ہے۔ اللہ کے سوا کوئی معبودِ برحق نہیں، وہ عرشِ عظیم کا رب ہے۔ اللہ کے سوا کوئی معبودِ برحق نہیں، وہ آسمانوں کا رب، زمین کا رب اور عرشِ کریم کا رب ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -313,10 +313,10 @@
         "translation": "(85) And whoever desires other than Islam as religion - never will it be accepted from him, and he, in the Hereafter, will be among the losers."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ آل عمران 3:85",
         "content": null,
-        "translation": ""
+        "translation": "(85) اور جو شخص اسلام کے سوا کوئی اور دین چاہے تو وہ دین اس سے ہرگز قبول نہ کیا جائے گا، اور آخرت میں وہ خسارہ اٹھانے والوں میں سے ہوگا۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -348,10 +348,10 @@
         "translation": "O Allah, it is You Whom I beg for help, for I bear witness that there is no god but You, the One, the eternally Besought of all, Who begets not, nor is He begotten; and to Whom none is comparable.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "مسند احمد: 5/350",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ! میں تجھ سے سوال کرتا ہوں۔ میں گواہی دیتا ہوں کہ تو ہی اللہ ہے؛ تیرے سوا کوئی معبودِ برحق نہیں۔ تو یکتا اور بے نیاز ہے؛ نہ تو نے کسی کو جنا، نہ تو جنا گیا، اور نہ کوئی تیرا ہم سر ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -383,10 +383,10 @@
         "translation": "(54) Indeed, your Lord is Allah, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, His is the creation and the command; blessed is Allah, Lord of the worlds. (55) Call upon your Lord in humility and privately; indeed, He does not like transgressors. (56) And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allah is near to the doers of good."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اعراف 7:54-56",
         "content": null,
-        "translation": ""
+        "translation": "(54) بے شک تمہارا رب اللہ ہے، جس نے آسمانوں اور زمین کو چھ دنوں میں پیدا کیا، پھر عرش پر مستوی ہوا۔ وہ رات سے دن کو ڈھانپ دیتا ہے اور رات تیزی سے اس کے پیچھے آتی ہے؛ اور سورج، چاند اور ستارے سب اس کے حکم کے تابع ہیں۔ سن لو! پیدا کرنا اور حکم دینا اسی کا کام ہے۔ بڑی برکت والا ہے اللہ، تمام جہانوں کا رب۔ (55) اپنے رب کو گڑگڑاتے ہوئے اور چپکے چپکے پکارو؛ بے شک وہ حد سے بڑھنے والوں کو پسند نہیں کرتا۔ (56) زمین کی اصلاح کے بعد اس میں فساد نہ پھیلاؤ، اور اسے خوف اور امید کے ساتھ پکارو۔ بے شک اللہ کی رحمت نیکی کرنے والوں کے قریب ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -418,10 +418,10 @@
         "translation": "In the name of Allah, may He grant you healing; may He cure you of all diseases, of the evil of envious ones when they envy, and of the evil eye.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "مسلم: 2185",
         "content": null,
-        "translation": ""
+        "translation": "اللہ کے نام سے، وہ آپ کو تندرستی دے، ہر بیماری سے شفا عطا فرمائے، حسد کرنے والے کے شر سے جب وہ حسد کرے، اور ہر نظرِ بد لگانے والے کے شر سے محفوظ رکھے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -453,10 +453,10 @@
         "translation": "O our Lord, Allah, You are in Heaven; holy be Your name. Your command reigns supreme in the heavens and on the earth. As Your mercy is in the heavens, have Your mercy on the earth. Forgive our sins. You are the Lord of the good. Send down of Your mercy and healing unto this ailment to cure it."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
-        "content": "",
-        "translation": ""
+        "topic_name": "سنت سے",
+        "name": "ابو داؤد: 3892",
+        "content": "3 بار کہیں:",
+        "translation": "ہمارا رب وہ اللہ ہے جو آسمان پر ہے۔ تیرا نام پاک ہے۔ تیرا حکم آسمان اور زمین میں نافذ ہے۔ جس طرح تیری رحمت آسمان میں ہے، اسی طرح زمین میں بھی اپنی رحمت فرما۔ ہمارے گناہ اور خطائیں بخش دے۔ تو پاکیزہ لوگوں کا رب ہے۔ اپنی رحمت میں سے رحمت اور اپنی شفا میں سے شفا اس تکلیف پر نازل فرما، تاکہ یہ دور ہو جائے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -489,10 +489,10 @@
         "translation": "(54) Indeed, your Lord is Allah, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, His is the creation and the command; blessed is Allah, Lord of the worlds. (55) Call upon your Lord in humility and privately; indeed, He does not like transgressors. (56) And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allah is near to the doers of good."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اعراف 7:54-56",
         "content": null,
-        "translation": ""
+        "translation": "(54) بے شک تمہارا رب اللہ ہے، جس نے آسمانوں اور زمین کو چھ دنوں میں پیدا کیا، پھر عرش پر مستوی ہوا۔ وہ رات سے دن کو ڈھانپ دیتا ہے اور رات تیزی سے اس کے پیچھے آتی ہے؛ اور سورج، چاند اور ستارے سب اس کے حکم کے تابع ہیں۔ سن لو! پیدا کرنا اور حکم دینا اسی کا کام ہے۔ بڑی برکت والا ہے اللہ، تمام جہانوں کا رب۔ (55) اپنے رب کو گڑگڑاتے ہوئے اور چپکے چپکے پکارو؛ بے شک وہ حد سے بڑھنے والوں کو پسند نہیں کرتا۔ (56) زمین کی اصلاح کے بعد اس میں فساد نہ پھیلاؤ، اور اسے خوف اور امید کے ساتھ پکارو۔ بے شک اللہ کی رحمت نیکی کرنے والوں کے قریب ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -524,10 +524,10 @@
         "translation": "O Allah, Lord of mankind! It is You Who removes suffering. You are the Healer, and none can heal but You. I beg You to bring about healing that leaves behind no ailment.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "بخاری: 5675",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ، لوگوں کے رب! تکلیف دور فرما اور شفا عطا فرما۔ تو ہی شفا دینے والا ہے۔ تیری شفا کے سوا کوئی شفا نہیں؛ ایسی شفا عطا فرما جو کوئی بیماری باقی نہ چھوڑے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -559,10 +559,10 @@
         "translation": "(110) Say, \"Call upon Allah or call upon the Most Merciful. Whichever [name] you call - to Him belong the best names.\" And do not recite [too] loudly in your prayer or [too] quietly but seek between that an [intermediate] way. (111) And say, \"Praise to Allah, who has not taken a son and has had no partner in [His] dominion and has no [need of a] protector out of weakness; and glorify Him with [great] glorification.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اسراء 17:110-111",
         "content": null,
-        "translation": ""
+        "translation": "(110) کہہ دیجیے: اللہ کہہ کر پکارو یا رحمان کہہ کر پکارو؛ جس نام سے بھی پکارو، اسی کے لیے بہترین نام ہیں۔ اپنی نماز نہ بہت بلند آواز سے پڑھو اور نہ بہت آہستہ، بلکہ ان دونوں کے درمیان راستہ اختیار کرو۔ (111) اور کہہ دیجیے: تمام تعریفیں اللہ کے لیے ہیں جس نے کوئی بیٹا نہیں بنایا، بادشاہی میں اس کا کوئی شریک نہیں اور نہ عاجزی کے سبب اسے کسی مددگار کی ضرورت ہے۔ اور اس کی خوب بڑائی بیان کرو۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -594,10 +594,10 @@
         "translation": "In the name of Allah, with the earth of our land and the saliva of some of us, the ill amongst us will be healed by Allah's permission.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "بخاری: 5745",
         "content": null,
-        "translation": ""
+        "translation": "اللہ کے نام سے۔ ہماری زمین کی مٹی، ہم میں سے بعض کے لعاب کے ساتھ، ہمارے رب کے حکم سے ہمارے مریض کو شفا دے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",

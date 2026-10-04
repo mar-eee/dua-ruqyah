@@ -3,7 +3,7 @@
   "chunk": "ruqyah_instants_016.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 8,
   "id_range": "216-223",
   "source_chars": 5720,
@@ -32,10 +32,10 @@
         "translation": "(18) Then is one who was a believer like one who was defiantly disobedient? They are not equal. (19) As for those who believed and did righteous deeds, for them will be the Gardens of Refuge as accommodation for what they used to do. (20) But as for those who defiantly disobeyed, their refuge is the Fire. Every time they wish to emerge from it, they will be returned to it while it is said to them, \"Taste the punishment of the Fire which you used to deny.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ سجدہ 32:18-20",
         "content": null,
-        "translation": ""
+        "translation": "(18) بھلا جو شخص مومن ہو، کیا وہ اس شخص جیسا ہو سکتا ہے جو نافرمان ہو؟ وہ برابر نہیں ہو سکتے۔ (19) جو لوگ ایمان لائے اور نیک اعمال کرتے رہے، ان کے اعمال کے بدلے مہمانی کے طور پر ان کے لیے جنت کے باغ ہوں گے۔ (20) اور جن لوگوں نے نافرمانی کی ان کا ٹھکانا آگ ہے۔ جب بھی وہ اس سے نکلنا چاہیں گے، اسی میں لوٹا دیے جائیں گے اور ان سے کہا جائے گا: ’’اس آگ کا عذاب چکھو جسے تم جھٹلایا کرتے تھے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -67,10 +67,10 @@
         "translation": "(1) By those [angels] lined up in rows (2) And those who drive [the clouds] (3) And those who recite the message, (4) Indeed, your God is One, (5) Lord of the heavens and the earth and that between them and Lord of the sunrises. (6) Indeed, We have adorned the nearest heaven with an adornment of stars (7) And as protection against every rebellious devil (8) [So] they may not listen to the exalted assembly [of angels] and are pelted from every side, (9) Repelled; and for them is a constant punishment, (10) Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness]. (11) Then inquire of them, [O Muhammad], \"Are they a stronger [or more difficult] creation or those [others] We have created?\" Indeed, We created men from sticky clay."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ صافات 37:1-11",
         "content": null,
-        "translation": ""
+        "translation": "(1) قسم ہے صف باندھنے والوں کی، (2) پھر سختی سے جھڑکنے والوں کی، (3) پھر ذکر کی تلاوت کرنے والوں کی؛ (4) بے شک تمہارا معبود ایک ہی ہے، (5) جو آسمانوں اور زمین کا، ان کے درمیان کی ہر چیز کا اور تمام مشرقوں کا رب ہے۔ (6) بے شک ہم نے قریب ترین آسمان کو ستاروں کی زینت سے آراستہ کیا، (7) اور ہر سرکش شیطان سے محفوظ رکھا۔ (8) وہ ملأِ اعلیٰ کی بات نہیں سن سکتے اور ہر طرف سے ان پر شعلے پھینکے جاتے ہیں، (9) انہیں دھتکارنے کے لیے، اور ان کے لیے دائمی عذاب ہے؛ (10) مگر جو اچانک کوئی بات اچک لے تو ایک چمکتا ہوا شعلہ اس کے پیچھے لگ جاتا ہے۔ (11) پس ان سے پوچھیے: کیا انہیں پیدا کرنا زیادہ مشکل ہے یا ان مخلوقات کو جنہیں ہم نے پیدا کیا؟ بے شک ہم نے انہیں چپکنے والی مٹی سے پیدا کیا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -102,10 +102,10 @@
         "translation": "(74) Indeed, the criminals will be in the punishment of Hell, abiding eternally. (75) It will not be allowed to subside for them, and they, therein, are in despair. (76) And We did not wrong them, but it was they who were the wrongdoers. (77) And they will call, \"O Malik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (78) We had certainly brought you the truth, but most of you, to the truth, were averse. (79) Or have they devised [some] affair? But indeed, We are devising [a plan]. (80) Or do they think that We hear not their secrets and their private conversations? Yes, [We do], and Our messengers are with them recording."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ زخرف 43:74-80",
         "content": null,
-        "translation": ""
+        "translation": "(74) بے شک مجرم ہمیشہ جہنم کے عذاب میں رہیں گے۔ (75) ان کے عذاب میں کوئی کمی نہیں کی جائے گی اور وہ اسی میں ناامید پڑے رہیں گے۔ (76) ہم نے ان پر ظلم نہیں کیا بلکہ وہ خود ہی ظالم تھے۔ (77) اور وہ پکاریں گے: ’’اے مالک! تیرا رب ہمارا کام ہی تمام کر دے۔‘‘ وہ کہے گا: ’’تمہیں یہیں رہنا ہے۔‘‘ (78) یقیناً ہم تمہارے پاس حق لائے تھے، مگر تم میں سے اکثر حق کو ناپسند کرتے تھے۔ (79) کیا انہوں نے کوئی تدبیر پکی کر لی ہے؟ تو ہم بھی اپنی تدبیر پکی کرنے والے ہیں۔ (80) کیا وہ سمجھتے ہیں کہ ہم ان کی پوشیدہ باتیں اور سرگوشیاں نہیں سنتے؟ کیوں نہیں! اور ہمارے بھیجے ہوئے فرشتے ان کے پاس موجود سب کچھ لکھ رہے ہیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -137,10 +137,10 @@
         "translation": "(1) Ha, Meem. (2) By the clear Book, (3) Indeed, We sent it down during a blessed night. Indeed, We were to warn [mankind]. (4) On that night is made distinct every precise matter - (5) [Every] matter [proceeding] from Us. Indeed, We were to send [a messenger] (6) As mercy from your Lord. Indeed, He is the Hearing, the Knowing. (7) Lord of the heavens and the earth and that between them, if you would be certain. (8) There is no deity except Him; He gives life and causes death. [He is] your Lord and the Lord of your first forefathers. (9) But they are in doubt, amusing themselves. (10) Then watch for the Day when the sky will bring a visible smoke. (11) Covering the people; this is a painful torment. (12) [They will say], \"Our Lord, remove from us the torment; indeed, we are believers.\" (13) How will there be for them a reminder [at that time]? And there had come to them a clear Messenger. (14) Then they turned away from him and said, \"[He was] taught [and is] a madman.\" (15) Indeed, We will remove the torment for a little. Indeed, you [disbelievers] will return [to disbelief]. (16) The Day We will strike with the greatest assault, indeed, We will take retribution."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ دخان 44:1-16",
         "content": null,
-        "translation": ""
+        "translation": "(1) حٰم۔ (2) قسم ہے روشن کتاب کی۔ (3) بے شک ہم نے اسے ایک بابرکت رات میں نازل کیا؛ یقیناً ہم خبردار کرنے والے ہیں۔ (4) اس رات ہر حکمت والے معاملے کا فیصلہ کیا جاتا ہے، (5) ہماری طرف سے حکم کے طور پر۔ بے شک ہم ہی پیغمبر بھیجنے والے ہیں، (6) آپ کے رب کی طرف سے رحمت کے طور پر۔ یقیناً وہی خوب سننے والا، خوب جاننے والا ہے، (7) آسمانوں، زمین اور ان دونوں کے درمیان کی ہر چیز کا رب، اگر تم یقین رکھنے والے ہو۔ (8) اس کے سوا کوئی معبود نہیں؛ وہی زندہ کرتا اور مارتا ہے۔ وہ تمہارا بھی رب ہے اور تمہارے پہلے باپ دادا کا بھی رب۔ (9) مگر وہ شک میں پڑے کھیل رہے ہیں۔ (10) پس اس دن کا انتظار کیجیے جب آسمان نمایاں دھواں لائے گا، (11) جو لوگوں کو ڈھانپ لے گا۔ یہ دردناک عذاب ہے۔ (12) وہ کہیں گے: ’’اے ہمارے رب! ہم سے یہ عذاب دور کر دے، بے شک ہم ایمان لانے والے ہیں۔‘‘ (13) اب ان کے لیے نصیحت قبول کرنا کہاں ممکن ہے، جبکہ ان کے پاس کھول کر بیان کرنے والا رسول آ چکا تھا؟ (14) پھر انہوں نے اس سے منہ موڑ لیا اور کہا: ’’یہ سکھایا ہوا دیوانہ ہے۔‘‘ (15) ہم کچھ دیر کے لیے عذاب دور کر دیتے ہیں، مگر تم پھر اپنی پہلی روش پر لوٹ جاؤ گے۔ (16) جس دن ہم بڑی سخت گرفت کریں گے، بے شک ہم بدلہ لینے والے ہیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -172,10 +172,10 @@
         "translation": "(43) Indeed, the tree of zaqqum (44) Is food for the sinful. (45) Like murky oil, it boils within bellies (46) Like the boiling of scalding water. (47) [It will be commanded], \"Seize him and drag him into the midst of the Hellfire, (48) Then pour over his head from the torment of scalding water.\" (49) [It will be said], \"Taste! Indeed, you are the honored, the noble! (50) Indeed, this is what you used to dispute.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ دخان 44:43-50",
         "content": null,
-        "translation": ""
+        "translation": "(43) بے شک زقوم کا درخت (44) گناہ گار کا کھانا ہے۔ (45) پگھلے ہوئے تانبے کی طرح، جو پیٹوں میں کھولے گا، (46) کھولتے ہوئے پانی کی مانند۔ (47) حکم ہوگا: ’’اسے پکڑو اور گھسیٹتے ہوئے جہنم کے بیچوں بیچ لے جاؤ۔ (48) پھر اس کے سر پر کھولتے ہوئے پانی کا عذاب انڈیل دو۔‘‘ (49) کہا جائے گا: ’’چکھ! بے شک تو بڑا معزز، بڑا باعزت ہے!‘‘ (50) بے شک یہی وہ چیز ہے جس میں تم شک کیا کرتے تھے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -207,10 +207,10 @@
         "translation": "(7) Woe to every sinful liar (8) Who hears the verses of Allah recited to him, then persists arrogantly as if he had not heard them. So give him tidings of a painful punishment. (9) And when he knows anything of Our verses, he takes them in ridicule. Those will have a humiliating punishment. (10) Before them is Hell, and what they had earned will not avail them at all nor what they had taken besides Allah as allies. And they will have a great punishment."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ جاثیہ 45:7-10",
         "content": null,
-        "translation": ""
+        "translation": "(7) ہر سخت جھوٹے، گناہ گار کے لیے ہلاکت ہے۔ (8) وہ اللہ کی آیات سنتا ہے جو اسے پڑھ کر سنائی جاتی ہیں، پھر تکبر کے ساتھ اپنی روش پر اڑا رہتا ہے، گویا اس نے انہیں سنا ہی نہیں۔ سو اسے دردناک عذاب کی خوش خبری دے دیجیے۔ (9) اور جب اسے ہماری آیات میں سے کسی چیز کا علم ہوتا ہے تو وہ ان کا مذاق اڑاتا ہے۔ ایسے لوگوں کے لیے رسوا کرنے والا عذاب ہے۔ (10) ان کے آگے جہنم ہے، اور نہ ان کی کمائی ان کے کچھ کام آئے گی اور نہ وہ جنہیں انہوں نے اللہ کے سوا کارساز بنا رکھا تھا۔ اور ان کے لیے بہت بڑا عذاب ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -242,10 +242,10 @@
         "translation": "(23) And his companion, [the angel], will say, \"This [record] is what is with me, prepared.\" (24) [ Allah will say], \"Throw into Hell every obstinate disbeliever, (25) Preventer of good, aggressor, and doubter, (26) Who made [as equal] with Allah another deity; then throw him into the severe punishment.\" (27) His [devil] companion will say, \"Our Lord, I did not make him transgress, but he [himself] was in extreme error.\" (28) [ Allah ] will say, \"Do not dispute before Me, while I had already presented to you the warning. (29) The word will not be changed with Me, and never will I be unjust to the servants.\" (30) On the Day We will say to Hell, \"Have you been filled?\" and it will say, \"Are there some more,\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ ق 50:23-30",
         "content": null,
-        "translation": ""
+        "translation": "(23) اور اس کا ساتھی فرشتہ کہے گا: ’’یہ میرے پاس حاضر و تیار ہے۔‘‘ (24) حکم ہوگا: ’’تم دونوں ہر سخت ناشکرے، ہٹ دھرم کو جہنم میں ڈال دو، (25) جو بھلائی سے روکنے والا، حد سے بڑھنے والا اور شک کرنے والا تھا، (26) جس نے اللہ کے ساتھ کوئی دوسرا معبود بنا لیا تھا؛ سو تم دونوں اسے سخت عذاب میں ڈال دو۔‘‘ (27) اس کا شیطان ساتھی کہے گا: ’’اے ہمارے رب! میں نے اسے سرکش نہیں بنایا تھا بلکہ یہ خود دور کی گمراہی میں پڑا ہوا تھا۔‘‘ (28) اللہ فرمائے گا: ’’میرے سامنے جھگڑا نہ کرو، میں تمہیں پہلے ہی عذاب سے خبردار کر چکا تھا۔ (29) میرے ہاں بات بدلی نہیں جاتی اور میں بندوں پر ہرگز ظلم کرنے والا نہیں۔‘‘ (30) جس دن ہم جہنم سے پوچھیں گے: ’’کیا تو بھر گئی؟‘‘ اور وہ کہے گی: ’’کیا کچھ اور بھی ہے؟‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -277,10 +277,10 @@
         "translation": "(43) Are your disbelievers better than those [former ones], or have you immunity in the scripture? (44) Or do they say, \"We are an assembly supporting [each other]\"? (45) [Their] assembly will be defeated, and they will turn their backs [in retreat]. (46) But the Hour is their appointment [for due punishment], and the Hour is more disastrous and more bitter. (47) Indeed, the criminals are in error and madness. (48) The Day they are dragged into the Fire on their faces [it will be said], \"Taste the touch of Saqar.\" (49) Indeed, all things We created with predestination. (50) And Our command is but one, like a glance of the eye. (51) And We have already destroyed your kinds, so is there any who will remember? (52) And everything they did is in written records. (53) And every small and great [thing] is inscribed."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ قمر 54:43-53",
         "content": null,
-        "translation": ""
+        "translation": "(43) کیا تمہارے کافر ان پہلے لوگوں سے بہتر ہیں، یا آسمانی کتابوں میں تمہارے لیے نجات کی کوئی ضمانت ہے؟ (44) یا وہ کہتے ہیں: ’’ہم ایک متحد اور غالب جماعت ہیں۔‘‘ (45) عن قریب یہ جماعت شکست کھائے گی اور یہ لوگ پیٹھ پھیر کر بھاگیں گے۔ (46) بلکہ قیامت ان کے وعدے کا وقت ہے، اور قیامت کہیں زیادہ تباہ کن اور تلخ ہے۔ (47) بے شک مجرم گمراہی اور بھڑکتی آگ میں ہیں۔ (48) جس دن انہیں منہ کے بل آگ میں گھسیٹا جائے گا اور کہا جائے گا: ’’سقر کی لپٹ کا مزہ چکھو۔‘‘ (49) بے شک ہم نے ہر چیز ایک اندازے کے مطابق پیدا کی ہے۔ (50) اور ہمارا حکم تو بس ایک ہی بار ہوتا ہے، آنکھ جھپکنے کی طرح۔ (51) اور یقیناً ہم تمہارے جیسے بہت سے گروہوں کو ہلاک کر چکے ہیں؛ تو کیا کوئی نصیحت قبول کرنے والا ہے؟ (52) اور انہوں نے جو کچھ کیا وہ سب نوشتوں میں درج ہے، (53) اور ہر چھوٹی بڑی چیز لکھی ہوئی ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",

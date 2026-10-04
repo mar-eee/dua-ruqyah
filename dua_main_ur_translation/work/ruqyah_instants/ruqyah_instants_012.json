@@ -3,7 +3,7 @@
   "chunk": "ruqyah_instants_012.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 16,
   "id_range": "174-189",
   "source_chars": 5735,
@@ -32,10 +32,10 @@
         "translation": "(89) We would have invented against Allah a lie if we returned to your religion after Allah had saved us from it. And it is not for us to return to it except that Allah, our Lord, should will. Our Lord has encompassed all things in knowledge. Upon Allah we have relied. Our Lord, decide between us and our people in truth, and You are the best of those who give decision."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اعراف 7:89",
         "content": null,
-        "translation": ""
+        "translation": "(89) اگر ہم تمہاری ملت میں واپس آ جائیں، بعد اس کے کہ اللہ نے ہمیں اس سے نجات دے دی، تو ہم یقیناً اللہ پر جھوٹ باندھنے والے ٹھہریں گے۔ ہمارے لیے اس میں واپس آنا ممکن نہیں، مگر یہ کہ اللہ، جو ہمارا رب ہے، چاہے۔ ہمارے رب کا علم ہر چیز کو گھیرے ہوئے ہے۔ ہم نے اللہ ہی پر بھروسا کیا۔ اے ہمارے رب! ہمارے اور ہماری قوم کے درمیان حق کے ساتھ فیصلہ فرما، اور تو سب سے بہتر فیصلہ کرنے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -67,10 +67,10 @@
         "translation": "(23) And We will regard what they have done of deeds and make them as dust dispersed."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ فرقان 25:23",
         "content": null,
-        "translation": ""
+        "translation": "(23) اور ہم ان کے کیے ہوئے اعمال کی طرف متوجہ ہوں گے، پھر انہیں اڑتی ہوئی خاک بنا دیں گے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -102,10 +102,10 @@
         "translation": "(25) And fear a trial which will not strike those who have wronged among you exclusively, and know that Allah is severe in penalty."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انفال 8:25",
         "content": null,
-        "translation": ""
+        "translation": "(25) اور اس فتنے سے بچو جو تم میں سے صرف ظالموں ہی کو اپنی لپیٹ میں نہیں لے گا، اور جان رکھو کہ اللہ سخت سزا دینے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -137,10 +137,10 @@
         "translation": "(2) ...And whoever fears Allah - He will make for him a way out (3) And will provide for him from where he does not expect. And whoever relies upon Allah - then He is sufficient for him. Indeed, Allah will accomplish His purpose. Allah has already set for everything a [decreed] extent."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ طلاق 65:2-3",
         "content": null,
-        "translation": ""
+        "translation": "(2) ...اور جو اللہ سے ڈرے، وہ اس کے لیے کوئی راستہ نکال دیتا ہے۔ (3) اور اسے وہاں سے رزق دیتا ہے جہاں سے اسے گمان بھی نہیں ہوتا۔ اور جو اللہ پر بھروسا کرے تو وہ اس کے لیے کافی ہے۔ بے شک اللہ اپنا حکم پورا کر کے رہتا ہے۔ اللہ نے ہر چیز کے لیے ایک اندازہ مقرر کر رکھا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -172,10 +172,10 @@
         "translation": "(1) The command of Allah is coming, so be not impatient for it. Exalted is He and high above what they associate with Him. (2) He sends down the angels, with the inspiration of His command, upon whom He wills of His servants, [telling them], \"Warn that there is no deity except Me; so fear Me.\" (3) He created the heavens and earth in truth. High is He above what they associate with Him."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نحل 16:1-3",
         "content": null,
-        "translation": ""
+        "translation": "(1) اللہ کا حکم آ پہنچا، پس اس کے لیے جلدی نہ مچاؤ۔ وہ پاک ہے اور ان چیزوں سے بہت بلند ہے جنہیں وہ اس کا شریک ٹھہراتے ہیں۔ (2) وہ اپنے حکم سے وحی دے کر فرشتوں کو اپنے بندوں میں سے جس پر چاہتا ہے نازل فرماتا ہے کہ خبردار کر دو: میرے سوا کوئی معبودِ برحق نہیں، پس مجھ ہی سے ڈرو۔ (3) اس نے آسمانوں اور زمین کو حق کے ساتھ پیدا کیا۔ وہ ان چیزوں سے بہت بلند ہے جنہیں وہ اس کا شریک ٹھہراتے ہیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -207,10 +207,10 @@
         "translation": "(4) And who brings out the pasture."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اعلیٰ 87:4",
         "content": null,
-        "translation": ""
+        "translation": "(4) اور جس نے چراگاہ اگائی۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -242,10 +242,10 @@
         "translation": "(45) And when you recite the Qur'an, We put between you and those who do not believe in the Hereafter a concealed partition. (46) And We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And when you mention your Lord alone in the Qur'an, they turn back in aversion. (47) We are most knowing of how they listen to it when they listen to you and [of] when they are in private conversation, when the wrongdoers say, \"You follow not but a man affected by magic.\" (48) Look how they strike for you comparisons; but they have strayed, so they cannot [find] a way. (49) And they say, \"When we are bones and crumbled particles, will we [truly] be resurrected as a new creation?\" (50) Say, \"Be you stones or iron (51) Or [any] creation of that which is great within your breasts.\" And they will say, \"Who will restore us?\" Say, \"He who brought you forth the first time.\" Then they will nod their heads toward you and say, \"When is that?\" Say, \"Perhaps it will be soon - (52) On the Day He will call you and you will respond with praise of Him and think that you had not remained [in the world] except for a little.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اسراء 17:45-52",
         "content": null,
-        "translation": ""
+        "translation": "(45) اور جب آپ قرآن پڑھتے ہیں تو ہم آپ کے اور آخرت پر ایمان نہ رکھنے والوں کے درمیان ایک پوشیدہ پردہ حائل کر دیتے ہیں۔ (46) اور ہم نے ان کے دلوں پر پردے ڈال دیے ہیں کہ وہ اسے سمجھ نہ سکیں، اور ان کے کانوں میں بوجھ ڈال دیا ہے۔ اور جب آپ قرآن میں صرف اپنے رب ہی کا ذکر کرتے ہیں تو وہ نفرت سے پیٹھ پھیر کر بھاگ جاتے ہیں۔ (47) ہم خوب جانتے ہیں کہ جب وہ آپ کی بات سنتے ہیں تو کس غرض سے سنتے ہیں، اور اس وقت بھی جب وہ سرگوشیاں کر رہے ہوتے ہیں اور ظالم کہتے ہیں: ’’تم تو بس ایک جادو زدہ آدمی کی پیروی کر رہے ہو۔‘‘ (48) دیکھیے، انہوں نے آپ کے لیے کیسی مثالیں گھڑی ہیں؛ سو وہ گمراہ ہو گئے اور اب کوئی راہ نہیں پا سکتے۔ (49) اور وہ کہتے ہیں: ’’جب ہم ہڈیاں اور ریزہ ریزہ ہو جائیں گے تو کیا ہمیں نئے سرے سے پیدا کر کے اٹھایا جائے گا؟‘‘ (50) کہہ دیجیے: ’’تم پتھر ہو جاؤ یا لوہا، (51) یا کوئی ایسی مخلوق جو تمہارے دلوں میں اس سے بھی بڑی ہو۔‘‘ پھر وہ کہیں گے: ’’ہمیں دوبارہ کون لوٹائے گا؟‘‘ کہہ دیجیے: ’’وہی جس نے تمہیں پہلی بار پیدا کیا۔‘‘ پھر وہ آپ کے سامنے سر ہلا کر کہیں گے: ’’یہ کب ہوگا؟‘‘ کہہ دیجیے: ’’شاید قریب ہی ہو۔ (52) جس دن وہ تمہیں پکارے گا تو تم اس کی حمد کرتے ہوئے جواب دو گے اور سمجھو گے کہ تم بہت تھوڑی ہی مدت ٹھہرے تھے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -277,10 +277,10 @@
         "translation": "(1) When the earth is shaken with its [final] earthquake (2) And the earth discharges its burdens (3) And man says, “What is [wrong] with it?” - (4) That Day, it will report its news (5) Because your Lord has commanded it. (6) That Day, the people will depart separated [into categories] to be shown [the result of] their deeds. (7) So whoever does an atom's weight of good will see it, (8) And whoever does an atom's weight of evil will see it."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ زلزال 99:1-8",
         "content": null,
-        "translation": ""
+        "translation": "(1) جب زمین اپنے پورے زلزلے سے ہلا دی جائے گی، (2) اور زمین اپنے بوجھ باہر نکال دے گی، (3) اور انسان کہے گا: ’’اسے کیا ہو گیا ہے؟‘‘ (4) اس دن وہ اپنے حالات بیان کرے گی، (5) کیونکہ آپ کے رب نے اسے حکم دیا ہوگا۔ (6) اس دن لوگ الگ الگ ہو کر نکلیں گے تاکہ انہیں ان کے اعمال دکھائے جائیں۔ (7) پھر جس نے ذرّہ بھر نیکی کی ہوگی وہ اسے دیکھ لے گا، (8) اور جس نے ذرّہ بھر برائی کی ہوگی وہ بھی اسے دیکھ لے گا۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -312,10 +312,10 @@
         "translation": "(73) And indeed, your Lord is full of bounty for the people, but most of them do not show gratitude.\" (74) And indeed, your Lord knows what their breasts conceal and what they declare. (75) And there is nothing concealed within the heaven and the earth except that it is in a clear Register."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نمل 27:73-75",
         "content": null,
-        "translation": ""
+        "translation": "(73) بے شک آپ کا رب لوگوں پر بڑے فضل والا ہے، لیکن ان میں سے اکثر شکر ادا نہیں کرتے۔ (74) اور یقیناً آپ کا رب خوب جانتا ہے جو کچھ ان کے سینے چھپائے رکھتے ہیں اور جو کچھ وہ ظاہر کرتے ہیں۔ (75) آسمان اور زمین کی کوئی پوشیدہ چیز ایسی نہیں جو ایک واضح کتاب میں درج نہ ہو۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -347,10 +347,10 @@
         "translation": "(64) He said, “Should I entrust you with him except [under coercion] as I entrusted you with his brother before? But Allah is the best guardian, and He is the most merciful of the merciful.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یوسف 12:64",
         "content": null,
-        "translation": ""
+        "translation": "(64) پس اللہ ہی سب سے بہتر حفاظت فرمانے والا ہے، اور وہ سب رحم کرنے والوں سے بڑھ کر رحم فرمانے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -382,10 +382,10 @@
         "translation": "(73) And indeed, your Lord is full of bounty for the people, but most of them do not show gratitude.\" (74) And indeed, your Lord knows what their breasts conceal and what they declare. (75) And there is nothing concealed within the heaven and the earth except that it is in a clear Register."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ احزاب 33:70-71",
         "content": null,
-        "translation": ""
+        "translation": "(70) اے ایمان والو! اللہ سے ڈرو اور سیدھی بات کہو۔ (71) وہ تمہارے اعمال درست کر دے گا اور تمہارے گناہ بخش دے گا۔ اور جو اللہ اور اس کے رسول ﷺ کی اطاعت کرے، اس نے یقیناً بڑی کامیابی حاصل کر لی۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -417,10 +417,10 @@
         "translation": "(17) And We have protected it from every devil expelled [from the mercy of Allah]."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ حجر 15:17",
         "content": null,
-        "translation": ""
+        "translation": "(17) اور ہم نے اسے ہر مردود شیطان سے محفوظ رکھا۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -452,10 +452,10 @@
         "translation": "(78) And he presents for Us an example and forgets his [own] creation. He says, \"Who will give life to bones while they are disintegrated?\" (79) Say, \"He will give them life who produced them the first time; and He is, of all creation, Knowing.\" (80) [It is] He who made for you from the green tree, fire, and then from it you ignite. (81) Is not He who created the heavens and the earth Able to create the likes of them? Yes, [it is so]; and He is the Knowing Creator. (82) His command is only when He intends a thing that He says to it, \"Be,\" and it is. (83) So exalted is He in whose hand is the realm of all things, and to Him you will be returned."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یٰس 36:78-83",
         "content": null,
-        "translation": ""
+        "translation": "(78) اور وہ ہمارے لیے مثال پیش کرتا ہے اور اپنی پیدائش بھول جاتا ہے۔ کہتا ہے: ’’ان ہڈیوں کو کون زندہ کرے گا جب وہ بوسیدہ ہو چکی ہوں گی؟‘‘ (79) کہہ دیجیے: ’’انہیں وہی زندہ کرے گا جس نے انہیں پہلی بار پیدا کیا تھا، اور وہ ہر مخلوق کو خوب جاننے والا ہے۔‘‘ (80) وہی ہے جس نے تمہارے لیے سبز درخت سے آگ پیدا کی، پھر تم اسی سے آگ سلگاتے ہو۔ (81) کیا جس نے آسمانوں اور زمین کو پیدا کیا وہ اس بات پر قادر نہیں کہ ان جیسوں کو پیدا کر دے؟ کیوں نہیں! اور وہی سب کچھ پیدا کرنے والا، خوب جاننے والا ہے۔ (82) اس کا معاملہ تو یہ ہے کہ جب وہ کسی چیز کا ارادہ فرماتا ہے تو اس سے کہتا ہے: ’’ہو جا‘‘ تو وہ ہو جاتی ہے۔ (83) پس پاک ہے وہ جس کے ہاتھ میں ہر چیز کی کامل بادشاہی ہے، اور اسی کی طرف تم لوٹائے جاؤ گے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -487,10 +487,10 @@
         "translation": "(44) And you will remember what I [now] say to you, and I entrust my affair to Allah . Indeed, Allah is Seeing of [His] servants.” (45) So Allah protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ غافر 40:44-45",
         "content": null,
-        "translation": ""
+        "translation": "(44) عنقریب تمہیں یاد آ جائے گا جو میں تم سے کہہ رہا ہوں، اور میں اپنا معاملہ اللہ کے سپرد کرتا ہوں؛ بے شک اللہ بندوں کو خوب دیکھنے والا ہے۔ (45) پھر اللہ نے اسے ان کی بری چالوں سے بچا لیا اور آلِ فرعون کو بدترین عذاب نے آ گھیرا۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -522,10 +522,10 @@
         "translation": "(38) And if you asked them, \"Who created the heavens and the earth?\" they would surely say, \" Allah .\" Say, \"Then have you considered what you invoke besides Allah ? If Allah intended me harm, are they removers of His harm; or if He intended me mercy, are they withholders of His mercy?\" Say, \"Sufficient for me is Allah ; upon Him [alone] rely the [wise] reliers.\" (39) Say, \"O my people, work according to your position, [for] indeed, I am working; and you are going to know (40) To whom will come a torment disgracing him and on whom will descend an enduring punishment.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ زمر 39:38-40",
         "content": null,
-        "translation": ""
+        "translation": "(38) اور اگر آپ ان سے پوچھیں کہ آسمانوں اور زمین کو کس نے پیدا کیا تو وہ ضرور کہیں گے: ’’اللہ نے۔‘‘ کہہ دیجیے: ’’بھلا بتاؤ، جنہیں تم اللہ کے سوا پکارتے ہو، اگر اللہ مجھے کوئی نقصان پہنچانا چاہے تو کیا وہ اس نقصان کو دور کر سکتی ہیں؟ یا اگر وہ مجھ پر رحمت فرمانا چاہے تو کیا وہ اس کی رحمت کو روک سکتی ہیں؟‘‘ کہہ دیجیے: ’’مجھے اللہ کافی ہے؛ بھروسا کرنے والے اسی پر بھروسا کرتے ہیں۔‘‘ (39) کہہ دیجیے: ’’اے میری قوم! تم اپنی جگہ عمل کرتے رہو، میں بھی عمل کر رہا ہوں؛ عنقریب تم جان لو گے (40) کہ کس پر رسوا کرنے والا عذاب آتا ہے اور کس پر ہمیشہ رہنے والا عذاب اترتا ہے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -557,10 +557,10 @@
         "translation": "(10) And indeed, [appointed] over you are keepers, (11) Noble and recording; (12) They know whatever you do."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انفطار 82:10-12",
         "content": null,
-        "translation": ""
+        "translation": "(10) یقیناً تم پر نگہبان مقرر ہیں، (11) معزز لکھنے والے، (12) وہ جانتے ہیں کہ تم کیا کرتے ہو۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",

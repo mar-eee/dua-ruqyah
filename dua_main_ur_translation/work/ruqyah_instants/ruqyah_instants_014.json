@@ -3,7 +3,7 @@
   "chunk": "ruqyah_instants_014.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 11,
   "id_range": "201-211",
   "source_chars": 5633,
@@ -32,10 +32,10 @@
         "translation": "(43) Then why, when Our punishment came to them, did they not humble themselves? But their hearts became hardened, and Satan made attractive to them that which they were doing. (44) So when they forgot that by which they had been reminded, We opened to them the doors of every [good] thing until, when they rejoiced in that which they were given, We seized them suddenly, and they were [then] in despair. (45) So the people that committed wrong were eliminated. And praise to Allah, Lord of the worlds."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انعام 6:43-45",
         "content": null,
-        "translation": ""
+        "translation": "(43) پھر جب ہمارا عذاب ان پر آیا تو انہوں نے عاجزی کیوں نہ اختیار کی؟ بلکہ ان کے دل سخت ہو گئے اور شیطان نے ان کے اعمال انہیں خوش نما بنا کر دکھائے۔ (44) پھر جب وہ اس نصیحت کو بھول گئے جس کے ذریعے انہیں سمجھایا گیا تھا تو ہم نے ان پر ہر چیز کے دروازے کھول دیے، یہاں تک کہ جو کچھ انہیں دیا گیا تھا اس پر وہ خوش ہو گئے تو ہم نے اچانک انہیں پکڑ لیا؛ تب وہ مایوس ہو کر رہ گئے۔ (45) پھر ظالم قوم کی جڑ کاٹ دی گئی، اور سب تعریف اللہ ہی کے لیے ہے جو تمام جہانوں کا رب ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -67,10 +67,10 @@
         "translation": "(12) [Remember] when your Lord inspired to the angels, \"I am with you, so strengthen those who have believed. I will cast terror into the hearts of those who disbelieved, so strike [them] upon the necks and strike from them every fingertip.\" (13) That is because they opposed Allah and His Messenger. And whoever opposes Allah and His Messenger - indeed, Allah is severe in penalty. (14) \"That [is yours], so taste it.\" And indeed for the disbelievers is the punishment of the Fire."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انفال 8:12-14",
         "content": null,
-        "translation": ""
+        "translation": "(12) یاد کیجیے جب آپ کا رب فرشتوں کی طرف وحی کر رہا تھا: ’’میں تمہارے ساتھ ہوں، پس ایمان والوں کو ثابت قدم رکھو۔ میں ابھی کافروں کے دلوں میں رعب ڈال دوں گا؛ سو ان کی گردنوں پر ضرب لگاؤ اور ان کی انگلیوں کے ایک ایک پور پر ضرب لگاؤ۔‘‘ (13) یہ اس لیے کہ انہوں نے اللہ اور اس کے رسول ﷺ کی مخالفت کی؛ اور جو اللہ اور اس کے رسول ﷺ کی مخالفت کرے تو بے شک اللہ سخت سزا دینے والا ہے۔ (14) یہ عذاب ہے، سو اسے چکھو؛ اور بے شک کافروں کے لیے آگ کا عذاب ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -102,10 +102,10 @@
         "translation": "(42) And never think that Allah is unaware of what the wrongdoers do. He only delays them for a Day when eyes will stare [in horror]. (43) Racing ahead, their heads raised up, their glance does not come back to them, and their hearts are void."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ ابراہیم 14:42-43",
         "content": null,
-        "translation": ""
+        "translation": "(42) اور ہرگز یہ نہ سمجھیے کہ اللہ ظالموں کے اعمال سے بے خبر ہے۔ وہ تو انہیں صرف اس دن تک مہلت دے رہا ہے جس دن آنکھیں پھٹی کی پھٹی رہ جائیں گی۔ (43) وہ سر اٹھائے تیزی سے دوڑ رہے ہوں گے، ان کی نگاہیں پلٹ نہ سکیں گی اور ان کے دل خالی ہو چکے ہوں گے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -137,10 +137,10 @@
         "translation": "(25) And Allah repelled those who disbelieved, in their rage, not having obtained any good. And sufficient was Allah for the believers in battle, and ever is Allah Powerful and Exalted in Might. (26) And He brought down those who supported them among the People of the Scripture from their fortresses and cast terror into their hearts [so that] a party you killed, and you took captive a party. (27) And He caused you to inherit their land and their homes and their properties and a land which you have not trodden. And ever is Allah, over all things, competent."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ احزاب 33:25-27",
         "content": null,
-        "translation": ""
+        "translation": "(25) اور اللہ نے کافروں کو ان کے غصے سمیت واپس لوٹا دیا؛ وہ کوئی فائدہ حاصل نہ کر سکے۔ اللہ مومنوں کے لیے جنگ میں کافی ہو گیا، اور اللہ بڑی قوت والا، زبردست ہے۔ (26) اور اہلِ کتاب میں سے جن لوگوں نے ان کی مدد کی تھی، اللہ نے انہیں ان کے قلعوں سے اتار دیا اور ان کے دلوں میں رعب ڈال دیا؛ تم نے ایک گروہ کو قتل کیا اور دوسرے کو قیدی بنا لیا۔ (27) اور اس نے تمہیں ان کی زمین، ان کے گھروں، ان کے مالوں اور اس زمین کا وارث بنا دیا جس پر تم نے قدم بھی نہیں رکھا تھا۔ اور اللہ ہر چیز پر پوری قدرت رکھنے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -172,10 +172,10 @@
         "translation": "(51) And if you could see when they are terrified but there is no escape, and they will be seized from a place nearby. (52) And they will [then] say, \"We believe in it!\" But how for them will be the taking [of faith] from a place far away? (53) And they had already disbelieved in it before and would assault the unseen from a place far away. (54) And prevention will be placed between them and what they desire, as was done with their kind before. Indeed, they were in disquieting denial."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ سبا 34:51-54",
         "content": null,
-        "translation": ""
+        "translation": "(51) اور کاش آپ دیکھیں جب وہ گھبرا اٹھیں گے؛ پھر بچ نکلنے کی کوئی صورت نہ ہوگی اور قریب ہی سے پکڑ لیے جائیں گے۔ (52) اور وہ کہیں گے: ’’ہم اس پر ایمان لے آئے۔‘‘ مگر اتنی دور جگہ سے ایمان تک ان کی رسائی کیسے ہوگی؟ (53) حالاں کہ اس سے پہلے وہ اس کا انکار کر چکے تھے اور دور ہی سے غیب کے بارے میں اٹکل کے تیر چلاتے تھے۔ (54) اور ان کے اور ان کی خواہش کے درمیان رکاوٹ ڈال دی جائے گی، جیسے پہلے ان جیسے لوگوں کے ساتھ کیا گیا تھا۔ بے شک وہ بے چین کر دینے والے شک میں مبتلا تھے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -207,10 +207,10 @@
         "translation": "(1) Ya, Seen. (2) By the wise Qur'an. (3) Indeed you, [O Muhammad], are from among the messengers, (4) On a straight path. (5) [This is] a revelation of the Exalted in Might, the Merciful, (6) That you may warn a people whose forefathers were not warned, so they are unaware. (7) Already the word has come into effect upon most of them, so they do not believe. (8) Indeed, We have put shackles on their necks, and they are to their chins, so they are with heads [kept] aloft. (9) And We have put before them a barrier and behind them a barrier and covered them, so they do not see. (10) And it is all the same for them whether you warn them or do not warn them - they will not believe. (11) You can only warn one who follows the message and fears the Most Merciful unseen. So give him good tidings of forgiveness and noble reward. (12) Indeed, it is We who bring the dead to life and record what they have put forth and what they left behind, and all things We have enumerated in a clear register."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یٰس 36:1-12",
         "content": null,
-        "translation": ""
+        "translation": "(1) یٰسین۔ (2) حکمت والے قرآن کی قسم۔ (3) یقیناً آپ رسولوں میں سے ہیں، (4) سیدھے راستے پر ہیں۔ (5) یہ زبردست، نہایت رحم فرمانے والے کی طرف سے نازل کیا گیا ہے، (6) تاکہ آپ ایسی قوم کو خبردار کریں جن کے باپ دادا کو خبردار نہیں کیا گیا، اس لیے وہ غافل ہیں۔ (7) یقیناً ان میں سے اکثر پر فیصلہ ثابت ہو چکا ہے، اس لیے وہ ایمان نہیں لائیں گے۔ (8) بے شک ہم نے ان کی گردنوں میں طوق ڈال دیے ہیں جو ان کی ٹھوڑیوں تک پہنچے ہوئے ہیں، سو ان کے سر اوپر اٹھے رہ گئے ہیں۔ (9) اور ہم نے ان کے آگے ایک دیوار اور ان کے پیچھے ایک دیوار بنا دی، پھر انہیں ڈھانپ دیا، سو وہ دیکھ نہیں سکتے۔ (10) ان کے لیے برابر ہے، خواہ آپ انہیں خبردار کریں یا نہ کریں، وہ ایمان نہیں لائیں گے۔ (11) آپ تو بس اسی شخص کو خبردار کر سکتے ہیں جو نصیحت کی پیروی کرے اور بن دیکھے رحمٰن سے ڈرے۔ سو اسے مغفرت اور باعزت اجر کی خوشخبری دے دیجیے۔ (12) بے شک ہم ہی مردوں کو زندہ کرتے ہیں، جو اعمال وہ آگے بھیج چکے ہیں اور جو آثار پیچھے چھوڑ گئے ہیں انہیں لکھتے ہیں، اور ہم نے ہر چیز کو ایک روشن کتاب میں شمار کر رکھا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -242,10 +242,10 @@
         "translation": "(6) On the Day the blast [of the Horn] will convulse [creation], (7) There will follow it the subsequent [one]. (8) Hearts, that Day, will tremble, (9) Their eyes humbled. (10) They are [presently] saying, \"Will we indeed be returned to [our] former state [of life]? (11) Even if we should be decayed bones? (12) They say, \"That, then, would be a losing return.\" (13) Indeed, it will be but one shout, (14) And suddenly they will be [alert] upon the earth's surface."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نازعات 79:6-14",
         "content": null,
-        "translation": ""
+        "translation": "(6) جس دن پہلی لرزش سب کو ہلا دے گی، (7) اس کے پیچھے دوسری لرزش آئے گی۔ (8) اس دن بہت سے دل کانپ رہے ہوں گے، (9) ان کی نگاہیں جھکی ہوں گی۔ (10) وہ کہتے ہیں: ’’کیا ہم پھر پہلی حالت کی طرف لوٹائے جائیں گے؟ (11) کیا اس وقت بھی جب ہم بوسیدہ ہڈیاں ہو چکے ہوں گے؟‘‘ (12) وہ کہتے ہیں: ’’تب تو یہ خسارے کی واپسی ہوگی۔‘‘ (13) حالاں کہ وہ تو بس ایک ہی زوردار آواز ہوگی، (14) پھر اچانک وہ سب کھلے میدان میں موجود ہوں گے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -277,10 +277,10 @@
         "translation": "(46) It will be, on the Day they see it, as though they had not remained [in the world] except for an afternoon or a morning thereof."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نازعات 79:46",
         "content": null,
-        "translation": ""
+        "translation": "(46) جس دن وہ اسے دیکھیں گے تو انہیں یوں محسوس ہوگا گویا وہ دنیا میں صرف ایک شام یا ایک صبح ہی ٹھہرے تھے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -312,10 +312,10 @@
         "translation": "(56) Indeed, those who disbelieve in Our verses - We will drive them into a Fire. Every time their skins are roasted through We will replace them with other skins so they may taste the punishment. Indeed, Allah is ever Exalted in Might and Wise."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نساء 4:56",
         "content": null,
-        "translation": ""
+        "translation": "(56) بے شک جن لوگوں نے ہماری آیات کا انکار کیا، ہم انہیں آگ میں داخل کریں گے۔ جب بھی ان کی کھالیں جل جائیں گی، ہم انہیں بدل کر دوسری کھالیں دے دیں گے تاکہ وہ عذاب کا مزہ چکھتے رہیں۔ بے شک اللہ زبردست، حکمت والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -347,10 +347,10 @@
         "translation": "(167) Indeed, those who disbelieve and avert [people] from the way of Allah have certainly gone far astray. (168) Indeed, those who disbelieve and commit wrong [or injustice] - never will Allah forgive them, nor will He guide them to a path."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نساء 4:167-168",
         "content": null,
-        "translation": ""
+        "translation": "(167) یقیناً جن لوگوں نے کفر کیا اور اللہ کی راہ سے روکا، وہ بہت دور کی گمراہی میں جا پڑے۔ (168) یقیناً جن لوگوں نے کفر اور ظلم کیا، اللہ انہیں ہرگز نہ بخشے گا اور نہ انہیں کوئی راستہ دکھائے گا۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -382,10 +382,10 @@
         "translation": "(33) Indeed, the penalty for those who wage war against Allah and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world; and for them in the Hereafter is a great punishment, (34) Except for those who return [repenting] before you apprehend them. And know that Allah is Forgiving and Merciful. (35) O you who have believed, fear Allah and seek the means [of nearness] to Him and strive in His cause that you may succeed. (36) Indeed, those who disbelieve - if they should have all that is in the earth and the like of it with it by which to ransom themselves from the punishment of the Day of Resurrection, it will not be accepted from them, and for them is a painful punishment (37) They will wish to get out of the Fire, but never are they to emerge therefrom, and for them is an enduring punishment."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ مائدہ 5:33-37",
         "content": null,
-        "translation": ""
+        "translation": "(33) جو لوگ اللہ اور اس کے رسول ﷺ سے جنگ کرتے ہیں اور زمین میں فساد پھیلانے کی کوشش کرتے ہیں، ان کی سزا یہی ہے کہ انہیں قتل کیا جائے، یا سولی دی جائے، یا ان کے ہاتھ اور پاؤں مخالف سمتوں سے کاٹے جائیں، یا انہیں ملک سے نکال دیا جائے۔ یہ ان کے لیے دنیا میں رسوائی ہے اور آخرت میں ان کے لیے بڑا عذاب۔ (34) مگر وہ لوگ جو تمہارے قابو پانے سے پہلے توبہ کر لیں؛ سو جان لو کہ اللہ بہت بخشنے والا، نہایت رحم کرنے والا ہے۔ (35) اے ایمان والو! اللہ سے ڈرو، اس کا قرب حاصل کرنے کا ذریعہ تلاش کرو اور اس کی راہ میں جہاد کرو تاکہ تم کامیاب ہو۔ (36) یقیناً جن لوگوں نے کفر کیا، اگر ان کے پاس زمین کی ساری چیزیں اور ان کے ساتھ اتنی ہی مزید ہوں تاکہ وہ قیامت کے دن کے عذاب سے بچنے کے لیے فدیہ دیں، تب بھی ان کا یہ فدیہ قبول نہیں کیا جائے گا؛ اور ان کے لیے دردناک عذاب ہے۔ (37) وہ آگ سے نکلنا چاہیں گے، مگر اس سے کبھی نکل نہ سکیں گے، اور ان کے لیے ہمیشہ رہنے والا عذاب ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",

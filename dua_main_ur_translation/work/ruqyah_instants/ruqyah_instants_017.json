@@ -3,7 +3,7 @@
   "chunk": "ruqyah_instants_017.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 21,
   "id_range": "224-244",
   "source_chars": 5946,
@@ -32,10 +32,10 @@
         "translation": "(5) And We have certainly beautified the nearest heaven with stars and have made [from] them what is thrown at the devils and have prepared for them the punishment of the Blaze. (6) And for those who disbelieved in their Lord is the punishment of Hell, and wretched is the destination. (7) When they are thrown into it, they hear from it a [dreadful] inhaling while it boils up. (8) It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, \"Did there not come to you a warner?\" (9) They will say,\" Yes, a warner had come to us, but we denied and said, ' Allah has not sent down anything. You are not but in great error.' \" (10) And they will say, \"If only we had been listening or reasoning, we would not be among the companions of the Blaze.\" (11) And they will admit their sin, so [it is] alienation for the companions of the Blaze."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ ملک 67:5-11",
         "content": null,
-        "translation": ""
+        "translation": "(5) اور یقیناً ہم نے قریب ترین آسمان کو چراغوں سے آراستہ کیا، انہیں شیطانوں کو مارنے کا ذریعہ بنایا اور ان کے لیے بھڑکتی آگ کا عذاب تیار کر رکھا ہے۔ (6) اور جن لوگوں نے اپنے رب کا انکار کیا ان کے لیے جہنم کا عذاب ہے، اور وہ بہت برا ٹھکانا ہے۔ (7) جب وہ اس میں ڈالے جائیں گے تو اس کی خوف ناک آواز سنیں گے جبکہ وہ جوش مار رہی ہوگی۔ (8) وہ غصے سے پھٹی پڑتی ہوگی۔ جب بھی اس میں کوئی گروہ ڈالا جائے گا، اس کے داروغے ان سے پوچھیں گے: ’’کیا تمہارے پاس کوئی خبردار کرنے والا نہیں آیا تھا؟‘‘ (9) وہ کہیں گے: ’’کیوں نہیں! ہمارے پاس خبردار کرنے والا آیا تھا، مگر ہم نے اسے جھٹلایا اور کہا: اللہ نے کچھ بھی نازل نہیں کیا؛ تم تو بڑی گمراہی میں ہو۔‘‘ (10) اور وہ کہیں گے: ’’اگر ہم سنتے یا عقل سے کام لیتے تو ہم بھڑکتی آگ والوں میں نہ ہوتے۔‘‘ (11) پس وہ اپنے گناہ کا اعتراف کریں گے؛ سو بھڑکتی آگ والوں کے لیے ہلاکت ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -67,10 +67,10 @@
         "translation": "(78) Wherever you may be, death will overtake you, even if you should be within towers of lofty construction. But if good comes to them, they say, \"This is from Allah \"; and if evil befalls them, they say, \"This is from you.\" Say, \"All [things] are from Allah .\" So what is [the matter] with those people that they can hardly understand any statement?"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نساء 4:78",
         "content": null,
-        "translation": ""
+        "translation": "(78) تم جہاں کہیں بھی ہو، موت تمہیں آ لے گی، خواہ تم مضبوط قلعوں میں ہی کیوں نہ ہو۔ اگر انہیں کوئی بھلائی پہنچتی ہے تو کہتے ہیں: ’’یہ اللہ کی طرف سے ہے‘‘، اور اگر انہیں کوئی برائی پہنچتی ہے تو کہتے ہیں: ’’یہ آپ کی طرف سے ہے۔‘‘ کہہ دیجیے: ’’سب کچھ اللہ کی طرف سے ہے۔‘‘ آخر ان لوگوں کو کیا ہو گیا ہے کہ وہ کوئی بات سمجھنے کے قریب بھی نہیں آتے؟"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -102,10 +102,10 @@
         "translation": "(60) And it is He who takes your souls by night and knows what you have committed by day. Then He revives you therein that a specified term may be fulfilled. Then to Him will be your return; then He will inform you about what you used to do."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انعام 6:60",
         "content": null,
-        "translation": ""
+        "translation": "(60) اور وہی ہے جو رات کو تمہاری جانیں قبض کرتا ہے اور جانتا ہے جو کچھ تم دن میں کرتے ہو۔ پھر وہ دن میں تمہیں اٹھاتا ہے تاکہ مقررہ مدت پوری ہو۔ پھر اسی کی طرف تمہارا لوٹنا ہے، پھر وہ تمہیں بتائے گا جو کچھ تم کرتے رہے تھے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -137,10 +137,10 @@
         "translation": "(50) And if you could but see when the angels take the souls of those who disbelieved... They are striking their faces and their backs and [saying], \"Taste the punishment of the Burning Fire. (51) That is for what your hands have put forth [of evil] and because Allah is not ever unjust to His servants.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انفال 8:50-51",
         "content": null,
-        "translation": ""
+        "translation": "(50) اور کاش آپ دیکھتے جب فرشتے کافروں کی جانیں قبض کرتے ہیں، ان کے چہروں اور پیٹھوں پر مارتے ہیں اور کہتے ہیں: ’’جلتی آگ کا عذاب چکھو۔ (51) یہ اس وجہ سے ہے جو تمہارے ہاتھوں نے آگے بھیجا، اور اس لیے کہ اللہ بندوں پر ہرگز ظلم کرنے والا نہیں۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -172,10 +172,10 @@
         "translation": "(11) Say, \"The angel of death will take you who has been entrusted with you. Then to your Lord you will be returned.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ سجدہ 32:11",
         "content": null,
-        "translation": ""
+        "translation": "(11) کہہ دیجیے: ’’موت کا وہ فرشتہ جو تم پر مقرر کیا گیا ہے تمہاری جانیں قبض کرے گا، پھر تم اپنے رب کی طرف لوٹائے جاؤ گے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -207,10 +207,10 @@
         "translation": "(148) For each [religious following] is a direction toward which it faces. So race to [all that is] good. Wherever you may be, Allah will bring you forth [for judgement] all together. Indeed, Allah is over all things competent."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ بقرہ 2:148",
         "content": null,
-        "translation": ""
+        "translation": "(148) اور ہر ایک کے لیے ایک سمت ہے جس کی طرف وہ رخ کرتا ہے، لہٰذا نیکیوں میں ایک دوسرے سے آگے بڑھو۔ تم جہاں کہیں بھی ہو گے، اللہ تم سب کو اکٹھا لے آئے گا۔ بے شک اللہ ہر چیز پر پوری قدرت رکھتا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -242,10 +242,10 @@
         "translation": "(87) Allah - there is no deity except Him. He will surely assemble you for [account on] the Day of Resurrection, about which there is no doubt. And who is more truthful than Allah in statement."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نساء 4:87",
         "content": null,
-        "translation": ""
+        "translation": "(87) اللہ، اس کے سوا کوئی معبود نہیں۔ وہ قیامت کے دن تمہیں ضرور جمع کرے گا، جس میں کوئی شک نہیں۔ اور بات میں اللہ سے بڑھ کر سچا کون ہے؟"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -277,10 +277,10 @@
         "translation": "(99) And We will leave them that day surging over each other, and [then] the Horn will be blown, and We will assemble them in [one] assembly."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ کہف 18:99",
         "content": null,
-        "translation": ""
+        "translation": "(99) اور ہم اس دن انہیں چھوڑ دیں گے کہ ایک دوسرے میں موجوں کی طرح گڈمڈ ہو رہے ہوں گے، پھر صور پھونکا جائے گا تو ہم ان سب کو یکجا جمع کر لیں گے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -312,10 +312,10 @@
         "translation": "(68) So by your Lord, We will surely gather them and the devils; then We will bring them to be present around Hell upon their knees. (69) Then We will surely extract from every sect those of them who were worst against the Most Merciful in insolence. (70) Then, surely it is We who are most knowing of those most worthy of burning therein. (71) And there is none of you except he will come to it. This is upon your Lord an inevitability decreed. (72) Then We will save those who feared Allah and leave the wrongdoers within it, on their knees."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ مریم 19:68-72",
         "content": null,
-        "translation": ""
+        "translation": "(68) پس آپ کے رب کی قسم! ہم انہیں اور شیطانوں کو ضرور جمع کریں گے، پھر انہیں جہنم کے گرد گھٹنوں کے بل ضرور حاضر کریں گے۔ (69) پھر ہم ہر گروہ میں سے اسے ضرور کھینچ نکالیں گے جو رحمٰن کے مقابلے میں سب سے زیادہ سرکش تھا۔ (70) پھر ہم خوب جانتے ہیں کہ کون اس میں جلنے کا زیادہ سزاوار ہے۔ (71) اور تم میں سے کوئی ایسا نہیں جو اس پر وارد نہ ہو؛ یہ آپ کے رب کے ذمے قطعی فیصلہ ہے۔ (72) پھر ہم تقویٰ اختیار کرنے والوں کو بچا لیں گے اور ظالموں کو اس میں گھٹنوں کے بل پڑا چھوڑ دیں گے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -347,10 +347,10 @@
         "translation": "(30) Indeed, it is from Solomon, and indeed, it reads: 'In the name of Allah, the Entirely Merciful, the Especially Merciful, (31) Be not haughty with me but come to me in submission [as Muslims].' \""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نمل 27:30-31",
         "content": null,
-        "translation": ""
+        "translation": "(30) بے شک یہ سلیمان کی طرف سے ہے اور وہ یہ ہے: ’’اللہ کے نام سے جو نہایت مہربان، بہت رحم فرمانے والا ہے۔ (31) میرے مقابلے میں سرکشی نہ کرو اور فرماں بردار بن کر میرے پاس آ جاؤ۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -382,10 +382,10 @@
         "translation": "(16) [And Luqman said], \"O my son, indeed if wrong should be the weight of a mustard seed and should be within a rock or [anywhere] in the heavens or in the earth, Allah will bring it forth. Indeed, Allah is Subtle and Acquainted."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ لقمان 31:16",
         "content": null,
-        "translation": ""
+        "translation": "(16) اے میرے پیارے بیٹے! اگر کوئی چیز رائی کے دانے کے برابر ہو، پھر وہ کسی چٹان میں یا آسمانوں میں یا زمین میں ہو، اللہ اسے لے آئے گا۔ بے شک اللہ نہایت باریک بین، پوری خبر رکھنے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -417,10 +417,10 @@
         "translation": "(31) Have they not considered how many generations We destroyed before them - that they to them will not return? (32) And indeed, all of them will yet be brought present before Us."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یٰس 36:31-32",
         "content": null,
-        "translation": ""
+        "translation": "(31) کیا انہوں نے نہیں دیکھا کہ ہم نے ان سے پہلے کتنی نسلوں کو ہلاک کر دیا، اور وہ ان کے پاس لوٹ کر نہیں آتے؟ (32) اور سب کے سب ہمارے سامنے ضرور حاضر کیے جائیں گے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -452,10 +452,10 @@
         "translation": "(20) They will say, \"O woe to us! This is the Day of Recompense.\" (21) [They will be told], \"This is the Day of Judgement which you used to deny.\" (22) [The angels will be ordered], \"Gather those who committed wrong, their kinds, and what they used to worship (23) Other than Allah, and guide them to the path of Hellfire (24) And stop them; indeed, they are to be questioned.\" (25) [They will be asked], \"What is [wrong] with you? Why do you not help each other?\" (26) But they, that Day, are in surrender."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ صافات 37:20-26",
         "content": null,
-        "translation": ""
+        "translation": "(20) اور وہ کہیں گے: ’’ہائے ہماری بربادی! یہ تو بدلے کا دن ہے۔‘‘ (21) یہی فیصلے کا وہ دن ہے جسے تم جھٹلایا کرتے تھے۔ (22) ان لوگوں کو جنہوں نے ظلم کیا، ان کے ہم جنسوں کو اور ان معبودوں کو جمع کرو (23) جنہیں وہ اللہ کے سوا پوجتے تھے، پھر انہیں جہنم کی راہ دکھاؤ۔ (24) اور انہیں روک لو، یقیناً ان سے پوچھ گچھ ہونی ہے۔ (25) تمہیں کیا ہوا کہ ایک دوسرے کی مدد نہیں کرتے؟ (26) بلکہ آج تو وہ پوری طرح سرِ تسلیم خم کیے ہوئے ہیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -487,10 +487,10 @@
         "translation": "(158) And they have claimed between Him and the jinn a lineage, but the jinn have already known that they [who made such claims] will be brought to [punishment]."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ صافات 37:158",
         "content": null,
-        "translation": ""
+        "translation": "(158) اور انہوں نے اللہ اور جنوں کے درمیان نسبی رشتہ قائم کر دیا، حالانکہ جن خوب جانتے ہیں کہ وہ ضرور حاضر کیے جائیں گے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -522,10 +522,10 @@
         "translation": "(21) And they will say to their skins, \"Why have you testified against us?\" They will say, \"We were made to speak by Allah, who has made everything speak; and He created you the first time, and to Him you are returned."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ فصلت 41:21",
         "content": null,
-        "translation": ""
+        "translation": "(21) اور وہ اپنی کھالوں سے کہیں گے: ’’تم نے ہمارے خلاف گواہی کیوں دی؟‘‘ وہ کہیں گی: ’’ہمیں اسی اللہ نے بولنے کی قوت دی جس نے ہر چیز کو بولنے کی قوت دی۔ اسی نے تمہیں پہلی بار پیدا کیا تھا اور اسی کی طرف تم لوٹائے جا رہے ہو۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -557,10 +557,10 @@
         "translation": "(23) Then by the Lord of the heaven and earth, indeed, it is truth - just as [sure as] it is that you are speaking."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ ذاریات 51:23",
         "content": null,
-        "translation": ""
+        "translation": "(23) پس آسمان اور زمین کے رب کی قسم! یہ اسی طرح برحق ہے جیسے تمہارا بولنا۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -592,10 +592,10 @@
         "translation": "(35) This is a Day they will not speak, (36) Nor will it be permitted for them to make an excuse."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ مرسلات 77:35-36",
         "content": null,
-        "translation": ""
+        "translation": "(35) یہ وہ دن ہے جب وہ بولیں گے نہیں، (36) اور نہ انہیں اجازت دی جائے گی کہ کوئی عذر پیش کریں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -627,10 +627,10 @@
         "translation": "(139) Indeed, those [worshippers] - destroyed is that in which they are [engaged], and worthless is whatever they were doing.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اعراف 7:139",
         "content": null,
-        "translation": ""
+        "translation": "(139) بے شک یہ لوگ جس کام میں لگے ہوئے ہیں وہ تباہ ہونے والا ہے، اور جو کچھ وہ کرتے رہے ہیں وہ باطل ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -662,10 +662,10 @@
         "translation": "(7) [Remember, O believers], when Allah promised you one of the two groups - that it would be yours - and you wished that the unarmed one would be yours. But Allah intended to establish the truth by His words and to eliminate the disbelievers (8) That He should establish the truth and abolish falsehood, even if the criminals disliked it."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انفال 8:7-8",
         "content": null,
-        "translation": ""
+        "translation": "(7) اور یاد کرو جب اللہ تم سے دو گروہوں میں سے ایک کا وعدہ کر رہا تھا کہ وہ تمہارے ہاتھ آئے گا، اور تم چاہتے تھے کہ غیر مسلح گروہ تمہارے ہاتھ آئے؛ مگر اللہ چاہتا تھا کہ اپنے کلمات سے حق کو حق ثابت کرے اور کافروں کی جڑ کاٹ دے، (8) تاکہ حق کو حق اور باطل کو باطل کر دکھائے، خواہ مجرموں کو یہ ناگوار ہی ہو۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -697,10 +697,10 @@
         "translation": "(81) And say, \"Truth has come, and falsehood has departed. Indeed is falsehood, [by nature], ever bound to depart.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اسراء 17:81",
         "content": null,
-        "translation": ""
+        "translation": "(81) اور کہہ دیجیے: ’’حق آ گیا اور باطل مٹ گیا؛ بے شک باطل مٹنے ہی والا ہے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -732,10 +732,10 @@
         "translation": "(18) Rather, We dash the truth upon falsehood, and it destroys it, and thereupon it departs. And for you is destruction from that which you describe."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انبیاء 21:18",
         "content": null,
-        "translation": ""
+        "translation": "(18) بلکہ ہم حق کو باطل پر دے مارتے ہیں تو وہ اس کا سر کچل دیتا ہے اور یکایک باطل مٹ جاتا ہے۔ اور تم جو کچھ بیان کرتے ہو اس کے باعث تمہارے لیے ہلاکت ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",

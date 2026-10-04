@@ -3,7 +3,7 @@
   "chunk": "ruqyah_instants_004.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 12,
   "id_range": "41-52",
   "source_chars": 5396,
@@ -32,10 +32,10 @@
         "translation": "(284) To Allah belongs whatever is in the heavens and whatever is in the earth. Whether you show what is within yourselves or conceal it, Allah will bring you to account for it. Then He will forgive whom He wills and punish whom He wills, and Allah is over all things competent. (285) The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], \"We make no distinction between any of His messengers.\" And they say, \"We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.\" (286) Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ بقرہ 2:284-286",
         "content": null,
-        "translation": ""
+        "translation": "(284) آسمانوں اور زمین میں جو کچھ ہے سب اللہ ہی کا ہے۔ جو کچھ تمہارے دلوں میں ہے، خواہ اسے ظاہر کرو یا چھپاؤ، اللہ تم سے اس کا حساب لے گا۔ پھر جسے چاہے بخش دے گا اور جسے چاہے عذاب دے گا؛ اللہ ہر چیز پر پوری قدرت رکھتا ہے۔ (285) رسول اس چیز پر ایمان لائے جو ان کے رب کی طرف سے ان پر نازل کی گئی، اور مومن بھی۔ سب اللہ، اس کے فرشتوں، اس کی کتابوں اور اس کے رسولوں پر ایمان لائے۔ وہ کہتے ہیں: ’’ہم اس کے رسولوں میں سے کسی میں تفریق نہیں کرتے۔‘‘ اور کہتے ہیں: ’’ہم نے سنا اور اطاعت کی۔ اے ہمارے رب! ہم تیری بخشش چاہتے ہیں اور تیری ہی طرف لوٹنا ہے۔‘‘ (286) اللہ کسی جان پر اس کی طاقت سے بڑھ کر بوجھ نہیں ڈالتا۔ جو نیکی اس نے کمائی اس کا فائدہ اسی کو ہے، اور جو برائی کمائی اس کا وبال بھی اسی پر ہے۔ ’’اے ہمارے رب! اگر ہم بھول جائیں یا خطا کر بیٹھیں تو ہمیں نہ پکڑنا۔ اے ہمارے رب! ہم پر وہ بھاری بوجھ نہ ڈالنا جو تو نے ہم سے پہلے لوگوں پر ڈالا تھا۔ اے ہمارے رب! ہم پر ایسا بوجھ نہ ڈالنا جسے اٹھانے کی ہم میں طاقت نہ ہو۔ ہمیں معاف فرما، ہمیں بخش دے اور ہم پر رحم فرما۔ تو ہی ہمارا کارساز ہے، پس کافر قوم کے مقابلے میں ہماری مدد فرما۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -67,10 +67,10 @@
         "translation": "In the name of Allah, with whose name nothing in the heavens or the earth can cause any harm, and He is the All-Hearing, All-Knowing.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
-        "content": "",
-        "translation": ""
+        "topic_name": "سنت سے",
+        "name": "ابو داؤد: 5088",
+        "content": "تین بار کہیں:",
+        "translation": "اللہ کے نام سے، جس کے نام کے ساتھ زمین و آسمان کی کوئی چیز نقصان نہیں پہنچا سکتی، اور وہی سب کچھ سننے والا، سب کچھ جاننے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -103,10 +103,10 @@
         "translation": "(1) Say, \"I seek refuge in the Lord of daybreak (2) From the evil of that which He created (3) And from the evil of darkness when it settles (4) And from the evil of the blowers in knots (5) And from the evil of an envier when he envies.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ فلق 113:1-5",
         "content": null,
-        "translation": ""
+        "translation": "(1) کہہ دیجیے: میں صبح کے رب کی پناہ مانگتا ہوں، (2) ہر اس چیز کے شر سے جو اس نے پیدا کی، (3) اور اندھیری رات کے شر سے جب وہ چھا جائے، (4) اور گرہوں میں پھونکنے والیوں کے شر سے، (5) اور حسد کرنے والے کے شر سے جب وہ حسد کرے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -138,10 +138,10 @@
         "translation": "O Allah, Lord of mankind! It is You Who removes suffering. You are the Healer, and none can heal but You. I beg You to bring about healing that leaves behind no ailment."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "بخاری: 5675",
         "content": null,
-        "translation": ""
+        "translation": "اے لوگوں کے رب! تکلیف دور فرما اور شفا عطا فرما۔ تو ہی شفا دینے والا ہے۔ تیری شفا کے سوا کوئی شفا نہیں؛ ایسی شفا عطا فرما جو کوئی بیماری باقی نہ چھوڑے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -173,10 +173,10 @@
         "translation": "(1) Alif, Lam, Meem. (2) Allah - there is no deity except Him, the Ever-Living, the Sustainer of existence. (3) He has sent down upon you, [O Muhammad], the Book in truth, confirming what was before it. And He revealed the Torah and the Gospel. (4) Before, as guidance for the people. And He revealed the Qur'an. Indeed, those who disbelieve in the verses of Allah will have a severe punishment, and Allah is exalted in Might, the Owner of Retribution. (5) Indeed, from Allah nothing is hidden in the earth nor in the heaven. (6) It is He who forms you in the wombs however He wills. There is no deity except Him, the Exalted in Might, the Wise."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ آل عمران 3:1-6",
         "content": null,
-        "translation": ""
+        "translation": "(1) الف، لام، میم۔ (2) اللہ، اس کے سوا کوئی معبودِ برحق نہیں؛ وہ زندہ ہے، سب کو قائم رکھنے والا ہے۔ (3) اس نے آپ پر حق کے ساتھ کتاب نازل کی، جو اپنے سے پہلے نازل ہونے والی کتابوں کی تصدیق کرتی ہے؛ اور اس نے تورات اور انجیل (4) اس سے پہلے لوگوں کی ہدایت کے لیے نازل کی تھیں، اور حق و باطل میں فرق کرنے والا قرآن بھی نازل کیا۔ بے شک جو لوگ اللہ کی آیات کا انکار کرتے ہیں ان کے لیے سخت عذاب ہے، اور اللہ زبردست، بدلہ لینے والا ہے۔ (5) بے شک زمین اور آسمان کی کوئی چیز اللہ سے پوشیدہ نہیں۔ (6) وہی ہے جو رحموں میں تمہاری صورتیں جیسے چاہتا ہے بناتا ہے۔ اس کے سوا کوئی معبودِ برحق نہیں؛ وہ زبردست، حکمت والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -208,10 +208,10 @@
         "translation": "In the name of Allah I am doing this Ruqyah unto you to get rid of what is harming you and of the evil of spirits and envious eyes. May Allah grant you healing! In the name of Allah I am doing this Ruqyah unto you.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "مسلم: 2186",
         "content": null,
-        "translation": ""
+        "translation": "اللہ کے نام سے میں آپ پر رقیہ کرتا ہوں، ہر اس چیز سے جو آپ کو تکلیف دیتی ہے، ہر جان اور حسد کرنے والی نظر کے شر سے۔ اللہ آپ کو شفا عطا فرمائے۔ اللہ کے نام سے میں آپ پر رقیہ کرتا ہوں۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -243,10 +243,10 @@
         "translation": "(1) Alif, Lam, Meem. (2) Allah - there is no deity except Him, the Ever-Living, the Sustainer of existence. (3) He has sent down upon you, [O Muhammad], the Book in truth, confirming what was before it. And He revealed the Torah and the Gospel. (4) Before, as guidance for the people. And He revealed the Qur'an. Indeed, those who disbelieve in the verses of Allah will have a severe punishment, and Allah is exalted in Might, the Owner of Retribution. (5) Indeed, from Allah nothing is hidden in the earth nor in the heaven. (6) It is He who forms you in the wombs however He wills. There is no deity except Him, the Exalted in Might, the Wise. (7) It is He who has sent down to you, [O Muhammad], the Book; in it are verses [that are] precise - they are the foundation of the Book - and others unspecific. As for those in whose hearts is deviation [from truth], they will follow that of it which is unspecific, seeking discord and seeking an interpretation [suitable to them]. And no one knows its [true] interpretation except Allah . But those firm in knowledge say, \"We believe in it. All [of it] is from our Lord.\" And no one will be reminded except those of understanding. (8) [Who say], \"Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower. (9) Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allah does not fail in His promise.\" (10) Indeed, those who disbelieve - never will their wealth or their children avail them against Allah at all. And it is they who are fuel for the Fire."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ آل عمران 3:1-10",
         "content": null,
-        "translation": ""
+        "translation": "(1) الف، لام، میم۔ (2) اللہ، اس کے سوا کوئی معبودِ برحق نہیں؛ وہ زندہ ہے، سب کو قائم رکھنے والا ہے۔ (3) اس نے آپ پر حق کے ساتھ کتاب نازل کی، جو اپنے سے پہلے نازل ہونے والی کتابوں کی تصدیق کرتی ہے؛ اور اس نے تورات اور انجیل (4) اس سے پہلے لوگوں کی ہدایت کے لیے نازل کی تھیں، اور حق و باطل میں فرق کرنے والا قرآن بھی نازل کیا۔ بے شک جو لوگ اللہ کی آیات کا انکار کرتے ہیں ان کے لیے سخت عذاب ہے، اور اللہ زبردست، بدلہ لینے والا ہے۔ (5) بے شک زمین اور آسمان کی کوئی چیز اللہ سے پوشیدہ نہیں۔ (6) وہی ہے جو رحموں میں تمہاری صورتیں جیسے چاہتا ہے بناتا ہے۔ اس کے سوا کوئی معبودِ برحق نہیں؛ وہ زبردست، حکمت والا ہے۔ (7) وہی ہے جس نے آپ پر کتاب نازل کی۔ اس میں کچھ آیات محکم ہیں، وہی کتاب کی بنیاد ہیں، اور دوسری متشابہ ہیں۔ پس جن کے دلوں میں کجی ہے وہ فتنہ پیدا کرنے اور ان کی تاویل کی تلاش میں متشابہ آیات کے پیچھے پڑتے ہیں، حالانکہ ان کی حقیقی تاویل اللہ کے سوا کوئی نہیں جانتا۔ اور علم میں پختہ لوگ کہتے ہیں: ’’ہم اس پر ایمان لائے؛ یہ سب ہمارے رب کی طرف سے ہے۔‘‘ اور عقل والے ہی نصیحت قبول کرتے ہیں۔ (8) اے ہمارے رب! ہمیں ہدایت دینے کے بعد ہمارے دل ٹیڑھے نہ کر، اور ہمیں اپنے پاس سے رحمت عطا فرما؛ بے شک تو ہی بہت عطا فرمانے والا ہے۔ (9) اے ہمارے رب! تو یقیناً لوگوں کو اس دن جمع کرنے والا ہے جس میں کوئی شک نہیں۔ بے شک اللہ وعدے کی خلاف ورزی نہیں کرتا۔ (10) بے شک جن لوگوں نے کفر کیا، ان کے مال اور ان کی اولاد اللہ کے مقابلے میں انہیں کچھ فائدہ نہ دیں گے، اور یہی لوگ آگ کا ایندھن ہیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -278,10 +278,10 @@
         "translation": "In the name of Allah, I seek refuge in Allah's perfect words from His wrath and punishment, from the evil of His slaves, and from Satan's whispers and presence."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "ابو داؤد: 3893",
         "content": null,
-        "translation": ""
+        "translation": "اللہ کے نام سے۔ میں اللہ کے کامل کلمات کی پناہ مانگتا ہوں، اس کے غضب اور عذاب سے، اس کے بندوں کے شر سے، شیطانوں کے وسوسوں اور ان کے میرے پاس آنے سے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -313,10 +313,10 @@
         "translation": "(1) Say, \"I seek refuge in the Lord of mankind, (2) The Sovereign of mankind. (3) The God of mankind, (4) From the evil of the retreating whisperer - (5) Who whispers [evil] into the breasts of mankind - (6) From among the jinn and mankind.\""
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ ناس 114:1-6",
         "content": null,
-        "translation": ""
+        "translation": "(1) کہہ دیجیے: میں لوگوں کے رب، (2) لوگوں کے بادشاہ، (3) لوگوں کے معبود کی پناہ مانگتا ہوں، (4) اس وسوسہ ڈالنے والے کے شر سے جو پیچھے ہٹ جاتا ہے، (5) جو لوگوں کے سینوں میں وسوسہ ڈالتا ہے، (6) خواہ وہ جنوں میں سے ہو یا انسانوں میں سے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -348,10 +348,10 @@
         "translation": "O Allah, I beg You to grant him Your blessings, to rid him of the evil eye's heat, cold and aches."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "مسند احمد: 3/447",
         "content": null,
-        "translation": ""
+        "translation": "اے اللہ! اسے برکت عطا فرما اور اس سے نظرِ بد کی گرمی، سردی اور تکلیف دور فرما۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",
@@ -383,10 +383,10 @@
         "translation": "(18) Allah witnesses that there is no deity except Him, and [so do] the angels and those of knowledge - [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ آل عمران 3:18",
         "content": null,
-        "translation": ""
+        "translation": "(18) اللہ گواہی دیتا ہے کہ اس کے سوا کوئی معبودِ برحق نہیں، اور فرشتے اور اہلِ علم بھی؛ وہ انصاف کو قائم رکھنے والا ہے۔ اس کے سوا کوئی معبودِ برحق نہیں؛ وہ زبردست، حکمت والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -418,10 +418,10 @@
         "translation": "In the name of Allah, with the earth of our land and the saliva of some of us, the ill amongst us will be healed by Allah's permission.”"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "سنت سے",
+        "name": "بخاری: 5745",
         "content": null,
-        "translation": ""
+        "translation": "اللہ کے نام سے۔ ہماری زمین کی مٹی، ہم میں سے بعض کے لعاب کے ساتھ، ہمارے رب کے حکم سے ہمارے مریض کو شفا دے۔"
       },
       "reference_bn": {
         "topic_name": "সুন্নাহ থেকে",

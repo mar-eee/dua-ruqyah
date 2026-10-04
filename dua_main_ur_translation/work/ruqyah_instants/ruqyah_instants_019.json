@@ -3,7 +3,7 @@
   "chunk": "ruqyah_instants_019.json",
   "source_language": "en",
   "target_language": "ur",
-  "status": "pending",
+  "status": "done",
   "rows": 22,
   "id_range": "269-290",
   "source_chars": 5866,
@@ -32,10 +32,10 @@
         "translation": "(44) And if We had made it a non-Arabic Qur'an, they would have said, \"Why are its verses not explained in detail [in our language]? Is it a foreign [recitation] and an Arab [messenger]?\" Say, \"It is, for those who believe, a guidance and cure.\" And those who do not believe - in their ears is deafness, and it is upon them blindness. Those are being called from a distant place. (45) And We had already given Moses the Scripture, but it came under disagreement. And if not for a word that preceded from your Lord, it would have been concluded between them. And indeed they are, concerning the Qur'an, in disquieting doubt. (46) Whoever does righteousness - it is for his [own] soul; and whoever does evil [does so] against it. And your Lord is not ever unjust to [His] servants."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ فصلت 41:44-46",
         "content": null,
-        "translation": ""
+        "translation": "(44) اور اگر ہم اسے عجمی قرآن بناتے تو وہ ضرور کہتے: ’’اس کی آیات کھول کر کیوں بیان نہیں کی گئیں؟ کیا کلام عجمی ہے اور مخاطب عربی؟‘‘ کہہ دیجیے: ’’یہ ایمان والوں کے لیے ہدایت اور شفا ہے۔‘‘ اور جو لوگ ایمان نہیں لاتے، ان کے کانوں میں بوجھ ہے اور یہ ان کے لیے اندھا پن ہے۔ ایسے لوگوں کو گویا بہت دور کی جگہ سے پکارا جا رہا ہے۔ (45) اور یقیناً ہم نے موسیٰ کو کتاب دی تو اس میں اختلاف کیا گیا۔ اگر آپ کے رب کی طرف سے ایک بات پہلے طے نہ ہو چکی ہوتی تو ان کے درمیان فیصلہ کر دیا جاتا، اور بے شک وہ اس کے بارے میں ایسے شک میں پڑے ہوئے ہیں جو انہیں بے چین کر رہا ہے۔ (46) جو نیک عمل کرے گا وہ اپنے ہی فائدے کے لیے کرے گا، اور جو برائی کرے گا اس کا وبال اسی پر ہوگا۔ اور آپ کا رب بندوں پر ہرگز ظلم کرنے والا نہیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -67,10 +67,10 @@
         "translation": "(17) And if Allah should touch you with adversity, there is no remover of it except Him. And if He touches you with good - then He is over all things competent. (18) And He is the subjugator over His servants. And He is the Wise, the Acquainted [with all]."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انعام 6:17-18",
         "content": null,
-        "translation": ""
+        "translation": "(17) اور اگر اللہ آپ کو کوئی تکلیف پہنچائے تو اس کے سوا اسے دور کرنے والا کوئی نہیں، اور اگر وہ آپ کو کوئی بھلائی پہنچائے تو وہ ہر چیز پر پوری قدرت رکھتا ہے۔ (18) اور وہ اپنے بندوں پر پوری طرح غالب ہے، اور وہ بڑی حکمت والا، پوری خبر رکھنے والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -102,10 +102,10 @@
         "translation": "(14) Fight them; Allah will punish them by your hands and will disgrace them and give you victory over them and satisfy the breasts of a believing people (15) And remove the fury in the believers' hearts. And Allah turns in forgiveness to whom He wills; and Allah is Knowing and Wise."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ توبہ 9:14-15",
         "content": null,
-        "translation": ""
+        "translation": "(14) ان سے لڑو؛ اللہ تمہارے ہاتھوں انہیں عذاب دے گا، انہیں رسوا کرے گا، تمہیں ان پر فتح دے گا اور اہلِ ایمان کے دلوں کو شفا دے گا۔ (15) اور ان کے دلوں کا غصہ دور کرے گا۔ اللہ جس کی چاہتا ہے توبہ قبول فرماتا ہے، اور اللہ خوب جاننے والا، حکمت والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -137,10 +137,10 @@
         "translation": "(57) O mankind, there has to come to you instruction from your Lord and healing for what is in the breasts and guidance and mercy for the believers."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یونس 10:57",
         "content": null,
-        "translation": ""
+        "translation": "(57) اے لوگو! تمہارے پاس تمہارے رب کی طرف سے نصیحت، سینوں کی بیماریوں کے لیے شفا، اور مومنوں کے لیے ہدایت اور رحمت آ چکی ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -172,10 +172,10 @@
         "translation": "(68) And your Lord inspired to the bee, \"Take for yourself among the mountains, houses, and among the trees and [in] that which they construct. (69) Then eat from all the fruits and follow the ways of your Lord laid down [for you].\" There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نحل 16:68-69",
         "content": null,
-        "translation": ""
+        "translation": "(68) اور آپ کے رب نے شہد کی مکھی کو الہام کیا کہ پہاڑوں، درختوں اور لوگوں کے بنائے ہوئے چھپروں میں اپنے گھر بنا۔ (69) پھر ہر قسم کے پھلوں سے کھا اور اپنے رب کی ہموار کی ہوئی راہوں پر چل۔ ان کے پیٹوں سے مختلف رنگوں کا ایک مشروب نکلتا ہے جس میں لوگوں کے لیے شفا ہے۔ بے شک اس میں غور و فکر کرنے والوں کے لیے بڑی نشانی ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -207,10 +207,10 @@
         "translation": "(82) And We send down of the Qur'an that which is healing and mercy for the believers, but it does not increase the wrongdoers except in loss."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ اسراء 17:82",
         "content": null,
-        "translation": ""
+        "translation": "(82) اور ہم قرآن میں سے وہ نازل کرتے ہیں جو ایمان والوں کے لیے شفا اور رحمت ہے، مگر ظالموں کے خسارے ہی میں اضافہ کرتا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -242,10 +242,10 @@
         "translation": "(80) And when I am ill, it is He who cures me"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ شعراء 26:80",
         "content": null,
-        "translation": ""
+        "translation": "(80) اور جب میں بیمار ہوتا ہوں تو وہی مجھے شفا دیتا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -277,10 +277,10 @@
         "translation": "(62) Is He [not best] who responds to the desperate one when he calls upon Him and removes evil and makes you inheritors of the earth? Is there a deity with Allah ? Little do you remember."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ نمل 27:62",
         "content": null,
-        "translation": ""
+        "translation": "(62) بھلا کون ہے جو بے قرار کی دعا قبول کرتا ہے جب وہ اسے پکارتا ہے، تکلیف دور کرتا ہے اور تمہیں زمین کے جانشین بناتا ہے؟ کیا اللہ کے ساتھ کوئی اور معبود ہے؟ تم بہت کم نصیحت قبول کرتے ہو۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -312,10 +312,10 @@
         "translation": "(2) Whatever Allah grants to people of mercy - none can withhold it; and whatever He withholds - none can release it thereafter. And He is the Exalted in Might, the Wise."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ فاطر 35:2",
         "content": null,
-        "translation": ""
+        "translation": "(2) اللہ لوگوں کے لیے جو رحمت کھول دے اسے کوئی روکنے والا نہیں، اور جسے وہ روک لے اسے اس کے بعد کوئی جاری کرنے والا نہیں۔ اور وہ سب پر غالب، بڑی حکمت والا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -347,10 +347,10 @@
         "translation": "(139) So do not weaken and do not grieve, and you will be superior if you are [true] believers."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ آل عمران 3:139",
         "content": null,
-        "translation": ""
+        "translation": "(139) اور نہ کمزور پڑو، نہ غم کرو؛ اگر تم مومن ہو تو تم ہی غالب رہو گے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -382,10 +382,10 @@
         "translation": "(154) Then after distress, He sent down upon you security [in the form of] drowsiness, overcoming a faction of you, while another faction worried about themselves, thinking of Allah other than the truth - the thought of ignorance, saying, \"Is there anything for us [to have done] in this matter?\" Say, \"Indeed, the matter belongs completely to Allah .\" They conceal within themselves what they will not reveal to you. They say, \"If there was anything we could have done in the matter, some of us would not have been killed right here.\" Say, \"Even if you had been inside your houses, those decreed to be killed would have come out to their death beds.\" [It was] so that Allah might test what is in your breasts and purify what is in your hearts. And Allah is Knowing of that within the breasts."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ آل عمران 3:154",
         "content": null,
-        "translation": ""
+        "translation": "(154) پھر غم کے بعد اس نے تم پر امن کی کیفیت، یعنی ایسی اونگھ اتاری جو تم میں سے ایک گروہ کو ڈھانپ رہی تھی، جبکہ دوسرے گروہ کو اپنی جانوں کی فکر لگی ہوئی تھی۔ وہ اللہ کے بارے میں ناحق، زمانۂ جاہلیت جیسے گمان کر رہے تھے۔ وہ کہتے تھے: ’’کیا اس معاملے میں ہمارا بھی کچھ اختیار ہے؟‘‘ کہہ دیجیے: ’’معاملہ سراسر اللہ کے اختیار میں ہے۔‘‘ وہ اپنے دلوں میں وہ بات چھپاتے ہیں جو آپ پر ظاہر نہیں کرتے۔ کہتے ہیں: ’’اگر اس معاملے میں ہمارا کچھ اختیار ہوتا تو ہم یہاں قتل نہ کیے جاتے۔‘‘ کہہ دیجیے: ’’اگر تم اپنے گھروں میں بھی ہوتے تو جن کا قتل ہونا لکھ دیا گیا تھا وہ اپنی قتل گاہوں کی طرف ضرور نکل آتے۔‘‘ اور یہ اس لیے ہوا تاکہ اللہ تمہارے سینوں کی بات آزمائے اور تمہارے دلوں کے اندر جو کچھ ہے اسے پاک کر دے۔ اور اللہ سینوں کے راز خوب جانتا ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -417,10 +417,10 @@
         "translation": "(125) And who is better in religion than one who submits himself to Allah while being a doer of good and follows the religion of Abraham, inclining toward truth? And Allah took Abraham as an intimate friend."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انعام 6:125",
         "content": null,
-        "translation": ""
+        "translation": "(125) پس جسے اللہ ہدایت دینا چاہتا ہے اس کا سینہ اسلام کے لیے کھول دیتا ہے، اور جسے گمراہ کرنا چاہتا ہے اس کا سینہ تنگ اور گھٹا ہوا کر دیتا ہے، گویا وہ آسمان میں چڑھ رہا ہو۔ اسی طرح اللہ ان لوگوں پر ناپاکی مسلط کرتا ہے جو ایمان نہیں لاتے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -452,10 +452,10 @@
         "translation": "(62) Unquestionably, [for] the allies of Allah there will be no fear concerning them, nor will they grieve (63) Those who believed and were fearing Allah"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یونس 10:62-63",
         "content": null,
-        "translation": ""
+        "translation": "(62) سن لو! بے شک اللہ کے اولیاء پر نہ کوئی خوف ہوگا اور نہ وہ غمگین ہوں گے؛ (63) یہ وہ لوگ ہیں جو ایمان لائے اور تقویٰ اختیار کرتے رہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -487,10 +487,10 @@
         "translation": "(103) Then We will save our messengers and those who have believed. Thus, it is an obligation upon Us that We save the believers"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یونس 10:103",
         "content": null,
-        "translation": ""
+        "translation": "(103) پھر ہم اپنے رسولوں اور ایمان والوں کو نجات دیتے ہیں۔ اسی طرح ہم پر حق ہے کہ مومنوں کو نجات دیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -522,10 +522,10 @@
         "translation": "(86) He said, \"I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ یوسف 12:86",
         "content": null,
-        "translation": ""
+        "translation": "(86) انہوں نے کہا: ’’میں اپنی پریشانی اور غم کی فریاد صرف اللہ ہی سے کرتا ہوں، اور اللہ کی طرف سے وہ کچھ جانتا ہوں جو تم نہیں جانتے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -557,10 +557,10 @@
         "translation": "(25) [Moses] said, \"My Lord, expand for me my breast [with assurance] (26) And ease for me my task (27) And untie the knot from my tongue (28) That they may understand my speech."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ طٰہٰ 20:25-28",
         "content": null,
-        "translation": ""
+        "translation": "(25) انہوں نے کہا: ’’اے میرے رب! میرا سینہ کھول دے، (26) اور میرا کام میرے لیے آسان کر دے، (27) اور میری زبان کی گرہ کھول دے، (28) تاکہ وہ میری بات سمجھیں۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -592,10 +592,10 @@
         "translation": "(76) And [mention] Noah, when he called [to Allah ] before [that time], so We responded to him and saved him and his family from the great flood."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انبیاء 21:76",
         "content": null,
-        "translation": ""
+        "translation": "(76) اور نوح کو یاد کیجیے، جب انہوں نے اس سے پہلے دعا کی تو ہم نے ان کی دعا قبول کی اور انہیں اور ان کے گھر والوں کو بڑی مصیبت سے نجات دی۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -627,10 +627,10 @@
         "translation": "(83) And [mention] Job, when he called to his Lord, \"Indeed, adversity has touched me, and you are the Most Merciful of the merciful.\" (84) So We responded to him and removed what afflicted him of adversity. And We gave him [back] his family and the like thereof with them as mercy from Us and a reminder for the worshippers [of Allah ]."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انبیاء 21:83-84",
         "content": null,
-        "translation": ""
+        "translation": "(83) اور ایوب کو یاد کیجیے، جب انہوں نے اپنے رب کو پکارا: ’’مجھے تکلیف پہنچ گئی ہے اور تو سب رحم کرنے والوں سے بڑھ کر رحم فرمانے والا ہے۔‘‘ (84) تو ہم نے ان کی دعا قبول کی، ان کی تکلیف دور کر دی اور انہیں ان کے گھر والے عطا کیے اور ان کے ساتھ اتنے ہی اور بھی عطا کیے؛ یہ ہماری طرف سے رحمت اور عبادت گزاروں کے لیے نصیحت تھی۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -662,10 +662,10 @@
         "translation": "(87) And [mention] the man of the fish, when he went off in anger and thought that We would not decree [anything] upon him. And he called out within the darknesses, \"There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.\" (88) So We responded to him and saved him from the distress. And thus do We save the believers."
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ انبیاء 21:87-88",
         "content": null,
-        "translation": ""
+        "translation": "(87) اور صاحبِ مچھلی کو یاد کیجیے، جب وہ غصے میں چلے گئے اور سمجھے کہ ہم ان پر تنگی نہیں کریں گے۔ پھر انہوں نے اندھیروں میں پکارا: ’’تیرے سوا کوئی معبود نہیں، تو پاک ہے، بے شک میں ظالموں میں سے تھا۔‘‘ (88) تو ہم نے ان کی دعا قبول کی اور انہیں غم سے نجات دی، اور اسی طرح ہم مومنوں کو نجات دیتے ہیں۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -697,10 +697,10 @@
         "translation": "(58) And rely upon the Ever-Living who does not die, and exalt [ Allah ] with His praise. And sufficient is He to be, with the sins of His servants, Acquainted -"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ فرقان 25:58",
         "content": null,
-        "translation": ""
+        "translation": "(58) اور اس زندہ ذات پر بھروسا کیجیے جو کبھی نہیں مرے گی، اور اس کی حمد کے ساتھ تسبیح کیجیے۔ اپنے بندوں کے گناہوں سے باخبر رہنے کے لیے وہی کافی ہے۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -732,10 +732,10 @@
         "translation": "(34) And they will say, \"Praise to Allah, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative -"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ فاطر 35:34",
         "content": null,
-        "translation": ""
+        "translation": "(34) اور وہ کہیں گے: ’’تمام حمد اللہ کے لیے ہے جس نے ہم سے ہر غم دور کر دیا۔ بے شک ہمارا رب بہت بخشنے والا، قدر دان ہے۔‘‘"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
@@ -767,10 +767,10 @@
         "translation": "(114) And We did certainly confer favor upon Moses and Aaron. (115) And We saved them and their people from the great affliction,"
       },
       "target": {
-        "topic_name": "",
-        "name": "",
+        "topic_name": "قرآن سے",
+        "name": "سورۂ صافات 37:114-115",
         "content": null,
-        "translation": ""
+        "translation": "(114) اور یقیناً ہم نے موسیٰ اور ہارون پر احسان کیا، (115) اور ان دونوں کو اور ان کی قوم کو بڑی مصیبت سے نجات دی۔"
       },
       "reference_bn": {
         "topic_name": "কোরআন থেকে",
