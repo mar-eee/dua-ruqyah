@@ -3459,6 +3459,65 @@
         "drawer_item_actions": 0
       },
       "cleanup": "All .ri001 temporary files and dua_main_id_rebuilt.sqlite removed after verification; no commit or push."
+    },
+    "dua_main_id_planned_json/tables/ruqyah_instants/ruqyah_instants_002.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "previous_status": "pending",
+      "rows": 31,
+      "id_range": "32-62",
+      "updated_at": "2026-10-05",
+      "translated_fields": [
+        "topic_name",
+        "name",
+        "content",
+        "translation"
+      ],
+      "translated_field_counts": {
+        "topic_name": 31,
+        "content": 5,
+        "translation": 31,
+        "name": 14
+      },
+      "source": "Exact ruqyah_instants IDs in dua_main_en.sqlite; no Bengali fallback",
+      "reference_rule": "English, not translated; copied verbatim and unchanged",
+      "transliteration_rule": "Copied verbatim and unchanged",
+      "verification": "All 31 exact English ruqyah_instants IDs (32-62) matched; every applicable topic_name, name, content and translation independently reviewed line by line against its exact English row after translation. JSON/UTF-8, two-space indentation, trailing newline, row/key order, nullness, all protected fields, Quranic Arabic, URLs, digits, HTML tag sequences, newline escapes, unusual Unicode and quotation/bracket counts verified. References and transliterations copied verbatim from English and identical to backup; references ASCII English, not translated. No Bengali or unintended English prose. Node.js followed the unchanged repository rebuild script because Python was unavailable in this environment. Reopened integrity_check ok; all 15 tables / 3082 rows compared value by value with JSON, including 308 ruqyah_instants rows; schema SQL, sequences and pragmas verified. SHA-256 scope checks confirm every other translation file, source database, Indonesian schema metadata and rebuild script unchanged.",
+      "second_pass": {
+        "status": "complete",
+        "reviewed_at": "2026-10-05",
+        "rows": 31,
+        "corrected_ids": [
+          32,
+          36,
+          40,
+          43,
+          47,
+          49,
+          53,
+          54,
+          56
+        ],
+        "note": "Second pass corrected instruction order and refuge phrasing (32, 40, 54), fighting as berperang (36), natural knot-blowing wording (43), precise versus unspecific verse meanings and bracketed scope (47), retreating whisperer wording (49), unlearned and notification-duty wording (53), and restored the explanatory bracket around all (56). All repeated records individually reviewed. Quran titles localized in 14 names; 17 bibliographic names retained. Five non-null content fields translated, 26 null content fields preserved. Source unmatched quotation marks and distinct English meanings retained; no Bengali fallback."
+      },
+      "database_table_counts": {
+        "categories": 44,
+        "subcategories": 118,
+        "dua_infos": 42,
+        "duas": 1001,
+        "ruqyah_categories": 15,
+        "ruqyah_details": 200,
+        "ruqyah_instants": 308,
+        "sections": 21,
+        "ruqyah_subcategories": 163,
+        "books": 3,
+        "book_details": 86,
+        "ids": 1001,
+        "ruqyah_videos": 74,
+        "drawer_items": 6,
+        "drawer_item_actions": 0
+      },
+      "cleanup": "All .ri002 temporary scripts, drafts, backups, state and result files plus dua_main_id_rebuilt.sqlite removed after successful verification; no commit or push."
     }
   }
 }
