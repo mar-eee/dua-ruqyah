@@ -3579,6 +3579,65 @@
         "drawer_item_actions": 0
       },
       "cleanup": "All .ri003 temporary scripts, drafts, backups, state and result files plus dua_main_id_rebuilt.sqlite removed after successful verification; no commit or push."
+    },
+    "dua_main_id_planned_json/tables/ruqyah_instants/ruqyah_instants_004.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "previous_status": "pending",
+      "rows": 31,
+      "id_range": "94-124",
+      "updated_at": "2026-10-05",
+      "translated_fields": [
+        "topic_name",
+        "name",
+        "content",
+        "translation"
+      ],
+      "translated_field_counts": {
+        "topic_name": 31,
+        "translation": 31,
+        "name": 20,
+        "content": 1
+      },
+      "source": "Exact ruqyah_instants IDs in dua_main_en.sqlite; no Bengali fallback",
+      "reference_rule": "English, not translated; copied verbatim and unchanged",
+      "transliteration_rule": "Copied verbatim and unchanged",
+      "verification": "All 31 exact English ruqyah_instants IDs (94-124) matched; every applicable topic_name, name, content and translation independently reviewed line by line against its exact English row after translation. JSON/UTF-8, two-space indentation, trailing newline, row/key order, nullness, all protected fields, Quranic Arabic, URLs, digits, HTML tag sequences, newline escapes, unusual Unicode and quotation/bracket/parenthesis counts verified. References and transliterations copied verbatim from English and identical to backup; references ASCII English, not translated. No Bengali or unintended English prose. Node.js reproduced the unchanged repository rebuild procedure because Python was unavailable in this environment. Reopened integrity_check ok; all 15 tables / 3082 rows compared value by value with JSON, including 308 ruqyah_instants rows; schema SQL, sequences and pragmas verified. SHA-256 scope checks confirm every other translation file, source database, Indonesian schema metadata and rebuild script unchanged.",
+      "second_pass": {
+        "status": "complete",
+        "reviewed_at": "2026-10-05",
+        "rows": 31,
+        "corrected_ids": [
+          96,
+          98,
+          103,
+          104,
+          105,
+          109,
+          112,
+          118,
+          123
+        ],
+        "note": "Second-pass corrected IDs: 96, 98, 103, 104, 105, 109, 112, 118, 123. Restored counterfactual conditional (96); improved dominion sentence while retaining hand meaning and clarified humbled sight (98); restored soundness of faith rather than merely firmness (103); made disbelief warning natural (104); localized Saul as Talut and clarified knowledge/stature wording (105); restored explicit son meaning and delight as heart happiness (109); made abandonment-to-self request natural (112); clarified Self-subsistent as not dependent on anyone (118); restored resentment as stored hatred rather than mere annoyance (123). All 31 records, names, conditions, negations, sequences and religious meanings reviewed individually. Twenty Quran titles localized; 11 bibliographic names retained. One content field translated; 30 null content values preserved. Exact source comparisons performed before reusing earlier repeated translations, then every reused record reviewed again. English source used for every ID; no Bengali fallback. Source title/content mismatch at 98 preserved: title 67:1-4, translation includes verse 5; full source translation including verse 5 retained. English source words forehead (109), exposed worthlessness (113), receive any wealth (105), painful punishment (122), and original unmatched/mixed quotation marks retained in meaning or formatting as applicable."
+      },
+      "database_table_counts": {
+        "categories": 44,
+        "subcategories": 118,
+        "dua_infos": 42,
+        "duas": 1001,
+        "ruqyah_categories": 15,
+        "ruqyah_details": 200,
+        "ruqyah_instants": 308,
+        "sections": 21,
+        "ruqyah_subcategories": 163,
+        "books": 3,
+        "book_details": 86,
+        "ids": 1001,
+        "ruqyah_videos": 74,
+        "drawer_items": 6,
+        "drawer_item_actions": 0
+      },
+      "cleanup": "All .ri004 temporary scripts, drafts, backups, state and result files plus dua_main_id_rebuilt.sqlite removed after successful verification; no commit or push."
     }
   }
 }
