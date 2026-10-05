@@ -3404,6 +3404,61 @@
         }
       ],
       "cleanup": "All .r005 task temporary files and dua_main_id_rebuilt.sqlite removed after verification."
+    },
+    "dua_main_id_planned_json/tables/ruqyah_instants/ruqyah_instants_001.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "previous_status": "pending",
+      "rows": 31,
+      "id_range": "1-31",
+      "updated_at": "2026-10-05",
+      "translated_fields": [
+        "topic_name",
+        "name",
+        "content",
+        "translation"
+      ],
+      "translated_field_counts": {
+        "topic_name": 31,
+        "name": 16,
+        "translation": 31,
+        "content": 2
+      },
+      "source": "Exact ruqyah_instants IDs in dua_main_en.sqlite; no Bengali fallback",
+      "reference_rule": "English, not translated; copied verbatim",
+      "transliteration_rule": "Copied verbatim; unchanged",
+      "verification": "All 31 exact English ruqyah_instants IDs (1-31) matched and independently reviewed line by line. JSON/UTF-8, two-space indentation, trailing newline, row/key order, nullness, all protected fields, Arabic, URLs, digits, HTML tag sequences, newline escapes and unusual Unicode preserved. Transliteration and reference copied verbatim from English and also identical to backup; references ASCII English, not translated. No Bengali or unintended English prose. Node.js equivalent of the unchanged repository Python rebuild used because Python cannot run. Reopened integrity_check ok; all 15 tables / 3082 rows compared value by value with JSON; schema SQL, sequences and pragmas verified. SHA-256 checks confirm every other translation file, source database, Indonesian schema metadata and rebuild script unchanged.",
+      "second_pass": {
+        "status": "complete",
+        "rows": 31,
+        "corrected_ids": [
+          1,
+          3,
+          5,
+          13,
+          22,
+          30
+        ],
+        "note": "Removed unsupported exclusivity in praise wording (1, 3, 5); clarified Sustainer wording (13); restored escape as avoidance rather than surpassing (22, 30). Reviewed all 31 names; 16 Quran titles localized, 15 bibliographic names retained. All 29 null content fields preserved. Source unmatched quotation marks and distinct meanings in repeated prayers retained."
+      },
+      "database_table_counts": {
+        "categories": 44,
+        "subcategories": 118,
+        "dua_infos": 42,
+        "duas": 1001,
+        "ruqyah_categories": 15,
+        "ruqyah_details": 200,
+        "ruqyah_instants": 308,
+        "sections": 21,
+        "ruqyah_subcategories": 163,
+        "books": 3,
+        "book_details": 86,
+        "ids": 1001,
+        "ruqyah_videos": 74,
+        "drawer_items": 6,
+        "drawer_item_actions": 0
+      },
+      "cleanup": "All .ri001 temporary files and dua_main_id_rebuilt.sqlite removed after verification; no commit or push."
     }
   }
 }
