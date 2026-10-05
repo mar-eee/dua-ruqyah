@@ -3518,6 +3518,67 @@
         "drawer_item_actions": 0
       },
       "cleanup": "All .ri002 temporary scripts, drafts, backups, state and result files plus dua_main_id_rebuilt.sqlite removed after successful verification; no commit or push."
+    },
+    "dua_main_id_planned_json/tables/ruqyah_instants/ruqyah_instants_003.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "previous_status": "pending",
+      "rows": 31,
+      "id_range": "63-93",
+      "updated_at": "2026-10-05",
+      "translated_fields": [
+        "topic_name",
+        "name",
+        "content",
+        "translation"
+      ],
+      "translated_field_counts": {
+        "topic_name": 31,
+        "name": 15,
+        "translation": 31,
+        "content": 5
+      },
+      "source": "Exact ruqyah_instants IDs in dua_main_en.sqlite; no Bengali fallback",
+      "reference_rule": "English, not translated; copied verbatim and unchanged",
+      "transliteration_rule": "Copied verbatim and unchanged",
+      "verification": "All 31 exact English ruqyah_instants IDs (63-93) matched; every applicable topic_name, name, content and translation independently reviewed line by line against its exact English row after translation. JSON/UTF-8, two-space indentation, trailing newline, row/key order, nullness, all protected fields, Quranic Arabic, URLs, digits, HTML tag sequences, newline escapes, unusual Unicode and quotation/bracket/parenthesis counts verified. References and transliterations copied verbatim from English and identical to backup; references ASCII English, not translated. No Bengali or unintended English prose. Node.js reproduced the unchanged repository rebuild procedure because Python was unavailable in this environment. Reopened integrity_check ok; all 15 tables / 3082 rows compared value by value with JSON, including 308 ruqyah_instants rows; schema SQL, sequences and pragmas verified. SHA-256 scope checks confirm every other translation file, source database, Indonesian schema metadata and rebuild script unchanged.",
+      "second_pass": {
+        "status": "complete",
+        "reviewed_at": "2026-10-05",
+        "rows": 31,
+        "corrected_ids": [
+          63,
+          65,
+          66,
+          68,
+          70,
+          73,
+          75,
+          84,
+          88,
+          91,
+          92
+        ],
+        "note": "Second-pass corrected IDs: 63, 65, 66, 68, 70, 73, 75, 84, 88, 91, 92. Refined blessed and private supplication wording (63, 66), made illness-healing request natural (65, 88), corrected taking a son versus adopting one and dominion wording (68, 75), removed unsupported Sesungguhnya (70, 92), clarified mates from among yourselves and tranquillity together (73), restored explicit heart object (84), clarified inability to protect against divine decree (91). All 31 records and all names reviewed individually. Fifteen Quran titles localized; 16 bibliographic names retained. Five content fields translated; 26 null content values retained. Repeated translations reused only after exact English comparison and then independently reviewed. English source used for every ID; no Bengali fallback. Source anomalies preserved: night/day covering and another-night bracket in 63/66, night timing in 73, mismatched quotation styles in 71, bibliographic punctuation in 90, and unmatched source closing quotation marks. Lightening typo at 73 rendered as kilat from its unambiguous context. English Ascendant/Intimate wording retained in Indonesian at 93."
+      },
+      "database_table_counts": {
+        "categories": 44,
+        "subcategories": 118,
+        "dua_infos": 42,
+        "duas": 1001,
+        "ruqyah_categories": 15,
+        "ruqyah_details": 200,
+        "ruqyah_instants": 308,
+        "sections": 21,
+        "ruqyah_subcategories": 163,
+        "books": 3,
+        "book_details": 86,
+        "ids": 1001,
+        "ruqyah_videos": 74,
+        "drawer_items": 6,
+        "drawer_item_actions": 0
+      },
+      "cleanup": "All .ri003 temporary scripts, drafts, backups, state and result files plus dua_main_id_rebuilt.sqlite removed after successful verification; no commit or push."
     }
   }
 }
