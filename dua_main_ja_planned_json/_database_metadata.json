@@ -4054,6 +4054,145 @@
         "drawer_item_actions": 0
       },
       "cleanup": "All .ri010 task temporary files and dua_main_id_rebuilt.sqlite removed after verification; no commit or push."
+    },
+    "dua_main_id_planned_json/tables/ruqyah_subcategories/ruqyah_subcategories_001.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "previous_status": "pending",
+      "rows": 163,
+      "id_range": "1-163",
+      "updated_at": "2026-10-05",
+      "translated_fields": [
+        "name"
+      ],
+      "translated_field_counts": {
+        "name": 162
+      },
+      "reviewed_nonempty_name_count": 163,
+      "intentionally_retained_names": [
+        {
+          "id": 109,
+          "name": "Saussurea costus",
+          "reason": "Latin scientific plant name retained verbatim"
+        }
+      ],
+      "reference_rule": "Not applicable: this table has no reference or transliteration fields",
+      "source": "Exact English ruqyah_subcategories IDs in dua_main_en.sqlite",
+      "verification": "Valid JSON and unique keys checked in target, backup and every Indonesian reconstruction chunk. Exact English source-ID coverage, unique IDs, unchanged record count/ID sequence, row/key order, field types, all protected values including RUQYAH/INSTANT/VIDEO types and cat_id, null/empty preservation, digits/numbering, questions, quotations, parentheses, HTML, newline and unusual Unicode checked. Only name values changed. No Bengali or unintended English prose in names; Latin scientific name at ID 109 intentionally retained. Node.js reproduced the unchanged documented Python rebuild procedure because Python was inaccessible. Reopened SQLite integrity_check ok. All 15 tables, all 3082 rows and every reconstructed value compared with JSON, including all 163 ruqyah_subcategories rows. Schema SQL, sqlite_sequence, application_id and user_version verified. SHA-256 confirms no other translation file, English source database, Indonesian schema metadata or rebuild script changed. First ID 1 and final ID 163 reopened and directly verified in Indonesian.",
+      "second_pass": {
+        "status": "complete",
+        "rows": 163,
+        "corrected_ids": [
+          9,
+          11,
+          29,
+          30,
+          83,
+          84,
+          88,
+          110,
+          115,
+          118,
+          142
+        ],
+        "note": "All 163 existing non-empty names reviewed independently against exact English IDs, never by position. 162 name values changed; ID 109 retains the Latin scientific name Saussurea costus, which is neither English prose nor an untranslated title. Category and completed Indonesian detail terminology checked read-only: ruqyah, jin, setan, sihir, penyakit ain, iri hati, peruqyah, waswas, salat, Sidr, sena, habbatussauda, bekam and flebotomi. Source Arabic-derived technical names retained with Indonesian explanations. Source numbering/punctuation and Al-Khumül Unicode retained; unmatched source quotation in ID 130 retained. Second-pass corrections: clarified washed-writing water (9); natural physical-medication wording (11); possessing jin treatment target (29,30); jealousy as iri hati from exact related text rather than romantic jealousy (83); restored jin as source of ain (84); genuine peruqyah wording (88); preparation of ruqyah media (110); restored which question (115); expected experiences rather than hoped-for outcomes (118); healthy-condition meaning of strength verified from related text (142)."
+      },
+      "source_ambiguities": [
+        {
+          "id": 32,
+          "note": "Source title says if the patient does not have a seizure, but linked detail discusses signs of jin touch without clarifying this conditional. Translated the exact title, retaining the negation; no inferred seizure/possession equivalence."
+        },
+        {
+          "id": 65,
+          "note": "Natural Sterility is not further defined in the related source. Rendered kemandulan alami; did not assume congenital or permanent infertility."
+        },
+        {
+          "id": 91,
+          "note": "The Non-Risk is an imprecise source heading. Related detail 110 discusses selected lower-risk/non-risk situations and reassurance, without defining a technical category. Retained Tanpa risiko; did not extend the source into a general safety claim."
+        }
+      ],
+      "endpoint_verification": {
+        "reopened": true,
+        "ids": [
+          1,
+          163
+        ]
+      },
+      "database_table_counts": {
+        "categories": 44,
+        "subcategories": 118,
+        "dua_infos": 42,
+        "duas": 1001,
+        "ruqyah_categories": 15,
+        "ruqyah_details": 200,
+        "ruqyah_instants": 308,
+        "sections": 21,
+        "ruqyah_subcategories": 163,
+        "books": 3,
+        "book_details": 86,
+        "ids": 1001,
+        "ruqyah_videos": 74,
+        "drawer_items": 6,
+        "drawer_item_actions": 0
+      },
+      "cleanup": "All .rs001 task temporary scripts, backup, draft, hash state, results and dua_main_id_rebuilt.sqlite removed after verification; no commit or push.",
+      "figurative_title_correction": {
+        "date": "2026-10-05",
+        "reviewed_ids": [
+          32,
+          49,
+          65,
+          91
+        ],
+        "english_detail_ids": [
+          31,
+          53,
+          69,
+          110
+        ],
+        "changed_ids": [
+          49
+        ],
+        "names": [
+          {
+            "id": 32,
+            "english": "If the patient does not have a seizure",
+            "indonesian": "Jika pasien tidak mengalami kejang"
+          },
+          {
+            "id": 49,
+            "english": "Lawful Sihr",
+            "indonesian": "\"Sihir\" yang dibolehkan (memikat suami)"
+          },
+          {
+            "id": 65,
+            "english": "Difference between Natural Sterility and Sterility caused by Sihr",
+            "indonesian": "Perbedaan antara kemandulan alami dan kemandulan akibat sihir"
+          },
+          {
+            "id": 91,
+            "english": "The Non-Risk",
+            "indonesian": "Tanpa risiko"
+          }
+        ],
+        "reason": "Full English detail 53 uses sihr figuratively for attracting a husband through appearance, kindness and care. Quoted Sihir signals figurative usage; dibolehkan preserves lawful; memikat suami is a source-supported parenthetical title clarification. Names 32,65,91 retained without guesses.",
+        "remaining_ambiguities": [
+          {
+            "id": 32,
+            "note": "Source title says if the patient does not have a seizure, but linked detail discusses signs of jin touch without clarifying this conditional. Translated the exact title, retaining the negation; no inferred seizure/possession equivalence."
+          },
+          {
+            "id": 65,
+            "note": "Natural Sterility is not further defined in the related source. Rendered kemandulan alami; did not assume congenital or permanent infertility."
+          },
+          {
+            "id": 91,
+            "note": "The Non-Risk is an imprecise source heading. Related detail 110 discusses selected lower-risk/non-risk situations and reassurance, without defining a technical category. Retained Tanpa risiko; did not extend the source into a general safety claim."
+          }
+        ],
+        "validation": "163 records, IDs 1-163. JSON, unique keys/IDs, exact English ID coverage, row/key order, field types, nullness and every protected value passed. Only ID 49 name changed from task backup. All 15 database tables / 3082 rows / 163 ruqyah_subcategories rows compared value by value with JSON; schema SQL, sequences and pragmas verified; reopened integrity_check ok. Node.js reproduced unchanged documented rebuild procedure because Python unavailable. All other translation files unchanged by SHA-256.",
+        "cleanup": "Task helper, backup and verification database removed; no staging, commit, push or branch switch."
+      }
     }
   }
 }

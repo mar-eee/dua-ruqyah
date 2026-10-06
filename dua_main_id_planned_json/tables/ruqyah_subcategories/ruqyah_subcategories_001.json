@@ -2,649 +2,649 @@
   {
     "id": 1,
     "type": "RUQYAH",
-    "name": "What is Ruqyah ?",
+    "name": "Apa itu ruqyah?",
     "cat_id": 1
   },
   {
     "id": 2,
     "type": "RUQYAH",
-    "name": "The Method Of Ruqyah",
+    "name": "Cara melakukan ruqyah",
     "cat_id": 1
   },
   {
     "id": 3,
     "type": "RUQYAH",
-    "name": "Conditions for Ruqyah to be successful",
+    "name": "Syarat agar ruqyah berhasil",
     "cat_id": 1
   },
   {
     "id": 4,
     "type": "RUQYAH",
-    "name": "Before Ruqyah",
+    "name": "Sebelum ruqyah",
     "cat_id": 1
   },
   {
     "id": 5,
     "type": "RUQYAH",
-    "name": "During Ruqyah",
+    "name": "Selama ruqyah",
     "cat_id": 1
   },
   {
     "id": 6,
     "type": "RUQYAH",
-    "name": "Why Blow with Your Saliva?",
+    "name": "Mengapa meniup dengan air liur?",
     "cat_id": 1
   },
   {
     "id": 7,
     "type": "RUQYAH",
-    "name": "Blowing in Water",
+    "name": "Meniup ke dalam air",
     "cat_id": 1
   },
   {
     "id": 8,
     "type": "RUQYAH",
-    "name": "FAQ's About Ruqya",
+    "name": "Pertanyaan yang sering diajukan tentang ruqyah",
     "cat_id": 1
   },
   {
     "id": 9,
     "type": "RUQYAH",
-    "name": "Prerequisites of writing Ruqyah and drinking it’s water",
+    "name": "Syarat menuliskan bacaan ruqyah dan meminum air pembasuhnya",
     "cat_id": 1
   },
   {
     "id": 10,
     "type": "RUQYAH",
-    "name": "The correct way to perform Ruqyah for a small child",
+    "name": "Cara yang benar melakukan ruqyah untuk anak kecil",
     "cat_id": 1
   },
   {
     "id": 11,
     "type": "RUQYAH",
-    "name": "Are physical medicines better, or Ruqyah and spiritual medicine?",
+    "name": "Apakah obat medis lebih baik, atau ruqyah dan pengobatan rohani?",
     "cat_id": 1
   },
   {
     "id": 12,
     "type": "INSTANT",
-    "name": "Brief Ruqya",
+    "name": "Ruqyah singkat",
     "cat_id": 2
   },
   {
     "id": 13,
     "type": "INSTANT",
-    "name": "A Medium Ruqya",
+    "name": "Ruqyah sedang",
     "cat_id": 2
   },
   {
     "id": 14,
     "type": "INSTANT",
-    "name": "A Long Ruqya",
+    "name": "Ruqyah panjang",
     "cat_id": 2
   },
   {
     "id": 15,
     "type": "RUQYAH",
-    "name": "Existence",
+    "name": "Keberadaan jin",
     "cat_id": 3
   },
   {
     "id": 16,
     "type": "RUQYAH",
-    "name": "Jinn's fear of humans",
+    "name": "Ketakutan jin terhadap manusia",
     "cat_id": 3
   },
   {
     "id": 17,
     "type": "RUQYAH",
-    "name": "Jinn envy humans",
+    "name": "Jin iri kepada manusia",
     "cat_id": 3
   },
   {
     "id": 18,
     "type": "RUQYAH",
-    "name": "When do demons spread out?",
+    "name": "Kapan setan menyebar?",
     "cat_id": 3
   },
   {
     "id": 19,
     "type": "RUQYAH",
-    "name": "It is prohibited to sacrifice animals for Jinn",
+    "name": "Larangan menyembelih hewan untuk jin",
     "cat_id": 3
   },
   {
     "id": 20,
     "type": "RUQYAH",
-    "name": "It is haram to seek refuge with Jinn",
+    "name": "Haram meminta perlindungan kepada jin",
     "cat_id": 3
   },
   {
     "id": 21,
     "type": "RUQYAH",
-    "name": "Do Jinn inhabit people's houses?",
+    "name": "Apakah jin menghuni rumah manusia?",
     "cat_id": 3
   },
   {
     "id": 22,
     "type": "RUQYAH",
-    "name": "How to chase Jinn away from a house?",
+    "name": "Bagaimana mengusir jin dari rumah?",
     "cat_id": 3
   },
   {
     "id": 23,
     "type": "RUQYAH",
-    "name": "Jinn are less dignified than mankind",
+    "name": "Jin kurang mulia dibandingkan manusia",
     "cat_id": 3
   },
   {
     "id": 24,
     "type": "RUQYAH",
-    "name": "Reasons of Jinn's possession of humans",
+    "name": "Penyebab jin merasuki manusia",
     "cat_id": 3
   },
   {
     "id": 25,
     "type": "RUQYAH",
-    "name": "How does a Jinn enter the body of a human, and where does he/she settle?",
+    "name": "Bagaimana jin memasuki tubuh manusia, dan di mana ia menetap?",
     "cat_id": 3
   },
   {
     "id": 26,
     "type": "RUQYAH",
-    "name": "Symptoms of the Jinn's possession of humans",
+    "name": "Gejala manusia dirasuki jin",
     "cat_id": 3
   },
   {
     "id": 27,
     "type": "RUQYAH",
-    "name": "Characteristics of a healer (exorcist)",
+    "name": "Ciri-ciri penyembuh (pengusir jin)",
     "cat_id": 3
   },
   {
     "id": 28,
     "type": "RUQYAH",
-    "name": "The method of healing",
+    "name": "Cara pengobatan",
     "cat_id": 3
   },
   {
     "id": 29,
     "type": "RUQYAH",
-    "name": "How to Conduct a Ruqyah with a Muslim Jinn?",
+    "name": "Bagaimana meruqyah orang yang dirasuki jin Muslim?",
     "cat_id": 3
   },
   {
     "id": 30,
     "type": "RUQYAH",
-    "name": "How to Conduct Ruqyah with a non-Muslim Jinn?",
+    "name": "Bagaimana meruqyah orang yang dirasuki jin non-Muslim?",
     "cat_id": 3
   },
   {
     "id": 31,
     "type": "RUQYAH",
-    "name": "Some notes for the exorcist",
+    "name": "Beberapa catatan bagi pengusir jin",
     "cat_id": 3
   },
   {
     "id": 32,
     "type": "RUQYAH",
-    "name": "If the patient does not have a seizure",
+    "name": "Jika pasien tidak mengalami kejang",
     "cat_id": 3
   },
   {
     "id": 33,
     "type": "RUQYAH",
-    "name": "What should be recited over the jinn if he breaks his promise and comes back",
+    "name": "Apa yang harus dibacakan kepada jin jika ia melanggar janjinya dan kembali",
     "cat_id": 3
   },
   {
     "id": 34,
     "type": "RUQYAH",
-    "name": "Treating a case of love between a jinn and a human",
+    "name": "Mengobati kasus cinta antara jin dan manusia",
     "cat_id": 3
   },
   {
     "id": 35,
     "type": "RUQYAH",
-    "name": "Some Practical Examples",
+    "name": "Beberapa contoh praktik",
     "cat_id": 3
   },
   {
     "id": 36,
     "type": "RUQYAH",
-    "name": "Guidance for the protection from Sar' (Possesion)",
+    "name": "Panduan perlindungan dari Sar' (kerasukan)",
     "cat_id": 3
   },
   {
     "id": 37,
     "type": "RUQYAH",
-    "name": "Waswasah in Salat",
+    "name": "Waswas dalam salat",
     "cat_id": 3
   },
   {
     "id": 38,
     "type": "RUQYAH",
-    "name": "Satan's Musical instruments",
+    "name": "Alat musik setan",
     "cat_id": 3
   },
   {
     "id": 39,
     "type": "RUQYAH",
-    "name": "Satan's approach to one's meal",
+    "name": "Setan mendekati makanan seseorang",
     "cat_id": 3
   },
   {
     "id": 40,
     "type": "RUQYAH",
-    "name": "The levels of temptation",
+    "name": "Tingkatan godaan",
     "cat_id": 3
   },
   {
     "id": 41,
     "type": "RUQYAH",
-    "name": "As well as adhering to the Ruqyah program, what else should the patient do?",
+    "name": "Selain menjalankan program ruqyah, apa lagi yang harus dilakukan pasien?",
     "cat_id": 3
   },
   {
     "id": 42,
     "type": "RUQYAH",
-    "name": "Ten ways of avoiding the harm of the Jinn and protecting oneself against the devils",
+    "name": "Sepuluh cara menghindari gangguan jin dan melindungi diri dari setan",
     "cat_id": 3
   },
   {
     "id": 43,
     "type": "RUQYAH",
-    "name": "Evidence of the Existence of Jinn and Demons",
+    "name": "Dalil keberadaan jin dan setan",
     "cat_id": 4
   },
   {
     "id": 44,
     "type": "RUQYAH",
-    "name": "Evidence on the Existence of Sihr",
+    "name": "Dalil keberadaan sihir",
     "cat_id": 4
   },
   {
     "id": 45,
     "type": "RUQYAH",
-    "name": "1. Sihr of Separation",
+    "name": "1. Sihir pemisah",
     "cat_id": 4
   },
   {
     "id": 46,
     "type": "RUQYAH",
-    "name": "Definition of Sihr of Separation",
+    "name": "Pengertian sihir pemisah",
     "cat_id": 4
   },
   {
     "id": 47,
     "type": "RUQYAH",
-    "name": "Treatment Of The Sihr Of Separation",
+    "name": "Pengobatan sihir pemisah",
     "cat_id": 4
   },
   {
     "id": 48,
     "type": "RUQYAH",
-    "name": "2. Sihr Al-Mahabba / At-Tiwala (Love)",
+    "name": "2. Sihir Al-Mahabba / At-Tiwala (cinta)",
     "cat_id": 4
   },
   {
     "id": 49,
     "type": "RUQYAH",
-    "name": "Lawful Sihr",
+    "name": "\"Sihir\" yang dibolehkan (memikat suami)",
     "cat_id": 4
   },
   {
     "id": 50,
     "type": "RUQYAH",
-    "name": "Treatment of Sihr of Love",
+    "name": "Pengobatan sihir cinta",
     "cat_id": 4
   },
   {
     "id": 51,
     "type": "RUQYAH",
-    "name": "3: Sihr At-Takhyil (False Appearance of Objects)",
+    "name": "3: Sihir At-Takhyil (penampakan benda yang tidak sesuai kenyataan)",
     "cat_id": 4
   },
   {
     "id": 52,
     "type": "RUQYAH",
-    "name": "4: Sihr Al-Junun (Lunacy)",
+    "name": "4: Sihir Al-Junun (kegilaan)",
     "cat_id": 4
   },
   {
     "id": 53,
     "type": "RUQYAH",
-    "name": "5: Sihr Al-Khumül (Lethargy)",
+    "name": "5: Sihir Al-Khumül (kelesuan)",
     "cat_id": 4
   },
   {
     "id": 54,
     "type": "RUQYAH",
-    "name": "6: Sihr Al-Hawatif (Bad Dreams & Hearing Voices)",
+    "name": "6: Sihir Al-Hawatif (mimpi buruk & mendengar suara)",
     "cat_id": 4
   },
   {
     "id": 55,
     "type": "RUQYAH",
-    "name": "7: Sihr Al-Maradh (Illness)",
+    "name": "7: Sihir Al-Maradh (penyakit)",
     "cat_id": 4
   },
   {
     "id": 56,
     "type": "RUQYAH",
-    "name": "8: Sihr An-Nazif (Bleeding Following Menses)",
+    "name": "8: Sihir An-Nazif (perdarahan setelah haid)",
     "cat_id": 4
   },
   {
     "id": 57,
     "type": "RUQYAH",
-    "name": "Definition of Sihr An-Nazif",
+    "name": "Pengertian sihir An-Nazif",
     "cat_id": 4
   },
   {
     "id": 58,
     "type": "RUQYAH",
-    "name": "9: Sihr of Impeding Marriage",
+    "name": "9: Sihir penghambat pernikahan",
     "cat_id": 4
   },
   {
     "id": 59,
     "type": "RUQYAH",
-    "name": "Important Facts on Sihr",
+    "name": "Fakta penting tentang sihir",
     "cat_id": 4
   },
   {
     "id": 60,
     "type": "RUQYAH",
-    "name": "Sihr Ar-Rabt (Penile Erection Problems During Sexual Intercourse)",
+    "name": "Sihir Ar-Rabt (gangguan ereksi penis saat hubungan seksual)",
     "cat_id": 4
   },
   {
     "id": 61,
     "type": "RUQYAH",
-    "name": "Ar-Rabt in Women (sexual frigidity)",
+    "name": "Ar-Rabt pada perempuan (frigiditas seksual)",
     "cat_id": 4
   },
   {
     "id": 62,
     "type": "RUQYAH",
-    "name": "Treatment of Rabt in Men",
+    "name": "Pengobatan Rabt pada laki-laki",
     "cat_id": 4
   },
   {
     "id": 63,
     "type": "RUQYAH",
-    "name": "Difference between Ar-rabt, Al-'ajz al-jinsi (impotence) and Adh-dhu'f al-jinsi (sexual weakness)",
+    "name": "Perbedaan antara Ar-rabt, Al-'ajz al-jinsi (impotensi), dan Adh-dhu'f al-jinsi (kelemahan seksual)",
     "cat_id": 4
   },
   {
     "id": 64,
     "type": "RUQYAH",
-    "name": "Treatment of Ar-rabt, Al-'ajz al-jinsi (impotence) and Adh-dhu'f al-jinsi (sexual weakness)",
+    "name": "Pengobatan Ar-rabt, Al-'ajz al-jinsi (impotensi), dan Adh-dhu'f al-jinsi (kelemahan seksual)",
     "cat_id": 4
   },
   {
     "id": 65,
     "type": "RUQYAH",
-    "name": "Difference between Natural Sterility and Sterility caused by Sihr",
+    "name": "Perbedaan antara kemandulan alami dan kemandulan akibat sihir",
     "cat_id": 4
   },
   {
     "id": 66,
     "type": "RUQYAH",
-    "name": "Sterility in Women",
+    "name": "Kemandulan pada perempuan",
     "cat_id": 4
   },
   {
     "id": 67,
     "type": "RUQYAH",
-    "name": "Treatment of Premature Ejaculation",
+    "name": "Pengobatan ejakulasi dini",
     "cat_id": 4
   },
   {
     "id": 68,
     "type": "RUQYAH",
-    "name": "Protective Measures against Sihr in General",
+    "name": "Langkah perlindungan dari sihir secara umum",
     "cat_id": 4
   },
   {
     "id": 69,
     "type": "RUQYAH",
-    "name": "The Concept of the Evil Eye (ayn)",
+    "name": "Pengertian penyakit ain (ayn)",
     "cat_id": 5
   },
   {
     "id": 70,
     "type": "RUQYAH",
-    "name": "The Different Types Of Evil Eye (ayn)",
+    "name": "Berbagai jenis penyakit ain (ayn)",
     "cat_id": 5
   },
   {
     "id": 71,
     "type": "RUQYAH",
-    "name": "Evidence for the different types of Evil Eye",
+    "name": "Dalil tentang berbagai jenis penyakit ain",
     "cat_id": 5
   },
   {
     "id": 72,
     "type": "RUQYAH",
-    "name": "Evidence For The Existance Of Envy",
+    "name": "Dalil keberadaan iri hati",
     "cat_id": 5
   },
   {
     "id": 73,
     "type": "RUQYAH",
-    "name": "The Similarities And Differences Between The Evil Eye And Envy",
+    "name": "Persamaan dan perbedaan antara penyakit ain dan iri hati",
     "cat_id": 5
   },
   {
     "id": 74,
     "type": "RUQYAH",
-    "name": "Evidence in the qur'an",
+    "name": "Dalil dalam Al-Qur’an",
     "cat_id": 5
   },
   {
     "id": 75,
     "type": "RUQYAH",
-    "name": "Envy is of varying degrees",
+    "name": "Iri hati memiliki berbagai tingkatan",
     "cat_id": 5
   },
   {
     "id": 76,
     "type": "RUQYAH",
-    "name": "Hadiths Related To The Evil Eye",
+    "name": "Hadis-hadis tentang penyakit ain",
     "cat_id": 5
   },
   {
     "id": 77,
     "type": "RUQYAH",
-    "name": "The effects of the evil eye",
+    "name": "Dampak penyakit ain",
     "cat_id": 5
   },
   {
     "id": 78,
     "type": "RUQYAH",
-    "name": "Signs And Symptoms",
+    "name": "Tanda dan gejala",
     "cat_id": 5
   },
   {
     "id": 79,
     "type": "RUQYAH",
-    "name": "Self-Ruqyah Treatment",
+    "name": "Pengobatan dengan ruqyah mandiri",
     "cat_id": 5
   },
   {
     "id": 80,
     "type": "RUQYAH",
-    "name": "Treatment Of Al-'Ayn (Evil Eye)",
+    "name": "Pengobatan Al-'Ayn (penyakit ain)",
     "cat_id": 5
   },
   {
     "id": 81,
     "type": "RUQYAH",
-    "name": "Evidence From The Hadith on The Effect of Al-Ayn",
+    "name": "Dalil dari hadis tentang dampak Al-Ayn",
     "cat_id": 5
   },
   {
     "id": 82,
     "type": "RUQYAH",
-    "name": "Views of Scholars on the Reality of Al-'Ayn",
+    "name": "Pandangan ulama tentang hakikat Al-'Ayn",
     "cat_id": 5
   },
   {
     "id": 83,
     "type": "RUQYAH",
-    "name": "The Difference between the Evil Eye and Jealousy",
+    "name": "Perbedaan antara penyakit ain dan iri hati",
     "cat_id": 5
   },
   {
     "id": 84,
     "type": "RUQYAH",
-    "name": "A Jinn May Affect Man with its Evil Eye",
+    "name": "Jin dapat menimpakan penyakit ain kepada manusia",
     "cat_id": 5
   },
   {
     "id": 85,
     "type": "RUQYAH",
-    "name": "Treatment of the Evil Eye",
+    "name": "Pengobatan penyakit ain",
     "cat_id": 5
   },
   {
     "id": 86,
     "type": "RUQYAH",
-    "name": "Practical Examples of the Treatment of the Evil Eye",
+    "name": "Contoh praktik pengobatan penyakit ain",
     "cat_id": 5
   },
   {
     "id": 87,
     "type": "RUQYAH",
-    "name": "Meaning of Raaqi",
+    "name": "Arti peruqyah",
     "cat_id": 6
   },
   {
     "id": 88,
     "type": "RUQYAH",
-    "name": "Signs of a Genuine Raqi (One who is treating Patient)",
+    "name": "Tanda-tanda peruqyah sejati (orang yang mengobati pasien)",
     "cat_id": 6
   },
   {
     "id": 89,
     "type": "RUQYAH",
-    "name": "The Minimum Requirement",
+    "name": "Persyaratan minimum",
     "cat_id": 6
   },
   {
     "id": 90,
     "type": "RUQYAH",
-    "name": "The Risk",
+    "name": "Risiko",
     "cat_id": 6
   },
   {
     "id": 91,
     "type": "RUQYAH",
-    "name": "The Non-Risk",
+    "name": "Tanpa risiko",
     "cat_id": 6
   },
   {
     "id": 92,
     "type": "RUQYAH",
-    "name": "The Commitment",
+    "name": "Komitmen",
     "cat_id": 6
   },
   {
     "id": 93,
     "type": "RUQYAH",
-    "name": "The Main Intention For Becoming A Raqi",
+    "name": "Niat utama menjadi peruqyah",
     "cat_id": 6
   },
   {
     "id": 94,
     "type": "RUQYAH",
-    "name": "The Benefits Of Not Taking Money",
+    "name": "Manfaat tidak menerima uang",
     "cat_id": 6
   },
   {
     "id": 95,
     "type": "RUQYAH",
-    "name": "Being Patient And Keeping Calm With Patients",
+    "name": "Bersabar dan tetap tenang dalam menghadapi pasien",
     "cat_id": 6
   },
   {
     "id": 96,
     "type": "RUQYAH",
-    "name": "Your Studies Of The Science Of Ruqya",
+    "name": "Pembelajaran Anda tentang ilmu ruqyah",
     "cat_id": 6
   },
   {
     "id": 97,
     "type": "RUQYAH",
-    "name": "Your Protection Adhkar",
+    "name": "Zikir perlindungan Anda",
     "cat_id": 6
   },
   {
     "id": 98,
     "type": "RUQYAH",
-    "name": "Acts Of Worship & Things To Avoid For A Raqi",
+    "name": "Amalan ibadah & hal yang harus dihindari peruqyah",
     "cat_id": 6
   },
   {
     "id": 99,
     "type": "RUQYAH",
-    "name": "Things To Be Stopped Or Avoided",
+    "name": "Hal yang harus dihentikan atau dihindari",
     "cat_id": 6
   },
   {
     "id": 100,
     "type": "RUQYAH",
-    "name": "Gaining Practical Ruqyah Experience",
+    "name": "Memperoleh pengalaman praktik ruqyah",
     "cat_id": 6
   },
   {
     "id": 101,
     "type": "RUQYAH",
-    "name": "Extreme Possessing Jinn Cases",
+    "name": "Kasus kerasukan jin yang berat",
     "cat_id": 6
   },
   {
     "id": 102,
     "type": "RUQYAH",
-    "name": "Conclusion",
+    "name": "Kesimpulan",
     "cat_id": 6
   },
   {
     "id": 103,
     "type": "RUQYAH",
-    "name": "Using the Sidr Leaves",
+    "name": "Penggunaan daun Sidr",
     "cat_id": 7
   },
   {
     "id": 104,
     "type": "RUQYAH",
-    "name": "Senna",
+    "name": "Sena",
     "cat_id": 7
   },
   {
     "id": 105,
     "type": "RUQYAH",
-    "name": "Olive Oil",
+    "name": "Minyak zaitun",
     "cat_id": 7
   },
   {
     "id": 106,
     "type": "RUQYAH",
-    "name": "Ajwa dates of Madina",
+    "name": "Kurma ajwa dari Madinah",
     "cat_id": 7
   },
   {
     "id": 107,
     "type": "RUQYAH",
-    "name": "Black Seed",
+    "name": "Habbatussauda",
     "cat_id": 7
   },
   {
     "id": 108,
     "type": "RUQYAH",
-    "name": "Honey",
+    "name": "Madu",
     "cat_id": 7
   },
   {
@@ -656,325 +656,325 @@
   {
     "id": 110,
     "type": "RUQYAH",
-    "name": "How to make Ruqyah water, oil and honey etc",
+    "name": "Cara menyiapkan air, minyak, madu, dan bahan ruqyah lainnya",
     "cat_id": 7
   },
   {
     "id": 111,
     "type": "RUQYAH",
-    "name": "Hijamah",
+    "name": "Bekam",
     "cat_id": 7
   },
   {
     "id": 112,
     "type": "RUQYAH",
-    "name": "Introduction",
+    "name": "Pendahuluan",
     "cat_id": 8
   },
   {
     "id": 113,
     "type": "RUQYAH",
-    "name": "Before beginning",
+    "name": "Sebelum memulai",
     "cat_id": 8
   },
   {
     "id": 114,
     "type": "RUQYAH",
-    "name": "The following things should be kept ready",
+    "name": "Hal-hal berikut harus disiapkan",
     "cat_id": 8
   },
   {
     "id": 115,
     "type": "RUQYAH",
-    "name": "Which Surahs should be recited",
+    "name": "Surah mana yang harus dibaca",
     "cat_id": 8
   },
   {
     "id": 116,
     "type": "RUQYAH",
-    "name": "On the first three days",
+    "name": "Pada tiga hari pertama",
     "cat_id": 8
   },
   {
     "id": 117,
     "type": "RUQYAH",
-    "name": "On the fourth to seventh day",
+    "name": "Pada hari keempat hingga ketujuh",
     "cat_id": 8
   },
   {
     "id": 118,
     "type": "RUQYAH",
-    "name": "What to expect",
+    "name": "Apa yang dapat Anda alami",
     "cat_id": 8
   },
   {
     "id": 119,
     "type": "RUQYAH",
-    "name": "Introduction",
+    "name": "Pendahuluan",
     "cat_id": 9
   },
   {
     "id": 120,
     "type": "RUQYAH",
-    "name": "Ingredients",
+    "name": "Bahan-bahan",
     "cat_id": 9
   },
   {
     "id": 121,
     "type": "RUQYAH",
-    "name": "Method",
+    "name": "Cara",
     "cat_id": 9
   },
   {
     "id": 122,
     "type": "RUQYAH",
-    "name": "Important",
+    "name": "Penting",
     "cat_id": 9
   },
   {
     "id": 123,
     "type": "RUQYAH",
-    "name": "Variant of the Ruqyah bath and cleaning of the house of Jinn or Sihr",
+    "name": "Variasi mandi ruqyah dan pembersihan rumah dari jin atau sihir",
     "cat_id": 9
   },
   {
     "id": 124,
     "type": "RUQYAH",
-    "name": "Introduction",
+    "name": "Pendahuluan",
     "cat_id": 10
   },
   {
     "id": 125,
     "type": "RUQYAH",
-    "name": "Introduction",
+    "name": "Pendahuluan",
     "cat_id": 11
   },
   {
     "id": 126,
     "type": "RUQYAH",
-    "name": "The thoughts come from Shaitan",
+    "name": "Pikiran-pikiran itu berasal dari setan",
     "cat_id": 11
   },
   {
     "id": 127,
     "type": "RUQYAH",
-    "name": "Such thoughts have plagued even some of the Sahabas",
+    "name": "Pikiran seperti itu bahkan pernah mengganggu sebagian sahabat",
     "cat_id": 11
   },
   {
     "id": 128,
     "type": "RUQYAH",
-    "name": "Reject these thoughts",
+    "name": "Tolak pikiran-pikiran ini",
     "cat_id": 11
   },
   {
     "id": 129,
     "type": "RUQYAH",
-    "name": "Other means",
+    "name": "Cara lain",
     "cat_id": 11
   },
   {
     "id": 130,
     "type": "RUQYAH",
-    "name": "Overcoming addiction to pornography and \"similar addictions",
+    "name": "Mengatasi kecanduan pornografi dan \"kecanduan serupa",
     "cat_id": 12
   },
   {
     "id": 131,
     "type": "RUQYAH",
-    "name": "Jinn attacks at night",
+    "name": "Serangan jin pada malam hari",
     "cat_id": 12
   },
   {
     "id": 132,
     "type": "RUQYAH",
-    "name": "Psoriasis, eczema and other ailments",
+    "name": "Psoriasis, eksim, dan penyakit lainnya",
     "cat_id": 12
   },
   {
     "id": 133,
     "type": "RUQYAH",
-    "name": "Magic and the stomach",
+    "name": "Sihir dan perut",
     "cat_id": 12
   },
   {
     "id": 134,
     "type": "RUQYAH",
-    "name": "Unfulfilled baby desire",
+    "name": "Keinginan memiliki anak yang belum terpenuhi",
     "cat_id": 12
   },
   {
     "id": 135,
     "type": "RUQYAH",
-    "name": "Introduction",
+    "name": "Pendahuluan",
     "cat_id": 13
   },
   {
     "id": 136,
     "type": "RUQYAH",
-    "name": "Ruqyah for children",
+    "name": "Ruqyah untuk anak-anak",
     "cat_id": 13
   },
   {
     "id": 137,
     "type": "RUQYAH",
-    "name": "Ruqyah for non-Muslims",
+    "name": "Ruqyah untuk non-Muslim",
     "cat_id": 13
   },
   {
     "id": 138,
     "type": "RUQYAH",
-    "name": "The necessary patience",
+    "name": "Kesabaran yang diperlukan",
     "cat_id": 13
   },
   {
     "id": 139,
     "type": "RUQYAH",
-    "name": "Introduction",
+    "name": "Pendahuluan",
     "cat_id": 14
   },
   {
     "id": 140,
     "type": "RUQYAH",
-    "name": "Benefits of Hijama (Cupping)",
+    "name": "Manfaat hijamah (bekam)",
     "cat_id": 14
   },
   {
     "id": 141,
     "type": "RUQYAH",
-    "name": "Importance of Hijama in the Divine Guidance",
+    "name": "Pentingnya bekam dalam petunjuk Ilahi",
     "cat_id": 14
   },
   {
     "id": 142,
     "type": "RUQYAH",
-    "name": "Hijamah in the condition of strength",
+    "name": "Bekam saat tubuh sehat",
     "cat_id": 14
   },
   {
     "id": 143,
     "type": "RUQYAH",
-    "name": "Hijamah in illness",
+    "name": "Bekam saat sakit",
     "cat_id": 14
   },
   {
     "id": 144,
     "type": "RUQYAH",
-    "name": "Phlebotomy vs Hijamah",
+    "name": "Flebotomi dibandingkan dengan bekam",
     "cat_id": 14
   },
   {
     "id": 145,
     "type": "RUQYAH",
-    "name": "Guidelines for performing Hijamah",
+    "name": "Panduan melakukan bekam",
     "cat_id": 14
   },
   {
     "id": 146,
     "type": "RUQYAH",
-    "name": "General contraindications and precautions",
+    "name": "Kontraindikasi umum dan langkah kehati-hatian",
     "cat_id": 14
   },
   {
     "id": 147,
     "type": "RUQYAH",
-    "name": "Constitutions or body types",
+    "name": "Konstitusi atau tipe tubuh",
     "cat_id": 14
   },
   {
     "id": 148,
     "type": "RUQYAH",
-    "name": "8 patterns of illness",
+    "name": "8 pola penyakit",
     "cat_id": 14
   },
   {
     "id": 149,
     "type": "RUQYAH",
-    "name": "The condition of the person having Hijamah",
+    "name": "Kondisi orang yang menjalani bekam",
     "cat_id": 14
   },
   {
     "id": 150,
     "type": "VIDEO",
-    "name": "Ruqyah Full Course (Workshop)",
+    "name": "Pelatihan ruqyah lengkap (lokakarya)",
     "cat_id": 15
   },
   {
     "id": 151,
     "type": "VIDEO",
-    "name": "Jinn",
+    "name": "Jin",
     "cat_id": 15
   },
   {
     "id": 152,
     "type": "VIDEO",
-    "name": "Magic",
+    "name": "Sihir",
     "cat_id": 15
   },
   {
     "id": 153,
     "type": "VIDEO",
-    "name": "Evil Eye",
+    "name": "Penyakit ain",
     "cat_id": 15
   },
   {
     "id": 154,
     "type": "VIDEO",
-    "name": "About Raqi",
+    "name": "Tentang peruqyah",
     "cat_id": 15
   },
   {
     "id": 155,
     "type": "VIDEO",
-    "name": "About Ruqyah",
+    "name": "Tentang ruqyah",
     "cat_id": 15
   },
   {
     "id": 156,
     "type": "VIDEO",
-    "name": "Self Ruqyah",
+    "name": "Ruqyah mandiri",
     "cat_id": 15
   },
   {
     "id": 157,
     "type": "VIDEO",
-    "name": "Destroy Taweez",
+    "name": "Hancurkan jimat",
     "cat_id": 15
   },
   {
     "id": 158,
     "type": "VIDEO",
-    "name": "Ruqya Info",
+    "name": "Informasi ruqyah",
     "cat_id": 15
   },
   {
     "id": 159,
     "type": "VIDEO",
-    "name": "Waswasa",
+    "name": "Waswas",
     "cat_id": 15
   },
   {
     "id": 160,
     "type": "VIDEO",
-    "name": "Ruqyah Q&A",
+    "name": "Tanya jawab tentang ruqyah",
     "cat_id": 15
   },
   {
     "id": 161,
     "type": "VIDEO",
-    "name": "Ruqyah Audios",
+    "name": "Audio ruqyah",
     "cat_id": 15
   },
   {
     "id": 162,
     "type": "VIDEO",
-    "name": "Diaries of an Exorcist",
+    "name": "Catatan harian seorang pengusir jin",
     "cat_id": 15
   },
   {
     "id": 163,
     "type": "VIDEO",
-    "name": "Mixed Videos",
+    "name": "Aneka video",
     "cat_id": 15
   }
 ]
