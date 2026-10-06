@@ -1600,3 +1600,14 @@ checked, plus the nested JSON inside `duas.groups`.
 - References: not applicable (no reference/transliteration fields). Validation passed: JSON, unique keys/IDs, exact source-ID coverage, count/ID sequence, row/key order, types, protected values, null/empty preservation; only ID 49 name changed from task backup. No Bengali or unintended English added.
 - Node.js reproduced unchanged Python rebuild procedure because Python unavailable. All 15 tables / 3082 rows, including 163 ruqyah_subcategories rows, verified value by value against JSON; schema SQL, sequences and pragmas verified; reopened integrity_check ok. SHA-256 confirms other translation files, English DB, Indonesian metadata and rebuild script unchanged.
 - Required status files updated only; task helper, backup and verification database removed. No staging, commit, push or branch switch.
+
+### Indonesian completed: `dua_main_id_planned_json/tables/sections/sections_001.json`
+
+- Status: `pending` → `complete`; completed on `2026-10-06`.
+- Actual records translated and independently reviewed: 21. Composite source keys: book_id 1 / IDs 1-9; book_id 2 / IDs 1-12. Duplicate raw IDs are intentional in the source; all 21 composite keys unique.
+- Translated fields: `name` only (21 non-null, non-empty values). References: not applicable; no reference/transliteration fields.
+- Exact English sections matched by `(id, book_id)`; English books and related book_details consulted read-only. All headings independently reviewed for meaning, qualifiers, alternatives, negation, sequence, natural Indonesian, spelling and grammar. Book 2 / ID 8 wiping target confirmed by detail 199. No unresolved heading ambiguities or Bengali. Source book title says Eleven Ways while sections include twelve entries; source organization retained. No explanations invented.
+- Validation passed: valid JSON, unique keys/composite IDs, count/order, exact English coverage, field order/types, null/empty preservation, all protected fields against backup and HEAD, two-space UTF-8 formatting and trailing newline. Only name values changed.
+- Node.js reproduced unchanged documented Python rebuild procedure because Python launcher inaccessible. Reopened integrity_check: ok. All 15 tables / 3082 rows verified value by value against current JSON, including 21 sections rows. Schema SQL, table inventory, sqlite_sequence, application_id and user_version verified.
+- SHA-256 verified all other pre-existing files unchanged except required plan and exact Japanese metadata work_status entry; other metadata entries and schema unchanged. Initial Git status clean; current branch preserved.
+- Cleanup: task helper, backup, baseline, results and verification database removed. No staging, commit, push or branch switch.

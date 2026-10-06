@@ -4193,6 +4193,38 @@
         "validation": "163 records, IDs 1-163. JSON, unique keys/IDs, exact English ID coverage, row/key order, field types, nullness and every protected value passed. Only ID 49 name changed from task backup. All 15 database tables / 3082 rows / 163 ruqyah_subcategories rows compared value by value with JSON; schema SQL, sequences and pragmas verified; reopened integrity_check ok. Node.js reproduced unchanged documented rebuild procedure because Python unavailable. All other translation files unchanged by SHA-256.",
         "cleanup": "Task helper, backup and verification database removed; no staging, commit, push or branch switch."
       }
+    },
+    "dua_main_id_planned_json/tables/sections/sections_001.json": {
+      "language": "Indonesian",
+      "status": "complete",
+      "previous_status": "pending",
+      "updated_at": "2026-10-06",
+      "rows": 21,
+      "id_range": "book_id 1: IDs 1-9; book_id 2: IDs 1-12",
+      "translated_fields": [
+        "name"
+      ],
+      "reference_status": "Not applicable: no reference or transliteration fields.",
+      "review": "All 21 headings independently reviewed against exact English composite (id,book_id) keys; related English books and book_details read-only. No unresolved source-heading ambiguities. Blowing/spitting, alternatives, sequence, permission and without preserved. No Bengali remains.",
+      "verification": "Valid JSON, unique keys/composite IDs, exact source coverage, record/key order, protected fields against backup and HEAD, types, nulls, empty values and formatting passed. Node.js reproduced unchanged Python rebuild procedure because Python launcher inaccessible. All 15 reconstructed tables and 3082 rows compared value by value with current JSON; reopened integrity_check ok; schema SQL, sequences and pragmas verified.",
+      "database_counts": {
+        "categories": 44,
+        "subcategories": 118,
+        "dua_infos": 42,
+        "duas": 1001,
+        "ruqyah_categories": 15,
+        "ruqyah_details": 200,
+        "ruqyah_instants": 308,
+        "sections": 21,
+        "ruqyah_subcategories": 163,
+        "books": 3,
+        "book_details": 86,
+        "ids": 1001,
+        "ruqyah_videos": 74,
+        "drawer_items": 6,
+        "drawer_item_actions": 0
+      },
+      "cleanup": "Task helpers, backup, baseline and verification database removed after verification. No staging, commit, push or branch switch."
     }
   }
 }

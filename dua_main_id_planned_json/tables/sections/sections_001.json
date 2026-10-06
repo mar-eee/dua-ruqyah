@@ -2,106 +2,106 @@
   {
     "id": 1,
     "book_id": 1,
-    "name": "Introduction"
+    "name": "Pendahuluan"
   },
   {
     "id": 2,
     "book_id": 1,
-    "name": "Supplication"
+    "name": "Doa"
   },
   {
     "id": 3,
     "book_id": 1,
-    "name": "The Meanings Of The Word Du'a"
+    "name": "Berbagai makna kata doa"
   },
   {
     "id": 4,
     "book_id": 1,
-    "name": "Supplication And Fate"
+    "name": "Doa dan takdir"
   },
   {
     "id": 5,
     "book_id": 1,
-    "name": "How To Supplicate"
+    "name": "Cara berdoa"
   },
   {
     "id": 6,
     "book_id": 1,
-    "name": "Conditions Of Supplication"
+    "name": "Syarat-syarat berdoa"
   },
   {
     "id": 7,
     "book_id": 1,
-    "name": "Manners Of Du'a"
+    "name": "Adab berdoa"
   },
   {
     "id": 8,
     "book_id": 1,
-    "name": "Optimum Times For Du'a"
+    "name": "Waktu-waktu terbaik untuk berdoa"
   },
   {
     "id": 9,
     "book_id": 1,
-    "name": "Recommended Supplications In Various Situations"
+    "name": "Doa-doa yang dianjurkan dalam berbagai keadaan"
   },
   {
     "id": 1,
     "book_id": 2,
-    "name": "Introduction"
+    "name": "Pendahuluan"
   },
   {
     "id": 2,
     "book_id": 2,
-    "name": "By Blowing into your Cupped Hands and Reciting"
+    "name": "Meniup ke kedua telapak tangan yang ditangkupkan dan membaca bacaan ruqyah"
   },
   {
     "id": 3,
     "book_id": 2,
-    "name": "Spitting or Blowing on the Place where you Feel the pain"
+    "name": "Meludah atau meniup pada bagian yang terasa sakit"
   },
   {
     "id": 4,
     "book_id": 2,
-    "name": "Recite Qur'an over some Water and Blow into it, then Drink it and Bathe from it"
+    "name": "Bacalah Al-Qur'an pada air dan tiupkan ke dalamnya, lalu minumlah air itu dan gunakan untuk mandi"
   },
   {
     "id": 5,
     "book_id": 2,
-    "name": "Recite over some Olive Oil, Blow on it—then Rub or Massage it onto your Skin"
+    "name": "Bacakan ruqyah pada minyak zaitun, tiupkan padanya—lalu oleskan atau pijatkan minyak itu pada kulit Anda"
   },
   {
     "id": 6,
     "book_id": 2,
-    "name": "Place a Hand on the Place of Pain and make Du'a"
+    "name": "Letakkan tangan pada bagian yang sakit dan berdoalah"
   },
   {
     "id": 7,
     "book_id": 2,
-    "name": "Supplicating whilst Performing Ruqyah on Yourself"
+    "name": "Berdoa saat meruqyah diri sendiri"
   },
   {
     "id": 8,
     "book_id": 2,
-    "name": "Mixing some Earth with Saliva and Wipe the Afflicted"
+    "name": "Mencampurkan sedikit tanah dengan air liur dan mengusapkannya pada orang yang sakit"
   },
   {
     "id": 9,
     "book_id": 2,
-    "name": "It is Permissible to Blow when making Ruqyah Before Reciting, whilst Reciting or after Reciting"
+    "name": "Boleh meniup saat melakukan ruqyah sebelum membaca, saat membaca, atau setelah membaca"
   },
   {
     "id": 10,
     "book_id": 2,
-    "name": "Ruqyah can be done Without Spitting or Blowing"
+    "name": "Ruqyah dapat dilakukan tanpa meludah atau meniup"
   },
   {
     "id": 11,
     "book_id": 2,
-    "name": "Giving in Sadaqah, and Helping the Needy and Poor Muslims"
+    "name": "Bersedekah serta membantu umat Islam yang membutuhkan dan yang miskin"
   },
   {
     "id": 12,
     "book_id": 2,
-    "name": "Prophetic and Natural Remedies"
+    "name": "Pengobatan yang diajarkan Nabi dan pengobatan alami"
   }
 ]
